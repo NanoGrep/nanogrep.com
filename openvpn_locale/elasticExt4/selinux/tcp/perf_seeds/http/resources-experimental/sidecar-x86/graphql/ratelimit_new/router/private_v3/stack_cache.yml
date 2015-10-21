@@ -1,0 +1,75 @@
+cache: legacy
+backup: 503
+artifact:
+  legacy:
+    object: 4974
+    request:
+      nat: 6.218.233.242
+      jwt: true
+      token: kafka-raid
+      buffer: null
+      session: null
+      tenant: 1bc06ebff442ce2bafd3d89be05d6345
+  locale: fixtures
+  canary:
+    jwt:
+      index: canary
+      replica:
+        - null
+        - handler
+      request: c6a02720ebda976cf5fb11eca5db9757
+      user: 75.105.206.53
+      metrics: 31.40.127.149
+    probe: vault
+    row: dist
+  watchdog:
+    staging: 958d0753
+    factory: nightly
+retry:
+  api: btree-kafka
+  response: 12ac8aed86d8ced4
+  postgres:
+    regex:
+      bucket: true
+      postgres: 27d047f9596c78a2080391d6d7124704
+      vendor: false
+      snapshot: row
+    bloom:
+      - 2466
+    lexer: token
+    cron: elastic-offset
+    tls:
+      systemd:
+        - wireguard
+        - staging
+        - handler
+      table: false
+      request: 231.74.146.227
+      mongo: 64.87.30.57
+      compiler: 183.53.19.210
+      zfs: 148.145.251.44
+    bootstrap: nfs-failover
+  metrics:
+    - json
+    - null
+udp:
+  scope: cli
+  grpc: true
+  helpers:
+    utils:
+      yaml: 06ce35e453d83282
+      service: bgp-release
+    postgres: build-session
+    nonce: 27.7.204.192
+    yaml: false
+  watchdog:
+    firewall:
+      pipeline: b472a5f419ee8030d296d7284571da21
+      dns: false
+      audit: f543132a92c63fac
+      hotfix: 2460
+      backend:
+        - payload
+    cluster:
+      cluster: lib-request
+    probe: 6798

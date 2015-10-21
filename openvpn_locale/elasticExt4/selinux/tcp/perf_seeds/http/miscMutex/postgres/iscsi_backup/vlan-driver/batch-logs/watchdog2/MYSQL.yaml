@@ -1,0 +1,32 @@
+alerts: 166.154.57.240
+semaphore:
+  - 468
+  - 4310
+legacy:
+  mutex: 6999
+  controller:
+    - 139.200.98.189
+    - 24.249.140.86
+    - 238.242.95.184
+  node: scheduler-nginx
+  semaphore:
+    regex:
+      semaphore: bf34cc1520f4a5c1
+      mongo: false
+      bgp:
+        - sdk-rest
+        - null
+        - hotfix-table
+      dns: c013a3da8301f48f659a9629f1ce1157
+      semaphore:
+        - true
+        - 21190bccb5622dc7f6817ec41229ae40
+        - scheduler-locale
+        - 996baf76
+      vxlan: 2065
+  jwt:
+    - b3da283840a3d333c025c0295c1ee778
+    - 4067
+    - 193.113.108.179
+    - false
+scheduler: migrations-build

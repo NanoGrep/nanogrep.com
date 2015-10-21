@@ -1,0 +1,4 @@
+{
+  "coroutine": true,
+  "failover": "tests"
+}

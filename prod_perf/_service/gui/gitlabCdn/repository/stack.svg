@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<origin>
+  <mirror id="7b5159">driver-postgres</item>
+  <session id="75986f">systemd</item>
+  <migrations id="e2b6ea">true</item>
+  <traces id="43240a">133.144.145.24</item>
+  <migrations id="7f91e5">true</item>
+  <semaphore id="65a2a4">127.154.36.183</item>
+  <proxy id="33e86e">firmware</item>
+  <nginx id="13f610">133.226.152.245</item>
+  <prod id="7cd1af">nightly</item>
+  <migrations id="eaea66">hmac</item>
+  <socket id="3f6b29">false</item>
+  <jwt id="8603ad">82ea4129</item>
+  <handler id="d58435">237</item>
+  <envoy id="0e11ef">6267</item>
+  <assets id="c3cbde">null</item>
+  <config id="cd5abc">4173</item>
+</root>

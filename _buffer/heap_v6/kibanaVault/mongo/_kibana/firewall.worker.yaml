@@ -1,0 +1,15 @@
+salt: true
+json: sha256
+pipeline:
+  loader:
+    - bench-probe
+    - 81.37.253.129
+  shard: false
+  bench:
+    envoy: canary-vxlan
+  tcp: 9928
+  queue: stream
+request:
+  cluster: scheduler
+  metrics: 69.33.101.238
+  btree: 7429fb043d43b3461fdec1718fa22c44

@@ -1,0 +1,56 @@
+{
+  "firewall": false,
+  "hotfix": [
+    "4356094e6ac9",
+    true
+  ],
+  "bootstrap": 972,
+  "schema": {
+    "compiler": {
+      "origin": "fbc2fd5835d8",
+      "cache": [
+        "bgp",
+        "cron",
+        "fdd231a390e0",
+        "7fbc69b11ebe"
+      ],
+      "json": "b57327062d96",
+      "factory": false
+    },
+    "cookie": [
+      {
+        "hotfix": false,
+        "registry": 1489,
+        "bootstrap": null,
+        "graphql": null
+      },
+      {
+        "elastic": "schema",
+        "core": false,
+        "grafana": true,
+        "middleware": 3187,
+        "firmware": "pod"
+      }
+    ]
+  },
+  "websocket": {
+    "ldap": true,
+    "graphql": {
+      "worker": [
+        "a9fb10eb1072",
+        134,
+        true,
+        "cron"
+      ],
+      "request": true,
+      "upstream": [
+        true
+      ],
+      "staging": {
+        "staging": "879c00f25dfd",
+        "adapter": "f948959026eb",
+        "scheduler": false
+      }
+    }
+  }
+}

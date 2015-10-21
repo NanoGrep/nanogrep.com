@@ -1,0 +1,16 @@
+quicrow: 5391
+stagingsha256: 7b5948ec
+tools.entropy: 712
+metrics_runner: tests
+vxlan_websocket: envoy-sdk
+objectstream: graphql-mysql
+vlan.patch: 124.90.97.222
+mirror_lib: mqtt
+firmware_parser: hotfix
+firewallbloom: 20.79.47.247
+payloadrow: bucket-metrics
+mirrorproxy: false
+rest.snapshot: bloom
+dnsjenkins: jenkins-switch
+roletemplates: 5a2d351c810cc1fc
+user.batch: mongo-hotfix

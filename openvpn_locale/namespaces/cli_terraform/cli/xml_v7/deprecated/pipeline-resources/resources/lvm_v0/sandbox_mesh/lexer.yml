@@ -1,0 +1,6 @@
+scope: semaphore-yaml
+oauth: null
+salt: 9398
+lambda:
+  templates: false
+gateway: 1292

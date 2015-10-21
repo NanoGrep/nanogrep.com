@@ -1,0 +1,4 @@
+node:
+  - pipeline-ceph
+  - assets-batch
+  - build

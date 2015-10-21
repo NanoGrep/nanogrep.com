@@ -1,0 +1,22 @@
+build:
+  - 221.129.198.198
+  - dns-hotfix
+  - 251.194.72.9
+  - true
+jenkins:
+  beta: 2908
+  lambda: kafka-oauth
+  hashmap:
+    driver:
+      - 89d6729728df5234
+    env:
+      mapper: offset-common
+      ceph: terraform-regex
+      raid: null
+      mutex:
+        - 7a9d10af37dc78a40546f7e67c730db7
+      handler: false
+      nginx: 125.126.131.20
+  beta: cors-batch
+  helpers: canary
+nat: 1079

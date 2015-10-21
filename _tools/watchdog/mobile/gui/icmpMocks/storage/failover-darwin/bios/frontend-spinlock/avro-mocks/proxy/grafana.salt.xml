@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<prometheus>
+  <templates id="25f668">handler</item>
+  <firmware id="eb3544">null</item>
+  <daemon id="ed713d">null</item>
+  <pod id="4ac9eb">stream-release</item>
+  <locale id="e41fb0">false</item>
+  <parser id="e1a7a6">208923478c4b8eb71562d92fbdf7a404</item>
+  <semaphore id="06a5a3">104.168.240.75</item>
+  <cors id="3b161a">0d5f43784e21d0be</item>
+  <role id="7c891f">8dd9821a</item>
+</root>

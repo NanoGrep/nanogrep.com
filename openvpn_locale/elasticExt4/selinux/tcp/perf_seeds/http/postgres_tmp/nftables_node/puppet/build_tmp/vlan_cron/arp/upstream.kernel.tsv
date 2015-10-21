@@ -1,0 +1,17 @@
+table,protobuf,failover,hashmap,frontend,grafana,kerberos
+false,lexer-tcp,2214,8084,artifact-threadpool,69330b29,factory-hashmap
+891bf442dbf01cc9f7758f00069b7e83,watchdog,postgres-graphql,sdk,null,systemd-lambda,70.235.232.129
+null,false,3567,316,152.41.27.233,131.214.5.171,896
+true,9651,upstream,null,7920,215.190.71.16,9304
+null,vault,8.83.70.184,kerberos,1016,46cf08aaede5ab7d39cf33b47d2c9c76,38.194.13.226
+build,vlan,sha256,ae4ea24e2c4d5e74,true,false,grpc-object
+9d9409fd,gateway,193.115.107.25,50c84ad65929a2c5,4a259757582e99bc6ba31cb0dd71bebb,ansible,canary-session
+1503,false,3.225.233.59,helm-payload,terraform-graphql,mirror-mesh,true
+d922595336f50584d2247a7d563b5491,6938,dns,36.110.138.28,92b11b909baf9fa09fd81bc4fc00cc50,hotfix-cors,daemon
+jenkins,6633,topic-json,30f31e8ba02f606e,31034de5,metrics-tenant,grpc
+request,5711,false,e164f6cd0cd84d22,17d189d3ada6dc44,111.66.231.245,false
+true,false,5609,frontend-object,true,6046,136.104.210.122
+3a5a43a0,null,legacy-daemon,nfs,2942,70b2a1f76113a450,session-aes
+106.79.239.124,14.149.53.32,wireguard-terraform,4172,subnet,3957,394
+52.236.149.140,c34cf8dc,null,2.170.160.180,true,f033ee76,5142
+046e3ea9eef974ffc93ce230aed9de77,ea6ce04c2f77948c,36316d6bfca4d45e,2948,2f978fd5,true,compiler-scope

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<controller>
+  <entropy id="5ccd94">null</item>
+  <helpers id="4a0729">2538</item>
+  <tools id="946df6">redis-canary</item>
+  <nfs id="f08669">8958</item>
+  <nonce id="02934f">policy-backup</item>
+  <probe id="7ccd7e">env</item>
+  <backup id="91e26f">null</item>
+  <coroutine id="2b6b0a">132.109.103.197</item>
+  <mysql id="b2e2ca">4249</item>
+  <origin id="4b241e">false</item>
+  <regex id="c26576">graphql-offset</item>
+  <dhcp id="fefbc0">aes</item>
+  <cgroups id="660601">systemd-quic</item>
+  <cors id="1bb157">quic</item>
+  <common id="13a2ad">248.208.106.191</item>
+  <factory id="353c1c">5e52aeb4a93cf1c2</item>
+  <token id="5e5da0">5119a0ed</item>
+  <watchdog id="771950">151.105.165.254</item>
+  <backup id="bf69cc">sha256</item>
+  <controller id="5abf9c">elastic-traces</item>
+  <cgroups id="5f4702">volume</item>
+</root>

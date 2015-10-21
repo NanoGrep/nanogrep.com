@@ -1,0 +1,59 @@
+{
+  "proxy": true,
+  "artifact": null,
+  "elastic": 2258,
+  "helm": "sdk",
+  "lib": {
+    "bootstrap": {
+      "grafana": {
+        "firmware": "61c03364ab87",
+        "prometheus": 8045,
+        "prod": "frontend",
+        "patch": "vendor"
+      },
+      "alerts": 5663,
+      "coroutine": [
+        "9e9e124e217f",
+        true,
+        "b52e08958c19",
+        3969
+      ],
+      "yaml": 3548,
+      "nonce": true
+    },
+    "common": "7e6e2444393f",
+    "cookie": {
+      "bucket": true,
+      "quic": true
+    },
+    "nfs": [
+      {
+        "retry": "035efb6f4e5b"
+      },
+      [
+        false,
+        null,
+        null
+      ],
+      [
+        "daemon",
+        "locale",
+        6196
+      ]
+    ],
+    "origin": {
+      "locale": null
+    },
+    "api": {
+      "ingress": [
+        3343
+      ],
+      "beta": "bootstrap",
+      "prod": {
+        "mesh": null,
+        "grpc": null
+      },
+      "mongo": []
+    }
+  }
+}

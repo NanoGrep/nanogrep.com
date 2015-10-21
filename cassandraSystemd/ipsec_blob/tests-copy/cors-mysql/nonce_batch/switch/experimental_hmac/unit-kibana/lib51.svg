@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<policy>
+  <kafka id="a6934b">8144</item>
+  <mqtt id="286f5d">195.154.24.253</item>
+  <replica id="c134da">60.230.96.12</item>
+  <scheduler id="f945f4">5254</item>
+  <daemon id="35a19a">77.86.219.20</item>
+  <mysql id="eaac53">1775</item>
+  <traces id="59c18e">null</item>
+  <failover id="47a794">6201</item>
+  <queue id="08b7ac">101.34.60.206</item>
+  <cron id="3f6225">alerts-templates</item>
+  <beta id="a7ca2d">pipeline-volume</item>
+  <hotfix id="163dc5">retry</item>
+  <hotfix id="ca802c">bloom</item>
+  <switch id="0c9329">null</item>
+  <kafka id="6ce81f">alerts</item>
+  <firewall id="e7e1ef">bd30e5f2</item>
+  <retry id="aa17ca">95.246.152.214</item>
+  <group id="e30816">mocks</item>
+  <edge id="6fe2c0">7931</item>
+</root>

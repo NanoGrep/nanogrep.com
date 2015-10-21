@@ -1,0 +1,12 @@
+worker,daemon,watchdog,upstream,ldap
+bgp,gateway,null,socket-role,true
+canary,response-prod,mesh-regex,redis,6108
+router-vxlan,rollback,3589,true,cursor-templates
+7469,cc5743fb,pipeline,248326d4f739f81dfb0f8608fa66f05a,11178f2f
+null,2447,2a1b92ea0200b28e,buffer-shard,tests-http
+false,false,bench-buffer,2010,null
+controller,schema,stack-dist,3903,cli
+utils-parser,76.89.29.171,true,frontend-audit,sha256-canary
+kerberos-traces,websocket,102.73.220.70,request,9800
+9825,false,9624,config-batch,postgres
+4648c64ecb86e404d2ce68bc1a2824b7,220.207.231.20,false,null,123.134.208.138

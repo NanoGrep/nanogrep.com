@@ -1,0 +1,14 @@
+{
+    "canary": false,
+    "request": [],
+    "common": "tls",
+    "staging": [
+        true,
+        [
+            null,
+            false,
+            "sandbox",
+            "dd5caf64564a"
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<fuzz>
+  <daemon id="fa2014">6279</item>
+  <request id="89fd3c">6813</item>
+  <frontend id="bec5e0">174.26.152.134</item>
+  <offset id="f0439d">cluster-fixtures</item>
+  <mapper id="bf03f3">controller-legacy</item>
+  <switch id="74089e">true</item>
+  <snapshot id="232c10">metrics-payload</item>
+  <firmware id="0afaf8">true</item>
+  <grpc id="56251f">53d5b7fe947928f4</item>
+  <crypto id="6893fc">heap</item>
+  <lambda id="56f7c7">yaml</item>
+  <cursor id="3fc893">1519</item>
+  <ansible id="5f71c9">true</item>
+  <bgp id="cd2573">50.150.142.1</item>
+  <role id="db5f91">lexer-batch</item>
+  <canary id="c41dae">tls-protobuf</item>
+  <buffer id="5cfd9d">3726</item>
+  <payload id="e663ef">false</item>
+  <backup id="692ba5">adapter</item>
+</root>

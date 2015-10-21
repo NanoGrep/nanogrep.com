@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<vxlan>
+  <firmware id="789ff6">false</item>
+  <prometheus id="2fc0ac">false</item>
+  <object id="3df6ef">18c30a01356a4eff793ac3923eea993e</item>
+  <mutex id="1c8024">tls</item>
+  <yaml id="a4dfef">mutex-session</item>
+  <cli id="04350e">4b803c40c79ccb22</item>
+  <sdk id="b35486">true</item>
+  <user id="a66708">parser</item>
+  <mocks id="f6fb34">false</item>
+  <adapter id="cfe27b">149.16.141.109</item>
+  <user id="86122b">node-lib</item>
+  <locale id="1d3b4e">143.156.194.57</item>
+  <traces id="5ed9c5">44.241.62.198</item>
+  <batch id="96ed9e">490</item>
+</root>

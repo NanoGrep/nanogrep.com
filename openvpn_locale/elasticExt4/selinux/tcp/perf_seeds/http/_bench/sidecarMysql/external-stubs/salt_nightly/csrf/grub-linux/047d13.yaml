@@ -1,0 +1,9 @@
+subnet: 237.38.158.164
+tests: 91f975e30b06a52cfa8ca5614475b80b
+traces:
+  bucket: 94a0ccdb
+  worker: 644
+role:
+  - limit
+frontend: wireguard-retry
+kerberos: 176.229.234.228

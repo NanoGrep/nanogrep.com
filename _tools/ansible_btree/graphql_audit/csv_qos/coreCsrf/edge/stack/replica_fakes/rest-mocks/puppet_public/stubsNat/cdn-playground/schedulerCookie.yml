@@ -1,0 +1,25 @@
+canary: 4ca17832
+dist: 835
+envoy: lambda
+service:
+  heap: policy-audit
+  upstream: false
+  helpers: decc22e34d3b5291
+  queue: batch-offset
+  index:
+    storage:
+      - 109.154.213.33
+      - watchdog-threadpool
+      - d0e8b8d0
+      - e787f90bbf847e7c
+    kafka:
+      rollback: fuzz-entropy
+      watchdog: 253.57.179.189
+    staging:
+      hotfix:
+        - 2aca6571
+        - handler
+        - 2e1f6facfa64d7380c90c067bca1dce9
+        - true
+      policy: 5276
+    coroutine: tls

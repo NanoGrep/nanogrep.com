@@ -1,0 +1,12 @@
+sdk: 9e3c126cfe4c3a90f5c1aefd22be8c2e
+patch: 65.36.54.224
+locale:
+  - 10.17.211.192
+  - lib
+  - helpers
+cli:
+  - core
+  - false
+  - f4e79443f42c5e2d29b9607273e445bd
+controller: eeb5641332f07b8d63c1e27530809812
+lexer: socket-mqtt

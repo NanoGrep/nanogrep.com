@@ -1,0 +1,10 @@
+{
+  "middleware": "kerberos",
+  "group": "76f037e28a07",
+  "coroutine": "jwt",
+  "firmware": [
+    "tenant",
+    "c6227b091ea8",
+    "f67ac4b829fc"
+  ]
+}

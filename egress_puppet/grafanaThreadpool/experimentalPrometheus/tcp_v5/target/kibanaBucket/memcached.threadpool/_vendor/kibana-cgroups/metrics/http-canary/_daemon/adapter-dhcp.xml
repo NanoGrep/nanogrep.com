@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<schema>
+  <tcp id="64f4f3">193.251.73.233</item>
+  <adapter id="1f0a94">probe-bootstrap</item>
+  <elastic id="83933d">prometheus</item>
+  <firmware id="4571de">226.249.165.211</item>
+  <probe id="be7071">148.135.191.2</item>
+  <wireguard id="da7021">1949a1e7</item>
+  <systemd id="93dbdf">9048</item>
+  <mapper id="cdcc31">210.68.206.190</item>
+  <udp id="e5eb4d">94aea21b</item>
+  <tools id="706f14">6f6863b82b23c5acc2c3deb39ebd4343</item>
+  <zfs id="8afaec">false</item>
+  <volume id="0eb015">51.122.240.197</item>
+  <cron id="54217a">logs</item>
+  <index id="e7d8a7">142.3.165.1</item>
+  <parser id="aed728">fixtures-cursor</item>
+  <payload id="f2e04b">tests</item>
+</root>

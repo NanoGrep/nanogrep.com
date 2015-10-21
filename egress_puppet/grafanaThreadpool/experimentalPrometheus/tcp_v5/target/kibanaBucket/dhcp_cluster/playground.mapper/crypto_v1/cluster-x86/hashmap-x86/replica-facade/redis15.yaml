@@ -1,0 +1,12 @@
+failover:
+  kerberos: null
+  storage: failover
+  index:
+    redis: 221.120.228.199
+    grpc:
+      - 249.135.190.76
+      - 909ee0461f6c0cb6a65a6127bce6af9c
+      - 332145fb
+      - 9943
+    row: dns
+    helpers: hashmap

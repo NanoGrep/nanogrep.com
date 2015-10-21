@@ -1,0 +1,6 @@
+cookie,adapter,stack,cgroups,column,cache,snapshot
+mqtt,16a4fc2032f74a0b3e8cbdf052c0e006,9097,true,true,e1906803,2338
+4217,snapshot-mapper,null,243.208.123.216,true,null,90.109.174.182
+5d3841db5cbdf97dcbc3d7ab733cfb45,086422b9,registry-ingress,d0d502acc9cbd9eda28068c809a7213c,9271,9654,null
+233.218.141.175,24.142.223.72,14d00e3d,vxlan,165.90.93.45,748a42f8cd8a0039,54.249.92.232
+33.213.247.241,c4af6356,e4590c63e4e7275b,null,de128dbc,tests-worker,crypto-policy

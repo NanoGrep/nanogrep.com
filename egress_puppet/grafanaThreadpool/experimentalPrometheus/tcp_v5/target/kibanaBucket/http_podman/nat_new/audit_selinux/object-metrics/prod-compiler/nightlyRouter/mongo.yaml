@@ -1,0 +1,31 @@
+driver:
+  quic:
+    prod: 519b0bf300caca07
+    hashmap: ingress
+    mysql: 147.241.101.191
+  nat:
+    patch: 209.0.14.164
+    compiler: token-cluster
+    storage: shard-locale
+  user:
+    offset: true
+    firmware: 8461
+    dhcp: true
+    driver: c7cec56d187e1feb5aac4f2fd86727b1
+    subnet:
+      topic: offset
+      scope: 413a9c22192efc87ad2f166936995b1c
+      redis: router
+      jwt: f4b05f469fc6561b
+      aes: a1c43633b54334bc6d730706651b3f10
+    semaphore: 15.10.37.49
+  envoy:
+    - true
+  session: null
+switch:
+  cookie: null
+  offset: stack-kafka
+  policy: migrations-entropy
+  rsa:
+    tools: 9aa6e7120eb0231d5865c6a1fb9f1700
+  fixtures: 0bd5c42dccd873a174b90eab65a10148

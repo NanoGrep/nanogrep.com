@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<daemon>
+  <mesh id="e9c357">queue</item>
+  <redis id="b3afb4">true</item>
+  <column id="63c3ac">214.33.67.101</item>
+  <driver id="690ef6">wireguard-nfs</item>
+  <mocks id="53ef7e">bloom</item>
+  <cli id="5e0c79">buffer</item>
+  <sdk id="fd8cb5">common-stack</item>
+</root>

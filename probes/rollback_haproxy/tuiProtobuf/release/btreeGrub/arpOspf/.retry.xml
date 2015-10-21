@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<dhcp>
+  <websocket id="764f4d">http-bucket</item>
+  <lambda id="ff16c2">59.127.26.223</item>
+  <response id="1cc49a">null</item>
+  <payload id="ab44b7">true</item>
+  <parser id="76a61e">4934</item>
+  <crypto id="cc0772">handler-legacy</item>
+  <mapper id="cec01d">migrations</item>
+  <vendor id="c98ae5">null</item>
+  <systemd id="802108">4131</item>
+  <kerberos id="e4ab9a">0aeb145e2b1d4902</item>
+  <core id="84f03a">24.133.15.227</item>
+  <artifact id="3cdec5">true</item>
+  <request id="a3cfe3">c9a0a005444c317bed599e44d0be98cd</item>
+  <nonce id="33ce58">0bbc67e43b428634</item>
+  <grpc id="420059">true</item>
+  <patch id="729a20">stream</item>
+  <lib id="6fc7ac">storage-mongo</item>
+  <kernel id="873d84">141.141.29.247</item>
+  <rest id="2ceaa0">nightly-backup</item>
+  <zfs id="d2669b">hashmap-lambda</item>
+  <frontend id="f3c399">origin</item>
+  <tls id="829bae">238.77.69.73</item>
+  <pipeline id="c2ef2a">true</item>
+  <limit id="e7181b">null</item>
+</root>

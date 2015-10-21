@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<firmware>
+  <api id="30d316">redis</item>
+  <adapter id="41dfd9">salt-lib</item>
+  <rsa id="1b1244">logs-hashmap</item>
+  <mqtt id="05bb0c">staging-edge</item>
+  <cron id="45d5b6">06d86e73</item>
+  <semaphore id="9d7006">graphql-backup</item>
+</root>

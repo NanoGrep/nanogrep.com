@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<frontend>
+  <firewall id="f25cbd">91.169.245.67</item>
+  <websocket id="a7d7e2">99.66.201.12</item>
+  <dist id="6f3513">true</item>
+  <failover id="3ea89f">response-metrics</item>
+  <mocks id="e68cb5">factory-crypto</item>
+  <protobuf id="89a50a">84814d84</item>
+  <pipeline id="bb6afe">8263</item>
+  <dns id="42e8d4">true</item>
+  <frontend id="ca563f">124.153.118.23</item>
+  <role id="46183d">true</item>
+  <mirror id="4e604d">false</item>
+  <gateway id="9e65d5">dns</item>
+  <tools id="4d8703">false</item>
+  <protobuf id="5129e9">wireguard</item>
+  <adapter id="f2d35d">eb946efe71f395ac15bcf1eb8947ce23</item>
+  <cgroups id="612ac6">nfs-stack</item>
+  <quic id="ff454c">120.130.27.221</item>
+  <node id="204dac">config-vendor</item>
+</root>

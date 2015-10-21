@@ -1,0 +1,112 @@
+{
+  "driver": {
+    "service": [
+      [],
+      {
+        "entropy": true,
+        "index": true
+      }
+    ],
+    "raid": 6099,
+    "entropy": {
+      "traces": [],
+      "factory": {
+        "router": "json",
+        "vendor": 7576
+      },
+      "api": {
+        "traces": "a8c8e75a9a17",
+        "tests": true,
+        "session": false,
+        "staging": 8129,
+        "sha256": 8472
+      },
+      "dist": null,
+      "cors": true,
+      "bootstrap": {
+        "audit": false,
+        "cli": null,
+        "json": "prod",
+        "gateway": "kafka"
+      }
+    },
+    "node": 6409
+  },
+  "subnet": {
+    "sdk": [],
+    "terraform": [],
+    "cors": {
+      "artifact": {
+        "frontend": 3258,
+        "systemd": true,
+        "service": "8d65f4d989f7"
+      },
+      "aes": {
+        "worker": true,
+        "runner": null,
+        "websocket": "object",
+        "daemon": 7996,
+        "nginx": "d744463e66ba",
+        "tools": "24e4679768ac"
+      },
+      "limit": {
+        "utils": 1752
+      }
+    },
+    "node": {
+      "row": true,
+      "cli": {
+        "alerts": null,
+        "staging": true,
+        "fixtures": false,
+        "vxlan": "331006e07dbe",
+        "quic": true
+      },
+      "kernel": "01342e0e1b38",
+      "mysql": {
+        "offset": true,
+        "artifact": "ldap",
+        "vault": null
+      }
+    },
+    "buffer": {
+      "graphql": "06df9d336667",
+      "migrations": "e184320d43a7",
+      "terraform": {
+        "traces": null,
+        "payload": "f3be86f6f5b7",
+        "prod": true,
+        "crypto": null
+      }
+    }
+  },
+  "lambda": {
+    "prod": null,
+    "envoy": {
+      "ldap": [
+        false,
+        "cfb7bafc2cdc"
+      ],
+      "semaphore": {
+        "core": null
+      },
+      "registry": [
+        "adapter"
+      ],
+      "iptables": [
+        "0437afb18374"
+      ],
+      "cluster": null,
+      "ingress": "row"
+    },
+    "zfs": [
+      {
+        "failover": true,
+        "ansible": false,
+        "beta": null,
+        "mutex": 101
+      }
+    ]
+  },
+  "frontend": "envoy"
+}

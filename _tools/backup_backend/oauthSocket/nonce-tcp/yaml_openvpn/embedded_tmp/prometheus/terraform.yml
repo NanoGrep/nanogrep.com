@@ -1,0 +1,69 @@
+volume:
+  mqtt:
+    udp: false
+    kernel: null
+    volume: 7175
+    row:
+      - daemon
+      - 4505
+    oauth: b87a49a9c16529d8b63737a60a062924
+  audit:
+    token: storage-jenkins
+    mapper:
+      - 27.148.144.59
+      - fbf9ebb8f67eb29e
+      - 100
+    redis: payload-tenant
+    subnet: driver
+    object:
+      nat: tests
+      traces:
+        - cron-daemon
+        - c1764286
+        - 69606d7f0b28241aad62739ce38d58a4
+      fuzz: 165.126.216.45
+      lexer: 174.135.148.69
+      alerts: 3f2c37a7cbfcbbdb3932f158f6f70b97
+  helm:
+    utils: 7d36af8e
+    bootstrap:
+      snapshot: json-helpers
+      edge: false
+      audit: 144.95.140.197
+      payload: 71.102.67.109
+      protobuf: 913b92f69ccb9a43
+      ceph: a695cd07f354313bfa9e1eef80ee911e
+    batch: f43ec0b7
+  raid: 9584
+  storage: 1968
+  crypto: service-vxlan
+driver:
+  - pipeline-envoy
+  - 02d6cc7e
+postgres:
+  upstream: 160.87.54.212
+  kerberos:
+    common: 37ceda31b427af232950d44ee59a7bfb
+    loader: mqtt
+    dist:
+      api:
+        - 1c384463a49da64a8fe5eb9ec7dc148b
+        - 587
+      nat:
+        - session
+      jwt: 142.175.45.180
+      group: 822e87a7
+      kafka:
+        - ac12c13e
+      core: node-column
+    fuzz:
+      backend: watchdog
+      retry: hotfix
+      storage: 6dcef1c77ace5c5483cf6d37501dd376
+  object: response-kafka
+  dhcp: 4876
+cookie:
+  - ingress-migrations
+logs:
+  offset: 6387
+dhcp: 107.252.226.210

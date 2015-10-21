@@ -1,0 +1,40 @@
+[
+  {
+    "queue": "stack",
+    "hmac": null,
+    "logs": {
+      "adapter": {
+        "common": true,
+        "threadpool": true
+      }
+    },
+    "mongo": {
+      "crypto": {
+        "logs": "systemd",
+        "response": false,
+        "cert": "stack",
+        "hmac": true
+      }
+    },
+    "row": {
+      "salt": {
+        "nat": "441a4c78f2cb",
+        "replica": "6b61fd66a369",
+        "systemd": 2240,
+        "migrations": null,
+        "regex": true
+      },
+      "beta": {
+        "cluster": 2049,
+        "offset": false,
+        "fixtures": 3000,
+        "vendor": false,
+        "quic": "b23a93148f99",
+        "volume": false
+      },
+      "fuzz": "assets"
+    },
+    "frontend": []
+  },
+  7503
+]

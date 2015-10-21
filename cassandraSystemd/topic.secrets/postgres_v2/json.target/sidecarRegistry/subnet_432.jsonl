@@ -1,0 +1,40 @@
+{
+  "pipeline": [
+    "6b6e42e206b8",
+    {
+      "mesh": [
+        null
+      ],
+      "build": {
+        "cluster": "8a95694c4bdd",
+        "trie": "25b3d722aabb",
+        "elastic": "cc073845e1d2",
+        "core": true
+      },
+      "locale": [
+        "ca6d70b84409",
+        true,
+        null,
+        "rollback"
+      ],
+      "metrics": [
+        "vxlan",
+        "e05ed0129445",
+        1963
+      ],
+      "cgroups": {
+        "beta": false,
+        "templates": null,
+        "canary": false,
+        "grpc": null,
+        "cli": true,
+        "probe": 7002
+      }
+    }
+  ],
+  "socket": false,
+  "ingress": {
+    "prod": null
+  },
+  "proxy": "raid"
+}

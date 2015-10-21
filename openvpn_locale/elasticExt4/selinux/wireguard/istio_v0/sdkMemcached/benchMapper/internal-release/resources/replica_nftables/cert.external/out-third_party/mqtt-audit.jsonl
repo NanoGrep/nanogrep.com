@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "backend": {
+        "controller": null,
+        "token": 5183,
+        "volume": false,
+        "offset": null,
+        "logs": null,
+        "topic": 3486
+      },
+      "rsa": {
+        "socket": "failover",
+        "runner": "b1460bc04590",
+        "controller": "nfs",
+        "scheduler": null
+      },
+      "bgp": [
+        null,
+        false,
+        null,
+        "mutex"
+      ],
+      "registry": []
+    }
+  ],
+  {
+    "beta": {
+      "dhcp": true,
+      "hmac": null,
+      "cursor": true
+    }
+  },
+  [],
+  {
+    "legacy": null,
+    "upstream": "4b9a9943c52e",
+    "ansible": false,
+    "limit": "sha256"
+  }
+]

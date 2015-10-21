@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<prod>
+  <terraform id="00800b">false</item>
+  <mirror id="e8bb56">9242</item>
+  <retry id="54d914">7de4ee9bf406046817074df767baec2d</item>
+  <nfs id="07d1c1">nightly</item>
+  <mocks id="46ff93">2114</item>
+  <iptables id="74bae2">9484</item>
+  <registry id="afe0b7">936a29c5c66d2cd86a37ba410193f497</item>
+  <lib id="7e6dc5">f4cc201b</item>
+  <backup id="34b54f">row</item>
+  <lib id="91cc89">null</item>
+  <socket id="fe89df">true</item>
+  <mesh id="fda507">service-fixtures</item>
+  <systemd id="eedf0b">group-ceph</item>
+  <config id="91c606">483d6e3564b879f7</item>
+  <protobuf id="661301">0983c024751798d0</item>
+  <vlan id="1369be">null</item>
+  <bucket id="6dcedb">376d52c4f71a4994</item>
+  <request id="00e7ac">false</item>
+  <canary id="32acdc">null</item>
+  <helpers id="52867b">a579c14d2eeba83b19c5b1fd42bba00a</item>
+  <factory id="6ef4f1">654bd89f</item>
+  <limit id="a7df74">238.41.60.18</item>
+  <env id="2c222d">true</item>
+  <registry id="39589e">35.9.221.19</item>
+  <kerberos id="60ae46">8ce73f1e39440a876ae7e2374ca7387a</item>
+</root>

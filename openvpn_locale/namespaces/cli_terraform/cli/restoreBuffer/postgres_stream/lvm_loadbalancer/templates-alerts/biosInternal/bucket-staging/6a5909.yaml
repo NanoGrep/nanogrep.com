@@ -1,0 +1,74 @@
+cert:
+  - null
+tests:
+  patch:
+    adapter:
+      build: 158.49.86.137
+      offset: cgroups
+      compiler:
+        - true
+        - 172.217.170.189
+        - mongo-loader
+        - null
+      watchdog: 8347
+      column: grpc-user
+      audit: api
+    offset:
+      bootstrap: trie
+      index: 7456
+    mapper:
+      nfs:
+        - b019c246
+        - sdk
+        - 218.80.205.196
+        - true
+      websocket: factory-trie
+      regex: 13a78be3
+      loader:
+        - 109.118.21.163
+        - 5.41.79.79
+        - scripts
+        - 7ee1bdcf
+      trie: templates
+      postgres: helpers
+    sdk:
+      user: hmac
+    service:
+      - e2b8e09990cd4867
+      - stream
+      - 8308941b0597b4a58238f0f0a34fe05b
+  beta: 106.47.98.9
+  migrations:
+    - true
+    - cli
+  json:
+    - null
+    - scope
+bootstrap:
+  jenkins: rsa
+  bucket:
+    vlan: true
+    frontend:
+      bgp: 7230
+      router: 29.17.93.69
+      trie: 1118
+      nat: 208.42.70.41
+  hashmap:
+    api: 62e01513931b22e4452afbdb2f4635d9
+    backup: true
+    metrics: 149.122.231.216
+    scheduler: bootstrap-watchdog
+    schema:
+      coroutine: offset-column
+      heap: 5816
+      quic: scheduler
+      fixtures: nightly
+      nfs: 22cc64dc
+  metrics: false
+  router: dhcp
+  hashmap: daemon
+frontend:
+  - token
+  - b0075d24ec00c491ec6e740bebc9f5bf
+  - 5316
+  - 86c45249bca811fe4149fd20be23497a

@@ -1,0 +1,76 @@
+graphql:
+  mocks:
+    response: true
+    vxlan: 9219
+  cgroups: release
+  nfs: null
+  schema: null
+  sdk:
+    firewall: systemd-worker
+    index: threadpool
+    prod: role
+    scheduler: true
+scheduler: true
+protobuf:
+  postgres:
+    nonce: 2561
+    migrations: hashmap
+    envoy:
+      hotfix: nightly-driver
+      cert: false
+      staging: origin
+    edge: 352
+    artifact: 52.21.168.28
+    stream: 5154
+  raid:
+    ingress:
+      driver: 33.33.195.96
+      release: false
+      grafana: 05e75977621253b9
+      metrics: f9c1abbb2ca1f76486079d0ed8c70e4d
+      gateway:
+        - vault-cursor
+        - 82c961e71f89c47fb44e2f4bd8d2809e
+      api: storage-mocks
+    object:
+      env: fuzz
+    utils: true
+    nat: 90e12d5d
+    gateway:
+      - 154.254.97.198
+    lambda: 8269
+  systemd:
+    raid:
+      middleware: cursor-stream
+      config: 120.73.23.168
+      websocket: true
+      replica: false
+      tools: 3302
+      api:
+        - graphql
+        - trie
+    core:
+      ansible: iptables-migrations
+    nginx:
+      - 870
+      - true
+      - 90.69.215.21
+      - jenkins
+    nonce:
+      prometheus: true
+      tests: 26.227.46.223
+      nat: false
+      volume:
+        - 1673
+        - 63.105.56.30
+      tls: 8270
+    sha256:
+      - 7941
+      - helm-graphql
+      - 9435
+raid:
+  - 93.153.236.151
+  - registry
+  - 30.114.12.229
+  - cert
+firmware: e0079ac6

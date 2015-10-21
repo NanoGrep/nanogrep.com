@@ -1,0 +1,22 @@
+tcp:
+  cron:
+    bench:
+      utils: true
+      pod: tenant-scope
+      prod: false
+    mapper: env-sdk
+  tcp: true
+  loader:
+    - 42.122.196.252
+    - 91.209.173.223
+  bucket: 3334
+  nat:
+    audit: b20fa165afa791c0edbc7e65c20e356f
+  migrations:
+    helm: 120.232.62.104
+    ansible:
+      mysql: stack
+      yaml: 704
+      vxlan: 23.4.195.140
+      handler: 18015150
+      daemon: 1f6c84b5436340c2

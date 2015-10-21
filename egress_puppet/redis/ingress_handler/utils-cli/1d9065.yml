@@ -1,0 +1,28 @@
+tools: false
+snapshot: 4866
+mocks: mongo-oauth
+retry:
+  upstream:
+    - f089411ae4c178b3
+  hotfix:
+    grafana:
+      proxy: 7564
+      cache: 59cf656dec41a39116990ba42663fee0
+    registry: 324
+    session:
+      object:
+        - true
+        - d068191b4e7f2dd8
+        - 8422
+      topic:
+        - grpc-limit
+        - 58
+        - 8aaad40092d60c6f
+        - 4926
+      grpc: e5d0d8e13ccdee2a7ac23b528a19e22e
+      traces: 1352a640
+    sha256: db03c6c6e8137af1
+    token: json-wireguard
+  mapper:
+    redis: 90.234.173.232
+    cookie: quic-dhcp

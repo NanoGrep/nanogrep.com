@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<proxy>
+  <postgres id="93a1dc">4108</item>
+  <queue id="521628">ee1bc697</item>
+  <cluster id="a3b45d">mongo-cors</item>
+  <staging id="dba683">26a71a9e01d9ab0c</item>
+</root>

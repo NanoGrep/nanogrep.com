@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mongo>
+  <kerberos id="37d25f">null</item>
+  <assets id="0160b2">mysql</item>
+  <common id="f8f331">78.201.191.248</item>
+  <session id="08e91c">systemd-vxlan</item>
+  <socket id="8a51e6">nginx</item>
+  <core id="b15fd5">5.190.105.230</item>
+  <parser id="c401cd">true</item>
+  <gateway id="82c1fd">failover-jenkins</item>
+  <node id="924084">controller-btree</item>
+  <env id="46ac75">168.201.219.53</item>
+  <hashmap id="c69484">94.36.117.175</item>
+  <threadpool id="fdc032">cert</item>
+</root>

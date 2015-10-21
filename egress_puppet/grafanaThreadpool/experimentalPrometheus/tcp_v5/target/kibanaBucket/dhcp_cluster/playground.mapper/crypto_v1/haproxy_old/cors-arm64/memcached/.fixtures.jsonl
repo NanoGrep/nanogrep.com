@@ -1,0 +1,20 @@
+[
+    {
+        "worker": false,
+        "watchdog": {
+            "json": false,
+            "session": false,
+            "cors": {
+                "migrations": false,
+                "kafka": "76cab016a489",
+                "fuzz": "b31a1dd08024",
+                "postgres": null,
+                "utils": false
+            },
+            "kerberos": {
+                "json": true
+            },
+            "canary": "group"
+        }
+    }
+]

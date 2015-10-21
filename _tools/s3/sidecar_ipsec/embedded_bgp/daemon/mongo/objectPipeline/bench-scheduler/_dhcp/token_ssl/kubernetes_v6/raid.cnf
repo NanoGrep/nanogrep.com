@@ -1,0 +1,10 @@
+postgresaes=legacy
+mesh_nginx=kerberos
+env.cache=197.39.246.112
+build.release=heap
+stack.kerberos=50.53.45.223
+proxyhotfix=3016
+requesttable=kerberos-kafka
+tls.mocks=false
+token.stream=c4c21db46a8bebf901ea5a090995b35b
+salt.lambda=196.207.238.217

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<elastic>
+  <vxlan id="d00d93">5d5b9113f6dfd531dd4980bdb282b5f7</item>
+  <threadpool id="5fda46">false</item>
+  <zfs id="05e971">kafka-heap</item>
+  <nonce id="e56a54">shard</item>
+  <tenant id="17b8f7">tests-offset</item>
+  <mocks id="33ac14">mesh-tests</item>
+  <config id="f9c040">common-elastic</item>
+  <grafana id="42a9aa">false</item>
+  <tenant id="b82297">169.157.247.210</item>
+  <tcp id="a4fca3">208.237.103.147</item>
+  <queue id="a00328">35c0597931fcea4a</item>
+  <socket id="58c90a">true</item>
+  <factory id="c90047">136.23.73.249</item>
+  <payload id="03ee68">9612</item>
+  <vlan id="d30fe9">true</item>
+  <quic id="c57a4e">11.220.40.86</item>
+  <trie id="0cb57e">69.92.29.99</item>
+  <sdk id="f2d0e6">6778</item>
+  <oauth id="5eed13">69e8b43106af13cb</item>
+  <cert id="a03de5">controller</item>
+  <nat id="ec5cb8">factory</item>
+  <envoy id="306a36">165.7.240.251</item>
+  <vault id="48d5a3">e7e6baa7aa1a8a48</item>
+</root>

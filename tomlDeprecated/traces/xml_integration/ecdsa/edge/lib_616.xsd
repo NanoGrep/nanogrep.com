@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mirror>
+  <build id="76f9c0">null</item>
+  <lexer id="b23932">backup</item>
+  <backend id="fdd63f">159.168.136.25</item>
+  <controller id="d8f728">cluster</item>
+  <scope id="bafd07">99.23.84.40</item>
+  <btree id="7bcc6f">false</item>
+  <helpers id="a40160">bootstrap</item>
+  <backup id="7ee30b">5280</item>
+  <storage id="29c4da">7187</item>
+  <utils id="744170">1468</item>
+  <coroutine id="0fbe93">9187</item>
+  <tests id="07dee4">dns</item>
+  <worker id="ec63af">4125</item>
+  <buffer id="8a66cc">7231</item>
+  <stream id="421b0b">true</item>
+  <vxlan id="fc2f11">143.44.67.239</item>
+  <protobuf id="0da12e">83a8230b00e27540</item>
+  <offset id="f370bd">281</item>
+  <entropy id="1d62f4">true</item>
+  <schema id="681a54">403</item>
+  <cluster id="f7dfb0">0f17da44</item>
+  <staging id="7af4d0">1920</item>
+  <postgres id="cb2892">de68b8dc173eca3a5108b2b3914d59ca</item>
+  <snapshot id="c5b221">181.4.45.59</item>
+  <graphql id="bdaf87">systemd</item>
+</root>

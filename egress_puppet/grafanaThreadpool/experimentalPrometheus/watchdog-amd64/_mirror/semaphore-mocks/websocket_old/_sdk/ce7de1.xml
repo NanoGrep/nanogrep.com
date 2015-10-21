@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<kerberos>
+  <cors id="1c13bc">e3ae4612</item>
+  <tcp id="267f0f">nightly-origin</item>
+  <tools id="666f30">cgroups</item>
+  <session id="9ca700">http</item>
+  <tls id="e7cf07">501</item>
+  <patch id="b42b6f">c5ec4d40099148c7</item>
+  <mirror id="f6ed4a">4032</item>
+  <assets id="c6f7fa">6dc9bfca5068273494bd568fdd8466ef</item>
+  <nightly id="6b110c">utils-prometheus</item>
+  <daemon id="a5042c">17.162.220.174</item>
+  <bgp id="d2b184">351e9f1a8152ea0ee62ff3ef65ff629e</item>
+</root>

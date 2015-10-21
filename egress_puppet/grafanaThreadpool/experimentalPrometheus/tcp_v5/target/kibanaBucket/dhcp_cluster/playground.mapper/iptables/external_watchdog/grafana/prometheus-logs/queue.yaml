@@ -1,0 +1,3 @@
+terraform:
+  mongo: api
+  ansible: subnet-pod

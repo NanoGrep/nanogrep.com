@@ -1,0 +1,53 @@
+raid: http
+firewall:
+  audit: 9c18798ca2846192b716c8dadecf4d2c
+  mesh: f51617fc80560b84
+  udp: b0ab5c3f
+  aes: redis-staging
+  graphql: 170.1.187.166
+  scheduler:
+    stream:
+      - null
+    probe: helpers
+    buffer: parser-nightly
+    proxy:
+      zfs: nfs-http
+      coroutine: 5.12.119.138
+      artifact: adapter
+      gateway: 4726
+      quic: 8662
+      protobuf:
+        - 8265
+        - a3a12e715157108e
+    ceph:
+      btree: 227.172.213.153
+      backend: postgres-watchdog
+      config: nginx
+      cursor: 96.216.129.249
+      vendor: false
+    kernel: e1b6e9d4ecde36f761f541fda579aebe
+fixtures:
+  wireguard: btree
+  dhcp: b49292620db8b028
+  common:
+    column: 9014
+    rsa: common-bgp
+    switch:
+      cert: true
+    mongo:
+      lambda: false
+    kerberos: salt
+    queue: 7b9fb438c9d63a9b
+  semaphore:
+    nonce: 0f6aa6f3
+    cert: 144.200.15.3
+  gateway: 98.54.220.17
+  bgp:
+    cgroups: nfs-adapter
+    pipeline: backend-batch
+    hashmap:
+      websocket: null
+      ansible:
+        - null
+        - 153.122.111.16
+        - registry-daemon

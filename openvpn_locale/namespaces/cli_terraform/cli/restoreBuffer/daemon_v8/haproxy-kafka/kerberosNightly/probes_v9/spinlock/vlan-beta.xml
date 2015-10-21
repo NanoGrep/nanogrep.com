@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<handler>
+  <nat id="f28c12">payload-fuzz</item>
+  <cookie id="de1e65">registry</item>
+  <mqtt id="d9c301">release-offset</item>
+  <handler id="128f3f">13965d7c1b4bc57d</item>
+  <switch id="16bd2a">bootstrap-payload</item>
+  <protobuf id="172622">null</item>
+  <row id="642d95">175.166.68.221</item>
+  <limit id="8cac89">0f3876fc60aeacf8d6fcc66045923d5a</item>
+  <build id="5c3214">399e2fbbb60bf911</item>
+  <salt id="8d322f">3844</item>
+  <vendor id="6526dd">18e4f6470ff5f0727c19692523c97a72</item>
+  <core id="2775f0">43.0.197.176</item>
+  <websocket id="12b87e">1125</item>
+  <kafka id="2bf19b">372f754c6fa2e865</item>
+  <worker id="a9796f">postgres-coroutine</item>
+  <shard id="cf0492">jenkins-middleware</item>
+  <terraform id="4be4d5">90.223.203.74</item>
+  <table id="f391e2">8da71eb344139d2c</item>
+  <bucket id="2a5e57">208.101.194.98</item>
+</root>

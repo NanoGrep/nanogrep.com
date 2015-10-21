@@ -1,0 +1,109 @@
+{
+  "lexer": 98,
+  "router": {
+    "grpc": false
+  },
+  "wireguard": [
+    {
+      "hotfix": {
+        "tenant": null,
+        "nat": true,
+        "core": false,
+        "topic": "pod",
+        "limit": false,
+        "mesh": false
+      },
+      "beta": {
+        "quic": true,
+        "service": "edge",
+        "vlan": null,
+        "rest": false,
+        "shard": "69435dbda24a"
+      },
+      "origin": false,
+      "systemd": false,
+      "mesh": [
+        "request",
+        true,
+        "dd762f58a36f",
+        true
+      ],
+      "index": {
+        "index": true,
+        "btree": null,
+        "nat": null,
+        "vault": false,
+        "env": null,
+        "utils": "801235d3dc54"
+      }
+    }
+  ],
+  "prometheus": {
+    "ingress": {
+      "mapper": null,
+      "cors": {
+        "cluster": true
+      },
+      "factory": {
+        "controller": 8429,
+        "helpers": "b725c60f0ab1",
+        "coroutine": false,
+        "prod": 2843,
+        "jwt": null,
+        "build": null
+      },
+      "entropy": {
+        "vendor": false,
+        "systemd": 2097,
+        "cursor": "f7de11e44b13",
+        "tenant": "vault",
+        "hotfix": 9727,
+        "tools": null
+      }
+    },
+    "scripts": "40647a8b9344",
+    "heap": "release"
+  },
+  "rest": {
+    "watchdog": "offset",
+    "firewall": "fb0097ab640b",
+    "nightly": {
+      "crypto": false,
+      "registry": [
+        true,
+        true
+      ]
+    },
+    "worker": {
+      "crypto": {
+        "storage": null
+      }
+    },
+    "envoy": true,
+    "redis": {
+      "rest": {
+        "runner": 2340,
+        "nfs": false,
+        "regex": "redis"
+      },
+      "mocks": 7927,
+      "semaphore": 8430,
+      "frontend": {
+        "stream": null,
+        "session": "udp"
+      },
+      "assets": {
+        "volume": true,
+        "hotfix": "3527570c3894",
+        "runner": 5064,
+        "terraform": 4982
+      },
+      "prometheus": [
+        false
+      ]
+    }
+  },
+  "snapshot": [
+    true
+  ]
+}

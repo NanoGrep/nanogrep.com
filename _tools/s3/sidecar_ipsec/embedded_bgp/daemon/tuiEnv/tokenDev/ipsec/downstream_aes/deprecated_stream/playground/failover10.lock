@@ -1,0 +1,39 @@
+[
+    [
+        4742,
+        [
+            [
+                null
+            ],
+            {
+                "watchdog": true,
+                "handler": "ldap"
+            },
+            {
+                "aes": false,
+                "helpers": null,
+                "build": false,
+                "watchdog": true
+            },
+            null
+        ],
+        {
+            "offset": [
+                "e1e274367c69",
+                false,
+                "1622f6a535bc"
+            ],
+            "nfs": [
+                "ced83fd5db3e",
+                "9c3aad1df47f",
+                null,
+                true
+            ],
+            "user": [
+                false
+            ]
+        }
+    ],
+    "token",
+    "35ee570c8e19"
+]

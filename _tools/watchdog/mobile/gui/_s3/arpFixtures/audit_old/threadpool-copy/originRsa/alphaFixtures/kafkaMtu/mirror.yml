@@ -1,0 +1,5 @@
+vendor:
+  - cluster-driver
+  - table-entropy
+  - prometheus-socket
+stack: null

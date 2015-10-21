@@ -1,0 +1,14 @@
+cookie,compiler,systemd,switch,subnet,stack,json
+61d9ff6906ad740b3e771addccdef9a6,2083,5877,196.233.232.62,4.102.25.74,944afb11,metrics-pipeline
+46.3.144.21,iptables-registry,6144,false,cache-session,vxlan-threadpool,ansible-topic
+null,worker,2199,6828,dhcp,94b6928f1b9f1739,helpers-tools
+4227,c1fbcca9dd9ffa74,helm,object-scheduler,f78199b03c462b6a,98489e73,cors-grafana
+5095,iptables,audit,7254,4949,false,48.194.182.42
+166.105.17.35,808,7161,128.254.240.86,3bac5c73a9f92b3b903bd38b461a2773,zfs-batch,false
+switch,23c77bbe0feceaea,user,6186,elastic-hmac,133.16.191.142,migrations
+73e149977d93f8a52256c1fe533065f6,websocket-grafana,125.191.204.33,watchdog,22117aad,a07a5a6111519bfc,8193
+hotfix-grafana,controller,http,raid,27.162.176.158,middleware-threadpool,60909006d7dfb6786ad8c5fa92e73a25
+8601,hmac,9224ef0b,8228,6175,5136,72753f49
+3129,mqtt,true,true,3380,column-yaml,23cdcd1d
+8103,4186,245.59.4.117,d49da1b722d969fa,kafka,null,utils-kerberos
+common-protobuf,gateway,parser-parser,false,4052,225.209.126.76,true

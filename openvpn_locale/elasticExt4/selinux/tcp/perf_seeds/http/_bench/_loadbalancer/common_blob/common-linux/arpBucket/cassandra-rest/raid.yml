@@ -1,0 +1,34 @@
+request:
+  yaml: migrations
+  dhcp:
+    postgres:
+      kafka: null
+      cache: payload-stack
+      cert: false
+      ansible: f9a78008
+      systemd: 6b6959fce793c7e9
+      nat: 14a61b2b304b42b53bee8fd48239eeff
+    tenant:
+      quic: locale
+      helm: 105.226.220.16
+      stream: sandbox-dns
+    cert:
+      elastic: true
+      limit: 4060
+    mutex:
+      jenkins: 201.40.116.196
+    index:
+      helm: 79e3a22c2afe6f46
+      templates: 5bd7053344cf76da
+      mongo: false
+      retry:
+        - 108.23.5.173
+      frontend: tools
+  session:
+    - 119.173.242.190
+  helm: dns
+  rest: alerts-hashmap
+  utils:
+    - bench-ceph
+    - 9659
+beta: e2a9fd23

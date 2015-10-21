@@ -1,0 +1,5 @@
+socket:
+  regex:
+    - 7048
+grafana: registry
+patch: true

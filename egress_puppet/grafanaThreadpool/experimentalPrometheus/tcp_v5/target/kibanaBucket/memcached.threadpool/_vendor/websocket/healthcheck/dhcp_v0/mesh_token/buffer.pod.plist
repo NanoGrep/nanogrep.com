@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<iptables>
+  <sdk id="32f13d">common-limit</item>
+  <jenkins id="e66eb1">6c9ae32f94be4b3d8f672b3d93fee1bc</item>
+  <bucket id="b44c3d">traces-logs</item>
+  <prod id="adfdc4">4716</item>
+  <grafana id="a72870">133.145.37.33</item>
+  <compiler id="f27c7d">11610283</item>
+  <vxlan id="be10d8">222.80.19.239</item>
+  <hashmap id="abdcdf">cert</item>
+  <zfs id="6c5fdd">0590f3a9c5a56be8</item>
+  <traces id="36251d">true</item>
+  <stream id="e0e21d">5877</item>
+  <sha256 id="f2e9f7">ce1fbc97</item>
+  <aes id="47fe6d">false</item>
+  <lexer id="ebe9ad">btree</item>
+  <audit id="322275">true</item>
+  <ansible id="6f544e">topic</item>
+  <object id="310d5c">row-mapper</item>
+  <assets id="d18381">rollback</item>
+</root>

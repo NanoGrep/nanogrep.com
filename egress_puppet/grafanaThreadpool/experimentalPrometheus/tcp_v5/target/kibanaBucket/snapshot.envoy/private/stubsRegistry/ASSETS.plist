@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<dns>
+  <assets id="906b70">frontend-rollback</item>
+  <legacy id="6e570b">handler-socket</item>
+  <firmware id="03fe51">bootstrap-vlan</item>
+  <lexer id="8f3574">63cfb477</item>
+  <raid id="2b628a">4892</item>
+  <protobuf id="40de72">7682</item>
+  <mesh id="874fc3">true</item>
+</root>

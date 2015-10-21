@@ -1,0 +1,42 @@
+mocks:
+  batch: wireguard-entropy
+  mysql:
+    factory:
+      dist: false
+      bloom: null
+      tcp: 9658626e69da66fc
+      probe: 111.220.76.186
+    trie:
+      migrations: quic-lib
+      stack:
+        - 6011
+        - semaphore-ceph
+  config: 47.181.147.11
+group: column
+trie:
+  bench:
+    compiler: 4541
+    hotfix:
+      - 937a750d9ca83a7352a5677d2f70590b
+      - tenant
+      - tools
+      - 3528
+    buffer:
+      hotfix: 247.171.237.219
+      role: 210
+      sandbox: beta
+      bootstrap: subnet
+      scope: 00beffa7
+      rollback: router-websocket
+    firewall:
+      logs: 44.22.32.156
+    zfs: 9683
+    ceph:
+      - cursor-session
+      - true
+  legacy:
+    crypto: false
+  core: 6823e938
+  stack: metrics
+  factory: tcp
+lexer: prometheus

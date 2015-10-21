@@ -1,0 +1,22 @@
+index:
+  scripts: f99f705f6aea9243
+  oauth: null
+  worker: null
+handler: 2231
+cookie:
+  - 209.94.205.115
+pipeline:
+  common: false
+  edge: 54.177.177.228
+  postgres: utils
+vxlan:
+  schema: 6061
+  proxy: 241.15.227.199
+  dns: factory
+  tests: 211.96.25.250
+  mocks:
+    - 9453
+  mysql:
+    tls: 802922fc
+    dns: backend-udp
+coroutine: core

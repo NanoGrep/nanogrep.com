@@ -1,0 +1,8 @@
+tenant: 105.222.195.158
+topic:
+  - 23b6adefca3b0693630cf1caa7efc395
+  - postgres-token
+  - utils-salt
+snapshot: false
+aes: 184.239.204.191
+middleware: dns-stream

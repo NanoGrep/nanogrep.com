@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<offset>
+  <prometheus id="33e815">probe</item>
+  <cgroups id="509679">false</item>
+  <traces id="ac2a18">2475</item>
+  <aes id="304bc5">fe3e8bf24d7b0a723d165a353190a510</item>
+  <assets id="3597e3">b3f6d201</item>
+  <sdk id="68df51">oauth-json</item>
+  <cors id="0ca30f">true</item>
+  <limit id="287eb8">ad44a1f6</item>
+  <retry id="31d87d">3016</item>
+  <vlan id="c27c36">232.213.68.216</item>
+  <fuzz id="87af8c">9348</item>
+  <postgres id="127874">kafka</item>
+  <protobuf id="94a393">failover-heap</item>
+  <entropy id="406b83">82.32.72.74</item>
+  <logs id="7dc439">runner-probe</item>
+  <failover id="9bcabb">230.224.100.69</item>
+  <bucket id="1324a7">true</item>
+  <socket id="9fc6b0">1.180.0.183</item>
+  <watchdog id="ea9799">cookie-aes</item>
+  <sdk id="cbac72">84.246.102.74</item>
+</root>

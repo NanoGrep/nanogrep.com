@@ -1,0 +1,84 @@
+[switch]
+nginx.websocket = 46ebbf26a14af865d91506811bfd2fcf
+prod_response = loader-upstream
+payload_role = 2a4afb73
+tenant_schema = 62.152.172.191
+cryptocompiler = false
+env.hotfix = bde76e9de3e2a172
+testsrest = pod
+replica.handler = 8486f634be147f1777724fc98afa177c
+cgroupssubnet = limit-api
+cephfirewall = 1976
+aes_utils = topic
+nightly.lexer = 56965c9fdbfa38e7ac7ea9ccf2a57103
+cli.vlan = service-token
+handlervlan = 116.151.218.53
+proxy.tls = dist
+nat.topic = 544c237974aa64d9
+hotfix_column = 4072008b
+volume.http = 224.231.151.204
+crypto_bgp = null
+releasegateway = 7fdadfd7d34743d1
+salt_ceph = 8.104.71.99
+vault.offset = true
+
+[elastic]
+mysqlsubnet = 232.100.94.41
+gateway.kafka = 239.84.4.78
+clihmac = 4689
+daemon.lib = edge
+traces.graphql = 1475
+
+[redis]
+distproxy = 16
+cachevolume = tests-helm
+migrations_iptables = true
+betagrpc = 9f2eea34f4a30d02115de3d01de143d7
+stream.raid = 6684
+ansible.upstream = limit-api
+handlervxlan = bf3d16b863238ba533952d0b0c7a9ab7
+jenkins.mutex = alerts-rollback
+scopehelm = coroutine
+stack_systemd = 492
+regexschema = 2fd45b50ff9914af
+gateway_daemon = prod
+crypto_traces = false
+index.logs = bab78c35
+
+[backup]
+build.vendor = scripts-nonce
+fixturesfrontend = true
+fixtures_mongo = mocks
+sandbox.beta = build
+router_firmware = dc98fb7b
+
+[registry]
+node.canary = 223.28.129.130
+ingress_zfs = 95.94.196.92
+utils.ceph = index
+rsamysql = upstream
+corscert = 7ca4d9bba2dc782b160f757f6c538015
+upstream.bgp = 10308d80f60d5627
+commonbuffer = true
+locale_systemd = false
+build_audit = 201.95.33.169
+vlan.cache = 47.237.227.151
+rolestaging = 197.243.130.186
+middleware_common = env-schema
+subnet.index = 83.46.221.78
+common_elastic = trie-buffer
+zfscors = true
+loader.probe = 2a34f1cca7a3e8468e2fbfd18c7ab335
+ansible_tls = coroutine-factory
+sdkrollback = 1221
+podlexer = true
+socket.dist = scripts-bootstrap
+compilercron = 4082
+nat_table = upstream
+session.btree = 1250
+rollback_daemon = 16.154.234.3
+cluster_failover = 32d71d9ab5992eeb
+middleware.cors = 31.161.5.130
+firmwareoffset = 73.59.135.117
+logslocale = scope
+protobuf_bucket = 9236

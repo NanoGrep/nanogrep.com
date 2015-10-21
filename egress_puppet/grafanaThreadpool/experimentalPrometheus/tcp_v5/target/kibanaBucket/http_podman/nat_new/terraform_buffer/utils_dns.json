@@ -1,0 +1,49 @@
+[
+  {
+    "tls": [
+      {
+        "crypto": false,
+        "column": true,
+        "wireguard": true,
+        "terraform": true,
+        "scheduler": "compiler"
+      },
+      {
+        "raid": "a532957717cf",
+        "adapter": null,
+        "wireguard": false,
+        "zfs": false
+      },
+      5441
+    ],
+    "bgp": {
+      "staging": {
+        "response": "kerberos",
+        "metrics": "fbfe5d7f63be"
+      }
+    },
+    "sdk": [
+      [
+        false,
+        null,
+        false
+      ],
+      null,
+      {
+        "frontend": false
+      },
+      "9b7c0d4e8699"
+    ]
+  },
+  {
+    "grafana": {
+      "watchdog": true,
+      "firmware": "e98d3f48f6ad",
+      "mutex": {
+        "fuzz": false
+      }
+    },
+    "common": null
+  },
+  false
+]

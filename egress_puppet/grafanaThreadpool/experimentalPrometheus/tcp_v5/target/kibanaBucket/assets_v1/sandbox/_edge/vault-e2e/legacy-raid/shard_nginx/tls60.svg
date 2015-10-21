@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mesh>
+  <http id="1766e3">mongo</item>
+  <switch id="9a3958">72.13.63.192</item>
+  <node id="ad80f9">3235</item>
+  <hmac id="43df2a">false</item>
+  <response id="43398d">queue</item>
+  <batch id="661837">48b309b948f9d2e0374c7b7487f3abaf</item>
+  <token id="edbce3">196.172.184.103</item>
+  <dhcp id="f42068">236.57.243.31</item>
+  <handler id="2a135d">71.77.42.48</item>
+  <sdk id="cf4469">223.135.69.33</item>
+  <locale id="cf6f02">salt</item>
+  <beta id="34ce2a">27c6d21d503d22751c450c8ec29d1949</item>
+</root>

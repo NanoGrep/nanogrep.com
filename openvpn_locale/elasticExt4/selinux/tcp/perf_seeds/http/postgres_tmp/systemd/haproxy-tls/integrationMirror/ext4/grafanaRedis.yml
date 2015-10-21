@@ -1,0 +1,17 @@
+utils: false
+tests:
+  systemd: false
+  mocks:
+    hmac: user-sha256
+    vendor: batch
+    oauth: false
+  ingress: 3740
+  yaml: 6537
+  tests: kernel
+  salt: 1829
+cluster:
+  hotfix:
+    cert: 19.60.162.52
+    udp: pod
+  artifact: middleware-salt
+lexer: null

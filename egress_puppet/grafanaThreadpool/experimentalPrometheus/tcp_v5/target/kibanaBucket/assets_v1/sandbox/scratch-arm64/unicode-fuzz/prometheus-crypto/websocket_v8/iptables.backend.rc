@@ -1,0 +1,96 @@
+[nightly]
+dhcp.sandbox = 105.142.153.150
+dhcp_nightly = 4da1ff2e
+sessionbuild = false
+tests_protobuf = dist-mqtt
+lambda_watchdog = ansible-nonce
+router.backend = 157
+snapshot_session = helpers
+nginx_bucket = 6512
+bloom_proxy = pipeline-cert
+jsonfrontend = 238.237.193.226
+cors.buffer = true
+audit.beta = 182.195.6.203
+frontend_hashmap = retry
+terraform.oauth = watchdog
+aesparser = 161.91.105.234
+iptables_terraform = 7900c06b11501878
+ansible_cli = service
+utilsfixtures = 8182
+hotfix_threadpool = 3400
+adaptermesh = 8004
+
+[bootstrap]
+oauth.switch = column
+nfs_token = core-sandbox
+sessionlexer = jenkins
+user.hotfix = c369ab8eb36f861d
+dhcp.systemd = origin
+shard_patch = 82.9.116.116
+router.traces = 68987757b15c4eec64670b516d04cebd
+cgroupsrelease = 207.225.107.120
+mysqladapter = regex-prometheus
+cors_common = runner
+lib.scripts = false
+config.cookie = null
+handler_mapper = null
+proxy.nginx = 1810
+utilsdaemon = 6065
+vault_logs = 62a1c6f4d530262a
+utils.offset = table
+backend.volume = group-helpers
+cors_jwt = 12f20e30f245fe86e20980eff05af101
+upstream_regex = 237.83.38.178
+terraform.vendor = 44.43.151.108
+tcp_limit = 93eeb723a30982dfa66a7416ab340bbe
+session_http = object
+
+[nat]
+rest_semaphore = aa3c1fd6d0ba62aa15b429b1add1fecd
+scheduleroffset = 7780
+restiptables = 6508
+bucket.aes = 199.56.89.37
+vendor_firmware = true
+gatewayfailover = 201.198.252.187
+cli_json = null
+bench_bench = 152.146.151.20
+graphql.shard = 565
+node_replica = true
+edge_frontend = response
+driver.lexer = 44.110.214.73
+fuzzcgroups = 9174
+session.frontend = jwt
+tools_row = 198.100.114.150
+jwtlocale = row-retry
+stream.artifact = 747b3fe525ed52da
+
+[metrics]
+tls_offset = schema
+nonceresponse = release
+lib_stack = 5292
+tcp_mesh = 6745
+jwtindex = session
+cgroups.graphql = 243.249.26.241
+rest_kernel = false
+rsarunner = 5459081b
+grafanahashmap = threadpool
+policy_nat = storage-stream
+postgres_edge = d75927359833f0f28aabd0b08e693730
+nfs_firewall = probe-stream
+trie_helpers = pod-bgp
+lexer.artifact = 224.92.253.12
+router_trie = 8675
+templatessdk = bootstrap
+factory_http = 5f1843f61be65c893a7fc9a2a01caa30
+socket.pod = 83162f07a12735f96d6569c501e44392
+tests_dhcp = 1911
+logs_volume = socket-ansible
+schema_table = 174.180.4.107
+
+[user]
+batch.cert = 5636
+table_mongo = 8dae756b
+legacy.cursor = 8459
+grpcbgp = vlan
+graphqlentropy = true
+sharddns = hotfix

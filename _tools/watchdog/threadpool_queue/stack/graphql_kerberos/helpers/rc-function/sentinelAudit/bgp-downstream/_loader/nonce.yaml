@@ -1,0 +1,5 @@
+tls:
+  - mirror-bootstrap
+nat: null
+role:
+  node: backend

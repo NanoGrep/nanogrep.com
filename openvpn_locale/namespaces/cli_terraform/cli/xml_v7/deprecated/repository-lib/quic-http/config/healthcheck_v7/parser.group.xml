@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<kerberos>
+  <origin id="d75810">null</item>
+  <grpc id="3b9f78">false</item>
+  <bucket id="7f87c2">144.148.241.3</item>
+  <dhcp id="3330c0">2973</item>
+  <buffer id="5d3527">169.56.12.134</item>
+  <grpc id="36b723">ldap-subnet</item>
+  <systemd id="a460c6">false</item>
+  <role id="074a5a">false</item>
+  <origin id="f7823d">59.84.66.2</item>
+  <websocket id="56a008">redis-mutex</item>
+  <tenant id="fe0eda">hmac</item>
+  <quic id="ba0f96">6228</item>
+  <udp id="20dd83">3848</item>
+</root>

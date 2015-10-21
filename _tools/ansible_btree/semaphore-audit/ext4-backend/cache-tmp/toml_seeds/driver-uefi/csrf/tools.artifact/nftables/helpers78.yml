@@ -1,0 +1,39 @@
+trie:
+  jenkins: 76.108.246.239
+  fuzz:
+    staging:
+      build: nightly-bloom
+      scheduler: 200.35.87.240
+      dhcp: backup-parser
+      vxlan: cache
+    row: cors
+    audit:
+      controller: 198.107.223.118
+      kerberos: 1764
+      nightly: 76.49.190.173
+      daemon: 4999
+    tcp: 535a1aa9a93f8787a29c3d540c0bad47
+    tests: mocks-storage
+  templates:
+    - daemon-socket
+    - nfs
+  tools: 3049
+  cookie:
+    loader:
+      - null
+      - 016934b6703c10be
+      - 0039cc15
+      - 16.0.238.233
+aes:
+  frontend: null
+  cli:
+    origin:
+      staging: 171.116.182.117
+      yaml: 7602
+    vlan:
+      api: 8946
+    metrics: 6517
+  rollback: null
+request:
+  - 9356
+  - 144.57.130.92

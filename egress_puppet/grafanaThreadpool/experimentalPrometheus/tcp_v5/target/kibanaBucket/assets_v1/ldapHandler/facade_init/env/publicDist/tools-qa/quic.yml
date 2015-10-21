@@ -1,0 +1,35 @@
+buffer:
+  patch: 12.100.198.72
+token: 1473
+bootstrap:
+  replica: helpers-zfs
+  iptables: limit
+volume:
+  - alerts-grpc
+  - core-ceph
+cursor:
+  firewall: 236.44.47.225
+  artifact:
+    node: watchdog
+    buffer: 38274d5e
+  patch: 1836008143236e9675bf140b365cf6d2
+  role:
+    dns: 9303
+    http: 5774
+    prometheus:
+      - 6e78d8b9eb861981b9af8aed5b6f8989
+    grpc: 7725
+    legacy: 139.13.58.14
+    session:
+      - 2564bb8b
+      - 060656986c2bdde6f892304df435fb58
+  volume:
+    handler: protobuf
+  runner:
+    cgroups:
+      - mysql
+      - snapshot
+      - compiler
+      - false
+    subnet: 184.172.149.17
+jenkins: backup

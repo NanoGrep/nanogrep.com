@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<kernel>
+  <firewall id="402029">false</item>
+  <api id="c6f4e5">true</item>
+  <jenkins id="ae1f2d">env-env</item>
+  <cookie id="f624ec">7baf9c2fccdfdc07</item>
+  <nat id="ebede1">20436193be8e66fb</item>
+  <postgres id="af28d3">91.134.161.222</item>
+  <object id="05fdf4">208.250.103.36</item>
+</root>

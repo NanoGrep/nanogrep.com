@@ -1,0 +1,19 @@
+tenant:
+  - shard
+semaphore:
+  - true
+  - ingress-hotfix
+  - 72442397
+cron:
+  cgroups: false
+  build: true
+  loader: 2.105.114.80
+hashmap:
+  - middleware
+  - cors
+jenkins:
+  vendor:
+    - 5031
+    - metrics-runner
+    - nfs-helpers
+patch: 1629

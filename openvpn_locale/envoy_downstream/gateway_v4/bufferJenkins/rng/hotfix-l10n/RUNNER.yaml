@@ -1,0 +1,25 @@
+pod:
+  vxlan:
+    postgres: 3091
+    controller: null
+    oauth:
+      payload:
+        - e0630eb3d5146416
+      proxy: true
+      nfs: origin-failover
+    user:
+      lexer:
+        - 1174
+        - null
+    audit: 7813
+  locale:
+    lambda: metrics
+  websocket: metrics
+  semaphore: 7164
+  origin: entropy
+  cert:
+    backend:
+      alerts: 4f97a214
+      mocks: redis-vault
+    vlan: 7571
+mongo: 3649

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<cron>
+  <factory id="23f908">prod</item>
+  <alerts id="98bba3">4730bcff</item>
+  <sandbox id="703c6a">trie-systemd</item>
+  <cookie id="366d6b">jenkins</item>
+  <gateway id="c9c40f">4374</item>
+  <hashmap id="082a42">column-protobuf</item>
+  <dns id="a94be1">61.103.34.114</item>
+  <cache id="dd2c4d">nightly</item>
+  <payload id="83c136">ceph-quic</item>
+  <scope id="1d5358">198.177.51.94</item>
+  <vault id="790f81">30.152.40.217</item>
+  <cgroups id="af582c">9237c90c2fa7bffe62c826fd47d3e0c0</item>
+  <regex id="9a83cc">9364</item>
+  <alerts id="34a578">245.21.198.42</item>
+</root>

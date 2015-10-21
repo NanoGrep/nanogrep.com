@@ -1,0 +1,54 @@
+quic:
+  mocks:
+    systemd:
+      - 221.93.163.65
+    envoy: 5b8d86dc
+    templates:
+      - eef686c9b66258ce
+      - shard
+      - metrics-quic
+    mqtt:
+      - 243.198.57.152
+      - kernel
+      - null
+    btree:
+      group: 207.3.166.79
+      entropy: wireguard
+      aes: f89f07384b5f42f9af1599cee56b73f2
+      hotfix: tcp-worker
+      mesh: 4405
+      grafana: 132.67.137.145
+    grpc:
+      - 5429
+      - firmware-socket
+  sha256:
+    watchdog: 1274
+    queue: 2.34.41.7
+    nightly:
+      shard: true
+      entropy:
+        - token-oauth
+        - 6893
+        - protobuf
+      hmac: fixtures
+    queue:
+      - udp
+    vault:
+      migrations: true
+    grpc: firewall-edge
+  redis:
+    - 987
+    - btree-trie
+    - prod-tls
+  bench: 8132
+aes:
+  - 19.234.1.43
+  - stack-tls
+tls:
+  - 6135
+  - 8dbc9c7b113475e921f216c64387c211
+grpc: 123.208.52.56
+dhcp: 3015aeb053d9b67f
+switch:
+  index: 53af2f49eca99ad8c6a7f3f1f6984954
+  common: 58.98.220.84

@@ -1,0 +1,33 @@
+ansible: null
+udp: true
+cache:
+  scheduler:
+    kerberos: aes-tools
+    grafana: 72b5778d4b58aecf
+    firewall: null
+    prometheus:
+      edge: 9123
+      policy: true
+      object:
+        - terraform-regex
+        - 18.81.25.202
+        - metrics-retry
+        - 5059
+      request:
+        - 3252
+        - 140.25.39.213
+      alerts:
+        - 162.187.165.48
+        - false
+        - object
+        - d65f6f4ed97e5be17ba6a47211e297ac
+    traces: 7092
+cursor: 91.127.170.31
+legacy:
+  role:
+    - 124.144.34.95
+    - redis-pipeline
+    - false
+    - 4716d006
+  salt: 65b032fd07d95ec2
+prometheus: 652638ac

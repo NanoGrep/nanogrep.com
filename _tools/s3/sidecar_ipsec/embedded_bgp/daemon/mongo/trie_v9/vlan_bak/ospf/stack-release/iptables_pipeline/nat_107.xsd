@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<driver>
+  <tools id="9680ae">179.150.9.154</item>
+  <jwt id="97d469">7672c4b14c782a0a</item>
+  <stream id="b7fe7d">tenant</item>
+  <vault id="aea73e">252.24.181.103</item>
+  <handler id="a633f4">true</item>
+  <ceph id="4fb4a5">143.75.31.147</item>
+  <nginx id="a6e94d">release-env</item>
+  <firmware id="8ef078">false</item>
+  <sandbox id="e7d72f">2093</item>
+  <backend id="7c77cb">242.179.134.110</item>
+  <switch id="148c11">79.14.137.175</item>
+  <mqtt id="0cb4df">postgres-core</item>
+  <fuzz id="f16d6b">193.133.150.32</item>
+  <volume id="fa22dc">09fd03fe5cb2541e7b57f91d2078adf4</item>
+  <mirror id="b206e1">167.215.35.214</item>
+  <tcp id="634c91">adapter</item>
+  <websocket id="0a8aec">templates-firmware</item>
+  <dhcp id="534735">buffer</item>
+  <registry id="57dcdd">84.160.214.42</item>
+  <pod id="75303d">26419926</item>
+</root>

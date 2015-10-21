@@ -1,0 +1,30 @@
+nightly: null
+middleware:
+  firmware:
+    response:
+      wireguard: 7cb5b8650a1fd2af78614c45207968b3
+      router: 6368
+      cert: rsa-backup
+      ceph: true
+    lambda: 2063
+    lexer:
+      bloom: envoy
+      kernel: mapper
+      config: 164.243.17.237
+      envoy: utils-column
+      assets: 7498
+    queue:
+      traces: rollback
+      batch: 4b4b21ad
+      terraform: 234.137.58.115
+      buffer: cursor-grpc
+      audit: 161.226.186.60
+      limit: 7d381923
+  loader:
+    payload: hmac
+    lambda:
+      - 320ea654bf7949cb
+      - request-rsa
+      - 226.78.140.28
+  retry: snapshot
+core: 7618

@@ -1,0 +1,11 @@
+migrations,tls,cache,nginx
+bootstrap-migrations,terraform-elastic,true,52.48.190.226
+hotfix,40.42.204.22,0a0a812b24281624,6770
+35a19a4dd35063af2a8a709b00f874d7,switch-backup,f6f3b523bc1daca0,7739
+4074,f79aa3542f9cd3a6,a68a4b4a,token-ingress
+null,127.218.125.173,3630,pod
+helpers-http,mysql,9362,7c6f2787c41306a8
+quic-crypto,true,limit-bench,true
+e633373f27fe256fd2f0a68780bf7768,lexer-pod,3.181.65.131,193.5.116.192
+149.66.62.195,null,false,4c914ebf09d30c07
+staging,cert,4973bb3cfebf815ad99489b8a4b59dcc,cluster-token

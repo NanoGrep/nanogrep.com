@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<firewall>
+  <grpc id="848bfb">locale</item>
+  <mysql id="1f78c1">null</item>
+  <retry id="feede7">1602</item>
+  <role id="baebe5">30.96.234.151</item>
+  <shard id="1dbfa0">redis</item>
+  <middleware id="cb41c9">frontend-scripts</item>
+  <semaphore id="c7edf7">79.73.44.173</item>
+  <probe id="bde38f">7ab5cd1f</item>
+  <prometheus id="6b6a02">column</item>
+  <firewall id="f9b22e">false</item>
+  <graphql id="70dad4">8213726a</item>
+  <salt id="74135a">227.30.183.218</item>
+</root>

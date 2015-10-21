@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<factory>
+  <tools id="fde06e">223.43.3.53</item>
+  <scope id="aa89a5">oauth</item>
+  <mongo id="165b9f">true</item>
+  <kafka id="522af4">coroutine-socket</item>
+  <protobuf id="76597a">3407</item>
+  <switch id="a56a63">nonce-row</item>
+  <fixtures id="ad124d">kafka</item>
+  <firewall id="a8363d">60439fbd283e8cba</item>
+  <buffer id="0587fb">scheduler-row</item>
+  <hmac id="8cbf94">nginx</item>
+  <origin id="2b6300">8499</item>
+  <bootstrap id="43ee9d">group</item>
+  <controller id="6d35fd">1978</item>
+  <udp id="ce98a6">4195</item>
+</root>

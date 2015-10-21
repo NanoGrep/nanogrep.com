@@ -1,0 +1,11 @@
+mqtt: traces-metrics
+graphql:
+  - fixtures-locale
+  - 2b6d6935
+  - null
+  - null
+logs: 9.91.203.94
+nfs:
+  buffer: node-payload
+  iptables:
+    frontend: 6f4f2dacde3d5fde

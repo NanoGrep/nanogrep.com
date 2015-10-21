@@ -1,0 +1,36 @@
+failover: false
+nonce: null
+ansible: yaml-policy
+topic:
+  iptables: tests
+  retry: dd722adc17948932a496382cf7f90cbc
+  middleware:
+    jwt: 4302
+    cache:
+      daemon: jenkins-nginx
+      tcp: nfs
+      release: null
+      rollback: 781
+      fuzz:
+        - 8638
+    ceph:
+      prod: alerts
+      volume: true
+  scope: helm-cgroups
+  crypto:
+    - systemd-kerberos
+    - true
+    - 970
+cron: true
+pod:
+  fuzz: b78e0b0101753f46
+  stream: kafka-nonce
+  volume:
+    subnet: true
+    bgp: origin
+    hotfix:
+      templates: watchdog
+      loader: 177
+      envoy: 3da5d12816b17568
+    config: 238.64.234.173
+    ingress: heap

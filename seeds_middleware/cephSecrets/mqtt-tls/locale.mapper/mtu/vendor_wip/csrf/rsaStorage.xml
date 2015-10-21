@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<kernel>
+  <controller id="de9733">table</item>
+  <bgp id="67cb7c">231.216.107.86</item>
+  <nginx id="43feaf">39.132.135.44</item>
+  <firmware id="80fe69">loader</item>
+  <offset id="6c54a3">mysql</item>
+  <stack id="d81754">null</item>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<beta>
+  <index id="eaca31">220.171.93.131</item>
+  <canary id="3942ef">raid</item>
+  <migrations id="c03c3c">7275</item>
+  <ingress id="c5302f">8174</item>
+  <audit id="111171">false</item>
+  <tools id="82b8ba">storage</item>
+  <bloom id="1d1694">sdk</item>
+  <backend id="be08f3">69342d9e</item>
+  <middleware id="7e0949">111.89.35.24</item>
+  <sha256 id="f9c202">6744</item>
+  <firewall id="0c2f2f">225.253.17.209</item>
+  <salt id="c3a891">52.150.19.225</item>
+  <table id="f5c449">true</item>
+  <backup id="426d29">6639ee1982bf9bfdcd22bf20b97d999b</item>
+  <gateway id="ae691b">kernel-shard</item>
+  <bench id="45be12">true</item>
+  <canary id="54c8aa">http-prometheus</item>
+  <envoy id="61d86c">aa6f1bc6aa441acf971f7f59062d5167</item>
+  <gateway id="9168b2">true</item>
+  <envoy id="5e47d7">42.58.152.126</item>
+</root>

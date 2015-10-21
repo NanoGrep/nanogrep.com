@@ -1,0 +1,35 @@
+utils:
+  patch: 7206
+adapter: 4717
+legacy:
+  origin: 254.49.115.96
+  heap:
+    kernel: dist
+    helm: 183.192.69.33
+  protobuf: 9631
+  edge:
+    failover: 21.135.65.234
+    bench: false
+    http: storage-column
+    grpc:
+      protobuf:
+        - core
+      scheduler: true
+      tcp: mutex
+    crypto:
+      user: true
+      config:
+        - 7764
+        - elastic
+      env: false
+      graphql: 9899
+      templates: mirror-salt
+      queue: artifact-wireguard
+  session:
+    - null
+    - 3846fb87fe93aa0a
+  bootstrap: true
+threadpool:
+  tcp: false
+  prod: 6743
+  bootstrap: artifact-object

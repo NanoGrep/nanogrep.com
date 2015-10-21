@@ -1,0 +1,97 @@
+{
+    "backend": {
+        "hashmap": {
+            "build": {
+                "ceph": false
+            },
+            "websocket": 8969
+        },
+        "jwt": [],
+        "assets": {
+            "fixtures": {
+                "ceph": false
+            },
+            "traces": {
+                "rest": "07ed8b7862da",
+                "bgp": false
+            },
+            "logs": {
+                "compiler": null,
+                "backup": "b5bca760b3c8",
+                "envoy": true,
+                "pipeline": false,
+                "patch": true
+            },
+            "buffer": {
+                "mirror": false,
+                "helm": 7801,
+                "cron": true
+            },
+            "dhcp": null
+        },
+        "mysql": {
+            "cursor": {
+                "kafka": "c2a15b62e871"
+            },
+            "buffer": 1207,
+            "alerts": {
+                "scope": "6f16a79e27c8",
+                "patch": 6491,
+                "bloom": true,
+                "subnet": 9299
+            }
+        },
+        "scope": {
+            "mesh": "6674c1827e18",
+            "limit": {
+                "response": false,
+                "driver": true,
+                "terraform": "lexer",
+                "sandbox": "offset",
+                "iptables": 7536
+            },
+            "crypto": [
+                null,
+                true,
+                3722
+            ],
+            "ansible": null,
+            "prometheus": []
+        }
+    },
+    "terraform": {
+        "btree": [
+            false
+        ],
+        "alerts": {
+            "tcp": "user"
+        },
+        "policy": [
+            {
+                "buffer": null,
+                "nonce": "json"
+            }
+        ]
+    },
+    "sha256": [],
+    "prometheus": {
+        "cookie": true,
+        "lexer": 5003,
+        "build": {
+            "bloom": {
+                "mysql": null
+            },
+            "column": {
+                "firewall": true,
+                "sandbox": "tls",
+                "row": false,
+                "dist": "195c6e6eb268",
+                "jenkins": "4fe33b8467f9"
+            },
+            "stream": {
+                "object": false
+            }
+        },
+        "fuzz": "0b782df6e630"
+    }
+}

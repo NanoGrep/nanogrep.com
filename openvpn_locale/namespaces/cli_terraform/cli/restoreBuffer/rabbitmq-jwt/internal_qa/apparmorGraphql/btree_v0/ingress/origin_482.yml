@@ -1,0 +1,13 @@
+zfs: cors-vault
+aes: metrics
+locale:
+  rest:
+    api: 6ddea268
+    probe:
+      controller: null
+      firewall: 158.167.181.158
+      token: null
+scope: 75.217.69.239
+traces:
+  common: 141.61.198.111
+lexer: prod-service

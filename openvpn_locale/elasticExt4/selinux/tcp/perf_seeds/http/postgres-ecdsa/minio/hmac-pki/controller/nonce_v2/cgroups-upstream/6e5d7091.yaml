@@ -1,0 +1,36 @@
+alerts: false
+index:
+  node:
+    yaml: false
+    kerberos:
+      - 207.166.125.177
+    json: false
+    migrations: false
+  ansible: tls-sha256
+  mongo:
+    factory: 321d93c2
+    release: role
+    edge:
+      - 7616
+      - nginx-rollback
+  redis: sdk
+firmware:
+  cookie:
+    offset: role-vendor
+    traces:
+      env: false
+      retry: 69e77eb1fc2ab352d09da56ac2cb0bfb
+    trie:
+      gateway:
+        - nfs-audit
+        - 175.45.132.50
+    grpc: 3962
+    threadpool:
+      scripts: frontend-vendor
+      kerberos: wireguard-mutex
+    trie: topic
+  offset: firmware-storage
+handler:
+  envoy: request-role
+  json: null
+runner: artifact-row

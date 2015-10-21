@@ -1,0 +1,20 @@
+{
+  "oauth": [
+    "0a4b6d1f2562",
+    {
+      "mysql": {
+        "terraform": 7921,
+        "btree": 1692,
+        "graphql": false,
+        "ansible": false,
+        "tcp": 7733
+      },
+      "grafana": 1514,
+      "pipeline": "gateway",
+      "build": {
+        "jenkins": true
+      },
+      "cursor": "firewall"
+    }
+  ]
+}

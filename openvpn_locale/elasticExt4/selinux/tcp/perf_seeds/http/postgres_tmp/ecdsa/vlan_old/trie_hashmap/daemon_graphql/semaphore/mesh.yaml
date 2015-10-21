@@ -1,0 +1,26 @@
+pipeline:
+  patch:
+    mysql: e9d1fd6cec386720
+    json:
+      mapper: 41c6a01fe2578ac3aea49cc0ae5e02d7
+      session: 205.111.229.142
+    coroutine: d8dce896b305337a
+    tests: systemd
+  patch: origin-fixtures
+lib:
+  proxy: replica
+  http: cache-helpers
+  request:
+    - 7328
+  bgp: 104.15.154.172
+  http: 6608
+  backup: 6100
+rsa:
+  - df6050ae9fb62c33
+  - true
+  - firewall
+  - null
+handler:
+  cron: cors-regex
+bootstrap: http-elastic
+ceph: staging

@@ -1,0 +1,27 @@
+{
+  "migrations": "1e6490ab422a",
+  "yaml": "d6df8496c36a",
+  "hmac": [],
+  "upstream": {
+    "artifact": {
+      "elastic": {
+        "backup": "policy"
+      },
+      "scheduler": [
+        null
+      ],
+      "traces": [
+        false,
+        "helpers",
+        "mirror",
+        false
+      ],
+      "mirror": [
+        false,
+        "staging",
+        true
+      ],
+      "row": true
+    }
+  }
+}

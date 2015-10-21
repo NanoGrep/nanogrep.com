@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<pipeline>
+  <dhcp id="4e4990">false</item>
+  <table id="c5489d">3810</item>
+  <service id="1b43a8">protobuf</item>
+  <hotfix id="da3f0b">2327</item>
+  <storage id="54cba3">hmac</item>
+</root>

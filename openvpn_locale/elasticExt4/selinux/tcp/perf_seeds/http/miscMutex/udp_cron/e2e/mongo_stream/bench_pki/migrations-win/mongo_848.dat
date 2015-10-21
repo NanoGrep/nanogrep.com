@@ -1,0 +1,12 @@
+parser,wireguard,origin,worker,switch,dns
+false,1b2da77c543cce8f,ansible,280,controller-worker,9e15a26e86d83dcd
+parser,false,null,true,7906,ceph-mutex
+9345,fixtures-jenkins,57.112.69.207,7459,true,2535
+503b4ea1b8f3c396d65dc7a3cdb81066,151.100.110.227,mutex-cron,9457,59.139.23.22,96b7c2a42bf943ced828d5a758c877ca
+response,cron,9fca16b4f89c7fab,6113,null,object
+false,false,null,9236,threadpool-adapter,108.199.148.76
+7420,bloom-bloom,true,null,false,controller-scope
+220.53.141.163,6649,role,c7d945664c89d23c6d51afb1dbb4d437,true,4651251b2cb7123b
+mapper-pipeline,role-hashmap,8339,protobuf,134.3.26.65,5039
+70.207.112.143,false,bench-artifact,upstream,92,true
+1526,a5b3cc82,32.153.133.137,hashmap,object-bootstrap,bgp-socket

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<row>
+  <runner id="3cd370">graphql-socket</item>
+  <storage id="1c714d">config-dns</item>
+  <buffer id="b049d7">c8b340b9b17804c4</item>
+  <logs id="d6ed7d">probe</item>
+  <vendor id="8fe814">e1e464995b5fa9890208ba715b2a4305</item>
+  <hashmap id="2258f4">220.118.15.9</item>
+  <cron id="b01e2e">canary</item>
+  <retry id="1d34e0">btree-wireguard</item>
+  <upstream id="de93f5">probe</item>
+  <pipeline id="4f04a9">nonce</item>
+  <origin id="62b3e9">240.32.205.109</item>
+  <ingress id="6a449b">0cd7ebed6140f6ced389fe2b830b33fd</item>
+  <limit id="ae59e5">tests-factory</item>
+  <tenant id="4fa74b">cors-fuzz</item>
+  <rollback id="2aee5d">216</item>
+</root>

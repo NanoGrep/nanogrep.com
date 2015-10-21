@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<helm>
+  <failover id="578e80">b8496784</item>
+  <mapper id="7d7de3">2956</item>
+  <utils id="2094b1">148.142.221.97</item>
+  <pod id="5328fb">core-hashmap</item>
+  <mesh id="1ceb0a">201.127.14.24</item>
+  <elastic id="fd9f72">8992</item>
+  <rollback id="3d020c">7287</item>
+  <assets id="564af0">websocket</item>
+  <grpc id="ae37bc">mocks-migrations</item>
+  <udp id="5da416">snapshot</item>
+  <bench id="8d1537">bloom</item>
+  <rest id="0050d4">222.124.45.62</item>
+  <limit id="370e2a">snapshot</item>
+  <vendor id="b76e31">1679</item>
+  <prod id="cd578b">scripts</item>
+  <mqtt id="7449da">true</item>
+  <driver id="734a09">graphql</item>
+  <prometheus id="6d07f8">nat</item>
+  <hashmap id="ee2d2f">true</item>
+  <frontend id="53ae9a">23.91.14.81</item>
+  <middleware id="4cfa16">50.74.165.225</item>
+  <compiler id="facd1b">middleware-grafana</item>
+  <middleware id="d083e1">locale-hashmap</item>
+</root>

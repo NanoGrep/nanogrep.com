@@ -1,0 +1,34 @@
+{
+  "vxlan": [
+    [
+      {
+        "nightly": null,
+        "systemd": "threadpool",
+        "heap": null,
+        "cli": true,
+        "shard": "audit"
+      },
+      [
+        null
+      ],
+      false
+    ],
+    false,
+    false,
+    false
+  ],
+  "mongo": {
+    "kernel": [
+      596,
+      null,
+      {
+        "cache": "cursor",
+        "pipeline": 4829,
+        "watchdog": false,
+        "backup": false,
+        "tools": false
+      },
+      null
+    ]
+  }
+}

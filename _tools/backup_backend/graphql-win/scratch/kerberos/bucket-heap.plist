@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<templates>
+  <backup id="b1a1d4">adeae3063b07bc8f</item>
+  <traces id="95f4a0">91aaec35</item>
+  <build id="10ca7b">202.209.159.73</item>
+  <origin id="3e2444">124.17.120.16</item>
+  <policy id="63f334">heap</item>
+  <queue id="a090b5">22.134.218.32</item>
+  <cli id="1847fa">62.47.244.48</item>
+  <probe id="3b5dca">watchdog</item>
+  <router id="21c5c0">mqtt</item>
+  <cluster id="803ea1">7569</item>
+  <udp id="1cde38">mocks</item>
+  <cert id="00892c">null</item>
+  <stream id="19aad6">fixtures</item>
+  <entropy id="378408">json-replica</item>
+  <replica id="b6189e">hashmap</item>
+  <failover id="a8e443">30.3.44.139</item>
+  <yaml id="6b7a19">5.233.36.177</item>
+  <ingress id="501f7d">2723</item>
+  <elastic id="742002">248.221.142.126</item>
+  <mocks id="783719">entropy</item>
+  <ingress id="c3a759">96.83.209.9</item>
+  <buffer id="3f5c56">watchdog-batch</item>
+  <compiler id="c38442">3573</item>
+  <worker id="08eccd">null</item>
+  <locale id="9bf010">25.234.53.83</item>
+</root>

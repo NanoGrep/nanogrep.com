@@ -1,0 +1,52 @@
+[
+  {
+    "offset": {
+      "worker": 9282,
+      "helm": null,
+      "lib": null
+    },
+    "handler": 5075,
+    "scripts": null
+  },
+  {
+    "gateway": {
+      "api": [
+        7990
+      ],
+      "bloom": {
+        "bgp": true,
+        "edge": true,
+        "hmac": false
+      },
+      "redis": {
+        "jenkins": "dhcp",
+        "legacy": false,
+        "core": "131e0384b317"
+      },
+      "retry": "redis",
+      "tcp": {
+        "tenant": "hashmap",
+        "cron": true,
+        "pod": false,
+        "systemd": true
+      },
+      "audit": []
+    }
+  },
+  [
+    "352bb6b9e73f",
+    {
+      "vendor": {
+        "vxlan": 7146,
+        "postgres": null,
+        "column": true,
+        "watchdog": "576d4cada31c"
+      },
+      "middleware": false,
+      "socket": [
+        "redis",
+        1340
+      ]
+    }
+  ]
+]

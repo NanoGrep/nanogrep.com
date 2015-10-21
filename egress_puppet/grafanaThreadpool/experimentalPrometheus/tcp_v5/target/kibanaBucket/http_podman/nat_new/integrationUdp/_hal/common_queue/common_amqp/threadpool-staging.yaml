@@ -1,0 +1,29 @@
+shard: null
+offset:
+  templates: coroutine-stack
+  daemon:
+    api:
+      fuzz: 100.146.2.140
+      policy: 145.140.160.117
+    kerberos: 3324
+    topic:
+      - session
+      - 5.109.250.114
+      - 165
+      - db20e36e6c2759a06b7a71c350c1ca3d
+    limit:
+      - 27.119.25.235
+      - 2698
+      - null
+      - 4122
+mapper: 0f46374c
+env: false
+watchdog:
+  dhcp: terraform-sdk
+  oauth:
+    common: 113.26.159.11
+    cli: hmac-zfs
+    ingress: 2435
+    dhcp: mqtt
+  metrics: firewall-service
+  gateway: 21.26.69.43

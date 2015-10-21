@@ -1,0 +1,9 @@
+row: null
+salt:
+  retry:
+    threadpool: 6cfd5ecd
+    hmac: 138.231.125.30
+elastic: http-batch
+templates: false
+service: 28bcc63e
+jenkins: topic

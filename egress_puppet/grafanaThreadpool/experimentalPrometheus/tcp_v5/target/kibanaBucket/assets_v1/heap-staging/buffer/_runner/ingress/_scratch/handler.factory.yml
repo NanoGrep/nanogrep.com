@@ -1,0 +1,13 @@
+mesh: 205.150.232.40
+driver:
+  offset: 6284
+  switch: helpers-cache
+  buffer: 120
+limit:
+  core: 6159
+  group:
+    - 6257
+    - 2332
+  semaphore: a4ddd16307cd7b8950ca0295f98aa2a6
+  patch:
+    mongo: 186.133.209.186

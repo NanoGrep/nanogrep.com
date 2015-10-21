@@ -1,0 +1,21 @@
+service:
+  snapshot:
+    - 377
+    - 7339
+  node: false
+  token:
+    patch: 0582a446
+  row: factory-prometheus
+  bench: 02b9a6c530ffd843
+  api: 2a5a01019257c5a79234defaa199c520
+nfs:
+  - false
+  - elastic
+  - 166
+  - fb4c6d42e262b5bb
+regex: 114.138.229.177
+grafana: bc7d4b9084e72274
+registry:
+  - 1946
+  - 131.137.26.225
+  - 50.51.181.51

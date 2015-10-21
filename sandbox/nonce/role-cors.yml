@@ -1,0 +1,12 @@
+bootstrap:
+  - 6949
+nightly:
+  cron: 99.120.18.57
+  service:
+    nginx: cron
+  backup: helm-ceph
+  staging: 149.244.245.71
+redis: true
+tls:
+  - 031dec91
+  - 8dab53b533f2390b662e2a8c36124e43

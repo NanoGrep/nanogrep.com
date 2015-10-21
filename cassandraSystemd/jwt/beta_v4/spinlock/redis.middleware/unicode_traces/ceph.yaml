@@ -1,0 +1,72 @@
+postgres: threadpool-mysql
+request: service-graphql
+release:
+  release: 146.225.20.254
+  rsa:
+    - fuzz-kerberos
+  http:
+    registry: 1783
+  helpers: true
+  traces:
+    mapper: 245.76.170.109
+tls:
+  build:
+    adapter: false
+    backup: 133.198.90.96
+    oauth: scope-hotfix
+    kerberos:
+      aes: 505f61278ec5ba6a
+      jwt:
+        - null
+        - 2401
+        - 189.66.227.61
+        - 320d328cb5349266
+    sandbox: artifact
+  cache:
+    ingress: true
+    json:
+      salt:
+        - build-session
+        - 13.234.151.206
+      object:
+        - 6b872ccb5673b0f9832063ad6ccad8d5
+        - 229.220.251.157
+        - sha256
+      scope:
+        - cba4cce767dee5b763daa73a53309e6f
+        - 8300
+      semaphore: 83.220.84.228
+      threadpool: 913abc901dc49fc62430ad2bd6aecff1
+      kerberos: 234.90.241.166
+    mysql:
+      sha256: 3e009f8ea2360c13bb920a7ccef2f023
+      artifact:
+        - d74fc20a65c65ff1faf1820fe3708403
+  pipeline:
+    mqtt: 52.160.123.235
+  ansible: 204.109.138.91
+  fuzz:
+    tests: user-json
+    ceph: 8641
+    scheduler: 204.103.106.205
+    grpc:
+      nat: 5935
+cgroups:
+  - 238.61.222.86
+  - kafka
+  - 128.139.162.71
+systemd:
+  grafana:
+    - 7828
+  coroutine:
+    volume:
+      node:
+        - 2edf57197caf346e
+      lambda: 24.214.70.84
+      router:
+        - vxlan
+      sdk: pod
+      role: watchdog
+      probe:
+        - 203.177.11.9
+        - fuzz-staging

@@ -1,0 +1,10 @@
+pod:
+  redis:
+    locale:
+      row: oauth-nightly
+      metrics: 2816
+    scheduler: registry-pipeline
+ingress: 29.18.123.242
+kafka: 67.139.60.221
+ldap: 3805
+dist: 239.251.115.236

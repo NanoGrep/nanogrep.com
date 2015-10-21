@@ -1,0 +1,16 @@
+config,worker,iptables,ldap,heap,fuzz,limit
+211.238.231.198,2254,3507,1969,proxy,protobuf-watchdog,cursor-controller
+hmac,cache-protobuf,postgres-btree,patch,138.171.59.222,mocks,95.232.59.219
+240.81.171.96,common-user,daemon-kafka,241.75.134.211,2825,243.229.240.204,164.70.70.86
+2050,4169,true,true,5022,7503,cors-proxy
+prod,6994,dist,e78365706138a951,false,131.250.159.104,05f437f5
+6f3a89dc418798292fac9996a67a91d0,jwt-ingress,scheduler,9408,table-release,true,migrations
+3203,true,patch-kafka,205.9.0.86,release-rollback,router,52e96357
+true,3520,565,request,1527,watchdog-legacy,6897
+9686,false,b1f43efc,false,92.175.11.132,null,184.179.33.250
+null,132.170.24.104,52.139.163.6,c7e7cc27fe2d0081f9c3d0cebd0c8daf,queue-subnet,2063,7897
+tenant,195.112.2.31,fe241568993346b528acedfd0545beb4,false,f93ce999f1b7ed6d7257cfaf9508335f,true,true
+157.114.63.253,edge-hmac,scripts-storage,7563,1197,4027,5337
+controller-config,153.146.13.43,9804,6301,dhcp,release-mqtt,49.36.123.30
+storage,nfs,daemon,4357636cfb509447073d7e4afc32c53a,4653,4112,null
+canary,df16c8b3,7036,80.199.23.154,20.232.58.45,e1fc87ec,frontend-zfs

@@ -1,0 +1,25 @@
+kafka:
+  mongo: d1b7d7c187d03736
+  canary:
+    payload: af5eefe4840b9b72e6c1b4e44375abe9
+    hmac: cc2c3b95040d4380
+  json: vendor-upstream
+  fuzz: handler
+  rest: c6b5a9da
+firmware: gateway-firmware
+nat: build-bench
+release:
+  build: switch
+  tls:
+    - 1319
+    - true
+    - 5468
+  mqtt: false
+  adapter: 2463
+ceph:
+  oauth:
+    - 178.58.19.17
+    - build-jwt
+  env:
+    router: false
+row: 2817

@@ -1,0 +1,83 @@
+{
+    "build": {
+        "rollback": {
+            "sha256": 2704,
+            "sdk": 8680,
+            "iptables": [
+                true,
+                "payload",
+                "shard"
+            ],
+            "limit": "64ba97fb03f3",
+            "stack": {
+                "threadpool": false,
+                "cron": true,
+                "ansible": true,
+                "mongo": true,
+                "replica": "3590f1ecd9ca",
+                "index": 5044
+            }
+        }
+    },
+    "json": [
+        {
+            "column": []
+        },
+        {
+            "limit": {
+                "threadpool": null,
+                "ansible": "lambda",
+                "canary": "3dfba4c40f38",
+                "trie": "semaphore",
+                "buffer": null,
+                "user": true
+            },
+            "tcp": "coroutine",
+            "firmware": false,
+            "queue": false
+        },
+        null,
+        {
+            "hotfix": {
+                "prod": 408
+            },
+            "fuzz": "yaml",
+            "lexer": "worker",
+            "proxy": [
+                false,
+                "zfs",
+                true,
+                "middleware"
+            ],
+            "kernel": null,
+            "offset": {
+                "legacy": 4239,
+                "hashmap": "patch",
+                "iptables": null
+            }
+        }
+    ],
+    "sandbox": [
+        {
+            "hashmap": 7798,
+            "stack": "039de2167ab0",
+            "probe": true,
+            "queue": {
+                "request": "e3746638bd14",
+                "common": 9495,
+                "snapshot": true,
+                "retry": false,
+                "firmware": "nginx"
+            },
+            "shard": false,
+            "quic": "07eeac73d583"
+        },
+        {
+            "heap": "e9507dd1931a",
+            "group": null,
+            "column": true,
+            "sha256": 146,
+            "sdk": "mutex"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bgp>
+  <kafka id="419631">bucket-bench</item>
+  <tls id="64622a">true</item>
+  <registry id="af6f8c">469ba350</item>
+  <oauth id="caf56b">5f00dfd2bae1604d0a9453d5377bd741</item>
+  <bucket id="2c6bb8">traces-router</item>
+  <queue id="96f53e">null</item>
+  <jwt id="fb578d">3309</item>
+  <handler id="93403c">rest</item>
+  <tools id="8d3ec4">user</item>
+</root>

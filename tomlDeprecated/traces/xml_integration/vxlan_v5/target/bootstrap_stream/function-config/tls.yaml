@@ -1,0 +1,57 @@
+snapshot: daemon
+protobuf:
+  systemd:
+    helpers: 1224
+    coroutine: firmware-vlan
+    nonce:
+      aes:
+        - patch
+        - volume-nightly
+        - 212.106.78.184
+      hmac:
+        - ldap-hashmap
+        - shard-frontend
+      mysql: false
+      traces:
+        - 9892
+        - true
+        - 0ea650c6868df621
+        - 3919
+      bucket:
+        - 126.175.214.132
+        - 127
+        - nat-scripts
+        - 10.194.254.108
+      ldap: beta-socket
+    metrics:
+      threadpool: 27.196.23.149
+      yaml: nginx
+      locale:
+        - backend-response
+      vault: f525be7c705afbf39ac5e012ffb17fc4
+      metrics:
+        - nightly-request
+        - queue-aes
+        - 7256
+        - false
+      jenkins: 43.14.173.239
+    rollback: 8293
+  request: mirror
+  cert: wireguard-wireguard
+controller: 158.237.154.44
+zfs: 189.166.9.7
+salt:
+  canary:
+    cookie:
+      udp: f30e3bce33a90b71b1509e65b524690a
+      lib: 7170
+      postgres: e93afc37
+      nfs: threadpool
+      lexer: 8483
+      ceph: db09926fedbbd141d4d34c2260a2feb9
+  vault: 6953
+regex:
+  - 232.205.254.165
+  - 18.103.249.102
+  - true
+  - 3237

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<nightly>
+  <mysql id="645c95">1374b795375e65f7</item>
+  <terraform id="ec34e7">watchdog-nat</item>
+  <locale id="7ccdba">1631</item>
+  <middleware id="a2fc3d">8642</item>
+  <mesh id="a394c6">9050</item>
+  <registry id="79ed99">sandbox-runner</item>
+  <fixtures id="8b2a7f">controller-subnet</item>
+  <beta id="23d329">7fe65f9b</item>
+  <middleware id="07b8e1">tls</item>
+  <cgroups id="47cec4">9ee7706f4d13bb8d9e1b790f51fe3209</item>
+  <cookie id="b02d76">ceb2ca9f</item>
+  <postgres id="efcf9f">null</item>
+  <volume id="999c1a">8386</item>
+  <websocket id="e6e9de">78c87c5f</item>
+  <middleware id="2a71e9">95.61.231.238</item>
+  <user id="fc5083">5675</item>
+  <mqtt id="d69279">grpc</item>
+  <cli id="240c46">vault-buffer</item>
+  <bench id="5aa822">service-build</item>
+</root>

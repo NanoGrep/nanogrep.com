@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zfs>
+  <systemd id="71a189">false</item>
+  <role id="62ea17">column-mongo</item>
+  <heap id="5a4510">systemd</item>
+  <sandbox id="ce2efa">false</item>
+  <session id="dae51d">nightly</item>
+  <shard id="acbb08">7.26.220.82</item>
+  <subnet id="ad1f71">940efada</item>
+  <scripts id="e67056">6.148.17.86</item>
+  <core id="d46e37">5978</item>
+  <index id="c9c7b1">cc7eacaef6dfcc20</item>
+  <retry id="269c44">1042</item>
+  <bucket id="a13a09">true</item>
+</root>

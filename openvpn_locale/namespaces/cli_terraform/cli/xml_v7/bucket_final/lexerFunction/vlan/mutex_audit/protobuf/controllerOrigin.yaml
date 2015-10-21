@@ -1,0 +1,12 @@
+registry:
+  fuzz: true
+  cluster:
+    - 9344
+  mesh: cron
+  legacy: false
+systemd:
+  - index
+audit:
+  - 192.1.215.114
+  - 6313
+common: 44.94.221.101

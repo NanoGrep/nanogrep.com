@@ -1,0 +1,63 @@
+lib:
+  crypto: true
+  alerts:
+    cookie: 2945
+    kafka: 2168
+    factory: fde6f4d67cc737dd
+    redis: false
+    logs: 123.89.20.224
+    cors:
+      - 7706
+      - 1227
+      - 3464
+      - null
+  jenkins:
+    payload: 5253
+    sdk: raid-grafana
+    regex:
+      rsa:
+        - false
+        - 149.105.81.120
+        - false
+        - firmware-lib
+      tools: 595793769a287865a91174580ad384e6
+      rsa:
+        - 189.151.146.144
+        - true
+        - vlan-buffer
+        - dist-storage
+      traces: 65.105.150.38
+      driver: 4713fdbebe6d949a626b84a028069f94
+    patch:
+      column: bucket
+      frontend: false
+      tls: 173.48.109.33
+      failover: c761c3db815bd49e9aa1243e5176c29a
+      zfs: 150.200.116.228
+      ldap:
+        - 141.220.166.67
+        - null
+        - false
+  frontend:
+    backend:
+      switch: 43.72.60.75
+      proxy: 234.113.129.217
+    tcp: udp
+    stream: scope
+    loader: assets
+    shard: 4771
+  router:
+    vendor: 18.143.191.177
+    firewall: true
+    cluster:
+      migrations: 8439
+      regex: false
+      firewall: lambda
+      trie:
+        - loader
+        - 6814
+shard: common
+crypto:
+  - 2893
+  - systemd-queue
+hmac: 254.81.124.90

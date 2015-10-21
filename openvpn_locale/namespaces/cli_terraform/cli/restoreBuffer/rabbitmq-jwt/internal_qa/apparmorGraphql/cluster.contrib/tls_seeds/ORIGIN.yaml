@@ -1,0 +1,14 @@
+worker: 130.22.101.147
+driver:
+  staging: 14.9.175.222
+  templates: sdk-yaml
+  salt:
+    pod:
+      - 4940
+      - 4b1b18b00fe005b5
+  rest:
+    - false
+    - 82.128.201.190
+    - true
+  lambda: stack-token
+websocket: index-sdk

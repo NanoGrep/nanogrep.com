@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<mongo>
+  <api id="c3dd4a">audit-batch</item>
+  <table id="82b7cf">978</item>
+  <factory id="d223a6">ce8c21cc</item>
+  <nfs id="37b059">null</item>
+  <scope id="2a56da">9772</item>
+  <config id="4c2d9f">4219</item>
+  <ingress id="5a66b9">6a99f3efbc86415795f3b545990c8477</item>
+  <btree id="297a4d">tests</item>
+  <frontend id="fa6a69">3946</item>
+  <core id="ead2ae">bgp</item>
+  <payload id="bd3108">4452</item>
+  <ldap id="6a0120">a11b0eebf9ad9d17910a7257ad657952</item>
+  <pod id="be47f4">63bc69681d43e274</item>
+  <node id="1e1a1d">105.72.142.100</item>
+  <common id="a3bbab">5083</item>
+  <row id="29921f">sdk-env</item>
+  <tenant id="51a7c8">60dd0100</item>
+  <retry id="b81004">4340</item>
+  <scheduler id="682162">8c5a8761</item>
+  <scheduler id="56ed67">false</item>
+  <entropy id="5f3fb3">raid</item>
+  <jenkins id="af2f5c">b5b28c264040b04e</item>
+  <beta id="83c600">4651</item>
+  <lambda id="1df4fd">schema-registry</item>
+</root>

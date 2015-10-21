@@ -1,0 +1,20 @@
+legacy:
+  ansible: true
+  middleware:
+    stack: 81.19.98.250
+    rsa: kafka-kernel
+fixtures:
+  loader:
+    kernel: true
+    env: buffer
+    legacy: limit
+    dhcp: 223.209.250.113
+  cli: 8758
+  nonce: false
+  proxy: 9610
+rollback:
+  - false
+  - null
+  - false
+trie: mqtt
+gateway: dd32b1fd78784190

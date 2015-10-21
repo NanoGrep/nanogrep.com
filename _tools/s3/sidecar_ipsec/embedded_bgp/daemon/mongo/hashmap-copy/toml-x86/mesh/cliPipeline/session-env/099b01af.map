@@ -1,0 +1,102 @@
+{
+    "subnet": "cursor",
+    "patch": false,
+    "schema": {
+        "quic": "1bd48150aa83",
+        "registry": 510,
+        "dist": {
+            "ingress": false,
+            "edge": null,
+            "nat": {
+                "limit": false,
+                "mutex": false,
+                "rollback": true
+            },
+            "registry": [
+                null,
+                true,
+                "loader",
+                false
+            ],
+            "cert": false
+        },
+        "json": {
+            "hashmap": "8081683893bf",
+            "sandbox": [
+                "mutex",
+                "fixtures"
+            ],
+            "release": "nightly",
+            "rsa": false,
+            "loader": [
+                "socket",
+                "0807da8461ea"
+            ]
+        },
+        "request": [
+            {
+                "nat": 9628,
+                "systemd": null
+            }
+        ]
+    },
+    "loader": {
+        "bloom": "0ca364ef12d5",
+        "mqtt": {
+            "stream": {
+                "nginx": null,
+                "cache": "92e84dcc96f6",
+                "logs": false,
+                "shard": null,
+                "worker": true
+            },
+            "backup": {
+                "rest": "scheduler",
+                "http": false,
+                "column": "3e440bdd323c",
+                "registry": null,
+                "regex": 1917,
+                "canary": "helpers"
+            },
+            "registry": "27b5c7eac133",
+            "scope": [
+                9131
+            ],
+            "http": false,
+            "driver": {
+                "systemd": null,
+                "tcp": false,
+                "logs": "schema",
+                "helm": "8006b3004b58"
+            }
+        },
+        "aes": null,
+        "mesh": {
+            "prod": {
+                "envoy": 2053,
+                "schema": true,
+                "threadpool": true,
+                "locale": "assets",
+                "request": 6780,
+                "compiler": 171
+            },
+            "request": false,
+            "semaphore": null,
+            "tools": {
+                "topic": 6631,
+                "controller": false,
+                "config": 1518,
+                "http": null
+            },
+            "aes": {
+                "mysql": false,
+                "gateway": false,
+                "traces": null,
+                "failover": false,
+                "cache": "7d818df96acb",
+                "subnet": 3642
+            }
+        },
+        "hmac": 3058
+    }
+}

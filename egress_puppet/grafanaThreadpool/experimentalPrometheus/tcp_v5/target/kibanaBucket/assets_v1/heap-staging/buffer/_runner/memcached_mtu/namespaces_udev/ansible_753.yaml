@@ -1,0 +1,6 @@
+storage: 465
+pipeline: true
+nightly:
+  fuzz: grafana-cli
+jwt:
+  - object

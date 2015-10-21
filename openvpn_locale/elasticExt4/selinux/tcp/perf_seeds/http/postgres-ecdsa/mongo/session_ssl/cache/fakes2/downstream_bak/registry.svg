@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<socket>
+  <beta id="291ad5">prod</item>
+  <upstream id="efc45c">ebabb6b310b6101f</item>
+  <legacy id="b80dba">true</item>
+  <mutex id="2342b4">topic</item>
+  <cgroups id="e0c73e">config</item>
+  <oauth id="80c6b1">false</item>
+  <migrations id="308a20">113.156.109.38</item>
+  <vendor id="8a4634">null</item>
+</root>

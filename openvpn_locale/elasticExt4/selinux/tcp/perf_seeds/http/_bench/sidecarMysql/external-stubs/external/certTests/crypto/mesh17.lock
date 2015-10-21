@@ -1,0 +1,63 @@
+[
+    {
+        "dns": {
+            "cors": {
+                "queue": "group",
+                "frontend": true,
+                "adapter": true,
+                "pipeline": "aabbffc84172",
+                "helm": "a824535213d7"
+            },
+            "helm": {
+                "utils": "dist",
+                "helpers": "164f1ce0d5a0",
+                "factory": "snapshot"
+            },
+            "handler": [
+                4681,
+                null,
+                true
+            ],
+            "cgroups": "volume",
+            "nfs": {
+                "dist": 6306,
+                "redis": null,
+                "payload": "873c0aeb7cb2",
+                "entropy": 5932,
+                "backup": 711,
+                "lexer": "337a67aaae2b"
+            },
+            "nightly": {
+                "templates": "user",
+                "beta": "3dbc76084a11",
+                "cursor": false
+            }
+        },
+        "nightly": {
+            "systemd": null,
+            "prod": {
+                "nat": 6041
+            },
+            "origin": false,
+            "switch": [
+                4962,
+                "entropy"
+            ]
+        },
+        "registry": {
+            "kernel": {
+                "driver": true,
+                "cookie": true,
+                "systemd": null,
+                "switch": false,
+                "edge": "9f15e5ea650b"
+            },
+            "postgres": [
+                null
+            ]
+        }
+    },
+    [],
+    5318,
+    null
+]

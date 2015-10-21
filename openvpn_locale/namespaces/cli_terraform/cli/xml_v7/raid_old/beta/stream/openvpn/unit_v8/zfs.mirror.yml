@@ -1,0 +1,7 @@
+factory:
+  metrics: watchdog-gateway
+tests:
+  - 221.105.27.122
+  - true
+  - object-batch
+  - retry-elastic

@@ -1,0 +1,15 @@
+locale,cli,offset,upstream
+24.137.249.57,null,6771,null
+regex,null,9542bd7a,cgroups
+127.246.143.159,25.39.16.48,ea5b578b779970604bc15a07c0357865,227.5.1.107
+nightly-daemon,origin-tools,grafana,97.154.19.173
+ingress-hmac,false,27.27.23.182,salt-oauth
+false,scope-migrations,legacy,false
+8242,registry-retry,nonce-helpers,3b9304f3
+6299,5787,terraform-runner,314
+5aeb4ad15c058610,b4d5e677d403d39ff65752a5b57c2418,50df2217d693ddeb,207.15.39.152
+ceph-bucket,7e081777,bootstrap,5937
+controller,7113,parser,batch
+false,0cbd223c,switch,235.253.164.241
+84.74.177.253,failover,false,7581
+null,6378,2491,117.119.211.95

@@ -1,0 +1,22 @@
+batch: env
+group:
+  - null
+session:
+  storage: 6294
+  nat: canary
+  vxlan:
+    watchdog:
+      parser: false
+      subnet: 949
+      lexer: false
+      terraform: metrics-scope
+    nightly: 124.76.232.15
+    dhcp:
+      - true
+      - 9726
+  switch: 99.142.208.90
+  websocket: topic-elastic
+  sdk: ef287f15403fdaad
+aes:
+  firmware: 236.31.164.115
+tls: group

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<env>
+  <mocks id="6626c6">577</item>
+  <cookie id="e70df7">71.143.70.160</item>
+  <legacy id="66b948">nfs</item>
+  <token id="56dac9">208.150.170.135</item>
+  <parser id="6646b7">factory-index</item>
+  <mongo id="576cf3">6487</item>
+  <grpc id="2a53f7">true</item>
+  <rsa id="be9b37">utils</item>
+</root>

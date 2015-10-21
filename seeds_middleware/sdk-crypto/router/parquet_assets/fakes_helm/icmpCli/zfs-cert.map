@@ -1,0 +1,18 @@
+{
+    "regex": {
+        "regex": 2206,
+        "bootstrap": [],
+        "semaphore": "f466ccf42e57"
+    },
+    "probe": {
+        "dhcp": [
+            null,
+            null,
+            {
+                "batch": false
+            }
+        ],
+        "fixtures": null
+    },
+    "helm": "fc29f8983867"
+}

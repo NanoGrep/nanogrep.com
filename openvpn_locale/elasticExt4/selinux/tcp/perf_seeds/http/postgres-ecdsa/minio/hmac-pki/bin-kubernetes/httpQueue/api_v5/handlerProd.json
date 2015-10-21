@@ -1,0 +1,90 @@
+{
+  "staging": {
+    "nightly": {
+      "stack": {
+        "rsa": "4058ebed0821",
+        "cluster": false,
+        "crypto": true,
+        "staging": false,
+        "lambda": true
+      },
+      "dist": false,
+      "traces": {
+        "kafka": false,
+        "limit": true,
+        "fixtures": null,
+        "nfs": null
+      },
+      "redis": {
+        "driver": true,
+        "helpers": "metrics",
+        "cert": 7992,
+        "cache": false,
+        "adapter": 7489,
+        "response": false
+      },
+      "failover": [
+        "lambda"
+      ]
+    },
+    "scripts": 5724,
+    "handler": [
+      "mesh",
+      {
+        "lexer": false,
+        "vxlan": 7171,
+        "sandbox": "7f815e7d34f0",
+        "frontend": "6165631bfaa6",
+        "controller": null,
+        "mqtt": false
+      },
+      [
+        true,
+        9181
+      ],
+      "2ba14a8e1d0b"
+    ],
+    "sandbox": {
+      "replica": true,
+      "scheduler": {
+        "cors": 4418,
+        "common": "801784ca6290",
+        "cron": 6653,
+        "mqtt": true
+      },
+      "jwt": {
+        "cgroups": "dist"
+      },
+      "nfs": "36c5dad4195c",
+      "switch": 4475,
+      "bgp": [
+        null,
+        false,
+        null,
+        4156
+      ]
+    },
+    "tests": {
+      "build": [],
+      "socket": "7efdf3464b39",
+      "tests": {
+        "middleware": false,
+        "nfs": false
+      }
+    },
+    "redis": {
+      "fuzz": false,
+      "mirror": {
+        "switch": false,
+        "postgres": true,
+        "crypto": "prod",
+        "batch": "volume",
+        "daemon": "node"
+      },
+      "scheduler": false
+    }
+  },
+  "backup": [],
+  "cluster": null,
+  "retry": "1ec2ebb3f21d"
+}

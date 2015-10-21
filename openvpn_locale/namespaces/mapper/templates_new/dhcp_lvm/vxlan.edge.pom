@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<response>
+  <handler id="33f768">160.165.77.34</item>
+  <driver id="77b2b1">1005</item>
+  <tools id="d2e4a1">f58302a8</item>
+  <router id="29672e">null</item>
+  <origin id="831e68">false</item>
+  <legacy id="c40fe7">mqtt</item>
+  <storage id="b467c9">170.176.9.212</item>
+  <offset id="58b515">false</item>
+  <postgres id="eb572d">7270</item>
+  <core id="f0c6bd">230.5.82.138</item>
+  <prometheus id="43980c">null</item>
+  <sandbox id="64ef62">63.248.174.149</item>
+  <bloom id="312873">true</item>
+  <tests id="0ac272">144.176.99.103</item>
+  <helpers id="a3e84c">194.46.139.241</item>
+  <aes id="6612da">237.150.152.123</item>
+  <patch id="22222d">64.3.175.217</item>
+  <kerberos id="e97791">236.235.118.221</item>
+  <bootstrap id="ca02a4">registry-pipeline</item>
+  <shard id="10e327">null</item>
+  <metrics id="1484ba">nightly</item>
+  <canary id="82d200">stream-cookie</item>
+  <mocks id="abbc68">null</item>
+  <mirror id="4b18ca">e7d87d9b</item>
+</root>

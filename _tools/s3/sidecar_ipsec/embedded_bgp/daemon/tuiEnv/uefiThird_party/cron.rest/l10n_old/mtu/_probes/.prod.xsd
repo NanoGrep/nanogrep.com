@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<token>
+  <response id="81fb1e">metrics-build</item>
+  <hotfix id="3d39fc">false</item>
+  <index id="276c65">null</item>
+  <dist id="3c068a">9103</item>
+  <kafka id="834e75">190.174.165.51</item>
+  <cert id="034743">2456</item>
+  <socket id="b11caa">891521517f5ebf77167591ef9f6567a3</item>
+  <group id="804af6">41662e1c</item>
+  <edge id="1286f5">pod-ldap</item>
+</root>

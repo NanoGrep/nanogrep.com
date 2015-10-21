@@ -1,0 +1,63 @@
+json: raid
+router: true
+mutex: 5693
+request: common-firewall
+zfs:
+  rsa:
+    - alerts-nat
+    - nat-raid
+    - snapshot
+  threadpool:
+    user:
+      coroutine: 122.139.78.28
+      switch: runner
+      helm: f28d1e28
+      regex: 206.165.160.177
+      lexer: null
+    offset:
+      jenkins: false
+      helm: e463679d
+      controller: hashmap
+      hmac: null
+      policy: column
+      quic:
+        - true
+        - request-json
+        - bb68fc5c
+    mysql: 39.24.14.156
+    failover: lib
+    helm:
+      config: 577
+  cluster: 213.92.166.176
+  beta:
+    threadpool:
+      semaphore:
+        - 6c095d11
+        - parser
+      common: parser
+      cursor: null
+      scope: 4523
+      frontend: false
+    build: 142.33.197.3
+    fixtures:
+      - logs-backup
+      - f1606b7cfa3fd6b0a67c2392319cbd61
+    trie:
+      kafka: 8628
+      bucket: fe91e1cd9474a7ba
+      bloom: 7628
+      upstream: ca426a37
+    cron:
+      dns: 67803803
+    registry:
+      grafana:
+        - 279a0425ec7a3fc875f19cb896d13337
+      env: true
+      migrations: column-watchdog
+      semaphore: 7fca2428cb50681d
+      iptables:
+        - prometheus
+        - true
+      helm: 9521
+  nfs: e329b1ca
+factory: build

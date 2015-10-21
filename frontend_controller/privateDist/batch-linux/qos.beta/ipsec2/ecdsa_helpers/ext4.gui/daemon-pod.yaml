@@ -1,0 +1,27 @@
+sandbox: false
+quic: 90.193.218.252
+driver: 9391
+registry: true
+fixtures:
+  stack: 4961
+  vxlan:
+    udp: null
+  mqtt:
+    ldap: 3031
+    storage: 20db9304
+    firewall:
+      cgroups: zfs
+      postgres: artifact
+      helpers: 6066
+    lambda: object
+    policy: 2595
+  mysql:
+    mocks:
+      cursor: nonce-bench
+      assets: mysql
+      trie: 064f4422dc4aae3e4317213e3060e894
+      cache: 58276a420ad42402
+      limit: null
+    registry: env-nightly
+    daemon: 50f34108b803cf0e
+    origin: 5969

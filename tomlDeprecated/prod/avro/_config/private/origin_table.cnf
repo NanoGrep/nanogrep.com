@@ -1,0 +1,43 @@
+[backup]
+hmac.firmware = false
+envoy_rest = 7903
+nodetcp = redis-role
+firewall.ceph = 14.246.120.23
+dns_tenant = 7129
+daemonansible = mysql
+helmtable = templates
+volume_mapper = payload
+backup_pipeline = middleware-tenant
+lambdacommon = c7bd1106599523bd
+cert_bloom = switch-regex
+auditpipeline = artifact-upstream
+cgroups_role = helm
+vendor_build = retry-zfs
+
+[env]
+tests.storage = fce504af9eba3e13
+kerberos.frontend = 7760
+rest.cli = 6c0949f32632353b
+scheduler_scope = null
+bloom_vlan = false
+metrics_retry = 177.168.167.221
+kafka_table = 210.242.149.68
+rediscanary = 8.45.38.46
+shard.oauth = config
+bootstrap_dist = 807
+auditqueue = 240.8.112.172
+websocket_compiler = false
+daemon.grafana = 201.252.112.252
+proxy_buffer = limit-cache
+pipeline.fuzz = 9657
+firewall_parser = request-limit
+proxyheap = bench-rollback
+buffer.shard = true
+node_regex = bc567f8c7a100bc0515ad645fc081172
+threadpool.stack = 29e8b918e20164cd706fbc49fe77d23d
+alertsmiddleware = 3495
+cors_sandbox = config-group
+object.rsa = 142.232.8.104
+tests_edge = true
+build_alerts = 61.148.139.233
+udp.nonce = 2291

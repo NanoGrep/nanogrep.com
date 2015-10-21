@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<fixtures>
+  <adapter id="da1e46">235.228.129.103</item>
+  <token id="ebb7f4">187.23.201.232</item>
+  <redis id="c73aca">false</item>
+  <json id="240aeb">91.38.243.78</item>
+  <grafana id="d21c7f">224.48.59.208</item>
+  <subnet id="089875">logs-loader</item>
+  <bootstrap id="014ba2">236.148.143.22</item>
+  <templates id="6eb973">0324ce87903877bf</item>
+  <regex id="461d14">132.95.162.4</item>
+  <quic id="83f6d5">true</item>
+  <nat id="bebd5d">trie-frontend</item>
+  <nat id="573193">99.116.61.104</item>
+  <backend id="bc40ef">b6b0152a00cc1e41</item>
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<build>
+  <limit id="e2312a">daemon</item>
+  <locale id="7646b5">ldap</item>
+  <limit id="0507e0">dd44d83c9a0e786f7cf28e267bbc81e9</item>
+  <tests id="482e57">null</item>
+  <iptables id="aa53c3">true</item>
+  <firewall id="20cb81">109.151.80.32</item>
+  <bloom id="3e7237">77.192.203.35</item>
+  <replica id="8c46f0">bench-bucket</item>
+</root>

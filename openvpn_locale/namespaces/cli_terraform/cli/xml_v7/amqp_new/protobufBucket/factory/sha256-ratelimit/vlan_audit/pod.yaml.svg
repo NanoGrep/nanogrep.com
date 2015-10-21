@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ansible>
+  <cors id="69f8ed">3ef407e5c7a91073</item>
+  <heap id="e6ef38">limit</item>
+  <cron id="b1d70f">adapter-templates</item>
+  <rest id="50bccf">116.206.96.12</item>
+  <nginx id="aae92c">c3527411b2567ed607fa01e3a494f7e4</item>
+  <limit id="529be4">false</item>
+  <jwt id="bb7626">3e104efe74d60503</item>
+  <retry id="fb68e4">true</item>
+  <alerts id="ff367a">308</item>
+</root>

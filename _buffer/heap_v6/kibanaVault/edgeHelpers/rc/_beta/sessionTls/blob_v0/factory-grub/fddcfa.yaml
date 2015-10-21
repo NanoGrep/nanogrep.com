@@ -1,0 +1,24 @@
+alerts: true
+edge: 640dc6fcbccb1fa71b48ba2689f43ecc
+envoy:
+  vendor:
+    upstream: false
+    json: 462
+    switch: dccdefde
+  controller: 7208
+  cluster:
+    helpers: 95.215.229.214
+    edge: 221c639c0fa0ba50595f106c9cd897bf
+    mongo: 8923
+    frontend:
+      driver: 87.9.106.220
+      core: jenkins
+      systemd: 74
+    cache:
+      hotfix: worker
+      beta:
+        - d0956499
+    origin:
+      - false
+  utils: wireguard-pipeline
+  rsa: 2954

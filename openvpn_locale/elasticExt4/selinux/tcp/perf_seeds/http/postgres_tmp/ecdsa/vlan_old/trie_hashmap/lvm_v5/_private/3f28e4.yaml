@@ -1,0 +1,10 @@
+fuzz:
+  env: ff54c8b3cf2c6e34
+  kafka:
+    buffer:
+      nonce: 132.157.0.51
+      cursor:
+        - d2c9521c
+        - 32ff3911cf861b23
+        - cgroups-cgroups
+      api: vault-helm

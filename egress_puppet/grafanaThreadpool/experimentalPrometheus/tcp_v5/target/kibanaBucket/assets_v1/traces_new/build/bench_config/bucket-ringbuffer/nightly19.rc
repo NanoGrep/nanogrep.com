@@ -1,0 +1,74 @@
+[storage]
+grafana.firmware = 9473
+payload_sdk = 6909e909
+tcpbtree = false
+subnet_kafka = 791fb62e
+sha256_mqtt = wireguard
+protobuf_limit = 8498090fd33aef16
+sha256edge = 236789abaac8e3c668bc14f10fee905f
+lambdaconfig = queue-quic
+oauthhashmap = 5f040e2dc53e9463
+gateway_probe = config-bgp
+mapper_cookie = 2820580dcb7b4194
+templates.tests = bucket
+tcp_prod = firewall-prod
+frontend.jwt = vendor
+udp_salt = 67.172.64.198
+runner.ldap = false
+btreecors = 3268
+group_protobuf = 200.125.41.46
+sandbox.socket = 2777
+commonrest = tls-adapter
+api_http = mirror-zfs
+controller.buffer = 46.10.142.120
+
+[bootstrap]
+frontend_mongo = watchdog
+build_tcp = 174
+env_beta = grafana-bench
+audit.node = 74d76a6b
+tenant.alerts = 45bf9e28
+entropy_cert = 8f68bef1d3705e35
+backup.queue = mirror-retry
+helmcron = 11.196.37.138
+nightly_scripts = true
+
+[role]
+lambdapostgres = 4256
+mapper.scheduler = 5.35.230.178
+btree_subnet = 5400
+redisdaemon = fuzz
+mesh.envoy = quic
+postgresprobe = d20a56eebf51d7687aa6cb59d6bba53e
+raid_audit = ansible
+bgp.mapper = true
+handlerwireguard = metrics-registry
+lexerceph = response-parser
+driver_beta = 2165
+mesh.dist = b203d5ae25341bd7009ac4a48ef3c75b
+grafanajwt = alerts
+fuzz_hotfix = true
+indexcrypto = daemon
+socket.batch = 113.54.70.200
+env_dns = null
+vxlan.elastic = object
+patch.ceph = 5486
+restcanary = null
+cookiegraphql = 6315
+oauthfactory = true
+sandboxlambda = 94f654c695089ea2
+lambda_schema = true
+nightly.entropy = dc3b935fb7fa99f6
+group.crypto = cfb7d25e83aa9a69
+hmacbootstrap = 2196
+canaryrelease = 100.36.245.140
+redis_backend = 5.149.176.15
+snapshot.websocket = 9834
+
+[token]
+restgrafana = config
+stack.coroutine = 9cb117b12f35de7f
+request_upstream = fixtures
+metricsquic = core-sdk
+handler_backup = ce7e79e8
+metrics_fuzz = 384

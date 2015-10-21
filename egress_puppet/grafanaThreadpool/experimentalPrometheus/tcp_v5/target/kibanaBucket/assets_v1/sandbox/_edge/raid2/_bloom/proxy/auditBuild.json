@@ -1,0 +1,29 @@
+{
+  "nat": "06bd3520215c",
+  "graphql": {
+    "index": 3108,
+    "driver": "e64074c4cc3d",
+    "token": true,
+    "node": 4990,
+    "env": 2326
+  },
+  "logs": {
+    "queue": [
+      5760,
+      [
+        true,
+        true
+      ]
+    ],
+    "tools": {
+      "adapter": [],
+      "ingress": [
+        null,
+        7278
+      ],
+      "lexer": [],
+      "lambda": "2df0579a3ade",
+      "release": "factory"
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+    "column": {
+        "token": {
+            "cgroups": false,
+            "hashmap": {
+                "middleware": null
+            },
+            "node": {
+                "grpc": true,
+                "scripts": "f5b7c7244b2e"
+            },
+            "kerberos": {
+                "handler": false
+            },
+            "common": 2723
+        },
+        "release": {
+            "mqtt": false,
+            "rollback": {
+                "daemon": true,
+                "mocks": true
+            },
+            "legacy": {
+                "mapper": false
+            },
+            "retry": {
+                "nightly": null,
+                "logs": false,
+                "batch": false,
+                "artifact": null
+            },
+            "tenant": "topic",
+            "request": false
+        },
+        "row": true
+    },
+    "role": {
+        "vendor": false,
+        "nfs": 4360,
+        "cors": 6599,
+        "scheduler": null,
+        "elastic": false,
+        "assets": {
+            "ingress": "bootstrap",
+            "migrations": {
+                "middleware": 7431,
+                "handler": false
+            },
+            "switch": {
+                "ceph": true,
+                "switch": null
+            },
+            "proxy": {
+                "cluster": null,
+                "payload": null,
+                "probe": "assets",
+                "core": "cors",
+                "runner": "5bcf3d42586e"
+            },
+            "offset": {
+                "bootstrap": true
+            },
+            "tls": {
+                "prod": true,
+                "postgres": false,
+                "bootstrap": false,
+                "user": null,
+                "ansible": "c21efbdad0ee"
+            }
+        }
+    },
+    "helm": [
+        {
+            "buffer": [
+                2375,
+                "router",
+                846
+            ]
+        },
+        {
+            "firewall": {
+                "traces": "24195d982678"
+            },
+            "elastic": true
+        }
+    ],
+    "bloom": {
+        "stream": {
+            "jwt": {
+                "adapter": true,
+                "dhcp": true,
+                "audit": true
+            },
+            "env": false,
+            "kernel": [
+                "cdd0ca92e1e2",
+                false
+            ],
+            "kerberos": [
+                "3d5b8b42e930",
+                "ac329ccd56da",
+                false
+            ],
+            "limit": 6527,
+            "ingress": "topic"
+        }
+    },
+    "oauth": {
+        "traces": "367cc0d383db",
+        "entropy": {
+            "api": [
+                "iptables",
+                3004
+            ],
+            "group": false,
+            "migrations": {
+                "backend": "11932a01adfc",
+                "graphql": null
+            },
+            "pipeline": 3490,
+            "user": {
+                "jwt": true,
+                "node": 7319,
+                "graphql": null,
+                "nat": true,
+                "response": false,
+                "beta": 9639
+            },
+            "mocks": {
+                "factory": 9442,
+                "user": "crypto",
+                "role": null,
+                "zfs": "snapshot",
+                "threadpool": "1e797e3412cc"
+            }
+        },
+        "env": null,
+        "topic": 71
+    },
+    "canary": {
+        "switch": {
+            "volume": {
+                "cert": true,
+                "heap": true,
+                "watchdog": "scheduler",
+                "backend": "adapter"
+            },
+            "artifact": {
+                "build": "audit",
+                "udp": null,
+                "tcp": false,
+                "nightly": false
+            },
+            "edge": 2220,
+            "table": {
+                "parser": 9805,
+                "bucket": true,
+                "grafana": "76109f9625df"
+            }
+        },
+        "cert": {
+            "iptables": "common",
+            "vlan": "hashmap",
+            "lib": false
+        },
+        "yaml": [
+            [
+                true,
+                2497
+            ],
+            {
+                "crypto": 302,
+                "cert": true,
+                "middleware": true,
+                "jenkins": null,
+                "patch": true
+            },
+            {
+                "router": null,
+                "registry": "hmac",
+                "compiler": "buffer"
+            }
+        ],
+        "node": true,
+        "limit": true,
+        "jwt": {
+            "watchdog": {
+                "yaml": "subnet",
+                "salt": false
+            },
+            "zfs": true,
+            "udp": {
+                "nonce": null,
+                "stream": 6599
+            }
+        }
+    }
+}

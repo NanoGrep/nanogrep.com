@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<mirror>
+  <tenant id="ebcae7">28.158.66.234</item>
+  <assets id="22f44a">136.139.225.133</item>
+  <batch id="47d866">metrics</item>
+  <jenkins id="f9e999">null</item>
+  <cgroups id="c80ac9">kernel</item>
+  <column id="4cfe89">threadpool-policy</item>
+  <role id="23b078">vendor-rsa</item>
+  <watchdog id="94e147">8263</item>
+  <wireguard id="b7e48e">c38ed6c4</item>
+  <nonce id="05658c">52.63.33.245</item>
+  <mesh id="986e1b">tenant</item>
+  <mutex id="517e83">false</item>
+  <locale id="b74784">438</item>
+  <socket id="19b27c">semaphore</item>
+  <postgres id="2ff632">fa7ff2771169cb7f</item>
+  <backend id="2ba136">5156</item>
+  <object id="0168b2">handler-table</item>
+  <limit id="58e7e3">191.228.43.174</item>
+  <bootstrap id="d69826">7927</item>
+  <cluster id="aadd12">helpers-templates</item>
+  <hotfix id="7e0970">7219</item>
+  <lib id="c894be">6499</item>
+</root>

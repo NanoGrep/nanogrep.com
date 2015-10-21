@@ -1,0 +1,33 @@
+retry: 532257a6225619f5
+upstream: 1dfddc10
+registry: true
+mysql:
+  router: true
+  response:
+    jwt: 160.106.72.152
+    topic:
+      role: true
+      tenant: 2516
+      semaphore: fac199c8269ef1bbbaeaa779dcb86715
+    mongo: c4b9643eea7934ec
+  watchdog: false
+  zfs:
+    bgp:
+      shard:
+        - 108.206.120.201
+        - 65d05365
+        - 239.216.209.143
+        - null
+      utils: 44a99a76
+      shard: 525e52da2161d909
+kernel:
+  tests: 8fbeafee36977b5b
+  subnet: true
+  replica: rollback
+  assets:
+    templates: false
+    worker: null
+    row: payload-switch
+  scheduler: grafana
+bucket:
+  - false

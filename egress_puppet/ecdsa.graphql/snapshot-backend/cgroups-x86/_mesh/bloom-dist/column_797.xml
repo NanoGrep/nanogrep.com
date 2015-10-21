@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<legacy>
+  <kernel id="db6029">queue-registry</item>
+  <vault id="573d84">false</item>
+  <api id="8b8ef7">250</item>
+  <nfs id="bc457b">1.17.110.72</item>
+  <driver id="34d315">1975</item>
+  <sdk id="2c80e7">alerts-beta</item>
+  <daemon id="7ae2b7">6915</item>
+  <ansible id="3133a1">null</item>
+  <mongo id="8e2a59">7843279c</item>
+  <nightly id="c80e7a">150.43.162.102</item>
+  <watchdog id="6dc400">2916aad9</item>
+  <column id="cf5b30">89e67fbbba97a4f4</item>
+  <request id="050a92">243.228.183.22</item>
+  <retry id="6a911a">buffer</item>
+  <lambda id="17fe61">cert</item>
+  <cgroups id="445e3c">edge</item>
+  <common id="8010dc">middleware</item>
+  <service id="027562">1480</item>
+  <firewall id="904dc1">index-udp</item>
+  <edge id="bdbc44">service</item>
+  <env id="e6f787">bucket-cluster</item>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<column>
+  <audit id="401d43">4324</item>
+  <grpc id="e375e6">firewall</item>
+  <entropy id="1c4d45">78.224.181.242</item>
+  <mysql id="5e8272">2487</item>
+  <loader id="1294d9">upstream</item>
+  <vlan id="72bbbf">3e00ce42</item>
+  <postgres id="443961">fuzz-parser</item>
+  <ldap id="fffe9f">oauth</item>
+  <firewall id="b84418">false</item>
+</root>

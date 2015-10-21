@@ -1,0 +1,64 @@
+{
+    "ceph": true,
+    "yaml": {
+        "artifact": "eced5929f3a5",
+        "volume": {
+            "ansible": null,
+            "switch": {
+                "zfs": 9314,
+                "hotfix": true
+            },
+            "frontend": null,
+            "firewall": null,
+            "adapter": null,
+            "cert": {
+                "worker": 337,
+                "http": "75d8330dbb1b",
+                "semaphore": "migrations",
+                "graphql": "hmac",
+                "staging": null
+            }
+        },
+        "pipeline": {
+            "loader": [],
+            "stack": null,
+            "fixtures": {
+                "nightly": null
+            },
+            "schema": 4583,
+            "ansible": {
+                "lib": true,
+                "vendor": "eca63fc12ff0",
+                "redis": "locale",
+                "canary": "330c594dc71a",
+                "stack": "tcp",
+                "artifact": null
+            },
+            "semaphore": null
+        },
+        "kerberos": [
+            {
+                "kerberos": null,
+                "http": null,
+                "bloom": "29e410b32aa6"
+            },
+            {
+                "edge": "a192b7b794de"
+            }
+        ],
+        "sdk": [
+            null,
+            "4675799e4199",
+            [
+                "object"
+            ],
+            {
+                "scripts": 6535,
+                "proxy": false,
+                "daemon": "payload",
+                "cache": null,
+                "tests": false
+            }
+        ]
+    }
+}

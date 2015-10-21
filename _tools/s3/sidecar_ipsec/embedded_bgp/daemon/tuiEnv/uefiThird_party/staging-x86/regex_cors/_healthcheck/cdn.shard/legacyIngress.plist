@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<staging>
+  <rollback id="9d3a9f">5110</item>
+  <worker id="726df8">33257edecc23bf86</item>
+  <tests id="7a67f7">af01fc17</item>
+  <dhcp id="d0e5d4">275e3378df7f2b57</item>
+  <compiler id="11db93">748</item>
+  <zfs id="d77ce0">201.150.93.104</item>
+  <gateway id="ebe30b">schema</item>
+  <aes id="d338cd">replica-wireguard</item>
+  <cert id="53f26e">pod-nightly</item>
+  <bench id="c19e87">aes</item>
+</root>

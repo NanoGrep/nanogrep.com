@@ -1,0 +1,1 @@
+{"gateway": {"firmware": [{"trie": "migrations", "response": "queue", "nfs": true, "topic": "mesh"}, "44d64be5f6cd", [null, false, "salt"]], "dns": ["salt", "7e766cd6f2e7", true]}, "hmac": "d691c87cb1c1", "kafka": null, "coroutine": {"metrics": null, "hotfix": [], "stream": null}, "worker": 3499}

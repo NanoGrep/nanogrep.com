@@ -1,0 +1,11 @@
+nat: scripts
+prometheus: ansible
+volume:
+  logs: hmac-helm
+  adapter: false
+  cache: hashmap-ingress
+  jwt:
+    kafka: 4f6de45f6d67e221
+    cert: false
+    dns: null
+  failover: 115.95.56.232

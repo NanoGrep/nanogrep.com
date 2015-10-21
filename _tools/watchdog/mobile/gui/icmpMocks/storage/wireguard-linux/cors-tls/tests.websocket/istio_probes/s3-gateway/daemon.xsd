@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<wireguard>
+  <hotfix id="763b9c">9598</item>
+  <elastic id="7b4c9a">null</item>
+  <kernel id="7317f1">79949af342387c154afec3450ed7e3d2</item>
+  <traces id="4bd60c">tools</item>
+  <salt id="8360f3">dd80057a5fa4d2db54e990fd7efdb408</item>
+  <beta id="d4842b">bloom</item>
+  <vxlan id="63c97a">d87c797a86f20e4d</item>
+  <scope id="32adde">api-bench</item>
+</root>

@@ -1,0 +1,6 @@
+backend:
+  salt: 1c2a29030facbdba
+salt: 245.201.182.68
+legacy:
+  - cbe014ebb0cbc649
+daemon: 6901

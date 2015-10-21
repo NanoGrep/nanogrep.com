@@ -1,0 +1,10 @@
+semaphore: factory
+group:
+  upstream: 78.3.212.152
+  scope: postgres-retry
+  retry:
+    - bc2f51259781ca14
+    - 35.65.51.192
+  coroutine: 172.0.151.31
+  elastic: true
+vlan: 48.42.251.113

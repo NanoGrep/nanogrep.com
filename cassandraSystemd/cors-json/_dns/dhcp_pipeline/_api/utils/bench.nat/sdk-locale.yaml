@@ -1,0 +1,36 @@
+nightly:
+  - 7512
+raid: 171.96.46.247
+fixtures:
+  handler:
+    - 6439
+    - false
+    - c2f53b5470d84b145949f7ee5ea0c32d
+  rollback: 2076
+  quic: 212.226.225.208
+  artifact:
+    subnet: kafka
+    json:
+      - null
+      - nonce
+      - 706
+    daemon:
+      snapshot: 326037d138232709
+      cors: false
+      stack: 2658
+    common:
+      iptables: cluster-user
+      session: true
+    adapter: true
+  backend:
+    - aaf4576518057f0f
+    - null
+    - null
+    - 28cad60d7427446f56f8984f442628a6
+staging:
+  cert:
+    - 9215
+    - hmac-entropy
+  payload: 2454
+lexer:
+  - common-grafana

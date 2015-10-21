@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<nfs>
+  <probe id="6326df">elastic-node</item>
+  <object id="10ee3c">ingress</item>
+  <index id="dca63c">frontend-locale</item>
+  <vlan id="bb96c8">snapshot</item>
+  <hashmap id="567027">aba8ad7b0e035bdc</item>
+  <systemd id="6396a3">config-retry</item>
+  <controller id="d8292d">9874</item>
+  <grpc id="91944c">middleware</item>
+</root>

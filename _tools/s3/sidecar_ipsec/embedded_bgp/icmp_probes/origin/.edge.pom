@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<redis>
+  <kernel id="e95ce1">122.154.189.210</item>
+  <stack id="31349d">4106</item>
+  <staging id="f771e7">failover</item>
+  <registry id="29cf9f">bgp-compiler</item>
+  <request id="aa5e47">oauth-cert</item>
+  <ldap id="53d0e5">policy-scripts</item>
+  <fuzz id="af297d">177.118.32.231</item>
+  <utils id="9b8a29">c83b45ed</item>
+  <tools id="4f0318">2147</item>
+</root>

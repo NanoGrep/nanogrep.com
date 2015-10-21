@@ -1,0 +1,14 @@
+[
+  {
+    "shard": {
+      "assets": {
+        "utils": 7973,
+        "shard": "crypto",
+        "vault": null,
+        "crypto": false,
+        "env": 9279,
+        "helpers": "vxlan"
+      }
+    }
+  }
+]

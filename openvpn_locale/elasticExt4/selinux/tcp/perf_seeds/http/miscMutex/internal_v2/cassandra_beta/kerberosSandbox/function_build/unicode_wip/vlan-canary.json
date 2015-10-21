@@ -1,0 +1,36 @@
+{
+  "watchdog": {
+    "rest": null,
+    "origin": {
+      "ceph": "22901b5dcb80"
+    },
+    "patch": [
+      false
+    ],
+    "trie": {
+      "envoy": {
+        "cookie": true,
+        "stack": 3684,
+        "runner": "58ea60733f31",
+        "cgroups": false,
+        "mqtt": 3403
+      },
+      "config": {
+        "audit": null,
+        "udp": "elastic"
+      },
+      "kernel": [
+        null,
+        "a704d35df725",
+        true
+      ],
+      "coroutine": "e0527b5e97f7",
+      "dhcp": {
+        "nonce": true
+      },
+      "gateway": {
+        "rsa": "sdk"
+      }
+    }
+  }
+}

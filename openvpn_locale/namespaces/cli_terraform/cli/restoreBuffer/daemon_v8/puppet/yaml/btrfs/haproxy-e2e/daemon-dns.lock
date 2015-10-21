@@ -1,0 +1,1 @@
+{"index": false, "socket": {"topic": "lib", "migrations": {"prod": {"coroutine": "metrics", "mysql": "entropy", "probe": "6b738dc8fece", "sandbox": "f03e3f83faa8"}}, "batch": "jenkins", "firmware": true, "prometheus": null}}

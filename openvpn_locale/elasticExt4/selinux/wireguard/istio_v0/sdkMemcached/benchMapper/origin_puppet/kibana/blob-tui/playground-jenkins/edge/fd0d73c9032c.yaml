@@ -1,0 +1,16 @@
+hmac: heap-yaml
+env:
+  cli: replica
+  snapshot: 174.164.139.51
+  upstream:
+    zfs:
+      switch:
+        - scope-payload
+      elastic: mysql
+      migrations: failover-parser
+      response: lexer
+    mqtt:
+      redis: 208.245.3.239
+    vault: 2aaae91f39f495c6
+  failover:
+    nonce: cert

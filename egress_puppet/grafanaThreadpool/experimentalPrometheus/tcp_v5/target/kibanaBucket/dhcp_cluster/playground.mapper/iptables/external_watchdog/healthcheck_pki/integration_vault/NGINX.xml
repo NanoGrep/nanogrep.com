@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<factory>
+  <nginx id="7e9d2e">firmware</item>
+  <vxlan id="fe6428">mysql-templates</item>
+  <cache id="5efae8">117.165.142.163</item>
+  <factory id="cae90a">stack</item>
+  <raid id="30b764">false</item>
+</root>

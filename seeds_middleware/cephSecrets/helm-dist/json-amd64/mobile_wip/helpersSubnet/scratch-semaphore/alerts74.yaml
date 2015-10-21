@@ -1,0 +1,48 @@
+topic:
+  templates:
+    bench:
+      cursor: ec669f205b6bd84e
+      retry: true
+      socket:
+        - 4a5d34bded452aea9c1a2667df9c53ba
+        - true
+        - 00def238
+      backend: bootstrap
+      tests: metrics-batch
+      zfs: c221e8e92aa86049d924d11538bcbbfc
+    sdk: 7307
+    sdk: redis
+    stream: 81.26.140.118
+  prometheus:
+    router: 50f83e0f
+    backup: limit
+    response: 187.104.139.146
+    shard: 31499c1914a6ff4e1ee3d36d37a10346
+    dns:
+      rollback: 9389
+      common: 786f2605cabd5441
+  nonce:
+    websocket:
+      - 769
+      - json-api
+      - 00eeb2bb
+      - 2.84.90.227
+    response: 44.238.107.195
+    fuzz:
+      - 2621
+    cgroups:
+      upstream: false
+      envoy: websocket
+      cluster: proxy-trie
+      registry: true
+      role: 3672
+    http: offset-row
+    switch: 244.125.170.115
+  postgres: 9070
+  yaml:
+    iptables: false
+    payload: null
+  mapper:
+    - 93.74.14.244
+quic: 3310
+row: 154.28.12.221

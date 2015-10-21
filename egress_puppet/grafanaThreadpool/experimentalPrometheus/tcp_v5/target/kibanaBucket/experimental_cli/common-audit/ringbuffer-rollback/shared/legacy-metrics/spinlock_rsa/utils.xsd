@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<canary>
+  <scope id="f11597">prometheus-websocket</item>
+  <bloom id="77c954">2d96c008d9615c9e0d95afe6b343dc8e</item>
+  <mirror id="92baae">true</item>
+  <legacy id="15fbc6">26.143.158.71</item>
+  <lib id="2f6066">grafana</item>
+  <node id="cb0075">01389b0c2c06c5f46afe87201f629ec1</item>
+  <router id="bd73d3">null</item>
+  <cron id="be705f">false</item>
+  <compiler id="23aff2">null</item>
+  <staging id="c047a1">96a906093e260ba4220527441e1a0513</item>
+  <replica id="3064fc">239.136.94.198</item>
+  <token id="65cd0d">sdk</item>
+  <compiler id="618a24">false</item>
+  <failover id="8b63dd">true</item>
+  <shard id="27ade8">false</item>
+  <row id="590024">artifact</item>
+  <failover id="aefbd2">2919</item>
+  <kerberos id="677af6">false</item>
+  <bucket id="f402c0">handler-graphql</item>
+  <websocket id="5eeffe">quic-buffer</item>
+  <raid id="23c9f4">true</item>
+</root>

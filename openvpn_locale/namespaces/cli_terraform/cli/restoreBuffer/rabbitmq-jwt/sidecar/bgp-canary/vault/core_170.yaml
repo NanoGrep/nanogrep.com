@@ -1,0 +1,9 @@
+subnet: 6483
+mesh:
+  cert:
+    retry:
+      - index
+      - 7441
+    mongo: legacy-lexer
+entropy: snapshot
+grpc: ansible

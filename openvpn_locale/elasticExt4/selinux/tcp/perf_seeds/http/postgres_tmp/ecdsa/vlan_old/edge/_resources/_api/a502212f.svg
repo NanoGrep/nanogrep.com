@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<locale>
+  <daemon id="0ab7cf">true</item>
+  <kafka id="8e6d6e">b803ddad02de05a8dff374c8d2dfba1b</item>
+  <request id="d0e9f7">af8d092f0f421ac6d53301debc64b6e4</item>
+  <firewall id="394eb6">driver</item>
+  <semaphore id="0b977c">2faba6c48057e5c0</item>
+  <config id="646624">40a3f1d8</item>
+  <worker id="1047b4">dist</item>
+  <schema id="637a94">175.219.218.120</item>
+  <retry id="b6126e">factory-helpers</item>
+  <volume id="83a5f9">firmware-grafana</item>
+  <cluster id="542c5b">6510</item>
+  <prometheus id="45a4fe">hmac-queue</item>
+  <dist id="e5cb66">raid-nginx</item>
+  <volume id="be5143">null</item>
+  <driver id="1f6111">194.235.249.175</item>
+  <metrics id="0ff447">logs-utils</item>
+  <quic id="5d1ce7">62.80.36.198</item>
+  <artifact id="118a42">templates-vlan</item>
+  <topic id="7b38ec">backup</item>
+</root>

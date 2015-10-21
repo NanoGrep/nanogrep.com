@@ -1,0 +1,8 @@
+mysql.proxy=544dda97f1a46f56
+hotfix.env=hotfix-hotfix
+edge_nat=false
+queue_terraform=dc7df322
+envoycanary=null
+sha256.elastic=3578
+ingress.pod=lambda
+scope_crypto=policy

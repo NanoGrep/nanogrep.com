@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<bucket>
+  <vxlan id="3cef05">68.149.214.86</item>
+  <canary id="5d63fc">btree</item>
+  <stream id="947a58">beta</item>
+  <cursor id="f13a49">4578</item>
+  <zfs id="9cd8f3">udp</item>
+  <stack id="db6334">7214</item>
+  <worker id="e21619">08aaa27f38212cea</item>
+  <cgroups id="d701df">null</item>
+  <gateway id="8ae4bb">policy</item>
+  <jwt id="25b6b4">redis-common</item>
+  <request id="30f908">artifact-schema</item>
+  <batch id="2e6179">6665</item>
+  <cors id="f2b119">batch</item>
+  <adapter id="214680">true</item>
+  <coroutine id="4d4c44">340</item>
+  <pipeline id="946613">125.45.77.154</item>
+  <jenkins id="fba90a">9128</item>
+  <templates id="38d628">209.80.83.148</item>
+  <buffer id="92b282">false</item>
+  <cors id="1c8099">request</item>
+</root>

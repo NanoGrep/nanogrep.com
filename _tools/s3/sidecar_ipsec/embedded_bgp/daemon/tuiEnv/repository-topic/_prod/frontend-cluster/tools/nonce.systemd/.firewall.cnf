@@ -1,0 +1,42 @@
+[dhcp]
+benchobject = fuzz
+ansible_release = 2b092bc8d5a17b18
+buildcursor = false
+zfs_mqtt = true
+mutex_prod = 116.215.207.241
+nonce.crypto = mongo
+zfsgrpc = a1283693f58d03dc
+retry.jwt = templates
+ansible.firewall = null
+hashmap_jenkins = token-heap
+
+[token]
+retryrsa = payload
+quicapi = 3986
+lambda_sdk = 125.86.117.243
+legacy.request = 9953
+oauth.storage = 75f6dd93
+elastic_grpc = ce568f78
+vendormirror = 16.245.234.2
+ldap.env = true
+wireguard_regex = snapshot-staging
+sandbox_core = b7fa7291
+nightly_mirror = 52.169.229.138
+distpod = 8352
+tracespayload = d6aefc962830bbbba4f8719b046a2318
+cryptometrics = nfs
+loader.pod = 1639
+iptablesstream = null
+daemonsnapshot = tenant
+nonce.lambda = 2017
+payload_queue = tenant-migrations
+replicarole = pipeline-rest
+policy_logs = bucket
+proxy_mirror = 174.37.243.156
+kafkajenkins = null
+salt_table = ldap-tenant
+kafkafrontend = backup-config
+watchdog_request = 1500
+router_object = canary-kernel
+hashmapalerts = 54.114.196.33
+adapter_bloom = 9896

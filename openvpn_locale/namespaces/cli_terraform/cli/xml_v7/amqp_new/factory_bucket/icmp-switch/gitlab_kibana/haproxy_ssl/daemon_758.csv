@@ -1,0 +1,16 @@
+switch,sdk,upstream
+094c71e22aaa492e,service-frontend,offset-threadpool
+ede738bead94460ed3b9f9dab06f0b1b,2c697aa05cb8e467419291576d8da07a,3683
+74.89.170.146,watchdog,4697
+lib-aes,226.209.6.220,vxlan-patch
+ceph,35.77.156.182,envoy
+169.149.172.70,null,222.169.190.36
+true,hashmap-release,false
+3335,false,payload-templates
+7602,retry,3298
+websocket,5318,45f2398b
+53.64.46.2,limit,28.7.222.38
+object-loader,true,1f8d8047
+response-router,134.169.238.158,a103d1c1
+b549860ef3145c7f,4434,7268
+true,false,59.70.103.200

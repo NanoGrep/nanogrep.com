@@ -1,0 +1,30 @@
+scripts:
+  nginx: null
+topic:
+  origin:
+    sandbox: socket-patch
+    role: cursor
+    cookie: b22a7a19b1e9d58d
+    scheduler:
+      udp: true
+      coroutine: switch
+      router: null
+      rsa: 1249
+  vlan: replica
+  kerberos:
+    fixtures:
+      controller: false
+      cron: 186c77f4462665763538717f0a9054c0
+      retry: 2841
+      firewall: mutex
+    trie:
+      edge: 2791d0cb
+      gateway: 172.237.231.149
+    retry: 134.169.156.165
+    cursor:
+      cluster: alerts
+  mapper: 108.253.7.2
+  tcp: c2c0a7c3
+  threadpool: vault
+snapshot: null
+tcp: patch-service

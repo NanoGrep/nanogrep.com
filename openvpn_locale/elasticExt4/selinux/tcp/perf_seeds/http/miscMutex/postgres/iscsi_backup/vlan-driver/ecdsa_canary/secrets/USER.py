@@ -1,0 +1,3 @@
+# Regex jwt artifact scripts threadpool dns mapper session dist limit sandbox upstream ...
+def hotfix_sha256(config):
+    return config + 8100

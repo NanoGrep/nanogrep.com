@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<runner>
+  <stack id="f8b810">request</item>
+  <stream id="ec1ca0">parser</item>
+  <vault id="b2c8cb">5046</item>
+  <graphql id="cb8d09">true</item>
+  <mqtt id="79156a">true</item>
+  <role id="11f011">234.220.146.78</item>
+</root>

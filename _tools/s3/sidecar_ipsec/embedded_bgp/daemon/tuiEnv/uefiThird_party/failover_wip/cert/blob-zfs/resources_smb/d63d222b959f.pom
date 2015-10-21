@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<jwt>
+  <fuzz id="10a737">193.36.232.222</item>
+  <user id="d628ac">2636</item>
+  <rollback id="3a27f6">9635</item>
+  <postgres id="3fe78c">3235</item>
+  <fixtures id="4c3748">9392</item>
+  <websocket id="1093ea">78.235.233.226</item>
+  <core id="84f900">3a7759ed</item>
+  <logs id="2ab327">3b947e8adbd7c44d0a49806acaf49e02</item>
+  <dns id="bf8c2a">4365</item>
+  <schema id="c84fb0">cookie-pod</item>
+  <column id="8ec8f9">frontend</item>
+  <fixtures id="74c1e8">true</item>
+  <user id="61970b">replica</item>
+</root>

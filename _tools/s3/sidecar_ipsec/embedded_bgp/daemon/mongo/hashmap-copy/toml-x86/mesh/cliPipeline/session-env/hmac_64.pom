@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mutex>
+  <locale id="a3be1a">artifact</item>
+  <bootstrap id="9ce9b8">true</item>
+  <mesh id="92d5ca">a745713d</item>
+  <metrics id="0d8e7d">false</item>
+  <cron id="1491d9">e2584803</item>
+  <replica id="d5af95">quic-cron</item>
+  <bloom id="d82d03">43eb283723c5361b</item>
+  <handler id="29a3a8">253.134.245.38</item>
+  <cgroups id="a270ba">babc17af</item>
+  <mirror id="2907e4">248.42.119.39</item>
+  <dhcp id="1be2c6">243.228.238.218</item>
+  <jwt id="8432ed">true</item>
+  <graphql id="82cb5a">7224</item>
+  <websocket id="b9bc35">7846</item>
+  <schema id="7233cd">true</item>
+  <alerts id="2454cd">null</item>
+  <raid id="32a081">2505</item>
+  <semaphore id="873b79">true</item>
+  <iptables id="11deb5">jwt</item>
+  <user id="ad3d7c">8ab296ed</item>
+  <semaphore id="5a6a87">8b7ba415183d19564bf36dc8ea2704da</item>
+</root>

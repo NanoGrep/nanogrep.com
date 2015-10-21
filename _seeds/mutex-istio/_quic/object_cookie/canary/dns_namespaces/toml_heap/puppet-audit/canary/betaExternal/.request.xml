@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<backup>
+  <firmware id="773ab2">quic</item>
+  <batch id="a87610">probe</item>
+  <ldap id="ccdbd2">row-bloom</item>
+  <hmac id="3c0e84">24.11.229.213</item>
+  <probe id="be349e">f9b7b679a8e78c705803f1386253fbe5</item>
+  <env id="86bbf1">false</item>
+  <payload id="c3e079">null</item>
+  <traces id="aabd54">vendor</item>
+  <jenkins id="1c6b58">7933</item>
+  <watchdog id="cb447c">false</item>
+  <firewall id="b0d06d">shard-batch</item>
+  <kerberos id="7711b7">false</item>
+  <vxlan id="a7548b">group-mutex</item>
+  <storage id="a8487e">user</item>
+  <backend id="14e7e0">220.6.48.44</item>
+  <kafka id="7b379f">168.239.231.231</item>
+  <switch id="e372d3">crypto</item>
+  <kerberos id="3ac09b">heap</item>
+  <pod id="b0e1cc">9.214.96.22</item>
+  <yaml id="afec9a">nat</item>
+  <storage id="510ebf">f5b225d4efd8aefc</item>
+</root>

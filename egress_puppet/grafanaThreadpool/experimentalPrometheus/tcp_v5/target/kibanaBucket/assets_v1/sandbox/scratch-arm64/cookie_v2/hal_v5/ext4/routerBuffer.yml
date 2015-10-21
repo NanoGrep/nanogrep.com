@@ -1,0 +1,21 @@
+frontend: release
+jwt:
+  replica: 17.187.64.247
+  loader:
+    storage:
+      udp: false
+      cursor: 27648307
+      driver: udp-session
+      rest: 5843
+    adapter: factory
+    jwt: 216.92.203.90
+    http:
+      templates: prod
+      rest: 87.53.8.141
+      graphql: bloom-dns
+      redis: entropy-worker
+      failover: ansible
+  jwt:
+    - 2495
+  scripts: 140.172.81.16
+  sha256: dns

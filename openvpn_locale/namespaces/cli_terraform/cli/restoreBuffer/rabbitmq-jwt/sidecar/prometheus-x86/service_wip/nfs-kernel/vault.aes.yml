@@ -1,0 +1,27 @@
+locale:
+  vlan: 246.26.130.70
+  traces:
+    - 227.227.191.208
+    - 7419
+  fixtures: tools
+  backend:
+    env:
+      - 65.180.125.195
+      - mongo
+      - api-response
+      - 113.56.37.99
+    patch: utils-mesh
+    daemon:
+      - 5198
+    controller:
+      grafana:
+        - 672839fe9610fe9ed8af75d7804354f1
+      volume: 7de28783b535c218fb622082584bdb77
+  scripts: 6ed3b7dfd056ffb725b194dc6c94926e
+handler: heap
+mqtt:
+  release: cb337b6ec02c5eb1
+  nat: f2164db8fd01eeea
+  raid: 4f2264dce30c6493f1f6a5c1f5c10535
+  postgres:
+    - storage-kafka

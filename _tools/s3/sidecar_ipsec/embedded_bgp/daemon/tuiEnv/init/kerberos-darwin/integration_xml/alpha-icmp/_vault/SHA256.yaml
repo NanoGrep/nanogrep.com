@@ -1,0 +1,5 @@
+vxlan: true
+cookie: 22183f8e
+ceph:
+  token: 42d7a3d0e1708791
+  nginx: assets-token

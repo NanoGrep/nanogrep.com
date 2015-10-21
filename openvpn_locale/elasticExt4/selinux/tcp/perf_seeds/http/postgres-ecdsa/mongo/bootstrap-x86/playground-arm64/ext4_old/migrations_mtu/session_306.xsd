@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<limit>
+  <hotfix id="b6a287">1773</item>
+  <prometheus id="a25a46">1.207.46.211</item>
+  <role id="c9b89b">77.169.147.39</item>
+  <column id="9e8d16">d522ac6f3e597675</item>
+  <factory id="a73453">handler-mutex</item>
+  <raid id="75a79f">248.234.4.86</item>
+  <object id="cee295">63.222.204.245</item>
+  <envoy id="c3a309">object-wireguard</item>
+  <helm id="976342">217.202.208.93</item>
+  <assets id="0f1942">201.59.83.95</item>
+  <probe id="946ff5">null</item>
+  <runner id="b44c74">schema</item>
+  <tcp id="9add72">fixtures-policy</item>
+  <mesh id="84e530">null</item>
+  <heap id="657e03">dd182ddb09af667b</item>
+</root>

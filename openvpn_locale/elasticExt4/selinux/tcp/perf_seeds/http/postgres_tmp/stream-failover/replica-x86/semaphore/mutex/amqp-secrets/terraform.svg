@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<switch>
+  <vlan id="90c389">4c2e8dc2bb03509d</item>
+  <templates id="2cf01e">e8da6ca6231bd33683aee597460d27d4</item>
+  <mutex id="0f1a04">252.56.20.130</item>
+  <ldap id="9567a6">false</item>
+  <session id="325deb">null</item>
+  <canary id="d52bee">false</item>
+  <replica id="797906">true</item>
+</root>

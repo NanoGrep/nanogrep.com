@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<metrics>
+  <salt id="f6c328">132.57.222.229</item>
+  <session id="56d06b">rsa-yaml</item>
+  <locale id="14b903">false</item>
+  <cors id="216dfa">8b13416d</item>
+  <sandbox id="66be38">alerts</item>
+  <role id="cfda33">1597</item>
+  <middleware id="23b8e5">true</item>
+  <worker id="33e1e6">false</item>
+  <payload id="f70f79">190.204.173.1</item>
+  <prometheus id="ee9a3d">lib</item>
+  <frontend id="d4544a">false</item>
+  <common id="05619c">true</item>
+  <systemd id="4a2590">3425</item>
+  <core id="60c6b5">162.52.212.168</item>
+  <api id="f0e518">946e0e7f73f0e826</item>
+  <row id="899535">1465</item>
+</root>

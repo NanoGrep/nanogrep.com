@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<lambda>
+  <subnet id="39af06">nfs</item>
+  <kerberos id="a572ae">factory-hmac</item>
+  <release id="a3166c">84.73.179.151</item>
+  <ceph id="c7516b">tcp</item>
+  <bgp id="649204">5afb0512519bf1b0fabc8f1ab8c4bd5d</item>
+  <stack id="d91d14">149.7.170.11</item>
+  <probe id="309b9e">false</item>
+  <controller id="714e71">handler</item>
+  <grpc id="03621a">095c6df6</item>
+  <group id="953a7f">192.183.41.232</item>
+  <cron id="c7f9ad">48.52.106.175</item>
+  <ingress id="18d0d8">c73d5c3cb490f658</item>
+  <rsa id="6af9ac">migrations-queue</item>
+  <firewall id="431263">cgroups-column</item>
+</root>

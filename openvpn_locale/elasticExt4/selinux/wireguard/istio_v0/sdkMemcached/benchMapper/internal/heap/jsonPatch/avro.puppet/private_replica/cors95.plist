@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<cert>
+  <canary id="28dadb">true</item>
+  <object id="152790">86.34.164.83</item>
+  <router id="0995ce">true</item>
+  <helpers id="66a6aa">c293c6af</item>
+  <batch id="dc87a3">2963</item>
+  <nonce id="a7a808">149.158.70.80</item>
+  <lib id="630678">e84ac5d14cec5dfadc039970bb5e622d</item>
+  <staging id="abfbd8">bench-buffer</item>
+  <stream id="5aa5c8">scripts-mirror</item>
+  <mirror id="9193d0">tenant-audit</item>
+  <driver id="698732">f3c3fea7</item>
+  <daemon id="b8d221">8436</item>
+  <coroutine id="01a810">7674</item>
+  <json id="9c7bf2">8.186.187.71</item>
+  <core id="e74ba3">null</item>
+</root>

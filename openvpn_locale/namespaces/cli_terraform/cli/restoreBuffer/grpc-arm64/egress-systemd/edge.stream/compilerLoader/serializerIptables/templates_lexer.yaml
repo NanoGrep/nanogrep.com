@@ -1,0 +1,26 @@
+shard: false
+backup:
+  - false
+  - 5209
+  - 170.161.28.31
+  - null
+tools:
+  ingress:
+    mqtt: 175.134.99.102
+    prod: driver-queue
+    vendor: 8687
+    backup:
+      - true
+      - false
+  iptables: nat
+oauth:
+  beta:
+    handler: nginx-batch
+    snapshot:
+      worker: d9fa62d8
+    watchdog: 8293
+    loader: fixtures-wireguard
+payload:
+  - request-zfs
+  - wireguard
+  - true

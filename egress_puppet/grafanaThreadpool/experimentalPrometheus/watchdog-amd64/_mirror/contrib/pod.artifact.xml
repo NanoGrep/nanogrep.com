@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<legacy>
+  <iptables id="9ffddd">84.77.43.34</item>
+  <nat id="759101">worker</item>
+  <entropy id="3c495c">null</item>
+  <env id="e29d3e">null</item>
+  <elastic id="c86395">null</item>
+  <middleware id="9864c5">cron-api</item>
+  <batch id="920dc5">true</item>
+  <tcp id="3de6cb">http-vlan</item>
+  <api id="687349">object-proxy</item>
+  <json id="832017">22af05dc5cca3224</item>
+</root>

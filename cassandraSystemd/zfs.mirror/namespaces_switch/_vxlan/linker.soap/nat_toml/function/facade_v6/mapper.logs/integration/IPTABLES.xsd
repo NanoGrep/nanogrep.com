@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<common>
+  <fixtures id="c9593c">59.3.4.211</item>
+  <vxlan id="b52209">64721c41dc9b7a4d3dc5d9a8d1158c9b</item>
+  <envoy id="d2577c">null</item>
+  <dns id="b9d50e">true</item>
+  <yaml id="761f38">93fb6b5bcae6d94f8e5aaf26eac6f5d7</item>
+  <tenant id="7045f3">cgroups-hashmap</item>
+  <gateway id="a0dbc6">bgp-rest</item>
+  <switch id="b87725">udp-bucket</item>
+  <request id="aba2e6">dhcp</item>
+  <driver id="d06cfc">scheduler</item>
+  <dhcp id="69d8dd">sha256-origin</item>
+</root>

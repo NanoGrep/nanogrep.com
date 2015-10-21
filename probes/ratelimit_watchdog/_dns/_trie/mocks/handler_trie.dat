@@ -1,0 +1,10 @@
+volume,patch,loader
+group,false,154.120.56.116
+ce1016843a7ec0e8,http,5ee1afbb
+6766,null,ad94dd6bdfba9f05
+1379,kernel-alerts,true
+2458,utils-http,token-systemd
+250.139.8.112,scheduler,8e7f4a080e502bd3
+null,alerts-bootstrap,48.79.3.21
+239.203.90.117,216.125.169.228,artifact-parser
+bb0d1e830f8b6cf3,false,shard

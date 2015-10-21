@@ -1,0 +1,25 @@
+watchdog:
+  nightly:
+    - 6247
+  nightly: failover-hmac
+  policy: da8e6ebe57e8db7f3b9c27135a745ce9
+  raid: jenkins
+backup: false
+stream: hashmap-lambda
+ansible:
+  redis: 254.15.138.129
+  sdk: 1576
+  vendor:
+    - 197.64.49.217
+    - true
+  registry:
+    upstream:
+      grpc:
+        - 34.159.199.190
+        - lib-tenant
+    queue: false
+  nightly:
+    alerts: graphql-lib
+    group: mirror-protobuf
+    build: 198.193.20.115
+yaml: 4863

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<artifact>
+  <stream id="f2d0fc">vlan-runner</item>
+  <redis id="5f7826">true</item>
+  <firewall id="831a87">9def2bd970202facd8b211321289c7b3</item>
+  <build id="f7bed9">postgres</item>
+  <index id="72aa62">crypto</item>
+  <dist id="e5f23f">iptables-cron</item>
+  <jenkins id="ecb4a1">3697</item>
+  <cors id="7bf44c">failover</item>
+  <probe id="6481da">backup</item>
+  <mapper id="f9c56f">false</item>
+  <cert id="ece674">true</item>
+  <legacy id="fa9a7a">116.195.7.191</item>
+  <templates id="e52c34">storage-mocks</item>
+  <tenant id="01bd0a">35.51.101.14</item>
+  <fixtures id="51a8c4">2d0ea60b</item>
+  <token id="24fd65">hashmap-upstream</item>
+  <backup id="f4e944">42.118.94.254</item>
+  <lib id="a9be51">service-driver</item>
+  <artifact id="fd5f36">5666</item>
+  <patch id="532cae">true</item>
+  <tcp id="c4fb7e">true</item>
+</root>

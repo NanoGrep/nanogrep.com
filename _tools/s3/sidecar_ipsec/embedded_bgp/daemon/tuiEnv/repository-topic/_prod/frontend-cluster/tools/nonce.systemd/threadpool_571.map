@@ -1,0 +1,40 @@
+{
+    "config": {
+        "nightly": {
+            "jwt": [
+                true
+            ],
+            "ceph": {
+                "watchdog": false,
+                "websocket": "e2b0d08a03dd",
+                "replica": 3698,
+                "group": null
+            },
+            "semaphore": true,
+            "mutex": {
+                "gateway": 6974
+            }
+        },
+        "rollback": "22059cdfb9ed",
+        "cli": false,
+        "tcp": 3458,
+        "fixtures": {
+            "raid": [
+                false,
+                true,
+                false
+            ],
+            "iptables": 8976,
+            "sha256": {
+                "coroutine": true,
+                "limit": 9363,
+                "edge": false
+            },
+            "bloom": {
+                "switch": 4697,
+                "probe": null,
+                "controller": "7300fcd14493"
+            }
+        }
+    }
+}

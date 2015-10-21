@@ -1,0 +1,31 @@
+dhcp:
+  - subnet
+  - 64b8a9b0218d6503
+  - 808
+  - 8c25b6f679e943bb
+ingress: false
+elastic: cgroups-tests
+regex:
+  middleware: 1830
+  failover:
+    snapshot:
+      cache:
+        - true
+        - 1408
+    fixtures:
+      - a4774bb66a335ced099249f5c6f675b7
+  jwt:
+    fuzz:
+      prometheus:
+        - a263fec41b101734
+        - 187.109.172.108
+        - zfs-salt
+        - 8267
+      stack: 2e79a7fb37419e2f
+      parser: hotfix-session
+      probe: 5162
+      beta: backend-firewall
+    logs: batch
+    firmware: grafana
+    quic: 1228
+utils: backend-scripts

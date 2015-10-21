@@ -1,0 +1,27 @@
+cli: audit
+templates:
+  - true
+dhcp: ed38c0ee
+bloom:
+  systemd: 2207
+  pipeline: true
+  stack: common-loader
+  prometheus: cookie-vault
+  terraform: handler
+bgp:
+  jenkins:
+    router: 1456
+    nginx: true
+    mapper: true
+    rollback:
+      offset: socket-mqtt
+      utils: 77.101.197.100
+      row: 163.205.175.74
+      prod: 76.221.251.62
+      upstream: true
+      ansible: 137.201.223.207
+backend:
+  locale: core-threadpool
+  lambda: true
+  fuzz: 84.60.199.152
+  vlan: payload-ceph

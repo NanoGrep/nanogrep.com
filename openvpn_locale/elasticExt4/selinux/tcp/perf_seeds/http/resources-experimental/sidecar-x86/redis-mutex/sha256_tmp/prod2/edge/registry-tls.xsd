@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<offset>
+  <role id="3cca26">3198</item>
+  <hmac id="5c3190">postgres</item>
+  <nonce id="6df404">session</item>
+  <traces id="dc9744">false</item>
+  <sdk id="d329be">mocks-storage</item>
+  <aes id="09d78e">factory-entropy</item>
+  <token id="b0b2aa">3642</item>
+  <shard id="65cda3">null</item>
+</root>

@@ -1,0 +1,15 @@
+stack: table-wireguard
+json:
+  socket: 7661
+  staging:
+    scripts:
+      hashmap: 543b967dad5e1c0cd9e9f6b532c9e86d
+      driver: 2284
+      firewall: 1d0806a4
+      loader: 1581
+    kernel: elastic
+    driver: false
+  bgp: 7503915248f2a682
+  vlan: 5ea2bd02f06f919b
+  helpers: 67d9ef9360114bf25d5e83433afa7fa6
+  cgroups: 6934

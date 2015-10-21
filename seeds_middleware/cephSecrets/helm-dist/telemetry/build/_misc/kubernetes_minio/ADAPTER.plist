@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<scheduler>
+  <bucket id="729eda">4235719aa0800cdb</item>
+  <index id="b71dd3">b8754f0f</item>
+  <request id="cf7020">143.164.26.116</item>
+  <shard id="3218f5">198.6.238.80</item>
+  <elastic id="a620aa">176.45.247.231</item>
+  <retry id="56723c">c918da1aa2fad61369f980c98f8264ab</item>
+  <failover id="ad60f9">7bba3e00bf1f72758f42aff2ccb064bf</item>
+  <api id="6b860a">cgroups-postgres</item>
+  <row id="c27c1f">null</item>
+  <scope id="2d2867">null</item>
+</root>

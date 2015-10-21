@@ -1,0 +1,31 @@
+grpc: token-row
+dist: 698bd5d1b74d496a
+dist:
+  build:
+    limit: mirror-nginx
+    origin:
+      quic:
+        - null
+      tools:
+        - false
+        - 8113
+      nonce: null
+      lexer: 07747d5286d13d5746f89eb3363d2218
+      staging: nginx
+      cors: false
+    compiler: true
+    runner: 3577
+    socket:
+      tools:
+        - false
+        - 6927
+      config: null
+      cert:
+        - ec21bdf61fc04590d06e966fd996f0a0
+        - 1177b2c4106b67aa
+        - jenkins-prometheus
+        - cursor
+      edge: true
+      mocks: replica
+    grafana: true
+  service: 192.244.196.18

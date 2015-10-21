@@ -1,0 +1,5 @@
+replica: utils
+assets:
+  mutex: mirror-mirror
+  coroutine: true
+  adapter: 4894632acd305812b700e315d450b90b

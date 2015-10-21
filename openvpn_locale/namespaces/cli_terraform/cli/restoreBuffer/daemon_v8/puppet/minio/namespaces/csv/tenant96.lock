@@ -1,0 +1,50 @@
+{
+    "topic": {
+        "daemon": "iptables",
+        "node": {
+            "templates": [
+                null,
+                "retry"
+            ],
+            "gateway": [
+                "1b4201041fb3",
+                "replica",
+                true
+            ]
+        },
+        "heap": false,
+        "cache": {
+            "nginx": {
+                "mongo": 272,
+                "scope": false,
+                "rollback": "3b7933d539c5"
+            },
+            "mocks": "e30971f4eba9",
+            "release": false,
+            "dhcp": {
+                "runner": 6048,
+                "mirror": true,
+                "backup": null,
+                "row": true,
+                "ingress": "mocks"
+            }
+        },
+        "mesh": {
+            "sha256": false,
+            "object": {
+                "nfs": true,
+                "mesh": false
+            },
+            "alerts": true,
+            "kernel": "3750f4c5e7c5",
+            "raid": [
+                2420,
+                7261,
+                true,
+                "semaphore"
+            ]
+        }
+    },
+    "cert": "coroutine",
+    "service": "mapper"
+}

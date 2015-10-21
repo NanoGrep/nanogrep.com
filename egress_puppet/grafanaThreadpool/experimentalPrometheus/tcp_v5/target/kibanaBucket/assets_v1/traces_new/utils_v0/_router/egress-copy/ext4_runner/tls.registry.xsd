@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<snapshot>
+  <entropy id="ddd538">252.71.102.200</item>
+  <rollback id="425dff">249.94.240.92</item>
+  <index id="b8b040">ansible-factory</item>
+  <runner id="673bc6">21.144.100.214</item>
+  <rollback id="86f1fb">fe7c6f7d</item>
+  <audit id="a7fd6a">true</item>
+  <adapter id="bdf816">9719</item>
+  <driver id="32e10a">zfs</item>
+  <row id="939e19">true</item>
+  <traces id="dac619">cluster</item>
+  <cron id="9a6713">95bfd61c7cec80e4</item>
+  <heap id="e913ca">14.247.127.235</item>
+  <cursor id="c9e258">true</item>
+  <prometheus id="db16b4">4391</item>
+  <semaphore id="82cbbe">1931</item>
+  <legacy id="6024bc">174.106.118.109</item>
+</root>

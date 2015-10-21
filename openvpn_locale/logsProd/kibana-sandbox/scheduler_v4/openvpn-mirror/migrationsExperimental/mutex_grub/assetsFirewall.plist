@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<hashmap>
+  <websocket id="407705">3780</item>
+  <alerts id="cac7b1">beta</item>
+  <kafka id="c2da31">bgp-firewall</item>
+  <bucket id="418179">true</item>
+  <pipeline id="a5ef8b">null</item>
+  <kafka id="e1543d">4284</item>
+  <limit id="a7ee37">3640</item>
+  <raid id="a1f4c7">middleware-hashmap</item>
+</root>

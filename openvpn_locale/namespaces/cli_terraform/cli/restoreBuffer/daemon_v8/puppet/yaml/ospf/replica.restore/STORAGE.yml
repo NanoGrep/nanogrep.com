@@ -1,0 +1,43 @@
+migrations:
+  stack: true
+  tls: 87.46.208.81
+  proxy: false
+upstream: 4540
+rollback:
+  nonce:
+    staging: object-vlan
+    column:
+      socket: c42c2b58d7147ea62fcee27fa53d5490
+      driver:
+        - vault
+        - 9612
+      stream:
+        - iptables-column
+      grafana: true
+      scheduler: null
+      nat: false
+    daemon: null
+  nonce: 3560
+  socket:
+    semaphore:
+      group:
+        - 165.254.209.8
+        - session-bootstrap
+        - mirror
+        - db612de69f249591
+      utils: 5b3396ec
+      topic: null
+      ingress: mocks-api
+      config: e61a583499df3364462c04a31846ff1b
+    fixtures: null
+    kerberos: true
+    release:
+      quic: 68.105.202.75
+      cgroups: false
+      semaphore: 2824
+      node: 27.248.125.231
+      bootstrap: 3952
+      env: postgres
+    grpc: 91.196.156.177
+    redis: kernel-backup
+probe: null

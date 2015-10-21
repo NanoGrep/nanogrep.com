@@ -1,0 +1,41 @@
+daemon: 1119
+watchdog:
+  scope: 58ac3d99a5af6d794b05f29f540beeeb
+  failover: 4451
+  loader:
+    shard:
+      kafka:
+        - 3475
+        - 2d6968dd37bd6069f8171cd5a2f2b628
+        - 13.2.99.228
+        - 202.5.33.178
+      mesh: grafana-rest
+      heap: 2f11ccb7d8071637
+      cache:
+        - rest-websocket
+        - 394
+    nginx: 16c98e50
+    jenkins: null
+    sdk: 75.46.26.109
+  runner:
+    coroutine:
+      tests: 192.94.183.6
+      nat: true
+      mapper:
+        - 9814
+        - 7dce5f27689ac9c9
+        - cache
+      mysql: subnet-salt
+      raid: 4150
+      edge:
+        - 7.1.196.69
+        - 4480
+    mocks:
+      coroutine: 67498aac3ec4f66a
+      session: entropy-subnet
+      batch: tests-fixtures
+    sdk:
+      - be66a60c
+      - daemon-templates
+  canary: 434419ef02e8161f
+  vxlan: elastic-heap

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<router>
+  <alerts id="83cb5a">b3d32d30</item>
+  <canary id="965435">null</item>
+  <mocks id="78917e">52.105.10.7</item>
+  <threadpool id="0f9fde">limit-buffer</item>
+  <websocket id="37bdc0">salt</item>
+  <hotfix id="35e692">null</item>
+  <mesh id="7fed42">e897654b158420cd69c5b3e03525aef3</item>
+  <topic id="efcc00">29.100.182.244</item>
+  <migrations id="4768d7">null</item>
+  <cookie id="271630">tenant-fuzz</item>
+  <registry id="8db839">628fef7d</item>
+  <heap id="861376">true</item>
+  <staging id="6ca919">metrics-canary</item>
+  <cursor id="5dee82">212d9653f8d5e1c0</item>
+  <redis id="359527">false</item>
+  <salt id="07dcd3">6b54f6c6</item>
+  <iptables id="b4907a">e7dd631e04d19dd1</item>
+  <mocks id="9b3932">f3944e2aa3f8df3dd8fcbb8089b3929f</item>
+</root>

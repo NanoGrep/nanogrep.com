@@ -1,0 +1,52 @@
+stack: scope
+proxy:
+  config: redis
+  tls:
+    gateway:
+      shard: a664d1869f01f6b4
+      staging:
+        - 8d8ff949
+        - 8249
+        - 5440
+        - cert-vendor
+      group: 146.193.67.207
+      volume: 231727811e791968
+    pod:
+      worker: 211.184.75.8
+      payload: 8337
+      nat:
+        - true
+        - null
+        - 87.245.173.160
+        - stack-mongo
+      prod: 125.54.213.224
+      envoy:
+        - b6b9dc0353e7847b2c1e09c284c93162
+        - null
+        - 3357
+        - a31764ab
+      coroutine: 165.24.78.17
+    sdk: e6fda0d53174382ef8c2542e497878a5
+    wireguard: jenkins-grpc
+    loader:
+      group:
+        - jwt-policy
+        - scripts-cluster
+        - null
+      nginx: 4845
+      envoy: 24b99a46
+      handler: watchdog
+      group: prometheus-env
+    vendor:
+      websocket: cgroups
+      runner: ldap
+      index: false
+  buffer: true
+beta:
+  postgres:
+    - iptables-bloom
+    - 5228
+    - 8
+  env: nonce
+  kafka: common
+salt: 6667

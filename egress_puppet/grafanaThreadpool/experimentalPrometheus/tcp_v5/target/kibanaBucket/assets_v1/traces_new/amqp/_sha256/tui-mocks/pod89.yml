@@ -1,0 +1,29 @@
+topic:
+  protobuf: 5303
+helm:
+  probe:
+    kernel: ingress
+    hmac: 6308
+  graphql: 3872
+  wireguard:
+    worker: 4828
+    jwt: 143.178.57.110
+    audit: probe-mesh
+fixtures:
+  schema:
+    ansible: null
+  build:
+    tools:
+      cgroups: row-schema
+      proxy: 6958
+      dns:
+        - 16.150.2.177
+        - true
+        - cluster-core
+      prod:
+        - 7134
+        - null
+        - kerberos-stream
+        - null
+topic: topic-buffer
+prometheus: traces

@@ -1,0 +1,17 @@
+factory: 25d20a24267f48f6
+crypto:
+  firmware: false
+  migrations:
+    jenkins:
+      - session-tools
+    stream: 6174
+  gateway: 101.186.175.58
+  salt: 3287
+  pipeline: 3162
+  protobuf:
+    - 111.145.252.3
+    - scheduler-payload
+    - 5309
+    - true
+scheduler: 90.101.115.60
+lambda: 7514

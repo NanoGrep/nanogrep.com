@@ -1,0 +1,30 @@
+yaml: 665
+index: user
+stream: bucket
+volume:
+  adapter:
+    payload: 0c03ae5ef370ba93
+    mocks: false
+    registry: 43.164.94.141
+  config: false
+  bootstrap:
+    sha256: 95.180.20.34
+    nonce:
+      payload: compiler
+    migrations: middleware
+    offset: assets
+    threadpool: null
+    systemd:
+      metrics:
+        - 42c57c9d
+        - 7818b53914651913d0922cb0678648bf
+        - 120.193.63.201
+        - 69.167.34.15
+      dhcp: null
+      fixtures:
+        - 2df5b5a69448226d
+      user: false
+      bucket: 8215bbc2301222c7
+      canary: failover-tools
+  storage: null
+  grpc: true

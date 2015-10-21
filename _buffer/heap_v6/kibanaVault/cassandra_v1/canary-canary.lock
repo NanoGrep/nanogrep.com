@@ -1,0 +1,37 @@
+[
+  true,
+  {
+    "origin": [],
+    "stack": [
+      {
+        "runner": false,
+        "controller": "ba9072332e9d",
+        "redis": false,
+        "staging": "grafana"
+      },
+      "parser",
+      {
+        "cookie": 2225,
+        "factory": 2372
+      }
+    ],
+    "batch": "cursor"
+  },
+  [
+    {
+      "tests": [
+        "fuzz"
+      ],
+      "bench": {
+        "tcp": null,
+        "vault": "proxy",
+        "shard": true,
+        "yaml": true,
+        "graphql": null
+      },
+      "assets": [
+        "vendor"
+      ]
+    }
+  ]
+]

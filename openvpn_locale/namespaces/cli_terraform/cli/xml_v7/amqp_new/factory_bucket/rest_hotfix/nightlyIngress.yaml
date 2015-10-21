@@ -1,0 +1,5 @@
+session:
+  - e5320b4fc340ed00ce75fb0db70ecaae
+edge: terraform
+kafka: buffer
+mysql: null

@@ -1,0 +1,5 @@
+policy:
+  replica: switch
+  probe:
+    sha256:
+      bloom: 135.27.244.115

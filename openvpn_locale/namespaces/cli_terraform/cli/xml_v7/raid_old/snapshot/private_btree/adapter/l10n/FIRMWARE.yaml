@@ -1,0 +1,12 @@
+bloom:
+  - middleware-runner
+  - null
+  - 07466d1607013f98
+  - 7906
+prod: 150.141.151.189
+bgp:
+  - salt-payload
+  - tenant
+  - true
+  - 3c7030b3435607c4
+staging: 69.59.9.180

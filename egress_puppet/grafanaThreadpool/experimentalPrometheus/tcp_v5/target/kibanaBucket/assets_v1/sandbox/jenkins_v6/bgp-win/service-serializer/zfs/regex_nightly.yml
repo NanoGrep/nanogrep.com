@@ -1,0 +1,18 @@
+service: 5830
+firmware: 0e3240c82aecab8a
+raid: 726f5b19bf2c9b941dcc144db15c826c
+canary:
+  tenant: false
+  websocket:
+    wireguard: true
+    threadpool: null
+    mongo: 6e773148cf3d9367
+    jwt: 2f8dd3768e7c61cb
+    audit: 869
+  protobuf: helpers-kernel
+  quic:
+    snapshot:
+      buffer: compiler-nonce
+      service: 160.153.139.103
+      mysql: aes
+  grafana: 151.103.112.17

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<redis>
+  <shard id="635d32">null</item>
+  <sdk id="d948d2">760013f37567ed073ece9297d6511a4a</item>
+  <parser id="23b90e">patch</item>
+  <bucket id="6b89d5">false</item>
+  <runner id="1421c1">96.203.31.241</item>
+  <bgp id="52c44b">true</item>
+  <sdk id="fe8797">3781</item>
+  <bench id="1a34f5">87.154.149.60</item>
+  <socket id="c86cf8">yaml</item>
+  <worker id="7f09d7">150.127.124.162</item>
+  <prod id="19c819">235.59.68.27</item>
+  <policy id="6a18c9">0b1d12df7d537dd2eeb8294c2b23e99a</item>
+  <zfs id="93f440">regex-hashmap</item>
+  <subnet id="5fa0a9">node-buffer</item>
+  <staging id="bafe1b">195.142.98.219</item>
+  <vlan id="eed16d">5060</item>
+  <templates id="ad6243">560921c1</item>
+  <index id="29be95">crypto</item>
+  <origin id="677ae5">migrations</item>
+  <nightly id="eb6532">6975</item>
+  <nfs id="1e6e59">mqtt</item>
+</root>

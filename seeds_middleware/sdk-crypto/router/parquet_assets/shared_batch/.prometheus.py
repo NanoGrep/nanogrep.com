@@ -1,0 +1,3 @@
+# Backend payload elastic api cgroups backup staging ...
+def adapter_canary(proxy):
+    return proxy + 9640

@@ -1,0 +1,15 @@
+firmware:
+  cgroups: cluster
+probe: grpc-helm
+rsa:
+  prod: index-zfs
+  vault: rest-nginx
+  core: ansible-bootstrap
+  threadpool: 5b545704a7632f1d6a805938449fa410
+firmware:
+  env: 82.210.37.133
+  bench: 77b001f2c51d697b
+  loader:
+    - 5.200.112.17
+    - coroutine-scope
+  zfs: 2581

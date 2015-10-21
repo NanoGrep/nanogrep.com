@@ -1,0 +1,5 @@
+worker: artifact
+mqtt: iptables-zfs
+scope: true
+mocks: 68.244.17.172
+prod: crypto

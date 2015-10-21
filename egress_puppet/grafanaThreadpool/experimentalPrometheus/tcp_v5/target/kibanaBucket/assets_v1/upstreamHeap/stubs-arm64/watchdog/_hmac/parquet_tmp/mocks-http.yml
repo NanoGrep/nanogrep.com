@@ -1,0 +1,10 @@
+locale:
+  alerts: policy-probe
+  cert: 3767
+  daemon:
+    - request-postgres
+  offset:
+    - runner
+    - mirror
+    - fd3819e30a7db20816ab05918c4d5f61
+    - 7723

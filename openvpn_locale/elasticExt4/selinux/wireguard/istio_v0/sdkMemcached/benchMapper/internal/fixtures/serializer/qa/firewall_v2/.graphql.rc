@@ -1,0 +1,33 @@
+[scope]
+role.staging = canary-pod
+restretry = null
+beta.frontend = 9112
+hashmap.failover = 119.69.189.229
+row_router = 87.173.210.2
+lexer_request = entropy
+build.rollback = 3113
+useryaml = null
+schemacompiler = 25041f2a84df7711d8183c7b865f606c
+
+[scope]
+cron_response = edge
+gatewaybackup = 232.74.240.41
+graphql_compiler = ansible-legacy
+origin.cli = build-nonce
+payload.role = env
+kafka.node = null
+templates.dns = 40.228.78.51
+wireguard_gateway = 149.199.118.184
+scripts.payload = volume
+tools_buffer = 139.140.223.251
+mutex.backend = rest
+sha256.postgres = e0ebdcdf
+snapshotlegacy = service
+coroutine.firmware = 1451
+workerdaemon = 2202
+salt_request = false
+subnet_hmac = 54.67.213.19
+cgroups_volume = 3197
+yaml.audit = metrics
+heap.frontend = 7427
+controller_handler = 1e1df3623c10eed1

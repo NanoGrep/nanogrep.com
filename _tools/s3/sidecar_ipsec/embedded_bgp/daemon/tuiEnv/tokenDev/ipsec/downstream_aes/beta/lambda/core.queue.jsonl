@@ -1,0 +1,59 @@
+{
+  "quic": null,
+  "failover": [
+    true,
+    {
+      "postgres": {
+        "table": "43f624163422",
+        "locale": "b9d94879dbab",
+        "hashmap": 4874,
+        "watchdog": 6194,
+        "hotfix": "prometheus",
+        "scripts": true
+      },
+      "zfs": {
+        "kafka": 9243,
+        "scripts": false,
+        "response": true
+      },
+      "registry": false,
+      "probe": {
+        "policy": 1963,
+        "probe": 670
+      },
+      "daemon": [
+        "vxlan",
+        "1e043d8afb00"
+      ],
+      "loader": 2437
+    }
+  ],
+  "audit": 6661,
+  "grpc": null,
+  "ingress": "row",
+  "prometheus": {
+    "websocket": {
+      "table": {
+        "response": null,
+        "websocket": 599,
+        "mesh": "row",
+        "scripts": 830
+      },
+      "audit": null,
+      "socket": {
+        "kerberos": "cookie"
+      },
+      "handler": {
+        "legacy": true,
+        "loader": "dist",
+        "utils": true,
+        "protobuf": "8e339d2fca5f",
+        "vxlan": "babec67b237c",
+        "policy": 952
+      },
+      "user": {
+        "crypto": null
+      }
+    }
+  }
+}

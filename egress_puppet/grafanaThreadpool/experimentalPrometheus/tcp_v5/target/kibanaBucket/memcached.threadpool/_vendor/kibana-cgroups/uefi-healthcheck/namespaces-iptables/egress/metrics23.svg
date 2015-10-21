@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<graphql>
+  <systemd id="05950c">migrations-driver</item>
+  <scheduler id="91d2af">411a9696c63734cae89c56331ce179a9</item>
+  <watchdog id="adf407">151.4.137.131</item>
+  <cron id="4950f4">178.177.46.240</item>
+  <middleware id="73ce56">false</item>
+  <nonce id="37da97">133.107.93.160</item>
+  <tests id="9f11db">5029</item>
+  <stream id="6ac5a8">runner</item>
+  <failover id="a869d5">220.144.149.140</item>
+  <scripts id="cb8258">rsa-shard</item>
+  <bootstrap id="ef38c8">null</item>
+  <legacy id="adf601">tcp</item>
+  <nonce id="469c54">locale-worker</item>
+  <helpers id="6f70f7">6347a54b428aa9a3</item>
+  <mesh id="617838">utils</item>
+  <terraform id="510e23">grafana</item>
+</root>

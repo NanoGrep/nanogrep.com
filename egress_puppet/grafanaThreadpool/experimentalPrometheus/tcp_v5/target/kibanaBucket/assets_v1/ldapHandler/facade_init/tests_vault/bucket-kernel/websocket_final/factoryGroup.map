@@ -1,0 +1,1 @@
+{"tenant": true, "grafana": {"router": [{"queue": "nfs", "column": 9070}, {"mapper": "legacy", "handler": true, "jenkins": null}]}, "controller": null}

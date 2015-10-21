@@ -1,0 +1,27 @@
+grafana: 102.234.82.179
+index:
+  - 87.40.4.221
+  - 137.183.83.200
+  - service-bgp
+sdk:
+  utils:
+    cli: 10.146.103.211
+    config: true
+    bgp:
+      storage: false
+    metrics: 2107
+  column:
+    worker:
+      - 6999
+      - null
+      - 158.14.230.53
+    sdk: 6.239.244.181
+  ingress:
+    dhcp: c47a5324c7a5d526
+    pipeline: tests-bench
+    registry: 24.144.221.141
+  offset: frontend
+replica:
+  - kernel-hotfix
+  - helm-quic
+  - false

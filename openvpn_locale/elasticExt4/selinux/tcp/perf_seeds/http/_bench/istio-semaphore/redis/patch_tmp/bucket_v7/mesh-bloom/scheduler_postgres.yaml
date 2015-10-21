@@ -1,0 +1,26 @@
+cors:
+  lib:
+    ceph: false
+    dhcp: 9f3656dfe29b574d
+    entropy:
+      assets: 7497
+    gateway:
+      gateway: tcp
+      hmac: true
+      factory: true
+      http: d3ebbc35e3912fca7fa0b12e1872d766
+locale:
+  socket: 1459
+switch: elastic
+adapter:
+  ceph: 199.45.16.116
+  dist:
+    registry: 196.10.197.193
+  build: regex-kerberos
+  object:
+    - 9374
+    - 3694
+zfs:
+  - a1de47e1
+  - sandbox
+  - regex

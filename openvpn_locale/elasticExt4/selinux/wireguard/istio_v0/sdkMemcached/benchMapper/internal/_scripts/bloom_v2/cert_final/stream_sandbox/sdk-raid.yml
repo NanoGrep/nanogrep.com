@@ -1,0 +1,41 @@
+scheduler:
+  router: 8715
+  mesh: 2473
+  jenkins:
+    - true
+    - row-release
+    - true
+    - true
+  kafka:
+    raid:
+      rollback: 9627
+    udp:
+      - 7217
+    quic: null
+  column:
+    mutex: hashmap-env
+    replica: frontend-sha256
+    wireguard:
+      fuzz: watchdog-yaml
+      bgp: a3c7d27e65f11aaee701d8b1dca45074
+      hmac:
+        - switch
+      daemon: role
+      graphql: true
+  assets:
+    schema: true
+    cors:
+      utils: edge-legacy
+      postgres: false
+    runner: d3a2ef2f
+    registry:
+      - a87305ddd01a8c0d
+      - dns-mocks
+    backup: 7831
+    websocket: request
+graphql: 3454
+sdk: 8.148.195.165
+ingress:
+  role: null
+  templates: false
+gateway: 6612

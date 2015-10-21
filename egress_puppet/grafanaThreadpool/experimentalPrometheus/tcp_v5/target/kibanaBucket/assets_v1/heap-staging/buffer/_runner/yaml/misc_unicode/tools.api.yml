@@ -1,0 +1,55 @@
+jenkins:
+  core:
+    scheduler:
+      - 4aefc621
+      - 146.79.210.193
+      - tools
+    prometheus: 19.1.248.63
+    staging:
+      iptables:
+        - null
+      schema: b4d18202cdc29571dea08c4d50f26f0f
+      coroutine: ad7ffe0d1157107689201cd70add8171
+      shard:
+        - 3808
+        - templates
+        - 45ebf56afc42577dca54b26b2c5ca6e2
+    scripts:
+      bloom: 6d00f015b02ccfcc
+      scripts: true
+      lambda: 3f3073faca96eadaf39d4bf407cd4952
+      shard: 4927
+    aes: 23.111.152.45
+  payload:
+    - 151.102.243.95
+    - 9642
+    - 157.180.53.42
+  metrics:
+    - bgp-driver
+    - true
+    - 5213
+    - 167.252.23.245
+  middleware: cookie
+column: 206.175.225.52
+jenkins:
+  - f0134ad9a8070199b1a8a5cc9eaaf630
+redis: 609d3df186bc16a706084a3a415db170
+nginx:
+  dhcp: 109.239.221.221
+  audit:
+    cert: hotfix-bootstrap
+subnet:
+  dns: null
+  cli: 86f2a03f
+  websocket:
+    buffer:
+      snapshot: 42f03bd48a98495178311548cfddc103
+      node: false
+      dhcp: 6584
+      group: lambda-rsa
+      parser: router-registry
+  session:
+    - null
+    - fb3eb86cc5875b10
+  helm: 7848
+  factory: 6.1.187.116

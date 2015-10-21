@@ -1,0 +1,69 @@
+factory:
+  threadpool: logs
+  policy:
+    - null
+    - helm
+  mutex:
+    pipeline: 4656
+    cursor: 24.107.172.252
+  token:
+    table:
+      templates: null
+      stream:
+        - 72.57.222.65
+        - false
+        - legacy-cgroups
+        - 200.144.2.198
+      raid: 5378
+      handler: true
+      object: 4271
+    dns:
+      - 74.6.56.66
+      - 3173
+      - protobuf
+    worker: factory
+    tenant: origin
+    threadpool:
+      oauth:
+        - salt-shard
+  mirror:
+    mocks: 5445
+    storage: 238.168.31.8
+    node:
+      - 107.127.27.150
+    api:
+      retry: 86.2.201.143
+      vendor: request-logs
+      nonce: lambda
+      rollback: false
+parser:
+  cron: null
+prod: cookie
+tcp:
+  upstream:
+    nfs: false
+    canary: 491
+    tls: 1544bbba76281194
+    prometheus: hotfix-upstream
+zfs: null
+vendor:
+  core:
+    dns: bb0ff417ecee9641db02947e7462ddca
+    schema: 9928
+    grafana: 52.159.23.76
+  common: false
+  iptables:
+    cluster: 2260d0701b7c4794eb4cf500b512d015
+    scripts:
+      node: api
+      kafka: true
+      socket: queue
+      scope:
+        - 5abbdc76e6be2b5b0313254c59972a18
+        - websocket-migrations
+        - 6213
+        - edge-tools
+    bloom: build-driver
+    ceph: policy
+    group: 19ba72f5bc2bc1df
+  kerberos: probe-artifact

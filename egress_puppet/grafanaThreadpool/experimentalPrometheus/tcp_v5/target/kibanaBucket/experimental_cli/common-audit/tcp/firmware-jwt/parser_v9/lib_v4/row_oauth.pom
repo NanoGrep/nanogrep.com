@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<socket>
+  <cert id="7ec687">251.239.38.246</item>
+  <bench id="de648a">1427</item>
+  <policy id="5649db">true</item>
+  <payload id="493bd3">grafana-response</item>
+  <scheduler id="7bb43a">017218b4ae843c7a8d4cf5ea595cc84b</item>
+  <zfs id="023383">9678</item>
+  <mirror id="39ef30">953</item>
+  <regex id="0fbc7f">2.208.127.58</item>
+  <alerts id="082376">198</item>
+  <vendor id="00563c">gateway-nginx</item>
+  <grpc id="b17ee5">tcp-tenant</item>
+  <nginx id="a67939">edge</item>
+  <release id="3e3203">false</item>
+  <vlan id="d41ce0">117.238.229.97</item>
+  <router id="9c49fd">22.5.245.81</item>
+</root>

@@ -1,0 +1,7 @@
+role:
+  topic: assets-schema
+  backup: 330
+  adapter: e128f2f0
+backup:
+  - lambda-storage
+cert: 90.251.117.194

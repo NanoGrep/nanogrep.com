@@ -1,0 +1,25 @@
+trie:
+  request:
+    sdk:
+      controller: 174.100.87.148
+      adapter:
+        - postgres
+        - 3248
+        - faa5ef2ee5ac0568
+        - threadpool-session
+      user: null
+    runner:
+      loader: d21f265d
+      runner: 4b5a3e789d569e90137c793718b904ab
+    tenant:
+      - nightly-semaphore
+  ingress:
+    - cursor-stream
+    - 213.159.100.118
+    - 8de865aeefb0c66a
+  middleware:
+    - kernel-grpc
+    - df62d09f
+    - true
+  storage: 5c606ca0
+grafana: 2.3.187.203

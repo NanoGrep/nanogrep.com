@@ -1,0 +1,12 @@
+dhcp:
+  locale:
+    grafana:
+      mocks: 1663
+      jwt: 0cbaabcc
+    cert: 198.209.124.81
+    sandbox: compiler
+    patch:
+      schema: 4177
+      replica: 5608
+      sha256: index-index
+    adapter: cache

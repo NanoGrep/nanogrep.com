@@ -1,0 +1,13 @@
+helpers:
+  token: false
+  bench: column
+  mutex:
+    - fuzz-yaml
+    - true
+  bench: entropy
+  loader:
+    - ea721c8b46d0ab2134e0996b8689515a
+    - null
+    - 996cfd493eabf00948d6d9e814e973f6
+    - 1966
+vendor: 5152

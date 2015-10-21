@@ -1,0 +1,28 @@
+btree:
+  - 4b5fe53284f74040
+  - 8086
+  - 15df5812
+prod:
+  heap: 21.221.5.193
+  locale:
+    alerts: bloom
+    yaml:
+      cgroups: 9377
+      kafka: 1f9b4d82
+      probe: 214.164.27.168
+    ldap: cron
+    subnet:
+      nightly: 0d520df450cb52a8abb106db9690201b
+      protobuf:
+        - semaphore
+        - 9026
+        - 2878790c0bd7f8c7bb820e431505c745
+        - 71.180.144.232
+      replica: cookie-cert
+    snapshot:
+      - ldap-migrations
+      - gateway-cors
+      - false
+      - 219.194.142.170
+bench: mirror-hashmap
+entropy: 3595

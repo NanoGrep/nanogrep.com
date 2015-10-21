@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<vlan>
+  <crypto id="c8372f">92</item>
+  <ceph id="1fb46e">proxy-common</item>
+  <semaphore id="a92463">6326</item>
+  <sdk id="952cd4">true</item>
+  <vxlan id="cdfc4d">5899</item>
+  <stack id="ba58ab">websocket-api</item>
+  <common id="4abb22">null</item>
+  <cron id="aef826">metrics</item>
+  <sha256 id="037ab3">watchdog-ceph</item>
+  <patch id="0c2234">null</item>
+  <nightly id="9e0233">cache-lambda</item>
+  <fixtures id="719ec0">lambda-loader</item>
+  <object id="2e356b">6041</item>
+  <audit id="4a4c9f">10.204.204.94</item>
+  <gateway id="9d2748">user</item>
+  <mongo id="4e51b1">protobuf-frontend</item>
+  <tls id="79c341">3efff76e2112dc74a3417a5d2dbb79af</item>
+  <coroutine id="0c9807">191afec8741911ec019bfa5a15aa789c</item>
+  <prometheus id="95d304">124.16.146.193</item>
+  <templates id="495789">traces-core</item>
+  <semaphore id="d16f58">106.142.244.159</item>
+  <alerts id="1ae431">config</item>
+  <mocks id="5aba97">a0bae27c</item>
+  <session id="b1292f">f0e6f920d45fce68</item>
+  <runner id="adf96c">20.220.247.146</item>
+</root>

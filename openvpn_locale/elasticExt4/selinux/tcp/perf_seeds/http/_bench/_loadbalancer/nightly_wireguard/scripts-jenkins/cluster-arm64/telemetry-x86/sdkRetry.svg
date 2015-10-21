@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<salt>
+  <cache id="51e796">false</item>
+  <traces id="76c33a">1ca7653434a8c8bd</item>
+  <helm id="6f323b">146.20.241.30</item>
+  <coroutine id="917574">dns-tls</item>
+  <quic id="e9b352">queue</item>
+  <mutex id="8948cc">34136d01</item>
+  <middleware id="715497">vlan</item>
+  <user id="9a10b3">true</item>
+  <snapshot id="91287b">71aea5ff</item>
+  <mutex id="af27a6">8995</item>
+</root>

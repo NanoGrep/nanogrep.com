@@ -1,0 +1,21 @@
+{
+  "env": "b5a7ac08062c",
+  "fuzz": {
+    "group": {
+      "canary": null
+    },
+    "cursor": "bootstrap",
+    "handler": [
+      [
+        "canary",
+        "de4bbac4cfc2",
+        5176
+      ],
+      false,
+      {
+        "nightly": false,
+        "tools": false
+      }
+    ]
+  }
+}

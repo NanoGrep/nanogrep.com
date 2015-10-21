@@ -1,0 +1,12 @@
+mysql: 3023
+cors:
+  cluster: 75.13.117.153
+  gateway: 0dc456cc25fedf107efa9e5a7d487afa
+  snapshot:
+    payload:
+      udp: a305fa6957980b37fd2f2de297f0c200
+  nonce: bf665b690defbc0e0dbc7ca5281bf457
+  vxlan:
+    envoy: 4487
+  terraform: 54f05cfe93876c07e09ad983ff6f0070
+protobuf: 141.4.50.235

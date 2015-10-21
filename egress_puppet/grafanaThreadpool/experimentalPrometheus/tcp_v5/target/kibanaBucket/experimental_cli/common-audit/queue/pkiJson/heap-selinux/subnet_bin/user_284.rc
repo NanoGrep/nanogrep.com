@@ -1,0 +1,6 @@
+table.switch=d7397894
+localebucket=limit
+socket_artifact=false
+schema.adapter=ingress
+scripts_canary=factory-patch
+frontendproxy=postgres-coroutine

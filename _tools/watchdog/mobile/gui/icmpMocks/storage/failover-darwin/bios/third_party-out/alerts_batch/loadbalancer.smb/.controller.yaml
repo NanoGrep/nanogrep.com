@@ -1,0 +1,24 @@
+group:
+  mutex:
+    envoy:
+      patch: scope-service
+      helpers: null
+      role: false
+    nonce: stack-watchdog
+  stack: 160.247.103.234
+  templates: mapper
+  regex: 222.116.161.201
+  registry: true
+backend:
+  - null
+  - kerberos
+controller:
+  buffer: false
+  env: 3944
+  logs:
+    assets:
+      graphql: 5948
+      group: 040e8a78cffdf70b075a9fcde49e34fe
+  schema: lambda
+pod: 7838
+aes: 2498

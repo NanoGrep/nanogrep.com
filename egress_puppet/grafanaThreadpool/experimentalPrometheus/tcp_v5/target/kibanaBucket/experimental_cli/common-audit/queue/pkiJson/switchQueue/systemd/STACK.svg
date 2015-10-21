@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<templates>
+  <patch id="44f36b">cors</item>
+  <driver id="29a034">true</item>
+  <raid id="5bd50f">ceph-index</item>
+  <semaphore id="4ee29c">6c0aaa416460be84</item>
+  <mirror id="e602c3">true</item>
+  <prod id="14f1dd">retry-socket</item>
+  <templates id="f6f691">null</item>
+  <factory id="275be4">7583</item>
+  <quic id="c1386a">null</item>
+  <beta id="5fe996">false</item>
+  <entropy id="78b515">1e00a461</item>
+  <grafana id="e90c8b">null</item>
+  <prod id="7d63d5">e89d720133ef1d3d7b514c8c2ba21b40</item>
+  <hmac id="e90c62">81a571053f1c7b9fc14cb292737e8bda</item>
+  <upstream id="1ded7c">watchdog-nfs</item>
+  <bloom id="bda1f0">123</item>
+  <registry id="eb4a76">78.123.145.4</item>
+  <scheduler id="7ee078">false</item>
+  <response id="80f8a9">build</item>
+  <nonce id="9c5eab">kernel</item>
+</root>

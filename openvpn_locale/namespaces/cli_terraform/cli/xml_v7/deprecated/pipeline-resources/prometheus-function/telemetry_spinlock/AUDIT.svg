@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <registry id="b3a23d">9f3ec4af1ea52307</item>
+  <mutex id="a9994f">de3703d6499bd4e6</item>
+  <postgres id="395b29">null</item>
+  <scripts id="418059">f4643501</item>
+  <trie id="ac6648">mapper-assets</item>
+  <cron id="ac0564">7295</item>
+  <sandbox id="1075fb">648343a5</item>
+  <semaphore id="66df5d">true</item>
+  <response id="ae3024">common-locale</item>
+  <kerberos id="4fb0d9">null</item>
+  <rollback id="9a4166">false</item>
+  <templates id="3ae35d">postgres-grafana</item>
+  <batch id="c16564">fixtures-hashmap</item>
+  <row id="5d2422">57.184.77.183</item>
+  <entropy id="5775cf">561d3f20deb98e8f</item>
+  <mesh id="1b4bb4">rsa</item>
+  <nfs id="3bbc4f">common-envoy</item>
+  <iptables id="30efb9">98e98b400c7cd361a3cf4a52a35d1671</item>
+</root>

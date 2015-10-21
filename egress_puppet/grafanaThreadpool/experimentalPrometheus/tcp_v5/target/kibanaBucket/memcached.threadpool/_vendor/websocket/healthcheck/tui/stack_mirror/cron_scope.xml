@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<redis>
+  <daemon id="6c2f8f">34.231.230.252</item>
+  <session id="3fb2a8">45.245.44.219</item>
+  <entropy id="30d111">f0984a08ee76330c8ea0e74656e9a2d5</item>
+  <nightly id="934db9">token-object</item>
+  <bloom id="575c7d">group</item>
+  <bucket id="4a8004">251.236.49.10</item>
+  <raid id="0bee34">90.90.99.223</item>
+  <scheduler id="3ca58f">templates-nonce</item>
+  <envoy id="1a1316">null</item>
+  <bench id="5a68df">6790</item>
+  <vxlan id="982e72">4661</item>
+  <iptables id="97b419">mesh</item>
+  <mqtt id="95f6ca">2157</item>
+  <hashmap id="ae1d3b">fixtures</item>
+  <offset id="1b134f">systemd</item>
+  <terraform id="13d3f8">233.227.129.6</item>
+  <zfs id="eb3d5b">166.160.90.58</item>
+  <canary id="0931c9">314</item>
+  <response id="4c5f9a">user</item>
+  <controller id="c86be2">traces</item>
+</root>

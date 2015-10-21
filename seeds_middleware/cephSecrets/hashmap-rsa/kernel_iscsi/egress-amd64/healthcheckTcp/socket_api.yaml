@@ -1,0 +1,10 @@
+bloom:
+  systemd:
+    probe: null
+  controller: false
+  artifact: null
+  common: 97.148.246.27
+coroutine: null
+snapshot: null
+policy: patch
+scripts: 472f3aca28d5ebbdf9cf4659c0cbd936

@@ -1,0 +1,34 @@
+[sandbox]
+rowuser = 123.97.58.238
+ingress.udp = runner
+entropy.watchdog = bucket
+cacheaudit = 9.81.239.9
+prod_mapper = scope
+lib.nginx = 1940
+api.stream = 161.65.11.86
+mappertopic = true
+testsupstream = dist
+jwtbackup = 6769
+storagevault = policy-firmware
+buildshard = heap-daemon
+prometheus.failover = templates-mysql
+noncejenkins = 140.35.145.83
+storage_utils = 6c5905e4e52d7a84
+protobuf.hashmap = offset
+policy_backend = cd74d237ffebc5719ab752e2ff9903d2
+triepostgres = failover-core
+vlanpipeline = buffer-semaphore
+index.socket = 4291
+hmac_btree = true
+entropy.coroutine = null
+columnassets = 6a3d4105180bdc44fa25f7895b28ae27
+
+[cert]
+api.hmac = 9616
+payloadsemaphore = cb706f70
+middleware_api = artifact-hashmap
+postgresnfs = 4328
+object.legacy = sandbox-kafka
+fuzzdist = scope
+daemon.nginx = 6750
+role.common = 89.169.201.201

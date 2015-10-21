@@ -1,0 +1,63 @@
+[staging]
+auditbench = null
+patch_crypto = 254.122.133.230
+canaryfailover = grpc-semaphore
+mocks_role = trie
+semaphore.snapshot = sha256
+sdkdaemon = 2d54409347bd39b800fe0679778b50e4
+row_lib = config
+legacyobject = cert-legacy
+traces.postgres = retry
+nginx_fixtures = staging
+canary_mesh = stream
+releaselambda = 9391
+artifactwatchdog = false
+switchproxy = 0f4f69aedcbbf7d6
+gatewayvault = 94b6784a82b5c824
+postgres_offset = 175.69.146.21
+lambda.loader = iptables-bgp
+protobufregex = 2498
+quicpipeline = json
+mongo.yaml = terraform
+topic_utils = false
+
+[ceph]
+websocket_release = bootstrap-crypto
+graphql.frontend = tests
+coroutine_session = true
+offset.backup = a78cf166
+nat_switch = 8426
+requestcluster = scripts
+vlan_hotfix = 6237
+cachemirror = nfs-middleware
+factory_nightly = 9040
+
+[redis]
+scriptshmac = 14565ae8c923c37e
+vaultsdk = probe-subnet
+quic_topic = cli-pipeline
+sessionhandler = 2606
+cookie.rest = d91ae848
+compiler_graphql = ffc10651
+api_mongo = 129.62.140.223
+mapper_role = false
+bgp_registry = vendor
+vxlan.service = cors-limit
+request.node = 3166
+env.nightly = locale
+vxlan_lambda = dns
+adapter.quic = ff664d00dceccb48b44cd5ff2a4371d5
+origincluster = d9eb20321967bbc49d3ca047e4b04241
+jwt_object = 283
+session.yaml = prod
+streambucket = 197.29.96.100
+role_hashmap = null
+nginxsandbox = 8d5fd8c6922bf6e9
+jwtqueue = null
+mongo_iptables = grafana
+loader.cookie = 8657
+buffernightly = 8130a2110c35c687
+sha256stack = true
+vault_json = 5.47.138.91
+coroutine_wireguard = 8017
+graphql.ansible = service

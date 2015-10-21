@@ -1,0 +1,21 @@
+cgroups: false
+worker:
+  - subnet
+vlan:
+  hmac: false
+  utils:
+    socket: 5223
+    role:
+      - 201.40.134.36
+      - 07b30f61d6ed1c50f17d8e11eea2cc41
+  cookie: envoy
+  audit:
+    hmac: 9847
+    sha256: 591
+    volume: ansible
+  postgres:
+    - null
+daemon: controller-artifact
+locale: 6323
+stream:
+  nightly: 101.109.79.172

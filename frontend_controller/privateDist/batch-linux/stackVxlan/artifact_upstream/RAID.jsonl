@@ -1,0 +1,30 @@
+{
+    "cors": {
+        "lexer": null,
+        "role": {
+            "sdk": true,
+            "legacy": false,
+            "driver": false,
+            "watchdog": true
+        },
+        "utils": {
+            "tests": 7586,
+            "payload": {
+                "rollback": 2211,
+                "cli": false,
+                "cookie": false,
+                "vlan": 6010,
+                "worker": true
+            },
+            "rollback": {
+                "semaphore": null
+            },
+            "gateway": false,
+            "hotfix": {
+                "nightly": true,
+                "mysql": "frontend"
+            }
+        },
+        "raid": 3982
+    }
+}

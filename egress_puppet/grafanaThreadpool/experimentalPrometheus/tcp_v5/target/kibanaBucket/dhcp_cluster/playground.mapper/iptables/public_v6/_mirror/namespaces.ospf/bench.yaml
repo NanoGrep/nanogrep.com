@@ -1,0 +1,92 @@
+cgroups:
+  row:
+    mapper:
+      zfs:
+        - true
+        - helpers
+    systemd: true
+    semaphore: 168.19.196.9
+    subnet: nginx
+    nfs:
+      artifact:
+        - 116.91.71.233
+      row: null
+      tools: lib-coroutine
+  mqtt: 9313
+  mirror: null
+  tcp: scope-scheduler
+tls:
+  - 8904
+  - 45.216.93.170
+  - mesh-btree
+  - 81.149.135.96
+cookie:
+  policy: true
+  rest: null
+  mysql: 80.114.24.243
+  systemd:
+    mysql:
+      switch:
+        - 2a78c5ce5e25fa59
+      rollback: f5d43a93222ecccc
+      common: 123
+      watchdog: 5898
+      sdk: null
+      mocks: 205.239.33.181
+    index: 77674f35923bcdc6459d9384fcc98bce
+    locale:
+      snapshot: udp-index
+      watchdog: 2698
+      env: cron-dist
+    user:
+      protobuf: 77fb52db2c8b6b48
+      graphql: backend
+      retry: 5131
+  backend: terraform-migrations
+  dist:
+    tls:
+      table: dist
+      ansible: raid-mocks
+    dhcp: 6206
+    websocket: 52.162.18.137
+    index: rollback-rsa
+traces: 6439
+kernel: null
+api:
+  limit: 8691cfe2d1b49aa5ae9a0584674c0047
+  staging:
+    vault:
+      queue: lexer
+      controller: policy
+    kernel: null
+    driver:
+      json: iptables-watchdog
+      grpc: websocket-utils
+      ingress: entropy-subnet
+    sdk:
+      semaphore: driver
+      bloom: 2001
+      scheduler: true
+      response:
+        - iptables-audit
+        - trie
+        - 4382304624f5fb0af4bf623dfd02e8e3
+      dist: true
+    upstream: topic-metrics
+  user: 59.75.64.158
+  alerts: daemon-nginx
+  firmware:
+    dist: utils-cert
+    nonce: elastic-firmware
+    middleware:
+      hotfix: firewall
+      yaml:
+        - 0d30694467813c5f529293e3bb6bc7ae
+        - 52144f62
+        - cluster-grafana
+        - 99.231.71.96
+      cluster: 4362
+      queue: 8c39a7d53dc357b384d4a10aa867d3cf
+      iptables:
+        - null
+      controller: 1890

@@ -1,0 +1,21 @@
+kafka:
+  batch:
+    - column-failover
+    - mqtt
+    - 78.134.159.212
+  sdk:
+    backend: templates-policy
+    group: null
+    heap:
+      buffer: false
+      schema:
+        - prometheus
+        - build
+        - 167.246.178.28
+    postgres:
+      - upstream-locale
+      - redis-stack
+      - config
+      - offset
+  object: build
+  wireguard: 178.10.166.243

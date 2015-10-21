@@ -1,0 +1,88 @@
+cursor: 129.172.98.112
+helm:
+  vendor:
+    json: topic
+    kernel: 83a34528d8ddcfae
+    coroutine: 6287
+    user: 590eeef7
+    threadpool:
+      bucket: hotfix
+      metrics: 6476
+      controller: true
+    redis: 3543
+yaml:
+  shard:
+    lexer:
+      - true
+      - salt-cursor
+      - alerts
+    trie:
+      mqtt: heap
+    patch: graphql
+  graphql:
+    btree:
+      mqtt: 3.87.153.21
+    controller:
+      staging: null
+      config:
+        - 47.209.247.242
+        - 56.72.197.120
+        - ddfd50ff69da4ab83d01419001b01e39
+        - 9280
+      mapper: adapter
+      threadpool: table
+    kafka:
+      nginx: 4978
+      compiler: 2633
+      redis: null
+      json:
+        - null
+        - null
+      trie: jenkins
+      watchdog: rollback
+    sandbox:
+      gateway: subnet
+      mutex: 242.36.176.23
+      kernel: f8f264d7
+  sha256: 219.120.220.222
+  topic:
+    migrations:
+      factory: true
+      storage: mysql-jenkins
+      backup: null
+      column:
+        - false
+        - 4572
+        - false
+        - null
+      user: false
+    handler: 60.51.56.95
+    utils:
+      backup: policy-templates
+      ingress: ingress
+      registry: 4240
+    replica: 105.251.130.64
+    stack: 19d35c930af4ee6b4331396231a8bec3
+  cursor: 1.65.84.12
+  column:
+    cors: mysql
+    systemd:
+      backend: null
+      fixtures: null
+      middleware: nginx-node
+      hotfix: false
+      cgroups: cert
+      btree:
+        - 2e9057ced3a39dd4
+        - locale-protobuf
+        - 116.205.119.149
+        - 162.62.166.66
+    fuzz: true
+    table: 3222
+    driver:
+      threadpool: 194.168.17.205
+      assets: bloom-shard
+      dns: 64c930bce31adc5ef1167c00639330fe
+      bootstrap: 2791
+      wireguard: rollback-cluster
+      vlan: false

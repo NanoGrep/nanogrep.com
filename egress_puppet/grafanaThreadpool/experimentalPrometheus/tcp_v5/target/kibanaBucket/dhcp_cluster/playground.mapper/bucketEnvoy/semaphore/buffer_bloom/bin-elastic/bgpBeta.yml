@@ -1,0 +1,35 @@
+hotfix:
+  router:
+    cli: 4863
+  response:
+    metrics:
+      elastic:
+        - 215.204.112.126
+        - 3548
+        - 78.146.70.126
+      dhcp: salt
+      cgroups:
+        - 6690
+        - json
+        - 4980
+    lexer: false
+  vault:
+    limit: 200.231.110.175
+    traces:
+      scripts:
+        - group
+        - 5767
+        - dist
+      mutex: f64637dd7214840d
+      frontend: 364bea4b164de0e2823789fb7b7530da
+      entropy: json-index
+      stack:
+        - 95.5.186.119
+        - 6214
+    storage:
+      sdk: 244.116.46.29
+      kafka: 4633f65b
+      env:
+        - rest-artifact
+    prod: common
+  metrics: cursor-prod

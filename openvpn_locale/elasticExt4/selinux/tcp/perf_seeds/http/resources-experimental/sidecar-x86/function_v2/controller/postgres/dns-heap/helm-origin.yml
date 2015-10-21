@@ -1,0 +1,29 @@
+dns:
+  - protobuf
+canary: dfcdc3453058d13351329b493639d272
+mapper:
+  registry: 7543
+  batch:
+    backend: mutex-failover
+    upstream: ff98ef7bfdd6e0344f7113c4adb29fd3
+    watchdog: true
+  response:
+    limit:
+      dist: rollback-vxlan
+    bucket:
+      api: 31c08f20
+      role:
+        - 3543
+        - 181.101.3.134
+      tools: kerberos-vault
+    dist: websocket-request
+    scheduler:
+      cert: true
+      role: false
+    aes: cursor-tests
+    node:
+      beta: 896
+      retry: 8619576321d124fabb1680917dc79d45
+      request: retry-grafana
+  fuzz: release-mesh
+  env: 182.12.114.78

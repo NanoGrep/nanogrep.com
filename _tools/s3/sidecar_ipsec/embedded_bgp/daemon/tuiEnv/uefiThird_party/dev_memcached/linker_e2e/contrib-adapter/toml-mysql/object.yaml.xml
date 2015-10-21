@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<socket>
+  <utils id="9bba6a">compiler-object</item>
+  <sandbox id="63e2a5">null</item>
+  <grpc id="35faaa">false</item>
+  <mutex id="0043dc">lexer-tcp</item>
+  <ceph id="b4f249">grpc-buffer</item>
+  <nginx id="39b213">firmware-helm</item>
+  <nfs id="466b86">cgroups-vlan</item>
+  <shard id="2b7739">switch</item>
+  <index id="57fce7">1765</item>
+  <wireguard id="a9e2de">core</item>
+  <helm id="596d9f">a81a615b</item>
+  <stack id="f01bf6">cursor-adapter</item>
+  <fuzz id="e2d029">batch-parser</item>
+  <release id="47aec3">92da5a7d63baca143cab7f70c19bb5f1</item>
+  <factory id="94ba9d">87.221.168.208</item>
+  <ingress id="a3bf11">mapper</item>
+  <cli id="068928">null</item>
+  <hmac id="fc0af5">205.218.108.84</item>
+  <parser id="5cc09d">24ff59b9d927b4cb</item>
+  <frontend id="6ace5b">7043</item>
+  <ansible id="6d3a72">bf1be7ef</item>
+  <postgres id="334a13">trie-kernel</item>
+  <index id="d6dc73">f9976d14</item>
+  <metrics id="7725de">false</item>
+  <metrics id="b8ef03">core</item>
+</root>

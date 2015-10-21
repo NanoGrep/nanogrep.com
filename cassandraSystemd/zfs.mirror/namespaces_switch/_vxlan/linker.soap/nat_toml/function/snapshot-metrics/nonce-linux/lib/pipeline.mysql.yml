@@ -1,0 +1,9 @@
+assets:
+  elastic: index
+  dns:
+    - group
+  kerberos:
+    - pipeline
+    - role
+    - 6541
+    - gateway

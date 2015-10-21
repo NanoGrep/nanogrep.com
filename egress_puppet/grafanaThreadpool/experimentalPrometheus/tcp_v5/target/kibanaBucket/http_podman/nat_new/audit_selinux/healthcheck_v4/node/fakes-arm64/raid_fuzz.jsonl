@@ -1,0 +1,53 @@
+{
+  "row": [
+    5678,
+    [
+      "f4de66f09ed3",
+      {
+        "mongo": true,
+        "hotfix": false,
+        "staging": 2261
+      }
+    ],
+    [],
+    {
+      "alerts": [
+        9839,
+        null,
+        false
+      ]
+    }
+  ],
+  "watchdog": [
+    true,
+    {
+      "request": false
+    },
+    "sandbox"
+  ],
+  "tenant": true,
+  "tls": {
+    "nfs": "232575a0840b",
+    "mongo": [
+      {
+        "session": 5683,
+        "bgp": "f1fb01627e9c",
+        "fixtures": "33ae72efc48c",
+        "ldap": true,
+        "table": 7659,
+        "cgroups": false
+      },
+      [
+        "bucket"
+      ],
+      {
+        "lambda": null,
+        "common": false
+      }
+    ],
+    "tls": {
+      "graphql": []
+    },
+    "trie": "95c7900d9c59"
+  }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<websocket>
+  <compiler id="5bdb50">86.181.33.109</item>
+  <tools id="67d5e7">oauth</item>
+  <udp id="30f83f">229.48.75.214</item>
+  <vxlan id="517b5b">null</item>
+  <tcp id="cc44ce">107.182.226.4</item>
+  <dhcp id="9691f1">api-yaml</item>
+  <nat id="6c3774">stack</item>
+  <rest id="386f93">3774</item>
+  <alerts id="727e8e">165.60.15.48</item>
+  <cert id="af62c9">true</item>
+  <entropy id="ee65b3">2686</item>
+  <router id="91576b">assets-legacy</item>
+  <adapter id="a7c439">mirror</item>
+  <switch id="c9be35">dist-policy</item>
+  <utils id="44a892">true</item>
+  <btree id="924aa4">b5b9594cf422af09</item>
+  <http id="69eb2e">208.33.29.26</item>
+</root>

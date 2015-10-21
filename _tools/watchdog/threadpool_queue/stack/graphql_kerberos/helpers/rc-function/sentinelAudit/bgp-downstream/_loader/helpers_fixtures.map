@@ -1,0 +1,31 @@
+{
+  "controller": "c7d6f70abcb3",
+  "bucket": {
+    "logs": {
+      "firewall": false
+    },
+    "lambda": {
+      "trie": {
+        "btree": "d14745ccfeda",
+        "alerts": true,
+        "frontend": false,
+        "artifact": null,
+        "firmware": null,
+        "entropy": false
+      },
+      "quic": {
+        "table": 6178,
+        "hashmap": 266,
+        "config": "cors",
+        "lexer": "origin"
+      },
+      "nightly": {
+        "node": null,
+        "postgres": "service",
+        "ldap": false
+      },
+      "ingress": "coroutine"
+    }
+  },
+  "mysql": "993a9eb518a7"
+}

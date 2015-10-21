@@ -1,0 +1,45 @@
+hashmap: snapshot-ansible
+index: 7232
+protobuf: 180.23.192.248
+gateway: cache
+jwt:
+  firewall:
+    tls:
+      - 018bbef9a25e2d5742ef6954c9a656c9
+      - shard-wireguard
+      - aes
+      - 46.189.190.181
+    env:
+      nonce: 97.238.238.27
+      kernel: 101.181.116.43
+    rollback:
+      jwt:
+        - response
+      user: 3877
+      controller: 8974
+      router:
+        - mongo
+        - 24.22.241.244
+        - ab084a57fcc2e6c2
+  zfs:
+    protobuf:
+      build: 4617
+      table:
+        - templates-cookie
+        - ad49cace95a3d6eb
+        - 58c31e8cca4e8c9fccd6d972511f8c2d
+    firmware: null
+    regex:
+      systemd: 3572
+      buffer: null
+    elastic:
+      topic: false
+      mqtt: core-batch
+      json:
+        - hotfix
+      vendor: 1932
+    origin: nginx-queue
+    aes: session
+  http: 666
+  fixtures: 217.166.131.3
+  cursor: b1b68470f061e44665cd953cd0dc6454

@@ -1,0 +1,15 @@
+replica: 4a9c628ef84cdb096649a145f95fbcb6
+vendor:
+  socket:
+    - upstream
+    - false
+    - fixtures
+    - grafana-cert
+  probe: 6756
+  elastic:
+    nightly: 5906
+    envoy: 4921
+    snapshot: 192.92.31.60
+token: 3428
+audit: 197.41.253.167
+fuzz: null

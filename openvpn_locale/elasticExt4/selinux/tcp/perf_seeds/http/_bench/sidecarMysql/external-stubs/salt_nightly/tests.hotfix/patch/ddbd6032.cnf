@@ -1,0 +1,3 @@
+systemd_mongo=canary-buffer
+staging.group=vendor
+mqttceph=protobuf-heap

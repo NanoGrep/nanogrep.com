@@ -1,0 +1,52 @@
+router: upstream
+token:
+  loader:
+    nat: true
+    role:
+      - 051ac161babbddca
+      - 7011
+      - middleware
+      - e23797715f242cff5744c2fef7e58621
+  http:
+    topic:
+      ldap: 796
+      batch: hashmap-queue
+      ansible:
+        - payload-tls
+        - dist
+        - regex
+      volume: 1862
+      compiler: 3898
+      replica: bgp-build
+    gateway: ldap-upstream
+  retry: 9b514f2b95d765ad723aa89bed2b4245
+  aes:
+    - raid-tests
+    - router-aes
+postgres: raid
+kerberos:
+  - gateway-build
+  - 6686
+  - 5945
+oauth:
+  batch: null
+  retry:
+    offset:
+      tenant: 62.166.246.27
+      terraform: 4003
+      artifact:
+        - 0c1126405928ef76
+        - true
+      replica: common
+      vault: 8177
+      vault: router
+    helpers:
+      btree: true
+      prometheus: cli-redis
+      nightly: elastic
+    fixtures:
+      kafka: 116.150.31.23
+    env: volume
+    artifact: 46.246.66.149
+  btree: true
+  router: null

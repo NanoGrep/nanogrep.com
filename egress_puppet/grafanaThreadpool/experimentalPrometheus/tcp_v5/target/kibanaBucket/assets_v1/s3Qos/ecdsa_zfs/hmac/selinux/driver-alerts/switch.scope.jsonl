@@ -1,0 +1,22 @@
+{
+    "firmware": "bloom",
+    "jenkins": {
+        "adapter": "staging",
+        "cursor": {
+            "buffer": true
+        }
+    },
+    "locale": [],
+    "offset": [
+        true,
+        "upstream",
+        {
+            "lib": {
+                "worker": null,
+                "audit": "2a75c7034f95"
+            },
+            "column": "9379d2033f6b"
+        },
+        null
+    ]
+}

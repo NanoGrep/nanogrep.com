@@ -1,0 +1,111 @@
+{
+  "watchdog": {
+    "daemon": {
+      "logs": {
+        "fuzz": null,
+        "entropy": null,
+        "kernel": false,
+        "ceph": true,
+        "systemd": false,
+        "queue": null
+      }
+    },
+    "raid": {
+      "legacy": "nonce",
+      "payload": {
+        "schema": null,
+        "logs": null
+      },
+      "crypto": true
+    },
+    "bootstrap": {
+      "lexer": {
+        "vault": true,
+        "common": 3237,
+        "scripts": true,
+        "buffer": true,
+        "grafana": "tools"
+      }
+    },
+    "node": {
+      "payload": {
+        "kerberos": true,
+        "edge": true,
+        "mesh": "systemd",
+        "retry": false,
+        "tenant": true,
+        "hotfix": "53095ead1e71"
+      },
+      "pod": false
+    },
+    "upstream": {
+      "udp": "ead9aba96b79",
+      "batch": [
+        true
+      ],
+      "worker": null
+    },
+    "iptables": {
+      "terraform": {
+        "runner": null
+      }
+    }
+  },
+  "payload": {
+    "offset": 9141,
+    "middleware": {
+      "sha256": {
+        "threadpool": false
+      },
+      "hashmap": [
+        true,
+        "42f12e90d7ea",
+        6002,
+        null
+      ],
+      "nightly": 427,
+      "queue": {
+        "stream": true,
+        "json": false,
+        "systemd": "factory",
+        "utils": true,
+        "bgp": "8f46767e0df3"
+      }
+    },
+    "kernel": [
+      "5be93e25071c"
+    ],
+    "worker": {
+      "api": [
+        6481
+      ],
+      "lambda": [
+        "8e3adc339a68"
+      ],
+      "firewall": "kerberos",
+      "middleware": [
+        true
+      ],
+      "fixtures": 9541
+    },
+    "api": [
+      {
+        "artifact": false,
+        "node": "jwt",
+        "column": true,
+        "bloom": null
+      },
+      false,
+      true,
+      {
+        "hotfix": "47d6cafb6d12",
+        "daemon": null,
+        "object": false,
+        "fixtures": 4481,
+        "worker": "coroutine",
+        "session": "e7d13e4a3a65"
+      }
+    ],
+    "watchdog": "863d9f13db04"
+  }
+}

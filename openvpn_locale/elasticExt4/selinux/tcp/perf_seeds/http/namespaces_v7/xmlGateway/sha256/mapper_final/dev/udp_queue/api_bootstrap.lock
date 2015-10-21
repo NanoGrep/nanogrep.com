@@ -1,0 +1,8 @@
+{
+    "socket": "43411397d592",
+    "grafana": null,
+    "release": true,
+    "terraform": true,
+    "nat": false,
+    "cache": 2087
+}

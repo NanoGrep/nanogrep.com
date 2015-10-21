@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<cache>
+  <api id="afb7c0">api-payload</item>
+  <mqtt id="82ce89">null</item>
+  <mutex id="8bf963">5312</item>
+  <column id="e1bb1b">1746</item>
+  <limit id="481ad0">null</item>
+  <group id="2daef5">subnet-sdk</item>
+  <graphql id="dcfb52">release-cgroups</item>
+  <raid id="2e4c9b">5cfc4fe2f025058d</item>
+  <retry id="4edb22">true</item>
+  <group id="36a30c">firmware</item>
+  <failover id="5aa03e">6359</item>
+  <rest id="3817a1">e721d7a077c9b15b</item>
+  <rollback id="fc2d66">7146ddc8</item>
+  <switch id="77813a">backup</item>
+  <stack id="b3b89b">trie-row</item>
+  <metrics id="8f1568">17.9.7.33</item>
+  <index id="901f27">topic-semaphore</item>
+  <cli id="d3d97c">1822319a9ef61af1cd2fba2940162b5b</item>
+  <nginx id="024e22">topic</item>
+  <upstream id="89cdc9">2a1f312c35c562f5</item>
+  <ldap id="e3f691">queue-group</item>
+  <postgres id="7074b4">177.241.93.201</item>
+  <raid id="0cda6d">212.127.192.151</item>
+</root>

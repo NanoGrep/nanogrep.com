@@ -1,0 +1,17 @@
+protobuf: 160.215.76.165
+controller: null
+nginx: cert-queue
+cluster:
+  terraform: 117.31.209.34
+systemd:
+  rollback: null
+  tls:
+    - migrations
+    - 2defca2063de4db5
+    - adapter
+    - rollback-table
+  jenkins: 8220
+  probe: 63.61.175.70
+  core:
+    storage: null
+    aes: 223.74.212.120

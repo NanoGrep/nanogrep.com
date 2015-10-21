@@ -1,0 +1,9 @@
+{
+    "node": [
+        {
+            "loader": true
+        }
+    ],
+    "pod": null,
+    "dns": null
+}

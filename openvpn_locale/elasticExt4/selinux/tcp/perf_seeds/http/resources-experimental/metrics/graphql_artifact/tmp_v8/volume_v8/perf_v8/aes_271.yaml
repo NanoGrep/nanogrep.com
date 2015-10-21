@@ -1,0 +1,31 @@
+http:
+  mqtt:
+    - origin
+    - aes-watchdog
+  firmware:
+    session: false
+    lib: 86.167.104.113
+cors:
+  logs:
+    - 6cf16366d17105cd90712c57904b8e23
+    - 6.203.217.83
+    - core
+  sha256:
+    wireguard:
+      - object
+      - 165.119.218.223
+      - false
+    mocks: null
+    staging: 22fc9a7f43d2b986
+    schema: 48.5.35.181
+  fixtures:
+    - 6958
+    - 9751
+    - 0a0ebfabaa0ddbde
+    - topic
+  rollback: true
+  node: 14.58.143.167
+  quic: 308
+adapter: dist-scope
+jwt: mesh
+wireguard: true

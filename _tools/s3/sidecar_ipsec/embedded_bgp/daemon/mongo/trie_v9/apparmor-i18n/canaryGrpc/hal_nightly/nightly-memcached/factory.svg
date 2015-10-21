@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<dns>
+  <kafka id="0940f6">vlan</item>
+  <release id="6608b9">950</item>
+  <controller id="e2e62d">8356</item>
+  <limit id="c04940">firewall-hotfix</item>
+  <entropy id="f33017">723</item>
+  <nonce id="c6fdd9">c890bf4b2fdfbb69</item>
+  <token id="3253ed">2515</item>
+  <hashmap id="69e12a">nonce-prometheus</item>
+  <hotfix id="59c582">133.248.221.106</item>
+  <graphql id="1fd995">148.222.229.234</item>
+  <fixtures id="b5966e">30.172.144.108</item>
+  <jwt id="35ea15">scope</item>
+  <queue id="d33ab3">policy-retry</item>
+  <router id="f62d16">bloom</item>
+  <lambda id="5fbc92">helpers</item>
+  <kerberos id="78e9dd">payload</item>
+  <mutex id="9863d0">offset-yaml</item>
+  <upstream id="bd34ea">vxlan</item>
+  <bgp id="d54e90">null</item>
+  <mirror id="ec63ca">8623</item>
+  <dns id="e40e98">api</item>
+  <cookie id="335acb">5191</item>
+  <hmac id="032f1d">187.119.201.111</item>
+  <legacy id="e51d8e">113.74.218.60</item>
+  <graphql id="20e5b9">salt</item>
+</root>

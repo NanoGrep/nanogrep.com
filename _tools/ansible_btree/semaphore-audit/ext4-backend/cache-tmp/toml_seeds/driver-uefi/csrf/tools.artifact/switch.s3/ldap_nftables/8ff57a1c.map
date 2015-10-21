@@ -1,0 +1,79 @@
+[
+    {
+        "queue": [
+            {
+                "snapshot": "0ab66ae9bed7"
+            }
+        ]
+    },
+    {
+        "backup": {
+            "mapper": "e8ed25087329",
+            "threadpool": {
+                "fixtures": "f1f58f8ae8e4",
+                "frontend": "pod",
+                "controller": "mongo",
+                "column": "mysql"
+            },
+            "limit": true,
+            "systemd": "cache",
+            "sha256": {
+                "migrations": false
+            },
+            "bootstrap": []
+        },
+        "offset": [],
+        "object": {
+            "config": [
+                6924
+            ],
+            "helpers": {
+                "trie": null,
+                "registry": "18dc767cc977",
+                "node": 3431
+            }
+        },
+        "lib": {
+            "kernel": {
+                "jenkins": "a650be17fb3d",
+                "heap": true,
+                "nginx": "ee69aaba00ac",
+                "adapter": 8762,
+                "tenant": null
+            },
+            "threadpool": [
+                "hotfix"
+            ],
+            "beta": {
+                "firewall": false,
+                "entropy": "c1ea7aa0eb2e",
+                "staging": "mesh",
+                "failover": "registry",
+                "bloom": true,
+                "dist": null
+            },
+            "patch": "fdf3e368f7e2",
+            "artifact": [
+                null,
+                6137,
+                null
+            ]
+        },
+        "logs": {
+            "column": {
+                "mysql": "e012b2bc440b",
+                "daemon": "watchdog",
+                "mesh": 6083,
+                "response": 1103,
+                "frontend": true,
+                "patch": null
+            },
+            "lib": [],
+            "factory": false,
+            "semaphore": {
+                "entropy": "c7c933ebfb1c"
+            },
+            "probe": null
+        }
+    }
+]

@@ -1,0 +1,47 @@
+handler: 254.142.173.83
+failover:
+  protobuf: true
+  socket:
+    sha256: trie-envoy
+    pipeline:
+      tools: true
+      release:
+        - buffer-replica
+        - 53.97.142.32
+        - 3309
+        - table
+      cursor: 0c6879fc218995a7
+      worker: 128.40.102.30
+      worker:
+        - 4429a86bf679ba9ca8bcd84fda08cfd0
+      ldap:
+        - 6c657ac7832cb3773a6a61f5e154472b
+        - 40.142.248.117
+        - cors-helm
+    trie:
+      - 3f0597d0
+      - sdk
+      - middleware
+    mirror: tests
+    ceph: cache-bucket
+    templates:
+      api: bootstrap-grafana
+      cron:
+        - wireguard
+        - b31e3139eb64d14425134b99a40e9cbe
+      dns: 8125
+      cert: stream-session
+  schema:
+    bloom:
+      - 6289
+      - frontend
+      - runner-protobuf
+    vxlan: 2ceb4517705bbf9d
+    vlan: 228.110.109.217
+    jenkins: 2f5c7935
+tls:
+  - 7625
+  - 61.52.91.163
+  - 0b595266
+  - 152.149.56.184
+systemd: 89.208.168.225

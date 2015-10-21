@@ -1,0 +1,8 @@
+service: cluster
+retry: false
+retry:
+  rest: null
+  oauth: service
+  release: 2841dee2915a9be5ead17c98cff43102
+  envoy: 7951
+trie: null

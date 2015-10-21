@@ -1,0 +1,15 @@
+compiler: 26.114.180.22
+bench:
+  - vault-adapter
+  - 713
+  - 246.62.73.224
+queue: node
+switch:
+  - true
+  - 7a924294cb324e972cf8b050ec742e74
+env:
+  cli: 166.135.80.108
+  registry: 215.127.62.220
+  rest: null
+  json: 228.223.134.184
+  mesh: response-bgp

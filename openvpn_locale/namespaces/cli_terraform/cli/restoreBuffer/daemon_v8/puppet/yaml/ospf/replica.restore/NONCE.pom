@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<graphql>
+  <role id="5625be">false</item>
+  <handler id="24c267">3435</item>
+  <bench id="b94f98">57ecfb64</item>
+  <mysql id="38f324">ab7365e7fafe819f</item>
+  <proxy id="963614">37.6.219.129</item>
+  <hmac id="17be79">false</item>
+  <buffer id="4af313">true</item>
+  <mapper id="34bcb3">31.100.154.8</item>
+  <table id="b501a5">f2246421407b23e49bd6f33dbf793226</item>
+  <entropy id="048170">6900</item>
+  <canary id="3bb56b">envoy</item>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<backend>
+  <user id="898ed3">2652</item>
+  <column id="92c4eb">1200</item>
+  <ldap id="aaca26">utils-socket</item>
+  <cursor id="ddf57c">volume-rest</item>
+  <scheduler id="e4a212">nat</item>
+  <mocks id="50779b">true</item>
+  <beta id="ed0b28">46.145.74.165</item>
+  <lib id="62a4e0">3289</item>
+  <pipeline id="6ba2d5">null</item>
+  <registry id="e810d5">2a1287d9</item>
+  <fuzz id="1cfa97">registry-dhcp</item>
+  <postgres id="c4ad6e">cgroups</item>
+  <cert id="eac1e6">9516</item>
+  <json id="b3427f">91.6.5.119</item>
+  <mysql id="6722c8">71481891383721b8</item>
+  <cluster id="e45359">false</item>
+  <frontend id="6bf00e">5323</item>
+  <nfs id="b5f102">coroutine-kafka</item>
+  <rest id="d64d2c">dd1e5232e8c522b9349315250fa99af1</item>
+  <utils id="a45145">9c26a5bbc4e1f63b1edc241d6cd8b4f6</item>
+  <quic id="14496a">194.118.22.214</item>
+  <templates id="df4d0e">cert-firmware</item>
+  <role id="eb8a7b">4490</item>
+  <bucket id="b6ee38">3525</item>
+</root>

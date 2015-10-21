@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<heap>
+  <ceph id="fdc94a">dns-sandbox</item>
+  <proxy id="bb6242">true</item>
+  <mocks id="5fdc8a">77.67.140.103</item>
+  <nginx id="917f42">kafka</item>
+  <redis id="6d90b8">build</item>
+  <systemd id="3e78c3">100.57.242.110</item>
+  <locale id="59d375">5769</item>
+  <udp id="fb778b">null</item>
+  <sdk id="d82a6f">208.135.50.221</item>
+  <utils id="fa25dc">locale-offset</item>
+  <bench id="54e524">mysql</item>
+  <topic id="20e589">c317ca8b356d1a84</item>
+  <storage id="af17f8">5950</item>
+  <mocks id="ccf75f">46.181.119.6</item>
+  <mirror id="9c37f5">bc1a8f40ae6c7577</item>
+  <nat id="11b52c">19.157.12.173</item>
+  <cgroups id="c7c440">1580</item>
+  <batch id="2eb06b">policy</item>
+  <envoy id="2d97a9">6726</item>
+  <runner id="d9c2ac">null</item>
+</root>

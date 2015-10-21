@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<elastic>
+  <fixtures id="051b48">208.194.34.181</item>
+  <daemon id="dac67d">backend-jwt</item>
+  <service id="4d8699">738</item>
+  <legacy id="d0d4f4">226.102.232.222</item>
+  <mutex id="17e196">backend</item>
+  <udp id="2378a4">3173</item>
+  <schema id="e3387a">172.240.247.37</item>
+  <backup id="311198">protobuf</item>
+  <yaml id="f07f3b">549864a31dbf28ee618bee779b3a11e5</item>
+  <service id="b6f37f">5690</item>
+  <hashmap id="2775de">mysql</item>
+  <queue id="e73d48">adapter-migrations</item>
+  <cron id="150108">249.238.195.209</item>
+  <btree id="941460">45a724ac</item>
+  <parser id="86dc74">46.207.195.84</item>
+  <metrics id="f407a9">264</item>
+  <group id="5a1f3d">true</item>
+  <bucket id="025267">semaphore-protobuf</item>
+  <probe id="d37d19">3031</item>
+  <upstream id="5e528a">539fe4d3</item>
+  <cron id="281307">true</item>
+  <logs id="3b549e">cgroups-retry</item>
+  <ceph id="9ace3c">6064</item>
+  <node id="569417">9ab8da619e3446ee</item>
+</root>

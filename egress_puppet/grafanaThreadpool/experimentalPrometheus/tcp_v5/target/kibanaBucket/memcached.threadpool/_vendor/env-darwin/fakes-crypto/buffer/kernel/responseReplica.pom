@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<compiler>
+  <object id="4f1710">c9371633e8b19811542a1018dacc99bf</item>
+  <locale id="e39a17">vxlan</item>
+  <snapshot id="bafcb4">true</item>
+  <config id="264f6f">envoy-entropy</item>
+  <quic id="de57c6">9920</item>
+  <cluster id="8de2f5">redis-handler</item>
+  <jenkins id="4a6330">1667faf4056714ef7a0d2b19b219e228</item>
+  <watchdog id="cad94e">20.131.124.42</item>
+  <sdk id="d15e19">136.175.194.143</item>
+  <kerberos id="1011ed">fixtures</item>
+  <backend id="34b923">203.3.203.240</item>
+  <snapshot id="e9e0b1">factory-mesh</item>
+  <alerts id="4d537c">origin-group</item>
+  <utils id="dc709a">btree-worker</item>
+  <terraform id="3f0cce">null</item>
+  <adapter id="c5db21">bgp</item>
+  <bucket id="a4a340">cf5c62b87dfcb057</item>
+  <snapshot id="c3d2c8">parser</item>
+  <request id="af54d5">grpc</item>
+</root>

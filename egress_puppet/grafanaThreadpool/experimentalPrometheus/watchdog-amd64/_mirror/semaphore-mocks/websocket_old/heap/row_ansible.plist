@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<api>
+  <node id="afc6ed">wireguard</item>
+  <retry id="cb0aea">7541</item>
+  <bucket id="63c39b">true</item>
+  <locale id="f8a015">8.35.93.169</item>
+  <row id="6a2eab">false</item>
+  <backup id="0de815">prod-entropy</item>
+  <replica id="5745c5">failover-assets</item>
+  <node id="40290b">true</item>
+  <config id="49c53c">8642</item>
+</root>

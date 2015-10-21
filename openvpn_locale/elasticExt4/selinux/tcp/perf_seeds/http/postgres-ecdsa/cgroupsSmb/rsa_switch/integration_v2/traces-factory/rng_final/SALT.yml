@@ -1,0 +1,25 @@
+postgres: 226.174.43.64
+rollback:
+  - 6814
+  - 77.203.43.94
+watchdog:
+  helpers:
+    shard: 5250
+    node: elastic
+    daemon: f41a0b2a96f33543
+    wireguard:
+      yaml: 197.84.79.101
+      stack: 791046b3a77037af39c470912a930e46
+    tls:
+      - false
+    limit: cluster
+  registry: true
+nat:
+  - false
+  - trie-cookie
+  - failover-helm
+  - true
+upstream:
+  - jenkins
+  - 1166
+pod: lambda

@@ -1,0 +1,22 @@
+mongo: null
+user:
+  token: 8998
+  mysql: env
+  switch:
+    bucket: b389d84a4c4f7b96
+    kerberos:
+      - null
+      - ceph-factory
+    raid: jwt-stream
+    entropy:
+      frontend: be2c54f0c8e6ebca
+      traces: 716
+      rollback: dns-prod
+      coroutine: 1427
+      buffer: 190.36.129.163
+      lambda:
+        - 5645
+        - postgres
+  tools: 22
+zfs: true
+stack: 219.36.129.54

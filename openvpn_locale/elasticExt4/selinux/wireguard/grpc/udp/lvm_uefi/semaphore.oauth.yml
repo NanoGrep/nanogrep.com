@@ -1,0 +1,33 @@
+tcp: true
+cookie: f12ef26978117cea
+prod: 247c3a3caa33034e
+queue:
+  backend:
+    payload: d60f8c402d9dca7c19619f0ff806b322
+    udp: elastic-trie
+    hotfix: hashmap
+    edge:
+      - 110.96.72.181
+      - 64.116.205.195
+      - wireguard-migrations
+      - 132.95.89.253
+    audit:
+      jwt: http-coroutine
+      ansible: iptables-vlan
+      coroutine: regex
+      bench: tcp
+      quic: bootstrap-sandbox
+      backend: 3110
+  bench: null
+mapper:
+  worker: scope
+  traces: true
+  fuzz: false
+  frontend:
+    alerts:
+      - middleware-batch
+      - 81dcc71bdb501697
+      - e0c7f33dbe0641bc
+      - fixtures-hotfix
+    heap: 168.235.134.178
+  cli: alerts

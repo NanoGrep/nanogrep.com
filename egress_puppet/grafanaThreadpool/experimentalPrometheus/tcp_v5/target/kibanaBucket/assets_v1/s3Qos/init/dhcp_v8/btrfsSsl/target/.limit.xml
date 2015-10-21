@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<object>
+  <env id="7a4a29">244.40.44.56</item>
+  <mocks id="9941c1">true</item>
+  <policy id="ea8315">config-sandbox</item>
+  <edge id="63d6bc">false</item>
+  <topic id="6ae440">vlan-mqtt</item>
+  <socket id="a39e18">firewall-artifact</item>
+  <kerberos id="4fc46e">7426</item>
+  <pod id="6e4934">websocket-helm</item>
+  <batch id="da00fd">49.183.87.174</item>
+  <scripts id="eabe50">134.72.220.13</item>
+  <crypto id="59e8d0">false</item>
+  <worker id="0f2b0e">9f2d782af0b7a01b914740154f521bdd</item>
+  <redis id="70efe7">08747691ff76e643</item>
+  <role id="b3d65c">4d75f52af6b1a4ce60bef42601962284</item>
+  <quic id="1e8f78">3099</item>
+  <prometheus id="be2e6c">wireguard-hmac</item>
+  <topic id="281f96">4971</item>
+  <raid id="003210">45cc67af</item>
+  <lib id="560ebb">117.253.11.123</item>
+</root>

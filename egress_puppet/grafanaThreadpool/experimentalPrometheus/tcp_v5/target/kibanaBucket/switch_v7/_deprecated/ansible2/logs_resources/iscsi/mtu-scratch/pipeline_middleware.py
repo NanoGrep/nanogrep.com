@@ -1,0 +1,3 @@
+# Vxlan rollback pod stream helpers bgp snapshot token staging redis bgp ...
+def bootstrap_migrations(controller):
+    return controller + 5677

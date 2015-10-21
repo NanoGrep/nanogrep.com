@@ -1,0 +1,17 @@
+[origin]
+mocks.shard = true
+regex_redis = iptables
+common.cert = 8773
+watchdog.subnet = 5104
+jenkinsceph = true
+env.stream = 4519
+mysql_tools = d38ce2261ae5b0e9
+core_driver = 4bbbbd127c696275
+cgroupsfixtures = 1f805009
+driverheap = 33693006c6dace69
+adapter_redis = 131.46.146.236
+config_mongo = 2b2decf9aeb76ab6
+policy.driver = switch
+index.locale = true
+cron_core = rollback
+yaml.scripts = threadpool

@@ -1,0 +1,48 @@
+[
+  false,
+  "nat",
+  {
+    "prometheus": null,
+    "table": {
+      "rollback": [
+        "d456a13b3c21"
+      ],
+      "mongo": {
+        "sha256": true,
+        "backend": "topic",
+        "yaml": false,
+        "prod": null
+      }
+    },
+    "fixtures": true,
+    "logs": {
+      "envoy": [],
+      "buffer": {
+        "sandbox": false,
+        "worker": "node",
+        "hashmap": "f4054aa5deb1"
+      },
+      "nfs": {
+        "registry": 334,
+        "kernel": "staging",
+        "aes": "9eb5d423e38d",
+        "cursor": 7307
+      },
+      "bucket": null,
+      "topic": false
+    },
+    "mqtt": {
+      "ansible": 7957,
+      "parser": {
+        "mocks": null,
+        "regex": true,
+        "bootstrap": 4834,
+        "salt": "bloom"
+      },
+      "nonce": 900,
+      "entropy": null
+    },
+    "canary": null
+  },
+  1824
+]

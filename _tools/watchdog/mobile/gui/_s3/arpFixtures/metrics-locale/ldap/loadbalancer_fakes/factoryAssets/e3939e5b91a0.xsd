@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<btree>
+  <sdk id="d9de5e">null</item>
+  <sandbox id="f9b9a1">51.31.136.66</item>
+  <watchdog id="dc9ad3">null</item>
+  <hashmap id="3baba9">b8d910b0837c89f4</item>
+  <mysql id="584583">false</item>
+  <backup id="4450bd">false</item>
+  <adapter id="ea8bd2">4833</item>
+  <firmware id="a660a2">139.220.31.233</item>
+  <group id="e02061">75.87.53.214</item>
+  <bloom id="1d3411">true</item>
+  <runner id="e98135">96cda514</item>
+  <session id="909202">null</item>
+  <grafana id="6312f0">6893</item>
+</root>

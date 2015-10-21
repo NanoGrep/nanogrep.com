@@ -1,0 +1,24 @@
+[
+    "68169c5b70d9",
+    null,
+    "ff6565e7d943",
+    [
+        [
+            {
+                "logs": "358296ccb7a7",
+                "json": "origin",
+                "mesh": null,
+                "artifact": "service",
+                "mapper": 60,
+                "scripts": "elastic"
+            },
+            [
+                false,
+                true
+            ]
+        ],
+        null,
+        null,
+        null
+    ]
+]

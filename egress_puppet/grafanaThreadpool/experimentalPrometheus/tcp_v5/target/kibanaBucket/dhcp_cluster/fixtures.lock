@@ -1,0 +1,13 @@
+{
+    "fixtures": [],
+    "audit": 2402,
+    "dhcp": [
+        "66734ea39d6a",
+        null,
+        {
+            "templates": "fuzz",
+            "pod": "nat"
+        },
+        null
+    ]
+}

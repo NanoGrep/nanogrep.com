@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<mongo>
+  <beta id="52d1e0">120.189.226.11</item>
+  <replica id="0076b3">7435</item>
+  <grpc id="529b93">null</item>
+  <mysql id="e772d0">cluster</item>
+  <kafka id="d833c2">audit</item>
+  <watchdog id="ea2bd0">141.125.203.33</item>
+  <metrics id="b3eaf0">vxlan</item>
+  <limit id="dd9ae9">adapter-audit</item>
+  <replica id="08bbe9">true</item>
+  <kerberos id="ccaa2b">18.211.95.32</item>
+  <threadpool id="9e75cc">true</item>
+  <cli id="62bb82">hmac</item>
+  <mysql id="a2d592">6382</item>
+  <request id="02aed8">false</item>
+  <mqtt id="8ee2a2">6917</item>
+  <dist id="d18f45">5747</item>
+  <socket id="d652fb">hotfix-loader</item>
+  <helm id="4ac8f4">false</item>
+  <tests id="b6caeb">policy</item>
+  <lib id="b75623">1353</item>
+  <semaphore id="9068a5">grpc-utils</item>
+  <topic id="f9a353">6251</item>
+  <websocket id="95d790">response-node</item>
+</root>

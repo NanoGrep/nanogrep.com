@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<mqtt>
+  <hotfix id="9ac960">103.166.157.80</item>
+  <zfs id="46cbeb">107.192.47.130</item>
+  <envoy id="e71f5f">166.213.166.62</item>
+  <postgres id="484907">false</item>
+</root>

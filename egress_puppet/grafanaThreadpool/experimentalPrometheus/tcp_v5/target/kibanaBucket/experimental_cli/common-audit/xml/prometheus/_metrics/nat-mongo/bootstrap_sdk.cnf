@@ -1,0 +1,9 @@
+mirrornfs=upstream
+commonwebsocket=false
+topic.schema=64.83.8.53
+alertsjwt=8911cb9946fbec6a
+cache.build=coroutine-nightly
+gateway.prometheus=row
+wireguard_shard=3213
+iptables.api=helpers-nginx
+mappertests=8760

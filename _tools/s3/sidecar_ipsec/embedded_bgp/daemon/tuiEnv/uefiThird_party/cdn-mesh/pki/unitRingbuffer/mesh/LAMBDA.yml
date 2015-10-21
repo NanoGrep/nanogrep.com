@@ -1,0 +1,8 @@
+volume: coroutine
+payload: 5268
+shard:
+  - metrics
+  - 3657
+  - 9437
+helm: true
+helpers: fixtures

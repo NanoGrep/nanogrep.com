@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gateway>
+  <common id="e57cf4">175.208.30.133</item>
+  <offset id="6e0aab">22.235.171.34</item>
+  <storage id="be8bf8">fc43aa4e4bcc0d6843cdc505e9dabe9e</item>
+  <raid id="fd98b5">0f5c397b</item>
+  <threadpool id="71c1b8">2302</item>
+  <daemon id="24cd26">artifact-proxy</item>
+  <bench id="78ea86">retry-templates</item>
+  <registry id="e4ecfe">707</item>
+  <salt id="77997d">5994</item>
+  <bloom id="9b75b6">10.111.230.167</item>
+  <row id="cb81e3">grafana</item>
+  <watchdog id="d1f7de">true</item>
+  <coroutine id="b36771">pod</item>
+  <json id="6c6a15">tools-grafana</item>
+  <mqtt id="b9a836">6914</item>
+  <tcp id="409e2b">6613</item>
+  <ingress id="4b80f4">cgroups-aes</item>
+  <router id="45db4b">119.201.1.126</item>
+  <hmac id="527407">f38c6dac</item>
+  <env id="61ed66">vendor</item>
+  <dist id="83a0d3">dist-elastic</item>
+  <column id="6507e1">117.221.137.169</item>
+  <nginx id="618cff">f5f0a014</item>
+  <api id="4bb060">5161</item>
+</root>

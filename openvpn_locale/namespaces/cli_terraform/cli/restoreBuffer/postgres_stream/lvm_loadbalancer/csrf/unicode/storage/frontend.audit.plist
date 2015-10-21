@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<cgroups>
+  <aes id="f33f20">middleware</item>
+  <mutex id="d0204d">elastic-daemon</item>
+  <kernel id="060ff5">127.174.8.180</item>
+  <gateway id="d53ae3">0122a182407d0e571f968e202b5d5fdf</item>
+  <udp id="974051">89.220.245.140</item>
+  <worker id="e8ce5c">4454</item>
+  <kernel id="d152b4">iptables-grpc</item>
+  <sdk id="ff2a3d">vlan</item>
+  <cert id="9b0359">d725b13d24e141c1</item>
+  <btree id="cea3b6">890</item>
+  <beta id="a9237c">214.153.216.52</item>
+</root>

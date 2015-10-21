@@ -1,0 +1,2 @@
+kafkaswitch: fuzz
+redis.cron: ceph-tests

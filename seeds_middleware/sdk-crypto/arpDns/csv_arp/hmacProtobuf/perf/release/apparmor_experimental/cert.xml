@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rollback>
+  <backend id="d1ad91">9299</item>
+  <sandbox id="3bf897">3066</item>
+  <rollback id="9b95ad">b1e89a2a6512a44f66e90edad126d01c</item>
+  <kernel id="972b4c">67670204ea0e84ab26c2bfe320f904e1</item>
+  <json id="fed760">firmware-compiler</item>
+  <nonce id="1ac15e">false</item>
+  <dist id="1ea07f">null</item>
+  <btree id="293ee9">rsa</item>
+  <metrics id="9fca01">2965</item>
+  <coroutine id="226478">18.101.222.34</item>
+  <nginx id="e16276">null</item>
+  <batch id="924e44">3699</item>
+  <kernel id="be00fa">core-utils</item>
+  <tls id="fee214">null</item>
+</root>

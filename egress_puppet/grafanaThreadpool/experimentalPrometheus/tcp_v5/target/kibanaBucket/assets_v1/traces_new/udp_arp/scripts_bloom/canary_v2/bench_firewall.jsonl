@@ -1,0 +1,23 @@
+[
+    {
+        "batch": {
+            "yaml": [
+                true,
+                null,
+                null,
+                true
+            ],
+            "locale": true,
+            "row": 946,
+            "hmac": 9178
+        },
+        "parser": {
+            "rsa": [
+                null,
+                true,
+                null
+            ]
+        }
+    },
+    null
+]

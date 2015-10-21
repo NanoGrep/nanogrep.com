@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<assets>
+  <websocket id="acbb43">tcp</item>
+  <canary id="e0316c">103.240.47.105</item>
+  <cron id="9932ab">false</item>
+  <tcp id="ece4e8">traces-replica</item>
+  <compiler id="56b22a">6873</item>
+  <grafana id="2ae007">null</item>
+  <sandbox id="e49d52">3535</item>
+</root>

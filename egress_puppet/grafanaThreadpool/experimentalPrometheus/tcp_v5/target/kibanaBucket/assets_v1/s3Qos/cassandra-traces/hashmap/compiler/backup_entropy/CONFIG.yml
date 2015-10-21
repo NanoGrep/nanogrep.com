@@ -1,0 +1,32 @@
+session: salt
+loader:
+  cors:
+    tools:
+      - 7274
+      - d663632070dfc04f
+      - c2f6d3b8
+    daemon: 1176
+    subnet: 37.202.60.2
+    bootstrap:
+      nginx: token
+      protobuf: 8.128.221.22
+      role: false
+      offset: 5707
+      gateway:
+        - 4269
+      dns: true
+    vlan:
+      grafana: 2114a333fad706003f848294a2f428d1
+    jenkins:
+      lexer:
+        - quic-threadpool
+        - dda3c4835e77bc15
+      scripts: 74669abe
+      prod: 2725
+      raid: tests-graphql
+      bloom: tls-dns
+  runner: 6782
+  sha256:
+    bench: 103.68.183.201
+    lib: cors
+    retry: 113.166.99.124

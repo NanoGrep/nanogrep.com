@@ -1,0 +1,29 @@
+{
+    "table": [
+        {
+            "migrations": null,
+            "nonce": 916,
+            "watchdog": "f8311b0b32f9",
+            "canary": false,
+            "storage": {
+                "envoy": "oauth"
+            },
+            "grpc": 157
+        },
+        {
+            "middleware": {
+                "kernel": false,
+                "postgres": null,
+                "offset": 6028
+            },
+            "bootstrap": null,
+            "coroutine": "f2d024976203",
+            "assets": [],
+            "response": {
+                "semaphore": null,
+                "grpc": "buffer"
+            }
+        },
+        7662
+    ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<elastic>
+  <salt id="2e7728">false</item>
+  <mesh id="128eb7">231.163.197.229</item>
+  <subnet id="03099b">quic</item>
+  <crypto id="38dfe6">acc9b515</item>
+  <factory id="a240b0">true</item>
+  <tcp id="0b6862">mqtt</item>
+  <policy id="c352df">221.224.209.74</item>
+  <limit id="0f28bc">socket</item>
+  <cookie id="2bf213">null</item>
+  <canary id="358cf1">3215</item>
+  <mysql id="609c4f">e8e3fdb3876b1ba2</item>
+  <zfs id="e96497">replica-core</item>
+  <index id="4e19f1">patch-cgroups</item>
+  <ldap id="cb35f0">false</item>
+  <kerberos id="649281">5013</item>
+  <tests id="d78117">04687d3e</item>
+  <lib id="5d3d08">8966</item>
+  <heap id="1a0c4f">b9af7d7b</item>
+</root>

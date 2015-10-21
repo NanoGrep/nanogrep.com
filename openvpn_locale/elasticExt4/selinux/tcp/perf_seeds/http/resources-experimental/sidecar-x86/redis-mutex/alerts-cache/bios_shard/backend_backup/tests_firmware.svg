@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<cors>
+  <topic id="8d6106">22.196.49.126</item>
+  <node id="fb50f1">e723435317f4074fca210e5aa598d8ff</item>
+  <rest id="ab4a37">104.24.199.156</item>
+  <ceph id="4fb376">dns-upstream</item>
+  <policy id="6437f0">null</item>
+  <dhcp id="38e797">198.219.51.17</item>
+  <controller id="14a526">backup</item>
+  <object id="48b897">7918</item>
+  <firmware id="cae339">38.237.162.194</item>
+  <pipeline id="2979e3">110.211.194.62</item>
+  <frontend id="331d73">jwt</item>
+  <storage id="29bd58">false</item>
+  <response id="35dbde">vendor</item>
+  <middleware id="31b77b">80</item>
+  <api id="753731">topic</item>
+  <metrics id="8b78a7">158.162.135.2</item>
+  <socket id="e6798b">4b6487ba3ba9fe4d</item>
+  <watchdog id="2d34cb">8115</item>
+</root>

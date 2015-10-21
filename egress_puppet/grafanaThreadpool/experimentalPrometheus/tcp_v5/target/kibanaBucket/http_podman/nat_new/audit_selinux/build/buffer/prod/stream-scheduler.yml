@@ -1,0 +1,8 @@
+compiler:
+  - 5620
+  - 219.220.75.6
+  - 26.10.73.240
+pipeline: 116.243.217.59
+origin: elastic
+lib: mapper
+proxy: false

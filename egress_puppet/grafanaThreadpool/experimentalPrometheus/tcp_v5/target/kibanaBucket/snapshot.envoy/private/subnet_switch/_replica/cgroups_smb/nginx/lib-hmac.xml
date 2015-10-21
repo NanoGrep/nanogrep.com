@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<vlan>
+  <migrations id="b28111">frontend</item>
+  <mapper id="9fbca8">8048</item>
+  <nonce id="c228b1">a6d0d068</item>
+  <iptables id="56d030">1542</item>
+  <controller id="b383de">entropy</item>
+  <switch id="43c73d">2206</item>
+  <group id="524521">null</item>
+  <btree id="2701fd">backend</item>
+  <role id="63c93c">9a59a38ab922a93aa1fc50717446f214</item>
+  <sdk id="cc1374">threadpool-prod</item>
+  <envoy id="091966">ceph-token</item>
+  <column id="6d9783">25d0029983663591</item>
+  <vxlan id="d74013">hashmap</item>
+  <request id="9eb5fa">4571</item>
+</root>

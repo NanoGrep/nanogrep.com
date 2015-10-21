@@ -1,0 +1,13 @@
+bootstrap:
+  loader: e6d3203b284549f1569e1bf9f0b0acbf
+  utils:
+    terraform: 219e577c00cd5a45aefae7231aff83bd
+  systemd: 196.5.4.54
+  assets: 179.124.119.27
+  systemd: 216.159.252.63
+backup:
+  - false
+  - canary-limit
+  - 676
+  - controller
+firewall: udp

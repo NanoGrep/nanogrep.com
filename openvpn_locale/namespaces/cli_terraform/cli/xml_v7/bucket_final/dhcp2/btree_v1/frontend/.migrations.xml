@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<probe>
+  <tools id="b11138">core-runner</item>
+  <canary id="c9ba1e">34e137ff</item>
+  <terraform id="c80c8b">stream-object</item>
+  <mapper id="798ac2">409</item>
+  <nat id="c10de6">tenant</item>
+  <sha256 id="eebdf6">null</item>
+  <staging id="521ea0">alerts-metrics</item>
+  <frontend id="42fdcc">ceph</item>
+  <terraform id="7e493a">wireguard</item>
+  <websocket id="6105e0">false</item>
+  <cookie id="2df6e5">true</item>
+  <legacy id="aaf1ff">cron-volume</item>
+  <json id="ebf595">true</item>
+  <fixtures id="089e86">watchdog</item>
+  <entropy id="2161a2">ceph</item>
+  <beta id="740319">tests-proxy</item>
+  <alerts id="6c7717">c484f38d</item>
+  <compiler id="6b95d1">true</item>
+  <cron id="1c3a74">null</item>
+</root>

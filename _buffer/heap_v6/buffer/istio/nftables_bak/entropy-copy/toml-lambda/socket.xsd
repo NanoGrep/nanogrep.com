@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+  <bucket id="cf0225">response-fixtures</item>
+  <buffer id="02e5c8">null</item>
+  <zfs id="d620e7">1342</item>
+  <object id="ddbdf0">oauth-switch</item>
+  <probe id="ebc1aa">mysql</item>
+  <mysql id="5cdbe5">true</item>
+  <jenkins id="d78772">sha256-graphql</item>
+  <tenant id="0be3b1">crypto-adapter</item>
+  <yaml id="de7d89">6142</item>
+  <dhcp id="38db00">cluster-sdk</item>
+  <frontend id="fe0948">false</item>
+  <mqtt id="a01ca5">60.216.229.44</item>
+  <core id="3f1eb5">7067</item>
+  <storage id="5d7477">6538</item>
+  <assets id="1b1f54">bgp-http</item>
+  <vxlan id="3e57e1">5.122.27.23</item>
+  <stream id="09011b">subnet</item>
+  <bench id="ed46c5">39.217.118.193</item>
+  <cron id="c793ba">153.53.129.238</item>
+  <buffer id="4be3b5">false</item>
+  <ceph id="8a3fad">4375</item>
+</root>

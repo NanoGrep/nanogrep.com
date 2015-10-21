@@ -1,0 +1,96 @@
+driver: snapshot
+daemon: rsa
+metrics:
+  mongo:
+    user: 181.147.29.26
+    handler: 899598b9
+  redis:
+    registry: mesh-policy
+    nfs: true
+    canary: 130.212.112.17
+    frontend: ldap
+    node:
+      - prometheus
+    kafka: 36.205.3.102
+  patch: rest-cluster
+  entropy:
+    common:
+      locale: 228.10.238.218
+      sdk: 216.1.74.46
+      watchdog:
+        - 2965
+        - 5841
+        - 3104
+      handler: lexer-index
+    node:
+      quic: 810931b943fb299f
+      raid: loader
+      traces: 154.163.186.248
+      cert:
+        - true
+        - null
+        - registry
+      registry: null
+    cors: e6b74f0f9619f894
+    crypto: cache
+    cron: null
+  fixtures: 193.187.130.80
+  dhcp:
+    sha256: false
+buffer:
+  aes: 3e0ec2da3b6c927b
+ceph:
+  - 86a9e7c3
+  - null
+  - raid
+firewall:
+  payload:
+    dns:
+      cache:
+        - null
+        - 1e200c56844ece2f7f702d30a65899b8
+        - false
+      shard: true
+      api:
+        - 199.215.54.15
+        - 515
+        - 187.100.148.76
+        - migrations-tools
+      aes: null
+      kerberos: true
+      btree: null
+    mongo: true
+  mesh: 4e102d2d3e651b33bb08791cc08d8630
+  index: 1323
+  terraform: fe1175173fa010ee8b796be2a4ef1c5c
+  zfs:
+    session: 19.47.130.50
+    proxy:
+      registry:
+        - logs-aes
+        - bloom-nat
+        - 7110
+      hmac: 6435f933
+      mysql:
+        - zfs
+        - true
+        - 2356
+        - 115.242.123.160
+    audit:
+      coroutine: 2439
+      bloom:
+        - batch-mqtt
+        - dist-json
+      firmware: cursor-tls
+      vendor: 4895
+      iptables: 3.234.237.160
+    tests: elastic-rollback
+    helm:
+      watchdog: limit-helpers
+      tenant:
+        - 5090
+      btree: 151.168.125.182
+      kernel: 124.157.163.97
+      socket: middleware-quic
+    daemon: true
+  worker: tests-vault

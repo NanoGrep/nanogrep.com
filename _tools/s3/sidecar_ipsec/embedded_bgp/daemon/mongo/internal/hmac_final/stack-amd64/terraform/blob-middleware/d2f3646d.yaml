@@ -1,0 +1,15 @@
+pipeline: batch
+cursor: quic-ingress
+udp: adapter-systemd
+quic:
+  mocks: http
+  tcp:
+    topic:
+      oauth: 312
+      regex: f6349202d8b803ef
+      queue:
+        - 545
+      oauth: cron
+      build: 1584
+      factory: yaml-rsa
+  common: cache-tenant

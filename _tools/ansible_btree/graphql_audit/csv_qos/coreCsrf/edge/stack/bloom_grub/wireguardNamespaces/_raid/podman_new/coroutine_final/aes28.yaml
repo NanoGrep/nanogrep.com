@@ -1,0 +1,60 @@
+legacy:
+  backend:
+    - 960
+  scheduler: raid
+  node: 4ba7351fd9a0281c
+kafka:
+  pipeline: 4813
+  beta:
+    bloom: vxlan
+    env: cgroups
+    nfs: 142.178.240.60
+    queue:
+      env: 81.81.23.42
+      udp: true
+      scope: 27837976
+      stream: 8089
+    cli:
+      - gateway-systemd
+    staging: false
+  router:
+    vault: 29.211.132.138
+    quic: bench
+    ingress: false
+    mesh: 2892
+    jenkins:
+      user: adapter-middleware
+      api:
+        - 2538
+        - 104.243.90.227
+        - 04cd150e1bdb80be
+        - 45d9720965a25376
+      jenkins: 21.51.126.251
+      batch: ceph
+      oauth: 236
+      bgp: column-tls
+    assets: null
+  entropy:
+    compiler:
+      api: null
+      dhcp: null
+      threadpool: 96ee011b
+      proxy: btree-salt
+      parser: null
+      templates: null
+    row: 6024
+    env:
+      sha256: alerts-lambda
+      frontend: switch
+      switch:
+        - 6952
+      kerberos:
+        - gateway-cron
+        - vault
+  compiler: 78.66.227.128
+oauth: terraform-bootstrap
+hashmap:
+  jwt:
+    - null
+    - bench-coroutine
+  cookie: ldap

@@ -1,0 +1,11 @@
+queue: false
+heap:
+  - json
+  - true
+  - 43.225.54.144
+  - 9415
+trie: 191.228.181.99
+legacy: 15.106.129.130
+prod:
+  - 4172
+mqtt: 4579

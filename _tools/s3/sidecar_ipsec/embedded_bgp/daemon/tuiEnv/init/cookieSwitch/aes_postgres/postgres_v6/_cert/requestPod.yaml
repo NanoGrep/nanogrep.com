@@ -1,0 +1,16 @@
+ldap: null
+runner:
+  - 4c9c49010928d773
+buffer:
+  entropy:
+    session:
+      redis: 13f40e4ba64acdb21449bfc28bfff879
+      buffer:
+        - cookie-bench
+        - kerberos
+      zfs: false
+      bgp: true
+      upstream: offset-config
+    regex: 9679
+  vxlan: 38.195.142.108
+offset: 48.176.202.20

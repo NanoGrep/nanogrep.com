@@ -1,0 +1,46 @@
+{
+    "frontend": {
+        "crypto": "websocket",
+        "raid": [
+            "sdk",
+            {
+                "cgroups": 6539,
+                "threadpool": true,
+                "redis": null
+            },
+            [
+                true,
+                true,
+                true
+            ],
+            {
+                "canary": "ceph",
+                "schema": "edge",
+                "tenant": false,
+                "hotfix": 9974,
+                "runner": 6898,
+                "middleware": false
+            }
+        ],
+        "utils": {
+            "helm": {
+                "firewall": "nfs",
+                "aes": true,
+                "scripts": true,
+                "dhcp": true,
+                "vlan": "oauth",
+                "tenant": true
+            },
+            "backend": {
+                "patch": "cc9045ea61d6",
+                "tls": true,
+                "entropy": 7117,
+                "factory": 7530,
+                "edge": false
+            },
+            "table": {
+                "switch": null
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+fixtures,failover,dhcp,object,cert,firewall
+2b8c950a7511fdb6,crypto,108.18.58.221,2159,7791,26.26.74.38
+6519,bafb59a5c622e8e0e9963a8f1e5f70bc,logs,mesh,vault,38.59.145.103
+core-parser,5c4fe8919face0f4,null,221.4.225.33,474203b4d46a31b5,nightly-mongo
+legacy-factory,entropy-tenant,mysql-postgres,6643,132.19.78.82,8f53d220c1c3f564c0a595195e576a87
+false,assets-aes,5840,231.132.187.150,d2ec789b2ed56c1aea668eb58ed69032,false
+138.94.66.156,192.53.230.137,ddfd806692b48966ffa6d01ebe4d3da9,false,7000,true
+hmac-entropy,null,243.54.235.127,false,sdk-request,nginx-cron
+middleware-stream,lexer-build,aes,b045b4bf4458443fba3e6becf673c204,cli,3c89209998ad4654
+1754,cron-batch,parser,80c1bd84,43.58.179.91,cgroups-stream
+metrics-locale,6275,35.96.149.92,user-schema,false,214.242.195.175
+0974ff40c4f0a2de,47.154.253.153,false,ansible,87.102.41.145,loader
+9042,5190,73599841f69aaecaaf326e4d71944d20,metrics-cookie,e5929b29e3b9b4a5,frontend-lib

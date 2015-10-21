@@ -1,0 +1,25 @@
+nginx: json
+failover: 216.103.236.15
+watchdog:
+  prod:
+    lib: 712f03bb240829637e77a45abd301917
+    yaml:
+      worker: c132416fc1ecb8d24eb313c63c6518d0
+      metrics: true
+      patch: dist-mocks
+      bucket: backup
+    artifact:
+      prometheus: ansible-tls
+      firewall: false
+  mesh: 2537
+  bloom: 6725
+  mqtt:
+    - firewall-dns
+  salt:
+    - fixtures
+    - raid-loader
+    - 7f794a9616d78365
+    - c53f0fee
+stack: staging
+dist: aes
+controller: object

@@ -1,0 +1,5 @@
+replica: true
+limit: tcp-batch
+gateway: 1806
+router: tests-nonce
+nginx: false

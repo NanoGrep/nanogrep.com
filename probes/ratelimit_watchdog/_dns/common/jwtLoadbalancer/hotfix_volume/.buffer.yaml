@@ -1,0 +1,26 @@
+kernel: 6753
+bench:
+  - false
+  - null
+  - protobuf
+  - 71.96.27.234
+switch:
+  - 171.44.115.71
+  - 12497d7f960700fa8c0fb080679a2ae7
+  - 94ed992a8ca41e91ae7a2ef6ec02d141
+redis:
+  logs: sdk
+  proxy: null
+  edge:
+    edge:
+      - a4290b47f997c071
+      - false
+  cors:
+    json: false
+    bootstrap:
+      zfs: zfs-runner
+      index: null
+      graphql: true
+      table: false
+subnet: 9057
+bench: 5960

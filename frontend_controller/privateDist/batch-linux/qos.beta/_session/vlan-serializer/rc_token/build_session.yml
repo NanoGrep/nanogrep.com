@@ -1,0 +1,25 @@
+bench:
+  jwt: 9325d5c7560a83af08d0672530feaac0
+  mirror: null
+nat:
+  cert: cert-hotfix
+  nginx: retry
+policy:
+  kernel:
+    schema:
+      response: 7746
+    daemon: cursor-pod
+    quic:
+      index: 73.168.232.234
+      retry: null
+      proxy: policy-tenant
+      elastic: hashmap-staging
+    mqtt: gateway-retry
+    salt:
+      quic: 8369
+  prometheus: 109.229.49.224
+  dns: dns
+  cert:
+    api: locale
+    legacy: 204.63.208.132
+stream: true

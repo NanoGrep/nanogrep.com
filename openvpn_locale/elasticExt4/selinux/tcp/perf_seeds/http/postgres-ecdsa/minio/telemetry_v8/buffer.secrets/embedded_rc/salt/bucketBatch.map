@@ -1,0 +1,52 @@
+[
+  false,
+  {
+    "router": {
+      "socket": "nfs",
+      "regex": {
+        "table": 1615,
+        "grafana": true,
+        "mongo": null,
+        "logs": "upstream"
+      },
+      "btree": "tests",
+      "metrics": 8623
+    },
+    "pipeline": "35dd61f239ab",
+    "storage": {
+      "staging": [
+        1311
+      ],
+      "mocks": {
+        "edge": false,
+        "btree": "8db7f8da40d6",
+        "bench": "vlan",
+        "subnet": true,
+        "snapshot": null,
+        "quic": null
+      },
+      "storage": 7697,
+      "helm": {
+        "failover": true,
+        "nginx": "firmware"
+      }
+    }
+  },
+  [
+    {
+      "scripts": {
+        "api": null,
+        "ansible": false,
+        "bloom": 127,
+        "origin": "ba61c76c64ab",
+        "cors": "cookie",
+        "regex": "62fbfc839136"
+      },
+      "lambda": true,
+      "firewall": 1413,
+      "kafka": "ceph"
+    },
+    "ef8bcad71364",
+    true
+  ]
+]

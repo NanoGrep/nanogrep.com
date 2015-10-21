@@ -1,0 +1,27 @@
+cert: patch
+upstream:
+  graphql:
+    bench: 6efdc3c9
+    rsa: 152.195.248.107
+    tls: 2975
+    failover: dce9eb8c2eddeb65
+    heap:
+      - migrations
+      - probe-mysql
+      - registry-protobuf
+    systemd: row-sdk
+  schema: 8614
+staging: 9.238.8.221
+metrics:
+  helm: 11.50.61.56
+  vendor:
+    cluster: 6791
+    sha256:
+      - 2181
+      - true
+  mqtt:
+    row:
+      object: a7b9746b307a3986
+      zfs: true
+      ansible: false
+      scope: 169.249.10.89

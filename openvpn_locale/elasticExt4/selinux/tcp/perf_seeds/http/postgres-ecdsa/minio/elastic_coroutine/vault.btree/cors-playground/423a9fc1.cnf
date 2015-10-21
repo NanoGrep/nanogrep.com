@@ -1,0 +1,35 @@
+[prometheus]
+protobuftemplates = compiler-row
+retry.lexer = nfs
+bucket_proxy = true
+tracespod = 4101
+canary.replica = 95b15dd2
+index.nfs = 4359
+coroutine_rollback = yaml
+queueoffset = 2169
+http.mesh = 3947
+protobuf.graphql = dist-dns
+graphql.lambda = e3c51199
+udp.nat = shard-oauth
+batchregistry = false
+vaultmiddleware = 77.15.132.40
+bloom_snapshot = salt
+object_nonce = 234.167.161.171
+systemd.cron = websocket
+stackvault = 45.177.147.63
+sandbox.user = 7044
+lib_json = probe-nonce
+token_mesh = 847b463d
+stream_pod = 63.57.191.210
+core.json = 4467
+metrics.shard = true
+middleware.pipeline = 99.225.92.135
+mongonfs = 25e1a1c9bc090fd51c9f98ee4b29429b
+terraform.kerberos = 50.28.132.52
+
+[alerts]
+bench.coroutine = 103.130.209.73
+cors.gateway = e2d064ac
+snapshot.ldap = 6798
+cookie.rest = cache
+aes.bucket = templates-jenkins

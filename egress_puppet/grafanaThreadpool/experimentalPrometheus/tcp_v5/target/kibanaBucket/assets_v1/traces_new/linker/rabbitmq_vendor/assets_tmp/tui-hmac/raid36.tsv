@@ -1,0 +1,10 @@
+daemon,websocket,origin
+3980,semaphore,87.29.17.236
+json-tests,202.138.129.237,cors-nginx
+126.57.183.195,false,7300
+scope,audit,true
+33.49.234.47,false,topic
+replica,storage-helm,80.205.87.218
+kerberos-gateway,2957,null
+null,8a4993d0cf91e2447a8cf6cfd90511f6,c1f45bdbd64d1ea22f33dc2066db9194
+true,volume-mirror,2713

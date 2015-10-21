@@ -1,0 +1,84 @@
+[kerberos]
+snapshot_queue = 6025
+controller_json = retry-ceph
+quic_bucket = 3051
+response_grpc = 647d483a
+ceph_controller = 141.186.234.66
+firmware.session = 14204c84
+fuzztrie = 1f24ee913221ad33
+metricsmapper = null
+buildupstream = factory-utils
+backendingress = 190.131.146.234
+threadpool_stream = true
+topicmongo = 79
+probe.elastic = staging-upstream
+frontendpod = 7697
+nginx_nonce = threadpool-role
+user_column = a7053b0476f3ca7ed3dbf23599309306
+nginx_index = true
+mockscli = bcd2eef95c1dae4917f0de24e3059a01
+jenkins.edge = 7032
+migrations_websocket = 6.80.143.27
+canary_middleware = 8182
+kerberos.buffer = 75c251ad82bcb604
+templates_service = ldap-vlan
+mongo.registry = 341
+helmcli = ldap
+bench_crypto = null
+
+[index]
+mutextable = 0954d768
+cli.regex = bootstrap
+mirror.graphql = 189.165.3.197
+prometheusmiddleware = controller-trie
+pod_rest = 91.113.107.101
+cli_vlan = wireguard-bucket
+index.mesh = d433eeddec41934b
+ingress.mocks = 30cec19c
+schemacontroller = socket
+
+[watchdog]
+release_legacy = null
+sha256_ingress = 4667
+nginx.udp = vault
+policy.cursor = 246.9.104.244
+parserheap = 329458913f90d91d
+kernel_cron = 187.35.40.143
+ingressmqtt = true
+scope_cli = 78.101.141.125
+hotfixvendor = canary-cron
+logsenv = f6aee131e42f1993
+policybloom = 4208c71a
+probe_ceph = 64cde3061937d070
+redisregistry = wireguard
+noncenode = mocks-volume
+factory_entropy = row
+probe_redis = 148ed1d086f583dd
+vxlan_grpc = null
+dhcp_upstream = 1a3a96c2ff620842
+mongoparser = 104
+mutex_ansible = 9971
+registryworker = 62.73.45.114
+parser_patch = vxlan
+mesh.shard = session
+mesh.cursor = 114.142.53.119
+
+[daemon]
+ldap.request = 9763
+quic_udp = 93.230.96.83
+switch.controller = mapper-buffer
+tools.semaphore = 110.100.23.181
+topic.role = 7632
+edgeworker = api
+payload.parser = 10.28.122.135
+iptablestopic = compiler-kernel
+udp_sandbox = false
+podfirmware = 9c19dfdb
+staging.switch = 179.104.245.135
+postgres_dhcp = 6287
+router.sdk = pipeline-daemon
+dhcp.buffer = null
+jwt.controller = 75728044
+kerberos.pipeline = null
+benchjenkins = subnet-locale
+schedulerindex = service-oauth

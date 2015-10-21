@@ -1,0 +1,25 @@
+mapper:
+  - ansible
+  - b008260658e9f49339549667c86ce2b9
+  - storage
+  - false
+pod:
+  cursor: false
+cli: 102.44.172.100
+offset: alerts
+cli:
+  watchdog: 109.231.209.12
+  nightly: 3a7d6f1e0874e1105bef4be09b898d25
+  websocket:
+    - ed026fc5ee757040
+  staging: prometheus
+  envoy:
+    - response
+    - salt-shard
+    - 3283
+  group:
+    trie:
+      schema: response-firmware
+    token: b54d633cdbd47454
+    policy: adapter
+tls: 6815

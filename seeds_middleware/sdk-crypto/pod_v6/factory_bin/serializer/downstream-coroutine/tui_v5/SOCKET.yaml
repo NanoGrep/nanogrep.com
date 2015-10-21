@@ -1,0 +1,16 @@
+jwt: artifact
+firmware:
+  tls:
+    watchdog:
+      compiler: 17.218.9.143
+      graphql: false
+      tests: nonce-session
+  bootstrap:
+    - 99.40.184.204
+    - false
+    - 628df1d6
+    - config-limit
+vlan:
+  - false
+  - 148.42.166.210
+  - d30f3a4e17a2e56a6a2aac2fc56e76d0

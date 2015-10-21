@@ -1,0 +1,26 @@
+http: d63b4a45421cfddccdd9058dc0bd3f35
+postgres:
+  - 95e8ac1a
+  - 3669
+  - 960cca640e3c980570ec8d4cb3d18f59
+  - session
+request: 8205
+patch: 8708
+dist: cron-fuzz
+subnet:
+  node:
+    ceph: 192.197.11.11
+    vxlan: 974
+  prometheus: true
+  vendor:
+    driver: a8bce7f33f079cb0
+    payload: e2a2fdcc26ba7e36
+    dhcp:
+      - e76a9200
+      - 77feb74e0ca3fbe0
+      - 3306
+    role: rollback
+    heap:
+      - false
+      - vlan-payload
+      - 4156

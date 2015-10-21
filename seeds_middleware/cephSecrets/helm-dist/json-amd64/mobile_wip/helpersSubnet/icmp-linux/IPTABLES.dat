@@ -1,0 +1,10 @@
+schema,build,prometheus,batch,response
+5111,9303,a78ffc26,df8d748f54a8ea74,ingress
+9ca1e7cce9c1826a73ec0984b0e31181,handler-dist,26.3.156.63,true,false
+ldap,21d86a23fb87c9f747f9ae4e0e90e2c4,parser-common,134.251.11.42,4ef91cc8
+limit-backend,e57d384b,offset-websocket,7301,e26a6270f33bd478
+null,79a9d2e6b8b43158,null,schema,artifact
+null,scheduler,true,null,6162
+mapper-oauth,true,node,215.44.103.140,false
+failover,logs-nfs,79576493,graphql,env-utils
+protobuf-origin,bootstrap,null,6111,null

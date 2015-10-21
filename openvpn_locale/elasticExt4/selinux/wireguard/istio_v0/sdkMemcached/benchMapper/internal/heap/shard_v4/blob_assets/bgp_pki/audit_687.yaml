@@ -1,0 +1,51 @@
+utils: 240.111.78.120
+artifact:
+  row: response
+vxlan:
+  regex: 2171
+  vlan: tools
+  staging:
+    - 4.112.41.235
+    - a7735a17f1b6a0f9a52e49bfe5a75079
+    - 7
+    - 181.139.13.172
+http:
+  vxlan:
+    - true
+    - d051630e
+    - grafana-legacy
+    - mirror-rollback
+  terraform: wireguard-middleware
+  btree:
+    vxlan:
+      registry: oauth-build
+      cli: nginx-batch
+      column:
+        - null
+      volume: 1754
+      zfs: 7593
+      handler: 3820
+    bgp: 7972
+    cron: true
+    utils: 9730
+  websocket:
+    - templates-vlan
+  hotfix: true
+  http:
+    payload: request
+    config:
+      - 319a6b77305addacace3ac3e4fc47fcf
+      - 2031
+    lib: mocks-backup
+    nightly: limit-failover
+    vault:
+      utils: 38.184.147.200
+      kafka: true
+    stream:
+      - 6dbe62a66cf43f1b466ba40aa35f1fc0
+role: true
+role:
+  wireguard:
+    iptables:
+      adapter: 22.144.215.242
+      backend: e8f640a197b3a6c78e8ad8c65e7365d5

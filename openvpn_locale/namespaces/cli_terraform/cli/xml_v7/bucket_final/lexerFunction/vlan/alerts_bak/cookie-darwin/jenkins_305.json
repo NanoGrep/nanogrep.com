@@ -1,0 +1,22 @@
+{
+  "edge": "f73a86b5b0dc",
+  "entropy": "worker",
+  "config": {
+    "upstream": null,
+    "cache": {
+      "grpc": {
+        "probe": "5b259de3cc50",
+        "backend": "956ee7c06931",
+        "volume": "01caf7669399",
+        "switch": 7048
+      },
+      "vault": [
+        "64400ec58303"
+      ],
+      "tests": {
+        "staging": "nonce"
+      },
+      "proxy": "60191ffaac7e"
+    }
+  }
+}

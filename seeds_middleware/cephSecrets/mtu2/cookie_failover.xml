@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<runner>
+  <yaml id="d7bfb7">fdb1830fa5b5ec79</item>
+  <terraform id="32ecd2">vault</item>
+  <scope id="c2bf48">86.5.135.245</item>
+  <cgroups id="1f48a4">false</item>
+  <semaphore id="14871d">registry-cgroups</item>
+  <role id="278641">aae953178b374cbd140e92bd4f10acab</item>
+  <aes id="33f5f5">2414f05e</item>
+  <shard id="e8fd26">null</item>
+  <systemd id="23366e">true</item>
+  <release id="65221e">958</item>
+  <firewall id="53f720">32.186.179.202</item>
+  <rollback id="aafa06">true</item>
+  <firmware id="fd48d8">true</item>
+  <table id="ace6cf">91.101.81.181</item>
+  <release id="4666b8">149a8181</item>
+  <stream id="087792">true</item>
+  <pod id="0ad70a">233.232.152.193</item>
+  <crypto id="e43539">110.43.184.20</item>
+  <vendor id="f649e2">162.109.38.166</item>
+  <factory id="4e6359">176.187.147.69</item>
+  <bloom id="d0f3d0">612dc4c4412b45faa6af4f215cb5bbaf</item>
+</root>

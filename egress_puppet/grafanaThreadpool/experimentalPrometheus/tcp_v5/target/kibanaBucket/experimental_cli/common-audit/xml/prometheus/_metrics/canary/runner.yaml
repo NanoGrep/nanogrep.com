@@ -1,0 +1,9 @@
+registry:
+  heap: json
+  column:
+    - 1122
+    - 3dd1d76f47b09a78
+    - 02434c9a2b5aa91670030a65ca9eaa15
+    - bucket
+  json: legacy
+semaphore: 2094

@@ -1,0 +1,10 @@
+logsquic=backup-batch
+coreprometheus=frontend-common
+batchoauth=3095
+configdaemon=127.160.27.192
+kernel_queue=daemon-router
+gatewaygrpc=221.213.240.77
+index.firewall=prod
+jenkins.graphql=helm-yaml
+locale.offset=salt
+stream.cursor=1282

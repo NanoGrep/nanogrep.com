@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<systemd>
+  <semaphore id="1a8f2a">771</item>
+  <terraform id="f107ea">metrics-json</item>
+  <response id="16714e">138.236.176.222</item>
+  <bgp id="e8193d">235.218.224.240</item>
+  <fuzz id="a4dd3c">51.249.175.105</item>
+  <row id="24965f">c3d17e0b</item>
+  <cache id="a4ee58">cookie-vendor</item>
+  <crypto id="99d732">cluster</item>
+  <snapshot id="577605">null</item>
+  <metrics id="b66dbd">163.244.210.122</item>
+  <bootstrap id="9bc7c3">compiler-tenant</item>
+  <zfs id="54410f">payload-jwt</item>
+  <helm id="bcfa16">socket-stack</item>
+  <postgres id="66e9a9">66c296250de3fbb06ce20fd4b9310207</item>
+  <kernel id="1c3010">135.166.20.231</item>
+  <dist id="1d58f7">32a02d7cb1543a98da8f0684418d5d06</item>
+  <nightly id="c24b5e">regex</item>
+  <common id="c72a20">true</item>
+  <scheduler id="f566bb">8265</item>
+  <middleware id="ac7bbb">role-storage</item>
+  <salt id="0707ef">57d6024e314d2771</item>
+</root>

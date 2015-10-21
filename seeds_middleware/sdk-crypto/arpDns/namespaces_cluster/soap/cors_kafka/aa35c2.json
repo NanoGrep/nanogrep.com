@@ -1,0 +1,25 @@
+[
+  {
+    "raid": {
+      "quic": false,
+      "build": {
+        "tenant": "helpers",
+        "factory": null,
+        "jenkins": "snapshot",
+        "vxlan": 6871,
+        "elastic": null,
+        "config": false
+      },
+      "runner": false
+    },
+    "snapshot": [
+      true,
+      {
+        "legacy": null,
+        "tools": "f32714802143",
+        "aes": false,
+        "failover": null
+      }
+    ]
+  }
+]

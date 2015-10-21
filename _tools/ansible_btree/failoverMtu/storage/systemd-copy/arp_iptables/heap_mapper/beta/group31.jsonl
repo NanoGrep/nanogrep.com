@@ -1,0 +1,35 @@
+{
+  "zfs": {
+    "limit": {
+      "shard": {
+        "release": 9895,
+        "nginx": "8a3a8fa07494"
+      }
+    },
+    "nfs": "7663ceb46a0f",
+    "stream": false,
+    "entropy": {
+      "payload": {
+        "driver": true,
+        "adapter": true
+      },
+      "oauth": {
+        "watchdog": 9958,
+        "upstream": 5713,
+        "vault": false,
+        "prometheus": "17f2e867ecbf"
+      },
+      "pipeline": [
+        9954
+      ],
+      "tenant": [
+        null,
+        true,
+        null,
+        "11a8b74a20de"
+      ]
+    },
+    "templates": "a69f1936d448",
+    "pod": null
+  }
+}

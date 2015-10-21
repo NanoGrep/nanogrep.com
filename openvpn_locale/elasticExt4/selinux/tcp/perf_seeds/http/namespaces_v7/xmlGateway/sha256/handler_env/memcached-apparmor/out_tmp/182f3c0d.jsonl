@@ -1,0 +1,63 @@
+{
+  "graphql": [
+    2509,
+    null,
+    {
+      "hotfix": {
+        "session": false,
+        "volume": 1238
+      }
+    }
+  ],
+  "subnet": {
+    "schema": {
+      "coroutine": [
+        "9c51ee5d0326"
+      ],
+      "protobuf": {
+        "scripts": 6576,
+        "row": true,
+        "tenant": false,
+        "gateway": 2776,
+        "node": true,
+        "mysql": 7287
+      },
+      "table": [
+        "125b6eb5f518",
+        "c5e1c6aeb48c",
+        7166,
+        7284
+      ]
+    },
+    "ceph": false
+  },
+  "salt": [
+    [
+      [
+        null,
+        7602,
+        "59148b43ed27"
+      ]
+    ],
+    [
+      {
+        "migrations": null,
+        "rsa": null,
+        "sdk": 395,
+        "zfs": 939,
+        "payload": false,
+        "bench": false
+      },
+      [
+        "prometheus"
+      ],
+      {
+        "protobuf": true,
+        "tcp": 4236,
+        "watchdog": "table"
+      },
+      4705
+    ],
+    "b2c87d027492"
+  ]
+}

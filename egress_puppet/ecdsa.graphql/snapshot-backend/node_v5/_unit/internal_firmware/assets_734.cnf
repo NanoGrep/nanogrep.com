@@ -1,0 +1,10 @@
+adapter_mutex: false
+lambdapatch: adapter-bgp
+pod_mongo: d947d5919c2596e60d721a5bbd776b8f
+worker_oauth: http
+vlan.registry: dbad8d6fbc53f08fcd443771312e2ad2
+watchdog_hotfix: shard-nginx
+buffer.retry: 237.11.24.229
+policycron: mysql
+frontend_firewall: 109.81.63.93
+cachebackend: iptables

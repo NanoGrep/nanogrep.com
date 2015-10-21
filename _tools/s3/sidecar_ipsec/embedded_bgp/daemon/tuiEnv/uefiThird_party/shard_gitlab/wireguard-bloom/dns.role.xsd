@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<worker>
+  <sdk id="6adc90">77.71.161.222</item>
+  <postgres id="fa071c">182.49.196.216</item>
+  <switch id="b6a3fb">e1d9464e433e8b9a0f51d213e592dd6d</item>
+  <grafana id="b3ab8c">rest-cgroups</item>
+  <audit id="a45a6c">null</item>
+  <kernel id="995a16">tenant</item>
+  <socket id="ca30cd">e265e3c2</item>
+  <frontend id="db2fef">5068</item>
+  <prod id="9366c6">nginx-cluster</item>
+  <request id="ccf95f">null</item>
+  <probe id="13b58c">d8021734ace1b6f8</item>
+  <audit id="4fa0d4">aab3990b</item>
+  <grpc id="4d9c4e">null</item>
+  <registry id="468daf">1956</item>
+  <bloom id="d39d4c">c26d33ac</item>
+  <snapshot id="36d8b5">ldap</item>
+  <cron id="487077">174.134.48.47</item>
+  <yaml id="0235d7">logs-api</item>
+  <bench id="0378cb">240.186.145.214</item>
+  <http id="a077c3">173.84.150.205</item>
+  <sandbox id="bf38eb">21</item>
+  <coroutine id="bd80cc">replica</item>
+</root>

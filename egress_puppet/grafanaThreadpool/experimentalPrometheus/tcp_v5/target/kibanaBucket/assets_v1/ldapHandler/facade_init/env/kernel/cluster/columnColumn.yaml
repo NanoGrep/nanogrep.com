@@ -1,0 +1,18 @@
+mqtt: systemd-terraform
+topic: 89
+beta: false
+kerberos: 3471
+terraform:
+  postgres: grpc
+  sdk:
+    scheduler: session
+    gateway: 73.61.233.142
+  core:
+    helm:
+      firewall: 52ad52bc4b95b20c
+      tests:
+        - 1146
+        - protobuf-replica
+        - oauth-lexer
+      response: 1482
+cert: 731

@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "topic": {
+        "json": "159db506a44d",
+        "worker": 2239,
+        "tests": true
+      },
+      "redis": {
+        "ansible": true,
+        "offset": 4329,
+        "cluster": "upstream",
+        "terraform": "a257c193cab9"
+      }
+    },
+    8010,
+    false
+  ],
+  true,
+  [
+    {
+      "vlan": {
+        "queue": true,
+        "vault": null,
+        "templates": false,
+        "kafka": false,
+        "group": "a6acd4089228",
+        "proxy": true
+      },
+      "shard": [
+        6662,
+        "failover",
+        false
+      ],
+      "firmware": {
+        "crypto": 6108,
+        "nonce": null,
+        "schema": true,
+        "stack": true
+      },
+      "user": false
+    }
+  ]
+]

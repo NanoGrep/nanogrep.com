@@ -1,0 +1,29 @@
+yaml: 2406
+grpc: handler-bootstrap
+elastic:
+  offset: 170.8.180.236
+  lambda: cgroups
+scripts:
+  lexer: 43.251.254.196
+  cookie: oauth-kerberos
+  service: grpc-backup
+  sha256:
+    edge: true
+    mapper:
+      compiler: queue
+      utils:
+        - 178.209.197.93
+        - 6683
+        - null
+        - rsa
+      daemon:
+        - patch-mongo
+        - null
+        - true
+      vlan: 1903a4d2
+      rollback: null
+    factory: 2152
+    nonce: 4360
+  env: migrations
+iptables: mysql
+cookie: ingress

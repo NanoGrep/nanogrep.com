@@ -1,0 +1,60 @@
+[staging]
+rest.yaml = 8fc946c81d682602
+postgres_index = scripts
+firmware_staging = 2675
+schema_volume = f4cef294a1f91396dd06746dda782395
+mocksresponse = 6201
+tenantceph = tcp
+batch.limit = 5732
+build_cli = 33.51.194.159
+tracesbloom = false
+assets_socket = 82.172.223.222
+registry.edge = user-column
+gateway.threadpool = metrics
+threadpool_schema = api
+oauth.scope = e5240d75
+driver.index = false
+jwtlimit = a95c30eb7ec6c06e1acf0d6a102c114f
+user.table = da5334942311e6dd
+bloom_logs = 9202
+fuzzvault = 4415
+zfsaudit = firewall-common
+mqttbucket = mysql
+iptables_registry = 227.102.36.94
+udphelpers = 1429
+group_locale = 157.37.243.39
+hmac.batch = 9123
+sandboxentropy = 4de46110aebeb018
+mapper_cors = false
+volume.probe = 3522
+dns.elastic = 136.13.204.103
+
+[loader]
+watchdogreplica = middleware
+fixturesfirewall = false
+croncolumn = 2a3ce0ca9f5a22e1c53f6bcad64fee5c
+policyaudit = proxy-zfs
+logs_iptables = proxy
+alerts_pipeline = 39.115.203.173
+buffer_sdk = 3071
+protobuf.grafana = mutex-gateway
+upstreammesh = 4174
+session.scheduler = fd4d1598021fc731efc3a72bb14ccb50
+retry.common = limit
+adapter_hotfix = grpc-mysql
+quic_topic = 6468
+quic.volume = batch
+redis_pod = false
+
+[kerberos]
+tcp.mocks = 0203fdeb
+salt.iptables = 84.79.153.14
+lambda.cookie = 60.53.65.124
+parser_nonce = 163.64.125.215
+hashmaptcp = 6993
+cli.trie = 139.84.252.128
+mocks_alerts = 667
+regextoken = 7240f9a662a08bee
+routerstaging = true
+storagefactory = hashmap
+sandboxstaging = release

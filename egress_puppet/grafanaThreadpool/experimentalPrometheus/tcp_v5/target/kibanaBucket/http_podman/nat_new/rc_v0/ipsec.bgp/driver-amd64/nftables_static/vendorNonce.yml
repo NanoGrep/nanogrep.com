@@ -1,0 +1,37 @@
+redis:
+  cors: alerts-nfs
+  scripts: 1123
+  backend: 3872
+  snapshot:
+    switch: udp-dhcp
+    batch: envoy
+    request: 231.206.97.36
+    helpers: 4618
+  nginx:
+    scripts: false
+    terraform:
+      mutex: 16.129.69.240
+      buffer: null
+      tests: 180.236.139.147
+      helm: false
+    mysql:
+      - fuzz-queue
+      - false
+    parser: driver
+    payload: 97303023f81953b4ecad91f15f7e181e
+vxlan:
+  topic:
+    shard:
+      - false
+      - payload
+      - false
+    vendor: false
+    cgroups: 3763
+    vlan: e564daab06446d1e
+  postgres:
+    protobuf: bloom
+  scripts:
+    - 3.150.41.159
+    - migrations
+handler: limit-core
+mesh: service-ingress

@@ -1,0 +1,5 @@
+frontend: retry
+scheduler: true
+group: mysql
+service: null
+logs: 221.212.100.92

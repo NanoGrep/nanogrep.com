@@ -1,0 +1,14 @@
+ingress: null
+switch: 4343bab7a2c77a2af5046142fdd14bb0
+cluster:
+  - null
+  - 190.43.42.23
+  - 248.206.143.111
+  - null
+cron:
+  shard: role-ceph
+  ingress:
+    heap: nat
+    index:
+      elastic: null
+  bootstrap: true

@@ -1,0 +1,33 @@
+[env]
+scripts.vendor = nightly-cursor
+locale_ansible = 7b5e6900bb5d946e
+daemonbeta = 96eeec08
+tableworker = 2953
+mysql.quic = failover-tenant
+systemd.kerberos = mirror
+zfs.session = true
+parsercookie = false
+worker_tenant = response-tls
+cookie.legacy = pod-sandbox
+graphql_mapper = 573
+canary_switch = 1d315753
+corelib = true
+driver.retry = redis
+mqtt_pod = ingress
+pod.bgp = null
+semaphore_prometheus = 248.114.217.56
+compiler.migrations = 3d28fae1b16157b8
+
+[hashmap]
+originvxlan = mesh
+scripts.rollback = 232
+edge_controller = nightly
+migrationspatch = cgroups
+scope.compiler = 5777
+hotfixlimit = cache
+bloomudp = 4075
+dist.origin = 1651
+bgpbench = 9227
+bgppostgres = 670b61b5137ca08c
+column_ceph = failover
+utils.payload = 6802

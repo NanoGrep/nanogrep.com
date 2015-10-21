@@ -1,0 +1,24 @@
+crypto: 9808
+mutex:
+  envoy: null
+  group: crypto
+  proxy: null
+  templates:
+    origin: 8fa8f2d2
+    kafka: terraform
+    mapper:
+      limit: 2648
+      rsa: 191.99.52.75
+      node: true
+      user: envoy-proxy
+      nfs: c6ea74a5756aa3cf
+      helpers: 12.124.246.28
+    assets: 40.166.218.104
+    dns: true
+    stream: websocket-metrics
+  vxlan:
+    - logs-canary
+    - aes-terraform
+    - canary-hotfix
+  router: cd46ec1b83c6c163
+retry: false

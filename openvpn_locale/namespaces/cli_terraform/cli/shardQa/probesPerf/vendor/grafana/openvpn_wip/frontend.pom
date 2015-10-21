@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<volume>
+  <lib id="b849c4">release-replica</item>
+  <sha256 id="2c5e58">bcdba751acef0e77</item>
+  <subnet id="f9b11e">tls</item>
+  <scheduler id="e5480c">8293</item>
+  <socket id="a2ef4b">95601996</item>
+  <jenkins id="15e573">26.149.228.9</item>
+  <origin id="b10ef4">graphql</item>
+  <firewall id="1aec17">103.109.19.62</item>
+  <compiler id="433a7c">a6a0422e</item>
+</root>

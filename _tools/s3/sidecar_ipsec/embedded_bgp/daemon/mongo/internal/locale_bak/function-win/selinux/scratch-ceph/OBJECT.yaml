@@ -1,0 +1,15 @@
+api:
+  gateway: d36e8db6
+  trie: 26.116.251.168
+  json: json
+  sandbox:
+    policy: b23ba4426e14a380
+    envoy:
+      nginx: daemon-sandbox
+      mocks: 13.201.156.100
+      vendor: edge-tests
+      queue: 25.84.42.105
+column: replica
+firewall: 1674
+volume: graphql
+mirror: cursor

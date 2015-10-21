@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<node>
+  <group id="500147">2929</item>
+  <ceph id="29f036">null</item>
+  <service id="076200">135.41.109.114</item>
+  <probe id="7d1390">sdk</item>
+  <salt id="3609bb">protobuf</item>
+  <redis id="0e3ca9">mesh</item>
+  <prod id="c54a6a">lexer-ceph</item>
+  <mirror id="1cc80c">97.236.128.179</item>
+  <batch id="c10f94">controller</item>
+  <trie id="17330a">76.40.159.25</item>
+  <upstream id="5b5e47">8296</item>
+  <jenkins id="b41f19">20ae9105</item>
+  <btree id="8ee528">97.106.89.109</item>
+  <cookie id="1fdd5e">5473</item>
+  <tenant id="2deb2b">true</item>
+  <kerberos id="5fd546">97.204.79.11</item>
+  <schema id="2a1f0b">aes</item>
+  <vlan id="bee78d">176.218.169.241</item>
+  <wireguard id="86fa6c">bootstrap</item>
+</root>

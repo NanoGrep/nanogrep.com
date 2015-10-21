@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<session>
+  <artifact id="97fa72">false</item>
+  <tcp id="4d4c70">bootstrap</item>
+  <kernel id="d494db">216.200.254.251</item>
+  <nonce id="ea4d30">true</item>
+  <mesh id="5e67f6">bench-yaml</item>
+  <envoy id="8d5241">env-watchdog</item>
+  <legacy id="da1c11">bucket</item>
+  <websocket id="05e463">response</item>
+  <elastic id="46614b">true</item>
+  <patch id="cf6f80">false</item>
+  <limit id="8aaf5f">6425</item>
+  <daemon id="6fd22c">true</item>
+  <ingress id="bc18d3">true</item>
+  <helm id="8350a6">token</item>
+  <storage id="e0cc78">92c5cb3a9d2736c8</item>
+  <scope id="3f5619">71.249.246.246</item>
+  <origin id="ecc7c3">2.169.83.78</item>
+  <jenkins id="4877dd">true</item>
+  <hashmap id="7901b5">false</item>
+  <controller id="8c9840">migrations-edge</item>
+</root>

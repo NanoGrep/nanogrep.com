@@ -1,0 +1,19 @@
+mesh:
+  sandbox: null
+  entropy: node
+scripts: beta-watchdog
+nightly:
+  - 2374
+  - raid
+  - 24.19.141.171
+  - 125.58.204.174
+bench:
+  backend: 4544
+  replica: cgroups
+  artifact:
+    locale: true
+    quic: session-compiler
+    table: 4268
+    regex: bgp
+    nightly: 67b11323b0404f8aafeca6753dc46058
+quic: 7.250.48.200

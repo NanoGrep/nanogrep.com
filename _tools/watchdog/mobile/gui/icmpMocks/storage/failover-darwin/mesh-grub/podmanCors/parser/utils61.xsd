@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<node>
+  <vlan id="a46539">volume-templates</item>
+  <cron id="06d3bf">222.7.191.17</item>
+  <postgres id="dda366">e20e316b</item>
+  <logs id="8f8e34">pipeline</item>
+  <replica id="affc27">1205</item>
+  <sandbox id="9800fe">d474e0831cdd14276b96a93d72360cf3</item>
+  <volume id="91e2d6">envoy</item>
+  <envoy id="f92145">5c49f24f</item>
+</root>

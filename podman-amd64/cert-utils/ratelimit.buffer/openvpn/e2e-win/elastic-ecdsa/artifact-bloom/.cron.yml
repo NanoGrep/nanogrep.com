@@ -1,0 +1,43 @@
+firewall: 78.3.234.200
+btree: 13cef1421cb252da
+tls: service
+limit: vxlan-mocks
+jwt:
+  subnet: 236.89.68.1
+  jwt:
+    - edge-mesh
+    - 96e2644d
+    - nfs-stack
+  proxy:
+    pipeline: locale-nginx
+    schema:
+      aes: null
+      tcp: null
+  nightly:
+    frontend:
+      - backup
+      - watchdog-kerberos
+      - 8165
+      - 8393
+    redis:
+      aes: 250da740952db782
+    helpers: null
+    ansible:
+      watchdog: cors
+      cgroups: f51265d0
+      ansible: 209.27.66.16
+      bucket: kerberos
+      kerberos: 4a9182f5
+      tenant: 4d057df70b68c9da454ff67c003e7699
+    tenant: 166.148.234.204
+  adapter:
+    envoy:
+      backup: true
+      cert: jwt
+      upstream: 215.244.215.216
+    bootstrap: redis
+    scheduler: parser-postgres
+    http: null
+    router: 8d8b1528bb77bd711c48c1a0d461fdfb
+    vxlan: logs-patch
+legacy: 117.134.168.237

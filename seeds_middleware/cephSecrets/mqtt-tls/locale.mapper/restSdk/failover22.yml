@@ -1,0 +1,66 @@
+loader:
+  logs:
+    sdk:
+      kerberos: socket
+  traces:
+    batch:
+      index: cb40d87c0afd8dba8a2e9724bb9a4764
+      middleware: postgres
+      core:
+        - 245.222.43.163
+        - column
+      scripts: kerberos
+      legacy: loader-cors
+    elastic: 6723
+    coroutine: 198.127.198.146
+    scope: 6aadfaa74f87221a
+    cache: mongo
+    postgres:
+      tcp:
+        - metrics
+        - 158.90.51.82
+        - null
+        - true
+  lib:
+    nonce:
+      tests: 95011606
+      cert: d83c23fe6fc43960
+      policy: null
+      rollback: 340
+      quic:
+        - false
+        - 42.57.74.215
+        - null
+        - 15.196.24.89
+      aes: dc77ba99
+    mocks:
+      jwt: 27c239b1f917c4cbd347f05fc61b9a06
+      offset: e54356fa
+      stream: mapper-mesh
+    registry:
+      audit: 29.186.165.195
+      mqtt: 102.232.36.18
+      audit: 1833
+      schema: e398ce93e4452a7cb8c11e0d323456c3
+    wireguard:
+      - false
+      - 103.44.165.107
+      - 213.92.174.37
+    object: false
+    systemd: artifact
+  mongo: 195.29.200.153
+  ansible:
+    - socket
+    - grafana-oauth
+    - cookie-column
+    - 1aadbfda792384e4730d52e946fbbbfb
+ingress:
+  nfs: migrations
+  jwt: scheduler-backend
+  threadpool:
+    - 2780c5ecfa8ae7c9
+  token:
+    edge: 167.1.45.186
+    hotfix: traces
+    nfs: 904
+    loader: false

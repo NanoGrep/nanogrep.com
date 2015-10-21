@@ -1,0 +1,43 @@
+cache: 313ec5c2f073d9f3
+object:
+  staging: 8389cd6443b6c3d90747cf03d1d2609c
+  batch:
+    grpc: true
+    buffer:
+      mapper: bgp-offset
+      alerts: c9c9aefd
+      edge: true
+      token:
+        - 9590
+        - 6365
+      logs: true
+    release:
+      - ingress-migrations
+      - false
+      - sha256
+    firewall:
+      sha256:
+        - policy-storage
+        - true
+        - vxlan
+      mocks: 206.166.214.131
+      driver: true
+      request: volume-dhcp
+      service: 3399
+  aes: 7771
+  mocks: metrics-graphql
+lexer: false
+policy:
+  pipeline:
+    release:
+      trie: volume-kafka
+      mirror: probe-config
+      metrics: 5480
+      edge: 4387
+  protobuf:
+    - 165.170.13.1
+  artifact: upstream-token
+  cert: 5979
+  systemd: column
+nginx: response
+session: 8961

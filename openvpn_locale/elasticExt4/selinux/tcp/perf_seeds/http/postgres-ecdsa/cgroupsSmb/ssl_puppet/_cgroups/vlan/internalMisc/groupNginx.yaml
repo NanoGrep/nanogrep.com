@@ -1,0 +1,15 @@
+systemd: socket-udp
+prometheus:
+  bloom: 5275
+  mapper: 128.213.20.109
+  metrics: 2167
+  heap:
+    - 165.134.219.90
+  dns: 5167
+  logs:
+    http: 26.143.211.211
+    middleware: true
+    udp:
+      middleware: failover-lambda
+      rsa: hotfix-volume
+stack: 3186

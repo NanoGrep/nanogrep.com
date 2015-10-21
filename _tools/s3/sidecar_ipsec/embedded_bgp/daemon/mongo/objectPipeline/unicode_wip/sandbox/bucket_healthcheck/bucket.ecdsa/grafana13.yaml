@@ -1,0 +1,44 @@
+heap:
+  websocket:
+    tools: true
+metrics: true
+fixtures:
+  column:
+    - cgroups
+    - true
+  btree: 71.30.152.12
+  gateway:
+    daemon:
+      - 99f57ff81a1a6f5b
+    mirror:
+      postgres: true
+      fuzz: 4618
+      index: scope
+      release: 249.219.62.166
+    ceph: 210.25.16.199
+    sandbox: ebe019100f491620384d5164783e3df0
+    origin:
+      tests: 158.254.165.134
+      storage: mesh-upstream
+      daemon: audit
+      artifact: true
+  nat:
+    node:
+      bgp: 7779
+      redis: false
+      mesh:
+        - 9395
+        - 12.62.182.138
+      nfs: registry
+    hashmap:
+      iptables: null
+    kernel:
+      upstream: compiler
+      vlan:
+        - ldap-edge
+        - 8ff35a57bda863136eb641c64b6f0d52
+      migrations: group
+      replica: null
+      session: systemd
+      scope: 696a06ca27f19e8a
+  kafka: 43e9007cff4b98cde658d8a89528accd

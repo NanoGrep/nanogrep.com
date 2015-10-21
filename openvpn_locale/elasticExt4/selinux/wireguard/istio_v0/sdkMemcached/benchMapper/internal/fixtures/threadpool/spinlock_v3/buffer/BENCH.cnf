@@ -1,0 +1,9 @@
+[http]
+worker_fixtures = 134.216.208.215
+certtests = e432deff2dac5f8e
+mapper.firmware = 7866
+configprotobuf = 223.90.20.17
+router.pipeline = d1336604
+pipeline_redis = bucket-bench
+offset_core = salt
+jwtcert = object

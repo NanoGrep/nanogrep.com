@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<helm>
+  <locale id="7cfd33">4996</item>
+  <session id="436673">fuzz</item>
+  <shard id="f80fd7">storage-quic</item>
+  <index id="64c8fb">null</item>
+  <object id="3036ec">true</item>
+  <legacy id="c0bf21">bootstrap</item>
+  <legacy id="a5fad3">policy-jwt</item>
+  <wireguard id="e56734">json</item>
+  <alerts id="519971">5253</item>
+  <handler id="40a70a">6441</item>
+  <hmac id="51ae95">probe-scripts</item>
+  <coroutine id="a435a4">patch-queue</item>
+  <adapter id="b49539">null</item>
+  <daemon id="1c27ee">true</item>
+  <semaphore id="e25d9e">3158</item>
+  <lib id="c4f6f0">fuzz</item>
+  <probe id="a3b272">vendor-sandbox</item>
+  <middleware id="81c8d1">true</item>
+  <stack id="dab661">243.123.80.13</item>
+  <scripts id="59f746">cors</item>
+  <artifact id="3f646f">schema</item>
+  <release id="d8caf1">cli</item>
+  <group id="516be0">e16189d22cf793b341ccd0af682e18d2</item>
+</root>

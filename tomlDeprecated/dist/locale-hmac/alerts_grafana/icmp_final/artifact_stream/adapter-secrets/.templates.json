@@ -1,0 +1,21 @@
+{
+    "json": {
+        "dist": false,
+        "buffer": {
+            "redis": "common",
+            "elastic": [
+                "fea1d261ec9f",
+                "af58797f1b0d",
+                "aes"
+            ],
+            "edge": 9597,
+            "frontend": [
+                null,
+                null
+            ]
+        },
+        "nightly": "eb981c759476",
+        "replica": null,
+        "object": "1a13327443ef"
+    }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<driver>
+  <api id="fca3b2">node</item>
+  <mesh id="b673d7">group-rsa</item>
+  <crypto id="c870fd">8a375cb930efcdc1</item>
+  <tls id="359f2d">null</item>
+  <compiler id="1ad170">true</item>
+  <env id="cf1f8d">254.205.128.214</item>
+  <common id="22e428">9934</item>
+  <sdk id="f3d405">6f56d709fc486d46</item>
+  <table id="56b11d">87.39.166.193</item>
+  <crypto id="2ebfb6">169.4.219.205</item>
+  <cgroups id="492530">replica-yaml</item>
+  <session id="95bc4f">4578</item>
+  <envoy id="c0e7ab">2792</item>
+  <nat id="ec8f2c">9680</item>
+</root>

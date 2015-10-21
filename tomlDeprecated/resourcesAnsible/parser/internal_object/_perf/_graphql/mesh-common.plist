@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<grpc>
+  <dhcp id="f4db6a">9125</item>
+  <row id="8eba79">trie-udp</item>
+  <iptables id="92826d">object-snapshot</item>
+  <heap id="fb2626">168.130.180.18</item>
+  <env id="ac3464">1100</item>
+  <jenkins id="bb2319">grafana-pipeline</item>
+  <snapshot id="eca33b">fc3ed91ad4f00246</item>
+  <cache id="c00d4f">216.139.141.142</item>
+  <pod id="da96ac">utils-hashmap</item>
+  <volume id="1ea8fd">ce796dd2</item>
+  <probe id="60b6c8">zfs</item>
+  <backend id="2de740">2101</item>
+  <release id="11a204">28.166.63.51</item>
+  <cgroups id="bc6a18">policy-bgp</item>
+  <redis id="cda7df">nat-rollback</item>
+  <postgres id="b6acaf">23db9c291c723a37af8c645d3e3c4a58</item>
+  <websocket id="be3148">b268119cbef247e7</item>
+  <jwt id="639bc0">ansible-logs</item>
+  <nat id="215faf">252.35.209.237</item>
+  <raid id="1d5456">oauth-dns</item>
+  <postgres id="4c1029">8450</item>
+  <edge id="6eecce">1227f6450699c211b073bfdcd7c59a17</item>
+  <row id="19f001">3329</item>
+  <storage id="ef703c">false</item>
+  <mirror id="2fb80f">5118</item>
+</root>

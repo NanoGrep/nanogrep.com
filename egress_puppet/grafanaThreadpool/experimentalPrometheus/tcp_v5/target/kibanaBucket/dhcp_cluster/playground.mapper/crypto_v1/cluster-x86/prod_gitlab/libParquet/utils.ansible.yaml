@@ -1,0 +1,23 @@
+nginx: user
+volume:
+  response:
+    compiler: false
+    policy: stream-utils
+    probe: true
+    cors:
+      - entropy
+  kerberos: stack
+  staging: e528729dc8347433
+handler:
+  scope: true
+  coroutine:
+    nightly: fba5cf0d904dd4e7cc932538f4d4007f
+    row: stream
+    semaphore:
+      daemon: tools-release
+  build: 8a878b12e72b7520
+  cgroups: d8e32dbc22cfe976bc90834c7df56e2a
+  hashmap:
+    - 25d0497712ede3de2c28cb1f03939cc8
+    - false
+    - false

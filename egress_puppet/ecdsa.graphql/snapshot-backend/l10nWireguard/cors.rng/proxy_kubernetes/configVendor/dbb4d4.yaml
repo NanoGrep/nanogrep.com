@@ -1,0 +1,66 @@
+registry:
+  subnet:
+    node: gateway-mqtt
+    audit: storage
+    token:
+      - 60.218.89.90
+      - ce492fddaa943dfc89c835472060a9d9
+      - 115.108.165.220
+      - 48dc5da3
+    mqtt:
+      stream:
+        - 75c4d257349edf21
+        - nfs-cgroups
+      parser: assets
+  logs:
+    dhcp: tests
+upstream: 60.26.181.179
+stack: 835
+origin:
+  dhcp: salt-sdk
+  envoy:
+    row: d23c2e15
+    zfs:
+      vxlan: 245.47.92.44
+      config: 98bf891bd4dbb7c3
+      env: backup
+      cert: b75fa49466949d37
+    mapper: 6077
+    vault: b48ba2784a2ed2df
+  dhcp: d25b6cfd4468ab8c
+  zfs: envoy-offset
+  socket:
+    migrations:
+      - false
+      - true
+      - a7d72fbb112767b0
+      - 197.253.236.26
+  build: true
+cert:
+  nonce:
+    response: null
+  vendor:
+    - true
+    - 175.193.175.99
+    - staging
+cgroups:
+  mocks:
+    schema: true
+    pod:
+      runner: 2316bcf3cc6bbba1
+      common:
+        - false
+      failover: a827cdc8c45ab57e33d66653dd7d06ea
+      dhcp: 8754
+  udp:
+    - 8769b538498c78abd0eaa6c72d2ef156
+    - 9de0074b
+    - 249.210.174.43
+  alerts:
+    origin: b1a09e6fd27c9d75
+    table: true
+    subnet: 397b92bb96badf62efeecbc840142bbe
+    core: false
+    jenkins: 63.9.47.159
+  controller: null
+  switch: gateway-cgroups

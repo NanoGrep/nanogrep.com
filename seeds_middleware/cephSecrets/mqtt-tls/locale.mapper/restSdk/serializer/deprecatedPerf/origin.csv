@@ -1,0 +1,12 @@
+audit,tenant,failover
+4.210.239.240,service,8265
+616,salt-mutex,audit
+snapshot-worker,snapshot,166.252.39.46
+null,9250,139.133.76.44
+scope,false,235.71.225.150
+true,false,false
+29c6432ab328aea8,4b7aecc9dcf6540225ee13314efe4789,false
+null,9306,c6c9e8bb
+socket,true,pipeline
+3070,true,34.171.75.92
+5352,true,f8467edfdc957929628f5efa9514c19f

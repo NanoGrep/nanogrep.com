@@ -1,0 +1,28 @@
+[tests]
+mocks_request = websocket-nfs
+firewall.nat = lambda
+staging_core = 6913
+firmwarescheduler = false
+nfs_cookie = metrics-driver
+parsercache = false
+pod_wireguard = dns
+sdk_legacy = 66b607f08df7965d9e77fc4a9c1cd71f
+mapper.jwt = kerberos-elastic
+session.compiler = null
+offset.cli = 2893
+btree_upstream = a3a5690fa7a7e100
+runner.nonce = c1769a621171577bd3810eab07892475
+scope.hmac = kernel
+vxlan.patch = vlan-nginx
+kafka.nfs = c6a2ba9e
+rest.kafka = false
+hmacmocks = false
+scope.quic = 3837
+
+[request]
+prod_nightly = 68edf674c08f2265
+bucketbucket = null
+firmware_legacy = 120.95.126.124
+nonce.vault = 1422
+zfs.tenant = loader-heap
+servicevault = 3971

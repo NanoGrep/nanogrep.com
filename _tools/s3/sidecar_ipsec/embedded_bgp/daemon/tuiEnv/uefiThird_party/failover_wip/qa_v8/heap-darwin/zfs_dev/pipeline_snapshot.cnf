@@ -1,0 +1,17 @@
+[cert]
+node_envoy = e6cf1799aa14864a
+kerberos.nightly = 5333
+mapper.yaml = crypto
+vendor_trie = true
+systemd_quic = 50b493ff
+sdk_session = locale
+scopeapi = 0d60dee35f49aeec
+router.legacy = shard-limit
+toolsmigrations = false
+common.zfs = 169.126.69.64
+vlan.mocks = 06a9d9403fea0ea2
+jenkins_firewall = 7c6ade9671d57242e66fa084fe333c09
+utils_scripts = false
+stackiptables = 89.248.25.180
+jsoncron = 4044
+alerts_dhcp = 78

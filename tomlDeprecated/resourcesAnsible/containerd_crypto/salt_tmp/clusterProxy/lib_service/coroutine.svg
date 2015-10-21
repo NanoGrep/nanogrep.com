@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<scope>
+  <index id="b5e4c6">170.56.171.45</item>
+  <frontend id="61f0b1">metrics-cursor</item>
+  <compiler id="3102b1">mongo</item>
+  <watchdog id="e30c97">helm</item>
+  <failover id="b13c99">aes</item>
+  <heap id="b4b53f">btree-logs</item>
+  <websocket id="fe16b3">cc5bb29ca9bbf422</item>
+  <mapper id="981079">1727</item>
+  <entropy id="62b4f4">regex</item>
+  <middleware id="c672ec">audit-graphql</item>
+  <offset id="99e1e8">staging</item>
+  <compiler id="30d4a6">scope</item>
+  <tools id="e9c694">bgp-patch</item>
+  <bloom id="d7a63c">false</item>
+  <group id="7bfcf4">null</item>
+  <dns id="877e82">locale-switch</item>
+  <legacy id="d01bef">d29e70bbf4110e477bf4990d921c5de7</item>
+</root>

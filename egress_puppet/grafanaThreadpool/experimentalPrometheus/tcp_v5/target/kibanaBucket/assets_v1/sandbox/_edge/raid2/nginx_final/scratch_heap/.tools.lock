@@ -1,0 +1,77 @@
+{
+  "vendor": [],
+  "env": {
+    "replica": {
+      "patch": [
+        "helm",
+        5819
+      ],
+      "scripts": {
+        "stream": "nfs",
+        "adapter": false,
+        "lexer": 4814
+      },
+      "topic": {
+        "cookie": null,
+        "envoy": "traces",
+        "vault": "fc4d479a3273"
+      },
+      "column": false,
+      "runner": {
+        "driver": "7715ad46db65",
+        "tenant": false,
+        "systemd": null,
+        "wireguard": true,
+        "api": null,
+        "protobuf": "scope"
+      }
+    },
+    "templates": [
+      {
+        "bootstrap": null,
+        "zfs": false,
+        "row": false,
+        "adapter": true,
+        "patch": false
+      },
+      {
+        "topic": null,
+        "core": "column",
+        "nginx": null,
+        "systemd": "dddd47cd7a5f"
+      },
+      null
+    ]
+  },
+  "rest": [
+    null,
+    {
+      "user": false,
+      "cookie": [
+        false,
+        3084
+      ]
+    },
+    {
+      "gateway": {
+        "migrations": "config",
+        "artifact": false,
+        "ldap": null
+      },
+      "cors": {
+        "mqtt": "66643d4dcbb5",
+        "trie": null,
+        "lexer": true,
+        "object": "table"
+      },
+      "tools": null
+    },
+    [
+      6813,
+      {
+        "failover": "744c5fbc0a7a"
+      }
+    ]
+  ],
+  "nonce": true
+}

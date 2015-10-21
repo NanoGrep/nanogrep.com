@@ -1,0 +1,50 @@
+[stream]
+cursor.subnet = bootstrap-ingress
+nightly_middleware = 72d620cf38117694796c61895a2b5ac5
+columnprod = 5256
+ceph_heap = 208.66.53.64
+row_table = null
+firewallsystemd = role-templates
+entropy_protobuf = subnet
+kerberos_http = 0964576c1d534e58dc99dee6aa871e34
+token_token = 238.137.182.228
+core_nat = iptables-hashmap
+
+[vxlan]
+row_trie = 209.103.16.150
+legacy.origin = 823
+trie_backend = 149.237.129.217
+triersa = 184.135.226.26
+cache.tools = 5bc4ed9ad2cb3ea8
+queue.probe = 4591
+releasemirror = ldap-templates
+schematls = b580aa3b1fea16ac
+threadpoolnonce = payload-column
+shard_mongo = 3720
+subnet.systemd = true
+localebloom = traces-loader
+session_limit = locale-registry
+configpipeline = ldap
+terraform.daemon = false
+
+[bucket]
+upstream.nightly = 200.224.29.249
+proberetry = http-scope
+common.controller = 3910
+backup.mirror = 5738
+firmwaretcp = dhcp
+iptables.vault = alerts
+stream.bgp = 7f2944bb
+hashmap.storage = 5fb7de94b78c03273e9b70158eb6a71b
+redis_graphql = bloom-backend
+envmirror = 196.250.37.223
+vxlan.middleware = topic
+scheduler_yaml = 3710
+aes.response = ldap-trie
+cluster.storage = canary-vxlan
+tlsfuzz = 216.241.154.31
+sdk.helm = 2587
+firewall_subnet = 69.108.215.190
+fixturesnightly = 45f819a4ef74f998
+ingress_yaml = ansible
+batchsalt = 5c1ef367c6a740c69deef33a69f395ef

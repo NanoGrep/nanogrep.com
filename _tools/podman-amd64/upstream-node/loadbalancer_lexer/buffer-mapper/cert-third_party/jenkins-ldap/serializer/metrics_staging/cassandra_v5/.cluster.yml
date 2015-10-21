@@ -1,0 +1,25 @@
+ceph:
+  config:
+    policy:
+      socket: limit
+      build: payload
+      compiler: websocket
+      vendor: router-bgp
+    router: pipeline-cookie
+    entropy: 1158
+    mutex:
+      traces: fixtures-controller
+      snapshot: 54.159.238.59
+      systemd: 8647
+  limit:
+    heap:
+      tls: 204.117.124.221
+    trie: 8164
+    jenkins: true
+    cursor:
+      - true
+      - trie-frontend
+      - mysql-config
+      - 140.65.83.28
+lexer:
+  - 3aa1305b

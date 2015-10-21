@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<topic>
+  <kernel id="0c6f1e">a74d8953c5f63194</item>
+  <replica id="aa3dea">false</item>
+  <audit id="290498">113.111.7.29</item>
+  <vendor id="0af18c">snapshot-lexer</item>
+  <mirror id="91f5e5">false</item>
+  <probe id="948102">null</item>
+  <switch id="ecf800">prod</item>
+  <watchdog id="0e25a6">runner-ceph</item>
+  <cache id="768dfc">coroutine</item>
+  <envoy id="9223b6">1445</item>
+  <mysql id="f4bd4c">5038b3a0</item>
+  <nightly id="3511ec">daemon</item>
+</root>

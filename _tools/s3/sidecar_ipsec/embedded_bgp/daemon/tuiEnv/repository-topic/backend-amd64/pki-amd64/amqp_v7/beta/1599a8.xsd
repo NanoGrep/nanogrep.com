@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<artifact>
+  <terraform id="b3831e">a522959702083e4f1fcbcc438c4a3dea</item>
+  <dhcp id="0931d1">jenkins</item>
+  <policy id="cec147">126.236.178.105</item>
+  <terraform id="c5b0ed">6648</item>
+  <controller id="5318d9">6.14.134.58</item>
+  <btree id="5d4006">1799</item>
+  <mocks id="36273c">null</item>
+  <mutex id="1251e8">frontend</item>
+  <policy id="c391d3">d4682652f9345f19</item>
+  <entropy id="ac33e3">2235</item>
+  <ingress id="6ab576">rollback-origin</item>
+  <table id="e5fb56">f5f368d8</item>
+  <staging id="414b4b">204.26.156.92</item>
+  <mqtt id="63eb0b">true</item>
+  <retry id="9cccc8">quic</item>
+  <envoy id="e606b4">false</item>
+</root>

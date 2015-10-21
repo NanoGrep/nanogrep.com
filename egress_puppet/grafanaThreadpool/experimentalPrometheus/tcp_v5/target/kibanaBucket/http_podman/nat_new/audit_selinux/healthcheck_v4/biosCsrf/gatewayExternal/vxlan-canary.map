@@ -1,0 +1,81 @@
+{
+    "migrations": [
+        {
+            "vendor": [
+                7759
+            ],
+            "stack": true,
+            "pod": {
+                "zfs": null,
+                "gateway": true,
+                "volume": "threadpool"
+            },
+            "storage": {
+                "bucket": true
+            }
+        },
+        2123,
+        {
+            "mirror": null,
+            "dns": [
+                "b075647f5873",
+                null,
+                false,
+                true
+            ]
+        },
+        {
+            "replica": {
+                "rest": 7627,
+                "scripts": 5372,
+                "alerts": 7399,
+                "logs": false
+            }
+        }
+    ],
+    "bgp": "c9f783083cc4",
+    "threadpool": null,
+    "worker": [
+        {
+            "compiler": {
+                "worker": false,
+                "controller": false
+            }
+        },
+        [
+            {
+                "tls": "assets"
+            },
+            {
+                "migrations": true
+            },
+            "976f0c2895f7",
+            {
+                "kerberos": "parser",
+                "stack": false,
+                "firewall": null,
+                "bootstrap": null,
+                "locale": true,
+                "lexer": null
+            }
+        ],
+        [
+            {
+                "iptables": true,
+                "locale": null,
+                "legacy": "1e3133e6bb60",
+                "sandbox": 9178,
+                "semaphore": null,
+                "heap": "5fa7030c4a2b"
+            },
+            [
+                true,
+                9336,
+                "96c78337d724",
+                false
+            ],
+            true,
+            null
+        ]
+    ]
+}

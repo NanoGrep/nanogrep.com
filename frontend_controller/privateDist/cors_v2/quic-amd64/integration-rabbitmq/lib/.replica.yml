@@ -1,0 +1,9 @@
+quic: 95.207.92.175
+rsa:
+  redis: snapshot-audit
+salt: helpers-semaphore
+utils: 3cfdf8dfde8f959b
+lambda:
+  controller: driver-shard
+  backup: 5135
+bgp: 7367

@@ -1,0 +1,35 @@
+ansible:
+  replica:
+    request: cache-scheduler
+    backend: scheduler
+    wireguard: 210.49.89.62
+    tls: 591b6253d3084a24
+    cert:
+      - handler-tls
+      - 77.175.242.206
+bgp:
+  schema: mongo
+  role:
+    cron: b93491a201cc6b34d96b531bf5bc5b60
+    build: 76.244.170.114
+    bench:
+      cert: subnet-hotfix
+      alerts: e8ba79ffbe1c42cf
+      websocket: 4643
+    cookie:
+      object: hmac
+      utils: null
+      lib: postgres
+      vlan: f726127a236d96e5
+  storage:
+    api:
+      ldap: 52b242799af59add
+      elastic: vlan-token
+    index:
+      kerberos:
+        - 201.235.230.191
+      compiler:
+        - 2e721ccf
+        - oauth
+        - 62.180.150.200
+      nfs: a804c942

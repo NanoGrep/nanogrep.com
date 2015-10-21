@@ -1,0 +1,13 @@
+driver:
+  heap: sdk
+  canary: aa6eb3e9
+  cron: true
+  aes: driver-scope
+object: payload-mysql
+bucket:
+  semaphore:
+    - 6357
+    - null
+cli: true
+stream: 9562
+parser: a809e2b20926054c1ffeefbaa19283a6

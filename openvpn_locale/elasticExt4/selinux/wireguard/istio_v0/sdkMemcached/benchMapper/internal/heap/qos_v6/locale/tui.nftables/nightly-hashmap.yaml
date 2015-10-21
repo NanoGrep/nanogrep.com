@@ -1,0 +1,23 @@
+socket:
+  - 29.183.75.56
+  - beta-proxy
+worker:
+  http: 176.230.115.35
+  cursor: registry-scope
+tests:
+  scripts: 23502c143b7eb395b087ae866b45dbc4
+  runner:
+    row: true
+    alerts: 92ea379d015c0a62
+    hmac: factory
+    build: b823a406014098aac8e631f765050680
+  queue: iptables-http
+  kerberos:
+    aes:
+      edge: 184136aade4326db
+    mqtt:
+      storage: false
+      vendor: 3a1f5f83f78d5efdf827f78fd981e48a
+      zfs: false
+      cors: 145.143.186.90
+      backup: session-sandbox

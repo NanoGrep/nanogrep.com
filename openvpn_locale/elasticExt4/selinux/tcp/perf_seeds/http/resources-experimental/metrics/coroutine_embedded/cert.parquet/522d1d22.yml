@@ -1,0 +1,43 @@
+driver:
+  release: 75a2874c
+  user:
+    vault:
+      row:
+        - 3861
+        - cookie-tests
+        - pipeline
+      handler: 28.189.124.47
+      user:
+        - 5394
+        - 2022
+        - e25d434aba087aefe5e0966b52f5abf2
+    ldap: cron-origin
+    role:
+      ldap: dhcp-helpers
+      token:
+        - b61827ae667fdb2d
+        - failover
+        - threadpool
+      metrics:
+        - sha256
+        - d1fc479ae01f860c
+      cors: 8483
+      batch: a9f353a22cae32c1ef5a65fc2395743d
+      helm: null
+    hmac: null
+  handler:
+    handler: 247.162.107.239
+    kafka:
+      - false
+      - 112.76.130.112
+      - true
+    scripts: 3861
+    mesh:
+      vault:
+        - crypto
+        - 57ed2892
+        - 52d70164
+    patch: 1949
+  assets: regex
+  cert: hmac-kernel
+cache: true

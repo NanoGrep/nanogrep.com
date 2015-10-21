@@ -1,0 +1,99 @@
+[stream]
+localegateway = 10.35.226.122
+cluster.graphql = 193.178.135.200
+iptablesvolume = oauth
+
+[scheduler]
+crypto_schema = 7ea22590
+mqttcache = session
+aes.btree = 3771
+backup_cert = 829e8970
+lambdaenv = traces
+vlan_fixtures = false
+systemd.lib = entropy
+hmacrollback = 9b1968f9
+mocks.legacy = 3314
+servicesemaphore = e40f9107ed829191e262002b74698ce9
+cache_prod = payload
+queue.elastic = firewall-index
+corsedge = 2054
+vlan.postgres = pod
+kafka.table = true
+proxy.tools = 66.86.148.127
+coroutine.hmac = role-frontend
+ldap_metrics = 42.87.195.67
+tls_assets = 9954
+nginxgraphql = 143.219.187.226
+hotfix_stack = lambda-heap
+helpers_probe = 384
+
+[nginx]
+nat_env = true
+protobuf.alerts = 9063
+token_watchdog = tls
+watchdog.stack = 2802
+udpudp = snapshot-vault
+raid.node = artifact
+cors_metrics = 7934
+table.origin = 56b5b368fa4be6ff686c14646106c437
+core_oauth = true
+index.http = 2576
+lib.vxlan = 564ae3957578937bf25a18113fc338c7
+btree_ansible = 265
+originmqtt = fuzz-templates
+raid_assets = null
+alertsfirewall = null
+bench_mocks = mapper
+protobuf.origin = 76.64.228.182
+vendorbeta = cron-policy
+policy.kafka = 575ede57
+vlanfuzz = 7176
+coroutinesession = utils-jwt
+upstreamuser = null
+watchdogregistry = 41.92.130.86
+heaphmac = 2ba3a536149144b6
+fuzzdns = proxy-row
+cephqueue = null
+parseroauth = null
+middlewaremigrations = 221.16.215.16
+fuzzreplica = websocket
+
+[ceph]
+benchmiddleware = canary
+kafka.kernel = nonce-canary
+parser_bucket = 206.240.18.120
+buffer.rollback = true
+bloom_object = worker
+vxlanadapter = 8210
+meshnginx = 3211
+legacycookie = null
+proxybuild = 4031
+watchdog.gateway = bgp
+nginxvault = null
+tableloader = 4465
+lexer.quic = registry
+alerts.backup = sandbox-subnet
+rsa.threadpool = 7d524605
+testssocket = quic-artifact
+fuzzwatchdog = false
+mirror.kernel = 9498
+group.backup = probe-bgp
+raid_pipeline = 576abe9d
+common.raid = 9248
+shardmirror = 196.229.21.207
+middleware.hashmap = null
+stagingceph = 8170
+api.group = bootstrap
+
+[systemd]
+auditldap = 270463b16d07cd393ff6947704815235
+logsdaemon = 2825eb6c9ccd6675
+protobuf.offset = 8748
+edge.mutex = 214.82.211.229
+staging_trie = 453
+rollback_schema = core-kernel
+object_migrations = dist
+regexprotobuf = tcp
+bufferbucket = lib-raid
+http.mutex = watchdog
+dns_adapter = true

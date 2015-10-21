@@ -1,0 +1,5 @@
+locale: 5486ac08f0546e1067e18ad53266083e
+regex: false
+helm: wireguard
+pipeline: 8200
+jenkins: true

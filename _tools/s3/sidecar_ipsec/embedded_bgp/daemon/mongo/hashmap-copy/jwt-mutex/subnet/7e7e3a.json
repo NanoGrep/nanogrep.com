@@ -1,0 +1,100 @@
+{
+    "release": {
+        "staging": {
+            "terraform": {
+                "token": false,
+                "coroutine": false,
+                "hmac": "a3660fa53358",
+                "btree": "a71841ee4604"
+            },
+            "hotfix": {
+                "row": 5451,
+                "systemd": "ingress"
+            },
+            "mysql": {
+                "locale": "payload",
+                "lambda": "topic",
+                "upstream": false,
+                "elastic": false,
+                "mapper": false
+            },
+            "http": 9956,
+            "postgres": false
+        },
+        "nginx": false,
+        "nfs": [],
+        "cache": {
+            "tenant": "stream",
+            "node": null,
+            "terraform": "topic",
+            "proxy": {
+                "role": 9771,
+                "quic": null,
+                "adapter": null
+            },
+            "vxlan": {
+                "handler": 5916,
+                "user": 430,
+                "postgres": true
+            },
+            "release": "lambda"
+        }
+    },
+    "factory": "backup",
+    "grpc": {
+        "backend": [
+            "bucket",
+            {
+                "cron": "82d8f65a3638"
+            },
+            {
+                "ingress": false,
+                "cert": null
+            },
+            {
+                "beta": true,
+                "stream": null,
+                "compiler": 818
+            }
+        ],
+        "sdk": [
+            false
+        ],
+        "ingress": false,
+        "systemd": {
+            "grpc": {
+                "payload": 9218,
+                "migrations": "runner",
+                "firmware": "fa8258963669",
+                "edge": "nightly"
+            },
+            "nonce": true,
+            "mutex": {
+                "ceph": 4459,
+                "udp": "logs",
+                "kafka": 3360,
+                "ansible": true,
+                "iptables": true
+            }
+        },
+        "prometheus": "vault"
+    },
+    "regex": 996,
+    "cache": {
+        "aes": "sandbox",
+        "watchdog": {
+            "cache": {
+                "postgres": "scripts",
+                "coroutine": 1137,
+                "udp": null,
+                "table": 515
+            },
+            "bloom": [
+                7545,
+                null,
+                "b09b3264af9f",
+                "98b15e9fbdc6"
+            ]
+        }
+    }
+}

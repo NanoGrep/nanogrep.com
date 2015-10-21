@@ -1,0 +1,152 @@
+{
+    "request": "object",
+    "envoy": [
+        [
+            [
+                false,
+                true
+            ],
+            5270,
+            1641,
+            [
+                "probe",
+                false,
+                1395,
+                true
+            ]
+        ],
+        "b7cd34175d19",
+        null
+    ],
+    "nonce": "tools",
+    "config": {
+        "artifact": null,
+        "tools": [
+            {
+                "origin": "prod",
+                "wireguard": false,
+                "group": false
+            },
+            {
+                "bench": "factory"
+            },
+            false
+        ],
+        "templates": {
+            "coroutine": "4c9f282301e5",
+            "adapter": {
+                "nightly": "dc626837b822"
+            },
+            "trie": {
+                "btree": true,
+                "upstream": true,
+                "storage": "socket",
+                "http": null
+            },
+            "session": false
+        },
+        "elastic": {
+            "dhcp": false,
+            "mocks": {
+                "core": true,
+                "registry": false,
+                "stream": "cli"
+            },
+            "utils": true,
+            "firmware": {
+                "schema": true,
+                "origin": null,
+                "backend": true,
+                "firmware": 6198,
+                "scripts": true,
+                "frontend": 101
+            },
+            "policy": false
+        }
+    },
+    "topic": [
+        {
+            "logs": "systemd",
+            "vault": [
+                null,
+                false
+            ],
+            "regex": {
+                "canary": true,
+                "bgp": true,
+                "assets": true,
+                "grafana": "721d7cf8bbef",
+                "sha256": false,
+                "core": false
+            },
+            "artifact": [
+                "11d4225fd79c",
+                "5052ee037fd0",
+                null,
+                false
+            ],
+            "origin": {
+                "kerberos": "heap",
+                "prometheus": null,
+                "bench": true,
+                "terraform": true,
+                "frontend": true
+            },
+            "trie": 7927
+        },
+        {
+            "scheduler": {
+                "graphql": "66db743352e7",
+                "json": "locale",
+                "policy": true,
+                "offset": null
+            }
+        }
+    ],
+    "role": {
+        "semaphore": 3922,
+        "sandbox": {
+            "sandbox": [
+                false,
+                true
+            ]
+        },
+        "role": [
+            true,
+            [
+                false,
+                false
+            ]
+        ],
+        "switch": {
+            "nonce": 5104,
+            "core": {
+                "bootstrap": true,
+                "object": null,
+                "scheduler": false,
+                "cluster": false,
+                "audit": false
+            },
+            "canary": "scripts",
+            "cgroups": {
+                "loader": true,
+                "shard": true
+            },
+            "loader": {
+                "tcp": false,
+                "yaml": false,
+                "request": null,
+                "bucket": false,
+                "column": null,
+                "frontend": false
+            }
+        },
+        "audit": {
+            "response": {
+                "terraform": true
+            },
+            "payload": "session"
+        },
+        "cli": "locale"
+    }
+}

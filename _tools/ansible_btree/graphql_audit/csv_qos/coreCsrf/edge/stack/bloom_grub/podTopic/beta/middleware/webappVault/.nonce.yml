@@ -1,0 +1,9 @@
+daemon: coroutine-tcp
+assets:
+  - false
+canary:
+  - 141.41.218.240
+  - false
+  - 133.124.142.9
+  - 143.182.228.205
+group: 4615a8ffc1b68a67c9c58396ab337519

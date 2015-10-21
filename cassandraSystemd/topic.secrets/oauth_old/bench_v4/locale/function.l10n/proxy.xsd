@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rollback>
+  <sha256 id="8d9bf2">863</item>
+  <alerts id="52c6f1">false</item>
+  <column id="e1082a">5472</item>
+  <metrics id="d38ac0">true</item>
+  <jenkins id="964da2">driver</item>
+  <object id="09247a">dhcp-mysql</item>
+  <env id="4804ef">middleware</item>
+  <hotfix id="b10bcb">7458</item>
+  <threadpool id="ccf23d">ac9ed145aeed45b8</item>
+  <json id="fb8edb">null</item>
+  <tcp id="409ef8">dist-threadpool</item>
+</root>

@@ -1,0 +1,11 @@
+[row]
+yamllocale = policy
+cli.hmac = true
+session.graphql = 5274
+traces.mesh = beta
+dns.vendor = node
+redis.service = 87.181.56.82
+nat.upstream = 210.163.102.183
+yamljenkins = 148.159.66.67
+mapperuser = 102.93.149.54
+pod_iptables = 5321

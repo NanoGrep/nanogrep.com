@@ -1,0 +1,18 @@
+graphql:
+  mqtt:
+    ingress: 165.78.101.123
+router:
+  mqtt: dns
+  regex: 2975dc3a29c6f6accea5034f0db696e4
+  cli: registry-ansible
+  lambda:
+    traces:
+      scripts: false
+      patch: true
+      token: 180.251.68.105
+      gateway: d7139fa207d524d39c9ffdf1ba5a9c38
+    driver: 2653
+    jwt: nat
+helpers: 4d095cfc3b5d9f98
+env: 428ccac5
+frontend: shard-watchdog

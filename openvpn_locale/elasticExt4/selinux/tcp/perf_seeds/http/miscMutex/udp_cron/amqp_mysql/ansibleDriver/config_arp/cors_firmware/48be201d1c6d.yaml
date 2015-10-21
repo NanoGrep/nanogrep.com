@@ -1,0 +1,4 @@
+env: 9268
+tls: firmware-storage
+edge:
+  mutex: null

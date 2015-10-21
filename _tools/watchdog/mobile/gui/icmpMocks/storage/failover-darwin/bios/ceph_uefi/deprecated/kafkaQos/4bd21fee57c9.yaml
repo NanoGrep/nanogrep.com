@@ -1,0 +1,9 @@
+sha256:
+  crypto: null
+terraform:
+  edge: 131.105.182.207
+  table: null
+failover: ad661711
+worker:
+  nonce: 86.92.21.164
+  rest: 203.217.156.228

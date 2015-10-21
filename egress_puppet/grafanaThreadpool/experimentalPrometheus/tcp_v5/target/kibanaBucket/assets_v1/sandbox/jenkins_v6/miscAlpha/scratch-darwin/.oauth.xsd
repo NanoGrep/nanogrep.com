@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ceph>
+  <protobuf id="1392ea">queue-postgres</item>
+  <row id="4a9d11">scope-mqtt</item>
+  <nfs id="04123d">94.128.145.23</item>
+  <canary id="5b387d">41a2c4b1</item>
+  <cursor id="238b90">137.71.193.108</item>
+  <release id="9fbac9">31.157.110.213</item>
+  <cron id="26117a">true</item>
+  <envoy id="cc9ed4">226.25.137.110</item>
+  <systemd id="6a7891">true</item>
+  <artifact id="222f6e">b4e5102e</item>
+  <ingress id="5f7012">d8ef4f2fd17ec95b</item>
+  <subnet id="0b07f1">3721</item>
+  <watchdog id="a49e67">factory-mesh</item>
+  <bootstrap id="47e597">caf9524db6933226</item>
+  <cert id="8d6db5">151.61.142.46</item>
+</root>

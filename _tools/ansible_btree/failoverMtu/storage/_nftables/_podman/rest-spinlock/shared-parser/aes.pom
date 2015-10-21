@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<postgres>
+  <cgroups id="d4b531">8398</item>
+  <dist id="83b9a1">regex-prod</item>
+  <ansible id="0617fe">4324</item>
+  <service id="a3a0da">zfs-group</item>
+  <token id="1be295">alerts</item>
+  <systemd id="e7c1a2">219.21.177.244</item>
+  <payload id="22784b">false</item>
+  <rest id="bc746e">63.166.72.57</item>
+  <topic id="60e95a">null</item>
+</root>

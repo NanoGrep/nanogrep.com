@@ -1,0 +1,30 @@
+{
+    "payload": false,
+    "adapter": [
+        {
+            "mesh": false,
+            "utils": {
+                "shard": false,
+                "semaphore": 6183,
+                "hmac": 6645
+            },
+            "runner": {
+                "stream": null,
+                "compiler": "70bd92d319fa"
+            }
+        }
+    ],
+    "cors": [
+        true,
+        [
+            false
+        ],
+        6502
+    ],
+    "oauth": true,
+    "btree": {
+        "column": [],
+        "topic": true
+    },
+    "user": "344b8b4431c3"
+}

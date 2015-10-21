@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<json>
+  <mysql id="4df2d6">dist-node</item>
+  <nfs id="d252f2">dns-grafana</item>
+  <grpc id="6a269d">44.193.198.126</item>
+  <stream id="a002c2">tests</item>
+  <socket id="f994c7">94d00fbd</item>
+  <handler id="238764">templates</item>
+  <hashmap id="948ae4">false</item>
+  <mirror id="6a6f83">7514efe112a337bd</item>
+  <router id="8f9d09">true</item>
+  <hotfix id="f09dd4">protobuf-tenant</item>
+  <sdk id="876ec1">fuzz-ingress</item>
+  <locale id="30d87d">75131ff1</item>
+  <dhcp id="0e8021">table</item>
+  <hmac id="ef3641">tcp</item>
+  <assets id="235416">column-mesh</item>
+  <templates id="fd3c31">dns-logs</item>
+  <group id="c2d92b">396</item>
+</root>

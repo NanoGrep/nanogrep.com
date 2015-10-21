@@ -1,0 +1,38 @@
+bucket:
+  socket:
+    stream:
+      jwt:
+        - cron
+        - null
+      threadpool: 8112
+      service: fc138b0d
+      heap: false
+      proxy: offset-nonce
+      edge: true
+    prometheus: 135.130.58.118
+    legacy: templates-retry
+    elastic: 164.42.64.104
+    kernel: 7537
+  heap:
+    - 98f00db62bf12349
+  pipeline: 109
+mutex:
+  scripts:
+    staging: stack
+  prometheus:
+    - replica-factory
+    - graphql
+  prometheus: 148.63.245.236
+  stack: 217.137.244.195
+api: 8103
+nonce: 197.149.54.161
+retry:
+  schema: kerberos-firmware
+  protobuf:
+    stream:
+      service: yaml
+      response: 95.111.223.74
+      controller: 8009
+      nat: true
+  tools: middleware
+  env: 824b7731

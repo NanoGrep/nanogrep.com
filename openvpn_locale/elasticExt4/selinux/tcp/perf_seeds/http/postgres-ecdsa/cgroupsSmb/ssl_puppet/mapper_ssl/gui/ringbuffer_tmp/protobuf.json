@@ -1,0 +1,16 @@
+[
+  [
+    {
+      "trie": true,
+      "object": null
+    },
+    {
+      "nfs": {
+        "socket": true,
+        "group": false
+      },
+      "prometheus": true
+    }
+  ],
+  []
+]

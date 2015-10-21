@@ -1,0 +1,40 @@
+volume: 347108a4fe7b210b
+iptables: table-ldap
+crypto: jwt
+table: 6146
+jenkins:
+  hashmap: 7424
+  tls:
+    tenant: zfs
+    kernel: middleware-failover
+    gateway: 4273
+    core:
+      - a11d10a6
+      - locale
+  driver:
+    locale: shard
+    release: 570c282dee6bb3e521560070626f75f2
+    payload:
+      heap:
+        - failover
+      migrations:
+        - 2954
+        - 7569
+      protobuf:
+        - 4213
+        - hotfix-ldap
+        - fuzz
+        - tcp
+      nonce:
+        - 156.199.53.179
+      hmac:
+        - queue-kerberos
+        - nat
+      lexer: daemon
+    regex:
+      migrations: null
+      proxy: 5105
+      api: 195.149.127.14
+    wireguard: 0f5d2d18
+    scope: cli
+  entropy: entropy

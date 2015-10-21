@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<user>
+  <adapter id="0621b9">null</item>
+  <scope id="79903e">storage</item>
+  <alerts id="95c7f8">prometheus</item>
+  <build id="fe49bb">7b7c495c05efe7e7c58baa0dea4d8ff0</item>
+  <index id="052158">2043</item>
+  <probe id="2edbe6">patch-regex</item>
+  <backend id="12440c">json-gateway</item>
+  <raid id="4020e4">1925</item>
+  <response id="65e8fc">parser</item>
+  <worker id="ed8f27">140.122.79.101</item>
+</root>

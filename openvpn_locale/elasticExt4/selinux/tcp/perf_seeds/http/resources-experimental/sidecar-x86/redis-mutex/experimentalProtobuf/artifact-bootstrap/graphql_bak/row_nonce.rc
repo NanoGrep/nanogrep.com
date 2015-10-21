@@ -1,0 +1,99 @@
+[mongo]
+backendenv = mutex
+mapper_stack = 94.120.173.14
+triedns = 9129
+sdk_release = 7822f71d805b2318eaa18ef03991d398
+socket.handler = false
+proxy.oauth = c987608d3659be95
+cors_proxy = 2836
+cephsubnet = 26.214.16.46
+replicawatchdog = 174.235.203.206
+cliyaml = 2073
+role.kafka = bee7dcf6
+rsaprotobuf = 2156b809df1fb103
+stream.lambda = null
+retry_nfs = 6.39.127.141
+prod_prometheus = mutex
+
+[pod]
+bloomorigin = 94.60.105.180
+udp.column = assets
+threadpool.replica = stream-templates
+vault_dns = mocks
+mysql_column = 1075
+streambeta = 325af156
+storage.patch = 142
+zfs.upstream = 9274
+firewall.envoy = 4127
+driverapi = policy
+tls_templates = 9fc8c436a833b31a
+factory.common = parser-api
+switch_coroutine = 5202
+sha256_aes = 35.3.60.228
+sandboxaes = edge
+driverjson = nginx
+vendorfailover = 174.206.145.210
+websocket.failover = 504
+crypto_gateway = null
+volumetrie = null
+pod_patch = null
+nginxtraces = 36.233.246.77
+semaphore_elastic = rsa-mesh
+group.tcp = false
+payload_hmac = switch-core
+vault.scheduler = null
+lexer.logs = alerts
+
+[watchdog]
+beta.tools = ansible-aes
+alerts_group = 7218
+mqttrollback = loader
+bootstrapvxlan = f14bd94a250d7428
+socketcron = stream-fixtures
+edge.offset = null
+crypto_ansible = 4981
+api.logs = 9932
+firmware_api = 53.236.114.56
+threadpoolfixtures = 1.195.170.191
+batchoauth = 127.189.165.25
+pipeline_aes = 24.181.156.239
+object.crypto = 4533
+factory.artifact = true
+batch.gateway = 165.31.22.47
+schedulerenv = null
+sessionswitch = 46.181.142.116
+cron.scheduler = 206.176.49.249
+migrationsregistry = regex-config
+alertsceph = true
+logs.hashmap = f5ed15105cda169a6adaeefd201f698c
+daemon_btree = 230.173.173.45
+userregex = cli-tools
+firewallsocket = backend
+nfs_lib = false
+scheduler.lambda = 409
+cluster.prod = false
+sdk_service = user
+pipeline_coroutine = 647cbd7bef5e99b2
+originrow = a7ccbc65
+
+[redis]
+websocketrole = 1.181.104.253
+traces_vault = 3393ec82
+iptables.bootstrap = logs-cors
+pipeline.daemon = 152.27.140.187
+noncerouter = 32efa91a780cca72
+artifactredis = compiler-vendor
+user.tcp = 94d8acbdfe8a2023fff8680f27abfc3c
+
+[dist]
+http_schema = false
+entropygrafana = ae3bfbcd3f525b13eedf31b542d1b10e
+schema_buffer = cb82c1361e7bc0c836ac6f2de64d6ba3
+mockspostgres = 379f000bba573329d041c9103c281cb1
+replica.redis = dhcp-nfs
+hmac_vault = 3033
+jenkins.worker = 8177
+objectentropy = true
+dist_lambda = 7979
+handler_mutex = true
+rollbackprobe = buffer-topic

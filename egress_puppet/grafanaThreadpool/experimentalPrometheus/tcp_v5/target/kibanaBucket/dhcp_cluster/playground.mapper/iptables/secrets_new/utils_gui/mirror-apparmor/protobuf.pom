@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<redis>
+  <jenkins id="0c705d">9074</item>
+  <threadpool id="d071ae">2.232.72.159</item>
+  <quic id="3d6534">hashmap-upstream</item>
+  <trie id="54feec">true</item>
+  <elastic id="5e8adb">8.228.199.252</item>
+</root>

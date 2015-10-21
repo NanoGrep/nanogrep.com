@@ -1,0 +1,28 @@
+mirror: 63017f33299de6f0
+dhcp:
+  prometheus: 6273
+  factory:
+    graphql:
+      stack: 2333
+      kerberos: semaphore-dns
+      bgp: nightly-cache
+      redis: vlan-udp
+      nightly:
+        - null
+        - false
+        - runner-helm
+        - true
+  threadpool:
+    nightly:
+      - 2773
+      - probe
+      - 9864
+    release: null
+    mongo: 175.40.210.59
+    oauth:
+      upstream: 3325
+  fuzz: handler-entropy
+  adapter: gateway-crypto
+threadpool:
+  mirror: 910fa9503d61526d
+  dns: protobuf

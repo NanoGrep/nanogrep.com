@@ -1,0 +1,14 @@
+cursor,bootstrap,grafana,patch,jenkins
+gateway,5ad8ee7e271f7707b245a3153aed8da3,false,8b4067ce937cc5d1,dhcp-stream
+3548,172.44.48.179,3771,145.53.69.247,164.132.239.71
+0fc9f0a1,be8906b2c386504d,logs-origin,offset,628
+ddc48c834357d9ff74ab5491d8376ecc,build,4173,false,9181
+schema-config,false,7569,91.177.17.37,2684
+parser,e80753629844cd45,395,105.202.62.149,alerts-redis
+168.83.207.230,null,929ca0cf690e60c7,8ce0946e,8220
+132.60.100.116,socket-audit,vxlan-cert,ebdc6b2a,197.242.136.142
+7433,router-json,true,artifact,bootstrap
+tls,23e261f65c547b08,redis,5759d147c470f441b0ac3bb265dd9276,7ac9534be29b4800
+false,143c19cab74bdcbc41124038dd24290e,true,regex-stack,null
+null,snapshot,136.178.3.159,10c2800c3922782d7a6a9d6029f27fdb,buffer-sha256
+vendor-dist,66.149.184.207,batch,6642,5758

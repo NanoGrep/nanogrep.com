@@ -1,0 +1,15 @@
+entropy: postgres-vxlan
+request: 40e7b6ddfdea381c3099d790cfe5ff6e
+legacy:
+  ingress: firewall
+  migrations:
+    release: api
+    sdk: 109.218.242.147
+    buffer: session
+    mesh:
+      - 5826
+      - 131.220.179.173
+      - origin
+      - nat
+  stack: null
+  firmware: true

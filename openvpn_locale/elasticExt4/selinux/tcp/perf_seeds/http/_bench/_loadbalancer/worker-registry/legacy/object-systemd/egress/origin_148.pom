@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<mirror>
+  <table id="b8c0b5">106.236.161.224</item>
+  <middleware id="050273">ansible-factory</item>
+  <dhcp id="3d4c84">graphql</item>
+  <ldap id="cabcc9">mirror-kerberos</item>
+  <websocket id="77c139">5948</item>
+  <vendor id="d3bb11">bootstrap-core</item>
+  <terraform id="180728">request</item>
+  <mqtt id="52d366">17ceb9f1</item>
+  <token id="eccdd6">1157</item>
+  <storage id="254649">null</item>
+</root>

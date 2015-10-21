@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<hotfix>
+  <audit id="0e78f0">3163</item>
+  <lib id="5f3a8e">03fffeace606177ecead0c37f861dbcf</item>
+  <tls id="40729a">audit</item>
+  <session id="1f797e">null</item>
+  <core id="26f53d">a1c6e42c</item>
+  <grpc id="bacee4">helm</item>
+  <scheduler id="99bed4">56.207.116.115</item>
+  <switch id="326b3a">176.137.34.254</item>
+  <middleware id="bf031f">136.152.171.51</item>
+  <watchdog id="4e68bb">schema</item>
+  <ingress id="fe14aa">76.239.127.143</item>
+  <vlan id="ba3f2d">109.141.245.115</item>
+  <build id="17be11">null</item>
+  <jwt id="54dad4">jenkins</item>
+  <metrics id="eb0ba3">cors</item>
+  <nginx id="391edb">mesh-terraform</item>
+  <jwt id="ab3e0d">mapper-trie</item>
+  <vlan id="7d1a79">tools-controller</item>
+  <crypto id="b78dfa">env</item>
+  <cgroups id="17daa7">6308</item>
+  <aes id="2b3da6">null</item>
+  <adapter id="ce6fc9">3591</item>
+</root>

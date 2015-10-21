@@ -1,0 +1,78 @@
+entropy:
+  node: edge-compiler
+  audit: 244.144.18.207
+  handler: coroutine-token
+  assets: true
+jwt:
+  pipeline: 073672f3
+  failover:
+    logs: 66.126.131.174
+    raid: 1719
+    salt: 56b333bfae46bac52043ac5c397b505b
+    fixtures: schema-shard
+  core:
+    audit: dhcp
+  oauth: release
+  grafana:
+    probe:
+      cert: 108
+      sdk: true
+      core:
+        - locale-terraform
+        - tools
+        - tests-backup
+    tenant:
+      topic: 62.215.71.127
+      graphql:
+        - 3269
+      cron: 4822
+      origin: 82.6.176.117
+    adapter:
+      jwt: env
+      table: prometheus-mutex
+      staging: 917fabcc3c37ded6
+    bootstrap:
+      - buffer
+      - bgp
+      - 40.37.198.21
+      - storage
+  api:
+    watchdog: 164.239.242.37
+    locale: 3238
+    scope:
+      helpers: 4477
+      nonce: 3875
+      utils: 179.245.110.42
+      tenant: ca7268f3
+      vxlan: 211.117.203.176
+      release:
+        - b9aa9f21
+        - 167.53.227.4
+        - true
+        - 471
+    alerts:
+      offset: 56ada065ec4ae28a
+      env: 359c6074f8ffd153
+    mqtt:
+      semaphore:
+        - release
+      postgres: tcp-cookie
+    vendor:
+      - 66cf34bce480508cf8d026f87bfa9fec
+      - 9610
+graphql:
+  entropy: 9744
+  vxlan: null
+  nginx:
+    object: router-handler
+    iptables:
+      policy: env-tls
+      cluster: 4693
+      tests: null
+      parser:
+        - 2d07da45097cc76f
+    schema: batch
+  nat:
+    - f173e9f2
+mocks: 3167
+postgres: 10.108.201.107

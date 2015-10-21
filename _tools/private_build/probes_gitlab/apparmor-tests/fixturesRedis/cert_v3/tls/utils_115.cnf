@@ -1,0 +1,5 @@
+runner.prod: 2300810532f93db0
+envoy.buffer: driver
+bootstrap_lambda: traces-rest
+table_lib: null
+artifact_hotfix: 9431

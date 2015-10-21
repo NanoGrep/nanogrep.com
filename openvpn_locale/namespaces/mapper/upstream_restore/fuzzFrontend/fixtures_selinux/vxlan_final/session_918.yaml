@@ -1,0 +1,10 @@
+iptables:
+  adapter: 2861
+adapter:
+  salt: utils
+tls:
+  response: coroutine
+  zfs: false
+  mqtt:
+    group: kernel
+  origin: true

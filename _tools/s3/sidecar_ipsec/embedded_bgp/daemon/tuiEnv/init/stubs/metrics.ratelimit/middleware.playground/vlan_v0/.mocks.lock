@@ -1,0 +1,31 @@
+{
+  "bootstrap": false,
+  "envoy": {
+    "cert": [
+      [
+        6160,
+        7037,
+        9182
+      ],
+      [],
+      "templates"
+    ],
+    "session": {
+      "release": false,
+      "firmware": "lexer",
+      "coroutine": {
+        "runner": false,
+        "object": "parser",
+        "vendor": "iptables"
+      },
+      "vault": {
+        "scope": 9291,
+        "sha256": "cluster",
+        "frontend": "loader",
+        "bloom": 680
+      }
+    }
+  },
+  "mongo": true,
+  "registry": "51cb9b3612a3"
+}

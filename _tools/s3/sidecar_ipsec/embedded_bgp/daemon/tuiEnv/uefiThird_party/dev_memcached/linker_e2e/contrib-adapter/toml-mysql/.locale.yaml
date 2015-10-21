@@ -1,0 +1,13 @@
+tcp:
+  kafka:
+    bucket:
+      common:
+        - 79.82.183.99
+      hotfix: 2ea7a32620c2de2793cd0820d0b52b6c
+      fixtures: oauth
+  utils:
+    - dist-bucket
+    - 13.222.219.237
+    - migrations-session
+  lexer: 5962
+response: 7333

@@ -1,0 +1,5 @@
+grpc: traces
+redis: 178.172.184.49
+postgres:
+  ceph: null
+  nat: 96c680b65d1ef4bd

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rollback>
+  <subnet id="497e23">e096e812b8b53698cbe86cf17792ff16</item>
+  <router id="d82d58">175.11.198.53</item>
+  <tenant id="281051">locale-service</item>
+  <alerts id="7d94d4">false</item>
+  <firewall id="5ddc86">bench-tenant</item>
+  <build id="17dc66">mirror-common</item>
+  <edge id="2d1e7a">protobuf-failover</item>
+  <fixtures id="2e92a6">960d2afa</item>
+  <storage id="8329aa">8208</item>
+  <cron id="b90ef4">mesh</item>
+  <helpers id="f1e4b7">9094</item>
+  <alerts id="a48464">fbad9d1f</item>
+  <column id="d4729d">101.56.243.131</item>
+  <metrics id="51a972">1266</item>
+  <bloom id="bc7d54">mocks</item>
+  <vlan id="305c7a">6cfedf6f81cf4de6</item>
+  <tcp id="6ccb01">nonce</item>
+  <probe id="20fc72">3260</item>
+  <dist id="8a5ec4">ansible</item>
+  <hmac id="11b34c">shard</item>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<service>
+  <utils id="67e38d">a775fbdec6e84fdf</item>
+  <wireguard id="6492d1">protobuf</item>
+  <hashmap id="d17a22">3ff7b2cda46ef0aeb8a2dc107ee921aa</item>
+  <lexer id="3c923d">true</item>
+  <gateway id="abbf8a">tests-gateway</item>
+  <queue id="14f0c1">221.210.99.150</item>
+  <mesh id="c2b7da">tcp-locale</item>
+  <schema id="91e359">1511</item>
+  <payload id="367ff7">227.94.63.46</item>
+  <entropy id="fe404f">mutex-retry</item>
+  <websocket id="76265b">false</item>
+  <entropy id="db2d70">132.74.243.193</item>
+</root>

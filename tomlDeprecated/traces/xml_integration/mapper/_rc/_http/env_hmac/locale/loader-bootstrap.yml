@@ -1,0 +1,39 @@
+bootstrap:
+  - true
+  - 32.145.247.102
+mutex:
+  protobuf:
+    - false
+  lambda: 125.93.251.37
+  queue: systemd
+  redis: 7975
+config:
+  bloom:
+    quic:
+      - mocks
+    lexer: dns-gateway
+    registry:
+      audit:
+        - 7498
+        - false
+        - true
+      role: 63ca0090265321b0
+      hotfix: ac2d3a2e2e7f19f2
+    middleware: ac4e7ccb
+  token: elastic
+  backend:
+    hmac: jenkins-lib
+    nat: 4216
+    nginx: 4849
+    mqtt:
+      middleware: table-retry
+      hotfix: handler-oauth
+      common: 3914
+      backup: 3dc919dc79fa3787
+    salt: middleware
+  token:
+    - f7403c4b
+    - db7331c6
+    - runner-rest
+    - raid-locale
+jwt: 150.8.250.174

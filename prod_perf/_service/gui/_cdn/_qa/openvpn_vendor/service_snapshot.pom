@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<vault>
+  <jenkins id="b08a63">8f4120f028c97e3b</item>
+  <migrations id="eb5f53">46.253.48.19</item>
+  <frontend id="cb0724">oauth-audit</item>
+  <scheduler id="bd947f">233.103.78.162</item>
+  <scripts id="d054e2">174.78.96.173</item>
+  <compiler id="9f58a0">true</item>
+  <loader id="1a5b50">true</item>
+  <topic id="cc5750">templates</item>
+  <daemon id="a2ddea">7893</item>
+  <alerts id="6cd57d">env</item>
+  <logs id="ecf1db">7110</item>
+  <shard id="cbab3d">null</item>
+  <offset id="afef57">true</item>
+  <mocks id="8a5b79">subnet-adapter</item>
+  <udp id="bb84b1">573ccf11</item>
+  <object id="26549e">limit-zfs</item>
+  <bucket id="7ff8b0">null</item>
+  <response id="3d1791">8474</item>
+  <alerts id="a1aacf">184.146.216.74</item>
+</root>

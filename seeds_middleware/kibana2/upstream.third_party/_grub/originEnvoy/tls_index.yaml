@@ -1,0 +1,81 @@
+cursor: 8374
+kafka: true
+salt:
+  bench: 81.134.159.18
+  firmware:
+    common: 9536aae1
+    lexer:
+      nginx: cache-canary
+      stack: acf8dea8dd3318b3
+      policy: stack
+      snapshot: hotfix
+      oauth: oauth
+      cli: 6005
+    jwt:
+      assets: 3e144d8aaa4f3e75
+      nightly: null
+      helpers: true
+      core: ce65a7aeb1eea8484283790245e506bb
+    column: 60652e5763927a47087c4d774e4bd4a7
+  stream: 813b98abaa5b910c737fd60792bdafc2
+  cookie: 101.31.184.20
+  cli: 28.219.159.97
+  tools: failover-postgres
+zfs:
+  patch: 80.171.219.168
+  storage:
+    helpers: false
+    pipeline:
+      - true
+      - cdc6e0903ad17d9934916ed2328390ec
+      - jwt
+      - 4477
+    bloom: null
+    bucket: 6256
+    backend:
+      driver:
+        - dhcp-cli
+        - edge-origin
+        - trie-nonce
+        - 1298
+      factory: 1847
+      parser: true
+      cli: false
+  tls:
+    cron:
+      api: 09d77ba30e365305
+      cert: 7729
+      bgp:
+        - b382778e
+        - false
+        - 138.37.99.192
+      mesh: tools
+      migrations: 145.111.119.135
+      upstream: assets-cron
+    controller:
+      - 3289
+      - protobuf-dist
+      - vlan-table
+    ansible:
+      - tcp
+      - canary
+      - release-prometheus
+      - false
+    topic: 391b9d82
+    utils: 4035
+    threadpool: null
+  limit:
+    service:
+      role: 779
+      artifact: 1975
+      proxy: storage-fixtures
+      lib: true
+      ldap: 7917
+      rsa: failover-rollback
+    aes: 229.191.162.110
+    bloom: fe8631791e4b4fd3
+    node: 3947
+    lib: cli-prod
+  nightly: null
+mongo: 190.175.149.25
+sandbox: b907a505024a56b5d0db5142066eeae6

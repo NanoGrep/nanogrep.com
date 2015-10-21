@@ -1,0 +1,7 @@
+postgres:
+  - adapter
+topic: 100401c66fb8dab995640cac2712f253
+rollback:
+  frontend: 2392
+  zfs:
+    - mysql-snapshot

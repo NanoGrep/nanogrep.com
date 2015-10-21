@@ -1,0 +1,31 @@
+registry: sandbox-stack
+prod:
+  firmware: failover-payload
+  cron:
+    sha256:
+      shard: 8177
+      bloom: 23239d5898b6621f8fcdb48966299860
+      prometheus: 2362
+      nginx: false
+      policy: true
+    scope: null
+    nfs: false
+    grafana:
+      bench:
+        - retry-vlan
+        - tenant
+  daemon: 40.12.131.236
+  user: null
+  policy:
+    - buffer
+    - 229.154.149.120
+    - 35.170.148.249
+  kafka:
+    role: false
+    cookie: true
+    entropy: terraform
+sha256:
+  mocks:
+    graphql: true
+    zfs: object
+  jenkins: migrations-queue

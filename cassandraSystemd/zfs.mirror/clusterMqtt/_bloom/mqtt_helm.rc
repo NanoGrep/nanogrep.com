@@ -1,0 +1,5 @@
+ceph.dhcp: true
+kafka.worker: 72913c607d7059a2
+table.prod: btree
+kerberoscore: null
+middleware_nginx: mqtt

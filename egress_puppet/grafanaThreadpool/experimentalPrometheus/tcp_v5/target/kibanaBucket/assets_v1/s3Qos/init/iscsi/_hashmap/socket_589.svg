@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<patch>
+  <entropy id="f17f94">cache-nfs</item>
+  <router id="4c689e">4357</item>
+  <bootstrap id="bb5a15">2c0f4a257e18d4a8ae4194c8c915f43f</item>
+  <socket id="13877c">112.112.212.239</item>
+  <env id="bad1ee">backup-tenant</item>
+  <quic id="ef3f75">164.142.31.157</item>
+  <cluster id="9ef7f6">artifact-mesh</item>
+  <subnet id="cc0ce9">60737ed42b34fef9</item>
+  <scripts id="db99d8">2a8fff4c</item>
+  <cors id="bca4da">true</item>
+  <queue id="e96657">4227</item>
+  <limit id="48f99b">true</item>
+  <scripts id="6175cd">false</item>
+  <cluster id="8d50b7">vlan-cursor</item>
+  <vendor id="b076de">7905</item>
+  <artifact id="e5b6e7">fc1389ee79cce04c5927b04b107400db</item>
+  <gateway id="76bb60">tools-salt</item>
+  <mirror id="fadb11">221f292c030b4f1f</item>
+  <adapter id="e0f1f2">ceph-payload</item>
+  <prod id="8175c4">45f2a57fc6272549</item>
+  <utils id="ef6203">2701</item>
+  <stack id="724aff">build-controller</item>
+  <bgp id="9b21a6">3637f767bc9b9bd7cae6ce2d41e07f1c</item>
+  <legacy id="baa278">27.93.206.231</item>
+</root>

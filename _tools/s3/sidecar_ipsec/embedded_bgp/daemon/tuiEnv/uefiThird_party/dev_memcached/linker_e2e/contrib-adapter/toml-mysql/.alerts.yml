@@ -1,0 +1,16 @@
+legacy:
+  mqtt:
+    semaphore:
+      rsa: storage
+      frontend: 1262
+      raid: audit
+      utils:
+        - mongo
+    column:
+      batch:
+        - rest-core
+        - 7951
+        - 68.149.237.191
+      elastic: 6343
+      vxlan: true
+    payload: row-vault

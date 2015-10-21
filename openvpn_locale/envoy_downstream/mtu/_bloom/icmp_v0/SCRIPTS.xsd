@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<role>
+  <nat id="5ef3ec">controller-kerberos</item>
+  <dhcp id="f5b5f7">null</item>
+  <oauth id="ab8a94">201.77.140.141</item>
+  <mysql id="7a4893">bfb275f4</item>
+  <fixtures id="c54944">4293a4321b3d50cf</item>
+  <trie id="d250f4">false</item>
+  <controller id="5e1c6c">null</item>
+  <user id="638e26">179.175.1.54</item>
+  <patch id="533337">7032</item>
+  <mongo id="8781e6">hmac-patch</item>
+  <tcp id="5fb4d2">envoy</item>
+  <middleware id="b053c0">623c743b587300724182dfdf9c4a46b3</item>
+  <vendor id="30c717">vault</item>
+  <metrics id="5846f2">6474</item>
+  <regex id="9f0c09">false</item>
+  <wireguard id="143f5d">null</item>
+  <vlan id="d52809">group-mesh</item>
+  <lexer id="200d43">8345</item>
+</root>

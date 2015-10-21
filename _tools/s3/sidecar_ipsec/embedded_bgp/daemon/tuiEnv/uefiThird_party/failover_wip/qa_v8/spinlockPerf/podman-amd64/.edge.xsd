@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<probe>
+  <fuzz id="c8e051">rollback</item>
+  <dns id="2ce1ca">66.31.162.201</item>
+  <mutex id="1563aa">schema</item>
+  <graphql id="71e51d">null</item>
+  <scripts id="c35f6a">9.204.225.11</item>
+  <threadpool id="cb409a">topic</item>
+  <role id="7d2289">64.58.27.227</item>
+  <canary id="70ff91">policy</item>
+  <router id="ce4603">160.169.111.181</item>
+  <rollback id="a41525">false</item>
+  <cursor id="a0e5d3">261ac21a</item>
+  <upstream id="a72fa0">true</item>
+  <socket id="0a2a22">scheduler</item>
+  <postgres id="64ac5b">false</item>
+</root>

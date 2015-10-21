@@ -1,0 +1,15 @@
+daemon:
+  cache: a83737f66ff15ca8
+  sha256:
+    - kafka
+  api: false
+  role: 249.105.53.201
+  patch: socket-btree
+  vlan:
+    - 5686
+    - null
+fixtures: 4539
+core:
+  - 24.128.45.92
+  - 3e83278d1274f6849cc78ca34d1a1751
+tests: 6831

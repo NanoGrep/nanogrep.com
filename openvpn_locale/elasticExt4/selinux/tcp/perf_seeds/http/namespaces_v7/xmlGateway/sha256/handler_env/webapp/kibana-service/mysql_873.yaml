@@ -1,0 +1,29 @@
+ldap:
+  ceph: audit
+  common: 2753
+  handler: 6263
+  probe: threadpool-sandbox
+upstream:
+  core: 64.210.62.17
+  backend: rollback-vlan
+  daemon:
+    offset:
+      regex: eee7eb48adf627bdc219ef445f344a96
+      router:
+        - c6f7c3861de4d06fc654da56cbf464fa
+      mirror: 62.97.157.234
+      env: service
+    loader: policy
+  nfs:
+    driver: false
+    upstream: true
+    stream:
+      grpc: 5200
+      assets:
+        - 2b62a5f65f87e0ba
+        - jwt
+      scope:
+        - 7516
+    wireguard: 186.165.119.119
+    cache: core
+    elastic: bgp-prod

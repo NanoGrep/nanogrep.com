@@ -1,0 +1,121 @@
+[
+  false,
+  {
+    "audit": {
+      "tenant": {
+        "factory": 2680,
+        "migrations": "3e1c305dce73",
+        "mqtt": false,
+        "cgroups": false,
+        "kernel": "7bf21e423349"
+      },
+      "group": [
+        null,
+        true,
+        true
+      ],
+      "router": {
+        "mirror": null,
+        "core": false,
+        "grafana": null,
+        "dhcp": false
+      },
+      "legacy": {
+        "protobuf": "driver",
+        "helpers": null,
+        "grafana": true,
+        "failover": true,
+        "pod": "fixtures",
+        "sandbox": false
+      },
+      "adapter": 2656
+    },
+    "token": {
+      "adapter": {
+        "shard": "hashmap"
+      },
+      "daemon": {
+        "utils": "982b0a2d4f1a",
+        "frontend": null,
+        "policy": null,
+        "rollback": false,
+        "firewall": true
+      },
+      "trie": {
+        "runner": "tools",
+        "index": null,
+        "driver": "beta"
+      },
+      "prod": null,
+      "driver": {
+        "queue": 9935,
+        "nonce": false
+      }
+    },
+    "replica": {
+      "stack": {
+        "core": "2141099fc65f",
+        "semaphore": "b51239fe1aaa",
+        "controller": null,
+        "batch": true,
+        "node": "utils"
+      },
+      "api": {
+        "protobuf": false,
+        "mirror": "middleware",
+        "dhcp": true,
+        "tests": "d96fd324c07d",
+        "subnet": "rsa"
+      },
+      "locale": {
+        "pod": "c44f0b6cb02a",
+        "lexer": "8f6d626b05c8",
+        "registry": "5c18a2ed7294"
+      },
+      "stream": "cli",
+      "grpc": true
+    },
+    "patch": [],
+    "mocks": 831,
+    "mutex": "volume"
+  },
+  {
+    "loader": [
+      "4a2e06bf163c"
+    ],
+    "mocks": {
+      "oauth": {
+        "hotfix": false,
+        "entropy": 4136,
+        "failover": "mirror"
+      },
+      "tls": {
+        "shard": "941d4e531497",
+        "grafana": 1363
+      },
+      "policy": {
+        "iptables": null,
+        "hashmap": null,
+        "limit": 7925
+      },
+      "pipeline": {
+        "subnet": "handler",
+        "bgp": false
+      },
+      "proxy": {
+        "tls": true,
+        "elastic": null,
+        "nightly": false,
+        "lambda": false,
+        "policy": null,
+        "proxy": false
+      }
+    },
+    "parser": [
+      1022,
+      "231c53a30798",
+      null
+    ],
+    "fixtures": false
+  }
+]

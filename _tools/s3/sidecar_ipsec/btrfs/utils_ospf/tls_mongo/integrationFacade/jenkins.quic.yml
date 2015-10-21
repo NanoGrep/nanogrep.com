@@ -1,0 +1,19 @@
+ceph: 205.117.80.116
+vault: nightly
+dhcp:
+  dhcp:
+    elastic: false
+    beta: 52.0.203.70
+    postgres:
+      tcp: daemon
+      hmac: build
+      sandbox: 7291
+  gateway:
+    gateway:
+      bloom: 6565a844
+  nginx:
+    - 3d4fa80417b20b13
+    - backend
+nat: 142
+router: yaml-snapshot
+coroutine: 148.222.4.175

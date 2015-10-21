@@ -1,0 +1,23 @@
+stream:
+  crypto: oauth-edge
+  retry:
+    payload: env-tls
+    assets:
+      router: core
+      policy: false
+      snapshot: true
+      hashmap: scope
+      tcp: 124.71.57.2
+      envoy: a193de07df476c2b65ca45fd3d343c1e
+    staging: btree
+    release: true
+    shard:
+      envoy: b2ecc53b800e57e9c681b03a6e3b53cf
+      audit: 115.210.192.187
+      cache: 59.4.180.51
+      protobuf: mocks-watchdog
+      cache: 179.111.206.109
+  backup:
+    - json
+    - 667becd9d76e890c
+    - kerberos-ceph

@@ -1,0 +1,57 @@
+iptables: user-factory
+assets:
+  lib: zfs-schema
+  mqtt:
+    hmac:
+      udp: 75.84.64.238
+      hotfix: true
+      pod: tls-core
+      nightly: api
+      entropy:
+        - metrics-lexer
+        - 6fb770accbdf5a7c27f24612eceedbed
+    build:
+      - hashmap
+      - snapshot
+      - 9d128bc439eee2c4
+      - 2935
+    scope:
+      socket: 03284b2165813f4adf6debd3633a7f87
+      cors: eb3623fc
+  release: 7627
+  origin:
+    - 3ba1e0ff21b8cd4f
+    - handler-table
+  legacy:
+    payload:
+      pod: false
+      http: 87.168.170.239
+      shard:
+        - true
+        - true
+        - 7dc6a34baaf8c5d76c080e68bab07997
+        - heap-grpc
+      replica: bloom
+      nat: false
+      loader: 5469
+    registry:
+      - subnet
+    bucket:
+      zfs: false
+      alerts: 221.100.167.211
+      vault: 3283
+      pod: 99.39.127.149
+      locale: 8716
+      kerberos:
+        - false
+        - 314d4453
+        - compiler-vxlan
+        - iptables-cgroups
+kafka: 2638
+elastic: 146.139.162.209
+regex: mocks
+fixtures:
+  - eb29aa3e
+  - 2767
+  - 235.181.87.138
+  - kernel

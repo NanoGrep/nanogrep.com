@@ -1,0 +1,14 @@
+cache:
+  migrations:
+    grafana: 24.120.187.241
+  release:
+    bucket:
+      mutex: rest
+      rollback: origin-pod
+      vault: proxy-json
+      frontend: 9310
+    nginx:
+      - stream
+      - fixtures
+compiler: 1571
+kafka: canary

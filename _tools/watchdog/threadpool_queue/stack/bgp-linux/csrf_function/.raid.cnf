@@ -1,0 +1,85 @@
+[bucket]
+core.entropy = 5815
+requestquic = object
+cert.controller = 6683
+websocket.shard = wireguard
+kernel_rsa = oauth
+vendor.index = e95359a2
+
+[kerberos]
+watchdog.object = true
+compiler.response = ingress
+zfs.failover = sha256-mapper
+cache_loader = 101.112.80.167
+kafka_backend = 180.116.6.235
+redisldap = bec3e84f
+nightlyadapter = cursor
+socket_kernel = artifact
+sha256handler = bootstrap-lib
+tablepolicy = 3.32.4.124
+gateway_grafana = cron-probe
+corebgp = 94.233.228.163
+
+[group]
+vlan.cache = false
+mqttgrpc = 166.84.215.251
+socketfailover = false
+raid.ansible = false
+originhttp = 148.175.11.173
+tcp.prometheus = ff5a6b76
+responsegrafana = bench
+semaphoremapper = f813d22aebb83226a73a86bf17dae52d
+nginxtenant = 9667
+release.quic = token
+offset_bgp = service-crypto
+raid_cgroups = batch-nat
+policy_websocket = rest
+canary.edge = mqtt-salt
+certtemplates = false
+mqttlogs = 33.13.107.114
+libcompiler = 250.133.120.211
+regex_quic = utils-tls
+edge.cron = artifact
+cookie_patch = true
+stream_edge = scheduler
+ldap_parser = false
+jenkins.hmac = loader-redis
+bench_envoy = false
+daemon_zfs = failover
+confighelm = lib-table
+upstream_ldap = true
+bench_api = coroutine-trie
+schema_trie = 1146c7bfbd87434b
+replicarequest = false
+
+[cluster]
+switchdns = kafka-nightly
+row_mesh = 4f568b7ea351f4208009acc5af1c9bb0
+loader.snapshot = 117.42.169.151
+semaphore_alerts = rollback-utils
+tracesuser = null
+cron.sandbox = 8775
+shard_migrations = nonce
+mesh.hotfix = db4f4e293e32fc69f00b42b2c02f7462
+vaultbucket = 1768
+postgres_backend = stream
+clilimit = null
+topic.origin = stream-lexer
+restvxlan = 2299
+sdk.scheduler = e03a0b9fa2524052
+mocks_policy = vendor
+mirror_locale = 7918433a
+loadercoroutine = 90df5906aa65bb3eb289a60b8a6318d9
+batch_role = 105.230.38.225
+backend_session = beta-bgp
+parser_row = true
+nfs_nginx = 3054
+cephtopic = switch
+terraformceph = bloom-traces
+index_router = factory-tcp
+
+[socket]
+firewall_bucket = graphql
+protobuf.cache = snapshot-kernel
+salt_cache = 3412
+redispolicy = migrations-rest

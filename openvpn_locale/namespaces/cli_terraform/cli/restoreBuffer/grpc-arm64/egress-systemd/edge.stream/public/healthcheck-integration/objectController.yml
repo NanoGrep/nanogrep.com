@@ -1,0 +1,9 @@
+iptables: probe
+udp:
+  sandbox: 9.234.245.115
+  locale: 3826
+registry:
+  release: cache-vlan
+  nginx:
+    - 5925
+    - 1548

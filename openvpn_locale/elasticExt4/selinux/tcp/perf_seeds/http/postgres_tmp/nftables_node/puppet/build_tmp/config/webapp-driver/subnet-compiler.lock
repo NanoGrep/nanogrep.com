@@ -1,0 +1,78 @@
+{
+  "stack": 114,
+  "scripts": {
+    "systemd": {
+      "replica": {
+        "upstream": true,
+        "api": "f696c1b44b9d",
+        "tls": true,
+        "trie": 8642
+      },
+      "group": "kerberos",
+      "cron": "d6f0df149991",
+      "coroutine": {
+        "rest": true,
+        "shard": false,
+        "tcp": null,
+        "dns": true,
+        "bench": "f1373d8fcabb"
+      },
+      "hmac": [],
+      "redis": {
+        "helm": null,
+        "queue": 987,
+        "shard": "79af32f33a2e",
+        "oauth": 1842,
+        "crypto": "alerts"
+      }
+    },
+    "response": {
+      "switch": {
+        "canary": null
+      },
+      "protobuf": {
+        "frontend": 5319,
+        "kafka": true,
+        "kernel": false
+      },
+      "gateway": 6671,
+      "templates": {
+        "metrics": 9398,
+        "hmac": "cert",
+        "semaphore": false
+      },
+      "migrations": true,
+      "policy": "1e39727f6eed"
+    }
+  },
+  "hotfix": 1993,
+  "cron": false,
+  "wireguard": {
+    "quic": [
+      {
+        "tenant": "token",
+        "websocket": true,
+        "cli": false,
+        "topic": true,
+        "scripts": true
+      },
+      [
+        false
+      ],
+      5760
+    ],
+    "regex": 6635,
+    "factory": [
+      false,
+      false,
+      {
+        "traces": 4280,
+        "bucket": "templates",
+        "locale": true,
+        "column": 1871,
+        "proxy": true
+      },
+      false
+    ]
+  }
+}

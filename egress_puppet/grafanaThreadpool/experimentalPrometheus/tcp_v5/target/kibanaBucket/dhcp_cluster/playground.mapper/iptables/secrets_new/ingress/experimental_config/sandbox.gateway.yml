@@ -1,0 +1,56 @@
+rest:
+  loader: 27.6.152.196
+grpc: 22.213.8.89
+terraform:
+  - cert
+  - ac80920651906d61
+  - true
+ingress:
+  user: sdk
+  core: jenkins-cors
+  session:
+    cert: edge
+    tests:
+      grpc: true
+      topic: 4994
+      threadpool: 8002
+      stream:
+        - 1793
+        - 2899
+        - dhcp-buffer
+    trie:
+      compiler:
+        - 9104
+        - 725
+        - 172.51.1.108
+      ingress: true
+      nat: false
+      audit: 45.59.156.131
+      controller:
+        - 92.175.118.203
+        - 27.182.153.82
+        - 2469
+    tools:
+      elastic: probe-vault
+      pipeline: false
+      regex: 9001
+      ldap: env-bloom
+      retry: 77.236.19.172
+kafka:
+  salt: 9476
+  nightly:
+    tests: true
+    cookie:
+      volume: bench
+      json: 3fb67d79
+      ceph: a066a148
+      websocket: sha256
+      zfs: 148.132.46.51
+    heap: 89626469e9252ee9
+    heap: response
+    row:
+      - 47.74.250.145
+    nfs: 161.105.83.12
+  request: pod
+  release: 7004
+stack: bafe2fe5

@@ -1,0 +1,9 @@
+origin: 9537
+batch: 28.22.27.98
+graphql:
+  registry:
+    - true
+  ingress: 9910
+  protobuf: grpc-fixtures
+  buffer:
+    pod: 167.15.11.101

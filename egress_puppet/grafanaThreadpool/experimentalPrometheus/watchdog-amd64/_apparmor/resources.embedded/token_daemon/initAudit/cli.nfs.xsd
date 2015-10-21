@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<kerberos>
+  <hotfix id="bf145a">true</item>
+  <quic id="a422c3">797dd50a</item>
+  <bucket id="9f0834">1267</item>
+  <group id="d1ef7c">167.228.248.177</item>
+  <protobuf id="a8466e">6786c70ea0e910ac</item>
+  <buffer id="70c7ee">97.213.232.235</item>
+  <api id="1b43c4">6241</item>
+  <subnet id="cd65ca">7981</item>
+  <config id="d9af77">1289</item>
+  <cookie id="d67583">73.92.87.233</item>
+  <scope id="e8e64d">null</item>
+  <raid id="c6a351">211.208.163.47</item>
+  <nginx id="4c6aa2">systemd-mapper</item>
+  <audit id="ce9a92">dfaea9e1</item>
+  <staging id="7b3115">canary-raid</item>
+  <heap id="1823fc">null</item>
+</root>

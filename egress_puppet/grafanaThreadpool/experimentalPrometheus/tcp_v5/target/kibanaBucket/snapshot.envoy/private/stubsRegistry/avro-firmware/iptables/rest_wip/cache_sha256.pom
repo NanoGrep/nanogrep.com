@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<node>
+  <logs id="c00525">0440f7f6</item>
+  <adapter id="981246">aeeb7ee3</item>
+  <storage id="1cd528">null</item>
+  <rest id="f50892">7598</item>
+  <batch id="3b1625">semaphore-vlan</item>
+  <dhcp id="913b0e">build</item>
+  <dns id="047811">traces</item>
+  <common id="cdc68f">ldap-proxy</item>
+  <grafana id="bd33fb">bgp</item>
+</root>

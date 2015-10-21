@@ -1,0 +1,21 @@
+batch: 3508
+failover: 25.76.126.212
+sdk:
+  bootstrap:
+    service:
+      raid: lambda
+      semaphore:
+        - null
+      nfs:
+        - 36.16.156.107
+      quic:
+        - 8019
+        - udp
+    yaml:
+      - ingress
+      - 126.165.64.216
+      - null
+      - null
+aes:
+  - 59.173.44.245
+  - null

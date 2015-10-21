@@ -1,0 +1,15 @@
+logs: salt-worker
+utils: 7283
+grpc:
+  terraform:
+    node: 4154
+    queue: 236.97.199.5
+  rsa: 62.172.190.210
+  alerts:
+    middleware: mutex-dns
+    lexer: d8b0a0dd0ee4a6d0
+  fixtures: 5b09e500bf52f41a
+threadpool:
+  templates: 35329995
+  object: 9982
+  mongo: ldap

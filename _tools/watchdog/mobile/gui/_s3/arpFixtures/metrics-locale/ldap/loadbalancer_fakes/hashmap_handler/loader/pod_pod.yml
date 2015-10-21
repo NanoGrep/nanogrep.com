@@ -1,0 +1,19 @@
+nat: 233.170.149.144
+assets: beta
+object:
+  adapter: 54.58.163.109
+  tools:
+    - entropy-cluster
+    - 82.37.141.167
+    - 1191
+    - volume
+  btree:
+    - true
+    - 378
+    - true
+    - 97.17.70.26
+  tenant:
+    - 8122
+    - ddb2b4e7
+    - 86370200
+    - entropy

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<quic>
+  <mirror id="6a929a">192.11.145.19</item>
+  <failover id="3d9518">false</item>
+  <kafka id="461b17">null</item>
+  <dist id="93894c">storage-index</item>
+  <aes id="96843b">5104</item>
+</root>

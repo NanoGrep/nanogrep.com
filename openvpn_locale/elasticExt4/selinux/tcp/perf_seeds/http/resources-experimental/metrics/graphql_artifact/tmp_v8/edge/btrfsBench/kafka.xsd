@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<iptables>
+  <table id="83654f">group</item>
+  <crypto id="a234b8">false</item>
+  <prometheus id="1f42ec">f453033c</item>
+  <session id="98cac6">null</item>
+  <bgp id="4cae92">157.101.241.163</item>
+  <limit id="e451fc">222.212.163.181</item>
+  <bucket id="483efc">false</item>
+  <batch id="7d5444">6e71019faf0b1e6a</item>
+  <mirror id="b51dfb">websocket-systemd</item>
+  <scheduler id="26df6d">true</item>
+  <batch id="409176">30.206.10.236</item>
+  <column id="6ba529">fixtures-rsa</item>
+  <bgp id="00911a">pipeline</item>
+  <proxy id="bd0682">148.147.67.162</item>
+  <worker id="daa4d5">queue-dhcp</item>
+  <grpc id="518225">sandbox-kernel</item>
+  <systemd id="040db7">null</item>
+  <zfs id="52ba0b">gateway</item>
+  <tests id="aeeafb">be1d75ded32a3d16620ce70f59f84e5d</item>
+  <build id="bf2d42">socket</item>
+  <prometheus id="334e97">9097</item>
+  <lexer id="e21fdd">181.158.186.112</item>
+  <controller id="f4a1a9">null</item>
+</root>

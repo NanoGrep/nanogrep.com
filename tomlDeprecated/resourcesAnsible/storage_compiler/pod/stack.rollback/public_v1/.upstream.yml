@@ -1,0 +1,14 @@
+dhcp: false
+ceph: 2530
+wireguard: schema
+driver:
+  factory: 7074
+  ldap:
+    - 67.150.208.162
+    - 5313
+    - rsa-staging
+  crypto: null
+  sandbox: 42d5674ffbba3ba109646f1e693a5a28
+  helm:
+    daemon: 6191
+  rest: helpers

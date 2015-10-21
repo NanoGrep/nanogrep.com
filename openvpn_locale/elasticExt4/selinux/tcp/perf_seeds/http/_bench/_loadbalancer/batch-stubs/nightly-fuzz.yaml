@@ -1,0 +1,5 @@
+heap: false
+redis:
+  row: null
+  graphql: kafka-mocks
+zfs: 2609

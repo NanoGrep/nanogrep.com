@@ -1,0 +1,55 @@
+{
+  "entropy": {
+    "nfs": {
+      "envoy": 9400
+    },
+    "legacy": [
+      "89a041043cc7",
+      {
+        "prod": "6e19ba498bc8"
+      },
+      null,
+      {
+        "bgp": 1023
+      }
+    ],
+    "prod": {
+      "alerts": "regex",
+      "dns": {
+        "retry": true
+      },
+      "aes": {
+        "compiler": false,
+        "dist": null,
+        "queue": true,
+        "hotfix": "oauth",
+        "replica": "1d95226c4f94"
+      }
+    },
+    "cluster": null,
+    "tenant": "replica"
+  },
+  "compiler": [],
+  "traces": false,
+  "switch": {
+    "socket": {
+      "firmware": {
+        "grafana": false,
+        "stream": true
+      },
+      "quic": true,
+      "registry": "subnet"
+    },
+    "daemon": {
+      "compiler": "e5ec2966fb0c",
+      "edge": [],
+      "driver": [
+        8389,
+        null
+      ],
+      "websocket": "firmware"
+    }
+  },
+  "lib": false,
+  "locale": 7662
+}

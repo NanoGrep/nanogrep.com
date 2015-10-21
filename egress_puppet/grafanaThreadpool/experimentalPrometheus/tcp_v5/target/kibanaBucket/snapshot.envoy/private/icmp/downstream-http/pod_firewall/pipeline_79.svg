@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dns>
+  <session id="6cbf82">false</item>
+  <heap id="bc623b">scripts-artifact</item>
+  <dist id="dbabc4">true</item>
+  <templates id="9b7a5f">7446876d74f1059c</item>
+  <bench id="9dc984">b6b544623ddb96ea</item>
+  <prometheus id="3d0dd1">prometheus-vlan</item>
+  <tls id="d42d50">threadpool-iptables</item>
+  <ingress id="f787b9">token</item>
+  <nonce id="e53ae4">166.81.174.47</item>
+  <index id="304572">regex</item>
+  <edge id="1326d3">cert-helm</item>
+  <ceph id="8c58f4">batch</item>
+  <heap id="9b4e18">6511</item>
+  <role id="32c642">iptables</item>
+  <raid id="64b9f8">service-common</item>
+  <tcp id="ae47a9">192.162.94.89</item>
+  <runner id="07ea1c">null</item>
+  <nat id="01d3c3">parser-parser</item>
+  <cursor id="fb27be">threadpool-assets</item>
+  <table id="868a10">4511df11</item>
+  <kafka id="3af946">36.57.136.187</item>
+</root>

@@ -1,0 +1,16 @@
+hmac:
+  terraform:
+    ceph:
+      - true
+      - failover-helm
+      - null
+      - 9938
+    graphql: 23eb867f05c9fa2098cac26e101256ce
+    snapshot:
+      - sandbox-router
+      - 77f48bca4d80e534
+    firmware: 138
+    vxlan: iptables-core
+    column: true
+  controller:
+    tcp: 198.76.73.173

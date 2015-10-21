@@ -1,0 +1,67 @@
+pod:
+  mongo:
+    replica: true
+    request: null
+    index:
+      - 37.200.222.43
+      - null
+  service:
+    beta: b101bfdbb360ab58
+  group:
+    - true
+  user:
+    payload: 542
+    cache: response
+    mapper: 999
+    origin:
+      - 8025
+      - 4080
+factory:
+  cors: tests
+  kerberos: bbdae807
+  crypto:
+    crypto:
+      - factory-topic
+      - 6662df8e
+      - 170.238.225.198
+    threadpool:
+      topic: 3091
+  oauth: kernel
+  patch:
+    mqtt: 9044
+    buffer: true
+    nightly: hashmap
+    hmac: 608c7bde283b9293abd009c7eefd0dbf
+heap: 109.237.202.141
+worker:
+  salt:
+    cert:
+      runner: d5e1f976ae1c0bc512528b5a5f291814
+      quic: 407
+      bench: 150db651fda759b1e256a2dea1dddf20
+      snapshot: 87.218.38.63
+      mesh: schema-threadpool
+    locale: true
+    tenant: 117.252.31.52
+  proxy:
+    queue: 56.170.212.50
+    offset: alerts-aes
+    dhcp:
+      salt: 80.11.131.48
+    retry: locale
+  cron: 116.144.94.53
+  mirror:
+    vendor:
+      - 113.248.212.14
+      - tls
+    alerts:
+      stack: mesh-compiler
+      controller: true
+      loader: hashmap
+      hotfix:
+        - 52500abc52a99e8e
+      zfs: 5da2d73c
+    handler: 9b6613a4001399dfdc8ef5749d74ff11
+    socket: ad6fd94bc49e98a5
+cli: 5b5d5e94459a8eaccd462da5eb831c96
+stack: sha256-session

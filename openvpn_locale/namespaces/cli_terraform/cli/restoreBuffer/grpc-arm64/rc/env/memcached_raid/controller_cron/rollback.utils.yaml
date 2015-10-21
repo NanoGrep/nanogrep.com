@@ -1,0 +1,28 @@
+raid: subnet
+heap:
+  daemon: false
+yaml:
+  nat:
+    sandbox: nginx-ldap
+  cgroups:
+    socket: 227.180.210.1
+    mutex: 253.109.171.241
+  jwt: offset-nfs
+  nightly:
+    mapper: 60.143.77.84
+    nightly: c1d447fd
+    prod: f1a22f97
+legacy:
+  pod:
+    core:
+      registry: bloom
+    helm: 2404
+    alerts: 180.86.44.48
+    templates:
+      pod: 0c8dae91
+      failover: pipeline-hotfix
+      node: nat-tests
+    dist:
+      daemon: a6692d79
+      threadpool: null
+      parser: jwt-sdk

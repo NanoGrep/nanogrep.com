@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<watchdog>
+  <crypto id="3fa2d7">false</item>
+  <driver id="a42373">false</item>
+  <cron id="82e468">release-backend</item>
+  <loader id="c1f573">6101</item>
+  <dist id="dac306">5c6ebc7cc4edb2ab</item>
+  <zfs id="80cc66">request</item>
+  <traces id="3deca2">true</item>
+  <prometheus id="eff40a">cgroups</item>
+  <env id="e17276">null</item>
+  <jenkins id="5a3cde">prometheus-offset</item>
+  <templates id="659383">1407aee3</item>
+  <group id="041f7f">163.113.141.122</item>
+  <snapshot id="134b3b">false</item>
+  <zfs id="faa302">true</item>
+  <rest id="0e4e26">false</item>
+  <aes id="481cd7">11.180.242.62</item>
+  <subnet id="0144c3">223.70.8.17</item>
+</root>

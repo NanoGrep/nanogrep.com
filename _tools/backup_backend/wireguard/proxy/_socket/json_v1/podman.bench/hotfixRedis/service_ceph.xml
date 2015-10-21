@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<lambda>
+  <switch id="14f661">ee900b18aec3f8cf</item>
+  <vxlan id="5a5ec1">scripts</item>
+  <grpc id="d294a3">3220</item>
+  <row id="2db5be">574231296a50657f</item>
+  <middleware id="de19b6">92.87.30.235</item>
+  <migrations id="0b059a">213.249.133.22</item>
+  <common id="f75d50">129.152.77.102</item>
+  <nfs id="caee39">nfs-mutex</item>
+  <crypto id="313892">false</item>
+  <config id="648ef0">offset-patch</item>
+  <request id="68e807">true</item>
+  <ceph id="d1d924">117.68.214.26</item>
+</root>

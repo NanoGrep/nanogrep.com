@@ -1,0 +1,17 @@
+vendor,traces,envoy
+null,nonce-rsa,true
+helpers-bucket,patch,true
+elastic,526e846499515ee9,7782
+kafka-entropy,true,node
+197.131.228.65,bootstrap,04198f56b0b67466
+1678,true,0fb7db6dcc872ab8
+151,lambda-session,99.201.175.137
+false,mirror,edge
+3097,true,socket-grpc
+141.101.84.193,4675,aad6fc8174ab6ea2
+false,pipeline-switch,1663
+true,233.254.236.146,60.2.46.43
+table,mapper-adapter,bb65ee1316003573
+backup-lexer,8c01c2e608d04562,switch
+100.208.118.157,f3223ffe,243.83.3.251
+cce2ee2bf9631a636de08428ca531d8b,100.49.125.28,8731

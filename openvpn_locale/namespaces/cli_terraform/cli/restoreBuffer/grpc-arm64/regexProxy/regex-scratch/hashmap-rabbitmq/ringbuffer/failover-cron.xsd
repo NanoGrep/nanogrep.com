@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<registry>
+  <graphql id="17406c">a4cdffbd7a06eaa68008c89af336b992</item>
+  <origin id="bf0bb7">bootstrap</item>
+  <migrations id="3b6072">2c76da5e74a01800</item>
+  <backup id="1449b9">3581</item>
+  <cursor id="f2fb54">4443</item>
+  <session id="b1a8b4">false</item>
+  <aes id="9c040f">ae7a3d66</item>
+  <worker id="10cb37">2431</item>
+  <redis id="fede0d">f4a7781158c7bd5d</item>
+  <dns id="817695">lib</item>
+  <proxy id="07f90f">169.116.211.97</item>
+  <api id="f6f77a">mongo</item>
+  <beta id="e57f99">request</item>
+  <nat id="9d518e">70.211.78.208</item>
+  <staging id="09d48c">2569</item>
+</root>

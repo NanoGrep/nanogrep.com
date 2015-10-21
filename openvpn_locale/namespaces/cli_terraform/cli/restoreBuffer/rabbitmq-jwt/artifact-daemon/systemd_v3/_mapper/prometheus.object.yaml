@@ -1,0 +1,4 @@
+protobuf:
+  firewall: topic-nginx
+  controller:
+    socket: 234.241.237.135

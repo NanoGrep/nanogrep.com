@@ -1,0 +1,21 @@
+vendor:
+  table: daemon
+  compiler: tls
+  artifact:
+    nginx:
+      hashmap: 5070
+      patch: null
+      retry:
+        - retry-grpc
+        - logs-rest
+      coroutine: websocket
+      runner: true
+      ansible: ac13df9c7dd4c81d
+    router: 7779002b
+    artifact: false
+    firewall: rollback-topic
+mongo: 1101
+scripts:
+  metrics:
+    - rsa-cors
+    - c4bfefef

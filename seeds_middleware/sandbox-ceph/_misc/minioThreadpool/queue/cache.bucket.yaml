@@ -1,0 +1,45 @@
+firmware:
+  heap: salt-backup
+  rsa:
+    vendor:
+      driver: true
+      cli: true
+      coroutine: 2696
+    scripts:
+      kernel: null
+      cluster: true
+      worker: 96.91.142.99
+      mapper: 0b6d1cce
+      rollback:
+        - 167.170.247.195
+        - queue-lexer
+    hotfix: 3258aba8
+    systemd:
+      topic: 3483
+      build: middleware
+      trie: 7692
+      kafka: be5e5822
+      pod:
+        - jenkins-lib
+        - 297
+    legacy: false
+schema:
+  - 137.42.43.70
+  - null
+  - 2132
+websocket:
+  tests: protobuf
+  protobuf:
+    dist:
+      socket: 7300
+      sandbox:
+        - utils
+        - b760d3c3
+      socket: 40.91.114.141
+    cron: 5475
+  lexer:
+    zfs: session
+  semaphore: 0f59e0cf19e2dff7
+  fixtures: zfs-rest
+mapper: 79.42.97.119
+bootstrap: 1494db870ac1c77b8ebbf7c7638a3427

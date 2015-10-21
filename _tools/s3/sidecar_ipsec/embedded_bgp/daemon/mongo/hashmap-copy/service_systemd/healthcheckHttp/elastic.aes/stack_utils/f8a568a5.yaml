@@ -1,0 +1,33 @@
+bgp:
+  crypto:
+    middleware: 6595
+    ansible:
+      loader: true
+      limit: null
+    release: 78947381
+    vendor: true
+nat: 239.39.173.58
+firewall: true
+trie:
+  probe: response-ldap
+  lambda: cgroups
+  crypto: cluster-helpers
+  cli:
+    bucket: traces-factory
+    env: true
+    helm:
+      protobuf:
+        - 4453
+      protobuf: 1207
+      dhcp: true
+      volume: nonce
+      mysql: 9ddc76cab8a200d3
+      parser: true
+    postgres: 2966
+    cluster: 170.182.119.42
+    grpc: 137.167.80.180
+  redis: d6e207fa
+  postgres:
+    - elastic-envoy
+    - vault
+    - grpc

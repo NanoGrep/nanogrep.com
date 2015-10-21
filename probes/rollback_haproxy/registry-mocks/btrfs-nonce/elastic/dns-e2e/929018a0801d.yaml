@@ -1,0 +1,3 @@
+driver: kerberos-cookie
+common: ceph-user
+bench: 774

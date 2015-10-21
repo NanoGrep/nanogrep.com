@@ -1,0 +1,30 @@
+{
+  "scheduler": {
+    "audit": {
+      "postgres": 8767,
+      "entropy": "9df31acefe89",
+      "common": [],
+      "locale": {
+        "redis": true,
+        "trie": false,
+        "proxy": "4c4166f8ca03",
+        "stack": "patch"
+      },
+      "mapper": [
+        null
+      ],
+      "vlan": [
+        true
+      ]
+    },
+    "column": {
+      "index": true,
+      "nat": {
+        "vendor": true
+      }
+    },
+    "hashmap": 6714,
+    "mongo": "driver"
+  },
+  "iptables": []
+}

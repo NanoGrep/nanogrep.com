@@ -1,0 +1,31 @@
+table: 6f2bbb960b68a0d4663feccc8aaa4dec
+vendor:
+  systemd: vxlan-salt
+  upstream:
+    mirror:
+      helpers: 7013f531a58b5ac3
+      buffer: true
+      cookie: 160.60.128.193
+      legacy:
+        - true
+        - 28.127.48.145
+        - 187.32.80.106
+        - proxy-scope
+    hashmap:
+      utils: grpc
+      quic: loader-api
+      snapshot: 50.103.104.235
+    vlan: driver
+    pipeline: b07d7c2beab68660
+    frontend: true
+    replica: 8931
+  tls:
+    - 164.143.12.138
+    - 1139
+cert: 111.74.225.150
+tenant:
+  - grafana
+  - null
+  - 207.111.84.4
+  - 128.130.184.214
+batch: nfs-mysql

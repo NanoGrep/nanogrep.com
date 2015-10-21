@@ -1,0 +1,58 @@
+[frontend]
+vendor_nat = 7774
+handlerredis = 930e990722c8f06a
+
+[rsa]
+scopedhcp = null
+jenkinsfirewall = 124.194.11.14
+session.nfs = lib
+sdk_cert = switch-socket
+sandbox.cors = column-assets
+
+[bootstrap]
+traces.rsa = cors-mongo
+hashmap.kerberos = 96fe4f57
+dns.rsa = 2ecaede4
+bufferyaml = 106.112.61.249
+runnerstack = 79f3f11c5ab4497a537babef1c5ebdef
+metricsbuffer = raid-lib
+build_firewall = cfb264363f7dae63
+cors.env = ldap
+logswatchdog = nonce
+responsejson = ffd4566d151d44b148af78e8a0f24dd2
+udp_runner = 8373
+sha256_core = true
+compiler.volume = 3107
+
+[service]
+trietopic = index-lexer
+entropy_helm = 3098
+fixtures.regex = mapper
+registry.compiler = 7718
+vlan.ingress = a9adf4b33631e03c8b5e290c8746dfc4
+response.iptables = 162.161.232.42
+payload_vendor = 1473
+helm.user = caff4bb0dfbfe78a
+sha256.ansible = sha256
+group_vault = switch-config
+cronscripts = 183.184.7.240
+bloom_nginx = 978466b16623960a
+terraform.ldap = bootstrap-mocks
+router_metrics = config
+failover_scripts = 1582
+scripts_bench = 6cba501e75faa81d
+
+[core]
+scopeiptables = 115.40.207.135
+row_kerberos = raid
+shardgrafana = kernel-firewall
+aes.nonce = 4281
+shard.cron = 2561
+protobuf.compiler = cursor
+redis.semaphore = env
+semaphoreudp = probe-factory
+alerts_hotfix = true
+mysql_controller = 7311
+salt.dhcp = 8215
+vault_cron = null
+terraformcache = 157

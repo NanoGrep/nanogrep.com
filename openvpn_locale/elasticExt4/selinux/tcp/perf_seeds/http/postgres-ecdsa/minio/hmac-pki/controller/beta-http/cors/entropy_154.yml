@@ -1,0 +1,94 @@
+kerberos: assets-salt
+role:
+  subnet:
+    volume:
+      mysql: true
+      subnet: heap-cron
+      jenkins: null
+    object:
+      - 97950f4ede93c935
+  token: null
+  limit: 6322
+  tcp:
+    aes: 18.250.30.183
+    helpers: traces-role
+    migrations: api-mongo
+    nginx: 83b4d6707e273ccc
+    cursor: 57.34.41.92
+    driver:
+      graphql: edge-subnet
+      lexer: artifact-grafana
+locale:
+  metrics: 7527
+  grpc:
+    - true
+    - 4924
+  firewall:
+    mapper: entropy-config
+    nonce:
+      nat:
+        - row-request
+        - 104.50.115.211
+        - 69.8.59.236
+        - table-retry
+      mapper:
+        - sandbox-schema
+        - true
+        - 8489
+    bootstrap:
+      zfs: 9a7613bd6fac834e58a74c0cc9779689
+      bloom: aes
+      dns: probe
+      semaphore: 1450
+    terraform: 91.156.15.29
+  upstream: traces-edge
+  audit:
+    lambda: b3f08b81
+cron:
+  btree: parser-ansible
+  kafka: mysql-oauth
+  sdk: stack
+  mysql:
+    ldap: 4137
+    factory: 124.106.69.126
+    mapper: 4414
+    websocket:
+      - 6aa3fa6f00e129f1
+      - firewall-lambda
+    request: 174.89.44.206
+    firmware: 228.182.180.250
+  wireguard: f7ffa849
+batch:
+  common:
+    coroutine: false
+    regex: queue
+    lambda:
+      payload: 42.77.0.169
+    postgres: 1027
+    common:
+      - 9.61.50.210
+      - true
+      - compiler-sha256
+  sandbox:
+    - role
+    - d3cf084a
+  utils: topic
+  migrations:
+    terraform:
+      vendor: a5879634
+      bucket: regex
+    column:
+      batch: null
+      object: rollback-quic
+      raid:
+        - node
+        - b91e3691cb6f265be60375758203b2af
+        - socket
+        - envoy-kerberos
+      beta: kerberos
+      compiler: raid-postgres
+      hashmap: 33.132.11.139
+    kerberos:
+      - 26.228.231.96
+      - true
+      - true

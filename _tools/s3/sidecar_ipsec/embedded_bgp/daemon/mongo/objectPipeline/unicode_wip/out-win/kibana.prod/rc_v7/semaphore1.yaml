@@ -1,0 +1,14 @@
+backup:
+  batch:
+    kafka: true
+    compiler:
+      - 4905
+      - 78.92.9.103
+    postgres: ansible
+    group: null
+    legacy: graphql-cache
+  oauth: vault-node
+  helm: firewall
+  pod: sha256
+  tools: 105.219.160.220
+  utils: true

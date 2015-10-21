@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<group>
+  <legacy id="1c15c9">true</item>
+  <tcp id="01a0bc">4360</item>
+  <gateway id="b0e8a8">df68bea2</item>
+  <subnet id="8ecf19">132.249.145.159</item>
+  <tenant id="41f801">cookie</item>
+  <tls id="d90ef3">7beeb6c6</item>
+  <sha256 id="8deeb4">websocket-artifact</item>
+  <tls id="b3664a">false</item>
+  <column id="31d2ff">200.37.193.182</item>
+  <snapshot id="537146">prometheus</item>
+  <daemon id="63c53c">heap-kafka</item>
+  <column id="7905e8">raid</item>
+  <pod id="277e1e">7.193.232.116</item>
+  <nat id="9401ff">middleware</item>
+  <queue id="fbd0ac">151.227.247.238</item>
+  <beta id="ab429f">scheduler-nginx</item>
+  <kerberos id="30386e">replica</item>
+  <adapter id="073983">4a47b7de2e194ed83b9c30ff0e68b8f3</item>
+  <kerberos id="289c2c">null</item>
+  <scheduler id="68f2f8">111.32.154.70</item>
+</root>

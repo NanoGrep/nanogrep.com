@@ -1,0 +1,38 @@
+quic:
+  udp: 5c3a09c7a2f8c16fd87e3a17c2c36475
+  scheduler:
+    service: service
+    nat: 174.146.86.30
+    nfs: postgres-regex
+    nat:
+      semaphore: 7970
+      env: 212.149.216.26
+      factory:
+        - true
+      oauth: tls
+    cert: 67a31b7b
+  fixtures:
+    lambda:
+      nfs: b2296375cdbdff6b26b325e4672b5766
+      policy: vxlan
+    worker: 132.148.178.217
+    retry:
+      staging: 1805
+      quic: token-buffer
+  hashmap: 176.119.204.205
+  tcp:
+    - f3b4fdf9
+    - 31.108.217.159
+cert:
+  - http-queue
+  - 245.68.241.32
+  - cron
+crypto:
+  - vlan
+  - 12.54.120.70
+graphql:
+  mirror:
+    - 918284d9
+    - sha256
+  mongo: 1351
+  node: 134.90.163.102

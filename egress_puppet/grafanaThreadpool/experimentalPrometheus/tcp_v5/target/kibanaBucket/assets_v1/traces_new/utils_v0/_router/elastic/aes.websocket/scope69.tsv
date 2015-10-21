@@ -1,0 +1,7 @@
+helm,terraform,origin,nightly,envoy,dns,systemd
+helpers-vxlan,4083,batch-cache,6631,6339,97fbb0b0,limit-replica
+135.66.250.123,6932,migrations-prometheus,147.145.239.201,226.133.64.106,6ba66561653969bf452a8c58fc823390,89.192.138.176
+b30df16517f0b6a3,b0ede6d6f9437c2c4dd9011bfb1292a0,61.172.4.105,mqtt,sha256,legacy-common,7891
+compiler,false,06a78637d40bdc390098621fadf90a0c,eadcd97872ddfbb6,sdk-elastic,pod,true
+false,grafana,cgroups,cert-tcp,2159,bgp,c63df81ab9b8ff96fe24adc5ae5aaecd
+2844,null,1863,stream,hotfix-snapshot,bucket,true

@@ -1,0 +1,56 @@
+audit:
+  bench: trie-threadpool
+hmac: queue
+probe:
+  router: 250.197.222.243
+  scripts:
+    fixtures:
+      dns: 32.152.216.157
+      watchdog:
+        - raid
+        - assets-ansible
+        - 6519
+        - ac8124da
+      cors: true
+      rest: 86a340f5eedda49a69793ad1067114eb
+      schema: nginx
+      core: build
+    tests: 8498
+    handler: 99c62bb1
+    dhcp: registry
+  nfs:
+    - false
+    - sandbox
+index: 2696
+router:
+  pod: 333
+  schema:
+    - session-cursor
+    - 162.195.73.189
+    - ansible-entropy
+  shard:
+    migrations:
+      protobuf: middleware-kernel
+      common: 356de3a48ef8c3d4f8b114844ce17f0a
+    queue:
+      migrations: 7170
+      migrations:
+        - wireguard
+        - probe
+      alerts: 4806
+      handler: helm-tls
+      offset: ldap-core
+      locale: hmac
+    dhcp: kafka
+    cluster: b0e193925c8c7757ec3d09b377343dac
+prometheus:
+  traces: 3405
+  elastic: frontend
+  socket:
+    ceph:
+      - nfs
+      - 462a791637ddb65e
+      - 7244
+      - nat-logs
+  wireguard: 230.140.96.15
+  regex: 3373

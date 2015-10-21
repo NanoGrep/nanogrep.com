@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<proxy>
+  <envoy id="96c568">mapper-nginx</item>
+  <origin id="c14dcf">salt-vault</item>
+  <switch id="0f8f11">d777c24744ad07bf</item>
+  <cluster id="515734">9619</item>
+  <daemon id="014507">ingress</item>
+  <volume id="7648c4">186.246.130.135</item>
+  <parser id="5fb3ab">8327</item>
+  <driver id="4e58cf">113.4.106.156</item>
+  <cert id="6e3938">null</item>
+  <nginx id="b580b2">null</item>
+  <snapshot id="9d0d01">false</item>
+  <nonce id="b1d176">4003</item>
+  <heap id="475fc7">replica</item>
+  <vendor id="3c570a">e793e61a7876c63d</item>
+  <router id="42b179">5e656c1e</item>
+  <lambda id="349ea4">6561</item>
+  <factory id="e3800f">router-utils</item>
+  <mutex id="7d6563">registry-ingress</item>
+  <kafka id="b57081">9157</item>
+  <semaphore id="06ad71">build</item>
+</root>

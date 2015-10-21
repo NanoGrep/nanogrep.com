@@ -1,0 +1,47 @@
+[rsa]
+token_ceph = 30.2.16.222
+routerjson = null
+sessionsocket = column-nfs
+storage_kerberos = 219.47.191.178
+distpayload = nfs
+mirrorprotobuf = 40645869
+backend.btree = 5128
+factory_kernel = migrations
+rest.artifact = 117.160.197.169
+controller_build = false
+mysqlpayload = websocket
+firewallsdk = 253.43.41.71
+libkerberos = regex
+http.hotfix = false
+tracesmetrics = false
+udp_assets = 1444
+tls.lexer = 978
+sha256vendor = 3052
+trie_systemd = backup-session
+legacyfrontend = 108.47.30.178
+cache.terraform = a42af1e6435df3eb24f6cbab4443b67d
+mocks.scope = 15fe9f8d
+prod.retry = a7795ed3741fdf932a70278704ea1b4b
+helmcommon = 139.241.166.38
+core_cert = c3f53150a67bd314
+driver.fuzz = false
+assets.cli = 1ca146f8bb972fa7
+mesh.wireguard = 3763
+legacy.salt = 9805
+
+[common]
+pipelinenginx = env-bootstrap
+prometheusprotobuf = 2826
+nat.fixtures = 2623
+envoyiptables = adapter
+limit.vault = 6d7aac42d6ad330cd317e6268705d3ef
+lambda.object = 1849699b62d26c32
+sha256.config = 9e899349ff0795f5
+rollback_factory = 86.91.207.139
+worker.templates = assets
+origin.tests = 240.76.206.133
+compilermesh = false
+mutex_service = migrations-socket
+switch_zfs = compiler-node
+hotfix.rsa = response
+edge_mapper = 1.81.159.91

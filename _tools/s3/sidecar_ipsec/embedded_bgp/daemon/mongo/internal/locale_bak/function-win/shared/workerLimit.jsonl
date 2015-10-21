@@ -1,0 +1,78 @@
+[
+  null,
+  [
+    null,
+    null,
+    {
+      "utils": {
+        "salt": "yaml",
+        "upstream": null
+      },
+      "salt": "5df6c41dd71a",
+      "router": false,
+      "mocks": "306a230396e4"
+    }
+  ],
+  [
+    {
+      "tests": {
+        "kafka": null,
+        "quic": true
+      },
+      "terraform": "6df28932f075",
+      "ingress": false,
+      "quic": {
+        "trie": "hmac"
+      },
+      "bgp": {
+        "storage": 4590,
+        "locale": null,
+        "firmware": "769c6f7d8b67",
+        "logs": "adc8c024d470"
+      }
+    },
+    {
+      "envoy": {
+        "metrics": 9978,
+        "nginx": 1108,
+        "stack": false
+      },
+      "hmac": {
+        "mqtt": true,
+        "schema": "602b7322b5d4"
+      },
+      "nonce": [],
+      "daemon": true,
+      "alerts": null,
+      "probe": {
+        "cookie": 4661,
+        "metrics": true,
+        "driver": true
+      }
+    },
+    null,
+    {
+      "bucket": {
+        "alerts": false,
+        "backend": "cluster",
+        "jenkins": 589,
+        "mapper": true,
+        "prod": true,
+        "pod": "db65a58bcb81"
+      },
+      "backend": null,
+      "tenant": {
+        "driver": "audit",
+        "artifact": false
+      },
+      "release": {
+        "vlan": 9828,
+        "storage": "nonce",
+        "failover": false,
+        "lexer": true,
+        "tools": "b7bc4026f80b"
+      },
+      "jwt": []
+    }
+  ]
+]

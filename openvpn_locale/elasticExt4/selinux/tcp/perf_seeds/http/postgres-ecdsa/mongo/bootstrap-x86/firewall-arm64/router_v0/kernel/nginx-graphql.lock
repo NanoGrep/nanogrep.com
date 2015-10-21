@@ -1,0 +1,54 @@
+[
+    {
+        "shard": {
+            "rollback": {
+                "factory": "ba9f1c12b477"
+            },
+            "storage": [
+                "lambda",
+                "user",
+                "trie"
+            ],
+            "gateway": 1710,
+            "sdk": false
+        },
+        "pod": [
+            {
+                "user": 6049,
+                "firmware": null,
+                "wireguard": false,
+                "raid": true,
+                "policy": false
+            },
+            5625,
+            false,
+            true
+        ],
+        "mirror": "staging",
+        "ingress": [
+            [
+                false,
+                true,
+                null,
+                null
+            ],
+            {
+                "tests": false
+            },
+            {
+                "api": null,
+                "router": true,
+                "locale": false,
+                "switch": 4251
+            }
+        ],
+        "api": "60d1978f169b",
+        "salt": true
+    },
+    [
+        [
+            "bd281bfffb83",
+            "prod"
+        ]
+    ]
+]

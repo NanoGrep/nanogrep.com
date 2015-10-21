@@ -1,0 +1,8 @@
+utils: assets-nfs
+websocket: sandbox-lambda
+handler: 74.141.71.90
+ldap:
+  prometheus: nightly
+  controller: f8dae063e2708265afc53131157a0fff
+ansible: 192.31.90.222
+adapter: json-handler

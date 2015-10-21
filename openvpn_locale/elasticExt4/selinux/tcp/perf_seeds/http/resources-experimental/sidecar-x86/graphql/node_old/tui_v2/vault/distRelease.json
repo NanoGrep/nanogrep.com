@@ -1,0 +1,65 @@
+{
+    "kerberos": true,
+    "lib": {
+        "queue": {
+            "role": false,
+            "graphql": {
+                "vlan": false,
+                "backend": "620356e4b41b",
+                "cron": 3016,
+                "adapter": "68762d0b1ad0",
+                "jenkins": "8d9b4189915e"
+            },
+            "payload": {
+                "json": 6561,
+                "coroutine": null,
+                "ceph": true,
+                "response": null,
+                "helpers": null
+            }
+        }
+    },
+    "node": [
+        {
+            "grpc": 5420,
+            "common": true,
+            "buffer": "ldap",
+            "cgroups": null,
+            "snapshot": false
+        },
+        {
+            "limit": {
+                "nginx": true,
+                "fixtures": 9165,
+                "patch": null
+            },
+            "proxy": {
+                "ceph": true
+            },
+            "scope": {
+                "terraform": null
+            },
+            "tools": null,
+            "rollback": "router",
+            "nfs": true
+        },
+        [
+            [
+                null
+            ],
+            [
+                "response"
+            ]
+        ],
+        {
+            "bgp": {
+                "lib": true,
+                "cli": true,
+                "yaml": null,
+                "aes": true,
+                "node": "router",
+                "controller": false
+            }
+        }
+    ]
+}

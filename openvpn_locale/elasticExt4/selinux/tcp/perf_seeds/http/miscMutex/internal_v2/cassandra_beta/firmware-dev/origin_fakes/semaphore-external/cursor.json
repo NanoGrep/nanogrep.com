@@ -1,0 +1,64 @@
+{
+    "tenant": "c4e67cbcbe17",
+    "vendor": {
+        "sdk": "ae35319f5165",
+        "heap": 5062,
+        "bloom": {
+            "bench": {
+                "offset": 9283,
+                "core": "c1b2309e40c8",
+                "backup": 4323,
+                "backend": "fc42fcf623a4"
+            },
+            "rsa": {
+                "cgroups": null,
+                "adapter": false,
+                "retry": "27be0f91124e",
+                "prometheus": null,
+                "nonce": 9207
+            },
+            "pipeline": true,
+            "ceph": {
+                "envoy": true,
+                "parser": 6148,
+                "volume": "ecb175e4d144",
+                "coroutine": "bootstrap"
+            }
+        },
+        "common": {
+            "driver": {
+                "retry": 8031,
+                "nfs": null
+            },
+            "token": [
+                "9e5db2b30e35",
+                false,
+                null,
+                false
+            ]
+        },
+        "lib": "queue"
+    },
+    "bloom": {
+        "replica": "firmware",
+        "token": {
+            "proxy": "5676f4a3bfcd",
+            "node": [],
+            "grpc": {
+                "json": true,
+                "redis": null,
+                "driver": true,
+                "watchdog": "proxy",
+                "rollback": true,
+                "dns": null
+            },
+            "graphql": false
+        }
+    },
+    "tls": {
+        "buffer": [],
+        "gateway": 3540
+    },
+    "bgp": "role",
+    "locale": "postgres"
+}

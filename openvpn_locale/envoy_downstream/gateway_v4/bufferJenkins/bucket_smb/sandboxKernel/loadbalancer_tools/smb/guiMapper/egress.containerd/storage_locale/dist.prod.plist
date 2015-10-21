@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<mqtt>
+  <registry id="1c246c">ingress</item>
+  <policy id="e4c96a">alerts-udp</item>
+  <batch id="94dfaa">6acd84a1</item>
+  <dhcp id="343180">7135</item>
+  <mocks id="738afa">lexer-watchdog</item>
+  <mongo id="7d8e3c">true</item>
+  <probe id="fb9f69">true</item>
+  <row id="68ec1d">patch-iptables</item>
+  <vendor id="00edd9">236.81.32.248</item>
+  <token id="523b3b">62496541711e8c9aa8a428a8246fcb4b</item>
+  <envoy id="3d18a0">3224</item>
+  <alerts id="08f91c">null</item>
+  <nfs id="fd47c0">redis-dhcp</item>
+  <cors id="f320ce">tcp-scope</item>
+  <btree id="212389">daemon</item>
+  <quic id="d41da4">mqtt-worker</item>
+  <fixtures id="fedd9f">f679b171</item>
+  <bgp id="fb0e58">7452</item>
+  <helm id="1c15a0">cache</item>
+  <helm id="20ac5d">beta-semaphore</item>
+</root>

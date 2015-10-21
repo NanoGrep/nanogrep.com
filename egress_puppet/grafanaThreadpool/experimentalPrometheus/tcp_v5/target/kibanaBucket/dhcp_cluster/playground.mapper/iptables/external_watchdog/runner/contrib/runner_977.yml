@@ -1,0 +1,4 @@
+json:
+  policy:
+    socket: null
+    heap: mqtt

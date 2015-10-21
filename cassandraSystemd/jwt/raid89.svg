@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<json>
+  <probe id="aaa166">9921</item>
+  <tenant id="3f36ae">157.153.39.254</item>
+  <controller id="d2f712">df07d8e1f8c6182a</item>
+  <ansible id="e3ce7f">91b282fd656f5b21</item>
+  <nat id="9f20ca">6293</item>
+  <router id="66b5a8">ingress</item>
+  <nfs id="30eae2">mesh-core</item>
+  <http id="99e1c2">9449</item>
+  <ceph id="6ff5fb">true</item>
+  <factory id="c597be">null</item>
+  <user id="9f682a">b6926e29de93503d13f4398fce230a3c</item>
+  <shard id="e6c6ca">utils-controller</item>
+  <batch id="a66d8a">16.232.15.21</item>
+  <rollback id="8ec2d7">1205</item>
+  <mirror id="af7dcc">4541</item>
+  <tcp id="374cbe">46.205.138.131</item>
+  <bgp id="4113f4">pipeline-backend</item>
+  <origin id="219da2">null</item>
+  <dhcp id="b4afdc">31.130.92.59</item>
+  <pod id="2ee340">3b70a1635fcff9f2</item>
+  <edge id="196894">kernel-fixtures</item>
+  <logs id="2c41d7">true</item>
+  <user id="721440">153.18.239.32</item>
+</root>

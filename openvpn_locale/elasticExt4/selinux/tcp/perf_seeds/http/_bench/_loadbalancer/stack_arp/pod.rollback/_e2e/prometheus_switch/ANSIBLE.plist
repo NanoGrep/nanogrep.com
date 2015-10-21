@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<graphql>
+  <table id="6c777e">role-scripts</item>
+  <stream id="2a0b9d">968c0cf3ac4cf463</item>
+  <iptables id="6802de">80.22.169.60</item>
+  <helm id="419d94">189.161.53.110</item>
+  <worker id="e42a38">firewall-bench</item>
+  <grafana id="a9fe8f">null</item>
+  <offset id="f6bbcc">api-hmac</item>
+  <firewall id="371899">sdk</item>
+  <scripts id="6f2a9c">3529</item>
+</root>

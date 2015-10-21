@@ -1,0 +1,25 @@
+api: bb669067
+nonce:
+  shard: 5021
+  controller: pipeline
+  raid: cursor
+  firmware: 134.46.158.82
+  mirror:
+    ingress:
+      templates: true
+      kernel: 757
+    factory: 160.120.144.65
+    cron: null
+    vendor:
+      traces: 66.216.114.67
+      wireguard: 199.193.169.14
+      sdk: 6514
+      systemd: ingress
+      node: origin
+    vendor:
+      dhcp: yaml-legacy
+      env: patch
+  watchdog: 41.31.104.251
+templates: 122.182.252.115
+nfs: 1497
+helm: false

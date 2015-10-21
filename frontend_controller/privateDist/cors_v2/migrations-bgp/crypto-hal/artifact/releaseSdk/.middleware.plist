@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zfs>
+  <dist id="5f8d34">redis-elastic</item>
+  <nonce id="08d3a6">7408a3e714deca5e</item>
+  <user id="927d3c">8182</item>
+  <socket id="5d386b">topic</item>
+  <heap id="eb93d9">registry-canary</item>
+  <group id="be9a89">53.22.74.151</item>
+  <router id="383570">ldap</item>
+  <mysql id="c74511">951</item>
+  <vault id="4b1a57">8618</item>
+  <driver id="2e6160">runner</item>
+  <nat id="8bf6d2">bbe39395bd361428209de7c09722b4bf</item>
+  <jenkins id="404a1a">9610</item>
+  <regex id="c694dc">true</item>
+  <bench id="f92d89">2a521ba5</item>
+</root>

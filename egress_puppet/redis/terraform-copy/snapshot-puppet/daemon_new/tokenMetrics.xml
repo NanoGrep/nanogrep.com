@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<factory>
+  <pod id="53cd19">failover-udp</item>
+  <schema id="163143">249.69.197.165</item>
+  <router id="8bbbb2">216.230.134.210</item>
+  <vlan id="f914b8">42.144.148.244</item>
+  <bench id="b1821a">107.224.101.203</item>
+  <protobuf id="9c5478">true</item>
+  <replica id="efac1d">false</item>
+  <kerberos id="8e2de4">rollback-daemon</item>
+  <heap id="51c3ff">e5ddbd1fdbc7da01</item>
+  <nat id="8d3e9c">f374ff7c9a25461c530910c77333698d</item>
+  <node id="6c7f98">7268</item>
+  <mapper id="2f5c06">6143</item>
+  <origin id="b452b5">cgroups-kerberos</item>
+  <sdk id="e3f841">true</item>
+  <nginx id="709ba9">4170</item>
+</root>

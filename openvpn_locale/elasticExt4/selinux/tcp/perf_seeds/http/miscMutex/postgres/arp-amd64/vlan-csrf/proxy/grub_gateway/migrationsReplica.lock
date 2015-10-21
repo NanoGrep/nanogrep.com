@@ -1,0 +1,60 @@
+[
+  [
+    false
+  ],
+  {
+    "cluster": [
+      6742
+    ],
+    "response": {
+      "hotfix": {
+        "graphql": null,
+        "assets": "yaml",
+        "build": 2478,
+        "snapshot": true,
+        "hmac": "prod",
+        "worker": false
+      },
+      "aes": false,
+      "mongo": false,
+      "jwt": true,
+      "parser": {
+        "vxlan": null,
+        "controller": null,
+        "token": "bootstrap",
+        "core": null,
+        "row": true
+      }
+    },
+    "proxy": null,
+    "audit": {
+      "ceph": "0197e8611c50",
+      "topic": {
+        "probe": "0f7d2f82aabd",
+        "kerberos": "canary",
+        "lexer": true,
+        "cert": null,
+        "retry": false
+      },
+      "controller": true,
+      "mirror": {
+        "oauth": false
+      },
+      "elastic": true,
+      "group": {
+        "stack": "a6f6d1bd4418"
+      }
+    },
+    "payload": {
+      "rest": [
+        false,
+        "helpers"
+      ]
+    },
+    "service": {
+      "sha256": {
+        "templates": "regex"
+      }
+    }
+  }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<backup>
+  <terraform id="5006c0">179.49.242.13</item>
+  <raid id="826e1f">1451</item>
+  <vlan id="cb92e9">122.2.9.36</item>
+  <ansible id="a5b337">90.3.77.189</item>
+  <object id="e3bf08">false</item>
+  <daemon id="8489bc">180.152.154.152</item>
+  <protobuf id="c6a7d4">51afdac6f6f8d39d</item>
+  <protobuf id="591a99">false</item>
+  <parser id="c1cadc">false</item>
+  <session id="5b61a7">e3dd4ccc</item>
+  <crypto id="f57674">dhcp</item>
+  <firmware id="77e244">9fec28d2</item>
+  <registry id="43aff4">request</item>
+  <patch id="568df5">4237</item>
+  <tests id="99a31c">false</item>
+  <beta id="1cfb6e">611</item>
+  <mesh id="6ef1e6">0c20c6dd3d4a317dca7b3896dc45c22e</item>
+  <mqtt id="683835">utils</item>
+  <core id="e9e447">threadpool</item>
+</root>

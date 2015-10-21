@@ -1,0 +1,76 @@
+{
+    "cli": {
+        "alerts": [
+            "yaml",
+            {
+                "elastic": 7917,
+                "worker": 7458,
+                "rsa": "watchdog",
+                "staging": false,
+                "mesh": "lib",
+                "oauth": "2cfebe150132"
+            },
+            [
+                "origin",
+                true,
+                2963,
+                "semaphore"
+            ],
+            {
+                "canary": null,
+                "cert": false,
+                "http": "ceph",
+                "buffer": false
+            }
+        ],
+        "factory": [
+            {
+                "coroutine": "7d7de781c5f6",
+                "firmware": 8046,
+                "mqtt": null,
+                "compiler": "edge",
+                "bootstrap": true,
+                "payload": "volume"
+            }
+        ],
+        "tools": [
+            [
+                false,
+                true,
+                83,
+                "pipeline"
+            ],
+            {
+                "cursor": 1627,
+                "topic": true,
+                "coroutine": "failover",
+                "kerberos": null
+            },
+            [
+                37,
+                true,
+                null
+            ]
+        ],
+        "elastic": {
+            "user": [
+                "limit"
+            ],
+            "hotfix": null,
+            "sandbox": {
+                "request": false,
+                "traces": "prod",
+                "cache": false
+            },
+            "cors": true,
+            "kafka": {
+                "daemon": false,
+                "bench": "schema"
+            }
+        },
+        "role": {
+            "vxlan": true
+        }
+    },
+    "cgroups": "f53741bc5147"
+}

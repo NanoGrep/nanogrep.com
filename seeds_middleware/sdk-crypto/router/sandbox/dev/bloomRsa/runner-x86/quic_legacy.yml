@@ -1,0 +1,33 @@
+vxlan:
+  response: build-vxlan
+  vault: 222.35.196.51
+  crypto:
+    scheduler:
+      protobuf: mongo-sdk
+      user:
+        - backend-pipeline
+      trie:
+        - 1564
+        - 30af35eebce2fe5198bd02ea91b7b518
+        - 65.61.101.132
+    crypto:
+      stack: 9760
+      cluster:
+        - postgres
+        - 7841
+      vendor:
+        - 562
+      driver: udp-limit
+      snapshot:
+        - null
+        - true
+        - hmac
+    service: jenkins-nat
+  payload:
+    - 136.74.100.56
+    - adapter
+    - logs
+    - false
+  mysql:
+    - cb38cf6e45830147
+release: 5112

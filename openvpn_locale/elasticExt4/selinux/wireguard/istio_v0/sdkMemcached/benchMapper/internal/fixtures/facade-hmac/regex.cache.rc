@@ -1,0 +1,5 @@
+frontendservice: 67.107.143.220
+postgresfrontend: 4e1feb4dbcc1f256
+semaphore_threadpool: 3489
+cert_watchdog: sdk-heap
+controllercontroller: fuzz-service

@@ -1,0 +1,40 @@
+limit:
+  dist:
+    mqtt:
+      bloom: 4374
+      tls: 49
+      cert: yaml
+      iptables:
+        - 0fb4cf25471bcba1
+        - vault
+        - session
+      bgp: 109.31.86.48
+    retry: policy-zfs
+    grafana: false
+    assets: true
+    graphql: 4272
+  request:
+    index: true
+    canary: false
+    regex: 23.140.139.192
+    replica: be42d7598b9a1814
+    lexer: cce1932ffc712664
+  legacy:
+    nat:
+      crypto: policy
+      buffer: 2ca5157d601e06b2
+      wireguard: 82.39.10.99
+      nightly:
+        - failover
+    nginx: 961
+    templates: b7ed410f6a59f907
+  utils:
+    - traces
+    - mapper-protobuf
+  traces:
+    - 7.10.26.249
+    - 4283
+utils:
+  templates: 47c51c1c
+  scheduler: 5731
+  mongo: 116.167.234.163

@@ -1,0 +1,47 @@
+rsa: 425
+dhcp:
+  api:
+    compiler: kafka-postgres
+    jwt:
+      - 6027
+      - 7587
+    fuzz:
+      btree: 81.76.189.199
+      origin: 4b415bdb03073080f86ad6fa932a6771
+      fixtures: 4444
+    loader: 2753
+    entropy: ebdbeb13
+  mutex:
+    http:
+      sha256: 661
+      limit: ecd1502b80c626c4
+    mesh: null
+    cors: 36.221.241.17
+    cursor:
+      router: quic-bootstrap
+      mapper: 2635
+  sandbox:
+    edge: ed1b77da10357748
+    bloom:
+      helpers: subnet
+      oauth: true
+      nginx: 2006b8e96a32577bacf8794de260f601
+      heap:
+        - json-backup
+        - rsa
+      rollback: 90
+      ingress: 5f5b715172a538d9f8631911ca49cefd
+    frontend:
+      proxy: 1006
+      bench: null
+      topic: vendor-node
+      watchdog: 754d1ba0
+      kerberos: bloom-row
+  storage: worker-kafka
+  parser:
+    http: oauth
+    socket: mysql-tenant
+    terraform: e35a7fde1b0be638681fdec80686b334
+    audit: staging-index
+    session: true
+  protobuf: mapper

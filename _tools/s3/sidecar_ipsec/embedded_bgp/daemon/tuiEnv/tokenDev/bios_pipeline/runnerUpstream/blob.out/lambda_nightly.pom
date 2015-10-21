@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<scheduler>
+  <request id="2d956f">fc70f68abafedcc6</item>
+  <handler id="78bae5">systemd-topic</item>
+  <nightly id="842f61">8d9cd2bdd31547c059ecbdb15215b28f</item>
+  <object id="0e41c9">b1ae0bd1</item>
+  <staging id="bde268">null</item>
+  <staging id="15007e">jwt</item>
+  <cluster id="a73af0">payload</item>
+  <driver id="95159e">envoy-mapper</item>
+  <snapshot id="96fff7">7162</item>
+  <snapshot id="2c3da6">1f816042611e59ced30afcb9632b7b83</item>
+  <stack id="678c45">sdk</item>
+  <table id="808ff8">false</item>
+  <cgroups id="c40a7e">false</item>
+  <hmac id="57d66c">factory</item>
+  <beta id="4e752f">rsa</item>
+  <limit id="f4a622">5efe717e</item>
+  <protobuf id="aac16a">shard-sdk</item>
+  <dhcp id="fcea96">3765</item>
+  <runner id="015a72">189.54.10.92</item>
+  <cookie id="17205a">controller</item>
+  <elastic id="0ff1fa">iptables-rest</item>
+  <ceph id="5ca6e2">215.251.1.244</item>
+  <firmware id="e0b903">false</item>
+  <batch id="0b9ac8">0a76901b4673ff27</item>
+  <helm id="a4aced">true</item>
+</root>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<offset>
+  <quic id="b09ba0">oauth-mqtt</item>
+  <cors id="4ffee1">queue</item>
+  <aes id="da8bff">252.66.218.169</item>
+  <queue id="3bc27c">4758</item>
+  <heap id="348459">parser-cgroups</item>
+  <queue id="1721bd">protobuf-assets</item>
+  <tenant id="a2a82e">ingress-sandbox</item>
+  <tls id="e66b1f">null</item>
+  <firewall id="cb1665">746</item>
+  <probe id="c1274f">bgp</item>
+  <wireguard id="b8e152">3401</item>
+  <mongo id="6d64a9">nonce-group</item>
+  <metrics id="78b3c4">build-jwt</item>
+  <api id="c56db3">buffer</item>
+  <nat id="2239e5">153893c8</item>
+  <tenant id="7bdb49">96.215.10.187</item>
+</root>

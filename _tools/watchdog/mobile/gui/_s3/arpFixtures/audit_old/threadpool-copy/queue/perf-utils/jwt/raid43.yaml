@@ -1,0 +1,59 @@
+batch: build
+config:
+  kernel: 297
+  cert:
+    - 13e50dcc5e06f42f34101cce10873c2b
+  backup:
+    nat: 9090
+  common:
+    coroutine: false
+    firmware: 6101
+    cert:
+      templates: table
+      storage: true
+    yaml: socket-utils
+    coroutine:
+      cgroups: d0781fc0b7bdfb6c
+    websocket: 253.194.68.120
+  staging: handler
+nightly:
+  scheduler: cors
+  cookie: null
+mutex:
+  pod: 52.35.205.140
+  origin:
+    runner: e11aeb183edef4eab280f0ad3f4a1478
+    entropy: index
+    driver:
+      hmac: null
+      dns:
+        - 5.206.56.104
+        - tls
+    ceph:
+      hmac: 129.63.36.64
+      build: false
+      crypto: beta
+      tools: 5473
+      mqtt: row
+      origin: true
+  ansible: 903a0450a3476382f78d3ef6023610a6
+  elastic: canary-build
+rest:
+  beta: upstream
+  systemd:
+    lexer:
+      proxy:
+        - logs-legacy
+        - false
+        - 0ff450241d73f1b7
+        - 1374
+      beta: 2501
+      elastic: 111.111.208.186
+      switch: api
+      oauth:
+        - lambda-backup
+        - null
+        - retry
+    volume: kernel
+    node: 132.177.113.215
+  vault: 7443

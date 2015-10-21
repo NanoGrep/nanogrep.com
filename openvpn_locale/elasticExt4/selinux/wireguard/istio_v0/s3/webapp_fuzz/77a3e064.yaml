@@ -1,0 +1,29 @@
+response:
+  migrations:
+    cookie:
+      beta: nat-fixtures
+      sandbox: 466
+      hotfix:
+        - stream
+        - 5793
+        - lambda-systemd
+        - 698
+      grpc: f59146f64b3d43e8
+      policy: 7035
+    aes: 5606
+    frontend: helpers-firmware
+    bgp: 139.44.87.133
+    nfs:
+      systemd: sdk
+      frontend:
+        - true
+        - 7669
+        - jenkins
+        - 5dadee0b
+      utils: 152.173.182.62
+      quic: 2489
+      mqtt: row
+    replica:
+      - 470fca9d11d50f39212bcdfea0a87165
+      - frontend-schema
+      - false

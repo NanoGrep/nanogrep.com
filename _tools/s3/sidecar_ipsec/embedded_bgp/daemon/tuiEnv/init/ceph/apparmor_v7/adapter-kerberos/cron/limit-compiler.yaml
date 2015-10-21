@@ -1,0 +1,23 @@
+payload: null
+cache: role
+mongo:
+  firewall:
+    - canary
+    - 93.22.74.208
+    - 3651
+    - 1189
+lexer:
+  - false
+  - 202.251.173.25
+  - 6061
+redis:
+  config: 1647
+  bgp: user-tenant
+  cors: 236.95.146.87
+  gateway:
+    legacy:
+      vlan: 59.254.203.39
+    buffer:
+      - api-retry
+      - row
+redis: true

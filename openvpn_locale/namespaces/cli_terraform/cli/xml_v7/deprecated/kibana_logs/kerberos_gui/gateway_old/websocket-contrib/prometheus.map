@@ -1,0 +1,44 @@
+{
+  "loader": false,
+  "gateway": true,
+  "topic": {
+    "sandbox": "c9d06df0bdde",
+    "metrics": "0ec544968b79",
+    "policy": "templates",
+    "coroutine": {
+      "staging": {
+        "daemon": "25330c599d1e",
+        "terraform": 6848
+      },
+      "tests": {
+        "controller": "b9607f9ce1ec",
+        "grpc": null
+      },
+      "replica": 971,
+      "patch": "7139b5d1e9c6",
+      "topic": false
+    },
+    "templates": [
+      {
+        "storage": false
+      },
+      null,
+      {
+        "sha256": 4171,
+        "lexer": null,
+        "tests": false,
+        "firewall": 4695
+      }
+    ],
+    "api": [
+      null,
+      true,
+      {
+        "vault": true,
+        "table": "aes",
+        "tools": "mysql",
+        "canary": "e6d5a07833a9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+ansible: mongo-assets
+utils: frontend-prod
+vendor: session
+cert: 9a38bb44db142b51bb5ee8cf08bf7af2
+ldap: 252.79.134.232
+kafka:
+  cert:
+    - traces-sandbox
+    - true
+    - 9.120.44.120
+  cert: router-zfs
+  env:
+    dhcp: group-upstream
+    retry: group
+    mesh: 166.240.29.21
+    iptables: 17e4b456
+    assets: 87c3bd1c5cfc3d23fbfb53142bb899aa
+    ceph:
+      - null

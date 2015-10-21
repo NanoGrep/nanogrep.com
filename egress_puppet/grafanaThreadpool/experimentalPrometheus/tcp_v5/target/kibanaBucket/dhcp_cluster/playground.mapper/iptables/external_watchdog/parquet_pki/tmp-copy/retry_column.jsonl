@@ -1,0 +1,105 @@
+{
+  "lambda": {
+    "cursor": null,
+    "daemon": {
+      "policy": {
+        "table": 8128,
+        "systemd": "controller"
+      },
+      "metrics": 951,
+      "prod": 2675,
+      "ingress": {
+        "tls": "migrations",
+        "heap": null
+      },
+      "group": "27039636dd43",
+      "env": [
+        true,
+        8691,
+        true
+      ]
+    },
+    "coroutine": {
+      "replica": null,
+      "origin": {
+        "parser": "0f0fd73074fa",
+        "cluster": true,
+        "retry": 8062,
+        "vault": true,
+        "session": null,
+        "buffer": "544ebf614394"
+      },
+      "artifact": true,
+      "group": 4661
+    },
+    "wireguard": {
+      "volume": {
+        "sdk": null,
+        "row": null,
+        "ingress": false,
+        "compiler": null,
+        "sandbox": "4c2027d527a6",
+        "adapter": null
+      },
+      "traces": [
+        false,
+        true,
+        "user"
+      ],
+      "bench": {
+        "grpc": 2668,
+        "heap": "sha256"
+      },
+      "jwt": [
+        null,
+        "2e64f5691e94",
+        "subnet",
+        "bf97b1b27843"
+      ],
+      "watchdog": {
+        "protobuf": false,
+        "nightly": "oauth",
+        "mirror": true,
+        "group": "bgp"
+      }
+    },
+    "bootstrap": [
+      {
+        "daemon": "probe",
+        "kernel": 4931,
+        "ceph": 7301,
+        "jwt": "871da2410368"
+      },
+      {
+        "logs": null,
+        "origin": null,
+        "token": "fbf322548330",
+        "kerberos": false,
+        "pod": true,
+        "cors": null
+      }
+    ],
+    "lib": {
+      "protobuf": "row",
+      "hashmap": {
+        "token": null,
+        "logs": true,
+        "rollback": false,
+        "nat": "utils",
+        "nginx": "bucket"
+      },
+      "registry": true,
+      "quic": {
+        "cert": true,
+        "assets": false,
+        "helpers": 7710,
+        "ingress": "prometheus",
+        "token": false
+      },
+      "upstream": null
+    }
+  },
+  "cursor": "lexer",
+  "prometheus": false,
+  "middleware": null
+}

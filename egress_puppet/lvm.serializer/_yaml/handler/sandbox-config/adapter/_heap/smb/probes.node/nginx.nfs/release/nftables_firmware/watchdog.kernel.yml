@@ -1,0 +1,15 @@
+token:
+  nightly:
+    - 1026
+    - 60.86.0.69
+  mutex:
+    - 4057
+    - 311361f14514f087
+    - 146.217.194.13
+  hmac:
+    heap: cfe1c8c2
+    scheduler: helm-ingress
+  schema: 61.98.41.22
+mapper: socket-logs
+subnet:
+  shard: payload-request

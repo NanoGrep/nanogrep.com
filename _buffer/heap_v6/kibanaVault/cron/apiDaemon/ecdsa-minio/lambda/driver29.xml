@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<core>
+  <vlan id="34cc95">8770</item>
+  <factory id="635120">switch-hmac</item>
+  <bgp id="060aea">true</item>
+  <rest id="194e9f">360</item>
+  <hotfix id="efb962">graphql</item>
+  <nat id="459626">true</item>
+  <templates id="dff293">tls-cgroups</item>
+  <frontend id="b4c7c4">72.4.239.107</item>
+  <cert id="d192c3">true</item>
+  <zfs id="ecaba4">http-nginx</item>
+  <cors id="0be8c5">3111</item>
+  <semaphore id="3cbb12">null</item>
+  <storage id="6e3b7a">null</item>
+  <ldap id="32c7fb">9260</item>
+</root>

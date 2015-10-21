@@ -1,0 +1,148 @@
+{
+  "loader": [
+    {
+      "firmware": "2f639de6291f",
+      "entropy": 2675,
+      "tests": {
+        "mocks": "abc5084a2db7",
+        "sandbox": 5637,
+        "cors": false
+      },
+      "gateway": {
+        "socket": false
+      },
+      "artifact": true
+    },
+    [
+      {
+        "cursor": false,
+        "bloom": null,
+        "tests": true
+      },
+      null,
+      true,
+      {
+        "bucket": null,
+        "limit": "f71de8ef2c14",
+        "middleware": true,
+        "mocks": null,
+        "user": false
+      }
+    ],
+    [],
+    true
+  ],
+  "vendor": {
+    "loader": false,
+    "ceph": {
+      "index": {
+        "vxlan": false,
+        "backend": "914fd78a6a84"
+      },
+      "bloom": {
+        "fuzz": "mirror"
+      },
+      "cron": [],
+      "rollback": "kernel",
+      "mocks": {
+        "shard": "metrics"
+      }
+    },
+    "object": null,
+    "crypto": {
+      "yaml": {
+        "nightly": "69bcfab659ac",
+        "request": "bucket"
+      },
+      "ldap": "oauth",
+      "scheduler": {
+        "vlan": true,
+        "hmac": 4468,
+        "stream": "service"
+      }
+    }
+  },
+  "rsa": {
+    "traces": "6a9d0e4627de",
+    "tenant": {
+      "hashmap": "vault",
+      "firewall": "bd7fd1fe74ed",
+      "table": {
+        "object": null
+      },
+      "mesh": [
+        4834,
+        "4d248cfe4256"
+      ],
+      "bootstrap": [
+        false,
+        true
+      ]
+    },
+    "sandbox": {
+      "salt": {
+        "parser": "911d24e3c56e",
+        "rollback": "trie"
+      },
+      "hmac": [
+        false,
+        "topic"
+      ]
+    },
+    "kernel": [
+      null,
+      {
+        "dhcp": false,
+        "node": false,
+        "daemon": true,
+        "worker": false,
+        "upstream": 7299
+      },
+      null,
+      "templates"
+    ],
+    "session": {
+      "snapshot": "terraform",
+      "bgp": {
+        "json": true,
+        "storage": null,
+        "backend": "origin",
+        "elastic": "f41b59d066fc",
+        "scope": "2d75c1b7c016",
+        "parser": false
+      }
+    }
+  },
+  "config": {
+    "ansible": {
+      "storage": false
+    }
+  },
+  "graphql": "6daaa23395f1",
+  "lambda": {
+    "ldap": [
+      [
+        4376
+      ],
+      "user",
+      {
+        "fixtures": true,
+        "cors": 8652
+      },
+      false
+    ],
+    "volume": "d44c1a52d318",
+    "handler": {
+      "cache": {
+        "nginx": false,
+        "heap": "24e3e0fae5b5",
+        "locale": null,
+        "config": false,
+        "response": "a51828c84521"
+      },
+      "stack": false
+    },
+    "vlan": false,
+    "adapter": 6802
+  }
+}

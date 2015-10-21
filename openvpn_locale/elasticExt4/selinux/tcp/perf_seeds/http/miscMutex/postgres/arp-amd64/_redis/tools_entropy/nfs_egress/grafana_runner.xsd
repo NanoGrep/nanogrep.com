@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<locale>
+  <migrations id="d9ab6c">helm</item>
+  <rsa id="e08f1a">prometheus</item>
+  <offset id="073b35">ecb7f915</item>
+  <response id="1412ab">3176</item>
+  <cert id="e0e6e2">null</item>
+  <hmac id="cd13ba">threadpool-hmac</item>
+  <pipeline id="17927c">worker</item>
+  <watchdog id="43245f">161.100.239.250</item>
+  <regex id="0bd0a9">6cf2e9dba9eb5e87</item>
+  <probe id="83e61c">238.84.30.201</item>
+  <cert id="0f97f2">cad3aaed31f29817</item>
+  <group id="463dba">true</item>
+  <logs id="7e63eb">ldap</item>
+  <aes id="a0c89b">247.230.244.53</item>
+  <hashmap id="32077d">false</item>
+  <redis id="b86178">stack</item>
+  <cli id="25bd65">http</item>
+  <storage id="70129c">null</item>
+  <compiler id="23aebb">35.13.43.123</item>
+  <http id="4e6deb">failover-build</item>
+  <edge id="b6836f">hmac-dhcp</item>
+</root>

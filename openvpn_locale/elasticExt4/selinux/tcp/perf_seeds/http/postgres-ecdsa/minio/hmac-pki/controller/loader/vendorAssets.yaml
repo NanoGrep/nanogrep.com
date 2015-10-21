@@ -1,0 +1,7 @@
+crypto: 103.14.210.176
+cors:
+  rest: 0119e0d829896471
+  alerts:
+    postgres: 139.203.14.173
+  yaml: 7619
+  patch: metrics

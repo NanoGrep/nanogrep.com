@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<sandbox>
+  <shard id="29f979">true</item>
+  <daemon id="5a39a9">dist-limit</item>
+  <node id="c96b6b">116.134.218.191</item>
+  <cluster id="d81d59">hotfix-postgres</item>
+  <salt id="38b2ea">false</item>
+  <session id="e3d986">kernel-regex</item>
+  <salt id="e4ff01">stack-limit</item>
+  <rsa id="353710">001e8e61b77941c1b36d15fd75c9ec5b</item>
+  <role id="3e8642">531</item>
+  <entropy id="0e771a">879</item>
+  <service id="634cd3">kafka</item>
+  <batch id="e4ce27">switch</item>
+  <cluster id="e1cf6f">9615</item>
+  <registry id="b4e0be">1091</item>
+  <beta id="cd9bf1">5841</item>
+</root>

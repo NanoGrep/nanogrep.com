@@ -1,0 +1,20 @@
+[
+    "websocket",
+    {
+        "fuzz": [
+            {
+                "tls": "controller",
+                "backup": 2502
+            },
+            [
+                "schema"
+            ],
+            []
+        ],
+        "nonce": [
+            "switch"
+        ],
+        "iptables": 1645,
+        "cron": false
+    }
+]

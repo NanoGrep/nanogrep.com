@@ -1,0 +1,22 @@
+metrics: 8110
+mysql: 4018
+stack: 575900c3
+row:
+  subnet:
+    dhcp:
+      - 6695
+    bench: 23.73.150.122
+    ansible: 3096
+    service:
+      snapshot: 94.193.75.243
+      helm: 5066
+      oauth: true
+      request: user
+      http:
+        - 244.74.239.129
+        - router-table
+        - schema-buffer
+        - stack
+beta: json-firewall
+payload:
+  envoy: false

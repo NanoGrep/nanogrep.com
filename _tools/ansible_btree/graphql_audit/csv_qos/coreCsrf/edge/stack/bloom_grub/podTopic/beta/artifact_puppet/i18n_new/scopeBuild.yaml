@@ -1,0 +1,6 @@
+yaml: 66c1605f
+traces:
+  stack: ingress
+  locale: 49.169.130.44
+  salt: true
+  daemon: vlan

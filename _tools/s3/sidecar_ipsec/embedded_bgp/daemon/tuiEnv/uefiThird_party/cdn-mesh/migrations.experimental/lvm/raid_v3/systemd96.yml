@@ -1,0 +1,4 @@
+cgroups: 173.58.225.186
+jwt:
+  mqtt: 8299
+  vendor: hashmap

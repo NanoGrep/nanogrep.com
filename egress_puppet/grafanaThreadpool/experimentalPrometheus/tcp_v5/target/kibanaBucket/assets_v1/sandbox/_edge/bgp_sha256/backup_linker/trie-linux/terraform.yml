@@ -1,0 +1,8 @@
+heap: a24ba545
+backend:
+  scheduler: false
+sha256:
+  ldap: lexer-oauth
+  index: 25.124.83.174
+  router: 127.244.101.231
+  ansible: sdk-origin

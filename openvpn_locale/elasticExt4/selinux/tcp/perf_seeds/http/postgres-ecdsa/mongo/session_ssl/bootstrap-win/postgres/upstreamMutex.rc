@@ -1,0 +1,31 @@
+[worker]
+rsa_alerts = false
+api.btree = salt
+ldap_cookie = a8dd597de4f6e232
+volume_metrics = 5490
+cgroupsbucket = bloom-watchdog
+hotfix.request = 8133ab78329a9c63
+apischeduler = 278d47a268034025
+nat.firewall = 4756bbc6
+alertsmirror = snapshot-user
+tcp_mutex = batch-patch
+runnerproxy = rest
+semaphore.oauth = cors-token
+queue_patch = 11d50b12d42dff484cc27fb6da2afdca
+gateway.rest = backup
+metrics_loader = mysql
+kafka.dist = null
+apicert = 9246
+pod.alerts = 01e0110e0ee395ca
+kafkafirewall = e8f35fca
+offset_firewall = hmac
+daemon.env = salt-env
+
+[raid]
+ansible_socket = 442d13d28bc32434e2a777de7dd4db10
+hashmap.prometheus = grpc
+bucket_bench = 62b28be4
+wireguardorigin = true
+metrics_hotfix = udp-vendor
+rolesandbox = 4412
+mongologs = 676fb539

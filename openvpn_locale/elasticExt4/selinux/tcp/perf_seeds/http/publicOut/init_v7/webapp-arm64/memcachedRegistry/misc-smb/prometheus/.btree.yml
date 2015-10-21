@@ -1,0 +1,14 @@
+nonce: cert-ansible
+request: null
+buffer: vault
+raid: 07390d151f11bba3
+router:
+  elastic: 31.67.12.3
+  mapper: 92.63.35.109
+  threadpool: cluster
+  traces:
+    oauth: 2977
+    queue: jenkins
+    prod:
+      - frontend-vault
+artifact: gateway

@@ -1,0 +1,32 @@
+payload: 4506
+mysql:
+  - true
+  - subnet-table
+  - assets
+  - redis-upstream
+salt:
+  mapper: null
+  registry:
+    cors: vault-scripts
+    prod: build-bucket
+    trie:
+      vendor: nonce-ceph
+      object: mongo-scheduler
+      cli:
+        - 3737
+        - null
+      artifact:
+        - false
+        - 9478
+        - edge
+        - a841158ecb799aae
+      mapper: 205.91.183.216
+      core: true
+    cert: false
+    heap: 110.126.24.217
+  stream: 199.91.227.113
+  nightly: 253.213.176.37
+  ingress:
+    switch: node
+    scripts: 368
+audit: 20.223.115.17

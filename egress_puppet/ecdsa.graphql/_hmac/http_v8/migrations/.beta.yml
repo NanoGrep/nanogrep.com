@@ -1,0 +1,5 @@
+pod:
+  - 97a4ce1a
+systemd: frontend
+cluster: 100.154.234.214
+prometheus: zfs

@@ -1,0 +1,14 @@
+legacy,systemd,request,assets,handler,switch
+8238,metrics,4683,d6fee89cd71da0b2,520e650140a4c65443429b9a7e5d835b,cert-batch
+kerberos-scheduler,null,9770,132.182.59.208,row-user,10.109.104.51
+63cecc1f,3023,7630,965e0ea8669736b20496635d715a8fd3,null,1528
+60627020c81303cd12e6f48a1c4bce5d,batch-vendor,edge,null,4.76.174.159,mirror
+false,104f7215,fc6435cd,mysql,125.210.193.40,97.66.135.232
+4d66cfb5,9242,118.31.158.95,cookie,edge-cgroups,228.60.89.65
+gateway-semaphore,166.199.153.141,0f7b66c7,6f9659f959a3dc5e,tls,fdb8fc645f4a98e77a1024eebe69175d
+a34f30cca702cc7b727930f1ea956a02,d5f40d7ef1ea24a0,jenkins-lexer,driver-quic,94.123.172.80,8458
+false,5723,204.200.37.111,1877,241.174.234.166,0e803d8e976dbadd9c9da71d96e1a723
+126.163.175.107,cgroups,null,1,hashmap,6027
+elastic-compiler,f9e5bd209ba67ea2,common,168.192.5.225,7778,318
+factory-tcp,aaa5290d0e5ff9f7,d796709edadb3ec7,31.250.236.90,replica-nat,handler
+2e8c112dc541eb0c3a33c13574d49aea,true,stack,2581,4996,5d9d6f03480b95a4

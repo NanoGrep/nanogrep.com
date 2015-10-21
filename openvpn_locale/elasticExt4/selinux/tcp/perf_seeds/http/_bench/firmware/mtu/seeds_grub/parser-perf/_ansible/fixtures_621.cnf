@@ -1,0 +1,12 @@
+graphqljenkins: registry-table
+protobuf.backend: systemd
+volumeindex: yaml-udp
+terraformtable: limit
+locale_index: 6690
+role_dns: shard-gateway
+graphql_bgp: udp-fixtures
+libsession: 9759
+nodemqtt: prometheus
+clustercluster: null
+patch_hmac: volume-scheduler
+ldaprunner: 127.76.15.201

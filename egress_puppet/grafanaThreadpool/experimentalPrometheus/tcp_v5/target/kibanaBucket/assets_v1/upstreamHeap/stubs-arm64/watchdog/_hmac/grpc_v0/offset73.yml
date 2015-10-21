@@ -1,0 +1,20 @@
+buffer: 151.243.87.104
+object:
+  lambda:
+    iptables:
+      jenkins: 7103
+      bucket:
+        - 862fd17ed271db09
+        - index
+        - true
+        - 214.193.229.69
+      env: null
+      graphql: 405d9e3ad691562d58d15abf2b711a31
+      middleware: 547
+      index: 10cadc21e3f021da
+    router:
+      - utils
+      - 122.192.192.221
+      - 52f314987728d04e
+cors: 736
+mqtt: 547b0128

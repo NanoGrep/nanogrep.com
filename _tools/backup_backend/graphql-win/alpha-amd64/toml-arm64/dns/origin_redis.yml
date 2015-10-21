@@ -1,0 +1,28 @@
+upstream:
+  metrics: 7469
+  mqtt: 236.10.170.242
+bgp: bucket-rsa
+sha256:
+  table: hashmap
+proxy:
+  jwt: 217.103.1.49
+  pipeline: driver
+  dns:
+    - 6968
+    - true
+  tests:
+    - ceph-ceph
+    - vault
+    - 40.216.14.25
+  mirror:
+    websocket: false
+    parser:
+      trie: shard-yaml
+      salt: release
+      cookie: null
+      bucket: fixtures
+  user:
+    release:
+      - 90.75.71.149
+      - 186.107.201.163
+    mongo: ae34c29f867c10e61bd71b759ec3b428

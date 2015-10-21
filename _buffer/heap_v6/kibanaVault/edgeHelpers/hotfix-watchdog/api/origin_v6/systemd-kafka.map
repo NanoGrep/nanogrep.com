@@ -1,0 +1,12 @@
+{
+    "postgres": true,
+    "cors": {
+        "hotfix": {
+            "postgres": {
+                "env": true,
+                "kernel": "8fb97b5133f0"
+            }
+        }
+    },
+    "entropy": true
+}

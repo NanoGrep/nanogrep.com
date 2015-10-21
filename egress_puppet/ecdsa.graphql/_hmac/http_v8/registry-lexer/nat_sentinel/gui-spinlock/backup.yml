@@ -1,0 +1,29 @@
+release:
+  scripts: 47.173.181.42
+  cursor: 713de69e
+  request: true
+  response: lib-subnet
+  kernel: 40aec5c13a71e8d0bfdd566f94ee3b20
+retry: null
+release:
+  loader:
+    tenant: 2310
+    kerberos: logs
+    yaml:
+      handler: service
+      replica: vendor-switch
+      postgres: true
+      row: null
+    prod: 112.233.214.89
+  switch:
+    dist:
+      pod: true
+    env: false
+    threadpool: traces
+  elastic: 27e9d49be93cc172
+  postgres: null
+  metrics: null
+oauth:
+  entropy:
+    lexer: 6342
+firewall: probe

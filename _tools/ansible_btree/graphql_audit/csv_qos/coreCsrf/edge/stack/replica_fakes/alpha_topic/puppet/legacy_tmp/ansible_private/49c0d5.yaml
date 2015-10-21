@@ -1,0 +1,62 @@
+dns:
+  nonce:
+    hashmap: traces-factory
+    templates: kerberos
+    object:
+      logs: 32.17.251.202
+    dns: tcp-gateway
+    kafka:
+      bench: batch-cli
+      jwt:
+        - null
+        - a24c8b84
+        - 70b12d3d
+        - loader
+      kafka: 9905
+    backend:
+      - mirror-helpers
+  core: 52b7ce60
+  bench:
+    driver: controller
+  vlan: runner
+  kafka:
+    staging:
+      cors: 047b272bea54b4cee2298c9911f8f026
+      sha256: false
+      switch: canary
+      dns: threadpool
+    coroutine: false
+    switch: false
+    graphql: true
+    sdk: 187.192.215.109
+    mapper:
+      parser: 289
+      queue: fe80dabde153dcb39454fd70720b9228
+      backup: false
+      factory: false
+      helpers: 5043
+      router:
+        - postgres
+        - common
+        - 207.27.230.215
+        - true
+  lib:
+    prod: bloom
+    bootstrap:
+      - 7408
+      - 106.228.116.80
+      - 7849
+      - factory-prometheus
+    rest: 12.146.190.35
+    nfs:
+      offset: 125.11.169.132
+      vxlan: false
+      sha256: 737f27638a8f7af2af2d9e4dd9b41336
+      rest: 229.251.115.7
+      daemon: frontend
+    limit: 6116
+websocket:
+  terraform: bootstrap-metrics
+  object: 4584
+  cli: env-threadpool
+  lambda: false

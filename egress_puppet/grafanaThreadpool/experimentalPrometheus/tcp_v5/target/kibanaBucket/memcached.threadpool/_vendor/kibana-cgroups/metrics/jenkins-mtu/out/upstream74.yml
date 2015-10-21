@@ -1,0 +1,79 @@
+yaml:
+  nginx:
+    fuzz:
+      crypto:
+        - 103.133.238.162
+      graphql:
+        - locale
+        - worker
+    vault:
+      response: true
+      release:
+        - 3958
+        - salt
+        - zfs-lib
+      patch: 244.160.119.196
+      offset: 9c9f604b
+    backend: 115.80.28.137
+    api: 03bbebb7
+    scope:
+      - null
+      - api-limit
+      - 164.192.7.177
+    policy: fixtures-cron
+  limit: true
+  nfs:
+    token: true
+cgroups: socket-mocks
+envoy: grpc-loader
+upstream:
+  service:
+    stack: alerts-watchdog
+    bucket:
+      compiler: locale
+      kernel: 203.18.61.150
+      stack:
+        - 6cfb51eb6811c53d
+        - 7d7056a549fbbd3a5745a920e7082878
+        - true
+        - logs
+      common:
+        - cors
+        - db8d29d1
+        - true
+        - 148.87.183.193
+    worker:
+      - table-edge
+      - 25.235.213.218
+      - loader-proxy
+    policy: cors
+    core: bootstrap-middleware
+  cors: 168.107.143.208
+  socket: true
+  assets:
+    loader:
+      request: 025be640
+      sha256: b3b6c162
+      mongo: controller-semaphore
+      vault: 2401
+      failover: true
+      mongo: true
+  tcp:
+    - e815d13842f4b680f5aba9c76c9e0413
+    - adapter-pod
+    - 18.112.234.114
+  hashmap:
+    - 2486
+    - 27.23.25.219
+terraform:
+  cache: false
+  node:
+    - 126.29.163.146
+    - null
+    - factory-failover
+    - 5994
+  udp: null
+  adapter: 3638
+  mysql: 73e7dc194d3141a2
+  cert: cookie-frontend
+registry: 158.31.208.242

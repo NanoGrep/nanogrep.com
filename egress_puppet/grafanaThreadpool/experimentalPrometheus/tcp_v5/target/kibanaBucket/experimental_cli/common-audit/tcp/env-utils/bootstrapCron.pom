@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<daemon>
+  <tls id="af7652">218.96.93.115</item>
+  <tcp id="f96965">env</item>
+  <group id="eea263">hmac</item>
+  <parser id="0b1ad1">09f51d59</item>
+  <grafana id="80b980">mongo</item>
+  <backup id="66a615">16a6e41ee031fee5dacfd49b5fa8cd71</item>
+</root>

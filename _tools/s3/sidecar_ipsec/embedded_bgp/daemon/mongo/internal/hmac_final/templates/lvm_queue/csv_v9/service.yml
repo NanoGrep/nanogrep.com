@@ -1,0 +1,29 @@
+queue: postgres
+controller:
+  router:
+    shard: null
+    tests:
+      sha256: 9624
+      registry: 7ec969de2158e90aa45b95a637f8158f
+      role: c5adcda4899526e81d8bb23f73ec6ac9
+      release: 168130de461bd082
+      trie: 82.111.219.156
+      pod: 51e50def9545bf6236636768c003ade6
+    storage: parser
+    yaml: 113.122.18.100
+    mqtt:
+      artifact:
+        - queue-hmac
+        - 2671
+        - firewall-tenant
+      edge: false
+      payload: stream-switch
+      offset: alerts-trie
+    grafana:
+      - null
+  service: 4.18.247.245
+vendor:
+  jenkins: 448
+  row: 2146
+  nonce:
+    - false

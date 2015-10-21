@@ -1,0 +1,56 @@
+[
+    {
+        "controller": true,
+        "session": {
+            "stream": "90ca7c11aca5",
+            "socket": {
+                "parser": true,
+                "cors": "72ac23dc8a3c",
+                "edge": false,
+                "dist": "f2ccc034be39"
+            }
+        },
+        "systemd": null,
+        "index": 2668
+    },
+    {
+        "core": {
+            "cors": null,
+            "sandbox": false
+        },
+        "threadpool": "backend",
+        "terraform": {
+            "artifact": true,
+            "env": {
+                "http": true,
+                "lib": 6664,
+                "offset": false,
+                "policy": "265340c7ab97",
+                "iptables": null,
+                "token": null
+            },
+            "probe": {
+                "tcp": null,
+                "gateway": null,
+                "worker": "ba4024349cf0",
+                "origin": false,
+                "vxlan": true,
+                "prod": null
+            },
+            "beta": "cli",
+            "canary": "5c994ad9074a",
+            "fixtures": {
+                "ansible": true,
+                "legacy": false,
+                "rest": "6b1969234ed3",
+                "adapter": null,
+                "prometheus": null,
+                "proxy": null
+            }
+        },
+        "request": "257cd10206cb",
+        "pod": "firmware"
+    },
+    false,
+    6584
+]

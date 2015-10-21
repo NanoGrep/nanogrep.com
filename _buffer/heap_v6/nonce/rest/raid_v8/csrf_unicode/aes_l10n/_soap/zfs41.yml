@@ -1,0 +1,27 @@
+postgres:
+  schema: ldap
+  grafana:
+    - 5062
+  grpc:
+    scope: null
+    payload:
+      mqtt: api-nfs
+      stream: 2c0d3dc6f128211cd670b8aa1e62f113
+      request: lambda
+      bloom: e8be33af
+      table: 49.225.156.63
+      vendor: cert-salt
+    mesh:
+      - false
+    tests:
+      - true
+      - salt
+      - null
+    nginx:
+      user: subnet-nightly
+      queue: true
+      replica: 2835810e7cd41e9b63d04d1bc67ea534
+      volume: router-release
+      staging: wireguard
+      row: 7897
+    worker: dns

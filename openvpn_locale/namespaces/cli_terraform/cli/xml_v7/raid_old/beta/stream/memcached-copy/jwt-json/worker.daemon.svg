@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<failover>
+  <daemon id="3aaf5d">true</item>
+  <socket id="7e8b75">7.178.5.13</item>
+  <alerts id="5fdb6c">10.50.64.253</item>
+  <hashmap id="864bab">9646</item>
+  <object id="44a4ae">staging</item>
+  <tcp id="9fbd10">jenkins-utils</item>
+  <replica id="868132">bf279bb9574e4176deb9ab0aed0f94fe</item>
+  <locale id="bb6b4a">197.251.90.93</item>
+</root>

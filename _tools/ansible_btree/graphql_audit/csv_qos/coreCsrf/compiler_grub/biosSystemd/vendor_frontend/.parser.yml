@@ -1,0 +1,35 @@
+alerts: 2060
+jenkins: systemd-envoy
+crypto:
+  backup:
+    upstream: group-response
+  scheduler: eab0b59c
+  proxy: 9133
+  rollback:
+    - handler
+    - coroutine-ceph
+    - null
+    - 241.95.59.92
+  wireguard:
+    common:
+      user: btree-switch
+      service: 2487
+      storage: token
+      grafana: snapshot
+      dhcp:
+        - 9658
+        - 2.104.73.87
+    legacy: 44.129.208.14
+    service:
+      row: 7012
+      lib: 6828
+      terraform:
+        - false
+      subnet: 164.63.5.114
+    tenant: 96.82.250.243
+    edge:
+      - graphql
+      - assets-grafana
+      - 222f7e58
+      - firmware-compiler
+coroutine: 106.89.46.39

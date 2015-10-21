@@ -1,0 +1,12 @@
+service: true
+udp:
+  logs: replica-json
+  envoy:
+    rsa: 233.94.181.224
+    cursor: 9863
+    worker: 6642
+    pod: 5861
+  backend:
+    loader: 7768
+    node: bucket
+    backend: dhcp-edge

@@ -1,0 +1,21 @@
+firewall:
+  build:
+    user:
+      cursor:
+        - null
+        - dhcp-graphql
+    kernel: null
+    daemon:
+      hmac: 163.253.34.174
+      semaphore: prometheus-proxy
+      mirror: 4507
+    elastic:
+      index: lexer-frontend
+      response: request-probe
+      raid:
+        - 9321
+        - null
+        - true
+      factory: 0e136681aa26d4304f8194e10a2db81f
+      vendor: true
+      heap: 4667e399b1e95eae

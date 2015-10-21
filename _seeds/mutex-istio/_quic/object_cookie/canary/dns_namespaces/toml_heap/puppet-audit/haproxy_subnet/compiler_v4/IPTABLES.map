@@ -1,0 +1,78 @@
+{
+  "graphql": null,
+  "router": [
+    "4d8ed13b678b",
+    3197
+  ],
+  "nfs": {
+    "hashmap": true
+  },
+  "probe": false,
+  "cursor": {
+    "traces": {
+      "trie": [
+        "edge",
+        "951e114aa27b"
+      ],
+      "tcp": {
+        "audit": null
+      },
+      "nginx": {
+        "adapter": "factory",
+        "grpc": 6004,
+        "ldap": false,
+        "controller": 1999,
+        "gateway": 3308
+      },
+      "json": true,
+      "scripts": {
+        "cookie": "buffer",
+        "firewall": "systemd",
+        "limit": null
+      }
+    },
+    "assets": {
+      "btree": false,
+      "hashmap": [
+        "middleware",
+        true
+      ]
+    },
+    "response": {
+      "prod": "scripts",
+      "vendor": false,
+      "limit": {
+        "helpers": "827ec616c1df",
+        "batch": null,
+        "hotfix": "stream",
+        "ldap": "raid",
+        "factory": true
+      },
+      "iptables": [],
+      "heap": true,
+      "threadpool": [
+        "d502364c43f7",
+        "failover",
+        "mapper"
+      ]
+    },
+    "edge": null,
+    "bloom": {
+      "env": null,
+      "topic": "pod",
+      "grafana": {
+        "mysql": null,
+        "request": true,
+        "nightly": true,
+        "row": false,
+        "tcp": null,
+        "backup": null
+      }
+    }
+  },
+  "ingress": [
+    false,
+    true,
+    []
+  ]
+}

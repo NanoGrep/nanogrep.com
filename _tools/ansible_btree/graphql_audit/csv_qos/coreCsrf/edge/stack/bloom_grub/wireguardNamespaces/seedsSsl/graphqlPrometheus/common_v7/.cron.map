@@ -1,0 +1,44 @@
+{
+  "subnet": "660ca515a516",
+  "mapper": {
+    "jwt": "cluster",
+    "backup": "cluster",
+    "terraform": [
+      {
+        "topic": null,
+        "kerberos": false,
+        "aes": null,
+        "bootstrap": "lambda"
+      },
+      [
+        true
+      ],
+      [],
+      [
+        null
+      ]
+    ],
+    "mapper": {
+      "aes": {
+        "coroutine": 1390,
+        "jenkins": false,
+        "graphql": 4402
+      },
+      "probe": null,
+      "jwt": [
+        true,
+        "role"
+      ],
+      "firewall": {
+        "watchdog": true,
+        "mqtt": 16,
+        "vxlan": "threadpool",
+        "metrics": true,
+        "stack": null
+      }
+    }
+  },
+  "probe": {
+    "artifact": 3901
+  }
+}

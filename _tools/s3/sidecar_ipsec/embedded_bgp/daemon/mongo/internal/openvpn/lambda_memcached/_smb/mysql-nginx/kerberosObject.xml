@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<alerts>
+  <registry id="c56e95">4374</item>
+  <offset id="ccfcc7">http-nfs</item>
+  <loader id="d956a9">compiler</item>
+  <common id="a2e51b">false</item>
+  <driver id="0f398f">canary</item>
+</root>

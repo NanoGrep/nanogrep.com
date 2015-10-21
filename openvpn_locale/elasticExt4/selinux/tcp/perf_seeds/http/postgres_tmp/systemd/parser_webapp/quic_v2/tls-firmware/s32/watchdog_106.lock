@@ -1,0 +1,76 @@
+{
+  "request": 1091,
+  "mocks": {
+    "session": {
+      "regex": "cgroups",
+      "bucket": null,
+      "grpc": 979,
+      "scripts": [],
+      "websocket": "f47db4e6302d"
+    },
+    "nonce": {
+      "bucket": true,
+      "user": 33,
+      "terraform": "59be8af6cbe9",
+      "session": "offset",
+      "kerberos": "b6568c2ce037"
+    }
+  },
+  "factory": [
+    []
+  ],
+  "frontend": [
+    {
+      "queue": "392914919f8d",
+      "websocket": {
+        "mutex": null,
+        "table": false,
+        "cluster": 1043
+      },
+      "upstream": "scope",
+      "logs": null
+    },
+    {
+      "cursor": [
+        true,
+        false
+      ],
+      "column": {
+        "registry": "mocks",
+        "node": "gateway",
+        "scope": true,
+        "schema": "migrations"
+      },
+      "bgp": {
+        "json": true,
+        "tls": "ingress",
+        "socket": "edf2c19dad96",
+        "entropy": true,
+        "dhcp": "f61e33611203",
+        "group": false
+      },
+      "limit": {
+        "hmac": 8651,
+        "stack": 4014,
+        "jwt": null,
+        "probe": "rsa"
+      },
+      "registry": {
+        "storage": "vxlan",
+        "audit": true,
+        "dist": null,
+        "middleware": 504,
+        "service": false,
+        "proxy": true
+      },
+      "legacy": 8469
+    },
+    null,
+    [
+      {
+        "crypto": null
+      },
+      null
+    ]
+  ]
+}

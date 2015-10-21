@@ -1,0 +1,35 @@
+fuzz: pod-oauth
+graphql:
+  - e52834b7
+  - 541
+  - helm
+service:
+  udp:
+    firewall: lambda
+    proxy: 8163
+    cluster:
+      ceph: c637e5d733996c696f956fb67130ab8a
+      firmware: false
+      compiler:
+        - 4016
+        - 8216
+        - 4354
+      loader: 77536381c9e1ccd4
+      coroutine:
+        - false
+      ceph: group
+    systemd: 61.19.77.62
+  prod:
+    jenkins: cert
+    runner: terraform
+    tests:
+      nfs: ingress
+      proxy:
+        - 179.49.75.109
+      retry: regex
+    cron: null
+    build:
+      - storage-build
+  entropy:
+    - false
+    - 13.160.246.196

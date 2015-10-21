@@ -1,0 +1,82 @@
+{
+    "trie": "cdc0d48b2d47",
+    "sdk": {
+        "nonce": null,
+        "bloom": {
+            "service": [
+                null,
+                null
+            ],
+            "oauth": [
+                false,
+                false,
+                false
+            ],
+            "payload": true,
+            "scripts": "staging",
+            "upstream": {
+                "bloom": null
+            },
+            "request": 4933
+        },
+        "router": false,
+        "volume": true
+    },
+    "nat": true,
+    "switch": 7628,
+    "yaml": [
+        null
+    ],
+    "threadpool": {
+        "object": false,
+        "proxy": "sha256",
+        "rollback": [
+            {
+                "hashmap": "registry",
+                "prod": 1402,
+                "btree": null
+            },
+            {
+                "stack": 5808,
+                "rest": true,
+                "systemd": "parser"
+            },
+            false,
+            null
+        ],
+        "elastic": {
+            "loader": false,
+            "threadpool": false,
+            "offset": {
+                "helpers": "1cee67b3bd87",
+                "grafana": "053b37fc98b8",
+                "audit": true,
+                "batch": null
+            },
+            "dist": {
+                "entropy": true,
+                "watchdog": null
+            }
+        },
+        "response": true,
+        "migrations": [
+            {
+                "table": false,
+                "prod": "91b7372b4d31",
+                "node": null,
+                "bucket": true,
+                "json": "b1f70c6b277f",
+                "mapper": false
+            },
+            [
+                true,
+                null,
+                null
+            ],
+            true,
+            {
+                "release": "assets"
+            }
+        ]
+    }
+}

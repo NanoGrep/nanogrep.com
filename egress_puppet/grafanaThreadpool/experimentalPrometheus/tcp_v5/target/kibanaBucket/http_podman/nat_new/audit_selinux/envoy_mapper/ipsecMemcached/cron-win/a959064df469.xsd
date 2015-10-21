@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ldap>
+  <grpc id="37b893">060460aed578d8cf</item>
+  <mutex id="8a7616">1465</item>
+  <wireguard id="fd81ae">mutex-grpc</item>
+  <mysql id="c28cc4">4402b69cf1aeaac16a0d334d0b93f918</item>
+  <mqtt id="ad05f4">98.17.161.126</item>
+  <canary id="8d7df0">9300</item>
+  <websocket id="90edfc">null</item>
+  <lexer id="991cb8">true</item>
+  <iptables id="e4a3cd">3779</item>
+  <firewall id="164423">storage-nfs</item>
+  <mutex id="c5ccd5">00a97d18</item>
+  <switch id="3a9ab8">fea80c2e</item>
+  <json id="2d1e73">6925</item>
+  <mutex id="53af42">1895</item>
+  <column id="fb0ebd">salt-vlan</item>
+  <threadpool id="5bec76">iptables</item>
+  <yaml id="46dced">false</item>
+  <alerts id="2ba0b4">31.156.26.194</item>
+</root>

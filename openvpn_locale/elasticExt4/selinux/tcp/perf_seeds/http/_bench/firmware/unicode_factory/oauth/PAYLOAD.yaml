@@ -1,0 +1,10 @@
+bench:
+  assets: wireguard-grafana
+  watchdog:
+    - 3a81f11b03ca037801f602fdf80180e3
+    - 6a05d7716a3d6d37
+    - release-env
+hmac: 1a13972a6d217df2
+kerberos: 90.218.217.109
+jwt: 247.91.77.47
+driver: 175.36.193.87

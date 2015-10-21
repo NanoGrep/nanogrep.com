@@ -1,0 +1,7 @@
+oauth: 5111
+shard: 6478696ddbb987b6
+bucket:
+  retry: 2946
+  ldap:
+    loader: cert-cgroups
+factory: backup-build

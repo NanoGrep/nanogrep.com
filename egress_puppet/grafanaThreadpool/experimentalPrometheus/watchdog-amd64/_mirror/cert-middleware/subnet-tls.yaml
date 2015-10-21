@@ -1,0 +1,52 @@
+index:
+  entropy:
+    elastic: true
+    fixtures:
+      token:
+        - cert
+        - release
+    firmware:
+      user: true
+      udp: 3080
+      frontend:
+        - failover
+        - c0b8dd97
+        - null
+      mutex: release
+      postgres:
+        - null
+        - tenant
+        - mesh-sdk
+        - 3975
+      udp: 63.210.122.234
+    shard: 1d895ca7d94917a8
+  bloom: postgres-mongo
+  logs:
+    column: b966221eb9c3dd0830aab08276756e78
+    alerts: metrics-systemd
+lambda:
+  runner: 4c7636b7
+  rest: runner-prod
+  kafka:
+    logs: stream-index
+  dist:
+    hashmap:
+      - 89e1809e
+      - replica-raid
+    mesh:
+      hmac: token
+      batch: false
+      storage: cli-threadpool
+      firmware: regex
+      common: ae5f7015
+      nfs:
+        - cca2e2dcfff23604
+        - 1692
+    mirror: true
+    systemd:
+      release: e62816b25cbd8e35
+      hotfix: null
+    bucket: false
+  runner: 4814
+  assets:
+    btree: 120.214.1.144

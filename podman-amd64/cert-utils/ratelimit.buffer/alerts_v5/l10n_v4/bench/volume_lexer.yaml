@@ -1,0 +1,5 @@
+pipeline: 123.219.92.36
+heap: replica
+env: handler-btree
+bloom: false
+compiler: bucket-pipeline

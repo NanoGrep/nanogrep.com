@@ -1,0 +1,8 @@
+patch: 5625
+bench:
+  vault: false
+  bootstrap:
+    - 7707
+    - 44.206.74.238
+    - null
+    - systemd

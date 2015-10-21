@@ -1,0 +1,3 @@
+ansibletable: 4663
+sandbox_socket: pod
+websocketloader: firewall-mqtt

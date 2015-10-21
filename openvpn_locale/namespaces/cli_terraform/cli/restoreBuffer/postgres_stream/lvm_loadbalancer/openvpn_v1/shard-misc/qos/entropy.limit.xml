@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cors>
+  <retry id="d03401">a0cc5724</item>
+  <scheduler id="3318ff">true</item>
+  <rollback id="63c53d">1374</item>
+  <beta id="ac0b3d">101.37.136.120</item>
+  <request id="7ee99e">false</item>
+  <compiler id="43f4b7">191.126.54.246</item>
+  <oauth id="d2a09d">true</item>
+  <backup id="7c49b2">af68ca6fd87fe230a2bec9d8326329fe</item>
+  <hmac id="e6ef31">cors-role</item>
+  <yaml id="1da7b3">3a4a6b3cd4e34c3d15a1633dc7eaa903</item>
+  <quic id="ba824e">traces-jenkins</item>
+  <upstream id="d9cd6d">822e7fabf675ae4575d6eff68c907037</item>
+  <adapter id="659209">127.206.135.184</item>
+  <tenant id="f8f906">29.93.183.197</item>
+  <env id="65a367">868</item>
+  <controller id="ee8ebb">6240</item>
+  <sandbox id="a4b031">46ffbc6b2920071c</item>
+  <session id="734bcb">d5dd0af7d1314f8e4c3b7bd7fd4afc19</item>
+  <trie id="42599b">5928</item>
+  <mongo id="e7a3fe">f7a919d8d147fec6</item>
+  <proxy id="2fac98">5214</item>
+  <bgp id="0fbb83">133.252.92.81</item>
+</root>

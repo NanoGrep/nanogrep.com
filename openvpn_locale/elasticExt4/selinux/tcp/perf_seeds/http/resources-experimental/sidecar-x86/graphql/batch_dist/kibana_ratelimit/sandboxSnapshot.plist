@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<failover>
+  <rollback id="8900c5">true</item>
+  <coroutine id="c40320">61c11c000dd8b054</item>
+  <vxlan id="1d3f2c">cgroups</item>
+  <mqtt id="ccc095">bootstrap-upstream</item>
+  <tenant id="be1bf7">9e4febac</item>
+  <iptables id="91fac1">false</item>
+  <entropy id="377e28">true</item>
+  <volume id="4177b0">zfs</item>
+  <firewall id="64d58d">edge</item>
+  <http id="51ab66">112.152.208.210</item>
+  <pod id="63fa99">metrics-quic</item>
+  <ldap id="1bc538">grafana-alerts</item>
+  <crypto id="479e93">compiler-migrations</item>
+  <fuzz id="1c8ac9">cli-helpers</item>
+  <cron id="eb41be">origin</item>
+  <nginx id="f1d9f6">175.75.194.130</item>
+  <mapper id="e0274c">246.68.16.153</item>
+  <envoy id="0d51ae">87</item>
+  <backup id="942940">ed6ec466289fb3e8</item>
+  <lexer id="40dcd2">68.147.240.157</item>
+  <gateway id="a512ca">false</item>
+  <api id="eaccb6">3dd64af20a697fac</item>
+  <systemd id="c7cd7b">8609</item>
+  <ingress id="4ef740">retry-canary</item>
+  <object id="bafbd9">105.2.166.246</item>
+</root>

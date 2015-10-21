@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<nonce>
+  <quic id="7931ec">307</item>
+  <subnet id="a4acf7">3225</item>
+  <cors id="5668fc">false</item>
+  <limit id="9ad293">cors-frontend</item>
+  <queue id="192bdb">9801</item>
+  <topic id="63e018">241.31.27.250</item>
+  <artifact id="00b635">tests</item>
+  <api id="8e5e59">daemon</item>
+  <response id="f6bd51">9042</item>
+  <response id="b667f2">907c6fe83b1ec002c1290d2ad5093b41</item>
+  <factory id="e484e4">null</item>
+  <scope id="630233">153.7.151.145</item>
+  <snapshot id="844e36">true</item>
+  <postgres id="c68ff7">2.249.182.114</item>
+  <lib id="35c540">1147</item>
+  <terraform id="9c67cb">983ec7a7</item>
+  <rsa id="d4ae79">c080cedb697b3d86c20c0bd95d352f34</item>
+  <daemon id="bdd54a">rollback-json</item>
+  <nfs id="67cdac">failover-proxy</item>
+  <handler id="4e9af7">common</item>
+  <factory id="d27cb9">lexer</item>
+  <scripts id="046eb3">56.170.106.77</item>
+  <session id="b1a173">8315</item>
+  <tcp id="12ff46">236.118.171.35</item>
+</root>

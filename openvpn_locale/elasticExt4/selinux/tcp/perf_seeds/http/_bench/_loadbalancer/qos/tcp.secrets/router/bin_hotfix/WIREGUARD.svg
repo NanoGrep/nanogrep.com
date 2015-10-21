@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<firewall>
+  <migrations id="44066a">b3910b8e20cebcf7c6ce53058f82ef49</item>
+  <core id="21064c">d06970eb26894920</item>
+  <router id="b411f4">6932</item>
+  <vault id="a6742e">1069</item>
+  <yaml id="f66930">2b2f74b0</item>
+  <trie id="aef116">false</item>
+  <salt id="73a77e">false</item>
+  <audit id="5ec7f1">152.10.236.86</item>
+</root>

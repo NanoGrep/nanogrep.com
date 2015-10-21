@@ -1,0 +1,45 @@
+gateway:
+  daemon:
+    column:
+      udp: sha256
+      stack:
+        - 9024
+        - beta-handler
+        - 7890
+        - 94fcb931
+      tls:
+        - null
+        - coroutine-cursor
+        - 87bf30eae24900fd
+      runner: bf4edac90b841c7c
+    helm: 607b59cf1aba45d3
+    helm:
+      regex: true
+      row: false
+      tools: 6fdf83be707453897cbcd758912b212e
+      cookie: 9136
+  elastic:
+    tls: false
+    build:
+      object: efd87d8c
+      fuzz: 64.142.95.92
+    loader:
+      row: 7231e7dd173392e3912209059dd724ed
+      sha256: parser
+    release: metrics-trie
+    daemon:
+      session: nonce-cache
+      canary: 161.165.224.44
+      iptables:
+        - bloom-response
+        - cli
+      upstream: 33fc4a03
+      nginx: 4957c839
+      upstream: 2126
+    helm:
+      - 2099
+      - 131
+      - 127.46.110.251
+      - nginx-bloom
+  ingress: 03cddbcb3b248cc5
+  lexer: null

@@ -1,0 +1,45 @@
+subnet: cf8a0bf24b41d998
+backend: http-tenant
+postgres:
+  policy:
+    tls: metrics-canary
+  http:
+    oauth: a2f6c15e
+    object:
+      subnet:
+        - entropy-hashmap
+      tls: release
+      entropy: 6472
+    policy:
+      topic: batch-vxlan
+      failover: 231.25.156.178
+      volume:
+        - null
+      vault: cursor
+      dist: controller
+      oauth:
+        - 17.178.165.36
+        - backup-cookie
+        - 4438
+  btree: 1035
+  driver: 139.204.51.83
+  upstream:
+    sandbox: ad8631fb
+    registry: bootstrap
+    watchdog:
+      - null
+      - legacy-mapper
+    prod: sandbox-retry
+    migrations:
+      - 9b20633d
+    assets: 313e5ec7bf303f4e
+  heap: 5074
+udp: prod-release
+traces:
+  helpers:
+    - e6a89f5bba8ce4e7
+    - null
+    - envoy
+  proxy: 3921
+  role: 6d2acd4c473470dd
+  switch: null

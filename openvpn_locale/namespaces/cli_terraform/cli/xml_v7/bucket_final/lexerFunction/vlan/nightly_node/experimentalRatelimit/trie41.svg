@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<parser>
+  <lexer id="e666e5">139.38.251.172</item>
+  <prometheus id="6196a6">sha256-mutex</item>
+  <replica id="4a51fd">true</item>
+  <btree id="36f027">nightly</item>
+  <driver id="b657c2">154.228.199.24</item>
+  <cookie id="58f522">compiler</item>
+  <release id="8497a9">false</item>
+  <firmware id="b057cf">hotfix</item>
+  <bloom id="fdc9a9">null</item>
+  <helm id="039d02">null</item>
+  <cursor id="d0d69e">92.216.253.26</item>
+  <tenant id="1d2172">199.45.127.186</item>
+  <alerts id="e1bc7c">579589e1ee0f3842</item>
+  <bench id="d0c974">vlan</item>
+  <frontend id="2f3936">a6bc7f8a2c925964</item>
+  <dist id="61fb95">5973</item>
+  <terraform id="c0a8f1">5282</item>
+  <edge id="61442c">b11a5e1e</item>
+</root>

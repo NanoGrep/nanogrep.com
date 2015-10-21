@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<nginx>
+  <redis id="eb0ec6">4ef9a75478c0246bc3786be94ebcfda9</item>
+  <postgres id="6b8ed7">0fe12e53</item>
+  <jwt id="c52f39">mirror-ldap</item>
+  <row id="b2aad3">103.249.83.125</item>
+  <buffer id="14d01d">nfs</item>
+  <probe id="e57abc">7057</item>
+  <rsa id="5d3e31">160.63.106.123</item>
+  <assets id="bd9595">true</item>
+  <daemon id="9521ba">true</item>
+  <group id="bec732">null</item>
+  <websocket id="f9af83">aes-snapshot</item>
+  <coroutine id="fa4ca6">5dcf26dc993267ae</item>
+  <config id="b5e8b1">6795</item>
+  <table id="038a27">8046</item>
+  <coroutine id="1697c1">5416</item>
+  <alerts id="9f5a94">70</item>
+</root>

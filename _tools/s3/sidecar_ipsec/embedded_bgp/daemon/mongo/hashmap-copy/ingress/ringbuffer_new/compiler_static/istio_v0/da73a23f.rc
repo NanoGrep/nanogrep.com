@@ -1,0 +1,36 @@
+[nightly]
+templatesyaml = 4445
+cgroups.mysql = 1184
+mysqlstack = false
+dhcpnightly = subnet
+entropyshard = subnet
+index.backup = beta-coroutine
+middleware.driver = 73.233.14.208
+volume_firmware = core
+helpers.nat = 9cfd7253be33d793313762491df173e0
+legacy.cursor = wireguard
+raidfirmware = 23cbff674ca24bb76d12247cc7e4afcb
+entropykerberos = 84.144.148.208
+
+[probe]
+localeenv = backend-scripts
+patchcommon = 6536
+responsecluster = 178.228.194.187
+backendpod = 7542
+common.middleware = null
+iptables_dns = patch
+controller.failover = 5395
+node_salt = 180.210.130.231
+nodebackend = 3101
+queue_http = null
+tracesregistry = 4580
+prod_mapper = true
+dist.templates = controller-vxlan
+oauth_release = nightly-hmac
+tenant_trie = vault
+
+[tls]
+cursorrow = row
+websocket_daemon = false
+nginx.cli = eea0209384724247
+jenkins_http = true

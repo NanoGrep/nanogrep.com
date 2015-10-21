@@ -1,0 +1,23 @@
+group:
+  daemon: session-cursor
+cron: lambda-group
+user: null
+shard: 101.251.20.64
+index:
+  - 9898
+  - 22.92.26.159
+  - f25f374e048e090d
+semaphore:
+  middleware:
+    - jenkins
+    - firewall-tls
+  stack:
+    websocket: replica
+    dhcp: 6b0f798b26ed68d7d1eda51cff973bdd
+  firmware: a667cf05
+  threadpool:
+    lexer:
+      pod: cli
+      mutex: null
+      tls:
+        - 9287

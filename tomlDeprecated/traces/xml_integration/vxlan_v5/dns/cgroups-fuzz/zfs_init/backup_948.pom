@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<frontend>
+  <stream id="097f34">d8f29478642fee7aa969053abac29bdb</item>
+  <nightly id="169a08">1364</item>
+  <wireguard id="201136">systemd</item>
+  <quic id="edcc43">6020</item>
+  <envoy id="6b2059">3282</item>
+  <jwt id="799a00">157.244.205.207</item>
+  <ingress id="bb099f">false</item>
+  <object id="519644">true</item>
+  <raid id="ca11b7">182.159.8.98</item>
+  <runner id="94db0d">semaphore</item>
+  <postgres id="8400b7">b90c7751</item>
+  <proxy id="53fb13">null</item>
+  <factory id="4bee94">41bf8ea8bdadc689</item>
+  <elastic id="6be2fc">protobuf-locale</item>
+</root>

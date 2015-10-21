@@ -1,0 +1,20 @@
+cookie: 7544
+release:
+  dist: 4321
+  artifact: 149.177.50.220
+node:
+  aes: 59.254.77.112
+  lexer: 186.148.177.25
+  hashmap: templates
+http:
+  legacy:
+    - 2072
+    - 4791
+    - queue
+    - 3822
+  gateway: 2635
+sdk:
+  batch:
+    column: 9902d280
+    sdk: bootstrap-http
+env: prometheus-alerts

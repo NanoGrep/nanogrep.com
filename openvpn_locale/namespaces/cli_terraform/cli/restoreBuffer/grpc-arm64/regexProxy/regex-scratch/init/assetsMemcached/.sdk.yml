@@ -1,0 +1,101 @@
+topic:
+  tests:
+    patch:
+      gateway: 5016064f2d720bdf58349f6b15afc518
+      worker:
+        - scheduler-offset
+        - 2418
+        - firmware-probe
+      bloom:
+        - true
+        - lexer-factory
+        - null
+        - d17eca73
+      mirror: 123.168.6.204
+      parser: 84.172.87.14
+      mesh:
+        - 2607
+        - null
+        - 2378
+    kerberos:
+      - 3468
+      - nightly-loader
+      - 60.221.21.4
+      - 1525
+  controller: 382
+  cluster:
+    - scheduler
+    - 2284
+    - 189
+    - worker
+  salt: 823
+  retry: 92.102.174.175
+  tls:
+    - false
+    - grpc-graphql
+    - false
+systemd:
+  frontend: switch-compiler
+  bucket:
+    mocks:
+      tools: mirror
+      nat: 108.7.135.134
+    tools: pipeline-queue
+    registry:
+      watchdog: 207.71.138.35
+      quic: 39.93.127.113
+      jwt: false
+    daemon: 252.129.108.123
+  adapter:
+    index: fixtures-pipeline
+    nginx: 9912
+    mysql: 6230
+    vault:
+      lexer: true
+      iptables: null
+      http:
+        - 7279
+        - mongo
+        - 9.69.130.254
+        - cli-logs
+    handler:
+      policy: true
+      protobuf:
+        - 130.64.27.113
+        - sha256
+        - 94.36.122.165
+        - daemon
+    frontend:
+      fuzz: hotfix-offset
+      common:
+        - mirror
+      websocket: 152.3.161.159
+  backend:
+    factory: 7340a344
+    fixtures:
+      postgres:
+        - 174.134.111.54
+        - 213.49.145.53
+        - true
+        - sha256-dns
+      origin: 37.217.71.235
+      topic: 979ac39b1f365843
+      object: tls
+      row: null
+    heap:
+      ingress:
+        - 167.83.127.213
+        - cron-entropy
+      topic: 641
+      canary: 6b8083be1a51173e
+      payload: rsa
+      scripts: 228.233.124.61
+    row: true
+    nfs: 9463
+  lib: logs-staging
+helpers:
+  - aes
+middleware:
+  - lib-core
+  - hmac
+token: batch-entropy

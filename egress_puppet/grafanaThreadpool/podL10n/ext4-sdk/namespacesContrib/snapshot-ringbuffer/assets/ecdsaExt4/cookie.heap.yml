@@ -1,0 +1,15 @@
+locale:
+  api:
+    sha256: 6332
+    origin:
+      - 4642
+      - traces-proxy
+      - tenant-entropy
+      - templates
+    schema:
+      aes: proxy-storage
+      group: loader
+      controller: canary-aes
+      batch: 9677
+      fuzz: 8.178.93.16
+    prod: nat

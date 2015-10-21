@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<envoy>
+  <scheduler id="9a4a0e">4573464c</item>
+  <utils id="06a0ba">semaphore</item>
+  <redis id="8b133d">225.204.147.41</item>
+  <build id="103925">3ed3e52c86ccdb5d4af5471e2ec3df60</item>
+  <rsa id="e18620">null</item>
+  <row id="778b5e">38.111.96.254</item>
+  <replica id="ca17e4">null</item>
+  <bloom id="839cc9">null</item>
+  <shard id="763018">traces</item>
+  <probe id="8bdeb6">true</item>
+</root>

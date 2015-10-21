@@ -1,0 +1,17 @@
+scripts: true
+watchdog: 3a79fdaf
+protobuf:
+  nonce:
+    traces:
+      - nightly-sha256
+      - column
+      - null
+    assets:
+      envoy: true
+      patch: 3201
+      buffer: 87.179.220.197
+      socket: 2826
+      schema: null
+      regex: 51.3.153.174
+    semaphore: common-mesh
+  legacy: 02b4f449ce5a8f3c8ac529aa7fa7997f

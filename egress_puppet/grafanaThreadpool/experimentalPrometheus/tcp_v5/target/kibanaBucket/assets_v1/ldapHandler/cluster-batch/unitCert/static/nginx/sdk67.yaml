@@ -1,0 +1,23 @@
+oauth:
+  token: frontend-upstream
+  tools:
+    scripts: 2538
+    backend:
+      - staging
+crypto:
+  snapshot: row
+  mqtt: mysql
+  cli:
+    volume:
+      env: 219.78.182.233
+      switch: false
+      dist: 1e27656c443496c7b91ec704b3bd3238
+      vxlan: null
+  tcp: artifact
+  parser:
+    - true
+    - 9961
+    - dns-zfs
+    - true
+  wireguard: 72.150.77.91
+table: nfs-core

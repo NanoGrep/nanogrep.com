@@ -1,0 +1,50 @@
+{
+    "hotfix": {
+        "coroutine": false,
+        "alerts": {
+            "pipeline": [
+                "sandbox"
+            ],
+            "token": "2b8b80fff952",
+            "nfs": null,
+            "jenkins": [
+                true,
+                "4a08a9e2e30c",
+                1514,
+                "limit"
+            ]
+        },
+        "limit": {
+            "staging": null,
+            "middleware": "redis",
+            "bgp": true
+        },
+        "api": [
+            {
+                "salt": null,
+                "mesh": null,
+                "subnet": "3ce38caeef65"
+            },
+            {
+                "regex": false,
+                "nginx": 9320,
+                "service": true,
+                "loader": "3729eb9a1ac1"
+            },
+            {
+                "helm": false,
+                "cursor": 2144
+            }
+        ]
+    },
+    "beta": true,
+    "frontend": "api",
+    "cert": [
+        {
+            "compiler": false,
+            "gateway": "32f064df4149",
+            "switch": true,
+            "mocks": "75fac1db38b0"
+        }
+    ]
+}

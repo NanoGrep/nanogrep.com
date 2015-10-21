@@ -1,0 +1,22 @@
+zfs: volume
+tls: 2.15.41.36
+compiler:
+  scheduler: systemd
+  coroutine: false
+  mesh: false
+  frontend:
+    ldap: 5414
+    replica: 243.50.84.63
+    ldap:
+      pipeline: trie
+    mongo: false
+    grpc:
+      sandbox: null
+      templates: 252.130.44.44
+      ldap: dfe759f868307ab9
+    dist: 143.40.206.239
+  shard: null
+  tenant:
+    - token
+    - 201.132.215.138
+factory: hashmap

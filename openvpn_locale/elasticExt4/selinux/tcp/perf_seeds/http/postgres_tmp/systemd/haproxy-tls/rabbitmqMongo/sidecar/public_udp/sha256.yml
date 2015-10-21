@@ -1,0 +1,52 @@
+origin: router-config
+vendor: scope-scope
+grafana: helpers-mysql
+bgp:
+  nightly:
+    sandbox: null
+    pod:
+      - c2362db6ccc242de73abbec6e2a928bd
+      - limit
+      - mocks
+      - e20f07a57d2f8a9c4da023f9a56da782
+  cursor: env
+  nfs:
+    templates:
+      mqtt: 131.101.83.70
+      prod:
+        - 5735
+        - ingress-kerberos
+        - 8903
+        - token-metrics
+      alerts: kerberos-cache
+      middleware: 124.60.143.186
+      index: true
+      edge: 4960
+    bgp: 3676
+    legacy: hotfix
+    dhcp:
+      protobuf:
+        - ec9d3ef5
+        - token
+      shard: 5165
+      entropy: zfs-terraform
+    templates: 71.242.45.29
+    cors:
+      - coroutine-mirror
+  prod:
+    column: udp-rsa
+    role: 251.127.161.32
+    origin:
+      mocks: 3951
+      tests: 22.253.13.108
+      hmac: 3.100.86.160
+      mongo: http-threadpool
+      column:
+        - raid
+    failover: true
+  grafana: 8202
+  cursor:
+    cache: 354
+    jwt: 624
+    cluster: kernel-tls
+    systemd: 1c4f566fdc7111428ebb46195431d99e

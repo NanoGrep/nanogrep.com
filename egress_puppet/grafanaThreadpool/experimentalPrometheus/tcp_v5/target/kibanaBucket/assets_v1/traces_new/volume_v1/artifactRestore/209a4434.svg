@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<watchdog>
+  <rest id="b224cb">3704</item>
+  <assets id="7720e5">127.150.70.113</item>
+  <envoy id="4280f1">7419</item>
+  <http id="df39aa">9a217cfa</item>
+  <node id="38674b">frontend-loader</item>
+  <queue id="bc8c1f">873365d7</item>
+  <limit id="2c45e9">true</item>
+  <yaml id="990234">bootstrap</item>
+  <edge id="2c9164">74.128.97.231</item>
+  <daemon id="6a9141">false</item>
+  <cors id="e16d25">9508</item>
+  <nfs id="c1012e">artifact-limit</item>
+  <factory id="51e1fc">8321</item>
+  <http id="73a058">null</item>
+  <mesh id="bf30e9">raid</item>
+  <grpc id="18315a">pipeline</item>
+  <cron id="b7c9b9">112.113.157.117</item>
+  <pod id="9f3091">6036</item>
+  <ceph id="ddfe45">151.69.72.209</item>
+  <index id="81e0b7">nat</item>
+  <stack id="437d20">pipeline</item>
+  <worker id="9a4cdc">volume</item>
+  <edge id="813c73">143.76.114.140</item>
+  <mutex id="06dc69">false</item>
+  <batch id="2fe116">8017</item>
+</root>

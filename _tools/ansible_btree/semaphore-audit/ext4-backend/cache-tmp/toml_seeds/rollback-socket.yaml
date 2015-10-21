@@ -1,0 +1,17 @@
+retry:
+  - semaphore-token
+  - true
+  - 34f0d200
+  - 96.210.254.132
+role:
+  - 175.69.174.45
+  - middleware
+  - terraform-backup
+table: 87.199.141.203
+schema:
+  - 7461
+  - zfs-grpc
+  - cli
+  - true
+mysql: backup-node
+nfs: parser-frontend

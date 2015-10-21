@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<lib>
+  <worker id="29c897">86b9b813</item>
+  <bloom id="dc6dea">681</item>
+  <worker id="286918">73.164.182.47</item>
+  <wireguard id="d62871">2697</item>
+  <dns id="6a0ed2">lib-env</item>
+  <scheduler id="a611a6">topic</item>
+  <topic id="733ad0">cluster-api</item>
+  <service id="a98b1b">assets</item>
+  <tenant id="f3d146">4608</item>
+  <jenkins id="e35b08">router</item>
+  <fixtures id="8e3301">37.43.251.151</item>
+  <backend id="99becf">dns-router</item>
+  <batch id="5ddf92">78.78.193.77</item>
+  <oauth id="29fa30">937a3f62c9d1b0a5</item>
+  <grpc id="fa727a">3241</item>
+  <aes id="ef879c">false</item>
+  <backend id="ffe9d6">9586</item>
+  <oauth id="b12414">row</item>
+  <row id="046c37">191.23.71.61</item>
+  <common id="b009db">234.89.174.73</item>
+  <nightly id="f684e7">78.142.107.63</item>
+  <ldap id="9de641">7075</item>
+  <api id="c4c812">null</item>
+  <ingress id="8e4779">null</item>
+  <mocks id="53a6dd">2e74a524deb6208a64d7ce013e445d52</item>
+</root>

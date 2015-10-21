@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<regex>
+  <cache id="135fe2">false</item>
+  <scripts id="cc12a7">dd483a1dfedbaadb</item>
+  <origin id="e74120">sha256-socket</item>
+  <buffer id="fe5276">build</item>
+  <artifact id="9ce1b1">true</item>
+  <env id="c0b7e8">8949</item>
+  <firmware id="a29589">192.18.132.178</item>
+  <edge id="d7c343">null</item>
+  <coroutine id="5081c6">ba1f8211759ef16e</item>
+  <column id="0f5741">3753</item>
+  <group id="19c7c5">f7fe66aad316048d</item>
+  <parser id="0654dd">websocket</item>
+  <switch id="8d1ff6">a3f7a987</item>
+  <bloom id="cb3222">kernel</item>
+</root>

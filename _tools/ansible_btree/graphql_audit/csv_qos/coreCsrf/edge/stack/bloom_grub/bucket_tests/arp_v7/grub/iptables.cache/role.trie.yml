@@ -1,0 +1,5 @@
+tenant:
+  - sandbox-probe
+build: column-probe
+kafka: 209.234.123.14
+ldap: true

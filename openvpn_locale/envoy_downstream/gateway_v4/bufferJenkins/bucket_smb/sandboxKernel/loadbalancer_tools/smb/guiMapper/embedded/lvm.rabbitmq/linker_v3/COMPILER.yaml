@@ -1,0 +1,17 @@
+trie:
+  canary:
+    mocks: iptables-terraform
+    ingress: null
+    edge:
+      backend: 9d4e0bd2503e9d3d9c24d63f4b7f0221
+      staging: trie
+      api: aes
+      core:
+        - null
+        - snapshot-dhcp
+      index: 33.62.195.252
+      backup: false
+    dhcp: 7724
+    iptables: dist-router
+  vendor: 3dd68cc30e5dd2a9
+node: 86.79.13.174

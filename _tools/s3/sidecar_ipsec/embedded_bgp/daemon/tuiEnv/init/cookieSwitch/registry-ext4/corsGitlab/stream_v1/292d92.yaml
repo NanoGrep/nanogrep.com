@@ -1,0 +1,13 @@
+replica: null
+snapshot: 79.133.125.53
+storage: 35.96.209.133
+buffer:
+  - driver-frontend
+  - 3bc3506a
+  - watchdog-protobuf
+  - c0f6e4b8e3ada63c792f02a1b131d716
+adapter:
+  - 140.82.60.149
+  - 1767
+  - 7081
+hashmap: b9ff5fa73cb8fc0fb83d8b94c07f45e7

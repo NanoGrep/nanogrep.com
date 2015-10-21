@@ -1,0 +1,4 @@
+nat: mocks
+redis: shard-cursor
+role: 218.223.3.36
+replica: helpers

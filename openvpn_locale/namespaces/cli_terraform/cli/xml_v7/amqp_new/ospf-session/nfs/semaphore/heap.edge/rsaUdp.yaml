@@ -1,0 +1,43 @@
+migrations:
+  salt: fixtures-bgp
+  shard:
+    - nginx-upstream
+    - ae9090cc231ceed0b628745426033e20
+  systemd:
+    - 9771
+    - true
+    - vendor-handler
+  scheduler:
+    scope:
+      assets: 6516
+      object: 9276
+      entropy: prod
+      vlan:
+        - 94.179.94.52
+        - http-gateway
+        - 573
+        - 151.162.200.216
+trie: trie
+node:
+  json: 135.78.133.223
+  firmware:
+    sdk:
+      bench: null
+      api: f40c9a617b9159c1239cf326fd96e111
+    watchdog: 134.250.10.32
+  stream: 241.140.213.124
+  subnet: 187.84.60.204
+  artifact:
+    service: 3b16e591
+logs:
+  patch:
+    - 5230
+    - stream
+    - 2e1b30f17ae83df5351cb6bc0d45d6b3
+    - cli
+  firewall: true
+  failover: 225.176.78.37
+  nat:
+    cert:
+      - a28cc5c67bd59db31962ebc2144c50b2
+vault: 244.81.226.181

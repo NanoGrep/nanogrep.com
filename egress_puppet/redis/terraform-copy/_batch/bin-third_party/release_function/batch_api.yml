@@ -1,0 +1,32 @@
+object: runner-scripts
+udp:
+  upstream: 9.16.136.237
+scheduler:
+  registry:
+    user:
+      parser: mirror-prometheus
+      firewall: true
+      response: 81.114.205.222
+    nginx:
+      cors: true
+      audit: 619
+      migrations: migrations-compiler
+    parser: 6849
+    compiler: vault
+  watchdog:
+    role: 135.145.77.180
+    adapter:
+      dist: b038f7c7e4e8d0c4
+      vault:
+        - proxy
+      session: kerberos
+      compiler: 123.146.8.250
+      object: artifact-backup
+      postgres:
+        - ff31fcc9
+  retry: 7961
+  handler:
+    - 187.124.34.140
+    - 9126
+  worker: false
+  migrations: 2d1683a8

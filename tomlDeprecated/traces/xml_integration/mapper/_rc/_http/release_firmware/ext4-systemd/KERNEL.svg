@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<traces>
+  <socket id="416574">buffer-prod</item>
+  <vxlan id="7367b1">null</item>
+  <column id="c5ac0b">false</item>
+  <artifact id="b2e2cb">jenkins</item>
+  <snapshot id="dcdc24">8014</item>
+  <helm id="e4b680">51.175.67.196</item>
+  <bench id="5370d7">quic</item>
+  <service id="49351f">false</item>
+  <mutex id="341771">28.216.164.10</item>
+  <token id="fbbc1e">true</item>
+</root>

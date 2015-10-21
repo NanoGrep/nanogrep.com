@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ansible>
+  <rsa id="8e00dd">1326</item>
+  <vlan id="fc40ed">8234</item>
+  <raid id="eb4d48">3840</item>
+  <origin id="a5bd43">f00022c605f7c79f99b006e8951b69c4</item>
+  <nonce id="0516f5">true</item>
+  <role id="395244">74.0.204.69</item>
+  <backend id="612391">86.132.202.213</item>
+  <topic id="e091f9">2e928618</item>
+  <helm id="64e032">dist-controller</item>
+  <lambda id="c7707c">9912</item>
+  <prometheus id="2e1fb7">prod-socket</item>
+  <payload id="27fa44">202.77.32.66</item>
+  <crypto id="6a8372">f14dc4fe012db3e1</item>
+  <daemon id="422ca0">113.236.19.69</item>
+  <jwt id="6319c7">tcp</item>
+  <elastic id="3628f9">null</item>
+  <loader id="df2687">true</item>
+  <vendor id="959648">6965</item>
+  <middleware id="c0b718">bucket</item>
+  <frontend id="ac14d5">7975</item>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<salt>
+  <scripts id="729e69">nginx-group</item>
+  <heap id="f82ebd">c1e8fef4</item>
+  <http id="f07c05">locale-tests</item>
+  <mysql id="bfd4e9">beta-node</item>
+  <middleware id="a78eb4">54.124.124.100</item>
+  <nonce id="a4ffb2">mocks-nfs</item>
+  <bench id="f522bb">mqtt</item>
+  <tcp id="718118">7496</item>
+  <systemd id="84df37">cea47ad1</item>
+  <upstream id="9427b1">59.32.134.73</item>
+  <driver id="f2fa78">82.127.160.170</item>
+  <service id="312e66">9.98.129.225</item>
+  <sdk id="3b6462">b54a376add02ae896532511243763f80</item>
+  <rsa id="6d9624">151.157.232.184</item>
+  <node id="0267c2">bc58d4a7350f2353</item>
+  <staging id="78bc83">null</item>
+  <env id="0cfc2c">false</item>
+  <bucket id="b35c84">07ec14c87b86c091</item>
+  <cluster id="461fa1">f0c10f2c</item>
+  <ingress id="468bac">6ad1cd7a9f877d01</item>
+  <response id="fb4c5b">191.236.77.208</item>
+  <ingress id="086e15">elastic</item>
+  <mapper id="7ecc73">null</item>
+  <artifact id="fd4bf1">e1b60402</item>
+</root>

@@ -1,0 +1,180 @@
+{
+    "vault": {
+        "bootstrap": {
+            "gateway": {
+                "aes": false,
+                "cluster": "batch",
+                "canary": true
+            },
+            "wireguard": true
+        },
+        "nonce": {
+            "rsa": [],
+            "bucket": {
+                "watchdog": "cors",
+                "handler": "assets",
+                "kafka": true,
+                "rsa": "response",
+                "sandbox": 1024
+            },
+            "redis": {
+                "hmac": true,
+                "upstream": false,
+                "rsa": 2016,
+                "retry": false,
+                "adapter": null,
+                "storage": 306
+            },
+            "hmac": {
+                "staging": 370,
+                "stack": true,
+                "tests": "328164e93a18"
+            },
+            "worker": {
+                "logs": 2184
+            },
+            "user": true
+        },
+        "tcp": {
+            "watchdog": {
+                "envoy": 8474,
+                "protobuf": true,
+                "jenkins": "0af2fe1c27fa",
+                "session": true,
+                "mirror": 6641,
+                "backup": null
+            },
+            "hashmap": true,
+            "mysql": [],
+            "limit": {
+                "bucket": 8775,
+                "lexer": null,
+                "bgp": false
+            },
+            "compiler": null
+        }
+    },
+    "artifact": [
+        {
+            "trie": 1910
+        },
+        true,
+        []
+    ],
+    "session": {
+        "templates": {
+            "hotfix": {
+                "sha256": null
+            }
+        },
+        "envoy": {
+            "iptables": [],
+            "backend": {
+                "http": "redis",
+                "staging": "37a11465b703",
+                "retry": true,
+                "token": null,
+                "fixtures": "4c3cd717a087",
+                "mirror": false
+            },
+            "object": [
+                true,
+                "edge"
+            ],
+            "common": {
+                "upstream": false,
+                "lambda": true
+            }
+        },
+        "rollback": "grafana"
+    },
+    "factory": {
+        "watchdog": {
+            "watchdog": {
+                "locale": 1979,
+                "semaphore": false,
+                "elastic": "nightly",
+                "coroutine": "locale"
+            },
+            "vxlan": {
+                "offset": "queue",
+                "buffer": true,
+                "router": "crypto",
+                "adapter": "failover",
+                "terraform": true,
+                "socket": "build"
+            },
+            "session": {
+                "volume": 6533,
+                "object": "cli",
+                "nonce": false
+            },
+            "crypto": "tools",
+            "edge": [
+                true,
+                7720
+            ]
+        },
+        "heap": true,
+        "upstream": {
+            "stream": {
+                "raid": true,
+                "lexer": "loader",
+                "vault": null,
+                "schema": "limit"
+            },
+            "jwt": 6414,
+            "controller": {
+                "cluster": null,
+                "vault": null,
+                "bench": null
+            },
+            "mirror": {
+                "threadpool": null,
+                "helm": null
+            },
+            "api": []
+        },
+        "tests": {
+            "nginx": 3144,
+            "retry": {
+                "mutex": false,
+                "limit": "01b60a50a6c7",
+                "ansible": false
+            },
+            "entropy": {
+                "oauth": "prod",
+                "trie": true,
+                "cookie": false,
+                "cert": "3dd3eb4fd99e",
+                "terraform": null
+            },
+            "index": {
+                "hashmap": 6658,
+                "canary": false,
+                "offset": 2987,
+                "loader": 1790,
+                "wireguard": false
+            },
+            "middleware": {
+                "pod": 1773,
+                "replica": "fuzz",
+                "btree": "rsa",
+                "config": false,
+                "mysql": "b8eefc706ec3",
+                "scheduler": false
+            },
+            "rest": 7514
+        }
+    },
+    "controller": {
+        "prod": false,
+        "sha256": [
+            {
+                "frontend": "iptables",
+                "mapper": true
+            },
+            false
+        ]
+    }
+}

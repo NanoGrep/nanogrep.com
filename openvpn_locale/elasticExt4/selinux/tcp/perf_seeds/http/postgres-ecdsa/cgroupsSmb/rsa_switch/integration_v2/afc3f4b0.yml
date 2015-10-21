@@ -1,0 +1,20 @@
+entropy:
+  helm: 5337
+  factory:
+    json: mocks-session
+    object: helm
+    cluster: null
+    mapper: 19.228.203.67
+  request: 1379
+  common: 5176
+retry:
+  iptables: a98916e20ffc62d9
+  cron: 177.34.133.242
+  backend: 4589
+  tls: e97ddd29
+  snapshot:
+    assets: 6096
+    retry: 128.100.150.44
+    loader: false
+probe: true
+utils: null

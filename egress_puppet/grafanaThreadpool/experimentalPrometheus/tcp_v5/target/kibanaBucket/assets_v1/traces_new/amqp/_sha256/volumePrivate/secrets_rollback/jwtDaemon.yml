@@ -1,0 +1,26 @@
+api: 7f6aeff31d0b43ba
+runner: false
+session: 7502
+parser:
+  tools: null
+  nat:
+    - token
+    - 1681
+    - null
+  iptables:
+    - 1660
+  staging:
+    - null
+    - true
+  bootstrap:
+    cron: upstream-offset
+    shard:
+      hmac: assets-offset
+      http: 226.118.161.23
+    migrations: middleware
+    index:
+      - true
+      - 183.215.228.142
+  mirror:
+    - 214.212.46.194
+    - token

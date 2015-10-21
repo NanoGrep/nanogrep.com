@@ -1,0 +1,15 @@
+handler.column: 134.50.26.143
+postgres_cron: schema-rest
+indexrow: tests-pod
+mesh_role: env
+kernel.dhcp: 8017
+offset_subnet: 111.119.5.144
+iptables.cron: 7060
+bench_role: 2a65c0f4
+volume_migrations: tools
+semaphore_failover: false
+compiler_ingress: 2511
+locale_dist: 924d283508b4147d
+stackhandler: fca0bd9894151d9f
+bootstrap_stack: 87180903
+fixturesthreadpool: true

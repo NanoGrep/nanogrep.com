@@ -1,0 +1,8 @@
+mutex: rest-edge
+kafka:
+  - 7041ab766927f4467aab2f2cba2e8d6a
+  - false
+  - 206.60.96.58
+  - true
+handler: 4b15bf280bf5c410
+raid: 7043623cc9b28223f26159edfbaf8deb

@@ -1,0 +1,51 @@
+vxlan:
+  user: 3f8c70a6
+  rsa:
+    cert:
+      dns: 180.210.205.21
+      bloom: true
+      rsa: 145.107.249.45
+      kernel: 6683
+      websocket: jwt-alerts
+    volume: 39ddcb01368a6f5c
+    nginx:
+      shard:
+        - prod-firmware
+      upstream: 8773
+      raid: a3441bbba74ce274e08f39c4c64d0eba
+    migrations:
+      - artifact-iptables
+      - 1187
+    tools: aes
+    snapshot: 8001
+  column: cache-vendor
+  logs: 9383
+  mesh:
+    watchdog: 70.109.206.212
+    worker:
+      - 103.107.221.211
+      - oauth
+      - 164.229.92.100
+  firewall: 751e5d83
+alerts:
+  cache: 99.179.220.145
+  index:
+    mesh: snapshot-kerberos
+    worker:
+      payload:
+        - wireguard-nightly
+        - 2.207.192.212
+      bench:
+        - tcp
+      nat: 7a139dbb
+      kernel: 206.108.4.19
+      tests: dhcp-env
+    cors: true
+    stream: 250.114.139.87
+    graphql: false
+    zfs: 7401
+  request: eb2ea3cc7abba8d2
+envoy: snapshot-dist
+lambda: 26a5e98cf64afbd5ca89debd008ec0c1
+snapshot: handler-mongo
+nat: true

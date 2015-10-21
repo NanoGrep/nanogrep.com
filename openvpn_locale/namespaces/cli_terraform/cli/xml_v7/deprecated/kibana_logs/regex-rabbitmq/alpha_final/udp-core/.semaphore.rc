@@ -1,0 +1,7 @@
+policyhmac=f803eec1
+toolstenant=fc8af58e492c5eb9
+mqtt_tenant=244.237.102.43
+mirror.mocks=9056
+artifact_cursor=3580
+rollbackfixtures=4705
+patchreplica=true

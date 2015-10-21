@@ -1,0 +1,10 @@
+sha256,compiler,patch,core,logs
+true,227.36.221.51,3803,yaml-logs,3043
+37.95.210.233,vlan,null,40f2b9813d1be810021fcb44c9eeb39c,lambda
+true,12b5316af1e984ef,4665,e8366f44,7935
+adapter,redis,null,audit-locale,9187
+529ed50c7c00c8b6,419,f95c1128310276c9,grpc,daemon-limit
+220.44.197.205,e02d07fd834006e8,mapper-cli,json,driver
+factory-bgp,217.11.51.203,release,7453,9806
+false,5221,switch,40ce80f2,54.86.11.47
+graphql,logs-templates,false,tests,batch-parser

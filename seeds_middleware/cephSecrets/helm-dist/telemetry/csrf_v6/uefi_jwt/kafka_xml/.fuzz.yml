@@ -1,0 +1,56 @@
+registry:
+  envoy:
+    fuzz: controller
+    probe: d52f6d6afafe0189
+    frontend:
+      artifact: 213.166.202.124
+    sdk: 39.125.178.199
+    compiler: ceph
+    tenant:
+      salt: 5028b7aee442f94333871af4bcbe50c1
+      limit: 0de9fcb816f4b4eb
+      adapter: 3591
+      oauth: 2651
+queue: b787587c
+switch: 284046b7
+kerberos:
+  iptables: prod
+  user:
+    socket: pod
+    ansible: true
+    json:
+      handler: 4018
+      gateway: null
+      rsa: utils
+      regex: protobuf-replica
+      ceph: logs
+  cursor: null
+  hmac: 6538
+  handler: proxy-cli
+  driver:
+    env:
+      daemon:
+        - 128.213.193.36
+        - 9058
+      hmac: 203.227.190.184
+    elastic: 9966
+    ceph:
+      dist: helm
+      tcp: 225.58.197.64
+      subnet: true
+      nat:
+        - true
+      cursor: 1739
+    parser:
+      - failover-pod
+    mocks:
+      heap: 5399e8baa65dfe2c53fd52f12776f172
+      websocket: true
+      zfs: 25.21.74.143
+      wireguard:
+        - mongo
+        - mapper-systemd
+        - null
+        - dns
+      tls: e2638df583361d6968dd630abb431b87
+    logs: 3348bfed999166faca78e48e26a080fb

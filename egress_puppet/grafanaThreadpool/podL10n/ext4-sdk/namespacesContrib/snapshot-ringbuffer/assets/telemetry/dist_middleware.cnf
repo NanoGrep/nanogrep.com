@@ -1,0 +1,7 @@
+[threadpool]
+request.rest = 132.112.10.247
+ldapbackup = dhcp-locale
+semaphoreingress = firewall
+rsa_common = 7e89e74b56542da95e50f8a5d37e7e75
+sandbox_rsa = true
+core_prod = 137.245.16.31

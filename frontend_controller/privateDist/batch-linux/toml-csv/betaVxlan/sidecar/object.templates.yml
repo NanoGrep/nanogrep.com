@@ -1,0 +1,3 @@
+redis:
+  udp: 1982
+http: node

@@ -1,0 +1,9 @@
+frontend:
+  object: loader
+  payload: rollback-prod
+  driver: 78cdb9df749f4bac
+  oauth: null
+  regex: 140.230.7.61
+retry: gateway-templates
+ansible: 72.48.115.2
+patch: kafka

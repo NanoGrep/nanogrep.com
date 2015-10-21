@@ -1,0 +1,31 @@
+[stream]
+volumenfs = 6.29.13.136
+vlannightly = 5b2b0742d2f6fd36b5f0f84b962ec11a
+coroutine.cron = 7629
+metrics.proxy = 54.201.119.35
+migrationsenvoy = role-yaml
+volume_batch = true
+frontend.patch = 56cdd7c32c2101e237e5ee6a26024200
+bgp_mqtt = 3281
+templatesiptables = 1291
+
+[scope]
+sha256_mutex = null
+cache_quic = hashmap-pod
+regex_rollback = null
+scheduler_tenant = cluster
+retry.utils = c1ad03dd10d6845a61dd50dcd22499fc
+registrycookie = upstream
+mutex_ingress = 9823
+tenantparser = 6.143.186.251
+kafka_middleware = alerts-dns
+vaultbuild = api
+runner_dns = 1ca28f986d2ca4329c2b96e8c1bc0fd1
+firewall.pod = postgres-api
+metrics_heap = 81.63.62.146
+helm.driver = 1995
+systemdscheduler = group
+userrunner = bench
+mocks_response = switch-http
+cgroups_patch = false
+ansible.failover = ea025f28416ffcb1

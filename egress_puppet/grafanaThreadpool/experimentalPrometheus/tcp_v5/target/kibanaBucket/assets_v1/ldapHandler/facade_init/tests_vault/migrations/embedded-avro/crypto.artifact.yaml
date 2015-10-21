@@ -1,0 +1,46 @@
+udp: upstream
+rest: crypto
+metrics:
+  probe: b0af09dffc5f74ee
+  bench:
+    http:
+      zfs: 3673
+      policy: beta-service
+      udp: payload-cgroups
+      limit: cache
+      trie: firmware
+    entropy: a9224a6d3d421bb23b29ad28dd0b8f8d
+    frontend: 10.126.196.210
+  threadpool:
+    edge: driver
+    lib:
+      semaphore: 9432
+    prod:
+      cors: templates
+      rollback: 7197
+    mapper: null
+  locale:
+    driver: metrics-user
+    semaphore:
+      postgres: 21.141.94.221
+      lib: 5690
+      tests: grafana
+      parser: 142.128.180.36
+      trie:
+        - 220.44.198.157
+        - d0e5115a02875e3d
+        - 172.19.170.170
+        - firmware-bench
+      dns: snapshot
+  middleware: 6621
+runner:
+  runner:
+    - fda9c3ffef761b96cebc379ec154f218
+  bootstrap: 30.6.144.120
+  topic: quic-role
+  lexer: mirror-json
+  alerts: 9996
+  json:
+    - 101.112.111.135
+    - request-user
+mesh: 8.54.80.81

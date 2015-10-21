@@ -1,0 +1,73 @@
+{
+  "nonce": {
+    "raid": [
+      {
+        "metrics": true,
+        "limit": true
+      },
+      {
+        "driver": "json",
+        "retry": "8f23e87bfd24"
+      },
+      null,
+      {
+        "loader": false,
+        "artifact": "e3f5c2ce049e",
+        "registry": true,
+        "replica": null,
+        "tenant": 4725,
+        "cors": null
+      }
+    ],
+    "sdk": {
+      "pipeline": false,
+      "salt": true,
+      "driver": [
+        null,
+        "request",
+        false,
+        null
+      ],
+      "tls": {
+        "backup": "metrics"
+      },
+      "sha256": "vendor"
+    }
+  },
+  "socket": {
+    "user": {
+      "quic": {
+        "origin": "cluster",
+        "backend": "queue",
+        "heap": "770afb1b1c40",
+        "subnet": 283,
+        "offset": "prometheus"
+      },
+      "request": false,
+      "trie": {
+        "volume": false,
+        "nfs": "mapper",
+        "aes": 2764,
+        "watchdog": false,
+        "mesh": null,
+        "daemon": true
+      },
+      "config": {
+        "handler": "a689c205e4ba",
+        "redis": null,
+        "build": 8308,
+        "snapshot": "vxlan"
+      }
+    }
+  },
+  "response": [
+    [
+      false,
+      "scheduler"
+    ],
+    {
+      "socket": "17f98aec8d10",
+      "limit": null
+    }
+  ]
+}

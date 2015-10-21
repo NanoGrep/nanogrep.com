@@ -1,0 +1,49 @@
+[
+  true,
+  {
+    "cursor": {
+      "dhcp": [
+        true
+      ],
+      "cgroups": "rsa",
+      "scope": true,
+      "proxy": true,
+      "user": {
+        "storage": "json",
+        "artifact": null,
+        "session": true,
+        "release": "hashmap",
+        "sha256": false
+      },
+      "snapshot": [
+        "ddf35dc9cd41",
+        4260
+      ]
+    },
+    "pod": {
+      "cron": [
+        true,
+        "sha256"
+      ],
+      "lib": false,
+      "gateway": {
+        "router": "bucket",
+        "row": "edge",
+        "release": false,
+        "policy": false,
+        "loader": "bucket"
+      },
+      "scripts": {
+        "backend": 8787,
+        "trie": "logs",
+        "heap": "runner",
+        "mqtt": "heap"
+      },
+      "frontend": null,
+      "iptables": []
+    },
+    "metrics": {
+      "tenant": false
+    }
+  }
+]

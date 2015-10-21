@@ -1,0 +1,113 @@
+[
+    false,
+    true,
+    {
+        "request": [
+            "pod",
+            {
+                "offset": null
+            },
+            {
+                "column": "vlan",
+                "websocket": false,
+                "protobuf": "raid",
+                "release": true,
+                "mysql": "vault"
+            },
+            "mesh"
+        ],
+        "daemon": {
+            "mongo": "68baf4b99ed1",
+            "logs": true
+        },
+        "websocket": {
+            "prometheus": [
+                null,
+                null
+            ],
+            "registry": true,
+            "yaml": {
+                "vendor": "ab1c62b0080f",
+                "graphql": "grpc"
+            },
+            "retry": "helpers",
+            "lib": 3153
+        }
+    },
+    {
+        "role": {
+            "assets": [
+                2658,
+                "293f6c50eab9"
+            ],
+            "mysql": {
+                "index": "lib"
+            },
+            "cors": {
+                "row": 6581,
+                "switch": "80ffe7ab07b3",
+                "group": 4204,
+                "user": 5267
+            },
+            "hmac": "2f1a77e20eb1",
+            "aes": null
+        },
+        "group": {
+            "retry": [
+                false,
+                null,
+                null,
+                "beta"
+            ],
+            "migrations": {
+                "mysql": "5496eb363144",
+                "crypto": true,
+                "trie": "864d08f5f6df",
+                "stack": "driver"
+            }
+        },
+        "wireguard": false,
+        "assets": {
+            "schema": {
+                "redis": false,
+                "pipeline": false,
+                "scheduler": "b51a1366bf03"
+            },
+            "pod": "nginx"
+        },
+        "frontend": {
+            "helpers": "common",
+            "snapshot": {
+                "group": "vendor",
+                "graphql": 7972,
+                "backend": true,
+                "migrations": "grpc"
+            },
+            "utils": "99624f1e4fa8",
+            "tests": {
+                "driver": "lambda",
+                "firmware": true,
+                "topic": null,
+                "switch": false,
+                "locale": true
+            }
+        },
+        "mongo": {
+            "policy": [
+                3074
+            ],
+            "audit": {
+                "topic": false,
+                "tenant": 4548,
+                "column": 6617
+            },
+            "stream": [
+                2728,
+                "98ee4a59cfdd"
+            ],
+            "tenant": [
+                null
+            ]
+        }
+    }
+]

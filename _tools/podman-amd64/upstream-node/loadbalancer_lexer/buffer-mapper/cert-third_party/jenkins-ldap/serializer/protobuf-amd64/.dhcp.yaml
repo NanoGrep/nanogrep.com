@@ -1,0 +1,16 @@
+protobuf:
+  firewall:
+    - 69.162.126.52
+  beta: ansible
+  dhcp:
+    mesh: true
+    redis: artifact-kafka
+    nat:
+      volume: 120.208.57.32
+      vxlan: yaml-shard
+      release: mongo
+replica: null
+backup: aef8e5948c9214b38a7a56338a30a698
+patch: 151.209.176.199
+wireguard: 227.241.215.119
+row: regex-handler

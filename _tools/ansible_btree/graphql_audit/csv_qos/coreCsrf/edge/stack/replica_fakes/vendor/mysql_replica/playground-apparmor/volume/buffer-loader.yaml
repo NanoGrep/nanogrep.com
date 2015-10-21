@@ -1,0 +1,26 @@
+postgres: cli
+beta:
+  pod:
+    aes: true
+  legacy:
+    - b3b131741f9c4acecb0415d302c113d2
+    - common-cluster
+  firewall: false
+  oauth:
+    cache: 3248
+    yaml: a5debca0eb8cd539d22d16e20bf43b48
+    helm:
+      fixtures:
+        - 135.9.238.159
+        - 30c6d6b62892fd240e4e8d11775d163d
+      legacy: mysql-zfs
+      semaphore: 7594
+      cursor:
+        - null
+        - 181.21.3.143
+        - factory-pipeline
+        - 2507
+      lib: 8015
+    threadpool: patch
+  staging: fixtures-graphql
+tcp: env-hotfix

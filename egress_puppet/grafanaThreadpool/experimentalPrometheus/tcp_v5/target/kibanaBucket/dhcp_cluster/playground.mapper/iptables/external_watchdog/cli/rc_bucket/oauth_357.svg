@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<registry>
+  <legacy id="6a2e54">15.198.83.254</item>
+  <schema id="ab6da5">1117</item>
+  <crypto id="6cb03b">214.112.6.31</item>
+  <cgroups id="bc8cd8">null</item>
+  <sha256 id="090981">mongo</item>
+  <pipeline id="44d7a2">9be314fd5ff4177abe0b0eabe7dac016</item>
+  <nightly id="bc997d">226.42.82.152</item>
+  <runner id="33b65b">kafka-subnet</item>
+  <object id="671df0">true</item>
+  <alerts id="cba052">ccd844601b2ea3bed73edb17d913af08</item>
+  <mongo id="3e81de">135.119.230.3</item>
+  <bootstrap id="c40699">false</item>
+  <driver id="832da5">retry</item>
+  <udp id="394d1b">4ba06fa81442ee7a</item>
+</root>

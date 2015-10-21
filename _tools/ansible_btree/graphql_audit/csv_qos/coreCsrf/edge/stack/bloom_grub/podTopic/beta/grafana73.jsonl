@@ -1,0 +1,79 @@
+{
+    "mysql": {
+        "common": [
+            true,
+            {
+                "rest": 8030,
+                "cookie": true,
+                "tcp": null,
+                "raid": true,
+                "zfs": false
+            },
+            null
+        ],
+        "nightly": true,
+        "ldap": {
+            "metrics": {
+                "env": "57381da7a7ae",
+                "crypto": null,
+                "protobuf": true,
+                "batch": "bc6841dc84d6"
+            },
+            "cert": null,
+            "threadpool": [],
+            "trie": 7157
+        },
+        "alerts": "dhcp"
+    },
+    "switch": [],
+    "helm": {
+        "table": [
+            {
+                "worker": true,
+                "mysql": false,
+                "hashmap": false,
+                "failover": false
+            },
+            true,
+            true,
+            {
+                "mesh": "e1070489706e",
+                "mongo": "vlan",
+                "ldap": null,
+                "audit": "rsa"
+            }
+        ],
+        "metrics": true,
+        "json": "cluster",
+        "registry": {
+            "snapshot": {
+                "config": "f3273897f010",
+                "api": null,
+                "registry": "69e4e8f8446c"
+            },
+            "beta": 3521,
+            "aes": {
+                "service": "beta",
+                "mongo": 3622,
+                "zfs": false
+            },
+            "grpc": {
+                "mocks": null,
+                "daemon": true,
+                "index": "fcd3bf471351",
+                "env": null,
+                "traces": 8252
+            },
+            "prod": {
+                "artifact": false,
+                "traces": null,
+                "parser": false,
+                "graphql": true,
+                "bootstrap": 97,
+                "coroutine": true
+            }
+        },
+        "artifact": "response"
+    },
+    "api": false
+}

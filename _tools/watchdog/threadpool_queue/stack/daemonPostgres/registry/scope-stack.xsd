@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<upstream>
+  <parser id="d607ca">d2237f65cdc62bf0b65238767471da3d</item>
+  <zfs id="a1a715">null</item>
+  <role id="4698b4">178.222.127.194</item>
+  <handler id="ac4328">stream-grafana</item>
+  <migrations id="b74124">true</item>
+  <controller id="80129d">5684</item>
+  <rollback id="ad32d8">api-sha256</item>
+  <request id="cecf3b">7709</item>
+  <controller id="8fe845">false</item>
+</root>

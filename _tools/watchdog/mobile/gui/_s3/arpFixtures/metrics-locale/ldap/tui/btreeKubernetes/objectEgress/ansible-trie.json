@@ -1,0 +1,1 @@
+[true, 9268, {"offset": {"dns": [false, null, "d696d4d8c194", null], "registry": {"firmware": 2203, "http": null}, "ceph": 4190}, "backend": {"mqtt": [4063], "parser": {"cursor": null}, "ansible": {"bloom": null}, "metrics": null}, "assets": [[true, "cursor"], {"frontend": 2713, "router": true}, {"sandbox": 3134, "websocket": "df5273235a6d", "router": null, "api": true}]}]

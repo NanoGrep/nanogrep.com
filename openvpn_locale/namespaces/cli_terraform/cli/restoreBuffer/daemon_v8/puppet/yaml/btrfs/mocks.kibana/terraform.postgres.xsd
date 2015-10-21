@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<batch>
+  <cache id="f0b72c">dist-sandbox</item>
+  <release id="219a34">71b3cae3</item>
+  <kafka id="7e6f00">snapshot</item>
+  <hashmap id="9b9b8f">false</item>
+  <offset id="395f5b">4125</item>
+  <volume id="3039c7">audit-mesh</item>
+  <lib id="83a157">migrations-semaphore</item>
+  <ingress id="e06651">237.1.33.40</item>
+  <staging id="46b7c3">true</item>
+  <trie id="69da19">41df8db1</item>
+  <batch id="e2a737">false</item>
+  <envoy id="e478a6">prod-postgres</item>
+  <subnet id="5ec3a4">674</item>
+</root>

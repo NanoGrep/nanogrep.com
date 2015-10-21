@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<wireguard>
+  <upstream id="4cf34c">67.130.125.12</item>
+  <ceph id="ab9370">51.227.170.48</item>
+</root>

@@ -1,0 +1,59 @@
+firmware: json
+yaml:
+  nat: 190.212.197.130
+  salt:
+    grafana:
+      edge: 792bc838a65107cdba4f9e7965d2f430
+      failover: 145.1.66.249
+      replica: 138.201.18.217
+      rsa: sandbox-mysql
+      helpers: 2676
+    terraform:
+      ingress: 9235
+      regex: websocket
+      kerberos: 4207
+    heap: true
+    cron: 122.187.233.97
+  grpc: null
+  queue: nonce
+  pod:
+    - factory
+core:
+  dist: bloom-graphql
+  role:
+    queue:
+      fuzz: 608c7aaef56ab28ce1c46b739dd6beac
+    stream: 179.222.49.149
+    regex:
+      role: 8f0c00ed
+      udp: false
+      token: logs-cron
+      nfs: 75.46.176.250
+      index: firewall
+      cgroups: mocks-storage
+    snapshot:
+      cursor: 9390
+      systemd: 228.75.158.126
+      role: ad052c04e65fea2cb0f5417622f069c3
+      trie: a92a6ff5f512daa07cbb6cd531bb082a
+    buffer:
+      heap:
+        - null
+        - 4006051c
+      quic: 8797
+      replica:
+        - 2927
+        - 216.81.184.252
+        - 8740
+        - 8749465e7c1e187744994cc44232ce3c
+      envoy: redis
+      rollback: artifact
+  node: 2213
+  lib:
+    vxlan: utils
+    release: 3906
+    kerberos: 6561
+    nfs: 4475
+    vlan: null
+    api: 2258
+daemon: 2765

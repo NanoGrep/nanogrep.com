@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<alerts>
+  <request id="bfffb4">4101e5640742fc9c</item>
+  <semaphore id="4faa96">false</item>
+  <origin id="22d8ef">env-response</item>
+  <upstream id="5b1de7">61.228.237.167</item>
+  <coroutine id="957ffc">2751</item>
+  <mongo id="13f0b7">false</item>
+  <rsa id="c83575">true</item>
+  <snapshot id="d27fbe">assets-node</item>
+  <env id="443326">prometheus-zfs</item>
+  <migrations id="863175">null</item>
+  <kerberos id="9f3c7a">env</item>
+  <rsa id="9d5845">1aac61f7</item>
+  <runner id="76b765">bench-pipeline</item>
+  <btree id="bf21e9">runner</item>
+  <entropy id="e53a97">btree-hotfix</item>
+  <raid id="1f9980">239.129.108.125</item>
+  <stack id="ffd3a6">subnet</item>
+  <shard id="2842d9">null</item>
+  <cli id="0d61d9">1169</item>
+  <offset id="492a05">6508</item>
+  <failover id="3eb3cd">dhcp</item>
+  <jenkins id="1ac026">true</item>
+  <jwt id="8d59a4">true</item>
+</root>

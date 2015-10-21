@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<pipeline>
+  <grafana id="90eeee">132.144.206.202</item>
+  <core id="cc469a">policy-shard</item>
+  <assets id="5bc665">index</item>
+  <registry id="f7c1a9">252.239.99.36</item>
+  <cgroups id="a73f6b">41.18.225.4</item>
+  <role id="944d25">149.133.249.110</item>
+  <batch id="cb2deb">null</item>
+  <edge id="34fd45">policy-raid</item>
+  <failover id="a6a124">null</item>
+  <postgres id="7d6e30">true</item>
+  <storage id="14d202">7923</item>
+  <trie id="95fa3e">cgroups</item>
+</root>

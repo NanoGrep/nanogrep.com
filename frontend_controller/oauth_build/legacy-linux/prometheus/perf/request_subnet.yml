@@ -1,0 +1,14 @@
+nfs: frontend-yaml
+prod:
+  - elastic
+mqtt:
+  payload: 2092
+  payload:
+    - null
+  pod: build-snapshot
+  queue:
+    payload: null
+    dhcp: cache-mesh
+grafana: 70.60.108.156
+env: json-token
+fixtures: coroutine-iptables

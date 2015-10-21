@@ -1,0 +1,17 @@
+compiler,ingress,bootstrap,templates
+51c37643bd6408d5,false,254,handler-policy
+stack-json,242.221.181.203,stack-switch,gateway
+f802e3d9,origin,a10687fb4f96b6956041115ee3c18c76,rsa-grafana
+kafka,3374,redis,283c97eba92ac7e53c20ce631d5dc0d2
+sdk-cache,jwt,traces-prometheus,691a6c26
+true,scheduler-quic,35.226.111.208,3064
+false,057ad31dd93cd5d4,true,3964
+4ad3f5875b47df1a,nat,b20bd8ae07a15c8e,lambda-config
+969f32b6,mirror-cors,434e6a325968a1bb2e7ab049c2dfd6e3,true
+false,6726,controller-scripts,firmware
+false,182.132.152.145,patch,scheduler
+49.227.152.232,1776,157.92.207.94,driver
+assets,64.153.57.230,1395,ingress-helm
+5831,systemd,kafka,true
+false,4786,120.81.134.42,buffer
+7463,318a3aa7343f336a,nightly-utils,3777

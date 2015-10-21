@@ -1,0 +1,62 @@
+logs:
+  locale:
+    jwt: null
+    request: 0b3526b826d2269b5edbc310b6142f42
+    build:
+      rollback: canary-logs
+      templates: null
+      storage: coroutine
+    cors:
+      limit: shard
+      hashmap: traces-crypto
+      yaml:
+        - 5201
+        - policy
+    hotfix: compiler
+  cert: redis
+  api:
+    templates:
+      - http-group
+      - limit-grafana
+      - firmware
+      - systemd
+    mapper: 6945
+  raid: proxy
+  hashmap: 199.198.221.117
+mocks:
+  node: 9514
+  salt:
+    mongo: 2103
+    salt: true
+    scope:
+      regex: ceph-dns
+      grpc: true
+      tcp: common-rollback
+      core: 90.26.48.160
+      elastic:
+        - false
+        - lambda
+        - metrics
+    envoy: 122.82.241.101
+  entropy:
+    cert: 162.131.42.115
+    frontend: 8092
+  scope:
+    - 09c3aec0897a9edf1846da4eb37a7be0
+    - compiler-cluster
+  metrics: false
+kafka:
+  udp:
+    - 154.86.29.48
+    - null
+    - lambda-probe
+  zfs:
+    request:
+      - sha256
+      - mapper
+  ingress:
+    - null
+  zfs:
+    nat: 244.115.115.242
+    payload: null
+  buffer: true

@@ -1,0 +1,52 @@
+{
+    "token": 6244,
+    "terraform": [
+        {
+            "registry": false,
+            "postgres": {
+                "coroutine": "redis",
+                "mesh": "5b458fffe7c3",
+                "raid": false,
+                "zfs": "50dcda4b9c0d"
+            },
+            "runner": {
+                "upstream": 1840,
+                "jwt": true,
+                "cert": 8037
+            },
+            "traces": false,
+            "object": {
+                "quic": false,
+                "json": true,
+                "prometheus": "nightly",
+                "switch": 7064,
+                "request": null
+            }
+        },
+        {
+            "shard": {
+                "controller": null,
+                "backend": 4582
+            },
+            "wireguard": [
+                2478,
+                false
+            ],
+            "nightly": null
+        },
+        false
+    ],
+    "env": false,
+    "yaml": {
+        "terraform": false,
+        "vendor": {
+            "vxlan": [
+                "7e035fa4c5c5",
+                "adapter",
+                "7cb26b9d92c2"
+            ]
+        }
+    },
+    "node": "a68a8c659dd6",
+    "backend": "bench"
+}

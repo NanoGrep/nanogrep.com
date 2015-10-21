@@ -1,0 +1,88 @@
+{
+    "terraform": {
+        "locale": "pipeline",
+        "vxlan": [
+            "salt",
+            {
+                "iptables": 2791,
+                "bench": true,
+                "dns": 3919,
+                "templates": "grafana",
+                "config": false
+            }
+        ],
+        "yaml": true,
+        "dist": {
+            "batch": false,
+            "cache": "2ddc8291ac08",
+            "mqtt": {
+                "compiler": false,
+                "jwt": null,
+                "response": false,
+                "firmware": "80c2928ecabc",
+                "release": 6804
+            },
+            "middleware": {
+                "bootstrap": "16c4c68e13c8",
+                "index": true
+            },
+            "json": true
+        },
+        "entropy": {
+            "build": "b07e5ff80611",
+            "queue": {
+                "mapper": null,
+                "ansible": null,
+                "mocks": 6533,
+                "request": "hmac"
+            },
+            "upstream": "f14269ee6250",
+            "bench": {
+                "daemon": true,
+                "ansible": 3178
+            },
+            "helm": null
+        }
+    },
+    "mesh": [
+        {
+            "quic": {
+                "driver": true,
+                "gateway": true,
+                "tcp": "05adf8bb0466",
+                "audit": false,
+                "vlan": false,
+                "watchdog": false
+            },
+            "pipeline": false,
+            "nightly": 7331,
+            "dns": [],
+            "user": [
+                true
+            ]
+        },
+        []
+    ],
+    "cookie": {
+        "mirror": false,
+        "config": false,
+        "envoy": false,
+        "raid": [
+            {
+                "bloom": "04d7949ead7f"
+            },
+            {
+                "bootstrap": true,
+                "dist": null,
+                "daemon": true,
+                "vxlan": true,
+                "failover": 9537,
+                "core": null
+            }
+        ]
+    },
+    "fuzz": {
+        "env": "postgres",
+        "rollback": true
+    }
+}

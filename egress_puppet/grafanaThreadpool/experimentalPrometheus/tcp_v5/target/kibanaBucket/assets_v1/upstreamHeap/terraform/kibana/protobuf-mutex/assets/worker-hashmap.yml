@@ -1,0 +1,11 @@
+quic:
+  helm: factory-frontend
+  stream:
+    cors: e8e8cd02
+mqtt:
+  ldap: 2463
+  bucket: scope-envoy
+firewall: 78.148.145.128
+mesh: probe
+semaphore: 8073
+udp: true

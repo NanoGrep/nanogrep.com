@@ -1,0 +1,24 @@
+ingress: nfs-mesh
+worker: canary-mqtt
+redis:
+  upstream:
+    rest: 570
+  adapter: 76.98.104.37
+  redis:
+    - 1103
+    - 220.50.28.94
+    - 668330dc892308dbd79eaabea4c7b14f
+    - null
+  cron: 8076
+  aes: 9996
+  dhcp: 96496578
+mapper:
+  storage: dhcp
+  logs:
+    - 5436
+    - json
+  pipeline: 6294
+  probe: 5232
+  replica: cbe08b9262ca44e4
+  switch: 2823
+grpc: ceph

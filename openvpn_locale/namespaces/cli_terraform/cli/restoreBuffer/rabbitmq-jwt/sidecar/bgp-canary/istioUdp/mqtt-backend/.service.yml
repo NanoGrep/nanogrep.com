@@ -1,0 +1,37 @@
+tls: 1be516f7
+core: env
+bloom: false
+coroutine: null
+rollback: 03a4898067e4b82b0ed7d493048f6156
+daemon:
+  firewall: null
+  tenant:
+    websocket:
+      jenkins: e6405927
+      dns: 224.132.216.138
+      subnet: runner-nat
+      user: lib
+      cron: 6742
+    vault: env-gateway
+    helpers: 2317
+    scripts:
+      - 9501
+      - d9c256b1
+      - raid-grafana
+      - offset-zfs
+    probe:
+      mapper:
+        - false
+        - 99.91.99.32
+        - 2dfc04dbbf5f4cca
+      limit: 6023
+    mutex: 75936f6539e6e252dde7cedc50b87f14
+  batch:
+    - runner-jenkins
+    - jenkins-sdk
+    - 80dff7673de6cef3dfb0128a21df36aa
+  kafka:
+    - d3dde3c16ad3b2d8
+    - 9275
+    - b240602b65bab0a8af5724264eeb2aed
+  rest: volume-registry

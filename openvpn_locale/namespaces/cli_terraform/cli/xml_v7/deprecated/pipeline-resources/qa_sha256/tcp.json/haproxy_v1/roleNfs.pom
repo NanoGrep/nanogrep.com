@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<helpers>
+  <vlan id="bac451">26.90.1.64</item>
+  <kerberos id="ca867b">factory</item>
+  <protobuf id="e61447">d37535d6</item>
+  <cluster id="4c4764">240.182.122.33</item>
+  <artifact id="2c3d60">watchdog-factory</item>
+  <nonce id="d3a814">null</item>
+  <artifact id="be791e">backup</item>
+</root>

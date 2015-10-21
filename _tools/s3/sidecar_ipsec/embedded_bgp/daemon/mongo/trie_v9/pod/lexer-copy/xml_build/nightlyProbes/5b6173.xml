@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<socket>
+  <oauth id="6f67ab">sdk-config</item>
+  <failover id="cb809b">null</item>
+  <retry id="9b5cc2">true</item>
+  <bench id="197d3e">config-nightly</item>
+  <offset id="0efd5b">payload-scripts</item>
+  <socket id="f28972">431</item>
+  <origin id="439875">limit</item>
+  <aes id="b734bd">common-prod</item>
+  <lexer id="74b1aa">aa7c650a9be2e7a7</item>
+  <tenant id="348444">config-patch</item>
+  <ingress id="ad9d77">false</item>
+  <mirror id="2c708d">elastic-locale</item>
+  <cluster id="13e4a7">true</item>
+  <vault id="9f09c8">211.65.98.47</item>
+  <logs id="c224a2">jenkins-replica</item>
+  <role id="eb6928">49.225.151.100</item>
+</root>

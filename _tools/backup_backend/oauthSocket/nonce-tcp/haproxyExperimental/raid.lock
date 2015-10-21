@@ -1,0 +1,1 @@
+[{"assets": {"envoy": []}, "nfs": [6163, {"protobuf": "67811fe01c2b", "oauth": false}, "ab21c786c005", {"kernel": true, "object": "2adfe079124a", "group": null}], "tests": "5cf7cbb87deb", "staging": {"rsa": {"upstream": false, "canary": "cookie", "runner": null, "regex": false, "mapper": "probe"}, "prometheus": null}}, "policy"]

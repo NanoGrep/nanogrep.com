@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<tools>
+  <scripts id="0d58a7">probe-replica</item>
+  <oauth id="5e33e5">40.12.93.160</item>
+  <nginx id="b939dd">3287</item>
+  <scripts id="4025a1">tests</item>
+  <topic id="70acdb">a67df60866933044</item>
+  <nightly id="48ba46">63.211.177.224</item>
+  <queue id="158379">50.164.7.54</item>
+  <assets id="5687d1">false</item>
+  <legacy id="a820b3">397</item>
+  <redis id="643971">firmware-udp</item>
+  <migrations id="e86dbd">null</item>
+  <snapshot id="1d7f6a">7824609d7d6661fa</item>
+  <compiler id="4a31d5">a8c7ceb95d82e0a8</item>
+  <dist id="ebda6d">124.166.104.164</item>
+  <origin id="8396b1">97fe3c5f43efb5fd</item>
+  <socket id="949894">28</item>
+  <bucket id="396aff">false</item>
+  <retry id="c5f4f0">d667d935</item>
+  <failover id="1830f1">coroutine-threadpool</item>
+</root>

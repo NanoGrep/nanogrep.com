@@ -1,0 +1,93 @@
+{
+    "audit": {
+        "nat": {
+            "canary": {
+                "nginx": "driver",
+                "gateway": null,
+                "scheduler": true,
+                "helpers": null,
+                "session": null
+            },
+            "fuzz": [
+                false,
+                1181,
+                true,
+                true
+            ],
+            "jenkins": [
+                null,
+                "btree"
+            ],
+            "kafka": {
+                "iptables": 752
+            },
+            "subnet": "5a9d687b2a86"
+        },
+        "factory": true,
+        "elastic": {
+            "vault": {
+                "cache": "9105d2bfa834",
+                "iptables": false,
+                "column": 5047
+            }
+        },
+        "json": 513,
+        "response": [
+            {
+                "nginx": "aa351a8193c5",
+                "bloom": 3369,
+                "salt": 3311
+            }
+        ],
+        "regex": true
+    },
+    "aes": {
+        "json": [
+            [
+                null,
+                false,
+                null,
+                "c28ae4b18730"
+            ]
+        ],
+        "buffer": {
+            "pipeline": {
+                "watchdog": "a35a0a52eca4",
+                "ceph": 5957
+            },
+            "group": "eba53bd63909",
+            "fixtures": {
+                "jwt": true,
+                "mapper": null,
+                "mesh": false,
+                "snapshot": "ba3660db70b4"
+            }
+        },
+        "request": [
+            null,
+            {
+                "buffer": "stream",
+                "group": "04a819e6a187",
+                "index": "740210134cf6",
+                "bucket": false,
+                "trie": null,
+                "bgp": 9872
+            }
+        ],
+        "assets": null,
+        "grpc": [
+            {
+                "cluster": "handler"
+            },
+            [],
+            {
+                "cookie": null
+            },
+            {
+                "lambda": "61fd36d7944c"
+            }
+        ]
+    },
+    "object": "ceph",
+    "release": null
+}

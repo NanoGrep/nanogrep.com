@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<crypto>
+  <subnet id="b2d826">56.29.40.17</item>
+  <wireguard id="49da58">3065</item>
+  <nightly id="9ff5fa">931</item>
+  <volume id="710300">mesh</item>
+  <adapter id="e47b37">3464</item>
+  <ldap id="e50d8d">150.160.147.53</item>
+  <prometheus id="df35af">53.201.91.248</item>
+  <hotfix id="002e26">9574</item>
+  <controller id="9996d2">false</item>
+  <grpc id="041f38">common-group</item>
+  <retry id="00fa76">tools</item>
+  <scheduler id="606944">44.186.87.64</item>
+  <token id="61d592">false</item>
+  <websocket id="a06a1a">hotfix-failover</item>
+  <migrations id="f110e6">136.182.234.177</item>
+  <http id="dcff1b">true</item>
+  <assets id="1494c2">6697691e5ef5415f</item>
+  <salt id="349fba">bloom-scheduler</item>
+  <bench id="20a561">handler-regex</item>
+  <rest id="4f7a0e">2783</item>
+</root>

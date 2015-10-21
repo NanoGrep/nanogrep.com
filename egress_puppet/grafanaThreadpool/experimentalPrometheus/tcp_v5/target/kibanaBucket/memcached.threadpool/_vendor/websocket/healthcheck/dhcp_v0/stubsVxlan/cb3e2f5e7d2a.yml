@@ -1,0 +1,9 @@
+fixtures:
+  assets: core-build
+  assets: 40724069fef1b7f5023be058b087306a
+  dist: 8623
+ansible:
+  - 6983
+  - 192.48.254.66
+  - true
+  - 241.189.4.4

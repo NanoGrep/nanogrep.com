@@ -1,0 +1,36 @@
+[
+    {
+        "rest": "table"
+    },
+    {
+        "factory": [
+            "scope",
+            "switch"
+        ]
+    },
+    6417,
+    {
+        "vlan": "nonce",
+        "aes": null,
+        "controller": [
+            [
+                true,
+                false
+            ],
+            {
+                "lambda": true,
+                "nfs": "grafana",
+                "tests": "6cac0034b829",
+                "sandbox": null,
+                "regex": true
+            },
+            {
+                "loader": null,
+                "vxlan": true,
+                "role": 81,
+                "hmac": "145375be598c",
+                "udp": "beta"
+            }
+        ]
+    }
+]

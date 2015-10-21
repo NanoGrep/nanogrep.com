@@ -1,0 +1,26 @@
+backend: 6669
+envoy:
+  buffer:
+    failover: nat
+    retry:
+      - 4295
+      - parser
+      - 199.209.137.196
+    stack: driver
+  lib:
+    replica: 163.21.74.39
+  tenant:
+    semaphore: true
+    upstream:
+      mocks: mesh
+      entropy: 138.123.48.169
+    scripts:
+      batch: frontend-heap
+      watchdog: 26.101.60.242
+      probe: tools-nfs
+      quic: 7020
+      mysql: 0c9681b389e3b8a7
+      build: true
+    firmware: 4864
+  raid: tests
+batch: offset-buffer

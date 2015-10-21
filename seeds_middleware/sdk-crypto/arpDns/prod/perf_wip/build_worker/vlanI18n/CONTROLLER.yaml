@@ -1,0 +1,5 @@
+tools: false
+release: mysql
+dhcp: 7531
+parser: buffer-logs
+threadpool: true

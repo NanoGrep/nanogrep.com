@@ -1,0 +1,16 @@
+failover,ingress,crypto,pod
+e8218e181012da6ade0c25c046425a7c,tenant,8450,914
+2363,2068,volume-nat,31.97.114.76
+8678,controller-fuzz,false,131.108.137.179
+a27ab75f,kernel,180.19.120.47,ldap-patch
+null,failover-mongo,24394ac8283f100633d9b27812a7a94e,99.154.102.228
+false,bench-gateway,0aab115736c1bfe9,release-vendor
+3806,ba31499ce8cf1f56,subnet-mongo,grafana-aes
+b1cdecab483c635a,f0b1b42e,99.198.208.63,1056d010a267e943
+true,248.44.114.150,84d91298bfe71b27,30.60.131.252
+mysql-stream,vlan-proxy,4928,nonce-service
+e4b99ae9457b82531513573a69d3f6fb,true,runner,9537
+firewall-bucket,redis,adapter,true
+127.126.142.144,role-common,service-legacy,2b94edb99d76a4269921b090d5833e44
+c4804795f6ffe8a6ab6fa05e47092774,866,bbeac575,98.138.168.127
+375,service,148.71.145.117,lib-subnet

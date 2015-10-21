@@ -1,0 +1,16 @@
+mesh:
+  backend:
+    cron: 1415
+    fixtures: 97.100.175.226
+    vault: null
+    env: helm-edge
+    hotfix: 140.113.167.97
+  nat: table-systemd
+  cert: json-sdk
+  envoy:
+    row:
+      json:
+        - false
+    nfs: loader
+    worker: build
+    ansible: daemon

@@ -1,0 +1,8 @@
+schema,udp,index,http
+248.215.160.45,sandbox-vendor,handler,true
+backend-origin,cluster,9103,205.45.77.15
+9751,9058,payload-fuzz,9096
+1368,lexer-handler,nat-driver,false
+mocks-kafka,b0742268a1ef4a80,mirror,103.231.111.226
+grafana,0477768a,a0c7263dd33d9f1811ab37374f23b44f,62c86f86ce90e6a1c107e416934e61bd
+153.135.179.81,staging-btree,scripts,9825

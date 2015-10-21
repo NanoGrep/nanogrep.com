@@ -1,0 +1,16 @@
+salt: nat
+stack:
+  mongo: 204.2.244.243
+  token:
+    vault:
+      - false
+      - 5872
+      - 9894
+      - null
+  schema: null
+  topic:
+    - 114.15.186.63
+    - regex
+    - aes
+    - null
+vendor: grafana

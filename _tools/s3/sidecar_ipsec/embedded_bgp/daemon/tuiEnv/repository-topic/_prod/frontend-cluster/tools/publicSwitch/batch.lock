@@ -1,0 +1,124 @@
+{
+  "firewall": {
+    "rollback": {
+      "rollback": {
+        "probe": null,
+        "proxy": null,
+        "bootstrap": "payload",
+        "retry": true,
+        "bucket": false
+      },
+      "batch": {
+        "pod": false,
+        "batch": "cf80b23fa8a6",
+        "driver": null,
+        "pipeline": 1830
+      },
+      "cli": true,
+      "jwt": null
+    },
+    "bgp": [
+      "backend",
+      {
+        "dns": "daemon",
+        "limit": true,
+        "node": false,
+        "grpc": true,
+        "legacy": true
+      },
+      null,
+      {
+        "systemd": false,
+        "env": null,
+        "http": false
+      }
+    ],
+    "nginx": {
+      "scripts": 8756,
+      "worker": {
+        "payload": true,
+        "rollback": "websocket",
+        "regex": false,
+        "socket": null
+      },
+      "helpers": {
+        "threadpool": null,
+        "templates": "hashmap",
+        "rsa": "redis"
+      },
+      "bloom": {
+        "snapshot": false,
+        "table": "volume",
+        "hashmap": true,
+        "probe": null,
+        "bucket": false
+      },
+      "legacy": {
+        "traces": "tenant",
+        "replica": "ldap",
+        "iptables": false
+      },
+      "pipeline": 5431
+    },
+    "watchdog": {
+      "grafana": "c5d60c50f0d1",
+      "topic": [
+        null,
+        true
+      ],
+      "core": null,
+      "jwt": {
+        "dns": 3491,
+        "backend": null,
+        "nginx": "967fac8071ee",
+        "probe": false,
+        "origin": "mapper",
+        "loader": "3d13cd0f20d2"
+      },
+      "nonce": {
+        "column": "92c4064400d5",
+        "http": null,
+        "coroutine": false,
+        "wireguard": null,
+        "vlan": "loader"
+      },
+      "controller": {
+        "ceph": "9236dafc3e9a",
+        "rest": "vlan"
+      }
+    }
+  },
+  "grpc": null,
+  "threadpool": [
+    true,
+    false
+  ],
+  "core": {
+    "cookie": {
+      "token": null,
+      "firmware": null,
+      "nfs": {
+        "beta": false
+      },
+      "regex": {
+        "helpers": "tls",
+        "bloom": false,
+        "prod": false,
+        "origin": true,
+        "row": "volume"
+      },
+      "sandbox": {
+        "release": 2942,
+        "templates": false,
+        "utils": 9350,
+        "assets": true,
+        "retry": null
+      }
+    },
+    "kafka": null,
+    "object": [
+      "dns"
+    ]
+  },
+  "group": null
+}

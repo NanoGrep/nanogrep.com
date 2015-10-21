@@ -1,0 +1,12 @@
+tenant:
+  semaphore:
+    migrations: 3978
+    cli: 168.144.128.37
+    heap: 2160
+    assets:
+      sha256: 222
+      iptables: 728102ab3ef504180f0211aec8c368c1
+      cgroups: 148.95.196.116
+      replica: true
+  jenkins: 18a71bd63d0e3a39
+snapshot: e9eedfd5

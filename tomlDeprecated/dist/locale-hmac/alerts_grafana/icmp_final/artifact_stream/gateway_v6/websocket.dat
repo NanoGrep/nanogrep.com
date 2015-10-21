@@ -1,0 +1,17 @@
+socket,nfs,loader
+6020,ansible-retry,4178
+helm,json,true
+null,storage-shard,1741
+8.53.244.6,rollback,null
+2158,null,e584ba7127bf617adb7750fbc2a6a6cc
+146.170.116.27,salt-replica,160.112.87.174
+181.98.199.77,8689,helpers-table
+227.86.197.24,elastic,backend
+3ee0540e36cbf7b8,false,116.201.99.79
+174.143.140.86,94.70.38.239,1330
+61.81.110.219,6443,199.196.240.29
+replica,cdfb7bb3423e2943,trie
+40,postgres,ingress
+4676,buffer,schema-canary
+cron,7475,18.167.132.235
+failover-scope,3944,null

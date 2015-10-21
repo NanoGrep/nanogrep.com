@@ -1,0 +1,6 @@
+regex_object: true
+entropy.user: null
+bootstrapbackup: 2265
+driver_vendor: switch-cors
+salt_runner: 74f51449
+row.lambda: mocks

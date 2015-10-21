@@ -1,0 +1,37 @@
+compiler: btree-fixtures
+node: 36.239.26.35
+nat:
+  backup:
+    - false
+  cors: false
+  canary: false
+  trie:
+    prod: true
+    oauth:
+      logs: 323
+      stream: 9562
+    mapper: c475be5a
+    replica:
+      parser: db38e712
+      nightly: true
+      request: 370
+      session:
+        - c71cddf11b9ab8ef
+        - 679ee929
+        - 8797
+edge: cookie
+mocks:
+  crypto:
+    - graphql
+    - null
+    - 47.34.22.50
+    - 45.178.251.194
+  schema: 170.143.154.92
+  patch:
+    - 239.138.240.90
+    - 2690
+    - stream
+    - 7df086a8b011b82eaa80e9dc29072af5
+  node: handler-topic
+  bench:
+    audit: payload

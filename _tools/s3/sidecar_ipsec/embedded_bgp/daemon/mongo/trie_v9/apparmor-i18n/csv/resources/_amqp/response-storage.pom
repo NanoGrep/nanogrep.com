@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<kernel>
+  <alerts id="59f43a">crypto-rest</item>
+  <node id="d83fe9">582</item>
+  <regex id="d75bb3">327</item>
+  <volume id="cac39d">1671</item>
+  <grafana id="20c78e">195.69.58.224</item>
+  <utils id="abac9b">null</item>
+  <cache id="689380">9a044352729b1fba</item>
+  <audit id="395903">scope</item>
+  <upstream id="70654a">8669</item>
+  <daemon id="8c3cd9">btree</item>
+  <cache id="0a92cd">mesh-env</item>
+  <scope id="2eb7a2">sdk-router</item>
+  <mirror id="215f0e">prometheus</item>
+  <artifact id="341325">2758</item>
+  <tls id="513c5a">null</item>
+  <tenant id="d2f8c4">8231</item>
+  <yaml id="1c0a3c">grafana-frontend</item>
+  <policy id="693e0e">true</item>
+  <worker id="411072">e2c7f13c5db582c0</item>
+  <cron id="3c43bb">null</item>
+  <kafka id="9fb6c5">jwt</item>
+  <terraform id="f3d3a6">1728</item>
+</root>

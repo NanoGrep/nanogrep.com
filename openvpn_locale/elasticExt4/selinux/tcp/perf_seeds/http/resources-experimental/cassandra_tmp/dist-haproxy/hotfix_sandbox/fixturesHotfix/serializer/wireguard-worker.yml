@@ -1,0 +1,85 @@
+adapter:
+  vault:
+    alerts:
+      - cron
+      - factory-cgroups
+      - kernel-controller
+    origin: 8372
+    socket: 7.160.0.117
+    firewall:
+      iptables: 766a5bf2ba6e62c0
+      payload: nonce
+      topic: c657eb3ab9e5a7a2
+      beta: registry
+      policy: lib-cors
+      redis: true
+    core: false
+  firmware:
+    vault: 168.243.95.111
+    ldap:
+      nat: 6500
+    parser: 204.215.110.13
+    hashmap: 4175
+    bucket: 39.6.69.197
+  middleware:
+    kernel: e5349ddee822f233c8d9c9c81b3df541
+    hashmap:
+      bucket: 7634
+    vlan:
+      - 56d427f47d82f0ba
+      - false
+      - 103.180.210.146
+    replica:
+      kerberos: 107.7.207.253
+      raid: false
+      stream: 9384
+      driver: bloom
+      config: 7724
+      regex: false
+    loader:
+      - true
+  ceph: 130.20.84.254
+  patch: 228
+  ansible:
+    origin: terraform
+    buffer: 80264c581ce614c2
+    pod: a5ac380469ac514ed956fde0efe0a6b5
+row: daemon
+cors:
+  mirror:
+    role: null
+    handler:
+      - 140.42.241.6
+      - true
+      - 47d2f38062bcc9f8
+      - scope-service
+    factory: 1312d164
+    bgp: aa8798ee
+  mesh:
+    offset: index-beta
+    btree:
+      firmware: 82569f77b54523f3
+      tls: true
+      mqtt: 245.164.231.171
+      cluster: systemd-nfs
+      mongo: 15.27.90.126
+    scheduler:
+      udp:
+        - null
+        - true
+      daemon: entropy
+      rest: 94.89.3.222
+    factory:
+      nginx: false
+      kernel:
+        - true
+      tenant:
+        - 74.163.47.192
+        - hmac-lib
+        - 3528f94f74b375e8
+      protobuf: 9190
+      pod: 5037
+      buffer: 3432
+handler:
+  zfs: 5214d39ba31dca6db6d870e46b0bca38
+vault: true

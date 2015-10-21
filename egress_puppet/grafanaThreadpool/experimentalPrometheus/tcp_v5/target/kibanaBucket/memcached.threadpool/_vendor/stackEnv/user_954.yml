@@ -1,0 +1,7 @@
+envoy:
+  build: 5231
+table: node-table
+release: 61.178.216.27
+vlan: 16.166.161.16
+metrics: helm
+nat: rollback

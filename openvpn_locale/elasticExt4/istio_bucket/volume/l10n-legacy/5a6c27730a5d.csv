@@ -1,0 +1,13 @@
+adapter,shard,alerts
+d99c86bf6393c937,true,wireguard-cookie
+json-cors,false,91373fb9fdde5fd7
+false,websocket-role,108.189.45.29
+16.67.83.237,gateway-limit,quic
+null,462,126.159.152.35
+false,true,624db9ab
+false,b0451814,db7c1de4464a65f4
+tenant,226.197.75.30,controller-oauth
+2360,true,false
+replica,null,kafka
+76,218.224.222.234,63.158.45.189
+shard-probe,2490,d50fc78cd448b63895d87a326e72221a

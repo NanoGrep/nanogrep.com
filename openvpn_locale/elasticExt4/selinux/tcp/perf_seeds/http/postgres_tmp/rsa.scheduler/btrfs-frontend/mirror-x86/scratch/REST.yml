@@ -1,0 +1,12 @@
+crypto:
+  - 8714
+  - 2cb300aa
+worker: 101.28.132.39
+elastic: 150.93.39.137
+coroutine: 44.242.24.169
+ceph:
+  - shard-mongo
+  - templates
+  - d1d2fb7065d34ecc
+  - btree-factory
+cgroups: 2312

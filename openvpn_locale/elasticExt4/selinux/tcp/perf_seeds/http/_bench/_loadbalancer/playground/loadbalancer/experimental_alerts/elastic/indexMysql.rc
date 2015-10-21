@@ -1,0 +1,24 @@
+[crypto]
+artifact.cors = runner-snapshot
+firewallworker = traces
+shard.handler = loader
+bloom.systemd = env
+tenant.firewall = 3156
+mapperbgp = 31.49.89.102
+object_artifact = 5170
+table.grafana = logs
+tools.traces = 111.218.106.33
+quic_nat = cgroups-grpc
+alerts.adapter = 186.26.235.146
+traces_mapper = grpc
+policy.dist = regex
+batchapi = 250.78.150.10
+dhcpvendor = prometheus-artifact
+subnet_service = 3425
+prometheus_release = hotfix-parser
+wireguard.bootstrap = null
+cluster.kafka = 746ff3081728999be7dadedea1cfab9d
+cookie_entropy = false
+bench_retry = controller-websocket
+mutex_nfs = frontend
+watchdog.request = btree-hmac

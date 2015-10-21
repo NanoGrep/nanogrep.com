@@ -1,0 +1,6 @@
+topic: loader-subnet
+locale:
+  service:
+    - zfs
+    - scripts-volume
+worker: cluster-btree

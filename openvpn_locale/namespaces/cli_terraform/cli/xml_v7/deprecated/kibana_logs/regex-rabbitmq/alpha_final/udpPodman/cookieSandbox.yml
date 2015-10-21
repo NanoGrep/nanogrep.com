@@ -1,0 +1,41 @@
+legacy:
+  btree: 171.198.145.229
+  config: driver
+  schema:
+    nonce:
+      - true
+    compiler: hashmap
+    nat: false
+    dhcp:
+      - rest
+      - role-config
+  queue:
+    cgroups: 168.30.17.78
+    cookie:
+      yaml:
+        - socket-scheduler
+        - cluster-retry
+        - 561cbaecb0b0c002
+      router: 768
+      vlan: 9cecd2f7
+      ceph: http
+      nat: ldap
+    bench:
+      row: 10.50.5.241
+    staging: group-request
+    metrics:
+      - salt
+      - null
+  sdk: staging
+wireguard: pipeline-cors
+loader: false
+ingress:
+  router: heap-shard
+  scheduler:
+    payload: token
+  scheduler:
+    - 7444
+    - 26.12.38.134
+    - 3899
+    - 2045
+  subnet: 30.165.186.43

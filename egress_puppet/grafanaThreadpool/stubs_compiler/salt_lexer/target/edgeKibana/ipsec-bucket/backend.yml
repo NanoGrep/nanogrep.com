@@ -1,0 +1,6 @@
+raid: f9678321140c7a389daf968ed69edaeb
+queue: 73661e920b10efb2
+backup:
+  - prometheus
+  - 254.166.59.95
+backend: 3632

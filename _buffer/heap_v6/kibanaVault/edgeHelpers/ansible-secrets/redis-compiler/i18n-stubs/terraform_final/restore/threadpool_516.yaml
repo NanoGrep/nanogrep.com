@@ -1,0 +1,30 @@
+terraform:
+  cors:
+    mutex: 232.31.199.9
+    semaphore: 25.142.239.46
+    tls: migrations-patch
+  router:
+    - e64fcd9878b199695b31066a6b2fb678
+    - null
+    - 1601
+  iptables:
+    elastic:
+      tcp: null
+      cron: true
+      templates: trie
+      upstream: 13.180.79.179
+      hashmap: 93.247.110.73
+    nginx:
+      - null
+      - cookie-cli
+    buffer: false
+    dist: 1482
+    bootstrap: 3425
+    assets:
+      traces: false
+      failover: 183.168.108.45
+      handler: 169.179.193.9
+      lexer:
+        - cache
+        - vault
+      object: heap-common

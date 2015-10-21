@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<envoy>
+  <postgres id="379c9e">true</item>
+  <utils id="e81c08">237.166.122.5</item>
+  <cluster id="fce811">1322</item>
+  <release id="ccd30c">nginx</item>
+  <config id="b03687">103</item>
+  <payload id="02f3bf">86.176.27.183</item>
+  <nightly id="303ae0">174.216.136.180</item>
+  <offset id="cd791e">bgp-gateway</item>
+  <session id="9111f5">191.251.162.200</item>
+  <lib id="ebf3f6">null</item>
+  <mocks id="570afe">cache-lambda</item>
+  <ansible id="733cee">kerberos</item>
+  <graphql id="1edc2a">b6d31c1333396f26</item>
+  <mongo id="248d53">cors</item>
+  <raid id="628080">cron</item>
+  <object id="2ed6e0">bc7dc756bfb9d0f4</item>
+  <token id="849671">null</item>
+  <origin id="620fa5">lexer</item>
+  <graphql id="5a7622">6645</item>
+  <nfs id="945192">true</item>
+  <loader id="d3c938">16ed2386e53c3b7d</item>
+  <failover id="006611">6482</item>
+  <udp id="4c2dbf">648c9dbf73194f541616b0ad2fca9344</item>
+  <websocket id="f9a484">8954</item>
+</root>

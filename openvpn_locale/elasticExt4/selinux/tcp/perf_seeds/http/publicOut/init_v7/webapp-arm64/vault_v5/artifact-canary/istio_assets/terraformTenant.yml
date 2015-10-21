@@ -1,0 +1,39 @@
+schema:
+  column:
+    row:
+      worker: upstream-tcp
+      logs: true
+      bloom: d7a1adcd
+    row: 5.227.31.93
+    templates: 8026
+    jenkins: scheduler-nginx
+    sdk:
+      - 3215
+  common: a43c17a8fa538b82
+  fuzz:
+    beta: salt-socket
+    registry:
+      stack:
+        - 141.233.252.103
+        - 8987
+        - true
+      entropy: 413
+      bench: cors-upstream
+    graphql: 178.45.181.5
+    subnet: null
+    index: true
+  failover:
+    factory: env
+    oauth:
+      patch: true
+      upstream:
+        - 30.2.63.103
+        - true
+        - kerberos-redis
+      nightly: mirror
+      websocket: 8741
+    registry: 2644
+    helm: 4383
+    socket: true
+    gateway: 7011
+  kerberos: null

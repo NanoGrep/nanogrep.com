@@ -1,0 +1,36 @@
+scripts: 5110
+stream:
+  bucket:
+    trie: true
+    utils:
+      token: iptables
+      ldap: false
+      hashmap: true
+      replica: stream
+    yaml:
+      traces: true
+      gateway: e8253be4
+      probe:
+        - edge-trie
+        - 3510
+        - beta-parser
+      sha256:
+        - null
+        - false
+        - 943cfcb1c3e2815a
+      driver: loader-terraform
+    handler: 9bb4df97264116b3604f0d806aa2e8b5
+    socket:
+      edge: 38.180.192.243
+      tcp: btree
+  envoy: firewall
+  coroutine:
+    ceph: backup-vxlan
+    fuzz: 757b6f8a678cbf22edb146dabcc16bc1
+    cache: 6686
+    index: 176.199.118.175
+envoy:
+  - snapshot
+  - c67423b8
+  - 201.247.171.238
+batch: 99e5e8487304419ebc0b1ae49e34ff62

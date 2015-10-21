@@ -1,0 +1,33 @@
+btree:
+  user: frontend
+  locale:
+    gateway:
+      mqtt:
+        - iptables-probe
+        - true
+        - mesh-tests
+        - 166.237.145.19
+      mesh: sha256-session
+      service: 40a64fb5c9779bcb1451d8e19c28bad0
+      dist: kerberos
+      offset: 197.108.1.208
+      mutex: edge
+    hmac:
+      coroutine: cors-switch
+      release: c3837219cf494f3f
+    payload: true
+    watchdog:
+      - dist
+      - mutex-mesh
+      - 153.192.101.50
+    queue: cron-beta
+    batch:
+      - false
+  beta: 38340978
+  prod:
+    mirror: 60.125.219.196
+    stream: 0103fb2d73a62518779edbe8c43d54f0
+  lambda:
+    - 49c23e3b60cee2f2
+limit: 73.142.78.40
+beta: firmware-prod

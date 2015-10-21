@@ -1,0 +1,41 @@
+rsa:
+  parser: true
+canary: vendor-tls
+probe: 4f1e1d7cd11f10276d2136a3ada93ac5
+cert:
+  protobuf:
+    entropy:
+      replica: jwt
+      zfs: e0e7a520f03759ed3abd54535dd63ffd
+      origin: 116.125.101.6
+      fixtures: kernel-coroutine
+      middleware: a9d72d89fab9ded87d2c296f0c14dc7e
+      origin: 4232
+    traces: regex-loader
+  artifact:
+    stack:
+      pod: offset
+      protobuf: 2406
+      sha256: http
+    stream: null
+    stream: session-rollback
+    vault: prometheus
+    systemd:
+      object: dist-topic
+      jenkins: 79.130.168.82
+      dhcp:
+        - 997bdc96f0c1c804
+        - lambda-index
+  cookie:
+    service: websocket-vlan
+    prometheus: cfe7b820
+    factory: dist-loader
+  batch:
+    - null
+  shard:
+    salt: 44cfbdf66a957ca59b78f1e315fd1ca6
+    scripts:
+      backup: 4492983f2f3dd8c9aee497b57f369677
+      probe: watchdog
+      tenant: salt
+      frontend: ansible-ingress

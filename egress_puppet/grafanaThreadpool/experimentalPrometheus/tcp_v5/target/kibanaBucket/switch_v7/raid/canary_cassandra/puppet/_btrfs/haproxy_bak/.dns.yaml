@@ -1,0 +1,67 @@
+api: 43.186.252.100
+runner:
+  middleware: 3f68ef487b5fbd56
+  socket: audit-probe
+  cursor:
+    stack: true
+    rsa: 3572
+    metrics:
+      api: 628fd299
+      dns: bench-common
+      compiler:
+        - 2749
+        - 234.144.43.104
+    compiler: stream-tools
+    locale: 3804
+  entropy:
+    - oauth-request
+oauth:
+  ceph: buffer-mirror
+  scheduler: json
+  envoy: 142.19.118.99
+  nightly: 125.86.150.9
+  frontend: cache-stream
+  rsa:
+    core:
+      - mysql-heap
+      - null
+    dhcp: true
+nfs:
+  batch:
+    terraform: 168.1.1.131
+  legacy: 65f2c00b
+  replica: true
+vault:
+  object: 47.5.109.67
+  release:
+    release: true
+    cli:
+      - 190.216.240.165
+      - router
+    buffer:
+      - bgp-ceph
+      - 32.156.230.51
+      - 3379
+    iptables:
+      vxlan: 119.118.59.37
+      worker: 2329
+    hashmap: 6408
+  mapper:
+    prod: artifact-kernel
+    volume: 5697
+    subnet: response
+  cli:
+    raid: retry-graphql
+    rsa: da237823c49e6ed8
+    driver: 221.168.136.219
+    templates:
+      volume: 764
+      table:
+        - pod-mqtt
+      quic: subnet
+      loader:
+        - backend
+      middleware:
+        - 3939
+      user: 100.202.223.49
+    mqtt: mysql

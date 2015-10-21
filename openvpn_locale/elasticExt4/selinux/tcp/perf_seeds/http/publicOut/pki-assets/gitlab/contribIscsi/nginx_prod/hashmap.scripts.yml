@@ -1,0 +1,72 @@
+api:
+  user:
+    utils: 2047
+    regex:
+      sha256: f9e319926a23d96a6cd574d4d1e016d0
+      nginx: true
+    volume:
+      failover: 9637
+      locale: true
+      request: replica-compiler
+      sha256: metrics-jenkins
+    table: release-schema
+  staging: de65b40c
+  controller:
+    router: aed511d21898eb0d
+  jwt: stream
+threadpool:
+  regex: jwt
+  patch: fixtures
+  watchdog:
+    build: false
+    oauth:
+      node: 163.182.99.43
+      migrations: false
+  response:
+    cursor:
+      - 1.227.53.119
+      - redis-dhcp
+      - shard
+      - 167.220.106.233
+    grafana: 9230
+    alerts:
+      - shard
+      - 8095
+      - 4829
+    jwt:
+      user: heap
+  compiler:
+    legacy:
+      websocket: 3913
+      hotfix: 7839
+      threadpool: false
+      watchdog: a0c1c704
+    schema:
+      common: handler-table
+      scheduler:
+        - null
+      lib: true
+      driver: f38d1db5
+      snapshot: 25.248.159.231
+    mocks: 3641
+    upstream:
+      quic: daemon-limit
+      grpc:
+        - cookie-canary
+        - 1d70f8c0fb3044c8
+        - 7441
+        - hmac
+      prometheus: jenkins
+      stack: false
+    mutex:
+      logs: 65.187.237.45
+    runner: 97.52.25.227
+  redis: 6ae7e562
+ceph: 191.62.6.163
+runner: 164.58.253.15
+table: 3315db7f
+cgroups:
+  - 4e0d08e8a6b8dfe823580aa4546c998e
+  - proxy-build
+  - true
+  - cookie-threadpool

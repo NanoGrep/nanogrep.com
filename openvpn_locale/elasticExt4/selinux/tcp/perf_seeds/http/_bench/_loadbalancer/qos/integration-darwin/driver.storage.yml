@@ -1,0 +1,78 @@
+offset: 3311
+parser:
+  artifact:
+    regex:
+      edge: bench-cluster
+      envoy: node-response
+      role: 150.242.103.106
+      redis: 5d41bef112ae9766
+      bloom: 9906
+      cache:
+        - 215.187.77.163
+        - null
+        - false
+    router: 480f1f36
+    core:
+      service:
+        - false
+        - 992
+        - router-bootstrap
+        - fb547eb5e732648db4179a278624eebd
+      env: true
+      threadpool: tools
+      handler: limit
+      factory: 23.92.172.91
+      audit:
+        - lexer-mutex
+        - 309
+        - null
+        - false
+    watchdog:
+      - utils
+  router: watchdog
+jenkins:
+  hashmap:
+    postgres: firewall
+    topic:
+      - 37.25.197.253
+    locale: 140.0.247.77
+    core: null
+    aes:
+      response: row-mutex
+  upstream: 190.98.157.87
+  cors:
+    - 5fe0ef2e
+    - 6a3b282f
+    - 112.129.130.45
+ingress:
+  quic: null
+  prod: 194.24.51.252
+  env:
+    cert: tenant-nfs
+  socket: runner
+  row: f3b84f5e
+  request:
+    tests: 4643
+    cookie: false
+    threadpool: 4612
+    role:
+      nightly: schema-origin
+      websocket: kafka
+    scripts:
+      mesh: 71.63.192.89
+      daemon:
+        - 4037
+        - false
+        - true
+      scripts:
+        - 92.230.220.139
+        - 247.16.37.229
+      proxy: nat
+      user: replica-nightly
+      config: 3572b112e9d8f7033c913cf74f46c9b2
+    sdk:
+      - 8223971d
+      - firmware
+      - lambda-cert
+common:
+  topic: 139.147.200.207

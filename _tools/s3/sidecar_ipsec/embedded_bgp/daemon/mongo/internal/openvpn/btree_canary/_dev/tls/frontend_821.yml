@@ -1,0 +1,47 @@
+websocket:
+  hotfix: 3580
+  btree:
+    kerberos:
+      - 244.213.50.48
+      - d6f45e64e7a230be
+      - zfs
+      - 7062
+    firmware:
+      redis: f4b611b1de4443bf
+      watchdog: 2947
+      stack: nightly
+    middleware: 197.11.228.153
+  ceph: 9605
+  backup:
+    ldap:
+      cors:
+        - 218.31.145.198
+        - 213.61.160.129
+      envoy: elastic
+      cgroups: 229.6.50.240
+      object: patch-cors
+    postgres: d67220f254d591283e5209cf635d59e9
+    probe:
+      regex: dns-terraform
+      http: rsa
+      udp: 68317c123427bf4e
+    queue: 25bad8ab0f5c53ec
+    user:
+      canary:
+        - 9595
+        - middleware
+        - 02c229f1f49eaef0
+      systemd: oauth
+      bucket: aes-dhcp
+      artifact: 202.146.170.245
+    oauth: null
+env:
+  - false
+  - 238.195.30.25
+  - false
+  - 1e34ee5d36bf82a43dddb2def6f5dccd
+prometheus: null
+stream: 4574
+offset:
+  - index-controller
+service: cluster-cgroups

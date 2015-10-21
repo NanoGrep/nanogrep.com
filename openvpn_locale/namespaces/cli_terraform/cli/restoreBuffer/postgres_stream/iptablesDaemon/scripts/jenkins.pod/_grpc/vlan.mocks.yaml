@@ -1,0 +1,16 @@
+beta: d20c419d
+request:
+  crypto:
+    bucket:
+      - mirror-salt
+      - 107.9.198.235
+    logs: 5.174.124.98
+    systemd: 93.134.167.104
+  nat: false
+  adapter: true
+  retry:
+    zfs: column
+    elastic: 248.149.1.229
+  utils: user
+  origin:
+    - 363

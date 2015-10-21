@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+  <prod id="7354db">2802</item>
+  <threadpool id="84f79b">1e325e76</item>
+  <staging id="9ed0a1">d43d4e06</item>
+  <websocket id="8d1993">dc3342b8</item>
+  <dns id="7df2b2">null</item>
+  <assets id="5dd486">postgres</item>
+  <cron id="1862a1">token</item>
+  <ldap id="fdf963">138.184.101.203</item>
+  <metrics id="d4b118">216.110.17.117</item>
+  <nfs id="222e54">prod</item>
+  <kafka id="90387e">ceph</item>
+  <dns id="1b1242">null</item>
+  <bootstrap id="582e7f">pod</item>
+  <role id="9e40c0">62.141.119.25</item>
+</root>

@@ -1,0 +1,25 @@
+tools: null
+tools:
+  service:
+    sha256:
+      kafka: 2920
+      jwt: 833e0b2b1ff81a6d69287f5cc2c41f93
+    mutex:
+      cursor: d021870f3263d02b69241cc3545ecaee
+      envoy: pod-release
+      backend: scheduler-controller
+bgp:
+  cert:
+    shard: bb714ae4b3d7792d29aa5dbe15fd22f4
+    bucket: 3719
+    dist:
+      - true
+      - true
+      - null
+      - false
+rollback:
+  nonce: 8151
+  semaphore: true
+cert:
+  heap: payload-salt
+nfs: true

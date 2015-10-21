@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<upstream>
+  <kerberos id="6e17f3">upstream</item>
+  <gateway id="63ca9b">nat</item>
+  <mongo id="aa779b">9f2dfb78f38e74bec3f12c512ce5fdac</item>
+  <oauth id="df5413">939e79a7f7a428c0</item>
+  <kafka id="a28c5c">76.62.141.236</item>
+  <kerberos id="522349">postgres</item>
+  <row id="0c1de2">runner-http</item>
+  <token id="36ae84">handler</item>
+  <fixtures id="0ea726">tests-crypto</item>
+</root>

@@ -1,0 +1,18 @@
+json:
+  buffer:
+    shard:
+      - true
+    dist: 34fc6bcc53c69a76
+  pod: 226.193.9.78
+  artifact:
+    pod: ba7f3f40ad1bd24d
+    locale:
+      topic: aes-cli
+      cgroups: 9374
+      vxlan: d4a489be11eba809
+      daemon: audit-helpers
+    gateway: true
+  firmware:
+    cache:
+      subnet: false
+cursor: 81960e04

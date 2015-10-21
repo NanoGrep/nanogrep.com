@@ -1,0 +1,1 @@
+[{"shard": "policy", "role": {"graphql": {"vendor": true}, "replica": true}}, {"daemon": [false], "websocket": null, "rollback": [{"canary": "b9cf6d803974", "router": null}, {"tools": "644560ff7964", "cli": "69aa2f95ab65", "snapshot": "d0fd632e2314", "limit": "row"}, "72c69cf6d6f1", [false]], "scope": true}, []]

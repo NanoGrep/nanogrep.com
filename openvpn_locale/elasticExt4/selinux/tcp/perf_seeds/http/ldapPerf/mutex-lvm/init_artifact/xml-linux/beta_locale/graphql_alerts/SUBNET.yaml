@@ -1,0 +1,6 @@
+tests: 122.39.12.1
+nfs:
+  - 4215
+yaml: udp-nat
+cookie: false
+hashmap: mongo

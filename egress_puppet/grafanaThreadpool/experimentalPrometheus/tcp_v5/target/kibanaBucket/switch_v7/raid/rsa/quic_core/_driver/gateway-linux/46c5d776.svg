@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<quic>
+  <traces id="f23c98">48d12ee52e9ccd4d</item>
+  <response id="aa43a7">97412b02d6514bb7</item>
+  <origin id="98ac60">b2a32a98ab2965e7</item>
+  <kernel id="bbc0da">proxy-socket</item>
+  <api id="edcc7b">164.113.81.212</item>
+  <core id="9097d8">163.149.52.96</item>
+  <postgres id="f26b86">upstream-shard</item>
+  <factory id="344d9e">9631</item>
+  <bloom id="5a6b09">shard-edge</item>
+  <gateway id="f2b168">5035</item>
+  <kernel id="510a46">watchdog</item>
+  <yaml id="e03a07">61b0ddc7fc86c5a5</item>
+  <tls id="dea3e3">211.210.38.3</item>
+  <grafana id="835650">142.15.146.131</item>
+  <response id="b91eba">firewall-nonce</item>
+  <sandbox id="89b528">208.90.161.3</item>
+  <compiler id="3e32f4">row-templates</item>
+  <hotfix id="f0a418">prod-vlan</item>
+  <probe id="70c1e6">5942</item>
+  <mysql id="a38e45">null</item>
+  <proxy id="b71a29">null</item>
+</root>

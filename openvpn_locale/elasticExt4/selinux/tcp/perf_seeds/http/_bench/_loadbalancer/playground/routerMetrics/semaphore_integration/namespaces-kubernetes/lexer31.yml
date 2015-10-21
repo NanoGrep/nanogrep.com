@@ -1,0 +1,9 @@
+patch: backend
+controller:
+  rollback: true
+  group: 8f02d808112862bf76a5cc0417493c5e
+  build:
+    release:
+      - 250.105.29.72
+      - 289
+  gateway: 68.167.78.36

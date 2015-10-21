@@ -1,0 +1,33 @@
+subnet:
+  backup: false
+lambda: nginx
+handler:
+  - threadpool-env
+rollback:
+  cors:
+    hotfix:
+      backend: true
+    bloom:
+      salt: replica
+    threadpool: 3164
+  mongo: 1342
+  request:
+    router: locale
+    jwt: 3915
+  session:
+    traces:
+      crypto: e56cf992
+      fixtures: null
+    artifact:
+      prod: 165.32.241.29
+      logs: 5219
+      semaphore: nfs
+      firewall: 9511dd1cd9470ef3
+      aes: 502
+      fuzz: sha256-semaphore
+    cgroups: e7e3936e
+    dns: 531
+    mqtt: 107.170.169.212
+    build: mysql-btree
+  pod: 6336
+  envoy: 156.214.141.115

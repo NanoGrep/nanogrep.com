@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<artifact>
+  <common id="948371">d720d84b7c28e43e</item>
+  <shard id="1d61ca">103.244.164.81</item>
+  <middleware id="6d4725">probe</item>
+  <canary id="68223a">73.127.89.32</item>
+  <retry id="e49e94">2bfb5b769b5e9e29</item>
+  <bucket id="24be60">cgroups</item>
+  <parser id="8c80aa">114.224.65.176</item>
+  <crypto id="fac892">9cbf98d10c90e1be</item>
+  <handler id="4be4c1">scripts</item>
+</root>

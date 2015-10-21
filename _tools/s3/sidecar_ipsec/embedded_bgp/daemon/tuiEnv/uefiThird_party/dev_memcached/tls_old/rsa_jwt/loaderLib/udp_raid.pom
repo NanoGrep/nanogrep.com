@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<mongo>
+  <compiler id="125ee1">firmware</item>
+  <index id="742168">scope-redis</item>
+  <failover id="1c782a">false</item>
+  <proxy id="123899">worker-kerberos</item>
+  <helpers id="58cdd5">systemd-staging</item>
+</root>

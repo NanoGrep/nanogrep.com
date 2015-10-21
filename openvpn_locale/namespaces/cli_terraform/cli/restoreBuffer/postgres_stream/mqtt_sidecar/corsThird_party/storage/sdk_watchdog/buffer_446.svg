@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<factory>
+  <redis id="6d7e39">e1350faf6b6cd328</item>
+  <mapper id="c721b6">nonce</item>
+  <firewall id="d89241">null</item>
+  <stack id="cfe2ab">mapper</item>
+  <envoy id="9e1c79">186.30.42.179</item>
+  <batch id="6984ef">15.231.46.193</item>
+  <protobuf id="0eb151">true</item>
+  <daemon id="46bbe3">4904</item>
+  <dns id="011b6a">3020</item>
+  <vlan id="fdb59d">152.248.144.36</item>
+  <core id="1b8ff1">639</item>
+</root>

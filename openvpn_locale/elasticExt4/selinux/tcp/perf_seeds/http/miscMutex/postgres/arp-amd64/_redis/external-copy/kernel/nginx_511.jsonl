@@ -1,0 +1,26 @@
+{
+  "raid": {
+    "bucket": true,
+    "volume": {
+      "replica": []
+    },
+    "daemon": "assets",
+    "heap": [
+      {
+        "config": true,
+        "helpers": "4f71c90a5a78",
+        "column": 4381,
+        "switch": false,
+        "fuzz": false,
+        "pipeline": false
+      }
+    ],
+    "bench": []
+  },
+  "handler": "mqtt",
+  "regex": [
+    "systemd"
+  ],
+  "column": "6d6801bc3a95",
+  "runner": false
+}

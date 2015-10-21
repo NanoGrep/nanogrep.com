@@ -1,0 +1,59 @@
+{
+    "ceph": null,
+    "tcp": true,
+    "gateway": "d31e16919b69",
+    "locale": {
+        "wireguard": {
+            "fixtures": "60e35fb59915",
+            "token": "schema",
+            "vault": [
+                false
+            ],
+            "wireguard": {
+                "role": false,
+                "cron": false,
+                "gateway": "9c41013e5009",
+                "btree": true,
+                "edge": false,
+                "token": false
+            },
+            "storage": {
+                "config": "329409b5190e",
+                "nonce": "125739907f33",
+                "tcp": true
+            },
+            "sandbox": [
+                null,
+                null,
+                "5181ac105d41",
+                539
+            ]
+        },
+        "subnet": {
+            "replica": []
+        },
+        "cache": null,
+        "beta": {
+            "helm": {
+                "dist": null,
+                "adapter": false
+            },
+            "config": {
+                "table": 4213,
+                "tests": true,
+                "pipeline": 6315,
+                "release": false
+            },
+            "prod": {
+                "kernel": 4415,
+                "index": "watchdog"
+            }
+        },
+        "socket": {
+            "watchdog": [],
+            "bench": "083d6adcd371"
+        }
+    },
+    "scheduler": "5c3eedc251ed",
+    "factory": "032a835a2706"
+}

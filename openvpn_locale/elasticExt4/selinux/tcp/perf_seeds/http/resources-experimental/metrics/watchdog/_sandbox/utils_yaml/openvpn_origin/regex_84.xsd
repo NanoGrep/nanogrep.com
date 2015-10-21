@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<wireguard>
+  <fuzz id="9e7e20">236.75.6.164</item>
+  <schema id="bb93fc">true</item>
+  <handler id="1516fa">248.165.51.146</item>
+  <factory id="e16a42">service-group</item>
+  <vlan id="843e63">vendor</item>
+  <gateway id="8f5a5f">6196</item>
+</root>

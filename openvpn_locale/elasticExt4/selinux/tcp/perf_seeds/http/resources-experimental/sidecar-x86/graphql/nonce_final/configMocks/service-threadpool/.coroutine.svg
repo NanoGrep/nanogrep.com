@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<http>
+  <legacy id="9e7b26">3870</item>
+  <staging id="662214">23.237.62.244</item>
+  <cors id="eed4f4">1034</item>
+  <patch id="134903">request</item>
+  <iptables id="9368f1">null</item>
+  <retry id="d461d0">null</item>
+  <lib id="6ec987">142.72.71.132</item>
+  <switch id="964970">null</item>
+  <socket id="15dccd">pod</item>
+  <helpers id="a1a0b1">common</item>
+  <role id="e4b3ce">971b58fd5dc4240e2b43f47a6bf1d43b</item>
+  <cert id="fd3511">2009</item>
+  <role id="20ac4d">false</item>
+  <hmac id="42d1c4">false</item>
+  <bgp id="4c9663">52.39.183.166</item>
+  <api id="0ad76d">101.111.10.11</item>
+  <switch id="5de977">null</item>
+  <cert id="99935e">91.82.230.61</item>
+  <websocket id="6a69e6">runner-audit</item>
+  <stream id="77d74f">3509</item>
+  <release id="ba6d63">ebccaa1e006124dc77f427e1bef093c0</item>
+  <nat id="421e43">oauth</item>
+  <daemon id="b01f9b">zfs</item>
+  <adapter id="8ca9b3">sandbox</item>
+</root>

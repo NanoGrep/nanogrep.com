@@ -1,0 +1,44 @@
+mongo: lexer
+zfs:
+  dist:
+    bloom: c169ce4d
+    topic:
+      - 83.10.244.77
+    cursor:
+      mirror: 3038
+      heap:
+        - backup-yaml
+        - ansible-helm
+      edge: policy
+      vxlan: 132.195.193.52
+    rest: 22.177.237.38
+  watchdog: mqtt
+  nonce:
+    cookie: 6338
+    vendor: handler-hmac
+    vault: 41.212.47.213
+    prometheus: factory
+  bgp:
+    backup: 6792
+    backup:
+      - 45.125.11.17
+      - 6271c0d6
+      - 149.33.50.245
+      - 6215
+    helpers: probe
+    entropy:
+      systemd: locale-mesh
+      iptables: 12.160.76.97
+      artifact: false
+    snapshot:
+      watchdog: 1089
+      threadpool:
+        - 3176
+  aes: null
+build:
+  api:
+    subnet: false
+    frontend: true
+    response: common
+    iptables: 9765
+lexer: 04638e611ff3a77c

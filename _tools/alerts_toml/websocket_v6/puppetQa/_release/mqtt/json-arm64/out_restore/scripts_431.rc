@@ -1,0 +1,80 @@
+[cookie]
+offset.migrations = origin
+tableprod = bench-logs
+elastic.wireguard = 27ac6135474eb372
+btree.schema = 7007
+iptables.mqtt = 176.52.86.7
+coroutineprod = 1707
+coroutinefirewall = artifact
+mocks_cgroups = 201.31.192.136
+lib.vault = 116.75.89.103
+noncecors = volume
+adaptermapper = 5186
+redis.trie = false
+
+[runner]
+controller.loader = elastic
+terraform_redis = false
+tracesbackup = 9b2610dc2fbe5953b78ff5f2823b12bf
+wireguard_aes = migrations
+hashmap.terraform = 63.41.77.237
+failover_scope = 57bbeac28729116b
+row.coroutine = fb4c12616039917b6c0a1030ef57e8e4
+salt.tcp = 44.246.124.169
+websocket.topic = 160.39.24.201
+queue.elastic = f37f86f2
+logs.factory = 1934
+ceph_loader = 76.214.113.4
+legacysandbox = firmware-env
+
+[mirror]
+mysql.cors = false
+configsdk = cron
+utilstrie = cb1443dd
+fuzz_mocks = audit
+servicetemplates = d986fca6
+release_daemon = 106
+protobuf_handler = false
+nfsrest = regex
+proxy_bloom = traces
+registry.vendor = 2f7ca68c
+prod.runner = 116.194.115.186
+failoverrequest = nginx-user
+common_object = 75.198.43.245
+mocks_cert = grafana
+logs.logs = 8614
+bench.grafana = 4123
+grpc_nginx = node-nginx
+buffer.frontend = backup
+tlsdist = crypto
+traces_ansible = router
+shard_protobuf = cgroups-core
+triesession = a765e562
+
+[rollback]
+legacyadapter = 10.29.216.199
+group_fixtures = false
+testsdaemon = buffer
+rowkernel = true
+role_group = 201.138.38.196
+canary_tests = 4cb54a2de075cad1
+node_nfs = 0927c0b2
+tenant_canary = release
+benchgroup = d8d5ea57
+staging.tools = 34.201.161.71
+storage_helm = 223.118.228.11
+udp_semaphore = 2be3e13b3bb58707
+locale_batch = c07739f1de57ba5eda2ebf2dd7f30f82
+cronjwt = false
+entropy.loader = 3.84.3.16
+switchsalt = column
+offset.probe = udp-elastic
+traces_socket = 531d1420925817c1
+pod_mocks = true
+semaphore_graphql = false
+helmmapper = 42.134.12.217
+api_offset = true
+watchdoghelpers = hashmap
+mutex.envoy = compiler
+graphql.dist = pod-session
+origingateway = a0bb32ca

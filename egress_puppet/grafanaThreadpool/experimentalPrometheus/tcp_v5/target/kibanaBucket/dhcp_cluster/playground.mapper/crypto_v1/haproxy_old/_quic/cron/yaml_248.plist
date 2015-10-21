@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<snapshot>
+  <bootstrap id="8c07a7">vlan-fuzz</item>
+  <handler id="58c8a6">48369653fdd517e0</item>
+  <stream id="461844">switch</item>
+  <tcp id="a91fc8">utils</item>
+  <bootstrap id="f0ad65">crypto-terraform</item>
+  <frontend id="c7b94e">20.249.99.136</item>
+</root>

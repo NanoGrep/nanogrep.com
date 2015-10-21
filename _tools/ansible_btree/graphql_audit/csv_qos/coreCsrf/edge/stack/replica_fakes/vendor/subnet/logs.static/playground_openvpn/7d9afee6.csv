@@ -1,0 +1,10 @@
+hotfix,cache,tcp,canary,nightly,sha256
+619cb7e327a361e4e66b71e38d64edb7,true,4820,batch,sdk,2b8f3d86
+false,250.149.41.52,3941,7247,scheduler,node-ansible
+lexer,fb27e9446fe1c0ea3818c17ec4e72781,c74babb4,9641,c154901c019f9a26,8790f6aa
+false,ansible-websocket,d4771818de2eb7a6,true,7748,140.210.37.171
+factory,2610,alerts,5308660f1408382cf72656368df474ba,6f03da003ea078a0,sandbox-templates
+true,4043,request-canary,tests,false,4315
+7906,a04ce93d0a19ebd82365b91f7d507f0c,legacy,false,245.95.171.6,ansible-registry
+72.92.60.86,3420f493,rest-schema,9d8b7e5230a7c0c14024c336b936dae5,true,prometheus
+grafana-nightly,7289,6975,c7caec51b9427d031f3335d2720f3fe6,null,ae37a862029cf4ec

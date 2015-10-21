@@ -1,0 +1,4 @@
+dns,response,canary,fuzz
+stream-fixtures,23.209.159.216,prometheus-envoy,2f3626cc52765b14
+205,null,5238,103.81.60.159
+80d3595a7676bc92,9f6592c21d2aa601,true,2082

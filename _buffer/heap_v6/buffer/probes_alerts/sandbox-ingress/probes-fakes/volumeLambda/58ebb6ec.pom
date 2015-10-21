@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<alerts>
+  <queue id="fbcefb">topic</item>
+  <schema id="b0b4d0">221.223.246.97</item>
+  <semaphore id="a67e2b">7a8d9c6d06372457</item>
+  <systemd id="b4d31f">hmac-trie</item>
+  <http id="f41181">mesh</item>
+  <tools id="f3adb2">false</item>
+  <handler id="bb4d3f">false</item>
+  <zfs id="c1a2eb">proxy-frontend</item>
+  <loader id="cd52a6">threadpool</item>
+  <tls id="c9948b">39.77.69.10</item>
+  <offset id="58cc7f">tls</item>
+  <index id="0ebbb6">31.131.104.180</item>
+  <firmware id="21ac02">3053</item>
+  <socket id="f0ae6b">228.244.246.77</item>
+  <nfs id="a8c2d1">offset-middleware</item>
+  <rest id="ce1eec">false</item>
+  <scheduler id="37672c">false</item>
+  <buffer id="2951aa">4581</item>
+  <canary id="987752">51.93.228.245</item>
+  <parser id="b437fb">session-env</item>
+  <envoy id="490c71">17.89.154.183</item>
+  <common id="728793">160517faa9378d8db6072d53eb63869b</item>
+  <regex id="27baa0">62.116.221.59</item>
+  <bloom id="63cec8">logs-jenkins</item>
+  <envoy id="09f923">true</item>
+</root>

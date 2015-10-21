@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<controller>
+  <sandbox id="6329b9">14.95.138.25</item>
+  <loader id="22e8cf">3933</item>
+  <pipeline id="6bdab0">204.160.158.126</item>
+  <nat id="e89d0f">batch-watchdog</item>
+  <mirror id="cdd5cb">116.56.61.106</item>
+  <kerberos id="0745b3">request-legacy</item>
+  <stack id="de4e2e">434d19a7e7a5346b</item>
+  <topic id="61ff1f">3098</item>
+  <ingress id="ddb8f9">8694</item>
+  <nginx id="bf9a63">mongo-request</item>
+</root>

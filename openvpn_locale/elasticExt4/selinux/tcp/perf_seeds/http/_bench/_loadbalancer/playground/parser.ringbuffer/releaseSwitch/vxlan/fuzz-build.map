@@ -1,0 +1,124 @@
+{
+    "backup": {
+        "driver": {
+            "tests": {
+                "trie": false,
+                "row": false
+            },
+            "stack": [
+                true,
+                true,
+                3762,
+                "api"
+            ],
+            "threadpool": "cgroups",
+            "compiler": {
+                "payload": "gateway",
+                "middleware": "b681bd4c95e7",
+                "elastic": "jenkins",
+                "cgroups": false
+            },
+            "locale": {
+                "entropy": true,
+                "queue": null,
+                "cert": null,
+                "cookie": "44f38f96359a",
+                "crypto": true,
+                "shard": 6339
+            }
+        },
+        "yaml": {
+            "cors": {
+                "table": false,
+                "vendor": null,
+                "helm": 3604,
+                "systemd": 4245,
+                "router": "5d6728dcfa72"
+            },
+            "handler": "a80953ac28e3",
+            "vendor": [
+                null
+            ],
+            "firewall": null
+        },
+        "session": "71bb00228a90",
+        "registry": {
+            "bucket": [
+                null
+            ],
+            "router": {
+                "handler": false,
+                "mesh": false
+            }
+        }
+    },
+    "stream": {
+        "protobuf": "721ce32cd1f2",
+        "replica": {
+            "mqtt": {
+                "jenkins": null,
+                "terraform": "gateway",
+                "fuzz": "user"
+            }
+        }
+    },
+    "cert": {
+        "cron": {
+            "artifact": {
+                "backend": "f9af3fb3ad67",
+                "object": null,
+                "fuzz": "b77516d2220f"
+            },
+            "user": "canary",
+            "mirror": true,
+            "api": true
+        },
+        "kafka": [
+            {
+                "utils": "2153f6e8b87f",
+                "gateway": false,
+                "traces": "18b8c1c3ee68",
+                "lexer": "e6694a67c7b7",
+                "object": "da628ab02bc8"
+            },
+            [
+                false,
+                true
+            ]
+        ]
+    },
+    "artifact": {
+        "batch": "aaa45ee62bdb",
+        "cron": {
+            "nginx": {
+                "lib": null,
+                "utils": 7098,
+                "zfs": 6606,
+                "vlan": false,
+                "quic": null
+            }
+        },
+        "rsa": {
+            "middleware": {
+                "helm": null,
+                "bloom": false,
+                "fixtures": null,
+                "mapper": "edge",
+                "crypto": "b6eb70aede8a"
+            },
+            "yaml": null,
+            "handler": [
+                null,
+                "94635e51a4ff",
+                9244,
+                8726
+            ],
+            "protobuf": {
+                "group": false
+            }
+        },
+        "subnet": "bucket",
+        "dns": "adapter",
+        "threadpool": "tools"
+    }
+}

@@ -1,0 +1,27 @@
+fuzz:
+  - 6aec6981
+  - 98cf8d7b
+  - 9905
+ceph: kafka-group
+snapshot:
+  policy:
+    - true
+    - vxlan-table
+  ansible:
+    kernel: 36a3db0a584e001e
+    table: null
+    subnet:
+      - true
+    vendor:
+      - 7996
+      - 186.228.254.163
+      - 93.173.228.232
+      - 161.233.33.104
+  mocks: parser
+  firewall: tcp
+  controller:
+    - 3634
+    - tls
+    - false
+    - probe-traces
+  vendor: switch

@@ -1,0 +1,3 @@
+canary: true
+bench: request
+daemon: bdcee647f28273fa

@@ -1,0 +1,35 @@
+{
+    "graphql": [
+        true,
+        "aa7f692fd178",
+        [
+            [
+                1430
+            ],
+            [
+                "api",
+                null,
+                null,
+                false
+            ],
+            null,
+            {
+                "jenkins": 9544,
+                "dist": null
+            }
+        ],
+        {
+            "cron": {
+                "subnet": 2100,
+                "scope": false,
+                "index": "btree",
+                "buffer": "d90957025076"
+            },
+            "quic": 8658,
+            "locale": false,
+            "build": [
+                false
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+quic: false
+sha256: shard-table
+graphql:
+  systemd: 5992
+  metrics: 3e413f0b
+  rollback:
+    - storage
+    - c60ca216af01d8645d9bad7c400a066b
+    - 23.66.158.134
+    - cc8ad0e4b2d5c27deb026e84fcb5a9d8
+  rsa: false
+limit: 750733090f306d12
+logs: metrics-btree

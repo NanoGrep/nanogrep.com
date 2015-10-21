@@ -1,0 +1,6 @@
+row: systemd-assets
+vault: stream
+parser: nightly
+grafana: null
+sha256: 9e3446ab
+edge: 0ae94b87

@@ -1,0 +1,5 @@
+vlan: false
+stack:
+  legacy: ceph-api
+  kernel: nat
+  pipeline: 0d437164a6715897bca2d6c5dc56f9a4

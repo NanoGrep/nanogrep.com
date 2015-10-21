@@ -1,0 +1,53 @@
+stream:
+  user:
+    release:
+      middleware: 114.21.200.166
+      service: 136.187.158.70
+      row: 920bb1e5
+      elastic: ff054879
+      jenkins: 2305
+    nonce:
+      - 9146
+      - 527
+      - 2112
+      - 7872d179
+    origin:
+      - 236192cb83fd58e44e898c5d53b30bf7
+      - null
+      - true
+    tenant: true
+    mocks:
+      nat:
+        - tenant-mongo
+        - 66.214.202.244
+        - eb7a1ec291c45317
+        - runner
+      schema: false
+  cluster: ceph-storage
+  compiler: 158.45.36.195
+  cors:
+    service:
+      - driver-scope
+      - d6dbcb4c
+      - lexer-role
+    pipeline:
+      scheduler: 4309
+      core: 31.245.59.153
+      offset: edge
+      semaphore:
+        - volume
+        - null
+        - 745
+      subnet: scheduler-rsa
+    quic:
+      - wireguard-patch
+      - grafana-udp
+    helpers:
+      origin: 87.133.22.96
+      mocks: 3741
+      dns: failover-loader
+    nginx: true
+    cluster: 27.42.168.174
+staging: jwt
+scheduler: ef70108e2ee1b1ba4631ed15cc7ad4c8
+assets: worker-quic

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<templates>
+  <replica id="2e1d8b">true</item>
+  <bloom id="630ac3">5231</item>
+  <json id="4617ec">5926</item>
+  <raid id="ff56ab">release</item>
+  <bloom id="056161">5839</item>
+  <scope id="ff317d">e4973b51ae7f1d069c9714504dae7689</item>
+  <prometheus id="b9f349">a2e77b8e</item>
+  <traces id="deff0a">170.4.247.106</item>
+  <cron id="d1bdee">mirror-socket</item>
+  <fuzz id="786036">registry</item>
+  <kafka id="669f31">46.217.211.190</item>
+</root>

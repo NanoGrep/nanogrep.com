@@ -1,0 +1,84 @@
+grafana:
+  patch:
+    firewall:
+      bench: vendor
+      origin:
+        - 7157
+        - ceph
+        - mesh-stack
+      row: 5969df16ad6a44e5
+      cron: retry-env
+      upstream: 83.93.57.200
+    cookie: parser-stack
+    token:
+      switch: 4fa9fb7c
+      sha256:
+        - 104.206.97.3
+      grafana: response-artifact
+    backup: 8769
+    rest:
+      redis:
+        - hotfix
+      frontend: 2898
+  tcp: false
+  row: env-node
+  threadpool: 7439
+  mongo: 40.156.77.247
+vlan:
+  vxlan:
+    gateway:
+      artifact: true
+      env:
+        - semaphore-salt
+        - 7283
+      prod:
+        - aab28b38102da8d6
+        - ccefbdb1793ba614495f606c0fe04b11
+      topic: compiler
+      socket: 1357
+      vault: 5452
+    oauth: driver
+    cron:
+      tests: false
+      ceph: 229.77.183.154
+      cli: 165.74.73.48
+      retry: a208f1ff71465b09
+      jenkins:
+        - 517ee7895762537d
+        - 23.166.19.92
+        - false
+        - 179.12.106.123
+  mocks: nfs
+  utils:
+    trie:
+      cursor: 1849
+      mocks: df53b0fc
+    artifact: null
+    cursor:
+      tcp: null
+      stack: driver-registry
+      crypto: 1652
+    cache:
+      threadpool: 182.170.148.162
+      firmware: 6a6922924a96de5ff812f1b33764a45f
+      controller: false
+    audit: true
+release: 40.228.81.8
+templates: tls
+mongo:
+  vendor:
+    batch: 209.226.184.242
+    cgroups: helpers-batch
+    mirror:
+      - coroutine-bloom
+      - registry
+    tools:
+      upstream: 7002
+    group:
+      - mirror-edge
+      - firmware
+      - edge
+    batch: null
+  batch: 89b1365fd874e5917ff9276134914f18
+batch:
+  node: 6f87316cd4e0f6e414ccd5a56fed4480

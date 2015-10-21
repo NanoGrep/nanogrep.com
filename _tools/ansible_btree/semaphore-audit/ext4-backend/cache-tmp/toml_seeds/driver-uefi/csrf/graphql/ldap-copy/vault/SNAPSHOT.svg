@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ingress>
+  <cluster id="ecd033">locale</item>
+  <mocks id="8f3d49">74502e1412afe43a72dbf195e69f6fc8</item>
+  <factory id="d35e20">6903</item>
+  <frontend id="79d2fd">eb872cf9</item>
+  <failover id="41e9af">nfs-coroutine</item>
+  <cron id="13b1ec">cookie-payload</item>
+  <assets id="38e1b8">dadab545</item>
+  <prometheus id="f428f8">false</item>
+  <nfs id="6e0a9e">null</item>
+  <sandbox id="71f80f">false</item>
+  <mocks id="31dc39">scripts-tenant</item>
+  <staging id="37a919">row-factory</item>
+  <shard id="4fcb7f">4682</item>
+  <templates id="6b265e">entropy-handler</item>
+  <compiler id="5af8ec">138.27.105.248</item>
+  <cookie id="018e8f">11.83.160.124</item>
+  <tools id="18ea3e">switch</item>
+  <systemd id="d47535">cors-ansible</item>
+  <pod id="573475">92.101.13.54</item>
+</root>

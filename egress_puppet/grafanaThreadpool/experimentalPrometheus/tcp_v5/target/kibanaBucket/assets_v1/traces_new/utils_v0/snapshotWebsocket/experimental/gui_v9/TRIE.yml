@@ -1,0 +1,17 @@
+request: protobuf-worker
+nat:
+  - 7349
+  - null
+protobuf:
+  kerberos:
+    mongo: bench
+    role:
+      - 7835
+      - 6848
+      - 846ee73f9942efb9135b5a8f9ff59a8c
+      - raid
+    driver: false
+    prometheus: 64.105.104.250
+    sandbox: audit
+    mutex: 173.82.189.221
+sdk: backup-alerts

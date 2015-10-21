@@ -1,0 +1,8 @@
+quic,tcp,semaphore,hotfix,patch
+true,209.131.56.141,true,7240,legacy-node
+3e2d6bb827bd0012,prometheus,a78b89e7e482e301,213.254.36.105,fb64826ff18b49d7
+9239,grpc,json,9035,181.211.42.64
+98,20421182,9184,assets,234.89.193.24
+true,6c504957a76faadca7641d8d91611784,171.211.228.220,true,table-iptables
+firmware,334e53fa6675918d,35bc80007d7711115fab5d70418b6d97,protobuf,6.129.147.215
+6933,23.65.133.69,null,true,driver-lib

@@ -1,0 +1,27 @@
+batch: policy
+lib:
+  driver: 5052
+  subnet: tcp
+  firewall:
+    - snapshot-vault
+    - 244.76.56.163
+  oauth: null
+  dns: false
+  salt: 4297
+runner:
+  kernel: ingress-sdk
+  nat:
+    traces: bench
+watchdog:
+  grafana:
+    http: 5a57bd2d71460f1c
+    parser:
+      udp: true
+    aes:
+      - canary
+      - 2406
+      - schema
+      - compiler-cors
+  prod: 3c44b539
+quic:
+  grafana: 126.166.74.47

@@ -1,0 +1,11 @@
+[
+    true,
+    {
+        "factory": {
+            "entropy": null,
+            "common": {
+                "edge": true
+            }
+        }
+    }
+]

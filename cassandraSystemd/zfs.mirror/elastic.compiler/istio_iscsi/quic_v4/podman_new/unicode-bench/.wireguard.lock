@@ -1,0 +1,13 @@
+{
+  "column": [
+    [
+      {
+        "bgp": false,
+        "topic": "19bd401d6daa",
+        "proxy": 8152
+      },
+      []
+    ]
+  ],
+  "cluster": "1b118f272fc2"
+}

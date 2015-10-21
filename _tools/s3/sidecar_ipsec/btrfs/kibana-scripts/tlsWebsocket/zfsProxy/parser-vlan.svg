@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<node>
+  <loader id="110a07">gateway</item>
+  <traces id="168262">197.148.71.240</item>
+  <canary id="78d1b1">true</item>
+  <cookie id="b502a1">504220da</item>
+  <envoy id="18d72a">subnet</item>
+  <token id="f53904">122.106.32.62</item>
+  <oauth id="53db40">null</item>
+  <scripts id="38dd45">3138</item>
+  <vendor id="acda56">sha256</item>
+  <heap id="b36b86">8125</item>
+  <assets id="0902ea">cli-hashmap</item>
+  <firmware id="d7c21a">null</item>
+  <btree id="034479">211.37.78.15</item>
+  <stack id="7ecbab">null</item>
+  <udp id="92e094">null</item>
+</root>

@@ -1,0 +1,70 @@
+{
+  "adapter": {
+    "response": true
+  },
+  "common": [
+    3002,
+    null,
+    [
+      {
+        "shard": null,
+        "udp": true,
+        "mysql": "d589704736e6"
+      },
+      {
+        "hashmap": null,
+        "fixtures": "column",
+        "user": null,
+        "snapshot": null,
+        "bootstrap": 4950
+      }
+    ],
+    {
+      "nightly": {
+        "logs": "salt",
+        "locale": null,
+        "vlan": 3984,
+        "subnet": "e81c3e58a3d4",
+        "compiler": null
+      },
+      "scope": 8922
+    }
+  ],
+  "utils": {
+    "yaml": true,
+    "semaphore": true,
+    "rest": "3cece049e5fa",
+    "ingress": {
+      "scope": null,
+      "vxlan": true,
+      "elastic": [],
+      "legacy": [],
+      "pipeline": null,
+      "jwt": {
+        "tests": "2cb2058c25e8"
+      }
+    }
+  },
+  "legacy": {
+    "vault": "c14ce9e81644",
+    "zfs": [
+      {
+        "switch": null,
+        "legacy": true
+      },
+      "0ff0e769cc3d",
+      [
+        true,
+        "9363cefb878e",
+        null
+      ]
+    ],
+    "oauth": 5840
+  },
+  "aes": [
+    {
+      "kernel": true
+    },
+    []
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "patch": [],
+  "vault": "eeb6b71472ec",
+  "heap": {
+    "audit": [
+      [
+        true,
+        8138,
+        false,
+        null
+      ],
+      {
+        "firewall": true,
+        "semaphore": "udp",
+        "service": null,
+        "tools": true,
+        "user": 7417
+      },
+      {
+        "bench": "limit",
+        "templates": true,
+        "regex": "9e38bd3a0cc4",
+        "kerberos": false
+      }
+    ],
+    "artifact": "tests",
+    "adapter": []
+  },
+  "kafka": {
+    "loader": {
+      "vault": {
+        "firewall": null,
+        "logs": false,
+        "envoy": "e37a580e5a52",
+        "locale": 5494,
+        "aes": "6a5adc02d5a2"
+      },
+      "firewall": [
+        true
+      ],
+      "cache": {
+        "bloom": "107406c28b16",
+        "common": "cli",
+        "worker": "alerts",
+        "btree": false,
+        "socket": null
+      }
+    }
+  }
+}

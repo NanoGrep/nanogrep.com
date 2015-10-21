@@ -1,0 +1,46 @@
+protobuf: 284
+beta: oauth
+failover:
+  graphql:
+    utils: false
+    shard:
+      mesh: 9946
+      role: 1cd8493d9814e5c1e01f5615ffbd670e
+      mqtt: jenkins-factory
+      kafka:
+        - 76.172.8.16
+        - null
+        - parser
+  ldap: 94.205.222.76
+column:
+  helm:
+    coroutine:
+      json: 222.254.224.29
+      column: 253.75.191.143
+      edge: 78e77cd8
+      jwt: null
+    registry: 01103f7523111d13
+    replica: volume-core
+  replica:
+    scope: hotfix-lib
+    mysql: false
+    threadpool:
+      sandbox: 78be962926e5b54b
+      parser: a23bd80d01d5aab8
+    traces:
+      patch: redis
+      fixtures: 52.169.187.210
+      firewall: origin
+      ansible: threadpool
+      rollback:
+        - 09a6fee30c6961e6
+        - 1328
+        - backup-response
+        - 243.17.118.24
+      sandbox: 135.177.15.158
+  vlan:
+    upstream: token
+  sdk:
+    cors: traces-cli
+  fixtures: 167.230.194.17
+stream: core

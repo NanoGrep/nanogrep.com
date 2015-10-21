@@ -1,0 +1,86 @@
+nightly:
+  json:
+    factory: postgres-firmware
+    rsa:
+      staging:
+        - failover
+        - false
+    scheduler: true
+    session:
+      entropy: fuzz-group
+      elastic: 4b943be4aa522fe3806fbaac7afdd4cb
+      grpc: false
+      ldap:
+        - 3296
+    logs: 3349
+  websocket: sandbox
+  mesh: 1953
+dhcp:
+  parser: d6e5a01babd8c8a1
+  api:
+    heap: schema
+    subnet: 1576
+    dist: 56489dd3bdea7cecc4c2d0394ee5a49a
+    controller: b74e702240500ca25c5f0c40e8290ffc
+  scripts: 9565
+  udp: 5724
+  regex: bdce25ab
+  router: request-env
+cookie:
+  - 68aa61181ee783f6
+  - sha256-runner
+canary:
+  switch:
+    offset: false
+  jenkins: 9402
+  vault:
+    middleware:
+      - 591
+      - 6313
+    subnet:
+      regex: 519bf539ff6d3ef625cd8dff72ac18a6
+    raid: 60.174.226.150
+    kafka: false
+    limit:
+      grafana: policy-canary
+      tools: false
+      worker: false
+      grafana: entropy-driver
+    edge:
+      probe: 4975
+      mapper: salt
+      token:
+        - backup-utils
+        - true
+      gateway:
+        - b3616167a691f127
+  prod: 6200ce5f
+  table: false
+  daemon:
+    templates: metrics
+    iptables: 183.29.111.235
+    proxy:
+      nginx: 3158
+      aes: mirror-crypto
+    loader:
+      migrations: 9210520e9f20970b
+      index: 898fdad4e934ca26a73c5f29a8dd487e
+      pipeline: null
+      queue: false
+      driver: 134.117.34.67
+      legacy: 962
+    service: 166.174.72.4
+    middleware:
+      middleware: schema
+      legacy:
+        - 235.137.36.206
+        - vlan
+        - column-cors
+        - 60d2208d380f4995353ecba6bbdba65f
+scripts:
+  - true
+  - null
+  - batch
+mirror:
+  cgroups: 18.231.133.10
+  legacy: true

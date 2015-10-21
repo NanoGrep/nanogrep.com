@@ -1,0 +1,96 @@
+{
+  "row": {
+    "audit": {
+      "api": [
+        false,
+        null,
+        true,
+        false
+      ],
+      "topic": true,
+      "release": {
+        "scope": false,
+        "api": null,
+        "object": true,
+        "tls": null,
+        "buffer": null,
+        "utils": "stream"
+      }
+    },
+    "core": {
+      "patch": {
+        "cli": false,
+        "snapshot": false
+      },
+      "rollback": [
+        "31aa73f99874",
+        true,
+        "89cadce837ae",
+        false
+      ],
+      "json": [
+        7154,
+        6081
+      ],
+      "kafka": {
+        "role": true,
+        "storage": "hmac",
+        "driver": false,
+        "grafana": "index"
+      },
+      "nightly": {
+        "utils": "grpc"
+      },
+      "upstream": "8f11042de18e"
+    },
+    "env": "kernel"
+  },
+  "cookie": {
+    "alerts": {
+      "udp": []
+    }
+  },
+  "vxlan": {
+    "envoy": {
+      "websocket": 5063
+    }
+  },
+  "helpers": false,
+  "fixtures": {
+    "heap": {
+      "pod": true,
+      "buffer": {
+        "adapter": false,
+        "vlan": true,
+        "locale": false,
+        "column": false,
+        "compiler": 2270,
+        "session": "core"
+      }
+    },
+    "loader": true,
+    "volume": {
+      "zfs": {
+        "coroutine": null,
+        "pod": null
+      },
+      "prod": null,
+      "shard": null,
+      "iptables": [
+        null,
+        false
+      ],
+      "sha256": [
+        true,
+        "0525145cf107",
+        null,
+        true
+      ],
+      "snapshot": true
+    },
+    "pipeline": {
+      "buffer": null
+    },
+    "watchdog": null
+  }
+}

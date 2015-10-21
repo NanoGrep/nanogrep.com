@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<yaml>
+  <firmware id="52c6aa">edge</item>
+  <cluster id="713e09">bloom-rollback</item>
+  <index id="d1d4bf">null</item>
+  <cgroups id="b3fb3e">fixtures</item>
+  <proxy id="02e752">0d9ac46c</item>
+  <subnet id="9a3813">35.214.66.178</item>
+  <tls id="7938d9">middleware</item>
+  <dhcp id="00b797">66a812070c3fb56c</item>
+  <payload id="947e12">semaphore-migrations</item>
+  <crypto id="d62950">loader</item>
+  <replica id="040bef">helm</item>
+  <tests id="e3602a">228.253.91.106</item>
+  <schema id="4311ee">false</item>
+  <jenkins id="4ce2a0">websocket-response</item>
+  <mongo id="fb72bc">bootstrap-storage</item>
+  <yaml id="c30182">1615</item>
+  <loader id="d34d4f">5715</item>
+  <nonce id="42fe26">websocket-sdk</item>
+  <protobuf id="ddecd7">200.179.95.214</item>
+</root>

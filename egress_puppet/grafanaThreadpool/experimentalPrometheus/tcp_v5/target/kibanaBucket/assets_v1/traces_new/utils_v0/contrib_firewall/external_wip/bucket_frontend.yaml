@@ -1,0 +1,60 @@
+mutex:
+  metrics: postgres
+  ingress:
+    redis:
+      jwt:
+        - b396c0b0
+        - postgres
+    postgres:
+      - 2e7b96ca
+      - raid
+      - 5491
+  prod:
+    metrics: true
+    group: 8181
+    config:
+      queue: 180.56.183.180
+      mutex: firewall
+      bgp: 48.171.47.89
+      assets:
+        - trie
+      protobuf: 1c71aa0cb5f0b0a4
+      stream:
+        - iptables-controller
+        - salt-helm
+        - 4786a914ed414d00
+    group: 165.209.112.41
+    yaml: 2201
+    compiler: 7076
+  lexer: schema-bootstrap
+  probe: false
+  quic: null
+schema: 3c6954ec
+lib: 25.97.184.94
+bucket:
+  - 205.66.72.212
+  - 3b9a50c1253dc7dc
+  - null
+frontend: staging-node
+bootstrap:
+  parser:
+    - 95.105.142.197
+  vlan:
+    traces:
+      ansible:
+        - true
+        - 8066
+        - null
+      mqtt:
+        - 2099
+        - null
+        - registry
+      nfs: postgres
+      gateway: false
+      tcp: null
+    bucket:
+      alerts:
+        - 153.241.26.71
+        - 249.118.95.56
+        - 356f9f6573bdf43865e84661456dbcec
+    grafana: 2204cac0

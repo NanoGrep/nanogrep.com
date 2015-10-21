@@ -1,0 +1,9 @@
+canary,scope,kafka,middleware,switch,failover
+4a3584211d0f07b2061875cc4f8e341f,rsa,true,87e56ce150a6e7b1,null,false
+false,true,probe,103.173.137.40,37.251.170.16,2140
+e9b0bdb2,141.7.39.243,5914,6348,135.15.161.166,vxlan-column
+bgp-cron,cluster-backend,true,7417,b24d3aac84d1cc6cf42dbdef2458114b,3749
+rollback-redis,3449,core,3c01a4a983b78e33,true,true
+stack-release,81.94.154.36,true,97,compiler-backup,column-lib
+driver-vault,json-cors,50.108.254.51,runner,true,7521
+167.34.145.228,zfs-scheduler,beaa740d,60.18.250.227,b5256141,zfs

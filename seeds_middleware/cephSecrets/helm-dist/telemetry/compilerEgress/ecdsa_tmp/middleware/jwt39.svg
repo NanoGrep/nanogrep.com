@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<edge>
+  <mirror id="db2082">29.206.243.81</item>
+  <bench id="35456a">yaml</item>
+  <release id="5d0547">fe03ec53a4ea8d529cf1042b0f4442e6</item>
+  <fixtures id="581809">f4acfd89bd2d0dec</item>
+  <ansible id="790ebd">driver-common</item>
+  <topic id="8651bf">2d2c6c1d</item>
+  <heap id="338c15">cursor</item>
+  <token id="fd3708">4004</item>
+  <udp id="f45fd4">role</item>
+  <kafka id="1e43a4">tenant-nat</item>
+  <prometheus id="5a22f2">60.27.72.215</item>
+  <pipeline id="406095">243.67.80.152</item>
+  <rollback id="70d3b6">6147</item>
+  <driver id="5187b3">raid-parser</item>
+  <node id="79d6b0">cors</item>
+  <alerts id="247acb">firewall-edge</item>
+  <coroutine id="467a31">patch</item>
+</root>

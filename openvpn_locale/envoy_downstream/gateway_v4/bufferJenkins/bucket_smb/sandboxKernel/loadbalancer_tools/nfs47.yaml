@@ -1,0 +1,9 @@
+mirror:
+  loader: postgres
+mesh: sandbox-traces
+response:
+  bench: 7a9edd12eb78e815
+  api: 80.110.3.112
+firmware:
+  - 3564
+stream: crypto

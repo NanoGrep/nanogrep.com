@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<cache>
+  <parser id="e4a59e">5965</item>
+  <kernel id="d061c9">171.187.152.223</item>
+  <parser id="cef779">true</item>
+  <alerts id="b4d3cc">1991</item>
+  <bootstrap id="c58c9d">cgroups</item>
+  <zfs id="17a582">237.138.59.180</item>
+  <legacy id="cf3b68">nightly-user</item>
+  <mongo id="10d486">7847</item>
+  <kerberos id="cd2275">elastic</item>
+  <aes id="b78ca7">124.87.124.118</item>
+  <index id="046125">null</item>
+  <ldap id="a359f5">pod</item>
+  <fuzz id="169b66">false</item>
+  <rest id="5a709a">35.95.61.183</item>
+  <lexer id="b7a22b">true</item>
+  <role id="57fdec">daemon-gateway</item>
+  <beta id="7c7eca">systemd</item>
+  <pod id="4256f6">patch-http</item>
+  <factory id="ef2fab">d2bb49b08a10d6db</item>
+</root>

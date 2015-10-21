@@ -1,0 +1,15 @@
+tenant: node-origin
+firewall:
+  object:
+    zfs: 1199be26
+    loader: true
+    hmac: 4241e84d3d5dda72223908c6c09e4ae0
+  yaml:
+    batch:
+      - parser
+      - true
+      - 4ecb7a56356741d7
+      - 151.164.12.164
+  jenkins: 8344
+  grafana: true
+replica: volume-jenkins

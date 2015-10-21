@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<shard>
+  <canary id="87f0e5">a372a21b</item>
+  <postgres id="e46f86">handler</item>
+  <firmware id="3239fa">ee5d0d7410e9e7e4</item>
+  <middleware id="fe5cfa">build</item>
+  <zfs id="ba94d0">ingress-scripts</item>
+  <cron id="a00671">false</item>
+  <middleware id="b38360">083862cf29ef6e1e</item>
+</root>

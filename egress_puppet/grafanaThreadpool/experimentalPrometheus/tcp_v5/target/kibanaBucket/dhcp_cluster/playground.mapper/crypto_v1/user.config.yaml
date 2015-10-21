@@ -1,0 +1,23 @@
+grpc:
+  entropy:
+    upstream:
+      router: sdk-staging
+      sha256: index
+    websocket: probe-api
+cookie:
+  limit: utils
+  lambda: 1282
+rollback: 1a91b0fde5b7e5df6e21fa4159e474ce
+cgroups: gateway-cluster
+proxy: 108.196.93.220
+tools:
+  postgres:
+    upstream: switch
+    canary:
+      origin: null
+      pipeline: 120.35.166.112
+      daemon:
+        - salt
+      regex: 2990
+      json: 7091
+      iptables: 164.33.46.239

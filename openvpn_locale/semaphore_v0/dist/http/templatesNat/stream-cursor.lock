@@ -1,0 +1,12 @@
+{
+    "hmac": "ansible",
+    "kernel": "loader",
+    "jwt": true,
+    "buffer": {
+        "semaphore": {
+            "udp": false
+        }
+    },
+    "coroutine": true,
+    "http": true
+}

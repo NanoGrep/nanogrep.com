@@ -1,0 +1,55 @@
+envoy: 12.64.44.217
+rsa:
+  sha256: true
+  mocks:
+    mqtt: 2c79d582
+    hashmap:
+      buffer: 75934deffb180ccb9ffa3b40161f7ca3
+      threadpool: 187.139.6.122
+      mirror: false
+    iptables: 1961
+    alerts:
+      crypto: 4614
+  index: 48bf6eba
+  topic:
+    stack:
+      vendor: btree-vxlan
+      locale: 7380
+      mysql: 63.230.38.224
+      logs:
+        - migrations-iptables
+        - 202
+        - null
+        - hmac
+    build: 3452
+    nat: a7b6ebdb823af0f609a0087c5e4ec418
+    prod: db60416d
+    rsa: 77.249.44.26
+    adapter: 8289
+  factory: controller
+  node: canary-fixtures
+role:
+  - 232.233.9.104
+  - 154
+  - null
+  - cert
+tools:
+  btree: tools
+  registry:
+    kafka:
+      scripts: 9826
+      http: true
+      scope: release-bench
+      canary: trie
+      kerberos: mesh-ceph
+      postgres: 5614
+    core: 5103
+    build: 112.181.132.90
+    queue: 106.214.8.106
+    graphql: shard
+    driver:
+      - true
+      - null
+      - 1991
+  grafana: 4415
+  tests: 58627d32

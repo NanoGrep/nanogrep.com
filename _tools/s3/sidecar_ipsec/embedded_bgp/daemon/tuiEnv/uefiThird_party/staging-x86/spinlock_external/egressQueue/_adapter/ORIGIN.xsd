@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<beta>
+  <graphql id="c87354">grpc</item>
+  <salt id="d692c3">15.49.114.16</item>
+  <cert id="eeb4af">jwt-vendor</item>
+  <hashmap id="78bd89">c39d043b</item>
+  <tests id="33e4ae">salt</item>
+  <protobuf id="6760c2">true</item>
+  <gateway id="fc4343">b1667cf8a13996e4</item>
+  <failover id="5e98be">3438</item>
+  <router id="cee35f">9171</item>
+  <threadpool id="99eb67">1493</item>
+  <mqtt id="00e660">8417</item>
+  <driver id="2a5f8b">618ba3e50af7ca93</item>
+  <origin id="8efc1b">null</item>
+  <env id="07e962">websocket</item>
+  <pipeline id="be142b">handler-failover</item>
+  <aes id="3f87fc">136.183.157.226</item>
+</root>

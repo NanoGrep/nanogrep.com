@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<protobuf>
+  <nightly id="b5e213">81b89d18</item>
+  <sha256 id="4953fd">2bc0cc249db3b0ec</item>
+  <grpc id="6e3c39">schema</item>
+  <cert id="e9fc50">false</item>
+  <tools id="f6a6d7">0d7925c6</item>
+  <ldap id="d8b220">true</item>
+  <redis id="2acf26">null</item>
+  <protobuf id="9e8235">71.192.180.75</item>
+  <cluster id="9613cb">d48be20d</item>
+  <session id="bd7a53">56.68.73.32</item>
+  <probe id="34f4cd">17.47.171.254</item>
+  <grafana id="37be42">2122</item>
+</root>

@@ -1,0 +1,53 @@
+[
+  {
+    "pod": {
+      "hashmap": "ca4902a7f7d0",
+      "mutex": "8d753ec83403"
+    },
+    "parser": {
+      "router": "lambda"
+    },
+    "gateway": {
+      "rollback": [
+        null,
+        true
+      ],
+      "firmware": [
+        true,
+        false,
+        "d2654fe21333",
+        true
+      ],
+      "ceph": {
+        "legacy": null
+      },
+      "nat": false
+    },
+    "runner": {
+      "locale": {
+        "lib": false,
+        "dist": "967e83f2c7f2",
+        "scope": null,
+        "prometheus": null,
+        "nat": 4747
+      },
+      "router": {
+        "sha256": "2f19d8274ecb",
+        "json": 5612,
+        "helm": "bbfc592f1739",
+        "regex": "parser",
+        "websocket": true,
+        "envoy": null
+      },
+      "bloom": false,
+      "pipeline": [
+        "a6b711fda831",
+        null,
+        null,
+        "snapshot"
+      ]
+    },
+    "index": false
+  },
+  null
+]

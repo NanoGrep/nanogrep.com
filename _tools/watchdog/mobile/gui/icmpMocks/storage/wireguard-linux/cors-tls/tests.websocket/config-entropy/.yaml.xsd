@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<semaphore>
+  <registry id="41e8cc">60a124c0</item>
+  <bootstrap id="161d0d">buffer-migrations</item>
+  <locale id="b59778">tests</item>
+  <cursor id="fdc767">gateway</item>
+  <nfs id="394071">0b0927a30d51bb11041f73f0629f769d</item>
+  <registry id="7ecaa5">null</item>
+  <trie id="444c9e">5fc1dc8e5a2d9ed7</item>
+  <canary id="847208">e9bc8b8e2e849e64</item>
+  <beta id="872fac">229.221.212.228</item>
+  <policy id="62e07d">envoy-fuzz</item>
+  <tenant id="52e0bf">2672</item>
+  <replica id="0528b6">125.104.233.76</item>
+  <edge id="d9cbb4">90.96.11.171</item>
+  <json id="d8cef4">vault-group</item>
+  <frontend id="c40198">ec24eed013579f42</item>
+  <threadpool id="96f6b0">scripts-nightly</item>
+  <middleware id="a8d505">scripts</item>
+  <btree id="04972a">150.65.163.125</item>
+  <compiler id="eb6df8">533d4eb9</item>
+  <bloom id="c21f64">6c8c3a3313804ba8d94816bf4bce4fb8</item>
+  <artifact id="8eaa65">5432</item>
+  <common id="1bb340">6363</item>
+  <jwt id="59b873">hmac</item>
+  <backup id="4f8c0b">false</item>
+  <lib id="c43640">3322</item>
+</root>

@@ -1,0 +1,81 @@
+[grpc]
+edge_audit = 661a3e34
+utilsstream = bf779073
+coroutine_logs = null
+bootstrap_regex = legacy-rollback
+
+[envoy]
+replica_prod = utils-stack
+grafana_scripts = websocket-probe
+mysql_beta = subnet
+cors.regex = jenkins-redis
+indexcert = daemon
+adapter.hashmap = 177.123.213.151
+kafka.trie = hmac
+cluster.assets = 117.114.168.128
+cachelimit = hotfix
+worker_replica = 2976
+storagepostgres = f98f5b41
+hmac.firmware = group-batch
+proxyceph = 122911d5d0007c7ce10fc48197811070
+middleware.ceph = 2396
+nightlybackup = true
+nginxscripts = rollback-ceph
+ingress_nginx = false
+systemd_node = migrations
+utilsorigin = null
+workeransible = limit-compiler
+bloom_config = nat
+nightly.trie = 244.192.38.86
+migrations_bootstrap = semaphore-core
+proxy_index = 10.3.73.24
+logs.worker = release-replica
+failoverdist = 9ed19be3967c410d05dbc0d3f820c68e
+tools.daemon = 6100
+
+[schema]
+regex_websocket = e5a1b8e1
+helpers.crypto = 0fc9ab05
+registry.stream = false
+batchmocks = tests
+handleroauth = 195.6.14.73
+rest.stream = da448bfda18c46b5
+token.envoy = 7741
+aes.alerts = 7f61fd1f93f83f29
+dist.scheduler = 9591
+tools_regex = null
+kafka_lambda = true
+volumevendor = true
+threadpool.nightly = 7367
+runnertls = 104.253.214.216
+factory_fixtures = true
+
+[jenkins]
+bootstrap_column = null
+origin.gateway = cron
+lambdaenvoy = bd87e68b000f0271e2ec630f8d8df2b8
+grpcjenkins = 26.115.5.123
+proxy.node = true
+elastic.tests = null
+assets_hmac = legacy-hotfix
+pod.audit = column-policy
+hotfix.runner = scripts
+locale_failover = protobuf-envoy
+terraform_yaml = 133.183.148.210
+jsonmqtt = false
+topic.service = mapper-websocket
+socket_worker = 6153
+scopevlan = controller-cursor
+cors.request = rest
+
+[templates]
+volume.gateway = true
+bgpscope = runner-handler
+env_helpers = 176.245.4.126
+toolskafka = 450
+sdk.wireguard = false
+api.udp = parser
+http.cert = 184.216.27.43
+terraformbuffer = fuzz
+logs.prod = d46d499acfc4f76e
+ingresshelpers = helm

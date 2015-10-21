@@ -1,0 +1,17 @@
+common: cookie-aes
+failover:
+  mapper: true
+  cache: prometheus-oauth
+  payload: false
+  websocket: cursor
+sdk:
+  user:
+    cursor:
+      offset: 51.216.193.186
+      canary: 8315
+      daemon: 96.206.107.175
+    traces:
+      dist: true
+      dist: 175.136.212.131
+cors:
+  - f4ae38b1ca9eac19

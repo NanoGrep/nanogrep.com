@@ -1,0 +1,54 @@
+stream:
+  nginx:
+    helm:
+      - 7579
+      - 4265
+      - tenant
+      - false
+    envoy: 618719f6ddf51687aa78cb279edb4d50
+    snapshot: 19.232.143.67
+    schema:
+      hmac: 63.56.113.187
+      tenant: ca8ca245daea04f1fd964b7aca75682b
+      cookie: 2926
+      gateway: tcp
+      assets: a96b00fd
+    lib: 11.60.215.21
+    bgp:
+      storage: cgroups
+      watchdog: ldap-dhcp
+      controller: 9771
+user: alerts-mutex
+vault:
+  - utils-schema
+  - 113.31.149.27
+  - null
+limit:
+  - 1db49ccdf521f1d9
+proxy:
+  mirror:
+    zfs:
+      watchdog: payload-ansible
+      mysql: true
+      backup: f8fc8d5fd6b6265b
+      payload: true
+      nat: false
+    json: null
+  ldap:
+    fuzz:
+      - 54.66.75.139
+      - 96.14.198.104
+    cli: 36aa80c630658c13
+    nfs: role-batch
+    crypto: 128.176.237.166
+    schema: 11.143.223.206
+    backup: build
+  aes:
+    protobuf: 801181144ffa2840ed3226c00f6afaa7
+    compiler: regex-cluster
+    btree: tenant-fuzz
+    user: 207.95.241.152
+    tcp: 41b9a764
+    bootstrap: 7174
+  vendor: 160.245.221.150
+  bgp: 764

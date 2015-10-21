@@ -1,0 +1,25 @@
+artifact:
+  switch: gateway
+  vault: b156aa457fb39cdd
+  row: 3943
+  pod:
+    session:
+      edge: true
+      cluster:
+        - true
+        - 0d0aa048
+        - worker-tenant
+        - 52.187.250.169
+    alerts:
+      driver: 5838
+      session: 4938
+      storage: false
+      config: null
+    bucket:
+      sandbox: null
+      pod: 4cafabed41b1d74c
+      utils: b2904b03e4703451
+      tools: 2451
+    firmware: 178.157.74.230
+  nightly: vxlan
+  storage: object

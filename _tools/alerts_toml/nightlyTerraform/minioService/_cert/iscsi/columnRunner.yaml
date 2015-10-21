@@ -1,0 +1,12 @@
+controller: 8312
+coroutine: registry-failover
+bucket: 6446
+mongo: false
+dist:
+  - 98.160.143.184
+  - true
+  - entropy
+yaml:
+  raid: api-env
+  vault: volume-traces
+  sha256: buffer-helpers

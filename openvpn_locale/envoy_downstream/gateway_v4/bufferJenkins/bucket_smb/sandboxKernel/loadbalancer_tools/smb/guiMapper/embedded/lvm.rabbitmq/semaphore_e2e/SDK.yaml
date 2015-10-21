@@ -1,0 +1,21 @@
+envoy:
+  terraform:
+    stack: 197.182.236.47
+    config: hotfix-middleware
+    index: socket
+    cors: 83.54.224.243
+    buffer:
+      helpers:
+        - wireguard-offset
+        - redis-vlan
+        - cbe26ad4
+    ansible: protobuf-snapshot
+  failover:
+    config: null
+    kernel:
+      snapshot:
+        - false
+        - fbbd9ca1f272242a
+    cluster: stack-frontend
+    rest: 2261
+    table: 148.199.217.156

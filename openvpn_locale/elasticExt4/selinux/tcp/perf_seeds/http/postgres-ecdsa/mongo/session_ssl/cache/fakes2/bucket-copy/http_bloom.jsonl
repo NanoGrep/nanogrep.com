@@ -1,0 +1,29 @@
+[
+  {
+    "prometheus": [
+      [
+        "a0ed4fa56ade",
+        null
+      ]
+    ],
+    "aes": [],
+    "hotfix": "tls",
+    "kafka": {
+      "group": {
+        "oauth": false,
+        "cursor": "parser"
+      },
+      "probe": {
+        "loader": null,
+        "mongo": 3381,
+        "vendor": false,
+        "scheduler": 49
+      },
+      "entropy": 2334,
+      "mysql": null,
+      "sandbox": false,
+      "systemd": false
+    },
+    "elastic": null
+  }
+]

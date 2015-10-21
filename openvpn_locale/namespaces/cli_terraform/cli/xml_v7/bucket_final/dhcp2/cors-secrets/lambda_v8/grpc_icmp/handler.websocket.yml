@@ -1,0 +1,4 @@
+threadpool: elastic
+vlan:
+  node: false
+ldap: 7334

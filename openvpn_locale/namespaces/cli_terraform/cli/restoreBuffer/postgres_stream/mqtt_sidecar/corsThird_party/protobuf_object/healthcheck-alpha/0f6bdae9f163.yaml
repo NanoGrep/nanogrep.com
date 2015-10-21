@@ -1,0 +1,15 @@
+nightly: null
+grafana: trie-prod
+column: entropy-router
+watchdog:
+  grpc: e79361dd84af9b8e2bdebc31f6bd7627
+  redis:
+    volume:
+      metrics: 0739200a12abdac0cac1593fa1be16b8
+      scripts: ae365e5d914f0479
+      websocket:
+        - udp-locale
+        - 1971
+        - 4011daecebde1a2826ce16d8d62e34ef
+        - false
+lexer: false

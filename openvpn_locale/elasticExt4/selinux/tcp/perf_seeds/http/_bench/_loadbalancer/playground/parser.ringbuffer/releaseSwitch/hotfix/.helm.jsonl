@@ -1,0 +1,46 @@
+{
+    "api": {
+        "storage": {
+            "redis": {
+                "artifact": false,
+                "api": true
+            },
+            "frontend": {
+                "kafka": true,
+                "buffer": "8c5761508e18",
+                "role": false
+            }
+        }
+    },
+    "session": true,
+    "tcp": null,
+    "snapshot": {
+        "mqtt": false,
+        "salt": 5899,
+        "pod": [
+            {
+                "dns": null,
+                "ingress": "socket",
+                "build": "507f318669d5",
+                "btree": true
+            },
+            {
+                "firmware": true,
+                "adapter": 1998
+            },
+            {
+                "grafana": true,
+                "tcp": null,
+                "user": null
+            }
+        ],
+        "jenkins": {
+            "frontend": [],
+            "rsa": [
+                null,
+                null
+            ]
+        }
+    },
+    "elastic": false
+}

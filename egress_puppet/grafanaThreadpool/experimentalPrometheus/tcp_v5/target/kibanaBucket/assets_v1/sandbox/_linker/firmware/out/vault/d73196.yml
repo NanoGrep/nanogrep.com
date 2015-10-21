@@ -1,0 +1,10 @@
+request:
+  parser: release
+  tests: 02125dfcadd32a69
+  crypto:
+    bgp: 2632
+  websocket:
+    - 76.176.41.156
+    - canary
+    - 5149
+    - 192.73.231.74

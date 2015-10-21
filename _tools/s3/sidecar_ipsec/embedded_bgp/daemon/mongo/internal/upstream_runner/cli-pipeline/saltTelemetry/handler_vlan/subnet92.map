@@ -1,0 +1,39 @@
+{
+  "postgres": 924,
+  "batch": {
+    "daemon": {
+      "common": "7ad349b0c8e9",
+      "entropy": {
+        "ldap": "84e64383a3b9",
+        "scope": "2f981cf80145",
+        "coroutine": false,
+        "release": true,
+        "hotfix": null,
+        "failover": false
+      },
+      "adapter": true,
+      "core": {
+        "object": true,
+        "entropy": false
+      },
+      "factory": [
+        "0d12c1dd0dc8",
+        false,
+        "sha256",
+        "2549f44b8e33"
+      ],
+      "group": {
+        "nat": 2415,
+        "locale": true,
+        "hashmap": "a542a51c59c1",
+        "cookie": true
+      }
+    },
+    "retry": [
+      "06d3dde7de40",
+      true,
+      "458a3642ca14",
+      false
+    ]
+  }
+}

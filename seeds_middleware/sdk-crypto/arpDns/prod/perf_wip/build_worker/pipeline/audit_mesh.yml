@@ -1,0 +1,18 @@
+middleware:
+  hashmap:
+    mapper: threadpool-udp
+    systemd: node-kernel
+    prod: ccb3a9422df4da598ef46cecfef32465
+    pod: factory
+  mesh: payload-scheduler
+  handler:
+    cache:
+      fixtures: ldap-user
+      envoy: 9382
+      controller:
+        - node
+      mapper: row
+      trie: session-coroutine
+      volume: ba0f6aa54540c847
+  factory: watchdog-patch
+  hotfix: api-redis

@@ -1,0 +1,53 @@
+patch: null
+session:
+  schema: 221.150.80.106
+  rsa: oauth
+  replica:
+    origin: 9246
+    aes:
+      - false
+  bloom: false
+quic: 6643
+upstream:
+  utils: true
+  kernel:
+    jwt:
+      graphql: 1959
+      cli: 3ce78f24019c3c287c5902ebd61738e2
+      kernel: 1e197f375a6c5fe0
+    group:
+      - 38.123.19.18
+      - 24.205.178.238
+      - jwt
+      - 241.75.111.152
+  runner:
+    backend:
+      retry: 835d5006
+      audit: 214.127.61.87
+      parser: false
+      controller: 8239
+      schema: yaml
+    bgp: be72458f9cc9aadb
+    service:
+      tls:
+        - crypto
+        - 116.228.96.42
+        - null
+        - 9536
+      schema: 3.175.54.187
+      traces: heap-subnet
+      logs: true
+      prod: graphql-dns
+      dhcp: 9065
+    bench: 445ccf8469dc330f
+    yaml: 76.11.164.109
+    traces:
+      nat: cache
+      index: d93b9fd2a4d38ee3727e76eb0224325e
+      redis: false
+      cron: rollback-redis
+      fuzz: 9566
+node:
+  - build-mirror
+  - 8090
+  - factory-udp

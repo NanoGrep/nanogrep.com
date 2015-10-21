@@ -1,0 +1,3 @@
+# Replica subnet controller parser queue session udp fixtures ...
+def mapper_subnet(socket):
+    return socket + 1539

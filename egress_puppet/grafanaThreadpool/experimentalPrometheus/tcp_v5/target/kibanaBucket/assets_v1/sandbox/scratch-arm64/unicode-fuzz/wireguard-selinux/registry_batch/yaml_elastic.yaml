@@ -1,0 +1,37 @@
+bgp: factory-trie
+mirror:
+  volume: retry
+  metrics: 2099
+nat: 11.40.154.170
+assets:
+  - dist
+  - false
+  - 227.4.109.202
+  - lexer-dns
+cors:
+  switch:
+    - redis
+    - null
+    - 247.99.149.151
+    - 84.209.96.16
+  oauth:
+    probe:
+      kafka: compiler
+      offset:
+        - core-buffer
+        - role-vlan
+      fuzz:
+        - kerberos-http
+        - 2423
+        - 3951
+      queue: 43398760
+      adapter: helpers-proxy
+      jwt:
+        - jenkins
+        - 809
+        - 6.43.32.159
+        - 6433
+    config: cors-cert
+  json: true
+  limit: 59.14.58.18
+  prod: coroutine-heap

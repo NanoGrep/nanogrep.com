@@ -1,0 +1,36 @@
+[
+  {
+    "scripts": false,
+    "dns": {
+      "mutex": "0764c005ce69",
+      "handler": {
+        "scope": false,
+        "core": null
+      },
+      "build": {
+        "redis": true,
+        "tests": true
+      }
+    },
+    "storage": [
+      [
+        2272,
+        "sandbox",
+        "prometheus",
+        null
+      ],
+      "crypto",
+      null,
+      [
+        false,
+        null
+      ]
+    ],
+    "nightly": {
+      "cert": "proxy",
+      "audit": true
+    }
+  },
+  5057,
+  true
+]

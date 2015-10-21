@@ -1,0 +1,19 @@
+{
+    "rsa": [],
+    "cluster": "6439367362bf",
+    "sdk": "03f1c5b6d691",
+    "dist": 9672,
+    "tools": {
+        "service": true,
+        "request": {
+            "btree": [
+                1950,
+                true,
+                "ed4c23eaab02",
+                false
+            ],
+            "jwt": null
+        },
+        "cors": true
+    }
+}

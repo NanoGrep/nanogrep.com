@@ -1,0 +1,9 @@
+index: 0373116c5912c0940f1f014ef2e5ee6d
+role:
+  daemon: buffer-row
+mapper: cgroups-traces
+mirror:
+  - 21c8799ac96f3473
+  - 04c52a9ba7e4586a2bfa3ed65b5aa670
+helm: cors-compiler
+middleware: false

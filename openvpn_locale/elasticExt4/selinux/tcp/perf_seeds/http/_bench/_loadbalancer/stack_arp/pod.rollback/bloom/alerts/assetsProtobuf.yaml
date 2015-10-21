@@ -1,0 +1,19 @@
+mapper: common-vendor
+batch:
+  beta:
+    kernel: 4e6f9fb287d20699
+  frontend: 1691
+  node: null
+  mesh: tls
+  registry: true
+  templates:
+    vlan: false
+    env:
+      - probe
+      - dns
+      - mocks
+      - 190.135.99.15
+    fixtures: prod-dist
+    traces: runner
+policy: true
+stack: bloom-scheduler

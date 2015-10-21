@@ -1,0 +1,32 @@
+release:
+  ldap:
+    limit: trie-controller
+    frontend: 153.104.212.58
+    prometheus:
+      driver: 279
+      canary:
+        - daemon
+        - nightly-snapshot
+        - beta-bootstrap
+        - factory-crypto
+      utils: 3499
+      mapper: 207.245.231.218
+      hashmap: fixtures
+      mqtt: fuzz-object
+    patch:
+      gateway: hashmap-ansible
+      probe: lambda
+      batch: nginx-json
+    nightly: rest
+    beta:
+      bloom: daemon-mysql
+      bucket: stream
+      driver: 236.100.31.39
+      prod: true
+  fixtures: 244.151.180.11
+  runner: aes-bgp
+protobuf: response-tools
+tls: response
+cgroups: null
+grafana: canary-migrations
+stream: 6137

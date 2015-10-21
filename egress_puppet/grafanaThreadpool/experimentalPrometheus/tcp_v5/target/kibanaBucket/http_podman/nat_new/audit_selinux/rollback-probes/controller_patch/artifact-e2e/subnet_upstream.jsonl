@@ -1,0 +1,30 @@
+{
+    "crypto": {
+        "mqtt": []
+    },
+    "subnet": {
+        "row": {
+            "proxy": [
+                "locale",
+                false,
+                "6bd1bdd7acbf",
+                false
+            ],
+            "vlan": null
+        },
+        "crypto": {
+            "kerberos": {
+                "bootstrap": 5092,
+                "staging": true
+            }
+        },
+        "zfs": {
+            "bloom": [
+                "1ace2f597de7"
+            ]
+        },
+        "oauth": null,
+        "migrations": "665c8aa15cef"
+    },
+    "iptables": null
+}

@@ -1,0 +1,28 @@
+lambda:
+  kerberos:
+    scheduler: driver
+    mesh:
+      cors: 9918
+    regex: coroutine-threadpool
+    tests: lib-cgroups
+    bench: 4ae04ab3
+  ingress: 167.18.58.73
+  cors: registry-raid
+  scheduler:
+    vlan: 8992ab3131abd1fe
+    ldap: token-factory
+    quic:
+      ldap: 2907
+  edge: 565
+regex:
+  edge:
+    row:
+      offset: entropy
+  mongo: lexer-dhcp
+  policy: null
+  semaphore: true
+  bucket:
+    tests: iptables
+    loader: true
+    row: false
+  adapter: true

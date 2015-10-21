@@ -1,0 +1,34 @@
+helpers: 69.105.100.80
+subnet: nat
+assets: sha256
+mqtt:
+  vault: true
+  dist:
+    - false
+  audit:
+    quic: 216.164.206.170
+    upstream: 386
+    kerberos: snapshot-pipeline
+    redis: 56ed182400ed6b6e
+  registry:
+    object:
+      raid: null
+      proxy: origin
+      service: 5db25492e946d70c
+      common: http-mocks
+      token: true
+    probe: node-artifact
+    mqtt:
+      - 6459
+    object: false
+    redis: 134.166.114.206
+  firmware:
+    vault:
+      - true
+      - cursor-index
+    heap: 6e3b5d23c068ae4d077f867f818c9abd
+    topic: false
+    entropy: 222.195.71.22
+    backend: registry
+    backup: pod
+  queue: d2664aeaa80adcb9a9b95b0f211899fa

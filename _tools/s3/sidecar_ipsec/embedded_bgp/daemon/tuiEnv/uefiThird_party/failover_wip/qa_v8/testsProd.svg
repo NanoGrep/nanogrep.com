@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<cron>
+  <nonce id="d371bb">null</item>
+  <cluster id="999511">130.162.115.100</item>
+  <semaphore id="102a20">locale</item>
+  <limit id="5d0d1f">dist</item>
+  <user id="9e3bcc">false</item>
+  <cluster id="fb2f4c">false</item>
+  <probe id="78f868">true</item>
+  <aes id="808356">771</item>
+  <build id="1772e0">222.105.64.9</item>
+  <handler id="cd20b2">32aee1ab6bf4604245a220a3a4e11b9c</item>
+  <origin id="e1d8b8">be87351aa679eaab97e73275c2495ce5</item>
+  <mapper id="c4fe44">nfs</item>
+  <bgp id="4544d4">b044ef4afd4711f1</item>
+</root>

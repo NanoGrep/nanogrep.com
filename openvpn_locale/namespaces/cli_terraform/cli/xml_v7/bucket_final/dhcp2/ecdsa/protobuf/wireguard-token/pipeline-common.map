@@ -1,0 +1,43 @@
+{
+  "backup": [
+    true,
+    "27bb982f1914",
+    null,
+    false
+  ],
+  "systemd": {
+    "nat": [],
+    "daemon": [
+      "91cf82e0c734"
+    ],
+    "limit": [
+      [
+        "tools",
+        true,
+        9410,
+        true
+      ],
+      {
+        "jenkins": false,
+        "cron": "43011456b54f",
+        "btree": "failover",
+        "dhcp": false,
+        "offset": null
+      }
+    ],
+    "env": [
+      {
+        "udp": null,
+        "systemd": "b0bbc8417fbf",
+        "adapter": null,
+        "prod": "cursor",
+        "backup": "origin"
+      },
+      [
+        false
+      ]
+    ],
+    "ceph": 7625
+  },
+  "coroutine": null
+}

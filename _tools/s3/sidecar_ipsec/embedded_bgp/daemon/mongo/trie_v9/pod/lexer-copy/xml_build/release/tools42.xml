@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<templates>
+  <grpc id="f31710">true</item>
+  <aes id="f5d872">e3f44c1d7056d262a834fa9ed8edf393</item>
+  <raid id="9f44c7">6482</item>
+  <lambda id="d621b1">ccc78ff71f7fd3ab</item>
+  <alerts id="4c5df6">worker</item>
+  <firewall id="ceb9cb">systemd-daemon</item>
+  <helpers id="56a53f">replica</item>
+  <nonce id="ab6d2f">220.106.177.33</item>
+  <storage id="273e49">sdk-api</item>
+</root>

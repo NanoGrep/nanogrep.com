@@ -1,0 +1,45 @@
+heap: templates-dist
+alerts: grpc-payload
+cors:
+  probe:
+    cache:
+      - 178.115.180.197
+    parser:
+      cookie: 194.147.59.250
+      stack: false
+      storage: 1799
+    tls: 129.237.12.95
+    fuzz: 14.165.154.227
+    worker:
+      metrics: legacy-vault
+  jenkins:
+    snapshot: 168.0.201.82
+    buffer: cli
+    hotfix: 2035
+    beta:
+      quic: systemd-mqtt
+      prometheus: 1044
+      vxlan: 4bf9b903d8bd0766f89a53478ec51599
+      prometheus: 2739
+    mutex: 31.76.229.125
+    frontend: 44619cb1
+firewall:
+  yaml: true
+  grpc:
+    proxy: false
+    salt: 91.252.134.238
+    switch:
+      mapper: true
+      stream: 103.21.134.228
+      sandbox: 209.81.238.43
+      oauth: 5984
+      core: e13796b767e5c40cae3e930b702709b8
+    handler: factory-nightly
+    canary: null
+  locale:
+    driver: 3092
+    prometheus: ansible-switch
+  probe: e82e61a3e97cb549041f97cab80dc2b5
+  prod: 9433
+  redis: true
+ingress: tests

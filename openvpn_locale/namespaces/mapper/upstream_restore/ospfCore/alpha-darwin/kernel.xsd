@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<templates>
+  <hashmap id="a5a48e">3492</item>
+  <jenkins id="dcdd62">e51dd9eb4c9d52ba</item>
+  <switch id="c097f9">1147</item>
+  <cert id="419df1">rsa</item>
+  <systemd id="935e9a">null</item>
+  <kafka id="736b68">15.200.141.179</item>
+  <subnet id="50125d">a630d444</item>
+  <config id="6923dd">909a6dfe7c7ce692</item>
+  <dns id="b07d10">null</item>
+  <kernel id="0017fa">63.212.11.82</item>
+  <release id="bc1466">token-bloom</item>
+  <sha256 id="5a8cf3">94951abd8278b970</item>
+  <ldap id="cb0c93">config-legacy</item>
+  <assets id="89604b">false</item>
+  <origin id="56e9d3">139.172.222.238</item>
+  <probe id="9fb0ff">2d7f8200a6358690</item>
+  <vendor id="dfcd41">26.13.71.94</item>
+  <service id="db15c8">tools-scope</item>
+  <pipeline id="6230d5">a36b1b48250eb84a</item>
+  <tools id="69edc1">oauth-bloom</item>
+  <bootstrap id="6c0bde">a14d4986a3b928976cbaedb9c021c689</item>
+  <config id="ad7a23">false</item>
+  <heap id="c0a321">5360</item>
+  <index id="1c92fc">null</item>
+</root>

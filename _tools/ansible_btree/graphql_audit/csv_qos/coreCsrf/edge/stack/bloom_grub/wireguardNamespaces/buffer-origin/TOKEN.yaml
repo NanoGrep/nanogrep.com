@@ -1,0 +1,22 @@
+artifact:
+  cert: 2c713c568001ae3ed9b9daff5c9b04af
+  backup: f9cf6c6f
+kafka: true
+subnet:
+  - 211.129.28.166
+  - 87.203.50.151
+  - 8209
+hashmap: 4729
+scripts:
+  vlan:
+    tcp: 1240
+    index:
+      - 8b22abc9b220a091
+  policy: true
+  user: f0777180f2baf2cb
+  cache: null
+  service: cac84f4bbe706086935b42bf3e1d542c
+lib:
+  - stream
+  - alerts-dhcp
+  - 7320

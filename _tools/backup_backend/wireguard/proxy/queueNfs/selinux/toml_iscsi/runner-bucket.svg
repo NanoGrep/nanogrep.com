@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dhcp>
+  <jwt id="1ec0ac">true</item>
+  <subnet id="c2f830">70.112.220.73</item>
+  <pipeline id="a3572e">backup-nfs</item>
+  <failover id="9079e1">lambda</item>
+  <nat id="092252">49.17.25.149</item>
+  <stack id="12baeb">5704</item>
+  <cursor id="33eb7c">154.45.77.196</item>
+  <compiler id="97a1e7">119.175.225.202</item>
+  <edge id="746739">row</item>
+  <cors id="c0190e">tenant</item>
+  <artifact id="2175be">ca844b7cf4a7627d</item>
+  <group id="f93227">9939</item>
+  <hotfix id="08f318">110.129.135.11</item>
+  <rsa id="9aac44">13bf056fa846f50ee3960e49c1914a11</item>
+  <failover id="b90210">7029</item>
+  <table id="d4a721">13aba40c</item>
+  <bench id="229c96">7786</item>
+</root>

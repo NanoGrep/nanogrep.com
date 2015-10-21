@@ -1,0 +1,5 @@
+jwt: hotfix-cache
+mqtt: 94.42.201.60
+retry: true
+frontend: 7420
+subnet: bootstrap

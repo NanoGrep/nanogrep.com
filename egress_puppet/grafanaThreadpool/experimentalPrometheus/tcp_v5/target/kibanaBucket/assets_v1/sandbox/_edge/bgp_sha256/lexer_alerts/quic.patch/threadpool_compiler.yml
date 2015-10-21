@@ -1,0 +1,17 @@
+session:
+  - 184.197.159.196
+upstream:
+  cli: false
+  object:
+    ingress: canary
+    semaphore: false
+  worker:
+    mocks:
+      - null
+      - 340c156f0daf0b3d
+    grafana: false
+    switch: quic
+    dist: null
+    vxlan: 221.152.72.106
+alerts: 1534
+alerts: queue

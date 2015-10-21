@@ -1,0 +1,40 @@
+[cli]
+schemaquic = nonce-bgp
+worker_snapshot = 2919
+terraform.registry = 8984
+batch.volume = 219.51.16.114
+retryfrontend = true
+cryptomirror = 113.247.238.48
+jenkins_dns = oauth-snapshot
+hotfixwatchdog = tools-stack
+systemd_object = grpc
+kafka.middleware = aes
+migrations_bench = 130.61.1.232
+factory_staging = common-semaphore
+traceshttp = 12.157.139.72
+release_rollback = 20.54.211.3
+storage_vendor = true
+tcp.wireguard = true
+upstream.core = true
+compiler.cluster = beta-helm
+nonce.kafka = null
+factorytoken = 35.105.2.100
+
+[snapshot]
+coroutine_grafana = 1939
+releasefirewall = cert-mirror
+systemd.kafka = false
+user.grpc = 6826
+protobuf_cluster = 137.140.7.34
+worker.tools = 230.172.5.98
+buffer.retry = bootstrap-tenant
+socket.grafana = null
+envoyobject = registry
+storagelegacy = ae3f15e7
+helm.backend = 675db18bf425b6cf8f5225a51d6e9d28
+tcp_legacy = watchdog
+hmac.mqtt = null
+
+[pipeline]
+grafana_gateway = null
+mongopod = 9497

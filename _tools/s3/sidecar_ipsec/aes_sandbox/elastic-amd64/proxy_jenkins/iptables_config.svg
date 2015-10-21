@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <pod id="699849">controller-jwt</item>
+  <tools id="a49b84">null</item>
+  <cert id="318fb3">false</item>
+  <udp id="cdcce2">storage-lambda</item>
+  <node id="2ffde9">7106</item>
+  <sandbox id="d7564d">2e96a745e0e51ff6</item>
+  <row id="4ba20a">grpc-router</item>
+  <proxy id="e63410">0f15423fdbb6813954e11500fec6c5f9</item>
+  <index id="afb330">dns</item>
+  <row id="b07a8a">daemon-role</item>
+  <cookie id="d7d97e">63fcfad1</item>
+  <btree id="28ec09">true</item>
+  <sha256 id="936380">patch</item>
+  <elastic id="91eab7">1303</item>
+  <nonce id="34e672">af2b4c77ef2063e1d1e2472476dc7383</item>
+  <buffer id="add60d">null</item>
+  <cluster id="81dc38">ingress-envoy</item>
+  <templates id="c0a02f">3159</item>
+  <rsa id="3e523a">core</item>
+  <tenant id="ec9649">122.138.236.106</item>
+  <alerts id="1bcecb">hmac-yaml</item>
+</root>

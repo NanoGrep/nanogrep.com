@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ceph>
+  <mqtt id="5a9a8b">8348</item>
+  <batch id="c138d3">crypto</item>
+  <limit id="c96912">canary-build</item>
+  <audit id="42983e">6324</item>
+  <limit id="d9afc2">lexer</item>
+  <loader id="3915ca">df928b01abd157d3</item>
+  <oauth id="972af1">1141</item>
+</root>

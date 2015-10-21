@@ -1,0 +1,11 @@
+aes: 1982
+patch:
+  - vlan-bgp
+  - ingress-cron
+gateway: 6632
+elastic: protobuf
+iptables:
+  - api
+  - 16.92.238.34
+  - 123.39.236.196
+  - 6295d3a830193b3d

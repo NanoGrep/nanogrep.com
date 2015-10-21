@@ -1,0 +1,31 @@
+retry: 706fc92bf4aa21fcc608b4361cf20a8d
+heap:
+  edge:
+    mongo: 2ec05ca2a32345c7
+    json: fixtures-env
+    semaphore:
+      role: 172.146.132.181
+      btree: 33.172.235.24
+    vlan:
+      dns: aa60f097
+      protobuf:
+        - 5e2de95452191733
+        - fed7ba8b0e48d9d5
+        - 151.229.147.84
+        - 1076
+      rsa: 148.15.67.111
+    bloom: 2768a78f43fd17c33cfe6900c4a45798
+    bgp: 33324da0
+coroutine: false
+vlan:
+  bgp: true
+  cluster: session
+  entropy: null
+  switch: 24.75.163.137
+  iptables:
+    index: offset
+cron:
+  - audit-watchdog
+  - cc0ae9f929a5af0d
+  - backup
+  - index-fuzz

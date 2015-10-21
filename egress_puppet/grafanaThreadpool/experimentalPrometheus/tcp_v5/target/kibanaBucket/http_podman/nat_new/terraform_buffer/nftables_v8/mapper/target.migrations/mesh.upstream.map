@@ -1,0 +1,52 @@
+{
+  "core": [
+    {
+      "frontend": false
+    },
+    false,
+    false
+  ],
+  "edge": [
+    {
+      "mesh": [
+        7976,
+        false,
+        "request"
+      ]
+    },
+    {
+      "tls": "6a96b3187678"
+    },
+    "30ad3bde918f",
+    3772
+  ],
+  "socket": [
+    true,
+    {
+      "buffer": "cron",
+      "dns": [
+        "00d23cf6137f",
+        false
+      ],
+      "ansible": {
+        "locale": "7eb562702615"
+      },
+      "alerts": 1137
+    },
+    [],
+    "mongo"
+  ],
+  "backup": {
+    "kafka": {
+      "middleware": {
+        "retry": "ad1b4325069a",
+        "buffer": "0810563b33d6",
+        "fuzz": false
+      }
+    },
+    "nat": {
+      "tests": null
+    }
+  },
+  "audit": null
+}

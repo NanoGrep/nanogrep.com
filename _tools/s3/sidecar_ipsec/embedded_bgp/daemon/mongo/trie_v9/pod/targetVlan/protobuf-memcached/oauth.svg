@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<threadpool>
+  <bloom id="3f019e">true</item>
+  <alerts id="f3082c">false</item>
+  <rsa id="362a91">response-controller</item>
+  <rest id="759521">http-object</item>
+  <audit id="a615e1">165.101.180.214</item>
+  <failover id="3190d4">json</item>
+  <systemd id="4e6619">39.81.68.59</item>
+  <worker id="dd414c">null</item>
+</root>

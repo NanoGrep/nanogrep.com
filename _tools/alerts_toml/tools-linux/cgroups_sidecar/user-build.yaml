@@ -1,0 +1,23 @@
+jenkins:
+  quic:
+    frontend: jenkins-common
+    regex:
+      compiler: 120.145.173.16
+    migrations: 2ca71a72
+    adapter: elastic
+    protobuf: queue
+  cli:
+    rollback: 84b476aeb8abf31cbf26b0e0701b76a3
+    websocket: 4797
+    grpc: jenkins
+    buffer:
+      - 6391
+      - alerts-lambda
+    coroutine:
+      gateway: false
+      vault: request-audit
+      mqtt: sha256
+  controller: 1817
+  yaml: true
+jenkins: tools-cluster
+crypto: false

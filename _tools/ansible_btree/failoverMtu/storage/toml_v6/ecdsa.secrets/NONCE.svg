@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <firewall id="19b9b4">7cbaa487</item>
+  <vendor id="b03a3e">4bc94d621c91aa52eca91d3c47be4c1b</item>
+  <common id="639ee6">249.64.212.233</item>
+  <protobuf id="c4fda3">104.119.57.77</item>
+  <kafka id="a12dd5">true</item>
+  <nightly id="2984a9">74.63.100.19</item>
+  <hmac id="e59dae">fea8ffee</item>
+  <controller id="31999f">8ef38211</item>
+  <token id="cc0501">oauth</item>
+  <compiler id="9265c0">99c8ded46676e2a1cfeccf765ee3f445</item>
+  <adapter id="280972">6845</item>
+  <column id="bd0adc">retry</item>
+  <backup id="06db4e">4744</item>
+  <failover id="2dbcf7">f8144c590411c2ed5bf193d2dde50ff7</item>
+  <sdk id="b4484e">null</item>
+  <grafana id="75dad9">ldap-aes</item>
+  <release id="65fbeb">iptables</item>
+  <tenant id="657b0c">62.135.218.152</item>
+  <protobuf id="e57be4">59.136.81.218</item>
+  <sdk id="7dc91f">ad8345f0e52f19d3</item>
+  <release id="2ba69c">false</item>
+  <driver id="7adb90">191.221.216.90</item>
+</root>

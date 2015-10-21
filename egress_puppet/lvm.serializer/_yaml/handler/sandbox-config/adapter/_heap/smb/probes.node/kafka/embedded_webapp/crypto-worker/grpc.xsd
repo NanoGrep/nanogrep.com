@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<dns>
+  <cert id="1dec41">37d1d648</item>
+  <scheduler id="0c76df">239.151.93.225</item>
+  <trie id="092d13">520</item>
+  <yaml id="a9e6e3">a7a083826c1a71a0</item>
+  <scripts id="b4a10c">2211</item>
+  <wireguard id="007a8b">vault-payload</item>
+  <offset id="86e7b8">dd83ab3e5f74efa4cd1a3a2f273d8d04</item>
+  <staging id="ef8aae">126.230.228.58</item>
+  <mapper id="6efefa">44.193.23.131</item>
+  <upstream id="5dc952">false</item>
+  <templates id="fe5f8c">237.51.146.76</item>
+  <tests id="8ccc26">6800</item>
+  <ingress id="517f44">null</item>
+  <zfs id="043309">1.86.184.87</item>
+  <mapper id="e04b73">fixtures-group</item>
+  <common id="0c2849">b5b9ce2a</item>
+  <alerts id="625be1">hashmap</item>
+  <traces id="05dfa0">null</item>
+  <volume id="72e9fa">trie-cache</item>
+  <ingress id="2f05b4">nightly</item>
+  <bootstrap id="1d2572">f1f9a9e8aa11d664d6d70f46a9a9bbd6</item>
+  <edge id="66aac9">oauth</item>
+  <lexer id="4bf917">jenkins-storage</item>
+  <proxy id="d20bf2">5f750e3422d84d6600443e00647f5da2</item>
+</root>

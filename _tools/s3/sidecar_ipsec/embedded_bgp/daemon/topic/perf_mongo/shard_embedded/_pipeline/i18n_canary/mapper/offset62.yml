@@ -1,0 +1,70 @@
+tenant:
+  handler: a0c6abc3
+  lexer: 2429
+  salt: 218.29.156.211
+  failover: true
+graphql:
+  systemd: 3926
+  redis:
+    pod: 34.200.44.93
+    systemd: 50e0b7ba
+    role: 144.32.153.36
+    zfs: ceph-group
+  helpers:
+    mocks:
+      pipeline:
+        - nat
+        - tenant
+      ingress: f05b2892722caae0a8ae19d8d73cc862
+    utils: mysql
+    bgp:
+      proxy: kafka
+      parser: failover
+      mutex: 9234
+      nightly: 152.201.77.33
+      patch:
+        - firewall-cookie
+      topic: true
+  cache: 186.227.132.191
+  nightly:
+    cli: 6ba8997b
+    fuzz: trie
+    retry:
+      protobuf: 56.18.141.135
+probe:
+  watchdog: 2727cedaddc730ce
+  kerberos:
+    middleware:
+      alerts: 8.80.169.251
+      websocket: 2524
+      heap:
+        - 9584
+      rest: 148aaf51
+      router: 09c495f9e58ae365
+    origin:
+      - fd2577f8f67611d6
+      - 48c9bbe7
+      - iptables-raid
+    group: hotfix-kerberos
+  dhcp:
+    vault:
+      mirror: 8724
+      lexer: hmac
+      offset: 67.181.230.171
+      btree: audit
+      nginx: hmac-tcp
+      policy: 7496
+    loader:
+      alerts: pipeline-terraform
+    role:
+      kernel: null
+      firewall: 38fb4faa
+      rollback: vlan
+    mqtt:
+      - 189.40.137.166
+    parser:
+      - true
+      - 250.191.234.120
+    service: false
+  schema: 122.253.138.174
+  templates: jenkins

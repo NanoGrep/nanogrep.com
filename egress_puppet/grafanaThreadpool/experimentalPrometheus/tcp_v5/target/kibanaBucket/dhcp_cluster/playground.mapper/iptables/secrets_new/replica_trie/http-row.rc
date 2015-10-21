@@ -1,0 +1,5 @@
+frontendpod=9009
+watchdog.canary=66.79.48.28
+core.nonce=5cfff66e113119f0
+session_oauth=config-ceph
+entropy_elastic=wireguard-api

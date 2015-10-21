@@ -1,0 +1,31 @@
+udp:
+  ingress: 8781
+  regex: beta-cache
+  snapshot:
+    prometheus: 2524
+    mesh: release
+    prod:
+      bgp: prod-heap
+      sandbox: 992d754c
+      edge: 58.64.231.62
+      canary: 73.90.131.45
+    sdk: 191.99.69.28
+    cache: 164.50.63.133
+  semaphore: probe-ansible
+  daemon: staging-prod
+cron:
+  adapter:
+    - 6066
+  salt:
+    prod: null
+    tests: websocket-frontend
+    payload:
+      buffer: 4841
+      common: c3168e34726b10b5
+      watchdog: controller
+      mqtt:
+        - null
+        - 80f24e1df033bfd3
+        - 170.190.253.52
+registry: 8620
+build: true

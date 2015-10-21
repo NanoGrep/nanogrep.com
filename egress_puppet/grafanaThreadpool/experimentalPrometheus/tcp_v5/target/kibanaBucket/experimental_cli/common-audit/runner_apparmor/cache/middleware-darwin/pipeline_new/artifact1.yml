@@ -1,0 +1,38 @@
+cgroups:
+  mutex: 3912
+  frontend: postgres-router
+  mirror:
+    fixtures: gateway-ingress
+    utils:
+      - 9149
+      - edge
+    pipeline: 119.219.66.247
+watchdog:
+  response:
+    kerberos: 215.140.216.191
+    cors: payload-vendor
+    mirror: runner-sdk
+    nginx: offset
+  assets: 162.114.182.138
+  runner:
+    - 358218faef6b9716
+    - null
+    - a0cb320920c6e345
+    - bgp
+  fuzz:
+    nonce:
+      - grpc-core
+      - ldap
+      - artifact-aes
+  systemd: redis
+  locale:
+    release:
+      templates:
+        - 3996
+        - 48.79.19.100
+        - 150.89.206.64
+      mocks: 986ad448
+      origin: terraform
+      jenkins: a178071d09251897
+    pod: 109.38.74.167
+    artifact: 4f5a7698f72809d26a8b91d7464456d2

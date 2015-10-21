@@ -1,0 +1,4 @@
+templates: replica-postgres
+driver: build
+cli: 120.143.230.233
+canary: true

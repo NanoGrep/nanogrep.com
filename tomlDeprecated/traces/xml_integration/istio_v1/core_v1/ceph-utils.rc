@@ -1,0 +1,71 @@
+[watchdog]
+bloomreplica = 1625
+artifact_pipeline = metrics-adapter
+metricsfixtures = 5165
+grpc_traces = db4f76ee6903780a
+daemon.locale = 15.38.193.94
+cli_lambda = 140.15.172.216
+quic.api = utils
+vault.utils = kernel
+grafana.scope = null
+quic.postgres = 222.119.90.15
+prometheusfrontend = null
+btree_backup = true
+nodecolumn = false
+kerberosvlan = 294bdb484a2ff1be
+bloom.config = 863
+configjson = 15086ce157e5a25be8d978b323c8d59a
+
+[postgres]
+templates_table = 7197ad22438f60eb
+mapper_prod = core
+nat.udp = 74309c75071cc3d6bb5a4364252bf3f8
+hmac_origin = 112.6.183.249
+queueartifact = 51.22.211.198
+commonnfs = 67e899e0267a46b58c7840f80a2dfc3b
+scope_factory = 0eee195f
+buffer.audit = snapshot-ldap
+pipelineprobe = 6867
+shard_crypto = 9675
+replicawebsocket = grafana
+rsa.shard = true
+
+[crypto]
+dhcp.sha256 = service-column
+nightly_loader = null
+snapshot_protobuf = 193.54.68.245
+kerberostoken = null
+firewallprotobuf = 176.24.19.136
+scriptsfixtures = cache
+lexer_aes = false
+origincore = 58.178.97.56
+backup_cursor = c691a7dbd6e169ba3fbedef5eefe3c54
+logsshard = 9103
+helpers.vendor = 4374
+
+[ldap]
+retryrunner = false
+regex.udp = false
+apifuzz = 102.137.160.42
+cgroups_prod = grpc
+lib_fuzz = 515
+
+[backup]
+snapshot_registry = heap-prometheus
+ansiblefixtures = nat
+daemon.entropy = policy
+proxy.driver = env
+handler.api = 182.47.203.46
+logs.daemon = true
+assets.ceph = true
+saltnat = 211.39.47.137
+core_grafana = null
+retry.ingress = 1249
+crypto_helpers = null
+tls_node = 24.78.38.54
+backupmiddleware = true
+artifacttable = 99.239.43.238
+backupstaging = sdk-grpc
+kerberos.vendor = 187.207.249.44
+upstream.json = rest-mongo
+tcp.vendor = 41.51.67.193

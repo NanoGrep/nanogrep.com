@@ -1,0 +1,61 @@
+config:
+  edge:
+    raid: ldap-templates
+    env: 251.8.130.208
+    tenant: 2734
+  worker: 194.182.147.241
+  kernel: vxlan-payload
+proxy:
+  nightly: 2075
+  grpc: true
+  backup:
+    subnet:
+      - null
+      - 38235f1e1100a2e5
+      - salt-migrations
+    mapper:
+      - null
+      - 9877
+      - 6844
+    switch: zfs-websocket
+    http: 486
+    http: nonce
+  switch: 207.135.150.14
+  hotfix:
+    - 4448
+    - 41.58.36.131
+    - 4473
+    - 49.131.9.165
+  compiler:
+    protobuf:
+      firewall: true
+      vault: 9083
+      json: 235.72.78.142
+      build: hotfix-legacy
+      router: 618bdc10f48cf17adf182940c1f6a4e0
+      quic: true
+    handler:
+      mocks:
+        - 127.105.170.143
+        - true
+        - envoy
+        - 4649
+      quic: 0a3a4c39ba83b5a7
+      ansible: 147.247.197.153
+      mapper: null
+    scheduler:
+      rsa: false
+      limit:
+        - 59.66.82.86
+        - metrics-wireguard
+        - 56e89056
+      index: null
+      legacy:
+        - 44.206.114.194
+        - 72.239.130.122
+        - 221.93.90.4
+    proxy:
+      - 1900
+session:
+  - false
+  - worker-core

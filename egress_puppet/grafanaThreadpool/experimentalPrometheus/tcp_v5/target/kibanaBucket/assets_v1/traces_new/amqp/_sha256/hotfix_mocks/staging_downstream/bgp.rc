@@ -1,0 +1,47 @@
+[release]
+salt_subnet = 182.123.247.220
+websocket.legacy = d6ab56f3a941810a
+snapshot.cli = 159.76.99.138
+originwebsocket = terraform
+
+[stream]
+bucket_upstream = stream
+fixtures_fixtures = bf24aacba1ae03d9
+cron.session = 213.103.44.104
+localegroup = 0e0b8e8444c201eab68c2c44ad7070e7
+mocks_ceph = 15e2348bc8a6c8ef
+nightly_graphql = cron-scheduler
+lib.driver = false
+tlsprometheus = 1140
+request_scope = 3770
+kerberos_scope = 2024
+registryrow = 122.184.237.141
+logs.loader = build-raid
+firewallstaging = b3047383
+limit.postgres = artifact-object
+column.beta = 530
+envoycors = 68e5690e
+column_factory = true
+zfs.mocks = 9664
+cgroups.scheduler = 6399
+router.upstream = 7a9b56183b773d37c4a7327f56604975
+sdkbootstrap = null
+core_traces = 214.181.141.17
+postgres.cron = 5219
+terraform.semaphore = 4843bff6937b740b2fc115139e16f31f
+jwt.daemon = b5cd728a3ad2e1201c5035961103d366
+config_ingress = retry-registry
+bootstrap.postgres = false
+loader.env = group-ansible
+sandboxkerberos = user-yaml
+
+[group]
+udpschema = cda235e7
+backendbootstrap = 108.229.107.191
+tlsutils = terraform-envoy
+assetsorigin = true
+servicezfs = 168.150.105.162
+dhcpiptables = 8628
+vlan_alerts = loader-canary
+croncoroutine = 4534
+scopecert = wireguard

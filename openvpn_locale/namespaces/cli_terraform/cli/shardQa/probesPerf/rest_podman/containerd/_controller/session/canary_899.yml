@@ -1,0 +1,12 @@
+dhcp:
+  socket:
+    - 7750
+  patch: false
+  envoy: 52d524eab5ac7bc1
+  sha256:
+    - 116.233.16.13
+    - false
+  prometheus:
+    patch: http-payload
+cluster: 50d05e54
+grafana: traces

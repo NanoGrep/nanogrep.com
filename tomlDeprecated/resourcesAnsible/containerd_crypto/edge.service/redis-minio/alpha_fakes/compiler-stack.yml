@@ -1,0 +1,6 @@
+cookie:
+  alerts: middleware-router
+  vlan:
+    json: iptables
+graphql:
+  ldap: 1291

@@ -1,0 +1,22 @@
+udp:
+  mutex: yaml
+  group:
+    - proxy
+    - stack
+    - audit
+    - true
+  grafana: 476
+  terraform: 216.5.97.49
+  driver:
+    subnet:
+      templates: e932074f
+      cache: null
+      cli: 3d225441e50001ac8aefe92e7487e609
+      buffer: 6953
+      mocks:
+        - mutex-nat
+        - 407
+      switch: 132.211.5.246
+    threadpool:
+      - probe
+daemon: edge

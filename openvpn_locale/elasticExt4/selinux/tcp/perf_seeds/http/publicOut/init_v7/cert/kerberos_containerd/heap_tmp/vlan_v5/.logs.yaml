@@ -1,0 +1,42 @@
+build:
+  traces:
+    - table
+    - tcp-loader
+  semaphore: jenkins
+  cursor:
+    subnet: 8016
+    terraform:
+      - false
+      - hotfix-ingress
+      - 56087fb5698230f7
+    raid:
+      tests: true
+      middleware:
+        - 42f9402263bb763fa50372414a5d1fe9
+      metrics: 60b07137
+      column: 627
+    assets: common-zfs
+    postgres:
+      - tcp
+      - switch
+    adapter: 0342d9da
+  bgp:
+    - helpers
+    - 4.24.217.100
+    - entropy
+    - false
+  token:
+    yaml: 1350
+    daemon:
+      service: 38ae13a68a12aeca
+      mqtt: systemd
+      fuzz: artifact-yaml
+    staging: 125.104.171.67
+  watchdog: api
+semaphore:
+  common: true
+  storage: null
+audit: 31a8a8a9cacf6d2334543d44509137d7
+coroutine: null
+column: 4d3eafa2
+kerberos: 163.150.50.165

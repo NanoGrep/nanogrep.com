@@ -1,0 +1,49 @@
+{
+  "pipeline": null,
+  "staging": {
+    "table": {
+      "templates": true,
+      "nonce": [
+        false,
+        7592,
+        false
+      ],
+      "nginx": "3d00753eabf3",
+      "kerberos": [
+        false
+      ],
+      "env": 4186
+    },
+    "mutex": {
+      "watchdog": {
+        "hotfix": "6f1ab78e0240",
+        "bucket": null,
+        "heap": "patch",
+        "http": 9060,
+        "grpc": "706519f744b5",
+        "jwt": 5037
+      },
+      "locale": {
+        "crypto": 7224,
+        "kafka": "limit",
+        "edge": false
+      },
+      "queue": [
+        2915
+      ]
+    },
+    "sandbox": {
+      "graphql": {
+        "backup": "user",
+        "locale": "rest"
+      },
+      "redis": {
+        "lexer": 3452,
+        "cgroups": "4999dd4207d1",
+        "helpers": null,
+        "cert": null
+      }
+    }
+  },
+  "rsa": null
+}

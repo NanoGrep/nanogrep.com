@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<offset>
+  <policy id="32f609">table</item>
+  <bootstrap id="a770e9">38.48.8.96</item>
+  <mysql id="db8a4b">757c3ff137a6297e2c4bda21b60161de</item>
+  <node id="c0d270">4026</item>
+  <controller id="830e7d">true</item>
+  <jenkins id="aa2a87">false</item>
+  <artifact id="f5f531">8651</item>
+  <ansible id="2c411c">f2ef2b3a</item>
+  <upstream id="181c00">3661</item>
+  <prod id="8b5f93">b61d200c47ea281d5a04500ca3f9490c</item>
+  <elastic id="79e2dd">6e73ae24</item>
+</root>

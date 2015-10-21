@@ -1,0 +1,36 @@
+batch: e48d6ef4
+envoy:
+  - 6921
+session:
+  - cli
+  - logs
+  - tls
+traces:
+  tenant:
+    cli: request
+    btree:
+      - gateway-gateway
+    parser: 9d413a589f748b8a
+    subnet: 238.187.90.221
+    kernel:
+      - false
+      - 252.111.179.187
+      - firewall
+  json: shard
+  mocks: edge-zfs
+  tls: 9776
+  request:
+    - 8130
+    - legacy-bench
+    - 3108
+    - null
+  build:
+    failover: column-grpc
+    cli: 21.10.162.206
+    vlan: false
+    object:
+      - 234.236.161.191
+      - 3403
+    mongo: cli
+user:
+  http: e61d086a

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<volume>
+  <release id="df8379">true</item>
+  <dns id="0b2875">214.126.97.220</item>
+  <edge id="c272cf">kafka-salt</item>
+  <user id="560752">783</item>
+  <common id="cec0bc">loader-traces</item>
+  <build id="b56f8c">252.165.92.14</item>
+  <kerberos id="de754f">origin</item>
+  <grpc id="ada9e8">4106</item>
+  <daemon id="41ebef">df4415b53e205f33</item>
+  <object id="5a9dc2">d2eb6f22</item>
+  <json id="e9f374">fb353a80d896252a</item>
+  <bloom id="a93bd4">null</item>
+  <release id="25aa8d">1876</item>
+</root>

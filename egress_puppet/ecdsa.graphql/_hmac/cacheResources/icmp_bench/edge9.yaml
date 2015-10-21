@@ -1,0 +1,16 @@
+json: scripts-semaphore
+fixtures:
+  cron: config-cache
+  controller: 145.41.234.3
+  cluster: 64a4fa7f67a0e9bb982c2c2af19f7af2
+  topic:
+    mysql: migrations-lib
+    failover:
+      yaml: 24.98.216.150
+      mocks: 4f9f77745f4be03c371235b74f5975a0
+      rsa: lib
+      watchdog: request
+      grpc:
+        - 109.249.146.8
+      pipeline: runner
+    edge: d7282542

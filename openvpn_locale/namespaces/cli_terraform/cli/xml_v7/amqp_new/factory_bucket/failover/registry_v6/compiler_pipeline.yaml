@@ -1,0 +1,13 @@
+mesh: 71f64e3a
+volume:
+  api: 7749
+  gateway:
+    metrics: 4352
+    jwt: elastic
+  watchdog:
+    retry: env-wireguard
+  runner: 94.184.101.144
+lambda: 6439
+patch:
+  nat: b2db5fe214ac639e
+  pod: 520b649e363ef42991c40244b72b59de

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<fuzz>
+  <cache id="3e6e93">67.44.249.224</item>
+  <jwt id="80ce53">policy</item>
+  <firmware id="21166f">null</item>
+  <udp id="dd4aeb">23.142.6.20</item>
+  <btree id="d8dad4">202</item>
+  <lexer id="d48700">d06f2268f3b0ec59</item>
+  <adapter id="938d9b">586498b91fc68b4b</item>
+  <volume id="08a2c4">storage-cors</item>
+  <locale id="494d62">c0c4c2f6210cf118c5482b9ea64d101e</item>
+  <cluster id="9e321f">224.65.1.245</item>
+  <protobuf id="0cb347">patch-ldap</item>
+</root>

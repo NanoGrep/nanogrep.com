@@ -1,0 +1,17 @@
+jenkins,mutex,cron
+8225,true,postgres-stream
+proxy,b5e4c741576cf1fb,a62b1346a0ae972c1359d17828601f76
+json,adapter,127.101.229.125
+166.183.144.178,4c4fea0a90fe87c30834baabc63126ec,9922
+rsa-elastic,229.6.166.225,null
+tests-user,5401,true
+artifact,websocket-cookie,factory
+19030f7b79ac64d5,7831,bloom-core
+231.130.71.115,1063,false
+aes,2d3167993950529f,237.63.115.122
+cert-ingress,crypto-systemd,174.251.229.147
+true,617fcfb8714701e4,3a40d7e58e5a7fd1
+cache,false,582
+null,63a502789640f5c7,2904
+32.107.114.109,grafana-mutex,9196
+17.182.107.64,payload-release,false

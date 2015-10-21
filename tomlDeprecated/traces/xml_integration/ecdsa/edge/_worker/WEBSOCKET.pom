@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<beta>
+  <retry id="5c8ab4">tools-websocket</item>
+  <mocks id="847b93">0147e779b32514102f815c20dddcd470</item>
+  <bloom id="cbd6c9">c484e168</item>
+  <locale id="7e8d86">9206968b38a46f29637bcfeda41456bf</item>
+  <column id="7eaa37">null</item>
+  <sdk id="e2f742">rsa-probe</item>
+  <schema id="46d6b2">tests</item>
+</root>

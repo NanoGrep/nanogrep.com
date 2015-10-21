@@ -1,0 +1,10 @@
+{
+  "edge": {
+    "fixtures": {
+      "migrations": [],
+      "graphql": false,
+      "hmac": null
+    }
+  },
+  "heap": "middleware"
+}

@@ -1,0 +1,63 @@
+{
+    "jenkins": "aa0c01c09959",
+    "subnet": {
+        "hotfix": {
+            "heap": [],
+            "build": [
+                "rest",
+                118,
+                true,
+                null
+            ],
+            "assets": true,
+            "hotfix": []
+        },
+        "cron": "337c1b744799",
+        "lib": {
+            "lambda": {
+                "utils": "93d803ed48ff",
+                "bench": "mirror",
+                "mqtt": "mysql",
+                "dist": true
+            },
+            "session": [],
+            "kerberos": [
+                "beta"
+            ],
+            "dns": {
+                "legacy": "d0a8f17d05fd",
+                "http": "parser",
+                "socket": true
+            }
+        },
+        "migrations": {
+            "artifact": [
+                true,
+                false,
+                "cluster",
+                "lib"
+            ],
+            "bootstrap": "87d1ff179726",
+            "rest": {
+                "cron": null,
+                "driver": false,
+                "assets": false
+            }
+        },
+        "driver": {
+            "artifact": null,
+            "failover": null,
+            "crypto": {
+                "pod": "tcp",
+                "helpers": null
+            },
+            "salt": {
+                "protobuf": false,
+                "templates": false,
+                "cursor": null,
+                "patch": false
+            },
+            "bloom": true
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "offset": {
+        "crypto": 5812,
+        "offset": 2339,
+        "elastic": [
+            false
+        ],
+        "sha256": 4915,
+        "helpers": [
+            null
+        ]
+    },
+    "kernel": {
+        "terraform": "queue",
+        "registry": {
+            "env": {
+                "lib": 4812
+            },
+            "semaphore": null,
+            "pipeline": [
+                7211,
+                null,
+                "bb774bc43d7e"
+            ],
+            "cookie": {
+                "adapter": null
+            },
+            "patch": [
+                "995716b2662a",
+                null,
+                true
+            ],
+            "buffer": {
+                "fixtures": "wireguard",
+                "lexer": null,
+                "api": "c021b9dc4f3d",
+                "nonce": "release",
+                "helpers": 5325
+            }
+        },
+        "pod": {
+            "sha256": {
+                "lib": "prod",
+                "migrations": 944,
+                "stack": null,
+                "role": true,
+                "lexer": "22bf0e6e1f74"
+            },
+            "patch": [],
+            "json": "a73b7bf10a64",
+            "assets": "subnet",
+            "edge": 1131
+        }
+    },
+    "zfs": {
+        "snapshot": {
+            "policy": {
+                "rollback": "redis",
+                "backup": "raid",
+                "firewall": "offset",
+                "entropy": false,
+                "postgres": null
+            },
+            "firewall": false,
+            "rsa": {
+                "aes": "4d06b7b61a32",
+                "snapshot": true,
+                "service": true,
+                "vlan": null,
+                "json": null
+            }
+        },
+        "mongo": {
+            "audit": {
+                "systemd": null,
+                "stream": 2021,
+                "audit": false,
+                "ldap": "aes",
+                "snapshot": false,
+                "elastic": "40b79db99306"
+            },
+            "nonce": {
+                "quic": false,
+                "tools": true
+            },
+            "prod": true,
+            "replica": [
+                false,
+                "cors",
+                7958,
+                "json"
+            ],
+            "adapter": "e28c28b27ebc",
+            "btree": "87f8b80f01fa"
+        },
+        "lexer": [],
+        "daemon": [
+            {
+                "watchdog": "4e46a6b3752d",
+                "subnet": "3d95444203b9",
+                "canary": "offset",
+                "pod": 6345
+            }
+        ]
+    },
+    "registry": [
+        [],
+        {
+            "cert": [
+                null
+            ],
+            "session": true,
+            "factory": true,
+            "dist": true
+        },
+        {
+            "upstream": [
+                "hotfix",
+                "9f515c5da261",
+                "cors"
+            ],
+            "kerberos": {
+                "subnet": false,
+                "factory": "ea3261e3ac94",
+                "config": "80b07f2f58dd",
+                "mysql": "metrics",
+                "aes": 5925,
+                "bgp": 1741
+            },
+            "backend": "3daf32de16f7"
+        }
+    ],
+    "tls": {
+        "ingress": {
+            "retry": "scripts",
+            "salt": {
+                "group": null,
+                "mqtt": null,
+                "subnet": "fixtures"
+            }
+        }
+    },
+    "nat": true
+}

@@ -1,0 +1,20 @@
+parser: 4259
+handler: true
+build:
+  daemon:
+    cgroups:
+      compiler: 159.97.113.134
+      mesh: 1197
+      factory: 445
+      nonce: false
+      artifact: 76aaaeff5f391453ceb8493da6323648
+      artifact: systemd-yaml
+    grpc: 3931
+  fixtures:
+    replica: helm
+    hotfix: artifact
+    gateway: false
+    volume:
+      compiler: switch-group
+      redis: 2604
+      firmware: ansible-cli

@@ -1,0 +1,94 @@
+{
+    "worker": {
+        "cron": {
+            "table": {
+                "mapper": false,
+                "topic": "b047c14f509f",
+                "vault": true
+            },
+            "middleware": [
+                "c71aa0c9e3ae",
+                "nat"
+            ],
+            "rsa": [
+                1244,
+                true,
+                false,
+                "artifact"
+            ]
+        }
+    },
+    "driver": [
+        {
+            "sandbox": null
+        },
+        [
+            {
+                "limit": 1087,
+                "kafka": true
+            },
+            {
+                "failover": "assets",
+                "column": "mqtt"
+            }
+        ]
+    ],
+    "beta": {
+        "role": {
+            "nightly": {
+                "canary": 3802,
+                "tools": null,
+                "oauth": true,
+                "vlan": false
+            },
+            "entropy": {
+                "salt": null,
+                "terraform": true,
+                "sha256": "60e58d6028bd",
+                "mesh": "cert",
+                "firewall": false,
+                "locale": "9242d1a12733"
+            },
+            "metrics": [
+                "8a4bc6f894b9",
+                9915
+            ],
+            "lib": "vault",
+            "wireguard": {
+                "firewall": "storage",
+                "canary": 3200,
+                "hotfix": 2972,
+                "firmware": null
+            }
+        },
+        "helm": {
+            "scope": {
+                "migrations": "4dd92bd9b402",
+                "cors": 6966,
+                "object": false,
+                "shard": "e9870635183c",
+                "jwt": "295a2bd9bd8d",
+                "elastic": "tcp"
+            },
+            "nfs": "fcc6a724757e",
+            "redis": {
+                "envoy": "f4f573d690bd",
+                "postgres": "migrations",
+                "tools": "33ab8e2e28bb",
+                "cron": true,
+                "middleware": "postgres"
+            },
+            "traces": 3284,
+            "bucket": {
+                "socket": null
+            }
+        },
+        "cron": {
+            "lexer": {
+                "schema": 1522,
+                "graphql": "dab021f8b0d9"
+            }
+        },
+        "nightly": "scheduler"
+    }
+}

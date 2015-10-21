@@ -1,0 +1,11 @@
+nat: 2096
+migrations: 2d09d0ede80fe403927d0d2f1f0cabea
+zfs:
+  rollback: 9971
+  cursor: audit-cookie
+  frontend: role-edge
+  pod: bootstrap
+storage:
+  - false
+  - replica-stack
+  - failover-utils

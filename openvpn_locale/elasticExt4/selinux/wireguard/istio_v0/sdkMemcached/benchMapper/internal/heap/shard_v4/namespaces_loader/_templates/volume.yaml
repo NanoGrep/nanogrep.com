@@ -1,0 +1,7 @@
+cors: false
+nginx: 5676
+switch: true
+stack: true
+middleware: true
+vxlan:
+  compiler: false

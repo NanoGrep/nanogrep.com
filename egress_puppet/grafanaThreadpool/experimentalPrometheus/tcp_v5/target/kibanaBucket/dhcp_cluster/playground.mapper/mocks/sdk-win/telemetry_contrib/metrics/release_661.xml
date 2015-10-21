@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<cluster>
+  <heap id="56acb5">7656</item>
+  <hashmap id="98fe59">api-threadpool</item>
+  <table id="0d8dd0">scope</item>
+  <handler id="ba96a1">false</item>
+  <lexer id="691dcc">graphql</item>
+  <release id="452109">4117</item>
+  <udp id="2791c9">2542</item>
+  <mocks id="bede67">shard-locale</item>
+</root>

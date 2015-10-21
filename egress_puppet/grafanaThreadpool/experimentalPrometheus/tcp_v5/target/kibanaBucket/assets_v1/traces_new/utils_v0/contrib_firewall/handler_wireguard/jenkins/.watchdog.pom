@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cache>
+  <protobuf id="b817ac">4914</item>
+  <release id="10e2ff">eef5f060b035c44a87cbccedbb4dc117</item>
+  <entropy id="ca4996">heap</item>
+  <artifact id="832a46">null</item>
+  <rest id="4706fd">743fc6ec</item>
+  <token id="22df82">6a1021cfcbb002fb</item>
+  <firewall id="82ba05">2590</item>
+  <nightly id="5168d7">false</item>
+  <factory id="f0f0c8">2320</item>
+  <postgres id="5a3d43">patch-sandbox</item>
+  <tests id="3f6cc3">191.254.157.45</item>
+  <backend id="6ebeee">7f8d6848</item>
+  <schema id="47c10d">1d72adf90a51c812</item>
+  <backup id="44a623">154.180.223.239</item>
+  <nat id="346c89">147.156.228.13</item>
+  <regex id="acaa1f">96.18.161.126</item>
+  <nginx id="4b89ea">a16f43d0bfcf37ee5d2d2203e4bee7af</item>
+  <logs id="c91b4f">lib-websocket</item>
+  <scripts id="1e9800">false</item>
+  <core id="236e9e">7418</item>
+  <row id="4818dd">ansible-shard</item>
+  <dns id="b1c42f">132.220.193.205</item>
+</root>

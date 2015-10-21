@@ -1,0 +1,9 @@
+kerberos: 166.25.133.232
+mocks: bloom
+proxy: session-protobuf
+oauth: false
+switch:
+  backup: false
+  udp: 5a1040b9
+  tcp: null
+  policy: 91.22.81.65

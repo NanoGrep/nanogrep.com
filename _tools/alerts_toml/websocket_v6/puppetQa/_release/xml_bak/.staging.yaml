@@ -1,0 +1,20 @@
+pipeline: 6069
+tests:
+  assets:
+    threadpool: 225.7.210.174
+    dist:
+      - 101.10.137.215
+    node: tenant
+    bgp:
+      - envoy-backup
+    vault: vlan
+  loader: null
+  probe:
+    postgres: coroutine
+    ansible: cli-stream
+    hmac: cgroups-daemon
+    regex: 168.70.126.137
+  tls: null
+  lambda: 6d5c1024afb544f1
+elastic: 241.143.14.42
+failover: table

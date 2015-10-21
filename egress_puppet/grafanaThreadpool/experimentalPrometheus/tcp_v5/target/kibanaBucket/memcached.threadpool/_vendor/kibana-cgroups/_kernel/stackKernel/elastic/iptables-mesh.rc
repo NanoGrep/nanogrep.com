@@ -1,0 +1,74 @@
+[helpers]
+runner_buffer = 5649
+systemdbackend = true
+cgroups.mirror = threadpool-cursor
+sessionprobe = lexer
+stream.replica = 2236
+adapterpatch = gateway
+httphttp = 252.42.24.186
+scripts_daemon = 772
+mapper_ingress = 2229d4f2070db29099be7025625b3277
+cronredis = true
+token.websocket = 6c2a15263aa92b5b02797620d6d5dc6f
+scripts.daemon = 5230
+cronregistry = mirror
+graphqldriver = 4307
+envoy_socket = 4198
+utils.json = false
+backendvlan = false
+semaphorelambda = quic-firmware
+helperscanary = 9833
+factory.beta = 194.82.16.41
+stream.assets = 1940
+cgroups_trie = 6.142.43.147
+driver_systemd = artifact
+fuzz.nat = raid-legacy
+cert_envoy = b5aeb9ac56271836
+podstorage = true
+
+[canary]
+table.pod = 118.65.89.73
+http.mapper = true
+redis_oauth = null
+session.grpc = tcp-factory
+pod.table = null
+daemon_daemon = true
+proxy.mocks = postgres-btree
+patch.sandbox = false
+compilercron = loader
+oauth.wireguard = 113.42.214.37
+cors.systemd = 4d3d9add
+upstreamnightly = helm
+proxy_bootstrap = true
+gateway.driver = jenkins-jenkins
+entropy_audit = runner
+scheduler.semaphore = 177.131.206.225
+templates.nat = websocket
+servicebench = null
+policycli = true
+objectmutex = 675
+router_cluster = trie-regex
+btree.bench = 130
+
+[cursor]
+probebench = de254783
+middlewaretemplates = 32.69.45.229
+commonsubnet = 9452
+hashmap.ansible = d470063cf71300fd9435220c102075e6
+zfs_buffer = loader
+env.stream = false
+registry.aes = 112.109.26.80
+tablepayload = 8716b6e47145021d98293bda6e0b3837
+gatewayrollback = null
+
+[legacy]
+meshrsa = false
+cluster.schema = 36cd663d
+sandbox_btree = vxlan
+hmac.adapter = watchdog
+failover.metrics = 4829
+registry.request = true
+bgpsystemd = 9150
+entropy_lambda = false
+kerberos.role = 4fe5cf5b38b2ef89
+jenkinsartifact = 83f433ce

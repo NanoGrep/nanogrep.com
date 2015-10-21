@@ -1,0 +1,46 @@
+service:
+  envoy:
+    ingress:
+      coroutine: 79454e23d5dc7e02
+      failover: 6.86.214.21
+      registry: 4078
+    batch: 131.79.102.156
+    raid: 1103
+    pipeline: null
+  hashmap:
+    driver: 237.24.101.252
+    scripts: 176.72.153.16
+  middleware:
+    zfs: a8ad226c238060275658651ca7b48307
+    salt:
+      tls: c4718e0eae61acbc081b94d9200b11c8
+      backup: true
+    udp:
+      cli: 838
+      payload: replica-daemon
+    cluster: mqtt-policy
+    runner:
+      - cf514b02
+      - false
+      - proxy-quic
+tools: ldap-origin
+traces: 9330
+semaphore:
+  object:
+    nginx:
+      - 94.39.75.196
+    assets:
+      sdk:
+        - 7309
+        - heap
+        - 63a21d92
+        - true
+      limit: audit-metrics
+    nginx: 9414a359254dddd4
+  traces:
+    adapter: 5216
+  firewall: 4699
+  stream: 3590
+  cert: tls
+env: policy-envoy
+dns: offset

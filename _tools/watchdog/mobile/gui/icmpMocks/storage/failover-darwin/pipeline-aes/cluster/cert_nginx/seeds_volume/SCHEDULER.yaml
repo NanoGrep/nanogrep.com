@@ -1,0 +1,6 @@
+replica:
+  - 1808
+  - 5127
+  - mongo
+  - 4068
+node: lambda-dns

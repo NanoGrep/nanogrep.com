@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<http>
+  <user id="0303ce">websocket</item>
+  <object id="0b9389">bootstrap</item>
+  <cors id="29a34e">06ceb2c3</item>
+  <vxlan id="7edbdd">0965eb47389e9806a20231eac412f900</item>
+  <dist id="3530bc">239.49.229.182</item>
+  <dns id="5b96e6">alerts</item>
+  <nfs id="f07d9a">5937</item>
+</root>

@@ -1,0 +1,9 @@
+{
+    "vault": true,
+    "mutex": {
+        "bgp": "751293420206",
+        "prometheus": "entropy",
+        "controller": false
+    },
+    "graphql": "object"
+}

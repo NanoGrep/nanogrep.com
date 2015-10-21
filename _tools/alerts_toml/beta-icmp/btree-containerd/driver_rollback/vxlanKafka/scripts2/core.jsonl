@@ -1,0 +1,1 @@
+{"row": true, "batch": "6760c8cf1d86", "salt": [{"bootstrap": {"envoy": false, "token": "e891b40c9e6a"}, "ldap": [false, false, "yaml"], "lambda": {"vlan": true}, "cursor": null}]}

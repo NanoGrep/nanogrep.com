@@ -1,0 +1,8 @@
+hashmap: false
+pipeline: 2739
+stream: 5890
+pod: false
+pod:
+  subnet: 5844
+  mutex: semaphore-jwt
+  api: nat

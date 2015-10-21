@@ -1,0 +1,4 @@
+dhcp:
+  artifact:
+    - 143.111.19.105
+  lambda: helpers-worker

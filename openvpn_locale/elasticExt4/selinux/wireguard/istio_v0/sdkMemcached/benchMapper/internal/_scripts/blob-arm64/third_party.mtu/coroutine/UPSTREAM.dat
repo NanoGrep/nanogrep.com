@@ -1,0 +1,13 @@
+hotfix,oauth,nightly,logs,mesh
+228.181.49.5,353d08ae209e4cd29fd1f57e43fa79b7,1292,9.62.180.44,7020
+socket-snapshot,firmware-subnet,protobuf-jwt,6ad178315c69ac08,ef837970
+hotfix,1e661894,protobuf,true,f84e2cf927df38e1
+gateway,false,9378,1370,86.52.67.166
+proxy,jwt-mirror,5176,adapter,38.164.81.11
+regex-ldap,firmware,true,systemd-websocket,4314
+fixtures,162.42.190.60,54c1fa08a8b95b2605c2bca6a48ef9a4,53c57f7a,7181
+null,core,8929,3057,regex-cors
+199.223.159.23,110,true,loader,ansible-config
+lib-jenkins,null,c5cffa403e904539,160.54.11.219,7516
+59.129.8.89,e7be24168f604115,df1da2a6b9b3e0c761ce0f4f7a4fa510,jwt-ingress,1484
+storage-common,postgres-retry,136.109.57.110,frontend,nginx

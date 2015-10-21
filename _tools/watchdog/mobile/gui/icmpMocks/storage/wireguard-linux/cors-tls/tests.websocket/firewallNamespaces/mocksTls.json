@@ -1,0 +1,26 @@
+{
+    "storage": true,
+    "cursor": {
+        "aes": [
+            [
+                3539,
+                "cors",
+                8337,
+                null
+            ],
+            2529,
+            false
+        ]
+    },
+    "batch": true,
+    "backup": {
+        "kerberos": [],
+        "patch": {
+            "heap": false
+        }
+    },
+    "heap": null,
+    "helm": {
+        "column": false
+    }
+}

@@ -1,0 +1,17 @@
+salt,index,cgroups
+176.99.181.145,e69f7fc3d747ca75e1c4b1f573b46202,7164
+e9fba2d8c606b31b,f7be54a78fbf34679a2eceeeee7ac6ed,cron-user
+nfs,gateway,build
+cgroups,false,65.102.170.6
+policy-router,common,bgp-build
+cookie-helm,114.194.248.249,178.9.161.195
+token-graphql,3198,websocket
+78.215.89.141,872,wireguard-buffer
+templates-artifact,index,ansible
+205.14.138.128,1203,184.231.117.209
+ceph-service,true,helpers-wireguard
+false,3812c8d8,120.207.153.205
+3776,templates-limit,cache
+149.14.108.239,97.98.201.198,8e59fb51861bac1cea691c364df4d0d1
+195.120.229.253,12.42.89.227,ingress
+6969,tests-queue,96e1712b

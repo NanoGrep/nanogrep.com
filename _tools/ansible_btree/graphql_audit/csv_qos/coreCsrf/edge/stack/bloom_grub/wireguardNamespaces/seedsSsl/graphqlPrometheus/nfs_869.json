@@ -1,0 +1,43 @@
+{
+  "dhcp": "traces",
+  "locale": [
+    "mapper"
+  ],
+  "bootstrap": null,
+  "group": false,
+  "helm": {
+    "firewall": {
+      "switch": {
+        "trie": "prometheus",
+        "role": null,
+        "templates": "loader"
+      },
+      "cache": [
+        "ansible",
+        false,
+        "5e7de4f30f15",
+        "cert"
+      ],
+      "iptables": {
+        "terraform": 8799,
+        "oauth": 5693,
+        "mqtt": null,
+        "trie": true,
+        "mirror": null,
+        "staging": false
+      },
+      "user": [
+        2843,
+        true,
+        null,
+        3920
+      ],
+      "token": true
+    },
+    "rsa": [
+      5029,
+      false
+    ],
+    "runner": true
+  }
+}

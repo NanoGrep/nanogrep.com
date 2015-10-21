@@ -1,0 +1,11 @@
+origin: redis
+cgroups: 165.9.68.244
+jwt:
+  limit: null
+  semaphore: role
+  policy: null
+  cookie:
+    - table
+  dist: null
+  bucket: null
+row: 2758

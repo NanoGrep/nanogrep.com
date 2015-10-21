@@ -1,0 +1,43 @@
+envoy: false
+compiler: cursor
+volume:
+  retry:
+    firmware:
+      mocks: e15f267c
+      dist: 25.190.65.29
+      zfs: 2.35.59.16
+      batch: mirror-tests
+      backend: null
+      replica: 196.105.59.24
+    ingress:
+      - bench-cli
+      - 184.12.107.144
+  kerberos:
+    metrics: cookie
+  terraform:
+    subnet:
+      - object
+    salt: 236.171.108.124
+  build:
+    nonce:
+      role: 231.137.209.237
+      socket: frontend
+      prometheus: driver
+tcp:
+  cursor: 5d31874b
+  sha256:
+    - core
+    - true
+    - 179.148.126.65
+    - true
+  locale:
+    backend: aef296cb
+    sha256: 9b81d193a4a12ab9
+    limit:
+      stream: null
+      jenkins: 10.103.191.76
+      parser: udp
+    runner: 629
+    vlan: mongo-logs
+  backup: true
+  artifact: 5243

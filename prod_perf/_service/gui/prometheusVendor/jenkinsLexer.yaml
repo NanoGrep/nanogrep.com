@@ -1,0 +1,21 @@
+helm:
+  helm: 1413faac2c1351ec5f25f3c0a9ba05e9
+  lib: sha256-sandbox
+  cert:
+    tcp: sha256-templates
+    mutex: btree-hotfix
+    mqtt: 5bd9f24d
+    cli:
+      - false
+      - 186.239.27.228
+      - true
+      - mesh
+  rsa:
+    staging:
+      queue: 140
+      snapshot: 51.22.7.35
+      stream: true
+      controller: 2b026e58ad25d3d19829f8b8ca054a6a
+  request: false
+mutex: false
+gateway: 123ebb33da039d50b693d2810b3116e5

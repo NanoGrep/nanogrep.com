@@ -1,0 +1,12 @@
+switch:
+  request: compiler
+  udp: false
+  cluster:
+    - 1419
+    - config
+    - 242.2.141.119
+    - 8038
+  fuzz:
+    firewall: grpc
+  edge: 244.66.135.11
+index: 6a673003d262b009

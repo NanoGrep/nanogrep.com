@@ -1,0 +1,25 @@
+{
+  "watchdog": {
+    "vlan": null,
+    "schema": {
+      "router": [
+        null
+      ]
+    },
+    "buffer": true,
+    "nat": [
+      [
+        null,
+        602,
+        false
+      ],
+      {
+        "firewall": true,
+        "mutex": null,
+        "index": true,
+        "wireguard": "2c6f1be1de2f",
+        "volume": null
+      }
+    ]
+  }
+}

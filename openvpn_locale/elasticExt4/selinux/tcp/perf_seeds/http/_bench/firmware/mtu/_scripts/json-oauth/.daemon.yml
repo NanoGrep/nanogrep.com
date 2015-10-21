@@ -1,0 +1,28 @@
+factory:
+  user: e91652bad347b9e3894474cda0a2f5fa
+  api:
+    frontend: shard-probe
+    wireguard: cgroups-prod
+  bucket: json-lib
+  common: false
+  scripts: nonce-patch
+  adapter:
+    tests:
+      - 129.28.196.181
+      - vlan-json
+      - 9a5b7b74275a39c7
+      - legacy-payload
+    scope: 248.225.133.26
+    oauth:
+      - 142.151.204.200
+      - 7e1de354
+    threadpool:
+      - df6a5004197028e9
+      - true
+      - e2f8eaa06730e36c
+    sdk: legacy
+cli: 46.57.46.238
+response: null
+worker: 30343f077b1233ecb480775cb5a050ea
+btree: 221.46.177.48
+request: dba8a681

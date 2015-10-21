@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<firmware>
+  <zfs id="1f17e7">2894</item>
+  <terraform id="ca3478">e41d1b3d05866ba9418032124c477c92</item>
+  <vault id="d976ef">heap</item>
+  <bench id="fc5fb3">8938</item>
+  <nfs id="482828">205.212.27.40</item>
+  <cursor id="0b323e">594</item>
+  <queue id="4fa771">813d43ba45e5a1804a8cfdab17ebb08c</item>
+  <patch id="1250dd">221.19.44.156</item>
+  <terraform id="86d409">runner-object</item>
+  <cluster id="15bd0d">true</item>
+  <semaphore id="359b79">8383</item>
+  <vlan id="4c6c8b">a33d396ceabb9d6e</item>
+  <bootstrap id="7498f5">219.30.162.36</item>
+  <mutex id="005f3a">241.12.243.151</item>
+  <templates id="4eeb13">true</item>
+  <common id="4f044a">3228</item>
+  <dhcp id="ee917a">null</item>
+  <fuzz id="3b9ce7">prometheus</item>
+  <heap id="daa6f6">prometheus</item>
+  <staging id="8add75">670900c75209cb4c</item>
+  <lambda id="09d3a3">24.13.27.219</item>
+</root>

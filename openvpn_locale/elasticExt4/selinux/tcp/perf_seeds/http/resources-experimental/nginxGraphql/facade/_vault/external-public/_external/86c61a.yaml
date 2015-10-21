@@ -1,0 +1,23 @@
+systemd: 9803
+config: rest-dhcp
+tests:
+  index:
+    - false
+    - adde9352
+mongo:
+  vxlan: 240.18.81.20
+  mutex: 135.227.131.80
+  jwt: null
+  registry: wireguard
+  mongo: 6c0ffc15131f3650319ce3f7ca9c9466
+heap:
+  sdk:
+    - payload-failover
+    - threadpool
+    - raid
+  semaphore: 4992c79f727264b5e09bf67befe4461d
+  kernel:
+    - true
+    - false
+    - null
+    - null

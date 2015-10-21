@@ -1,0 +1,26 @@
+index: null
+nonce: false
+ingress:
+  websocket:
+    runner: 52.192.11.168
+    entropy:
+      quic: stack
+      hotfix: mongo
+      legacy: false
+      prod: 250.251.140.129
+      websocket:
+        - 3995f920722deb290afe19784fc7b5d7
+      column: 7a86cbbe75dc173efc63fc6aee1df1af
+    firmware: 10d3e2a4c02471805198f5c8db425238
+  storage: column
+  mqtt:
+    bootstrap: 160.71.180.125
+    coroutine: 329
+    worker: 150.222.47.22
+    legacy: heap-role
+    vault: lib
+graphql:
+  firewall: false
+  cache: hashmap
+mocks: 8732
+dist: true

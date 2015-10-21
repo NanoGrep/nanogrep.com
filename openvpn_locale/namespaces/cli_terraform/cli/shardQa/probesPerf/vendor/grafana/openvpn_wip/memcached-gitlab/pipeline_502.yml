@@ -1,0 +1,28 @@
+hashmap: dns
+token: 5d09d7617143e9cd78a1f6d0d9cf56cd
+cgroups: 187.36.192.75
+http: 5227
+envoy: 6361
+lib:
+  topic:
+    - 979eab2a7ebccfe3
+    - 144.229.225.43
+    - rest-http
+  daemon: helpers
+  dns: grpc
+  stream:
+    utils: c3daa9e512ff6a99
+    aes:
+      storage: 6.180.225.140
+      runner:
+        - 3f3e028473b7bea3
+      traces: 8198
+      quic: null
+      shard: 156.53.195.76
+    snapshot: utils-prod
+  nightly:
+    - 0a409e8c64a697b9eac4247923f5a62e
+    - true
+  jenkins:
+    threadpool: ceph
+    controller: 176cdabb

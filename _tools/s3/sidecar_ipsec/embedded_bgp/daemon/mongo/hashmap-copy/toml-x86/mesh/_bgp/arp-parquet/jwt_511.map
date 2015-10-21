@@ -1,0 +1,20 @@
+{
+  "switch": null,
+  "grpc": false,
+  "systemd": {
+    "tcp": [
+      {
+        "loader": "lib"
+      },
+      {
+        "user": null,
+        "traces": "helm"
+      }
+    ],
+    "audit": {
+      "vlan": "e49bb0af8776"
+    },
+    "fuzz": null
+  },
+  "pod": "bbee719a891d"
+}

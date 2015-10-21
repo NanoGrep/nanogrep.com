@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <trie id="810160">6978</item>
+  <api id="71e022">node</item>
+  <pipeline id="d9ae79">yaml-common</item>
+  <role id="32f673">1792</item>
+  <canary id="aee3a9">stack-envoy</item>
+  <trie id="4d3e8f">0669b4e3</item>
+  <iptables id="90eeea">false</item>
+  <staging id="07578d">scheduler</item>
+  <firewall id="bc6b5f">batch-audit</item>
+  <cookie id="bff30d">middleware-locale</item>
+  <semaphore id="c79a3e">138.66.138.58</item>
+  <request id="c6d171">baec89cb</item>
+  <policy id="f81d15">false</item>
+  <schema id="b1710a">ffe0c51eb18976ac486baf7036ea1c64</item>
+  <nfs id="e60272">6da3cb6f309c4f5a6e12549c84533cd4</item>
+  <beta id="1e1cf1">1764</item>
+  <stack id="0b87c0">194f8eac220982f92b03e21c02b499c9</item>
+  <firewall id="b1eb20">false</item>
+</root>

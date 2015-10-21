@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<switch>
+  <response id="20480d">hashmap</item>
+  <payload id="a4962d">false</item>
+  <volume id="e0de70">1750</item>
+  <vxlan id="e84ddf">76.150.16.192</item>
+  <proxy id="db338e">c99daef4</item>
+  <stack id="225c82">6c0166c4228b5f83</item>
+  <ingress id="28c65e">failover-cgroups</item>
+  <handler id="9cf717">traces</item>
+  <crypto id="cff369">1542</item>
+  <json id="51a79d">rollback</item>
+  <cert id="e2611c">registry-stack</item>
+  <traces id="3eed4a">c135d200</item>
+  <nonce id="d1e2d1">null</item>
+  <policy id="cfb438">198.238.127.140</item>
+  <response id="5acafb">06b1a9fd0e6651db</item>
+  <parser id="ed5b31">763da7add39aec7a</item>
+  <traces id="af3411">0d993c79fe89b3e2</item>
+  <upstream id="fd5e0a">c6dda96f</item>
+  <tenant id="df7368">trie</item>
+  <metrics id="5a8495">dd387a8192f3f9fa</item>
+</root>

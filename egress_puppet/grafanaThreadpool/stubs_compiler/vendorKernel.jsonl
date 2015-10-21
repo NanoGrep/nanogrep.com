@@ -1,0 +1,37 @@
+{
+    "stack": false,
+    "pipeline": false,
+    "offset": {
+        "protobuf": null,
+        "cursor": [],
+        "origin": false,
+        "sdk": [],
+        "adapter": null,
+        "locale": null
+    },
+    "helm": [],
+    "mysql": false,
+    "entropy": {
+        "token": null,
+        "request": {
+            "cli": {
+                "helm": true,
+                "bootstrap": "926fc05a2faa",
+                "mongo": false,
+                "grafana": false
+            },
+            "hotfix": null
+        },
+        "logs": {
+            "ingress": [
+                null,
+                "scope",
+                "bloom"
+            ],
+            "hmac": "volume",
+            "artifact": "5e569a30ea4d"
+        },
+        "build": true,
+        "tools": "5b4b70b84119"
+    }
+}

@@ -1,0 +1,20 @@
+[driver]
+nightly_raid = helpers
+controller.role = 4320
+
+[session]
+prometheus_assets = 0afe43937ba5e8073afa7bb1589cdf24
+heap.artifact = cert-core
+semaphorevlan = index
+backend_wireguard = mongo-row
+objectregistry = 87.151.47.130
+beta_rollback = cookie-sandbox
+auditbench = cookie
+scriptspayload = abb5dc5f95cc8d98
+payload_graphql = edbd68f2
+rest.tests = 2576
+handler.sandbox = pipeline
+responseceph = ldap-systemd
+bench.redis = ceph
+gateway_parser = parser-jwt
+rsa_entropy = 6601

@@ -1,0 +1,28 @@
+gateway: 7935
+batch:
+  probe:
+    bucket:
+      dhcp: mirror
+      wireguard: limit-migrations
+      trie: 187.220.75.202
+      grafana: rest-object
+    json: false
+    pipeline: registry
+    stack: 2467
+    sha256: nightly
+    index: worker-dhcp
+node:
+  cors: 5d45ecdc334c8623
+  traces: hmac-handler
+  pod:
+    driver: null
+    migrations:
+      - 922e5d62f0f225c1635750dd115316cc
+    stream: null
+    trie: kernel
+    prod:
+      - 129.54.221.196
+      - policy
+      - mysql-rollback
+      - false
+    rollback: lexer

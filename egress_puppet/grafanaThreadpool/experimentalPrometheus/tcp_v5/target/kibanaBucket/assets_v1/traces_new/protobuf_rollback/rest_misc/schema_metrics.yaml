@@ -1,0 +1,82 @@
+mocks: 97.54.29.135
+cors:
+  grafana: json-env
+  compiler: 05026394
+policy:
+  probe: scope
+  btree:
+    subnet: 235.234.170.165
+    postgres:
+      node: 151.90.36.181
+      controller: 234.42.12.189
+      scripts: null
+      nginx: 8730
+      postgres:
+        - null
+        - mapper-jwt
+      hotfix: watchdog
+    controller:
+      canary: crypto
+      tcp:
+        - limit
+        - 106.107.208.59
+        - null
+        - true
+      middleware: 115.116.143.235
+      buffer: 47.2.86.213
+      backend: 182.46.145.192
+    mesh: 29.75.9.86
+  audit:
+    controller: 38.171.229.59
+    socket: true
+    grpc: 8468
+    vxlan:
+      bgp: 9003
+      env: patch-request
+      nightly: snapshot
+      common: f495a014a2736ce894e3cc3a99b8283d
+      iptables: factory
+      hmac:
+        - false
+        - lambda
+        - bloom-common
+  crypto: 100.104.164.6
+bgp: 3b29cc28b3148322a10ccc1818d0af8b
+tests:
+  nginx:
+    templates: d6f37957
+    fixtures:
+      cursor: table
+      vendor: 5901
+    kerberos: null
+    prod: d834eacdcbf099bab50d39c4378d474e
+    patch:
+      hmac:
+        - 5c2dbcf89074a823ef5337972c9bb357
+        - 1297
+        - 4b809fe4b9227a27f06444ccbdfabe0d
+      dns: graphql
+      logs:
+        - registry
+        - systemd
+      vault: false
+      iptables: 229.181.251.13
+      buffer: bloom-mesh
+  helpers: 80.112.8.167
+  terraform: ef53e071f00170b86d919808b8013179
+  semaphore:
+    elastic:
+      - lambda
+      - 239.15.172.233
+      - 156.43.109.108
+      - 8cfb19704e8c5abe53ce8d4156cee21d
+    service:
+      request: stack
+      canary:
+        - logs-nfs
+        - firewall
+        - 300
+      firewall: dhcp
+    metrics: 3037
+  mysql: false
+  trie: 148.242.247.192

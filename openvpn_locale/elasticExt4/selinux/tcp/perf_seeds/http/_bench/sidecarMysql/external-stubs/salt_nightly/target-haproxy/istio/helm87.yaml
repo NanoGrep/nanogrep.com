@@ -1,0 +1,64 @@
+backup:
+  - ceph
+  - elastic
+ldap: json-nightly
+queue:
+  jenkins:
+    daemon:
+      index: tools
+      node: 119.149.125.144
+      jenkins: common-entropy
+    envoy:
+      mysql: null
+      semaphore: true
+      backend: 250.98.25.44
+      dhcp: 8780
+      proxy: legacy-nfs
+    protobuf: beta
+    mqtt: 8498
+  column:
+    systemd:
+      - bench-lexer
+      - null
+      - 9406
+      - false
+    stream: buffer
+    router:
+      tenant: 2804
+      factory: null
+      retry:
+        - vault
+      dist:
+        - 70.207.154.252
+      wireguard: volume-rsa
+  scheduler: 9b7feeea3429335da00fd6efcab5c6b8
+  row:
+    - cli
+    - lib
+    - grafana-session
+  prod: 0d13517e8c2cd95cef351873d44ddec2
+sha256:
+  stream: 124.244.170.18
+  templates: 81.191.63.146
+  logs:
+    policy:
+      mqtt: buffer
+      origin: 6601
+      dns: request
+      limit:
+        - 2371
+        - alerts-api
+        - false
+        - b8cca1da
+      lib: 3b19bfb2
+      salt: ce6cf94d0199ac4a5b3fbc5667bd82aa
+    jwt:
+      group: 3827
+      core: null
+      quic: 224.17.54.15
+    protobuf:
+      proxy: 8467be91714c27946e7078c908a57efb
+      watchdog: table
+      dns: object
+    pipeline: cursor
+stream: true

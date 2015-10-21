@@ -1,0 +1,10 @@
+grafana: prometheus
+grafana:
+  session: 6aa4925f7b401c5ffb2200410bb51da3
+  ingress: templates-lib
+  iptables: mocks-templates
+  kafka: null
+  buffer:
+    wireguard: null
+  nonce: 93.111.243.204
+helpers: 173.209.99.159

@@ -1,0 +1,23 @@
+tcp: tenant-yaml
+dns:
+  origin:
+    grpc:
+      zfs:
+        - 79.20.250.165
+        - 133
+      mqtt: 97.43.52.68
+      ldap: b4515aaf
+      rollback: rsa
+      buffer: 3ca409fcb8f079cf
+  tcp: cli
+config:
+  driver: false
+  nginx:
+    - 3184
+    - 74a0f36afa03b2e5
+    - schema
+  alerts:
+    - socket-iptables
+    - 150.225.249.251
+  dhcp: false
+kernel: 7009

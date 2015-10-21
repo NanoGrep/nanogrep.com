@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<token>
+  <tools id="72aa8b">14aed1579eabe2c1841771c14794f40a</item>
+  <systemd id="2e827e">53.103.95.179</item>
+  <probe id="50e694">6e523236ec7fdb471b74f0072544aee4</item>
+  <redis id="ee4f2f">ac349a9c61e3412057ba1cec7f8fbba7</item>
+  <mutex id="fd176d">true</item>
+  <runner id="b78c2f">5413</item>
+  <postgres id="1c5233">sdk</item>
+  <gateway id="0c14ad">true</item>
+  <hmac id="e353d1">true</item>
+  <rsa id="529cce">false</item>
+  <helm id="a3220d">212.13.148.13</item>
+  <postgres id="1152c6">204.57.72.48</item>
+  <nginx id="daa8de">1ff87a7ab9b5d9dc</item>
+  <oauth id="a71978">true</item>
+  <compiler id="302da6">56.172.197.195</item>
+  <group id="4ffc7b">118.115.230.128</item>
+  <wireguard id="038bf9">1603</item>
+  <topic id="14b7e1">aes-bootstrap</item>
+  <elastic id="5e0c44">230.33.195.170</item>
+  <lib id="28a35a">pipeline-kafka</item>
+  <session id="adb3af">1008</item>
+</root>

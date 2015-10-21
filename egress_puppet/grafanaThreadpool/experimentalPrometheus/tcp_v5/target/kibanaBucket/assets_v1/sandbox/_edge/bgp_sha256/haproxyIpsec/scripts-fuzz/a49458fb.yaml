@@ -1,0 +1,48 @@
+bloom:
+  gateway: 90d34bbf
+  kernel: true
+  ldap: 2f31a7ddc944b5ee3c439d4021cbb220
+  grafana:
+    row: sha256
+    mapper: true
+    factory: null
+bgp:
+  loader:
+    common:
+      - staging
+      - a7e498d912bc3a67
+      - ingress-redis
+      - 1799
+    yaml:
+      edge: 7966
+      router: bench-env
+      vault:
+        - socket-http
+        - cursor
+        - 8d6d3e01e2e5ac0a
+      buffer: 7369
+      config: false
+      vault: e97b044252c4cf357a7511f58771affe
+    wireguard: 28b3e5b9f7c77e4c02bfddc521d823b2
+    trie:
+      worker: locale-jenkins
+      mapper: buffer-pod
+      storage: 9610
+    beta:
+      oauth: 163.9.80.83
+      cert: 3254
+      envoy: 232.108.94.72
+      ldap:
+        - null
+        - 4451be36f97960ce
+        - daemon-bloom
+        - 245e5adc25f48ff86462c4669ad58d20
+      fixtures:
+        - 510
+      cookie: b18282fceefaa933
+  threadpool: true
+  snapshot:
+    - 38.11.64.65
+    - tls-legacy
+    - eac276fa8de562f0
+    - 7774

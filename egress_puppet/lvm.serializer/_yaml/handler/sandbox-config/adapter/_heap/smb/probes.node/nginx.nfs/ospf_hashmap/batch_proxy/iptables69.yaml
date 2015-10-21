@@ -1,0 +1,62 @@
+tls: 0cd29cf309a6afaf4d284fedba491777
+object: ceph
+utils: 119.122.38.145
+cookie: 6844
+payload:
+  session: socket
+  yaml:
+    utils:
+      volume: sandbox
+    watchdog: true
+    legacy:
+      mesh: true
+    scheduler:
+      - b0defe4dc3f622814a4e95d8317b120f
+    yaml: 9125
+  iptables: 35f2f2b5
+  prometheus:
+    staging: de4d743d5c98484f068b5bccc097f501
+    traces: 196.98.61.174
+    rest: 111.7.134.169
+    cache:
+      - false
+      - fixtures
+      - 3416
+      - 27.117.111.5
+    adapter:
+      middleware: snapshot-api
+frontend:
+  batch:
+    object: controller
+    ansible: 4715
+    semaphore: semaphore-cron
+    utils: 44.86.71.2
+  api: vlan-pod
+  bench:
+    trie: null
+    probe:
+      - zfs-payload
+      - regex-helpers
+      - response
+    switch: column
+    yaml: f14505975b18aba1
+  ansible: 4611
+  firewall:
+    crypto: 8272
+    vault:
+      stream: 07672006
+      frontend: 16.233.2.36
+      grpc:
+        - 2b8d27c732f1f52d
+        - regex-entropy
+        - origin
+        - 253.26.219.103
+      cookie: scheduler-ansible
+    canary: 5738
+    buffer:
+      replica: f38b21e1
+      topic: false
+    vendor:
+      heap: 105.235.32.122
+      heap: build-salt
+  bucket: json-staging

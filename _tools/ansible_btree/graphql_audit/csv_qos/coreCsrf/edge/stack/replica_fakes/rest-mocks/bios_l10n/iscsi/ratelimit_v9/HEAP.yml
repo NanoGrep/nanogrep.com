@@ -1,0 +1,49 @@
+wireguard: kafka-dhcp
+vault:
+  cli:
+    grpc: 5.193.173.231
+    pipeline: null
+    driver:
+      queue: 3602
+    backend: bloom
+    udp: salt
+  vault: 233.90.16.11
+  nginx:
+    node: 4234
+    kerberos:
+      backend: legacy-oauth
+    cors: service
+  redis:
+    websocket:
+      fixtures: vxlan
+    cron: dns
+    env: 131.208.67.178
+  subnet:
+    audit: false
+    pod: 5805
+    policy: 119.29.215.166
+  bench:
+    btree: backup-patch
+    response: 142.43.237.170
+    tests:
+      parser: false
+    scope: iptables
+    build: bloom-coroutine
+    buffer: true
+hmac:
+  driver:
+    - cursor-payload
+    - 8bcebf353c5806d1
+    - 5065
+    - 205.24.74.119
+  policy:
+    cli:
+      - 6807
+      - traces-payload
+    mysql:
+      env: mapper-compiler
+      pod: hmac-vault
+      btree: wireguard-session
+  tenant: 104.5.184.233
+grpc: rollback-cluster
+nfs: 141.198.191.8

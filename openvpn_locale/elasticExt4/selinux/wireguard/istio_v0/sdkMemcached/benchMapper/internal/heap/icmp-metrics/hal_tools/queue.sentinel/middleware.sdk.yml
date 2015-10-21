@@ -1,0 +1,23 @@
+payload:
+  vendor: 6549
+  firmware:
+    patch:
+      service: zfs
+      env: 4421
+      runner: 913
+      mapper: null
+    edge:
+      - 2860
+      - 3477
+      - false
+      - 2df66d9ceed64cda
+    column: cron
+staging: 1505
+switch: elastic
+column: schema
+utils:
+  token:
+    - oauth
+    - 4b141cc2f5c0f5b6
+    - ansible-failover
+    - null

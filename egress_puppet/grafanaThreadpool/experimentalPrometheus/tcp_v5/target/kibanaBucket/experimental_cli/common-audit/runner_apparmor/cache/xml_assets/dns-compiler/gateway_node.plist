@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<watchdog>
+  <proxy id="5cc20e">20</item>
+  <backend id="9457e1">artifact-rsa</item>
+  <prod id="bfa918">ldap</item>
+  <salt id="e12b73">2967</item>
+  <upstream id="97aefe">008ae4fd4c9f976e</item>
+  <stack id="7e206b">6082</item>
+  <table id="1ebf54">6f2e95d3c734c503fa84f25b1280a57f</item>
+  <vlan id="d2a840">edge-volume</item>
+  <group id="0a91f3">adapter</item>
+  <vxlan id="395dec">2837</item>
+  <switch id="6d6c9c">json</item>
+  <redis id="ba0d19">mocks-subnet</item>
+  <helm id="a3ee7c">36.157.102.67</item>
+  <policy id="67005e">false</item>
+  <object id="efa37d">true</item>
+</root>

@@ -1,0 +1,12 @@
+dns: null
+lambda:
+  - 6e4c422418e72b37
+elastic: mocks-zfs
+templates: 2005
+bucket:
+  - offset
+  - true
+  - config
+  - 0a313a0c2a799ff03ee229568a69f4cb
+btree:
+  - ba7cfd83

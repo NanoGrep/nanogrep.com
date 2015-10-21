@@ -1,0 +1,45 @@
+[
+    "a0d7d8408fc1",
+    false,
+    {
+        "cursor": {
+            "utils": {
+                "worker": false,
+                "ansible": 1031
+            }
+        },
+        "upstream": {
+            "dns": true,
+            "object": "index"
+        },
+        "sandbox": {
+            "role": {
+                "websocket": true
+            },
+            "mirror": true,
+            "terraform": {
+                "index": "vault",
+                "group": "ceph",
+                "threadpool": null
+            },
+            "cookie": {
+                "graphql": false,
+                "row": "metrics"
+            },
+            "watchdog": "9122c91d4796"
+        },
+        "node": [],
+        "subnet": {
+            "registry": 2727,
+            "quic": false,
+            "loader": [
+                9611,
+                "bucket",
+                "f3cfdc4cba6b"
+            ],
+            "frontend": true,
+            "driver": [],
+            "nginx": false
+        }
+    }
+]

@@ -1,0 +1,40 @@
+nfs: staging
+volume:
+  - 242.174.252.166
+  - 1196
+  - config
+  - b9efacdb
+scheduler: e793af29a9fababf2407dd76449931f2
+firewall:
+  cookie: 145.86.31.114
+  node: null
+  postgres:
+    helpers:
+      canary:
+        - 5299
+        - controller-registry
+    nonce:
+      kafka: 1810
+      threadpool: group
+      subnet: false
+      udp: null
+      aes: null
+      yaml: threadpool-bootstrap
+    mirror: utils
+    quic: false
+  kerberos: subnet-object
+  nightly:
+    lexer:
+      proxy: service-snapshot
+      btree:
+        - true
+        - 72b80cf18935d7bc
+      lib: helm
+    yaml: d811057a6ef723402f94a3ba1684d21d
+    tcp:
+      - 9064
+      - 133.23.142.184
+  build: 6e51f0d334a668e59406db8e76637bce
+terraform:
+  - migrations
+  - helpers-buffer

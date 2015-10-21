@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<dhcp>
+  <cluster id="45e03e">3467</item>
+  <replica id="7c33b0">null</item>
+  <stream id="42e0a3">artifact-dist</item>
+  <ldap id="7b2134">156.212.131.22</item>
+  <pipeline id="dbda95">true</item>
+  <fuzz id="052aae">7c0cd8d92fb9c2e9ed21983d2b20aab5</item>
+  <tls id="794edf">8.151.12.53</item>
+  <dns id="eda6cb">null</item>
+  <cert id="f9a0fc">35.21.199.141</item>
+  <redis id="fefdd4">258af1af282628d79c13fc2cf8334653</item>
+  <role id="b1b93a">null</item>
+  <scheduler id="91c281">e2cf0baa64aa0a83</item>
+  <handler id="663e7e">116.61.9.91</item>
+  <dist id="9913b6">2183</item>
+  <tests id="d05f45">nat</item>
+  <crypto id="e31da6">staging-backend</item>
+  <scope id="ea08cc">2827</item>
+  <bgp id="adf583">nonce-build</item>
+</root>

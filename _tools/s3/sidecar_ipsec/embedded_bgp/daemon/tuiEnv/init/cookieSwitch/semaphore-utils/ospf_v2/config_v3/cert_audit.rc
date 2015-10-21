@@ -1,0 +1,16 @@
+libupstream=1165
+sandboxsocket=role-backup
+kerberosrole=5328
+btreefuzz=null
+alerts.jwt=systemd-sdk
+templates.batch=alerts-offset
+vendor_router=7ba5fc10fb7bf15124b9f3eab2b8756e
+http_parser=json
+vxlangroup=cgroups
+replica.firmware=162.249.95.241
+cron_parser=9d114368fe8fbdfd
+shardgroup=415c9f106d025b86
+locale.websocket=mongo-migrations
+vxlangrpc=null
+daemon.stack=null
+common_http=false

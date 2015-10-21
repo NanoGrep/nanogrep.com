@@ -1,0 +1,10 @@
+hashmap: 59.241.24.24
+frontend:
+  patch:
+    firewall: utils
+    probe: aes-cache
+    firmware: proxy-row
+    lambda: 4428
+  canary: 9226
+  retry: lambda
+origin: hmac

@@ -1,0 +1,5 @@
+originfailover: bootstrap
+queue_socket: af731cde6104a822480d0771a3f6f200
+sandboxfailover: 6ba7a2da
+json_vendor: null
+offset_json: 9201

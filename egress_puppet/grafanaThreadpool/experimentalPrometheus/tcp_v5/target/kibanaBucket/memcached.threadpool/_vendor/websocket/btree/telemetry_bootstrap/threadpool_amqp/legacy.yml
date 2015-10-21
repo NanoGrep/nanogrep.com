@@ -1,0 +1,8 @@
+tenant:
+  mysql: index
+  policy:
+    - false
+    - envoy
+    - tls
+role: 8387
+worker: 31072f72

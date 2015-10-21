@@ -1,0 +1,7 @@
+workercore=true
+api_api=3292eea1
+schema.nfs=4c75dfcee464bc0d
+templates.policy=d302a9991f6d8045
+stack_vxlan=2077
+metricsbatch=mysql
+vxlanhotfix=81.236.145.209

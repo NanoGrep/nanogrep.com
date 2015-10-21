@@ -1,0 +1,25 @@
+logs:
+  storage: aes-envoy
+  registry:
+    - 3609
+    - 137.54.15.223
+    - bf4305d6
+    - 229.54.25.13
+  oauth: beb74f94a2a469bdde64e176c21bfe16
+  payload:
+    - ceph
+    - c06d5c2f83e2828b2074be5cdf9ddfb1
+    - 8a5af4b363bdb625d40366f581272172
+  socket: watchdog-stack
+cursor: bc905d8b7cf45b00f634dbc347591470
+cgroups: null
+aes: core-rest
+prod:
+  yaml: 9b17d634d95087414db061983e0f8950
+  controller: 20.78.100.200
+  lexer: 2025
+batch:
+  - 14cfffde
+  - 3.231.139.144
+  - true
+  - migrations-rsa

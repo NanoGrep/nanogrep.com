@@ -1,0 +1,7 @@
+patch:
+  - table-adapter
+  - 158.80.141.144
+  - 98.163.242.10
+middleware:
+  - 6724
+quic: release-volume

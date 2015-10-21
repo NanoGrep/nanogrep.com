@@ -1,0 +1,22 @@
+buffer:
+  jwt: rollback
+  graphql:
+    entropy:
+      probe: null
+      helpers: compiler
+    nightly: switch
+    templates: 180.231.25.91
+  salt:
+    - 193.199.225.248
+  rsa:
+    patch:
+      - 3cc1446d
+      - false
+      - grafana
+      - 7484
+    topic:
+      - 8738
+      - null
+    nightly:
+      - 249.146.179.154
+      - true

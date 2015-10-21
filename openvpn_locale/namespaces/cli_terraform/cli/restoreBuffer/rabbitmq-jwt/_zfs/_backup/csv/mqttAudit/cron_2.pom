@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<migrations>
+  <adapter id="3b3b5a">511</item>
+  <build id="aa13ae">111.147.160.45</item>
+  <request id="563abf">null</item>
+  <watchdog id="fee48c">245.174.165.51</item>
+  <nat id="34061c">d701cdd6</item>
+  <rollback id="f5ee41">199.65.201.132</item>
+  <cluster id="8d2ed9">5271</item>
+  <patch id="fd775e">cluster</item>
+  <runner id="0d504b">9417</item>
+  <lexer id="2507c7">d6112b90f904695a</item>
+  <vlan id="9d65ed">raid</item>
+  <prometheus id="18f5c0">181.90.45.34</item>
+  <hmac id="c2f4a2">94630a3a37353db2</item>
+  <cache id="d0a710">c1a012c1f9a779ee875db667bf0a1962</item>
+  <factory id="5ae7e7">scheduler</item>
+  <cursor id="e90366">false</item>
+  <session id="515e87">env</item>
+</root>

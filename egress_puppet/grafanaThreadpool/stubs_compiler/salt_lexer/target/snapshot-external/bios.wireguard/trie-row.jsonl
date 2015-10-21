@@ -1,0 +1,29 @@
+{
+    "mysql": {
+        "kafka": [],
+        "cache": [],
+        "systemd": [
+            {
+                "stack": "eb8d2d7c7150"
+            },
+            {
+                "protobuf": "15941bc9bad5",
+                "payload": "e922ef82dae8",
+                "nonce": null
+            },
+            [
+                false,
+                5894,
+                "7ec50759964e"
+            ],
+            []
+        ]
+    },
+    "registry": null,
+    "grafana": true,
+    "edge": {
+        "stream": null,
+        "vendor": false
+    },
+    "graphql": false
+}

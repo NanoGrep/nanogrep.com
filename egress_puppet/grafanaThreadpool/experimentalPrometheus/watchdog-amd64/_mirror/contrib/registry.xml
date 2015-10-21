@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<registry>
+  <cgroups id="361aae">rsa-logs</item>
+  <bgp id="48ce00">2076</item>
+  <prod id="2af41b">247.99.61.174</item>
+  <core id="32f0db">regex</item>
+  <column id="c63228">5635</item>
+  <quic id="7cb835">58.34.159.219</item>
+  <mapper id="84bf37">226.150.170.101</item>
+  <vendor id="0b46e2">null</item>
+  <yaml id="b59dba">postgres</item>
+  <bloom id="2f8c2f">zfs</item>
+</root>

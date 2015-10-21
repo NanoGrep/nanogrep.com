@@ -1,0 +1,18 @@
+[
+    {
+        "bootstrap": 3934,
+        "artifact": true,
+        "stack": [
+            {
+                "scripts": false,
+                "ansible": true,
+                "handler": true
+            }
+        ],
+        "nfs": "45c8aa8ca1ef"
+    },
+    [
+        163
+    ],
+    false
+]

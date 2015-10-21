@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<scheduler>
+  <scheduler id="8cda0f">9604</item>
+  <kafka id="dfcd82">true</item>
+  <cluster id="783241">lexer</item>
+  <mqtt id="720619">8982</item>
+  <traces id="f751d0">7671</item>
+  <nfs id="2f397f">storage</item>
+  <session id="db8b5d">tcp-token</item>
+  <staging id="27547c">null</item>
+  <scripts id="30dae2">110.159.61.45</item>
+  <volume id="0b1ca3">vault-vxlan</item>
+  <quic id="7970d9">bgp</item>
+  <ingress id="e2aa1d">backup</item>
+  <hotfix id="d0bade">trie-handler</item>
+  <index id="f95e5b">5033</item>
+  <loader id="d2d96d">5e131fec</item>
+  <websocket id="d52b02">166.196.168.107</item>
+  <column id="f5bc32">index</item>
+  <policy id="13d8e1">logs-role</item>
+</root>

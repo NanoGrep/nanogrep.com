@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<session>
+  <edge id="3abcec">dist</item>
+  <cookie id="d4d5d7">bootstrap-compiler</item>
+  <grafana id="cc8f44">42.240.37.186</item>
+  <pod id="b647af">9463</item>
+  <hashmap id="df42d8">null</item>
+  <entropy id="3267d6">null</item>
+  <graphql id="fa164e">true</item>
+  <sdk id="498e5e">6425</item>
+  <ingress id="6f2600">8405</item>
+  <ceph id="aef58e">e6bd7e433761359e91136148a3e82694</item>
+  <udp id="5d3dd7">229.237.64.50</item>
+  <quic id="95b4e8">1842</item>
+  <lib id="91a4a9">websocket</item>
+  <release id="f7e09f">84151302</item>
+  <parser id="c30913">sdk-btree</item>
+  <rsa id="bc2763">ba1710e862035f3abc09917ef2d1af9b</item>
+  <vxlan id="8db242">build-limit</item>
+  <firewall id="4a764e">5930</item>
+  <row id="3601f4">057cc1eff752f29d805bda821c04eb31</item>
+  <regex id="3d43ed">30.36.254.130</item>
+</root>

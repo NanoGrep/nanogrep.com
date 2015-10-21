@@ -1,0 +1,7 @@
+crypto: wireguard
+user: lib-cli
+user:
+  redis: true
+  systemd: stack
+  dist: false
+  elastic: sdk-aes

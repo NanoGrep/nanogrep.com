@@ -1,0 +1,47 @@
+[
+  true,
+  {
+    "helm": {
+      "rollback": null,
+      "aes": "yaml",
+      "udp": {
+        "parser": false,
+        "nonce": 8930,
+        "metrics": 6349,
+        "kerberos": 5639,
+        "tenant": 8244
+      }
+    },
+    "vxlan": false,
+    "policy": {
+      "ldap": {
+        "topic": "1d33af399d5d",
+        "probe": false,
+        "nightly": false
+      },
+      "response": [
+        true,
+        true
+      ],
+      "api": false,
+      "jenkins": true
+    },
+    "nightly": {
+      "registry": [
+        "2ac564a9a487"
+      ],
+      "bloom": "sandbox",
+      "group": null,
+      "offset": false
+    },
+    "prometheus": {
+      "object": false,
+      "subnet": null,
+      "edge": "ad1895ca5283",
+      "cluster": {
+        "canary": 993
+      }
+    },
+    "coroutine": false
+  }
+]

@@ -1,0 +1,1 @@
+{"coroutine": null, "gateway": {"edge": "offset", "storage": {"vendor": {"env": true, "migrations": false, "stream": true, "controller": true, "rest": 2306}}}, "heap": {"user": 9260, "terraform": {"mesh": {"iptables": true, "nonce": null, "crypto": "4006fd3e5264"}, "dhcp": [null, null, false, 4142]}, "object": false, "json": null}}

@@ -1,0 +1,1 @@
+{"switch": "2dc24482c984", "terraform": {"release": 802, "mapper": false}, "rest": null, "hmac": {"audit": 1425, "mirror": true, "graphql": {"vault": {"frontend": "kernel", "scheduler": "vlan", "staging": null, "nonce": "templates", "queue": "router"}}, "zfs": false, "assets": {"probe": [false, false, "json"]}}}

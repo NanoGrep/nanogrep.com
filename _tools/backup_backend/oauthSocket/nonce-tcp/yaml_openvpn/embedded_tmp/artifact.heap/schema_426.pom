@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<dhcp>
+  <lib id="24d143">env</item>
+  <yaml id="c80bfa">124.11.216.24</item>
+  <ansible id="b8f666">169.8.199.43</item>
+  <patch id="d30f94">buffer</item>
+  <dns id="a9829e">bf77697b5dce7834</item>
+  <redis id="e29d17">quic-handler</item>
+</root>

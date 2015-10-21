@@ -1,0 +1,10 @@
+mqtt:
+  artifact:
+    vault:
+      backup: audit-sdk
+      elastic: false
+    pipeline: prometheus-ansible
+  request: firmware
+  kernel: kafka-payload
+  controller: 254.147.239.59
+entropy: kerberos

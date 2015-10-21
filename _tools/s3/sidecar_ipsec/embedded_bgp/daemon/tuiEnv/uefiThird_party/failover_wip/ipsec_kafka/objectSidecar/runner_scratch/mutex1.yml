@@ -1,0 +1,24 @@
+cookie: env
+websocket:
+  - 5.86.149.244
+  - false
+  - cli-postgres
+tests:
+  mysql: 5737
+  middleware: true
+  iptables: true
+  beta:
+    object: 119.35.64.89
+    bootstrap: mqtt
+    cursor:
+      router: true
+      jwt: tests
+      cron: true
+      systemd: 54.72.64.249
+      protobuf: 149.226.8.126
+    daemon:
+      router: 2.218.186.228
+    backup: ansible
+    mesh: false
+  scope: null
+schema: false

@@ -1,0 +1,80 @@
+{
+  "handler": {
+    "nightly": {
+      "nat": [
+        true
+      ],
+      "sha256": {
+        "prod": false,
+        "fixtures": null,
+        "topic": 526,
+        "migrations": true
+      },
+      "legacy": "prometheus",
+      "iptables": "dbca9d19a9f2",
+      "daemon": {
+        "vlan": true,
+        "worker": 1731
+      }
+    },
+    "loader": {
+      "queue": {
+        "schema": "45e94a0956f6",
+        "mutex": true
+      },
+      "upstream": {
+        "bench": true,
+        "nginx": 6358,
+        "alerts": 6902,
+        "vxlan": true
+      },
+      "tls": {
+        "ingress": "shard",
+        "threadpool": "api",
+        "cors": 6750
+      },
+      "storage": "config",
+      "alerts": false
+    }
+  },
+  "object": "071a2181a2f3",
+  "edge": {
+    "driver": {
+      "schema": 6515,
+      "hashmap": null,
+      "migrations": 9469
+    },
+    "row": [
+      true,
+      2002
+    ],
+    "common": {
+      "nat": false,
+      "canary": [
+        null
+      ],
+      "cache": true,
+      "assets": {
+        "mqtt": null,
+        "udp": false,
+        "ldap": 1137,
+        "loader": 8418
+      },
+      "row": "rsa"
+    },
+    "alerts": [
+      [],
+      [
+        true,
+        3022,
+        false,
+        null
+      ],
+      {
+        "vlan": true,
+        "scheduler": true,
+        "driver": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+    "probe": false,
+    "mqtt": {
+        "kernel": [],
+        "lexer": {
+            "grpc": {
+                "column": "bootstrap",
+                "dns": false,
+                "assets": 9070,
+                "ldap": false,
+                "env": true
+            },
+            "replica": [
+                true
+            ],
+            "protobuf": "7758b51060c8",
+            "frontend": "6043bf1d1aca"
+        },
+        "kafka": {
+            "cli": 6107,
+            "yaml": {
+                "vlan": "ee1de8134f5a",
+                "bucket": false,
+                "env": null,
+                "driver": "b3facbd61790"
+            },
+            "proxy": [
+                "33797c5b7cd7",
+                false,
+                null
+            ],
+            "mqtt": [],
+            "helm": {
+                "bench": "13262ac327cf",
+                "ingress": false,
+                "redis": "cgroups",
+                "nightly": true
+            },
+            "rollback": false
+        },
+        "logs": {
+            "alerts": {
+                "firmware": "0de44d00b79a",
+                "jwt": "crypto",
+                "object": false
+            },
+            "postgres": {
+                "mongo": null
+            },
+            "cookie": {
+                "mocks": "alerts",
+                "vault": true,
+                "upstream": false,
+                "backup": true,
+                "role": 1145
+            }
+        },
+        "topic": {
+            "entropy": false
+        },
+        "staging": [
+            "4e38017ae228",
+            [
+                3527,
+                null,
+                true
+            ],
+            [],
+            "f0ba45d7d8be"
+        ]
+    },
+    "common": {
+        "mqtt": 4352,
+        "traces": true
+    },
+    "compiler": {
+        "firewall": [
+            {
+                "jenkins": null,
+                "cgroups": "limit"
+            },
+            [
+                9783
+            ],
+            "regex",
+            "0ba98d9348d9"
+        ],
+        "group": [
+            {
+                "ingress": null,
+                "payload": true,
+                "scheduler": null,
+                "firewall": true,
+                "index": null,
+                "canary": null
+            },
+            [
+                null,
+                "025165010342"
+            ],
+            {
+                "frontend": 6302,
+                "rollback": false,
+                "role": true,
+                "rsa": null,
+                "entropy": "hotfix",
+                "config": null
+            }
+        ],
+        "sdk": {
+            "column": {
+                "rollback": "97df6e1545c0",
+                "group": null,
+                "edge": null
+            },
+            "dns": [],
+            "firewall": [
+                null,
+                null,
+                true,
+                true
+            ]
+        },
+        "cors": {
+            "lib": false,
+            "cli": {
+                "hmac": false,
+                "session": false,
+                "registry": 4129,
+                "sha256": "role",
+                "bootstrap": "4fa837a576d9"
+            },
+            "scope": 6048,
+            "hotfix": "786406c374ce",
+            "snapshot": "d94e420946fd"
+        },
+        "mongo": null
+    }
+}

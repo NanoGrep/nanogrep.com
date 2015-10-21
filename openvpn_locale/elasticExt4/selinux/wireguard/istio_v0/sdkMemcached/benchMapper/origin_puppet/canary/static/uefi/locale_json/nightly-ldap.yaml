@@ -1,0 +1,13 @@
+prometheus:
+  kerberos: false
+  coroutine:
+    - 7820
+    - 5495
+    - null
+    - ce10fafb
+  group: null
+  mapper:
+    - ebb5f96c739ced60fbc72e036f507a56
+    - backup-offset
+    - 0a5a17e9420c8408
+    - null

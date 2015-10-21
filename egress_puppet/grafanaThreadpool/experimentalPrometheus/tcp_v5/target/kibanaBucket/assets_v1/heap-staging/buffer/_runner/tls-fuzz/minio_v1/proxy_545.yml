@@ -1,0 +1,13 @@
+bucket:
+  cluster: 8f473c36b83bbd94
+  artifact: 5c4f3cb4
+  lib: middleware
+  ldap:
+    - 8b014f7f
+    - true
+  node: 3349
+staging: sandbox-btree
+helpers:
+  - mqtt-hmac
+hashmap: proxy-offset
+config: bgp-envoy

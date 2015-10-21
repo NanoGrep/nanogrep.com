@@ -1,0 +1,65 @@
+[helm]
+lexer.daemon = payload
+zfs_session = 83ded58c
+elasticsession = true
+controller_ldap = 2330
+volumesystemd = graphql-websocket
+redis.hotfix = jwt
+bucket.cli = 6810
+protobuf_yaml = false
+parserbootstrap = 8.5.86.179
+
+[factory]
+iptablescanary = sdk
+cgroups.daemon = false
+
+[redis]
+cgroupsnfs = driver-dist
+envoy_edge = 2642
+trie.driver = 4f3e3923445024c68c42290af9531cec
+user.heap = topic
+scope.origin = afc5665af4aa3abee48bd107e5a8e1b3
+ingress_backup = null
+ldap.middleware = env
+token.elastic = stream-btree
+mirrorbgp = bucket-bgp
+vxlan_row = 171.149.43.18
+dist.upstream = ldap
+commonjson = mongo
+common.daemon = false
+tabletoken = 46.40.36.54
+systemd_helpers = true
+batchlexer = 51dd9ecc
+noncerollback = utils
+rsa_bench = edge-grpc
+btree_scheduler = pod
+
+[artifact]
+retrylegacy = 167.44.148.202
+ldap_tenant = 2628
+topic_firewall = 116.127.182.117
+cors.driver = 140.250.175.11
+runner_firewall = env
+configscope = helpers-wireguard
+volume_postgres = 92.201.230.76
+handler.buffer = null
+controller.sdk = storage-semaphore
+mqtt.vxlan = bench-ingress
+logs_metrics = f7cba2df
+vendor_dns = 124.101.97.204
+traces_registry = e5fb714aa7ed99fe
+vaultindex = cgroups-limit
+retrysystemd = 91.68.18.72
+semaphore.kernel = false
+api_build = 9969
+
+[beta]
+cgroups.templates = null
+firmwareworker = 624720e80d70cdd95b418ab2baa7d363
+bench.watchdog = grafana-beta
+logs.replica = 93.36.192.128
+prodstaging = e6b063281dc0e3e9f8239eced826f1d5
+row.compiler = dist-session
+metricsmongo = 198.26.58.161
+threadpool.index = 9469
+cgroups_bgp = 11.233.70.24

@@ -1,0 +1,32 @@
+bgp:
+  ceph:
+    - jwt-quic
+    - wireguard
+    - 33.44.197.26
+  grpc: 4801
+  failover:
+    pipeline:
+      shard: null
+      migrations: true
+      hotfix:
+        - index-replica
+        - 0021f3af
+      legacy:
+        - column-kernel
+        - kafka
+        - crypto-config
+    http: 7ef8e7b7b667a695494295e083cc0c8b
+    tools: redis
+    controller:
+      - 9772
+      - 73.57.6.151
+  websocket: 7d8ffcd6
+  env: tests-origin
+  scheduler:
+    mutex: bucket-kernel
+    patch: 149aa565
+    entropy:
+      - true
+      - 9472
+lib: 174.191.211.175
+api: 528676d7

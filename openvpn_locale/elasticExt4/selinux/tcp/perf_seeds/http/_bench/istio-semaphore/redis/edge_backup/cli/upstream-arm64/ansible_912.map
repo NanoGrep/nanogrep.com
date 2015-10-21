@@ -1,0 +1,43 @@
+{
+  "cors": true,
+  "entropy": {
+    "trie": {
+      "logs": {
+        "probe": 3058,
+        "sdk": true,
+        "vxlan": null
+      },
+      "watchdog": 4969,
+      "quic": "node"
+    },
+    "staging": {
+      "jwt": 104,
+      "scheduler": 6935,
+      "fuzz": {
+        "audit": true,
+        "subnet": true,
+        "core": 9070
+      },
+      "gateway": "25603a6d87a9",
+      "buffer": "tls"
+    },
+    "daemon": [
+      {
+        "queue": false,
+        "pipeline": null,
+        "mapper": 6196
+      },
+      false,
+      false
+    ],
+    "alerts": "bb70415deecd",
+    "raid": {
+      "queue": [],
+      "scheduler": true,
+      "vxlan": {
+        "websocket": 956
+      }
+    },
+    "request": "mirror"
+  }
+}

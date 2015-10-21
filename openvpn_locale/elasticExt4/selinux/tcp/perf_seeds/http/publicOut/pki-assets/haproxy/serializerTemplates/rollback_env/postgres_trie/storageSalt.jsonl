@@ -1,0 +1,39 @@
+{
+  "heap": null,
+  "mirror": false,
+  "origin": {
+    "protobuf": {
+      "offset": true,
+      "migrations": true
+    },
+    "firmware": {
+      "vxlan": 982,
+      "nat": true,
+      "cgroups": {
+        "jwt": "tcp",
+        "gateway": null,
+        "vault": "elastic",
+        "subnet": "779d1ee1cef0"
+      },
+      "limit": [
+        true
+      ]
+    },
+    "semaphore": 2919,
+    "payload": "0154ff454165"
+  },
+  "vlan": {
+    "grpc": 8074,
+    "bootstrap": {
+      "parser": {
+        "rest": "topic",
+        "mesh": false,
+        "kafka": null,
+        "shard": true,
+        "heap": false
+      }
+    }
+  },
+  "session": "46f4ce94066e",
+  "staging": null
+}

@@ -1,0 +1,6 @@
+legacy:
+  tests: 39.234.148.135
+  patch:
+    btree: dns-rsa
+  mqtt: false
+  migrations: helm

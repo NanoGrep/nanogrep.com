@@ -1,0 +1,39 @@
+common: false
+pipeline:
+  lib: 3642
+  hmac:
+    backup: websocket
+    raid: audit-factory
+  legacy: 3097
+  cert: 4612
+  ceph:
+    - 9647
+    - 4244
+  ldap:
+    artifact: 5677
+    zfs: false
+    proxy:
+      entropy: salt
+      row: 1c4cc3e5
+      response: 6206
+      subnet: null
+      tools: 212.78.215.46
+      cors: 7013
+    router: mapper-kafka
+tenant:
+  yaml: true
+  socket: staging-topic
+  column:
+    jwt: 23.102.103.35
+proxy:
+  object: true
+  envoy: a1267b0baebcdc5f
+  bloom: buffer-envoy
+  redis: core-shard
+  worker:
+    websocket: true
+    parser: 31.2.80.56
+    lexer: mocks
+    zfs: 5b7abd98fd2e715a
+bench: quic-mesh
+migrations: 8753

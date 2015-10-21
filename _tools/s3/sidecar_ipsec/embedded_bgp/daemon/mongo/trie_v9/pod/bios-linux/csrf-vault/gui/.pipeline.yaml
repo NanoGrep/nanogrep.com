@@ -1,0 +1,89 @@
+buffer:
+  edge: http-offset
+  buffer: cors
+  http:
+    bgp: cgroups-templates
+    firewall: f5f4382dfe66c466
+    scheduler:
+      - true
+      - 4760
+      - 6b83a6a3
+    scheduler:
+      logs: 7249
+      watchdog: 8007
+      stream: kernel-tools
+      mutex: 1931
+      vlan: jenkins
+  utils: yaml-redis
+  stream: jwt-cli
+mqtt:
+  env: 6973
+  limit: 7549
+  trie:
+    salt: 1327761cef18908f
+    ingress:
+      ldap: c7693657
+      switch:
+        - yaml-replica
+        - 116.227.71.215
+        - true
+        - 94.23.144.39
+      bench: scripts
+    schema: 129.214.160.44
+    prod: 6b4054b75168f842010eab7f34afaf0a
+    core:
+      parser: 2aa14396
+      nginx: 8958
+      tls: 7265
+      mesh: f77793440b5e0ffa
+  middleware:
+    staging: 211.202.116.3
+    http: jwt
+    raid:
+      artifact: 1934
+      driver: 9214
+      handler:
+        - mapper-crypto
+        - true
+        - true
+      group: 233.11.40.147
+    sha256:
+      lib: retry
+      cgroups: 1226
+      mirror:
+        - sha256-response
+        - 6910d4c6
+    replica: true
+    jenkins: config-shard
+  fixtures: ldap
+lib:
+  tcp:
+    runner: 159.54.3.136
+    iptables: pod-redis
+    cookie:
+      cursor:
+        - metrics
+        - 21.119.220.229
+        - config
+  quic:
+    helm:
+      mirror: 76.94.8.230
+      storage: null
+      btree: false
+      mocks: ea84361c
+      vxlan: feac103f3d3e363b67ccdeff0ad838fd
+    grafana:
+      graphql: canary
+      failover: 168d751c
+      handler: b44b1d1c5d74ef0c
+      cluster: row-templates
+      utils: ee26031b7ff9b151
+    vault: 077d78e5
+ingress:
+  grafana: true
+  tls: terraform-build
+  logs: false
+  alerts:
+    snapshot: 120.49.58.89
+    batch: 61.50.30.18
+    helm: grpc-index

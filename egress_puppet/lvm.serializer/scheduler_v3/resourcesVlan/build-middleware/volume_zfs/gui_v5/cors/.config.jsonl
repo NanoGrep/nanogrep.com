@@ -1,0 +1,22 @@
+{
+    "lexer": {
+        "mqtt": 5664,
+        "helpers": {
+            "vendor": [
+                "kernel",
+                "firmware",
+                false
+            ],
+            "factory": [
+                null,
+                null,
+                null,
+                4019
+            ],
+            "migrations": {
+                "locale": false
+            }
+        }
+    },
+    "registry": []
+}

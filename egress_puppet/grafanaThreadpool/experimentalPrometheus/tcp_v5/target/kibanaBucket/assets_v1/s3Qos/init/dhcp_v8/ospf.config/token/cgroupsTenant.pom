@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<grafana>
+  <watchdog id="b7492d">null</item>
+  <user id="80a1c7">3452</item>
+  <btree id="f5b891">true</item>
+  <prometheus id="7062ad">api</item>
+  <mutex id="b833a8">425</item>
+  <nonce id="1d2cd1">bfcb72e38c577174</item>
+  <failover id="3cba8c">1530</item>
+  <patch id="0a89b2">142</item>
+  <user id="c7c7d0">payload</item>
+  <entropy id="9f7f3b">cert-scripts</item>
+  <kerberos id="462296">null</item>
+  <buffer id="67f16e">systemd-prod</item>
+  <staging id="6d1ba5">1601</item>
+  <index id="51822c">3546</item>
+  <sandbox id="58a6be">cc235d096b9393cb</item>
+  <service id="891b2a">587</item>
+  <alerts id="c2fa13">2309</item>
+  <cron id="1e0841">3291</item>
+  <policy id="f93af2">metrics-failover</item>
+</root>

@@ -1,0 +1,27 @@
+iptables:
+  jenkins:
+    - null
+  registry:
+    oauth: 186.169.44.5
+    config:
+      edge:
+        - 65.120.119.186
+        - 7959
+        - lambda-parser
+        - null
+      scope: row
+      table: router-nfs
+      audit: 9747
+    sdk: 232.64.23.114
+  mirror: 669786c8260b4f1042cc71cc3d8e402b
+  queue:
+    tenant:
+      - false
+      - 2192
+      - 162.241.171.98
+    utils: 72.38.224.180
+    replica:
+      - f57eac6a893e6dab
+  fuzz: 4392
+backup: 6e237352
+semaphore: 5687

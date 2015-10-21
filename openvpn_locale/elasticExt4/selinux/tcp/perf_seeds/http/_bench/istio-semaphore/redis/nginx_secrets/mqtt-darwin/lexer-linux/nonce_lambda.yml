@@ -1,0 +1,23 @@
+prod:
+  retry: null
+  coroutine:
+    semaphore:
+      - 303
+      - 6109
+    bench: websocket
+kafka: 6087
+canary: 61.164.167.87
+common: 13.30.45.231
+nat:
+  tls:
+    ingress:
+      switch: pipeline
+      daemon:
+        - false
+        - 7182
+    core: 70b4ce9f549d9def
+    cookie: jwt
+  payload: 184.66.31.94
+  bootstrap: ab50f8ff99b3a137
+  trie: 6914
+cgroups: 1182

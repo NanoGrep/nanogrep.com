@@ -1,0 +1,17 @@
+index:
+  kafka: false
+  trie: volume-config
+  aes:
+    config: hmac
+    batch: 4767
+    cache:
+      - zfs
+      - 125.6.129.99
+    build:
+      ldap: handler
+      elastic: f2bd93077d472ac5
+      vendor: true
+  driver: a77818e23b92618ab3a77c69ab90ce31
+  nightly:
+    bootstrap: 207.225.69.157
+    vlan: true

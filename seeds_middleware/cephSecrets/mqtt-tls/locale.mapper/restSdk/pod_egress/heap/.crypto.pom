@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<row>
+  <cluster id="800835">57822354</item>
+  <udp id="d7ded7">3531</item>
+  <proxy id="29f632">15.90.34.235</item>
+  <fuzz id="bcb751">false</item>
+  <shard id="434d2d">true</item>
+  <bucket id="22a982">4780</item>
+  <vendor id="932134">7661</item>
+  <mocks id="9aa5ac">mongo</item>
+  <alerts id="fcf8fe">6404</item>
+  <switch id="02322a">5600</item>
+  <mocks id="cfd17a">object</item>
+  <switch id="00242f">true</item>
+  <crypto id="3ccb3d">false</item>
+  <cert id="aaecc2">209.41.42.151</item>
+  <api id="aa3cff">mapper-scheduler</item>
+  <grpc id="1bf751">false</item>
+  <retry id="5e3fd6">mongo</item>
+  <stream id="db2413">btree</item>
+  <jwt id="fa017c">runner-btree</item>
+  <router id="fdfb13">vlan</item>
+</root>

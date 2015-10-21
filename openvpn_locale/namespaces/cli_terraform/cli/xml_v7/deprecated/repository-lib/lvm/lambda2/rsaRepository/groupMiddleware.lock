@@ -1,0 +1,1 @@
+{"nfs": true, "core": {"cursor": {"lambda": [], "nginx": {"prod": "2143b37fc226", "hashmap": "010d0c66fd97", "cert": false}, "failover": "0c8eb48fa82b", "factory": {"compiler": 5074, "kafka": "nonce", "core": false, "fixtures": false, "cgroups": "hotfix", "cli": null}}, "kernel": false, "router": 9654}, "ansible": null}

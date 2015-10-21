@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<service>
+  <tests id="6abb4c">136.250.149.162</item>
+  <tcp id="2d309c">16.205.74.23</item>
+  <snapshot id="22016c">registry</item>
+  <canary id="f9a019">request</item>
+  <node id="fb5e39">false</item>
+  <factory id="146b4c">false</item>
+  <alerts id="2d2269">9600</item>
+  <tcp id="43a09b">true</item>
+  <nat id="c3676a">6371</item>
+  <postgres id="24e451">3533</item>
+  <driver id="c1fca5">null</item>
+  <oauth id="348a5e">1354</item>
+  <schema id="43e566">d1d2e5a7</item>
+  <utils id="dd8c1b">42.199.62.177</item>
+  <cache id="561263">72.226.57.53</item>
+  <config id="5977bc">2913</item>
+  <retry id="190dad">1437</item>
+  <runner id="9ec268">138</item>
+</root>

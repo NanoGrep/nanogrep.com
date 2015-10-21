@@ -1,0 +1,25 @@
+cursor:
+  bloom: false
+  protobuf: 137.138.61.165
+retry:
+  cert:
+    tests: lib
+    parser: dist-table
+    gateway:
+      - firmware-handler
+  row:
+    - afa0ae80d3813c9ee41147c27a0edbfc
+    - null
+tcp:
+  table: b8017c68
+  threadpool: probe-systemd
+  tests: retry-config
+build: false
+cors:
+  - 8aa8e562e344777b
+  - false
+  - kafka-nginx
+hotfix:
+  - helpers
+  - 48.91.75.109
+  - false

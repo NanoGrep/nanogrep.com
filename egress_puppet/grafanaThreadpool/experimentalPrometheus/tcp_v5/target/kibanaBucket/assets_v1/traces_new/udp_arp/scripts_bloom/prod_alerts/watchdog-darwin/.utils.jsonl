@@ -1,0 +1,132 @@
+{
+  "prod": {
+    "rsa": {
+      "tls": {
+        "helpers": null,
+        "mutex": null,
+        "hmac": false
+      },
+      "row": "9c662c9c9c90"
+    },
+    "edge": null
+  },
+  "threadpool": {
+    "sha256": 7635,
+    "common": {
+      "ansible": [
+        "volume",
+        null,
+        "674b2c5b6620",
+        3979
+      ],
+      "driver": [
+        "a75a499de2ad",
+        false,
+        null
+      ],
+      "snapshot": {
+        "middleware": false
+      },
+      "env": {
+        "cron": false,
+        "zfs": null,
+        "mysql": "aedf70a2766f"
+      }
+    },
+    "websocket": null,
+    "daemon": {
+      "threadpool": {
+        "proxy": null,
+        "user": false,
+        "nfs": true
+      },
+      "loader": "8e27f18fe323"
+    },
+    "audit": {
+      "sha256": {
+        "cache": 5839,
+        "pod": 5330,
+        "aes": "nfs",
+        "release": "63243428ad5f",
+        "btree": null
+      },
+      "proxy": {
+        "retry": "worker",
+        "cache": true,
+        "artifact": null
+      }
+    },
+    "helm": {
+      "quic": {
+        "driver": false,
+        "jwt": true,
+        "index": true,
+        "vxlan": null,
+        "schema": true
+      },
+      "redis": {
+        "prometheus": null,
+        "pipeline": "e87043dc4bbb",
+        "common": 1336,
+        "cluster": "traces",
+        "user": "common"
+      },
+      "http": {
+        "group": false
+      },
+      "retry": {
+        "regex": false,
+        "mysql": null
+      }
+    }
+  },
+  "ldap": {
+    "nat": {
+      "controller": 1642,
+      "metrics": null
+    },
+    "failover": {
+      "salt": {
+        "artifact": null,
+        "migrations": "buffer",
+        "coroutine": 3599,
+        "tls": true,
+        "pod": true
+      }
+    },
+    "queue": {
+      "coroutine": true,
+      "core": "1e41d9fac445"
+    },
+    "payload": {
+      "legacy": {
+        "object": false,
+        "legacy": null
+      },
+      "user": {
+        "buffer": false,
+        "payload": true,
+        "scope": "019d8ac27769",
+        "crypto": "vlan",
+        "salt": "63bd8bc90bc7"
+      },
+      "api": true,
+      "envoy": false
+    }
+  },
+  "staging": {
+    "handler": [],
+    "bgp": null
+  },
+  "kerberos": {
+    "jenkins": 8035,
+    "volume": {
+      "dist": 6443
+    },
+    "zfs": [
+      8091,
+      "daemon",
+      null
+    ]
+  }
+}

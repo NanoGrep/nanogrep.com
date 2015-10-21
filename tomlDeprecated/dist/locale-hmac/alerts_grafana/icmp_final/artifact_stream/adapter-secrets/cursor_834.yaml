@@ -1,0 +1,23 @@
+subnet:
+  prod: nonce
+raid: 40.66.93.253
+mesh: 111.205.46.249
+pipeline: scripts-mesh
+rollback:
+  fixtures:
+    tcp:
+      topic: volume
+      heap: 196.92.93.70
+      kernel: fixtures
+    cache: false
+    ingress:
+      cron: null
+      logs: 249.66.15.110
+      volume:
+        - 202.239.27.222
+        - mirror-env
+        - f625e50f6f63ee1d
+        - 115.149.192.7
+      policy: yaml-dhcp
+    tcp: edge
+    iptables: false

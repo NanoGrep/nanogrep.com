@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<rest>
+  <bgp id="4cca79">6965af6a</item>
+  <templates id="b52be7">590</item>
+  <request id="93b1d6">iptables-wireguard</item>
+  <kernel id="039291">3674</item>
+  <yaml id="401784">52.0.198.36</item>
+  <shard id="8a2cc0">4698</item>
+  <rsa id="d1cb19">144.69.47.19</item>
+  <daemon id="767902">null</item>
+</root>

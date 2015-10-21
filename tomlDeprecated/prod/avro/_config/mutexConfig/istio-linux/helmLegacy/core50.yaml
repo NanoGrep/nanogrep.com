@@ -1,0 +1,58 @@
+factory:
+  policy: 402
+  mesh: terraform-release
+  registry: 129.221.195.209
+  vxlan:
+    response: role
+    hashmap:
+      mocks:
+        - graphql
+        - cli
+        - 4139
+        - fuzz-iptables
+      regex: 5910
+      tls: false
+      locale:
+        - false
+        - false
+        - 63.225.149.122
+    api:
+      vendor: 90ecb3f941d80a6ca28fafa5aa206ff3
+      bgp: lib-mongo
+      stack: 863
+      env: 4958
+      trie: 6040
+      aes:
+        - crypto-postgres
+    storage:
+      row: true
+      schema: 138.146.239.1
+      factory: 4516
+      raid: bb1ba896
+      lambda:
+        - null
+        - false
+        - 4577
+        - true
+    grafana:
+      - service
+      - 6397
+    session:
+      - common-core
+      - common
+      - null
+      - 96d2348e7ddef406
+  utils: 3396
+  bucket:
+    - 9d4cc223df31a292
+    - 221.56.208.21
+    - 3d600e3c4639c37ab67648ea28ad7cae
+dist: 7370
+mesh:
+  helm:
+    common:
+      yaml: 62.101.202.91
+  bloom: 163.5.146.196
+  redis: socket
+iptables: true
+dist: 171.182.215.57

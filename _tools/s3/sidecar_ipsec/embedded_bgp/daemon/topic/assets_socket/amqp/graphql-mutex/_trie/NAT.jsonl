@@ -1,0 +1,31 @@
+{
+    "rsa": false,
+    "user": [
+        {
+            "logs": false,
+            "driver": 1842,
+            "hotfix": false
+        },
+        [
+            true,
+            false
+        ]
+    ],
+    "entropy": 272,
+    "nat": {
+        "utils": {
+            "api": null
+        },
+        "bgp": {
+            "canary": {
+                "vlan": "volume"
+            },
+            "vxlan": {
+                "core": 9476
+            }
+        },
+        "queue": "6538da8fd403",
+        "helpers": true,
+        "protobuf": "cookie"
+    }
+}

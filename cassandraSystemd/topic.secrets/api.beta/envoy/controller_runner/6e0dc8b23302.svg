@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<loader>
+  <cluster id="6fbb2f">60.193.159.72</item>
+  <legacy id="f10663">735</item>
+  <lexer id="79b371">d3e726644cfd14f3</item>
+  <staging id="4a526d">8017</item>
+  <request id="42ad10">true</item>
+  <user id="05206c">237.74.178.132</item>
+  <postgres id="bd20ec">187.133.14.235</item>
+  <nginx id="8f495b">null</item>
+  <kerberos id="cabfa7">cors-api</item>
+  <tcp id="933c7d">236.172.66.158</item>
+  <grpc id="a70919">197.143.25.138</item>
+  <audit id="7bab57">5725</item>
+  <scheduler id="ccae0e">5004</item>
+  <firewall id="314959">true</item>
+  <patch id="3fd983">tls</item>
+  <origin id="3544eb">6d8ac153</item>
+  <retry id="aaaecc">46.130.84.186</item>
+</root>

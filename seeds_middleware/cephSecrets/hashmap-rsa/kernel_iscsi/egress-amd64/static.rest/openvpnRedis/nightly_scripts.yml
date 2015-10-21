@@ -1,0 +1,33 @@
+daemon: sandbox-common
+pipeline: 142.235.45.35
+staging: proxy-row
+stack:
+  core: compiler-elastic
+  mocks:
+    scope:
+      driver: 09610466
+      jwt:
+        - 01fae3b4295c91f9617faab094f0aab1
+        - 6101
+        - daemon-envoy
+      subnet: 62f4af245c677437
+      wireguard: 6271
+    row:
+      switch: handler
+      api: f4351d5e6e23a947
+    cli:
+      cron: systemd
+  helpers: 6770
+  cursor:
+    nginx:
+      frontend: null
+    templates:
+      lambda: 6232
+      pod: mapper-backup
+      fuzz: 32aaeed9ac52c12347b8caac480d4262
+      user: 38c3393361c31d90
+      object: cursor
+    request: false
+    parser: 100.102.120.89
+  bloom:
+    sandbox: true

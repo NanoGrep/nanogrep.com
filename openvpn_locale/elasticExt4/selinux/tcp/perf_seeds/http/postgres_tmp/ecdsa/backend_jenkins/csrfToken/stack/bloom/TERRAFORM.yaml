@@ -1,0 +1,5 @@
+mqtt: 493
+cron: 5939
+buffer:
+  - false
+grafana: 154.229.27.169

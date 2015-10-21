@@ -1,0 +1,11 @@
+backup_rest=true
+cron.request=postgres-session
+registrygraphql=112.94.169.8
+adapterrollback=true
+bench_core=18.147.93.139
+templates_metrics=session
+daemon.mutex=null
+mqttregex=ddd8048db08bc99f
+common_cluster=topic-firmware
+kafka.nightly=8698
+terraform.firewall=865295a3

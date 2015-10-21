@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<hmac>
+  <terraform id="20f219">cgroups-frontend</item>
+  <hotfix id="81a6c7">20</item>
+  <switch id="04e820">false</item>
+  <column id="2fc78a">coroutine-subnet</item>
+  <pod id="ca33e1">00de117795996248</item>
+  <hotfix id="eb101d">165.154.106.67</item>
+  <shard id="8e223b">false</item>
+  <watchdog id="1ae8a2">user</item>
+</root>

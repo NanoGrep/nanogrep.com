@@ -1,0 +1,11 @@
+lexer:
+  - 120.172.200.98
+  - 45.218.124.210
+  - 8206
+  - lexer-crypto
+grpc: 138.133.181.125
+firewall:
+  - 111.211.64.223
+  - 3547
+  - alerts-pipeline
+ingress: api-replica

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<worker>
+  <scope id="81cae0">4337</item>
+  <cursor id="5c6c47">cert</item>
+  <config id="624c8e">c626162322f1eca20d79b61c58d8dc75</item>
+  <json id="bba5ed">19.174.57.193</item>
+  <utils id="6c918e">02efdf10e2f73e11</item>
+  <aes id="fd28ca">215.150.29.8</item>
+  <parser id="bbbc24">7110</item>
+  <middleware id="a3bc9f">salt</item>
+  <firewall id="97c93a">135.72.14.87</item>
+  <postgres id="fd87c9">35.177.202.72</item>
+  <heap id="439f6d">de2dc9a4</item>
+  <alerts id="7c73f9">null</item>
+  <tenant id="8dd74a">8341</item>
+  <core id="8c5608">73.110.205.2</item>
+  <cookie id="a01c20">core</item>
+  <group id="1d5089">1407</item>
+  <iptables id="2b84e7">nightly-row</item>
+  <policy id="654e49">5806</item>
+</root>

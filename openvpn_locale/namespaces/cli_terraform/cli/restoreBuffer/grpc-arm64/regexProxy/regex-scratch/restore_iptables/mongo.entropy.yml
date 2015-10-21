@@ -1,0 +1,8 @@
+lexer: grafana-helm
+frontend:
+  - 60.144.238.54
+ceph:
+  tenant: 137.161.153.228
+zfs: 84b718145aba2708
+heap: 2405
+daemon: 1683

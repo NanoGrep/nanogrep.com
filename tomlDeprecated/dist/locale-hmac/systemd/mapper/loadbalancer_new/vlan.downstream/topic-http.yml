@@ -1,0 +1,11 @@
+json: 91ff5fdf
+router:
+  mapper: true
+  handler: systemd-wireguard
+  dhcp:
+    - compiler
+    - 6376
+    - null
+group: 3789
+env: 5338
+tests: 1595

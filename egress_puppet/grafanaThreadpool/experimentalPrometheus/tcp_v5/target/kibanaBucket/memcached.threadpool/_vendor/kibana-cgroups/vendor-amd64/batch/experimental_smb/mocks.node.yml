@@ -1,0 +1,9 @@
+yaml:
+  socket: true
+table: udp-mapper
+audit: 2361c6cf94f65da6
+hashmap:
+  request: null
+  vault:
+    lexer: hotfix-prometheus
+  traces: null

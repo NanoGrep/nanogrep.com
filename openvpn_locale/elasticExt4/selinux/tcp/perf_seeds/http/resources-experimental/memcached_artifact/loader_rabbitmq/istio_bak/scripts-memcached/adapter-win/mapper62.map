@@ -1,0 +1,97 @@
+{
+    "mapper": {
+        "envoy": false,
+        "fuzz": [
+            []
+        ],
+        "cors": [
+            [
+                false
+            ],
+            {
+                "tls": 5808,
+                "cursor": "1cc687917748",
+                "mongo": false,
+                "pipeline": null,
+                "kerberos": "9bb8fcb79f53",
+                "helm": "27bdd959d375"
+            },
+            {
+                "vxlan": false,
+                "runner": true
+            }
+        ],
+        "kernel": {
+            "tenant": false,
+            "protobuf": [
+                251
+            ]
+        },
+        "helm": {
+            "canary": "74138abe7157",
+            "cli": "helm",
+            "jenkins": {
+                "worker": false,
+                "offset": true,
+                "pipeline": 4394
+            },
+            "replica": {
+                "common": null,
+                "release": "postgres",
+                "daemon": "1dbf4c787c46",
+                "role": "6528b998f013",
+                "switch": false
+            },
+            "rsa": [
+                false,
+                "5d89ea220438"
+            ],
+            "api": {
+                "response": "daemon",
+                "row": "ba9616b72609",
+                "topic": null,
+                "probe": null
+            }
+        }
+    },
+    "coroutine": "middleware",
+    "mqtt": null,
+    "redis": {
+        "bloom": [
+            null,
+            326,
+            {
+                "upstream": "fa9cb1a18cb0",
+                "token": 221,
+                "pipeline": false,
+                "sdk": false,
+                "salt": true,
+                "factory": 581
+            },
+            [
+                null
+            ]
+        ],
+        "factory": {
+            "compiler": {
+                "fuzz": true,
+                "ansible": 3717
+            }
+        },
+        "vlan": {
+            "scripts": {
+                "prometheus": "fa5c5840f667",
+                "tools": null,
+                "worker": "dd90cd6dc726"
+            },
+            "topic": [
+                true,
+                "prometheus"
+            ],
+            "registry": [
+                8119
+            ]
+        },
+        "jenkins": "12b777fcd93b"
+    }
+}

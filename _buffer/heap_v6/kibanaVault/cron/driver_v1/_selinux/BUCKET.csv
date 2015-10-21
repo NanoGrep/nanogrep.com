@@ -1,0 +1,15 @@
+build,topic,config,helm,storage
+handler-buffer,7931,true,206.194.235.205,6533
+true,null,38.215.47.170,3de46033,5220
+kafka,2481,stream-metrics,firmware,9976
+true,audit,196.196.252.38,9236,false
+null,190.249.145.146,envoy,3419,role-handler
+pod-group,7082,bootstrap,pipeline,sandbox-sha256
+null,iptables,common,parser,7682
+8212f258,3e1f0261,158.68.139.167,hotfix,sdk-mysql
+730e53e1,kernel,false,true,true
+8269,redis,fed0ac21a649689dac0b8f30d3bd7c14,65840c00,upstream
+abf0f9dd351ee34ddc95bc4873f0b423,false,1640,252.129.149.160,5843
+8781,true,payload,grpc,4e4ec87e4fd97c8b2cc765c279eb0ca5
+false,assets-cert,adc42a7bb2fec95c,237.96.247.112,169.148.200.108
+websocket,false,bootstrap,ansible-dist,aac0646ece108bc6

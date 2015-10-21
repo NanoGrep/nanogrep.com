@@ -1,0 +1,5 @@
+http:
+  - true
+  - false
+  - pipeline-envoy
+vxlan: 7265

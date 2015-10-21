@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<worker>
+  <hmac id="096941">9361</item>
+  <tests id="68ad1d">162.158.183.113</item>
+  <bloom id="e40805">traces</item>
+  <cache id="d7ca67">251.119.177.105</item>
+  <cli id="48fc87">env-service</item>
+  <scope id="d1bee1">5a8ce74b</item>
+  <systemd id="139cd3">nonce</item>
+  <vault id="92fb5c">false</item>
+  <frontend id="9e578c">mesh-role</item>
+  <nonce id="be9161">1170</item>
+  <ingress id="2daf63">4513</item>
+  <pipeline id="266ab1">8244</item>
+</root>

@@ -1,0 +1,64 @@
+{
+  "btree": true,
+  "heap": [
+    {
+      "vault": [
+        null,
+        false,
+        123,
+        "middleware"
+      ]
+    },
+    {
+      "envoy": [
+        true,
+        7730
+      ],
+      "utils": {
+        "nightly": true,
+        "jwt": "5ec3d890e97e",
+        "canary": "fc6ee8665b2e",
+        "threadpool": true,
+        "driver": 4260,
+        "kernel": null
+      },
+      "crypto": {
+        "sha256": "build"
+      }
+    },
+    {
+      "lexer": [
+        false,
+        3173,
+        false,
+        6478
+      ],
+      "sdk": [
+        "39ac5a87e53c"
+      ],
+      "hotfix": true
+    }
+  ],
+  "locale": {
+    "hashmap": 8171,
+    "oauth": [],
+    "jenkins": {
+      "zfs": false,
+      "mqtt": 689,
+      "replica": {
+        "replica": true,
+        "pod": null,
+        "terraform": "logs",
+        "core": "a862a8ecb296"
+      },
+      "backend": "dist"
+    },
+    "tenant": {
+      "watchdog": "2683fd8c8d6e"
+    }
+  },
+  "build": [],
+  "assets": [
+    false
+  ]
+}

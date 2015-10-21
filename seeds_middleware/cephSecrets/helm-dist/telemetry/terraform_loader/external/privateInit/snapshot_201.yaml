@@ -1,0 +1,17 @@
+mqtt: 9338
+jwt: 21.176.165.41
+ingress: b8e69d332d8069e6ec48efefbf5b0054
+column: loader-env
+dns:
+  heap: compiler
+  offset: 1752
+  adapter:
+    - audit-json
+    - bucket
+  mutex: 251.253.120.79
+  cli: 3806
+  watchdog:
+    - index
+    - null
+    - 970
+    - iptables

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<canary>
+  <sdk id="5a5e3b">8bb4734a871382d9</item>
+  <elastic id="c73971">157.75.145.116</item>
+  <envoy id="f4b219">rsa-socket</item>
+  <fuzz id="bbe749">f4957bc34ab22a25</item>
+  <mysql id="3a5607">shard-user</item>
+  <release id="2aa4d5">table</item>
+  <rest id="810148">parser</item>
+  <factory id="3cb663">4795</item>
+  <json id="deb263">storage</item>
+  <locale id="661314">coroutine-cert</item>
+  <gateway id="826733">153.107.130.69</item>
+  <watchdog id="701f20">044f171038e51b11228d7ddee39be0ff</item>
+  <lambda id="4d72c4">6387</item>
+  <terraform id="cdbc83">false</item>
+</root>

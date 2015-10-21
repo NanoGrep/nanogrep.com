@@ -1,0 +1,75 @@
+[mocks]
+beta_loader = retry-edge
+subnetsemaphore = 3497
+rsa.core = a5e1a2304e6280ce4a461130d457f9a3
+snapshot_aes = true
+http_queue = heap-schema
+btreeservice = config
+proxymiddleware = true
+mysql_ingress = schema-probe
+lambdaraid = beta
+rollback_config = 49.96.78.146
+gatewaymiddleware = 101.19.96.193
+shard_cursor = false
+prometheusbench = 147.0.190.164
+udp_limit = dist
+sha256utils = true
+artifact.node = 138.124.236.222
+edge_iptables = 197.172.44.219
+jwtjson = true
+utils.column = 1c645007
+graphqlmigrations = alerts
+systemdfirmware = false
+vendorcrypto = raid
+prod.tools = handler
+audit.vlan = loader
+column_payload = true
+
+[bgp]
+staging.rsa = 5ee721ba
+factory_migrations = 8245
+rest_oauth = d8de5c459877e6edba0f3107dd7e5faa
+grafana_coroutine = 7714
+aes_limit = 41.19.151.51
+migrations_user = false
+saltindex = buffer
+
+[wireguard]
+scripts.audit = vlan
+nat_hmac = 122.221.180.118
+queue_rest = 4e8d2284
+responsesha256 = 6828
+mirrorfirmware = 4837
+edge.build = 535
+hmac.shard = 8097
+grafana_patch = group
+
+[middleware]
+elastic_aes = hotfix
+lambda_handler = cbadc792
+quic_runner = 1cd1633003a584e0
+edge.grafana = index
+ceph_nginx = grpc-common
+cryptosubnet = origin
+apiraid = false
+requestpostgres = 69.20.133.216
+mutexbackend = bench-limit
+parser_stream = bfd4d78b6dede156b47a07a18730451f
+protobufcert = cookie-vlan
+origin.lambda = 996
+controller.http = f1677c3ef9a0f61b
+threadpool.grpc = 79.29.116.193
+workerapi = b0a4e592
+tracesprobe = true
+table_terraform = 208.106.27.87
+stack_jwt = true
+envoy.grpc = 33.57.253.202
+tls.failover = null
+bgpsemaphore = c52dbfef674baf33a6ea0d2d1343f178
+batchcors = 96.138.242.23
+originlegacy = 3787
+probe.stream = 92.14.20.33
+mutex_protobuf = 112.106.10.110
+entropycgroups = false
+proxyenvoy = legacy-ansible
+mapper_handler = row-kafka

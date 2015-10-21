@@ -1,0 +1,35 @@
+tenant:
+  vlan: b8c4e4b587e4ef213d45c6bcd7e2ac00
+  mutex: 79.220.160.31
+  common:
+    ceph: replica-sdk
+    node: locale
+  runner:
+    vxlan:
+      prod: cd344d3891b578d81d9861b603cf38db
+      entropy:
+        - 110.232.165.44
+        - 9972
+        - false
+        - ceph-pipeline
+      loader: 6338
+      bucket: driver
+      mutex: 4874
+    tests: 1537
+    backup: 66.101.241.84
+    limit: watchdog
+    iptables: 233.227.200.4
+    limit:
+      - null
+      - factory
+json:
+  - 9620
+  - 2243
+  - false
+  - 0f3f3fe604b018d6
+elastic: cache-cluster
+mysql:
+  - 9131
+  - role
+  - true
+alerts: 7619

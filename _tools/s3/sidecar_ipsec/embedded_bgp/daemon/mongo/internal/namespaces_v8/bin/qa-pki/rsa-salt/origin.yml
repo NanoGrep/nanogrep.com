@@ -1,0 +1,10 @@
+common:
+  - 5067
+  - 5.116.44.87
+  - 9befbfcbf267befda171ba9692dea3bc
+cluster:
+  vendor:
+    mutex: true
+  parser: jenkins-entropy
+hotfix: yaml-patch
+oauth: false

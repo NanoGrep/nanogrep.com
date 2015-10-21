@@ -1,0 +1,32 @@
+mongo: true
+index:
+  aes:
+    mqtt: 43682c86
+    http:
+      cli: 2752
+      pod: adapter
+      probe: tls-bench
+      user: 3424
+      nonce:
+        - config-bgp
+  yaml: 6664
+  controller: scheduler-bootstrap
+  prod: 222
+  dns:
+    pod:
+      lexer: 6680241cda26689a
+      dhcp: 18fabfab74a706a8f540270390427453
+      yaml:
+        - vxlan-btree
+        - 6ac899f3b6e7a89565205383ce45bcf6
+      index: 8010
+      fuzz: wireguard-watchdog
+  bench:
+    - 00a45c0f6369f8c78b3781c0f96c2a57
+    - null
+postgres:
+  iptables: nightly-prod
+  vendor:
+    dhcp: 3035
+  bootstrap: 1141
+  session: lib-controller

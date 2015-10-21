@@ -1,0 +1,7 @@
+column,bootstrap,batch,grpc,object,watchdog,loader
+cron,common,c1e4436a,49a09aace9419ae0,false,763,scripts
+226.126.174.144,41.25.237.90,false,51.90.232.29,230.136.83.103,4444ca6e153f2cc8,limit-tools
+141.253.46.3,7a8e6759,false,utils,true,247.136.218.236,nat-ldap
+bgp,jwt,5a9ccd67,redis,152.119.147.199,156.133.215.171,nightly
+179.120.26.10,switch-staging,252.171.148.175,2977,frontend-staging,trie-rollback,rollback-switch
+switch-cron,yaml,compiler-jwt,e0b8dd19,true,null,lambda

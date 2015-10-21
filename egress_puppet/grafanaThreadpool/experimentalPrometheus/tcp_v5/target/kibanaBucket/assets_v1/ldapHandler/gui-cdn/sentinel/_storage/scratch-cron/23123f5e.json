@@ -1,0 +1,107 @@
+{
+    "prometheus": [
+        [
+            null,
+            {
+                "coroutine": 5463
+            },
+            {
+                "node": true,
+                "role": false,
+                "scripts": 4794,
+                "pod": true
+            },
+            true
+        ],
+        true
+    ],
+    "router": true,
+    "bgp": [
+        "74bf4137010b",
+        "helm"
+    ],
+    "yaml": {
+        "release": true,
+        "index": {
+            "upstream": {
+                "logs": 2873
+            }
+        },
+        "scheduler": {
+            "quic": {
+                "zfs": null,
+                "aes": "bgp",
+                "envoy": null,
+                "scheduler": false
+            },
+            "tests": false,
+            "table": true,
+            "udp": "coroutine",
+            "proxy": "group",
+            "scope": "mapper"
+        },
+        "elastic": "ansible",
+        "threadpool": [
+            8447,
+            null,
+            {
+                "dns": "vendor",
+                "ingress": "tls",
+                "policy": false,
+                "factory": "f938282543c4"
+            },
+            null
+        ]
+    },
+    "kernel": "974659d3870b",
+    "row": {
+        "core": "runner",
+        "backend": [
+            {
+                "probe": "nfs",
+                "traces": true,
+                "proxy": null
+            },
+            {
+                "nfs": false,
+                "config": true,
+                "origin": true,
+                "ldap": "firmware",
+                "service": "92eca800403a"
+            },
+            {
+                "tools": 3473,
+                "lambda": "envoy"
+            },
+            "envoy"
+        ],
+        "rest": {
+            "env": {
+                "volume": false,
+                "scripts": "32e3ce0c432f",
+                "column": false
+            },
+            "cursor": {
+                "schema": null
+            }
+        },
+        "cors": true,
+        "backup": {
+            "nginx": null,
+            "bootstrap": {
+                "graphql": null,
+                "proxy": null,
+                "envoy": 2440,
+                "mapper": 6350,
+                "build": false,
+                "metrics": null
+            },
+            "scope": [
+                null,
+                "patch",
+                false
+            ],
+            "cgroups": "893b3586b371"
+        }
+    }
+}

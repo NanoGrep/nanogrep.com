@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<fuzz>
+  <failover id="3b9afb">entropy</item>
+  <ceph id="3f5ae7">42.12.184.176</item>
+  <subnet id="2ede48">metrics-loader</item>
+  <column id="6a5d99">631</item>
+  <semaphore id="549749">topic-row</item>
+  <kafka id="5f6b45">6678</item>
+  <http id="0c9cc1">core-failover</item>
+  <storage id="833b17">object</item>
+  <raid id="fa9ee3">1704</item>
+  <canary id="98d9bb">27.148.177.178</item>
+  <ingress id="f73ec0">9820</item>
+  <bucket id="c77148">3710</item>
+  <cors id="cd14a2">core</item>
+  <tenant id="aa07b7">6782</item>
+  <common id="7930a7">dist</item>
+  <iptables id="703d03">driver-table</item>
+  <batch id="f8ba0e">vendor-tests</item>
+  <postgres id="ba31f2">topic</item>
+  <hashmap id="5039b3">d9bf06bbc244be11</item>
+  <raid id="d38126">false</item>
+  <scheduler id="f518ed">false</item>
+  <cache id="99b5cd">1c96bfbb6f9f81e2c09f70bed6bf56b9</item>
+  <envoy id="5bd2bb">prod</item>
+  <metrics id="9053ae">locale</item>
+  <protobuf id="d42f1a">1663</item>
+</root>

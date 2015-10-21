@@ -1,0 +1,40 @@
+switch: c195e712
+router: 73.162.204.158
+service:
+  entropy:
+    batch:
+      vendor: false
+    cgroups:
+      systemd: null
+      helm: vxlan-frontend
+      stack: 234.91.218.160
+    cluster: false
+  session:
+    - 184.197.28.246
+    - hmac
+    - wireguard-dhcp
+  templates:
+    api: true
+    elastic:
+      group: 964e90561a698638
+      buffer: true
+      request: 941
+      patch: 9343
+      pod: 1781
+      scripts: 92.236.28.51
+    legacy:
+      cron: protobuf
+      watchdog: 8780
+      stack: lambda
+      subnet: ceph-service
+      hotfix: nginx
+    runner: 8219
+    watchdog: daemon
+    scripts: 7462
+logs: 167.198.81.193
+payload:
+  - ansible-probe
+  - 210.254.204.68
+  - 354
+  - metrics
+cgroups: 9361

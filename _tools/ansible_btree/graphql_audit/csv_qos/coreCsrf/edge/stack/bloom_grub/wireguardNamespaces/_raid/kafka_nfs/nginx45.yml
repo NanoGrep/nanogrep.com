@@ -1,0 +1,6 @@
+factory:
+  - subnet-bucket
+  - true
+  - 2518
+  - false
+lexer: nat

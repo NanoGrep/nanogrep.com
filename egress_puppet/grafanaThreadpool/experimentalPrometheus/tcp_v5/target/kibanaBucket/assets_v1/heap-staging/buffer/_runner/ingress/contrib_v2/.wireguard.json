@@ -1,0 +1,128 @@
+{
+  "canary": {
+    "shard": {
+      "storage": {
+        "protobuf": 2341,
+        "tcp": true,
+        "user": true,
+        "metrics": true,
+        "canary": "prometheus"
+      }
+    },
+    "queue": {
+      "tcp": null,
+      "controller": {
+        "policy": 928,
+        "templates": true
+      },
+      "assets": false,
+      "zfs": [
+        "a02fbd748675",
+        false
+      ]
+    },
+    "bootstrap": true,
+    "aes": [
+      [],
+      false,
+      []
+    ]
+  },
+  "regex": {
+    "nat": {
+      "scheduler": {
+        "release": true,
+        "daemon": 3354
+      },
+      "mocks": 6513,
+      "salt": false,
+      "hmac": [
+        null,
+        false
+      ],
+      "upstream": "storage"
+    },
+    "driver": {
+      "canary": {
+        "fuzz": 2664,
+        "volume": true,
+        "mysql": "e714c18959b3",
+        "systemd": true
+      },
+      "graphql": 1903
+    },
+    "btree": {
+      "ingress": [
+        "runner",
+        null,
+        null
+      ],
+      "tools": [
+        true,
+        "oauth",
+        false
+      ],
+      "build": true
+    }
+  },
+  "nightly": {
+    "user": "pipeline",
+    "rsa": {
+      "logs": {
+        "ingress": true,
+        "wireguard": 9521,
+        "object": 8383,
+        "json": "81bd42fed100",
+        "audit": "7636ddf3623a"
+      },
+      "cgroups": [
+        "session",
+        8763,
+        null,
+        null
+      ],
+      "controller": null
+    }
+  },
+  "socket": {
+    "driver": {
+      "buffer": [
+        "core",
+        null,
+        false
+      ],
+      "prometheus": {
+        "policy": "0cc86d04badb"
+      },
+      "service": {
+        "dhcp": null,
+        "envoy": null,
+        "watchdog": false,
+        "quic": "udp"
+      },
+      "offset": {
+        "ingress": false,
+        "helm": true,
+        "elastic": "0b89dd3aaba8"
+      }
+    },
+    "ingress": {
+      "service": {
+        "entropy": 7392,
+        "envoy": true,
+        "role": 1408,
+        "lib": true
+      },
+      "driver": {
+        "assets": "alerts",
+        "rsa": "subnet",
+        "edge": false
+      },
+      "nightly": 1329,
+      "crypto": {
+        "utils": false
+      }
+    },
+    "scripts": 2104
+  }
+}

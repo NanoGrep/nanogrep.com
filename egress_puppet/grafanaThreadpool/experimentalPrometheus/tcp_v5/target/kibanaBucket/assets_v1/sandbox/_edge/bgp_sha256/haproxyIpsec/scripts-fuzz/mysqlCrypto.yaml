@@ -1,0 +1,35 @@
+hotfix: utils-dns
+zfs:
+  payload: regex-edge
+  upstream:
+    origin: nonce-json
+    snapshot:
+      stream: 9487532001f70fbb700ee7595a1ec5b2
+wireguard:
+  runner: factory-cron
+  trie:
+    oauth: 8dea5bcbb0e9b223
+    bloom: 24.138.57.56
+  fixtures:
+    - false
+    - 110.66.111.145
+    - d527401e02cf71dfd431b916f8ba4e95
+  storage: 8413
+  config:
+    rest: 2071
+    oauth: true
+    nfs:
+      shard: subnet-lexer
+      vlan: a3e6011543fe31ce123ff30d7e83a2f2
+      loader: storage-edge
+      backend: false
+      hotfix:
+        - 2215
+        - cb792807f71f3b19
+        - 39.253.220.76
+        - dns-stream
+      helpers: false
+    config: gateway-lib
+utils: true
+api: ddafbd14190256f846fccae3f4b83d3c
+tenant: kafka

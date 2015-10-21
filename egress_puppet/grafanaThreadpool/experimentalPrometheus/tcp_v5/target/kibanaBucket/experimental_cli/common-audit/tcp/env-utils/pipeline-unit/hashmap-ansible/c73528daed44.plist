@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<origin>
+  <staging id="7e4768">false</item>
+  <object id="eb6e43">4769</item>
+  <migrations id="54d301">daemon-grafana</item>
+  <daemon id="cade09">batch</item>
+  <node id="71b22b">3.200.97.11</item>
+  <vxlan id="53cfc0">2f59ed82b12b3347d3a04823ce11a101</item>
+  <mesh id="6dca57">gateway</item>
+  <buffer id="305f4f">topic-terraform</item>
+  <http id="f1c519">6198</item>
+  <mocks id="6bd31d">systemd</item>
+  <audit id="12c996">47.6.36.227</item>
+  <semaphore id="7a7658">false</item>
+</root>

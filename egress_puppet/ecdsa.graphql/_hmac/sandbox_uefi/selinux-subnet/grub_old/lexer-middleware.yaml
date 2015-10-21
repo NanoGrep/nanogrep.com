@@ -1,0 +1,27 @@
+worker:
+  bucket: null
+  tenant:
+    json:
+      cors: router-shard
+      kafka: 7976
+      btree: dist-trie
+      nginx: 229.146.195.98
+      coroutine: cache-retry
+    beta:
+      offset: role-oauth
+      fuzz: true
+      dns: driver
+      cgroups: 83.108.123.74
+      scripts: cgroups-lib
+      hmac:
+        - 8cf2e929549e6684
+    mongo: tests-traces
+    probe: threadpool-envoy
+    kerberos: 97.68.213.148
+    switch:
+      - protobuf-dist
+      - false
+      - cron
+      - token
+  mysql: 4698
+  cache: 653829f870e7d5af

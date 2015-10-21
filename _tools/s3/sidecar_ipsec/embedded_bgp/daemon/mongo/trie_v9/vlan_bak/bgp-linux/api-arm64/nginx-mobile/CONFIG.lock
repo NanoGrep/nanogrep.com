@@ -1,0 +1,28 @@
+{
+  "lib": [
+    {
+      "coroutine": "vendor",
+      "rsa": {
+        "api": null,
+        "role": "migrations",
+        "salt": "076fc5324039",
+        "vendor": "origin",
+        "request": true
+      }
+    }
+  ],
+  "canary": "ansible",
+  "mapper": {
+    "bench": "bfdb06561dab",
+    "batch": null,
+    "yaml": null,
+    "firewall": {
+      "core": "mongo",
+      "jwt": false
+    },
+    "vault": 7831
+  },
+  "mutex": {
+    "traces": "1014ee58069a"
+  }
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<semaphore>
+  <elastic id="20e944">offset</item>
+  <zfs id="e7317a">1.190.207.236</item>
+  <lib id="5f42fb">scheduler-bloom</item>
+  <volume id="4dac9e">driver</item>
+  <user id="41712e">70.74.243.148</item>
+  <node id="2ebf3f">116.211.19.6</item>
+  <mutex id="ebecf7">de8dcadc5670b533b9a434bf12682282</item>
+  <mqtt id="10e4fb">3748</item>
+  <service id="d6f860">watchdog-envoy</item>
+  <shard id="fa1d4c">ed5f098d</item>
+  <ansible id="358b31">cd90633e</item>
+  <redis id="d99d6c">metrics-heap</item>
+  <ldap id="adf165">5e0ca314cc2c8ac22d8475ed0325b709</item>
+  <cache id="48ffe6">4966</item>
+  <oauth id="891740">a28614daaf2d4007</item>
+  <registry id="aa7de9">4606</item>
+  <handler id="3b786b">111.143.49.119</item>
+  <column id="016546">common-gateway</item>
+  <fixtures id="2b6218">cluster</item>
+  <policy id="0548b2">zfs</item>
+  <common id="8de263">244.149.205.245</item>
+  <subnet id="8764ee">buffer</item>
+  <kerberos id="575841">build-stream</item>
+  <replica id="18dac6">126.73.170.16</item>
+  <mirror id="729ea8">parser-registry</item>
+</root>

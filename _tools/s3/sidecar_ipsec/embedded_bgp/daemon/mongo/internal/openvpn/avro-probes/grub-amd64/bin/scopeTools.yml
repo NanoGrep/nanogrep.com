@@ -1,0 +1,23 @@
+registry:
+  - protobuf-dist
+  - 162.226.253.30
+  - offset
+  - 133.247.68.240
+worker:
+  batch:
+    - 6116
+    - limit
+    - 73.162.93.139
+  tests:
+    - 123.10.16.235
+    - 3451
+  gateway:
+    locale: 6facd5818eaa5c70
+    proxy:
+      edge: 8637
+    oauth: zfs-graphql
+  cookie: graphql
+  schema: column
+  factory:
+    firmware: 7396
+registry: audit

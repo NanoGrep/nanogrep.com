@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<alerts>
+  <group id="a21c35">9696</item>
+  <mqtt id="0ba8a6">5359</item>
+  <nat id="bcd661">false</item>
+  <cli id="b75670">true</item>
+  <crypto id="48b4f8">shard</item>
+  <heap id="571112">28.208.118.223</item>
+  <limit id="cfe134">false</item>
+  <utils id="0c6f78">69cd6e0251490b7a</item>
+  <nightly id="b5cf73">canary</item>
+  <logs id="2375b9">93.116.7.173</item>
+  <common id="d3dc58">4958</item>
+  <topic id="ba4833">8382</item>
+  <json id="3766a3">http</item>
+  <adapter id="800b50">false</item>
+  <lexer id="0627d0">2d19d2b8</item>
+  <cursor id="bd3633">false</item>
+  <vxlan id="3764ab">true</item>
+  <volume id="ba06ac">1c48f9f12bafec431ebe3fdbb8b2c31a</item>
+  <tls id="3cc8fd">true</item>
+  <origin id="a809b0">false</item>
+  <adapter id="67a898">true</item>
+  <user id="777ac1">2205</item>
+  <index id="4d2646">threadpool-worker</item>
+  <bgp id="e2e8e4">hashmap</item>
+</root>

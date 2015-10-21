@@ -1,0 +1,5 @@
+lib: factory
+replica: 1802
+mutex: 132.147.153.3
+terraform: utils-role
+scripts: 864ec0db2a180f28

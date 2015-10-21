@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<retry>
+  <shard id="e6f8c9">config-session</item>
+  <gateway id="e57d87">39.57.186.6</item>
+  <cursor id="3fd28c">1e167ffe</item>
+  <vendor id="3d42b6">loader</item>
+  <build id="787db2">2189</item>
+  <lib id="1a60a0">cursor-column</item>
+  <backend id="1d1d29">snapshot-offset</item>
+  <kafka id="5b8e1a">3e52145e3b03b945</item>
+</root>

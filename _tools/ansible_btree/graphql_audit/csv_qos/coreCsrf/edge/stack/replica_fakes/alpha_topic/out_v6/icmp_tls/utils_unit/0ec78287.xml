@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dhcp>
+  <vxlan id="7a4098">214</item>
+  <helm id="82ae47">node</item>
+  <mesh id="f4317c">241.51.237.241</item>
+  <staging id="29a5a9">226.34.103.103</item>
+  <batch id="b1e571">cli</item>
+</root>

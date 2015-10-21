@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mapper>
+  <frontend id="5aeb5f">175.84.92.103</item>
+  <websocket id="6d6c34">d8a763eb7b60f2264675ca01abcf7a3e</item>
+  <policy id="d2f93c">125.251.0.198</item>
+  <lambda id="fbe170">null</item>
+  <mesh id="dcc70e">193.115.172.203</item>
+  <factory id="9d7329">cluster</item>
+</root>

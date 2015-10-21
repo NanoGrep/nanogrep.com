@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<http>
+  <sdk id="011187">snapshot-socket</item>
+  <kerberos id="059b8c">b4c6bf2fdec387f2</item>
+  <table id="7904c1">e431315d</item>
+  <parser id="b05c48">125b7453</item>
+  <cache id="9f3371">9169</item>
+  <audit id="31f377">daemon-user</item>
+  <table id="256c23">4118</item>
+  <cache id="a04901">2234</item>
+  <shard id="4f6ca5">runner-upstream</item>
+  <row id="783cf9">194f489f014946a6</item>
+  <offset id="b510e4">2868</item>
+  <driver id="462210">187.13.160.152</item>
+  <scripts id="06864f">330</item>
+  <runner id="a9b16d">8148</item>
+  <tls id="a4f930">entropy-heap</item>
+  <offset id="17177b">beta-factory</item>
+  <bloom id="ae8076">upstream</item>
+  <replica id="287e2b">138aff13cd5dd4d0</item>
+  <cache id="59aa65">null</item>
+  <cors id="6a4a5c">mysql-json</item>
+</root>

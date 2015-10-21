@@ -1,0 +1,13 @@
+mirror:
+  config:
+    - rsa-payload
+    - 18ec867741ab3f41
+    - 2101487410a489ee
+  cli: 6739
+  bucket:
+    replica: canary-env
+  vlan: mysql-ldap
+  postgres:
+    prod: prometheus-canary
+parser:
+  - handler

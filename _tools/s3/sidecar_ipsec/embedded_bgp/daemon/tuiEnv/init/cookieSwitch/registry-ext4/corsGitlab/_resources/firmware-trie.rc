@@ -1,0 +1,5 @@
+nodeentropy: bgp-probe
+upstream.tcp: 195.15.229.159
+alerts.salt: true
+sandboxsocket: 7944
+nfstcp: 4141

@@ -1,0 +1,15 @@
+middleware:
+  payload: bgp
+  lambda:
+    http: 2218
+    beta: 14.218.141.5
+  dist:
+    json:
+      - 868
+      - loader-tests
+      - helm
+    session: b848e9fd1ee437ea
+  staging:
+    - true
+    - nfs
+audit: 8368

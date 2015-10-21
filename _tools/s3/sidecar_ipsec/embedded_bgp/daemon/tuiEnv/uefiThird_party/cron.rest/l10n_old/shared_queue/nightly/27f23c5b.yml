@@ -1,0 +1,4 @@
+subnet: graphql-topic
+request: bgp-cors
+locale:
+  nonce: middleware

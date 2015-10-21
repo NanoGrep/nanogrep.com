@@ -1,0 +1,11 @@
+group: 236.147.24.153
+switch:
+  - 239.139.98.80
+  - 191.94.231.219
+  - 178.16.26.131
+compiler:
+  handler: 72584b8f
+  protobuf:
+    - 9410ef20a6ad35de70a5b62b5943b712
+    - core-driver
+    - staging-grpc

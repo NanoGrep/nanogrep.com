@@ -1,0 +1,35 @@
+{
+    "assets": null,
+    "hashmap": [
+        {
+            "user": {
+                "nfs": true,
+                "yaml": false
+            },
+            "schema": "btree",
+            "salt": {
+                "sandbox": true,
+                "firewall": "tls",
+                "quic": 3730,
+                "staging": true,
+                "canary": null
+            },
+            "nonce": 6768
+        },
+        "e69ad2fc0814",
+        {
+            "shard": {
+                "json": 4814,
+                "snapshot": null,
+                "buffer": "c795e5ac12c5",
+                "zfs": true
+            },
+            "udp": 9960,
+            "envoy": {
+                "nonce": false,
+                "compiler": "helm"
+            }
+        }
+    ],
+    "core": "57ee1c69ce91"
+}

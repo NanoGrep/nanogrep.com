@@ -1,0 +1,74 @@
+{
+  "backend": 132,
+  "systemd": {
+    "rsa": {
+      "helm": {
+        "http": true,
+        "ingress": 332
+      },
+      "quic": {
+        "watchdog": "ec7a5680899c",
+        "oauth": 3629,
+        "adapter": 4751,
+        "yaml": "82d4f6abdd69"
+      },
+      "volume": [
+        false,
+        6211,
+        null,
+        "prod"
+      ],
+      "dns": {
+        "cli": 4353,
+        "mqtt": 7929,
+        "gateway": "tests",
+        "session": "frontend",
+        "probe": "prometheus"
+      },
+      "middleware": [
+        "e914a37c527d",
+        null,
+        "staging"
+      ]
+    },
+    "nightly": [
+      true,
+      true,
+      null
+    ],
+    "runner": [
+      {
+        "compiler": true
+      },
+      [
+        null,
+        "17cb7fcec735",
+        9400
+      ],
+      [
+        true,
+        "39c3f84bbf97"
+      ]
+    ],
+    "terraform": {
+      "session": {
+        "watchdog": 9580,
+        "kafka": true,
+        "tools": "hashmap",
+        "column": 291
+      },
+      "topic": [
+        "91aee62ec599"
+      ],
+      "mysql": "wireguard",
+      "object": {
+        "response": false
+      },
+      "salt": {
+        "build": true
+      },
+      "raid": false
+    },
+    "mirror": []
+  }
+}

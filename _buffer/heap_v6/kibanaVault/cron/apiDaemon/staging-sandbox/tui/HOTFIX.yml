@@ -1,0 +1,57 @@
+ldap:
+  controller:
+    bucket:
+      volume: ingress
+      cron: 1170
+      node: 4545
+      batch: 56.111.198.159
+      request:
+        - pod
+        - btree
+        - false
+  ansible: 4781
+  cluster: 175.104.112.47
+  ldap:
+    bootstrap: 57.68.221.196
+    prometheus: udp
+    buffer:
+      - traces
+      - d18a8d4ff8c64e678dc5cef3f6a8a170
+      - vault-protobuf
+      - 2823
+    ingress:
+      rollback: null
+    policy: fixtures
+    hashmap: dist-table
+  subnet:
+    cert:
+      audit: true
+      api: ba7d7135b53aa917
+      cgroups: 229.107.251.4
+firmware: 53.152.110.215
+redis:
+  batch: mqtt
+  hmac:
+    bench:
+      ansible: 58da3cba910e1a15
+      registry: nginx-response
+      user: 330a40f0
+      node:
+        - 877
+        - alerts-object
+        - nightly-kafka
+        - 780e011d
+      tools: graphql-cgroups
+      scope: 79.37.198.160
+    payload: true
+  router: firmware-frontend
+  cron: null
+  sandbox: firewall-cert
+ceph:
+  - regex-probe
+  - 8620
+backend:
+  mapper:
+    oauth: 1e50eef41528c4ee252b5d134262541d
+    edge: true
+  bloom: 53d04c61632af3f2

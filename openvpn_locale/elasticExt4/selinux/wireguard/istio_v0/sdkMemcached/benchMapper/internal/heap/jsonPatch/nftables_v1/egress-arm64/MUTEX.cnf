@@ -1,0 +1,65 @@
+[vendor]
+mesh.backup = null
+compilerredis = 9940
+compiler_audit = dns
+lexer.request = request-runner
+grafana_alerts = templates-session
+zfs.trie = 46.133.211.244
+audit_cert = column
+canary.alerts = postgres
+envoy_artifact = aes
+clusterscheduler = 15.76.36.154
+parsermiddleware = 0a992329
+worker_bucket = firmware
+bgp.queue = 4808
+rsa_cors = true
+object_ansible = canary
+cgroups.templates = snapshot
+nightly.raid = buffer
+origin.token = helm-firmware
+rowapi = bgp-fuzz
+cert.sandbox = 003140ea3bab9eac9e061c9b0712a8fe
+migrationsrunner = 9914
+core_http = 33.94.67.181
+buffer_scheduler = 239.223.72.235
+betawatchdog = 56.79.77.112
+snapshotmigrations = retry-vlan
+daemon_raid = true
+scope_cgroups = 195.148.230.134
+node_object = 82.84.144.63
+
+[fuzz]
+regex_snapshot = node
+storage_jenkins = 5ba7da1bd1521c35a0999e23ea5f06eb
+fixtures.terraform = 15.223.245.217
+zfs_controller = true
+batch.daemon = 6d2f9cce
+semaphore_ceph = audit
+mesh.staging = hmac-mocks
+staging.request = 4833f04bf46d92e0e7c0eaaadd48c267
+stream_probe = helm-api
+firmware.api = a97bb893529cce3fc8493237d7ec722d
+factory_artifact = 3206
+batch.hashmap = 76e8ff6be53bcb9a
+jwt.lambda = false
+cursor_envoy = 231.218.134.33
+udpmetrics = bootstrap-stack
+nat_lib = 240.196.99.157
+nat_tenant = daemon-policy
+semaphore_mutex = 7792
+threadpool_grafana = 5.156.220.131
+corscrypto = iptables
+subnet.postgres = legacy-request
+mocksrequest = daemon
+pod_parser = null
+firmwarelimit = 1431
+assets_tenant = quic-row
+cron_retry = 131.231.23.77
+
+[retry]
+wireguard_quic = mapper-request
+vxlan_mysql = coroutine
+column_service = false
+libwebsocket = false
+noncefixtures = offset
+offsettrie = null

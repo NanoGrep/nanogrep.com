@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<salt>
+  <postgres id="0fd2fc">udp-row</item>
+  <topic id="13c630">fe367ab8fec04e5d</item>
+  <rollback id="39f261">bench-websocket</item>
+  <jenkins id="89cc51">true</item>
+  <audit id="d05fce">229.233.103.254</item>
+  <quic id="96167d">9cd6b0faac74096a</item>
+  <elastic id="935b11">891</item>
+  <mocks id="bf69ce">96.86.147.173</item>
+  <firmware id="634b53">cluster-salt</item>
+  <group id="3b3e08">72.226.10.117</item>
+  <entropy id="a200fe">1793</item>
+  <core id="be21c2">159.30.35.94</item>
+  <hotfix id="d6ff4a">role</item>
+  <ansible id="3e5b54">locale</item>
+  <hotfix id="a41f62">a5224d3e1ec3f9b0</item>
+  <parser id="25d795">false</item>
+  <grpc id="18ecf5">lib-hashmap</item>
+  <cert id="7549b3">true</item>
+  <subnet id="f3e46a">33c84cdfe5facdf6fdc5d862322faaa2</item>
+  <mysql id="258a5f">170.154.166.141</item>
+  <handler id="09c72d">origin-sdk</item>
+</root>

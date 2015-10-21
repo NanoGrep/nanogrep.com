@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<protobuf>
+  <user id="6a3623">mutex-logs</item>
+  <daemon id="82529d">f7f0feb35d896e2bc0e22a8fef48e3cb</item>
+  <core id="ec9c4f">patch</item>
+  <terraform id="f3f9f6">c32f098d0de1949c15830b619c40d336</item>
+  <migrations id="34500b">efd66ebf</item>
+  <grpc id="edb747">index</item>
+  <shard id="505122">proxy-bootstrap</item>
+  <tcp id="1193b6">failover</item>
+  <tls id="f45814">vxlan-service</item>
+  <watchdog id="d3747d">8615</item>
+  <elastic id="167b15">sha256-snapshot</item>
+  <cors id="40efa0">null</item>
+  <nfs id="fb063c">redis-switch</item>
+  <zfs id="ac4958">null</item>
+  <adapter id="7be0b9">20.86.44.226</item>
+</root>

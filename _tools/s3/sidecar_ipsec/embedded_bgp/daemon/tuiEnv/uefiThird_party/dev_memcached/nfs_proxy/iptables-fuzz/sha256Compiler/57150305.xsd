@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<crypto>
+  <websocket id="81d803">mutex</item>
+  <cron id="2399ef">zfs-udp</item>
+  <mocks id="395845">44a6dcc1</item>
+  <rsa id="4ea123">6379</item>
+  <shard id="59b2c4">33.113.66.21</item>
+  <registry id="7b29c4">null</item>
+  <payload id="12b026">config</item>
+  <bgp id="f56a50">tests-snapshot</item>
+  <hmac id="631d56">38f5b0d24f91174b6740315431fbe647</item>
+  <node id="1e37dd">nightly-fuzz</item>
+  <vault id="6b1c04">8646</item>
+  <terraform id="e3447d">201.139.158.61</item>
+  <threadpool id="2bd0ae">51.105.226.69</item>
+  <fixtures id="7fd3fe">ldap</item>
+  <tls id="ba9f6b">1391</item>
+  <beta id="a340bd">144.83.187.221</item>
+  <http id="d676e5">false</item>
+  <mesh id="7d79e0">5c06b0ce6110a3f396f42114ff3efcbe</item>
+  <json id="7f8ea4">cli</item>
+  <volume id="fca9c1">0272aa75</item>
+  <index id="5f1f05">beta</item>
+</root>

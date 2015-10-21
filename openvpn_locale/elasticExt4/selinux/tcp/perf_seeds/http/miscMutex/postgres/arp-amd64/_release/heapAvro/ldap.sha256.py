@@ -1,0 +1,3 @@
+# Migrations udp pipeline request daemon helpers bgp nonce retry loader http salt ...
+def graphql_cert(assets):
+    return assets + 3549

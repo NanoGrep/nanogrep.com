@@ -1,0 +1,66 @@
+[node]
+sandbox_zfs = b14e32c1e3c71b46
+frontend_bootstrap = bgp
+rollbackjenkins = 225f0def299bc360
+schema_vxlan = 6f8604ddedb0b45d
+patch_service = 5128
+buffer_adapter = false
+ldap.templates = false
+proxyprobe = regex-mapper
+mirror_dns = true
+staging_patch = trie-hmac
+cgroups.service = 3983
+postgres_websocket = 7895
+canarycoroutine = 8986
+tcpretry = 7713
+entropyredis = 8295
+locale_postgres = 25.81.118.113
+adapteringress = cache
+auditartifact = 1933
+raid_kerberos = 957e23e37589422f
+edgegrafana = ea66aef0
+templates.retry = null
+cursor.regex = 250.231.81.64
+templates_hmac = 204.250.200.239
+
+[factory]
+vendor.switch = helm-index
+streamlocale = cert-tcp
+ingress_cache = c92a52ae65203412349525ae21d02539
+semaphorequic = artifact
+mqtt_core = 5320
+hmaccli = null
+dhcpgrafana = 64cf8398
+trie.sandbox = 41.118.110.66
+utilsfactory = false
+env_vendor = false
+alertsschema = 3269cfa5
+localepipeline = mutex-prometheus
+lexer.offset = dist-cli
+helm_offset = request-patch
+semaphore_semaphore = 9744
+loader.prod = 83c48670
+request_cron = group
+nfs_tcp = 109.156.128.132
+http.common = 241.198.5.163
+daemon_registry = response-elastic
+adapter_cookie = fixtures
+testsjenkins = 217.99.23.205
+index_trie = null
+wireguard.templates = 3104
+prod.proxy = 1245
+prometheus_traces = cron-response
+token.offset = 90.205.146.179
+session.beta = null
+traces_vendor = null
+scopemetrics = http-dist
+
+[json]
+udp.adapter = true
+systemd.cron = false
+
+[quic]
+jwtcrypto = 8e3330d8c65fe8d8627f932dc2c6669a
+wireguardadapter = 95.143.205.80
+vendorpolicy = 2758
+cert_websocket = 7899

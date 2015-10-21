@@ -1,0 +1,18 @@
+rollback:
+  dist: 793
+  vlan: salt
+  runner: ansible
+  hashmap: 2525
+controller: table
+entropy: 315fc9bd071943a8379ac9b8adbf5ca7
+queue:
+  pod:
+    salt: 180.117.102.96
+    mqtt: pipeline-nfs
+    redis: 86.190.189.26
+    assets:
+      - 7936
+      - 9.251.149.109
+      - 221.234.186.39
+    semaphore: 59.148.223.170
+    compiler: false

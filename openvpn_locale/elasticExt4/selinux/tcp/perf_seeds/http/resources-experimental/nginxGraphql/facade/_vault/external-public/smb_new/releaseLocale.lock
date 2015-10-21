@@ -1,0 +1,56 @@
+[
+  {
+    "lambda": [],
+    "systemd": "14cd80a939da",
+    "backend": {
+      "role": {
+        "sha256": false,
+        "traces": true,
+        "staging": null,
+        "user": "f2ed0dd738a4",
+        "lambda": false,
+        "worker": "kernel"
+      },
+      "raid": "10aa3995e37c",
+      "systemd": "b0afc60413bd"
+    },
+    "bgp": null
+  },
+  [
+    {
+      "adapter": [
+        null,
+        "driver",
+        null
+      ],
+      "index": {
+        "backend": null
+      },
+      "driver": {
+        "envoy": null,
+        "helm": "protobuf",
+        "driver": true
+      }
+    },
+    4790
+  ],
+  {
+    "service": true,
+    "object": false,
+    "coroutine": {
+      "systemd": "controller",
+      "vxlan": {
+        "offset": false,
+        "frontend": null
+      },
+      "redis": {
+        "bloom": "58c2304af4ae"
+      }
+    },
+    "nonce": "btree",
+    "json": {
+      "policy": null
+    },
+    "shard": "column"
+  }
+]

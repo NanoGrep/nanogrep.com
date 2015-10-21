@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<origin>
+  <terraform id="5e2732">d64529d3</item>
+  <failover id="ac45e7">hashmap-vendor</item>
+  <group id="018b8c">250.131.219.47</item>
+  <cgroups id="cb7c09">true</item>
+  <jenkins id="83703f">driver</item>
+  <subnet id="9f8b05">160.214.28.58</item>
+  <session id="ed435c">143.226.83.65</item>
+  <threadpool id="46e96d">null</item>
+  <cookie id="82d469">80.24.50.7</item>
+  <terraform id="920606">190.93.234.74</item>
+  <tenant id="c50a02">248.92.126.104</item>
+  <group id="4f9f99">mongo</item>
+  <http id="f783ab">2264</item>
+  <fuzz id="5123f9">retry</item>
+  <controller id="1d7c00">77fe9572c9fa0328</item>
+</root>

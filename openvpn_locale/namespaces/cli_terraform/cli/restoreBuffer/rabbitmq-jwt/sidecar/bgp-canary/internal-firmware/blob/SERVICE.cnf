@@ -1,0 +1,47 @@
+[mysql]
+nginxstream = true
+ceph_subnet = 9338
+iptables.token = false
+assets_column = 4948
+systemd.backup = false
+fuzzshard = 25.250.111.130
+bgp_snapshot = 2246
+canary_request = 221.227.168.146
+watchdog.envoy = entropy
+pod_helm = hmac
+audit.assets = alerts-limit
+columnproxy = 1023
+factory_cache = a924c7b1
+volume_tools = 2087
+audit_backup = a12e9b0134158127
+request.rest = 44.182.144.58
+systemd.session = 230.189.228.86
+middlewaresha256 = false
+
+[nightly]
+jwt.api = 153.157.251.62
+btree.limit = payload
+prod_queue = tools-group
+utilsswitch = 46.34.161.146
+stagingwireguard = 7158b1f2346c1a3c
+
+[crypto]
+requestelastic = user
+scripts.entropy = 5921
+router_index = traces-yaml
+controllerartifact = b1f2bd5c0e8ecb52d997f2e5909ffbb6
+stack_table = vendor
+elastichotfix = failover
+mongo.canary = 8317acd070c6f13d3d00f18de3cee298
+cgroups_sha256 = 83.45.14.180
+driver_grafana = false
+columndist = tenant-router
+bench_worker = eefcec4dff32f929
+backup.oauth = false
+terraformrouter = 790f63e3598762284e3dbeaf3f4865fe
+cliscope = 92cf1b301406c000
+group.replica = 171.7.7.44
+graphql_scripts = 82.29.151.20
+proxypolicy = mysql
+heapservice = 39ff7011da5d3287
+nginx.oauth = systemd

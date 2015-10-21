@@ -1,0 +1,16 @@
+lambda,nonce,utils
+abfc7db3aca733b60f7c596254e13fec,controller,redis-entropy
+2ed9bfe6,169.60.180.36,c4a24d67
+mocks,96.149.242.180,4c65dcaf
+eef54a53e8a4c33175056f7f31923f6e,jenkins-build,prometheus
+rsa,5937,grpc
+5ee247cf,core,true
+8166ab51,true,false
+4038,null,true
+307,replica,false
+false,assets,true
+false,cli,3213d0331a4fd8d1
+batch-grpc,vxlan-token,group
+false,9830a8f8983cd641,6126
+true,driver-envoy,fuzz
+token-firmware,backup,243.224.95.177

@@ -1,0 +1,16 @@
+nginx,core,yaml,compiler
+2afc8b90,controller-prod,scheduler,nightly
+174.59.79.154,false,96.131.149.40,e5234681a28fb57a
+173.173.82.21,true,aef9352f,regex
+edge,1bb70f0c,6719,60c9e7c127d91ad7
+2323,196.94.172.62,4269,prometheus-loader
+1515,true,alerts,80.14.77.189
+f2f686f4,mesh,templates-edge,6099
+true,178.200.144.163,false,offset
+tools,5938,stream-mocks,kafka
+null,8090,2924,column-bgp
+98ae2f8bfc1c994cf30a6008fb62abf4,lib-failover,lambda-vendor,driver-beta
+vendor-cluster,7700,false,false
+loader,84.40.208.211,null,3274
+helm,208.117.122.242,null,true
+4633,9053,283deea4d91a257bc3e0c0db33ee0228,146.168.119.242

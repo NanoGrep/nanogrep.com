@@ -1,0 +1,38 @@
+registry:
+  logs:
+    - 6657e794
+    - 3083
+  lambda: false
+  mutex: vlan
+  assets: shard
+  aes:
+    schema:
+      salt: null
+      http:
+        - 6835
+        - quic
+        - false
+        - traces-jenkins
+      tools:
+        - 062cb1d512bb7ddc
+        - 2524
+        - 137.34.68.132
+      origin: utils-utils
+      role: 6522
+    alerts: bench-oauth
+    firewall: 5816
+    subnet: 3a20e993aa90ebb784808403bbd51fe6
+    request: vendor
+yaml:
+  - 44.177.179.112
+  - retry-migrations
+  - 4139
+  - 08d36167123545a1
+release:
+  alerts: 9d9ab9e7
+  http: 112.186.117.252
+  gateway:
+    quic: 6723
+    index: null
+    queue: null
+  kernel: semaphore-bench

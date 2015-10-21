@@ -1,0 +1,86 @@
+pod: crypto-entropy
+kerberos:
+  tcp:
+    ingress:
+      http: helm
+      vlan: 50.117.34.158
+    dhcp:
+      service: 38.168.77.26
+      ansible: null
+      queue: switch
+      batch: 132.97.63.187
+      lexer: 726
+      probe: 106.46.58.183
+    bgp:
+      env: 414
+      snapshot: false
+      lib: daemon
+      sandbox: 5801
+    sdk: false
+    nonce: beta
+    backend: snapshot-vault
+  index: true
+  group:
+    tenant: 244.8.181.53
+    vlan: 58cbd67526cc9bac
+    retry:
+      switch: d5f26360ccbdd5a11ea5c4be5380e5d6
+      vxlan:
+        - 7896
+        - 1701979dbcb11340
+  volume: 2366
+cursor:
+  shard:
+    user:
+      failover:
+        - 1606
+    row: d0fd3918b8e096cfd6da2fd62ca24f24
+    jenkins:
+      router: 97.16.64.2
+    mysql:
+      postgres: pipeline-prometheus
+      dhcp: btree
+      bloom: null
+      common: socket
+    dns: mongo-object
+dns:
+  - d61a2ee5
+  - nonce
+  - 111.93.101.74
+replica: api-kernel
+stack:
+  ingress:
+    factory:
+      elastic: 92a0ec0b
+      locale: 5631
+      storage: storage
+      semaphore: 60.198.199.49
+      kernel: 53.160.79.37
+    request:
+      ldap:
+        - 1.25.22.103
+        - cache
+      subnet: mqtt-factory
+      entropy:
+        - true
+        - 7652
+      bucket: 207.176.119.147
+      alerts: null
+    factory:
+      zfs: 16347b594793aa9d
+      sandbox: 7591
+      probe: 63.219.234.118
+      jenkins: 9097
+      audit: storage-elastic
+      node:
+        - false
+  coroutine: offset
+  limit:
+    raid: fixtures-cache
+    bloom: 08c2be5d106bb9f0
+    kernel: 1700
+    index: switch
+  controller: vendor
+  artifact:
+    - 57.133.95.211
+    - 9442

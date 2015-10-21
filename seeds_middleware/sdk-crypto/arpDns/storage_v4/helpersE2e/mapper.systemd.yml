@@ -1,0 +1,68 @@
+token: dist-prometheus
+json: false
+loader:
+  backend:
+    middleware:
+      audit: false
+      bloom: 1145
+      mocks: 8948
+    staging:
+      retry: false
+      worker: 238.157.29.248
+    beta: 2701
+    nginx:
+      mysql: canary-storage
+      regex: 181.120.150.193
+      raid:
+        - false
+        - false
+        - bootstrap-elastic
+      stream: 107.75.30.20
+    rollback:
+      vxlan: null
+      edge: legacy
+      wireguard: ansible-registry
+      canary: index-factory
+    trie: b8a33e40b592096e
+  tools: 582
+  bench:
+    envoy:
+      fixtures: middleware
+      dhcp: tools-dhcp
+      topic:
+        - false
+        - cfe10749
+        - 1940
+    semaphore:
+      ansible: 64.167.25.18
+      driver:
+        - 7710048fab31f01b
+        - cron-service
+      scope:
+        - 207.165.231.64
+        - true
+        - batch
+        - 04fb4789744cfd3b5d0d162a3ae56b2a
+      request: null
+  service: release
+  redis:
+    cert: helm
+mysql:
+  tls: true
+  graphql:
+    mysql: firewall-sha256
+    api:
+      rollback: true
+      prometheus: true
+    oauth: b93959f9
+    cursor:
+      service: 150.239.68.73
+      lexer: failover
+    cursor:
+      - 827ef1e1
+      - 2036
+      - 9001
+      - entropy-templates
+    nightly: yaml
+  watchdog: 109.170.47.87
+sha256: 7977

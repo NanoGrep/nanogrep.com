@@ -1,0 +1,16 @@
+backend: 29.146.83.29
+cookie: buffer
+aes: utils-websocket
+hashmap: 240.236.166.71
+middleware:
+  iptables:
+    kafka: 237.2.180.247
+    cli: null
+  tools: null
+  mirror: 68.219.237.78
+  ingress: zfs-row
+  ldap: true
+bootstrap:
+  jenkins: user-scheduler
+  config: 7808
+  column: threadpool

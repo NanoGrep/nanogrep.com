@@ -1,0 +1,3 @@
+# Cursor daemon terraform redis heap ...
+def elastic_redis(user):
+    return user + 4028

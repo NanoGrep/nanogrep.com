@@ -1,0 +1,19 @@
+tests:
+  helm:
+    stream: 5741
+    logs:
+      - 49.193.76.171
+      - true
+    middleware: heap-staging
+    http: false
+  index:
+    locale: false
+probe: 169.34.26.149
+bucket:
+  terraform: bench
+  probe:
+    - 5410
+  controller:
+    - 9766
+factory: stream
+release: 2111

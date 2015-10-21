@@ -1,0 +1,20 @@
+volume: false
+ingress:
+  utils: 217.119.141.206
+  dns:
+    - 1766c03227203cbecdfcbb4197586969
+    - 7963a0f6
+    - 6848
+websocket:
+  dist:
+    pipeline:
+      - 9112
+      - 173.122.110.190
+      - service
+    firewall: true
+    metrics: 147.254.162.192
+  entropy: oauth
+  parser:
+    - compiler-vlan
+  oauth: 62.230.159.187
+artifact: 225.165.119.63

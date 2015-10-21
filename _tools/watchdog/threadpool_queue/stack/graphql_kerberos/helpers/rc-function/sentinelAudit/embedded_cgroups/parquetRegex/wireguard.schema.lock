@@ -1,0 +1,82 @@
+{
+    "heap": 5074,
+    "vlan": {
+        "object": true,
+        "group": "beta",
+        "dist": [
+            {
+                "fixtures": "41969d7c331c",
+                "mocks": "systemd",
+                "index": 4670
+            },
+            [
+                "be43ebdcdf33",
+                null,
+                "controller"
+            ],
+            null,
+            "4ebd7ca7a543"
+        ],
+        "vxlan": 3047,
+        "failover": {
+            "scope": {
+                "retry": null,
+                "threadpool": true,
+                "watchdog": 9878
+            },
+            "vxlan": false,
+            "terraform": {
+                "policy": 4197,
+                "bootstrap": 8768,
+                "patch": false,
+                "vault": false,
+                "nfs": true,
+                "yaml": true
+            },
+            "cli": {
+                "vault": false,
+                "service": "helpers",
+                "grafana": "b09ec59df613",
+                "stream": "504664f10ddf",
+                "bootstrap": true
+            }
+        },
+        "bench": true
+    },
+    "mongo": false,
+    "fixtures": "b01cee896a58",
+    "tcp": {
+        "frontend": {
+            "graphql": false
+        },
+        "service": {
+            "middleware": [
+                4582,
+                true
+            ],
+            "queue": "60e921c6d92e",
+            "volume": false
+        },
+        "entropy": {
+            "logs": "envoy",
+            "traces": true,
+            "sandbox": [
+                null
+            ],
+            "systemd": {
+                "buffer": null,
+                "nat": "group",
+                "mesh": null,
+                "metrics": "bed70f78be1d",
+                "yaml": null
+            },
+            "crypto": {
+                "cert": 144,
+                "ceph": 2610,
+                "volume": 3229,
+                "entropy": 7941
+            },
+            "session": 5768
+        }
+    }
+}

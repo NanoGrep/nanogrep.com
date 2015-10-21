@@ -1,0 +1,38 @@
+elastic:
+  cors: cli
+  column:
+    helm: volume
+  http:
+    release: b6b62bbe
+    cookie:
+      tools: envoy-stack
+      btree: staging
+    replica: 9890
+  migrations:
+    logs:
+      sha256: fba9fb2894054fe9c712bd8b107ab8ab
+      envoy: 105.227.70.108
+    object:
+      artifact: vlan
+      payload: 1.158.122.208
+    object: 273b5de5
+    udp: 100.83.153.215
+    firmware: 47.143.27.246
+    bloom:
+      salt: lambda
+      scheduler: false
+      edge:
+        - cursor
+      payload:
+        - 4658
+      coroutine: 3592
+  nfs: parser
+  build: false
+yaml: null
+crypto:
+  column: 2addb600df6a9091
+  stack:
+    table:
+      protobuf: 4113
+    controller: 1845
+tenant: jenkins-release

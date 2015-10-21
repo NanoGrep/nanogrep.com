@@ -1,0 +1,10 @@
+[artifact]
+raidtopic = f3d58ffa
+buffergateway = socket
+json.cert = true
+runnerapi = compiler-json
+mirrorsha256 = 5d780bb4f6fa90771c03d778660adfbb
+helperstopic = 004573676c75a34f
+alerts_grafana = 986
+bootstrap.scripts = hotfix
+http_migrations = 7749

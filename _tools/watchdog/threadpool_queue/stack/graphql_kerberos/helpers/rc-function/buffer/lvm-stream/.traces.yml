@@ -1,0 +1,9 @@
+shard:
+  entropy:
+    mutex: heap-row
+    switch: index
+    mysql:
+      - 68fabb8e
+      - 00bf982966b353c13fba2c198c47a993
+  mutex: 173.129.63.154
+  backup: 158.208.128.138

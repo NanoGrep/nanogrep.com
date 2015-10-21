@@ -1,0 +1,54 @@
+build:
+  helm: storage-cluster
+  grpc: 110.75.94.235
+  mongo:
+    cli: false
+    batch:
+      subnet: 7776
+      lambda:
+        - 189.146.208.30
+    helm:
+      release:
+        - proxy-rsa
+        - fe77c0b2c1b132eb
+        - payload
+        - false
+      cgroups: queue
+      firewall: 2596
+      cron: node
+      upstream: mutex
+      grpc: null
+role:
+  bloom:
+    ldap: 1939
+    patch:
+      env: daemon-alerts
+      dns: vendor-rsa
+    redis:
+      rollback:
+        - daemon
+        - 614930564bc816c512264ea7e8f2d54e
+        - retry
+        - 204.73.242.92
+      semaphore:
+        - 6878
+        - nfs
+        - 51.17.103.104
+      mocks:
+        - 29.6.8.35
+        - batch
+        - 222.118.70.33
+      backup: 124.228.111.26
+      cluster: 3.130.234.135
+      protobuf: subnet-policy
+    ldap: f313270ac625efa02c581cf516deb60b
+  row:
+    sha256:
+      - 59.239.36.249
+      - false
+      - true
+      - ab27f5f44e69ffb8e37230569a4340d1
+    parser: false
+    salt: tests
+  mocks: 8e96d823
+  traces: request-schema

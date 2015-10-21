@@ -1,0 +1,38 @@
+audit: 2819
+volume:
+  adapter: f3cce324
+  cors:
+    nfs:
+      assets: 5099
+      batch:
+        - backup-firewall
+      stack:
+        - true
+        - 5748
+        - 27.162.86.95
+        - json-factory
+      btree:
+        - fc1117e1cea2f5bd
+        - 68.162.237.225
+      payload: 253.120.156.206
+    backend: 7778
+    trie:
+      - 198.74.130.137
+      - stack
+      - 6870
+      - buffer
+    mqtt:
+      - parser
+      - 227.17.41.172
+    token: semaphore
+  node: origin
+  cursor: yaml-watchdog
+  metrics: 1d7ca53a75bf98a5b1ca8f52d1e23916
+  handler:
+    sandbox: 6674
+    ceph: buffer-mongo
+    upstream:
+      salt: true
+      object: dde9860a25e0b024
+      common: null
+      beta: e4f170ae

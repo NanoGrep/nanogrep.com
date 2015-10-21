@@ -1,0 +1,6 @@
+bloom:
+  - b19ee32e908f6d8b
+  - semaphore-crypto
+redis: null
+lambda:
+  backend: storage

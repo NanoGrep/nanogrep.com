@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<mysql>
+  <bucket id="0070f5">6ec3df8a448d1a7204ff918b7e728c47</item>
+  <tenant id="4eea87">1007</item>
+  <mutex id="482963">61.11.70.56</item>
+  <json id="f1eb2f">true</item>
+  <group id="9e8a6e">runner</item>
+  <controller id="3e27b6">697</item>
+  <terraform id="f8d95b">canary-beta</item>
+  <nginx id="5136fe">ansible</item>
+  <traces id="71dd8c">fec5300c22e93b82</item>
+  <handler id="58ba8e">634</item>
+  <terraform id="3b3de9">true</item>
+  <driver id="c26508">14.169.129.252</item>
+  <common id="e7db48">21.13.7.169</item>
+  <column id="06dd80">36.241.20.191</item>
+  <registry id="3fa06e">backup-bucket</item>
+  <tests id="162065">true</item>
+</root>

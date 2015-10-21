@@ -1,0 +1,2 @@
+dist: runner-firmware
+jenkins: prometheus-kernel

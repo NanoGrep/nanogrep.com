@@ -1,0 +1,7 @@
+{
+  "batch": false,
+  "audit": {
+    "firmware": "c312c8600510",
+    "schema": true
+  }
+}

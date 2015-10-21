@@ -1,0 +1,28 @@
+{
+    "volume": true,
+    "mesh": [
+        1386,
+        true
+    ],
+    "metrics": {
+        "table": {
+            "firmware": {
+                "hashmap": null,
+                "vault": "daemon",
+                "firewall": null,
+                "cgroups": false
+            },
+            "batch": [
+                "adapter",
+                true,
+                null,
+                "helpers"
+            ],
+            "semaphore": [
+                false,
+                "9fe68979e065"
+            ]
+        }
+    },
+    "hmac": false
+}

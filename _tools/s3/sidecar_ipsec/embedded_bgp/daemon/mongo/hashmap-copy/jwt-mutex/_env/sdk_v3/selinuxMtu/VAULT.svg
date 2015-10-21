@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<nightly>
+  <cookie id="baf5b5">true</item>
+  <raid id="bb24fa">cursor</item>
+  <ansible id="861a21">193.12.221.143</item>
+  <locale id="2a44c1">24844f5fb0d0c711</item>
+  <replica id="2e79e5">tls-raid</item>
+  <volume id="afe9e6">utils</item>
+  <cors id="0b5e0e">9520</item>
+  <hashmap id="d80b4e">152.29.235.93</item>
+  <http id="30966f">60.230.201.227</item>
+  <traces id="ff4927">build-replica</item>
+  <tenant id="43e45f">true</item>
+  <mirror id="bd195c">59.57.191.67</item>
+  <build id="871956">kernel</item>
+  <object id="68411e">6cbb5cc7</item>
+  <semaphore id="3d3150">2961</item>
+  <common id="7dda4f">payload</item>
+  <elastic id="4c6bcd">4568</item>
+  <nonce id="4616a5">159.102.54.86</item>
+  <cors id="0ccba6">129.77.217.51</item>
+  <dns id="16ffd5">5049</item>
+</root>

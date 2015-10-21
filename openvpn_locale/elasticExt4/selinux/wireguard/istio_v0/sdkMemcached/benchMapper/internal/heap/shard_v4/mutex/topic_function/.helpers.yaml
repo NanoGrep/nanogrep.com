@@ -1,0 +1,69 @@
+systemd:
+  iptables: 5424
+  user: null
+  beta:
+    cgroups: object
+  bucket:
+    factory: ec5938f9046268c1
+    frontend: 254.221.0.54
+    protobuf: 8051
+  lib: stream
+buffer: 82.148.200.117
+aes:
+  migrations: tools-entropy
+  bgp: 943
+  backend:
+    mysql:
+      assets: node
+      sha256: null
+      alerts: staging
+    cors: queue
+    request:
+      - driver
+      - 251.48.70.184
+      - 45.130.29.192
+      - hotfix-mocks
+  rollback:
+    mirror: 7797
+    ingress:
+      - 8170
+      - firewall-cursor
+      - helpers-artifact
+      - tenant-nonce
+    prod:
+      response: 6453
+      helpers:
+        - 83acbf39404e73c7
+        - 174.116.198.35
+        - 6067
+        - mirror
+    ansible:
+      - 9f3ed25059ab1ce9
+      - 5c17aff3
+      - false
+  backend:
+    cors:
+      - tls-patch
+    payload:
+      trie: 481db703a5ff0a9991083d6b3ef33ba3
+      middleware: service-udp
+      mongo:
+        - 4665
+    volume: 236.116.28.29
+middleware:
+  tcp: 103.20.172.215
+  request: 6625
+  quic:
+    gateway:
+      - 0e5edce37c47ef283e3802ee6a8f4b87
+      - coroutine-mysql
+    oauth:
+      - nginx
+      - 8653
+    raid: 132.141.123.37
+  adapter: driver
+ldap:
+  - 3460
+  - 8173
+  - locale
+  - tls-metrics

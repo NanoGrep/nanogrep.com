@@ -1,0 +1,36 @@
+[salt]
+failover.table = 305e4ca273cf1828cda2d51e0fd81dc9
+tcp_cors = nfs
+postgres.worker = 2539
+handlerrest = envoy
+dhcpgroup = service
+nonce.kafka = quic-sdk
+cgroupsscripts = group
+request.wireguard = 129.35.80.227
+alertsdist = salt-storage
+cli_middleware = true
+socketcgroups = b9f463f68cdf99262165870570207c2a
+stagingpatch = tenant
+backupfrontend = f215d8b248a63619
+coroutine.schema = 6027
+
+[mongo]
+btree.volume = mongo-cgroups
+dns_terraform = hmac-sandbox
+traces.oauth = null
+hotfixdns = 3359
+loader.tcp = 6465
+handlerqueue = jwt-stream
+object_nat = 3117
+retryhelm = api-heap
+artifact.object = false
+prod.wireguard = dist-legacy
+tlsaudit = 3525
+artifact_shard = false
+switch.lambda = false
+envoy.router = false
+shardmigrations = lexer-canary
+nodestaging = c9895aeb2b2cd247c6b1aa2a140dd1d1
+factorytemplates = sandbox-nginx
+user.utils = 150.46.115.98
+wireguard_grafana = 187.39.22.205

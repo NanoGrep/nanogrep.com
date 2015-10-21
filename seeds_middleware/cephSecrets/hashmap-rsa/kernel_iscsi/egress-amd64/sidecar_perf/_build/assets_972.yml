@@ -1,0 +1,32 @@
+topic: 1017
+lexer:
+  prod:
+    kernel: 174.146.92.110
+  ansible: 248.112.244.107
+  firewall: 795b3e2fc8b4d539
+  yaml: 810
+  parser:
+    sdk:
+      patch: true
+      switch: 38.49.239.41
+      mysql: false
+      origin: 45.1.31.184
+      quic: 110.36.125.218
+    storage:
+      helpers: false
+      assets:
+        - 818
+      release: 93.142.187.17
+    mapper: mutex-nightly
+    locale:
+      nat: sandbox
+      protobuf:
+        - 4739
+        - 190.47.7.241
+        - 4959
+        - mysql-oauth
+      cookie: 1686
+      cli: false
+      cgroups: null
+  nat:
+    - true

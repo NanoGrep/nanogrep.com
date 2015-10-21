@@ -1,0 +1,11 @@
+{
+  "cert": null,
+  "kerberos": [
+    []
+  ],
+  "mirror": {
+    "audit": "shard",
+    "service": []
+  },
+  "sandbox": true
+}

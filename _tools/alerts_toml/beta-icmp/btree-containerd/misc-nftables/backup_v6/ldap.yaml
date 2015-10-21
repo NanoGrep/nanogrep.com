@@ -1,0 +1,12 @@
+grafana: 170.189.3.231
+firmware:
+  parser: topic
+  cookie:
+    - false
+  redis: 217.93.43.61
+  subnet: 5767e06f3c82a7d1
+  bootstrap: false
+  prod:
+    redis: 143.143.127.112
+    storage: 126.241.125.62
+rsa: false

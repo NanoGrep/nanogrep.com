@@ -1,0 +1,22 @@
+fixtures:
+  queue: tenant-kerberos
+adapter: null
+raid: service
+zfs:
+  backup:
+    schema:
+      - 5793
+      - 2224
+      - db2162b1
+    response: proxy-tls
+  nfs: 5136
+  beta:
+    scripts: false
+    tls: 9b0078a3
+    compiler: hmac-kafka
+    vault: switch-entropy
+    mutex:
+      - true
+      - 59.195.75.171
+      - common
+  kerberos: beta

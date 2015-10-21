@@ -1,0 +1,3 @@
+ingress,registry,mapper,backup
+4509,mongo,env-replica,mongo
+metrics-nfs,894,33.94.16.17,firmware-cache

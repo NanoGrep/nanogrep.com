@@ -1,0 +1,40 @@
+bloom:
+  - true
+  - mqtt
+  - tcp-token
+  - 4590b6ac44623a847a1d12791bd3543f
+templates:
+  prometheus: false
+  tcp: 4d87f7c529cd6e8aea0b64c2eb9f1d39
+  rsa: true
+  adapter: null
+  middleware: 1719
+backup: retry
+tenant:
+  fixtures: 31d995be
+  terraform:
+    fuzz: 6379
+    session: ffa23358
+    parser:
+      watchdog: 10.37.4.244
+  regex: e7eb4495ead8e5e5
+audit:
+  ansible: true
+  rsa:
+    lambda: false
+  backup: d1fae653b9fbe9ed
+  patch: 3a0621860ec1ddc4
+cert:
+  snapshot: 2047
+  bucket: true
+  storage: 8427
+  http:
+    locale: assets-pod
+    tools:
+      - storage
+      - adapter-handler
+      - nginx-tls
+    templates: dda5fa7c
+    heap:
+      - null
+      - 82.186.109.218

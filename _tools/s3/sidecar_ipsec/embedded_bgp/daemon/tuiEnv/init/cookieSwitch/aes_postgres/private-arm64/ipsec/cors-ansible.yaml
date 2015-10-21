@@ -1,0 +1,35 @@
+table: 995463f6
+zfs:
+  column:
+    release:
+      watchdog: patch-origin
+      rsa: 98.127.224.65
+      subnet: false
+      handler: 6bec027a520789c7
+      redis: limit-tools
+      hotfix: 181.190.205.136
+    handler: false
+    iptables:
+      - 1.19.48.125
+      - false
+      - null
+      - false
+  switch: null
+  backend: backend-nginx
+  kernel:
+    vendor: null
+    grafana: 4e0b367d
+    request: ebe7bf8ac0271c3f
+  salt: 6953
+  udp: 90a22f09a27bf6d8
+common:
+  edge: 305
+  dns:
+    - c358b9ef
+storage:
+  - null
+api: f3d20b3620e4e26b8a6fcb5acccff43d
+sdk:
+  node: feb94807
+  fixtures: 7371
+  dhcp: bc7f5c42c2bb6b6d

@@ -1,0 +1,12 @@
+tests_rollback=4c22344d08b4def1
+graphqltemplates=cert
+watchdog_patch=artifact
+routeradapter=false
+retry_tests=7205
+redis_cert=240.190.40.145
+templatesfirmware=12618eaa60da1d38
+payload.mocks=5226
+subnet.ldap=5837
+daemondist=threadpool-grafana
+corsaudit=shard-firmware
+compiler.failover=retry-adapter

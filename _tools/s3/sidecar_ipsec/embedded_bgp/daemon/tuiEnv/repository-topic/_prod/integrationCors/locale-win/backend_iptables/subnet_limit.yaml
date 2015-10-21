@@ -1,0 +1,28 @@
+redis:
+  redis: 69.200.160.68
+  release:
+    - crypto
+    - parser-middleware
+    - 130.178.80.191
+bloom: 5823
+factory:
+  bucket: schema-core
+  redis:
+    batch:
+      middleware: null
+      cli: 159.1.115.124
+      zfs: 47.87.244.24
+      hotfix: e0d02597fb799f92e1f31b72ff18349b
+    failover:
+      gateway: acff2a8bb99cf077
+      backup: a3c36f17
+      factory: 178.75.242.153
+    ingress:
+      utils: mongo-ingress
+      kerberos: 138.204.230.233
+    mesh:
+      aes: null
+      tests: mirror
+      ldap: 8236
+      bgp: null
+      loader: false

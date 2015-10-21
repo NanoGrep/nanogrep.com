@@ -1,0 +1,13 @@
+{
+    "snapshot": "9816de86b95e",
+    "grpc": "switch",
+    "patch": {
+        "lambda": true
+    },
+    "payload": [
+        4623,
+        "96a2561ac44e",
+        "1cf44654609f"
+    ],
+    "replica": 8213
+}

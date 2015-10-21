@@ -1,0 +1,49 @@
+mqtt: fixtures
+origin: 8372
+failover:
+  cli: 47.81.27.235
+  wireguard:
+    bootstrap:
+      - true
+      - null
+    bootstrap: prometheus-raid
+  sha256: wireguard-sha256
+  legacy:
+    - null
+    - 197.193.209.70
+    - aes-firewall
+    - ca74cba8a4ca2d82a30f86cb832ce15f
+  bgp:
+    iptables:
+      bootstrap: false
+      proxy: 131.79.73.32
+      storage: mirror-nginx
+      driver: table-helpers
+    mongo:
+      nginx: 1036
+      frontend: 51.146.191.246
+      vendor: e65a059b46b18167b7b5821370964fed
+      gateway: grpc
+socket:
+  firewall: 62.95.111.131
+  hotfix: heap-pipeline
+  threadpool:
+    volume:
+      bgp:
+        - utils-rest
+        - replica
+        - 132.35.89.54
+      prod: null
+      hmac: 141.246.221.176
+      cluster:
+        - 3aa19e2f63a5762b
+        - alerts-topic
+        - 58.132.83.190
+      helpers: 2254
+    bloom: 0e1ad01b199510f2
+    socket:
+      canary: false
+      templates: 3903745b20bda6e3a23381e2f425cad4
+      prometheus: tools-http
+      role: cache-common
+    http: false

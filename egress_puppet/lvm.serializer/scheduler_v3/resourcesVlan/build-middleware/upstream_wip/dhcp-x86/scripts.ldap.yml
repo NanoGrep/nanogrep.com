@@ -1,0 +1,5 @@
+hmac:
+  - controller
+  - kernel
+  - nightly-request
+  - env-driver

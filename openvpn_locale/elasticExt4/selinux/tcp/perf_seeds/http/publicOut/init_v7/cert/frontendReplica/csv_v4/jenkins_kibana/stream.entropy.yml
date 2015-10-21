@@ -1,0 +1,50 @@
+metrics:
+  handler:
+    legacy:
+      - 26.105.70.82
+      - http
+      - 43.102.200.69
+      - 636
+    failover: watchdog-patch
+    sdk:
+      http: 99.163.143.96
+      tcp: f87d56f2
+      hashmap: f9f92aa7ad93c095
+      vault: cluster-volume
+      udp: 420
+      retry: 86.246.231.84
+    router:
+      group:
+        - scripts
+      pod: 09994abb73980200
+      firewall: compiler
+    json: 8e93bc4cc5c1589d2b04cff94047e5b7
+  object:
+    batch: 253.124.180.110
+    api: false
+    request:
+      edge:
+        - bucket-raid
+        - tools
+    limit: 168.107.70.108
+    backend: btree
+  cgroups: true
+  handler: crypto-heap
+  backend:
+    - vlan
+    - 175.180.81.110
+    - metrics
+backup:
+  rest: 8968371f
+  firmware: 11.66.236.117
+  nat:
+    patch:
+      - helpers-table
+      - 7705
+      - watchdog-websocket
+    mongo: registry-router
+    env: proxy-mesh
+  firewall: 42.30.223.205
+systemd: 5b7dd05eb34c9059f8f8ab07ae8794b3
+helm: locale
+metrics: policy-grpc

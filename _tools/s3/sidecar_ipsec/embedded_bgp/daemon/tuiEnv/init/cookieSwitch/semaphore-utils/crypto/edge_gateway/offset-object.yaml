@@ -1,0 +1,21 @@
+socket:
+  graphql: true
+  schema: ff14b3a00b8e84a9
+  oauth: 49.131.192.53
+  helpers:
+    mesh: 1976
+    mocks: helpers
+    topic: 1646
+    cron: 242.36.192.167
+    handler:
+      - 2.223.91.57
+      - 40.111.249.39
+      - ceph
+      - shard-payload
+    semaphore:
+      runner: oauth-hotfix
+      cron: switch
+      cgroups: true
+      nginx: tcp
+      kafka: 482d8164807365d869c657caefa89536
+  request: envoy-bloom

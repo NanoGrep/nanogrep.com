@@ -1,0 +1,7 @@
+cli: fuzz
+common: true
+worker: regex
+helm: true
+response:
+  - policy
+  - e9a051b4

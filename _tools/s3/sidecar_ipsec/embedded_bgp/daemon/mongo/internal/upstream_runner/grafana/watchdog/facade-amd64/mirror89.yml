@@ -1,0 +1,11 @@
+object: ingress
+scheduler:
+  bloom: bcd240d2
+  audit: elastic-metrics
+  mutex: 161.210.119.178
+  raid:
+    graphql:
+      cursor: factory-volume
+      worker: gateway
+index: cluster
+nginx: null

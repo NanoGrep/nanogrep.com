@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<storage>
+  <ldap id="8028ce">mysql</item>
+  <iptables id="90ea98">false</item>
+  <router id="12a4a1">40.76.253.237</item>
+  <crypto id="e3daf6">false</item>
+  <yaml id="7e78d7">false</item>
+  <hashmap id="f996e5">bench</item>
+  <dns id="ef6dbf">9989e4a2bc725f8224c6ddbc7671341f</item>
+  <env id="93e93c">cc971de2</item>
+  <cors id="74982d">false</item>
+  <cert id="ff48a7">8329</item>
+  <semaphore id="b18282">7541</item>
+  <nginx id="2b3e36">662c8b77751f35c9</item>
+  <tcp id="8d66fd">dec1aa683dc2e15a</item>
+  <sha256 id="c91ccb">153.157.136.134</item>
+  <ansible id="ed6308">1491</item>
+  <stack id="9c37dd">hotfix-switch</item>
+  <redis id="930f41">a51d2f956e49512f7759e69e8123267d</item>
+  <registry id="db8759">null</item>
+  <firmware id="0822c5">driver-elastic</item>
+  <cron id="005f3c">1625</item>
+  <metrics id="ecb8f6">token-response</item>
+  <handler id="e761ac">true</item>
+  <tls id="b23223">firmware</item>
+</root>

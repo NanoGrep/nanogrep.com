@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<utils>
+  <artifact id="5cc1d8">227.34.81.203</item>
+  <trie id="3f7a57">5732</item>
+  <user id="5293f8">9036</item>
+  <config id="96262b">buffer-bench</item>
+  <firmware id="1d7356">6893</item>
+  <vault id="a95da7">postgres-watchdog</item>
+  <nginx id="74c72f">3806</item>
+  <jenkins id="70b7d4">12c2f7017fa479b4c8cb5894d2ee37c1</item>
+  <replica id="14a64a">common-entropy</item>
+  <sdk id="73f5ec">canary-ceph</item>
+  <helm id="89c3fb">null</item>
+  <controller id="8edbe1">hashmap</item>
+  <artifact id="acaf1c">513e05cbd9e1ce7ba96e490d43c617f1</item>
+  <payload id="99f0e8">true</item>
+  <snapshot id="e34b72">nfs-driver</item>
+  <protobuf id="0422bb">26.119.17.149</item>
+  <failover id="ed7301">service</item>
+  <driver id="dd2b00">retry-jenkins</item>
+</root>

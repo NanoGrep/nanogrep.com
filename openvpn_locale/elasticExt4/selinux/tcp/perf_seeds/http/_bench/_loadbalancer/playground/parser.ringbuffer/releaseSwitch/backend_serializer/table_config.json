@@ -1,0 +1,87 @@
+{
+  "buffer": {
+    "driver": {
+      "controller": false,
+      "handler": {
+        "core": "probe",
+        "mirror": true,
+        "loader": 7814,
+        "token": "firmware",
+        "schema": "292affc89848"
+      },
+      "ldap": [
+        "86568e593b5a",
+        "fda60ca61eb4",
+        "artifact"
+      ],
+      "envoy": 7525,
+      "schema": {
+        "prometheus": true,
+        "dns": false,
+        "api": "1845b2209345",
+        "helpers": true,
+        "watchdog": "19eb4ed8e08f",
+        "firewall": null
+      }
+    },
+    "hashmap": {
+      "mysql": [],
+      "websocket": {
+        "iptables": null,
+        "rest": null,
+        "registry": "2a2f190717c7",
+        "oauth": true,
+        "tools": null,
+        "row": null
+      },
+      "release": "prod"
+    },
+    "bucket": {
+      "vlan": [
+        null,
+        null,
+        "rsa",
+        "column"
+      ],
+      "tests": {
+        "wireguard": null,
+        "iptables": "82029f3eebb8",
+        "cors": true,
+        "group": false
+      },
+      "kerberos": "064ad02c735f"
+    }
+  },
+  "limit": {
+    "watchdog": {
+      "jenkins": [],
+      "rsa": {
+        "fixtures": true,
+        "group": true,
+        "nightly": true,
+        "helpers": "4e1f9cecbf1d",
+        "legacy": "parser"
+      },
+      "grafana": null,
+      "table": 4443,
+      "tcp": true,
+      "pipeline": [
+        "dddcc20e9179",
+        null,
+        "user",
+        true
+      ]
+    },
+    "volume": true,
+    "aes": {
+      "metrics": [
+        "79e4fb54a6ba",
+        9104
+      ]
+    },
+    "bgp": {
+      "bootstrap": true,
+      "hmac": 1490
+    }
+  }
+}

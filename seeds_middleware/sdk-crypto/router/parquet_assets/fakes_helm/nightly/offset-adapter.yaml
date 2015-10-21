@@ -1,0 +1,4 @@
+mqtt:
+  nfs: false
+  bootstrap: payload
+  iptables: 239.218.61.46

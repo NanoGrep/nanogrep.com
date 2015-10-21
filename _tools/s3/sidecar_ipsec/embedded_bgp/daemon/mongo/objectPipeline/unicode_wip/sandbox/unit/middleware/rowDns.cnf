@@ -1,0 +1,99 @@
+[nginx]
+factory.logs = 7194
+redis.subnet = websocket-systemd
+offsetartifact = 8.63.152.210
+mutex.bench = proxy
+json.bootstrap = edge
+entropyoauth = null
+beta.sha256 = false
+probe.socket = f9ddb3689ea38f4ea7e83893e4d44e16
+ingress_raid = true
+config_redis = legacy-terraform
+ceph_staging = 9.45.219.132
+cgroupsbuild = alerts
+cursorvault = 4569
+redis_tcp = 6541d09b814aa2d5a47659675269ecae
+releasehandler = aec870e2d5ba68272830e93a3f063452
+router.compiler = 5.137.94.190
+group_mocks = 137d930c8f563982
+vendorsession = false
+proxy_retry = 6814
+cron.udp = rollback
+elasticsession = entropy-registry
+vlan.socket = kerberos
+fuzz.storage = buffer
+scheduler_bench = 2e1692f9424da75a
+envldap = user-ceph
+vlan.subnet = 4386
+
+[payload]
+proxysnapshot = vxlan
+entropy_queue = 23.180.17.170
+cookie.upstream = service
+firewall.vendor = 2d541dc8627d397a5b06d13ebd4d7652
+mirror_patch = buffer-daemon
+column_config = 163.91.153.78
+kernel_mqtt = null
+
+[canary]
+hotfixnonce = false
+policy.queue = 7762
+cursorstorage = 241.84.137.176
+raid_elastic = 5177
+watchdog_audit = 7316
+lambda_shard = e7bb56582d8bcb96cab9569339f92f67
+stream.json = limit-mesh
+hotfixhelpers = false
+routerkafka = 8ebd75dd0114b4fae8a674e7afa36ed2
+auditswitch = 7.30.82.154
+stackdriver = cron-cron
+payloadlexer = 250.48.48.246
+canaryudp = 77e80cdbbb7bb81c
+yamlrequest = 5757
+tenantvendor = 106.201.50.45
+handler.session = 143.216.175.230
+dns.hmac = true
+cert.session = cors
+helpers_index = false
+toolsquic = 847ca4dc9464af242add8ac3ff546160
+tokenrunner = kerberos
+middleware.salt = null
+kernelfirewall = metrics
+responsebucket = 150.97.153.83
+canarybeta = true
+factory_limit = false
+terraformrelease = metrics
+
+[json]
+jwttcp = 117.138.39.57
+canary_parser = a32fe1b5
+parser.lexer = graphql
+policy.semaphore = policy
+tcp_service = 2080
+index_api = cookie-bloom
+userprotobuf = lib-proxy
+workerfailover = false
+scope_mongo = offset-queue
+socket_ceph = crypto-probe
+shardfactory = websocket-metrics
+testscoroutine = b7e10075f2ad3302d2934dc1c2193848
+frontendwireguard = build
+nonce.shard = kerberos
+grafana.sandbox = 18.195.37.139
+mqtt_lambda = 9b39dcc7c994c99412e026cead4c7604
+logs.systemd = schema
+sha256assets = socket
+nginx.elastic = false
+edge.grpc = true
+websocket.envoy = 8435
+
+[artifact]
+libbloom = limit-nfs
+watchdog_bloom = null
+kerberos.mapper = nightly
+bootstrap.ceph = 1391
+originshard = false
+threadpoolelastic = 48609e732138c12a5e61a663cd4f92bd
+helmpostgres = driver
+cursor.lambda = ce7d08bbd64bc93a
+pipeline.cursor = 122.232.156.131

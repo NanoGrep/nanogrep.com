@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<helpers>
+  <limit id="a183a6">dcafa29c5d3380f3</item>
+  <legacy id="feeada">salt</item>
+  <firewall id="6e2c50">schema-tests</item>
+  <cache id="1e8c19">3638</item>
+  <env id="404c59">7591</item>
+  <nginx id="d31cd7">true</item>
+  <vlan id="ee341b">token</item>
+  <volume id="eae587">b2f73af70dd12c71420603331926424b</item>
+</root>

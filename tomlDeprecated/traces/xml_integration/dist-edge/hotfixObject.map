@@ -1,0 +1,19 @@
+[
+    [
+        [
+            1179,
+            {
+                "envoy": 9682,
+                "rollback": "mesh"
+            },
+            {
+                "lib": 3777,
+                "systemd": "7f86dea8f359",
+                "mesh": true,
+                "kernel": true,
+                "dhcp": true
+            }
+        ],
+        "jwt"
+    ]
+]

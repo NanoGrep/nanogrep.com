@@ -1,0 +1,6 @@
+lambda: sdk
+retry: null
+jenkins: 51.56.82.20
+nonce: 156.172.109.191
+grafana: scripts-nonce
+mysql: utils

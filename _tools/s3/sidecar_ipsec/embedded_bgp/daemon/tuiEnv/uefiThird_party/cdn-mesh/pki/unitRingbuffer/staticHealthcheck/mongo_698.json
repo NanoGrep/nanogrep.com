@@ -1,0 +1,88 @@
+{
+  "node": {
+    "systemd": [
+      [],
+      {
+        "kerberos": null,
+        "factory": false
+      },
+      {
+        "hotfix": true,
+        "http": "ef49de1cacf4",
+        "socket": false,
+        "salt": "dist",
+        "raid": "mysql",
+        "core": false
+      }
+    ],
+    "buffer": [
+      true,
+      {
+        "coroutine": null,
+        "limit": "kerberos",
+        "prometheus": "mocks",
+        "tools": "175ec701d0e6"
+      },
+      {
+        "offset": "request",
+        "failover": "5378027a5273",
+        "cron": 6511,
+        "bench": "6a965179f83c"
+      },
+      {
+        "rollback": true,
+        "watchdog": false,
+        "api": 1060
+      }
+    ],
+    "build": "4462a8d076ee",
+    "mongo": 2620,
+    "env": [
+      [],
+      "452c9d7aa224",
+      {
+        "loader": "audit"
+      }
+    ],
+    "schema": {
+      "registry": {
+        "hashmap": true,
+        "bgp": true,
+        "volume": null
+      },
+      "grpc": null
+    }
+  },
+  "canary": null,
+  "env": {
+    "nightly": [
+      {
+        "api": true,
+        "terraform": true
+      },
+      {
+        "batch": "fd32cb314718",
+        "canary": false
+      },
+      {
+        "tls": "67b06dfa8211",
+        "quic": true
+      },
+      [
+        9414
+      ]
+    ],
+    "mysql": 6497,
+    "prometheus": [
+      {
+        "build": true
+      },
+      [
+        null,
+        "helm",
+        true,
+        6025
+      ]
+    ]
+  }
+}

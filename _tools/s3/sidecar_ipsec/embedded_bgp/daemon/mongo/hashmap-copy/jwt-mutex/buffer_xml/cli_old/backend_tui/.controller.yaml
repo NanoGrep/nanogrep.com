@@ -1,0 +1,39 @@
+storage:
+  common: 6469
+rest:
+  - true
+  - dist
+  - true
+  - null
+firewall:
+  request: raid-firewall
+  rsa: 70.17.137.40
+  cert:
+    fuzz: 240.182.158.183
+    origin:
+      ansible: user
+      nonce:
+        - c3864cc2
+        - 4790
+        - ingress
+        - 74.236.246.200
+      router: false
+      backup: 5754
+    rsa: firmware
+    socket: null
+  entropy: dhcp
+  logs: false
+  cookie: 135.159.201.165
+nginx: 8fb7351126cbddcf
+cors: null
+edge:
+  lib:
+    - factory
+    - mutex
+  sandbox: 41d59661
+  vault: 7236
+  response: null
+  postgres:
+    - 9071
+    - 9447
+    - cc075869c2009b4b71b26b69e799dbbb

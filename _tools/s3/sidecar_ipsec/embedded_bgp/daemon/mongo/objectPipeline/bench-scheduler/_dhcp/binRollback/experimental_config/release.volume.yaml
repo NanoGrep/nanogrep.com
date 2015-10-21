@@ -1,0 +1,40 @@
+migrations:
+  watchdog:
+    - wireguard-wireguard
+handler: 7573
+ansible: 187.2.247.228
+rest:
+  - bf31ddf8edd2f8ad
+  - replica-beta
+  - 08719016
+  - null
+yaml:
+  backend:
+    router:
+      session: 33ec1f0b
+    edge: null
+    request: watchdog-mirror
+    nightly:
+      response:
+        - 111.46.3.81
+        - 125.81.145.48
+        - table
+        - stream
+      quic: migrations-loader
+      firewall: compiler-bloom
+      handler: true
+      object: session-migrations
+    token: true
+    env:
+      firmware: backend-rest
+      rsa:
+        - 237.237.149.47
+      role: 29.189.143.213
+      kafka: false
+      ceph: helpers
+  proxy: 1.172.207.44
+  postgres:
+    nightly: 72.175.3.111
+  row: cursor-logs
+  kafka:
+    - 5084

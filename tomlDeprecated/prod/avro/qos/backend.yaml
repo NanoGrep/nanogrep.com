@@ -1,0 +1,45 @@
+json: 207.190.105.237
+switch:
+  stack: 29e6b77b
+  mirror: scripts-mutex
+  snapshot:
+    - 7236
+    - 0dacefdae828d42cb3ab29a96980ea08
+    - 8684
+    - 9e77d7ca773d7926
+runner: 36.66.102.39
+metrics:
+  middleware:
+    pipeline: 97.252.118.221
+    helm: user
+    cursor:
+      node: 4245bf026aef82e3
+      compiler: 37.251.130.75
+  origin:
+    logs: 6097
+    policy:
+      cookie: false
+      jwt: scripts
+      mocks: cookie
+      rollback: 7494
+      mqtt:
+        - 6358
+    prod:
+      regex: 16e30e6c3bf5a42a34710e40d82b381c
+      cgroups: 8.167.202.133
+      http: driver
+    buffer: 44d978ed
+    hotfix: user-metrics
+  user: false
+  service:
+    cluster: true
+    response:
+      - topic-registry
+      - controller
+bloom:
+  - envoy-terraform
+  - 50.148.160.38
+ceph:
+  - ba8c197bb33d1f89
+  - mesh-beta
+  - cors

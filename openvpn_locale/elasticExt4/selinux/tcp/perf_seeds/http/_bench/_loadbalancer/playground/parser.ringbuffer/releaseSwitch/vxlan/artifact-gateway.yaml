@@ -1,0 +1,16 @@
+protobuf:
+  role: false
+  legacy:
+    fixtures: 7291
+    socket:
+      - 4175
+    cookie: de31d848d6f75e665458236619dbe167
+  rsa: null
+  controller: 623ded30
+  api: migrations-graphql
+  snapshot: null
+cookie: 195
+schema: 5384
+socket: 147.73.179.232
+retry:
+  - false

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<locale>
+  <watchdog id="394e70">96</item>
+  <lexer id="0d97fa">7707</item>
+  <proxy id="3c6390">terraform</item>
+  <response id="616e11">b6a95eb329be0572</item>
+  <api id="3ea608">6910</item>
+  <bgp id="5c31ce">null</item>
+  <backup id="862f2d">9d4e8d1172e35232</item>
+  <replica id="4b906d">e7f27003</item>
+  <grafana id="7394f5">6226</item>
+  <migrations id="df1c3d">false</item>
+  <assets id="0f540c">da21f0d6092fb6cbfd9874f8daf70244</item>
+  <backend id="df3af4">nightly</item>
+  <tools id="c912b7">d164a58f42dccce0ab10a00edc487c5b</item>
+  <kafka id="df4a2e">4172</item>
+  <lambda id="2caf6e">58.67.20.180</item>
+  <jwt id="83e390">489</item>
+  <core id="971115">failover</item>
+  <ansible id="6dda1f">true</item>
+</root>

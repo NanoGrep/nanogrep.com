@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<socket>
+  <router id="d1cfad">true</item>
+  <registry id="aff106">mesh</item>
+  <retry id="c21079">4142</item>
+  <runner id="3a06db">b97bede0db074aa6</item>
+  <json id="2ec652">upstream</item>
+  <buffer id="675f43">4152</item>
+  <mqtt id="c5f620">3336</item>
+  <dist id="3fd576">228.224.146.70</item>
+  <dhcp id="f4f114">76.62.231.116</item>
+  <token id="a69906">crypto-prometheus</item>
+  <socket id="72a63f">dd3de6219595f3921df7f9ee0cf6d9d9</item>
+  <elastic id="fb57e4">8711</item>
+  <edge id="1e5733">driver-mongo</item>
+  <alerts id="7bd3cb">null</item>
+  <dhcp id="df3727">19.75.100.58</item>
+  <probe id="f9f0dd">227.77.213.41</item>
+  <bootstrap id="e174f3">false</item>
+  <sha256 id="228d49">logs</item>
+  <volume id="fd2737">cors-handler</item>
+  <object id="92de65">true</item>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<row>
+  <hashmap id="efc270">tenant-jenkins</item>
+  <oauth id="f7ca10">a626b52f773bd326</item>
+  <payload id="ad74cf">e94e32df21e0de07</item>
+  <scripts id="0e621d">6245</item>
+  <queue id="68749b">f154bf79a418a82a</item>
+  <lexer id="8ba1ec">242.22.146.157</item>
+  <elastic id="8329f5">172.9.180.226</item>
+  <origin id="d05161">2352</item>
+  <zfs id="b7980e">null</item>
+  <session id="00291e">iptables-sandbox</item>
+</root>

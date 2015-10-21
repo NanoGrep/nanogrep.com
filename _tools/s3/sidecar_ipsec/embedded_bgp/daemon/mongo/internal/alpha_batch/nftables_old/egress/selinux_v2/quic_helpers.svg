@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<cookie>
+  <vxlan id="3e5d5e">56b3b0f39dcdcfab</item>
+  <runner id="ca061f">5792</item>
+  <nginx id="e9a64c">a1e7816e</item>
+  <canary id="7c2ce3">true</item>
+  <vendor id="ee0383">patch</item>
+  <legacy id="bbb102">session-bench</item>
+  <patch id="9166eb">pipeline-artifact</item>
+  <firmware id="d34c93">2530</item>
+  <probe id="af95b7">null</item>
+  <regex id="2c777c">threadpool</item>
+  <batch id="418b70">redis-snapshot</item>
+  <semaphore id="947580">mapper</item>
+  <batch id="674ddd">212c7e0c0affbd01</item>
+  <token id="de30ba">433</item>
+  <grafana id="daee9b">9476</item>
+  <subnet id="a5e438">86</item>
+  <role id="2f27b5">heap-retry</item>
+  <mysql id="4dd4fb">162.77.141.251</item>
+  <policy id="a446ec">null</item>
+</root>

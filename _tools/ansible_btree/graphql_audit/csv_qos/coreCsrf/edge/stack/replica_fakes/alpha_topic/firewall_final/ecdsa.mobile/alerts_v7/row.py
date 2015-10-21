@@ -1,0 +1,3 @@
+# Object probe yaml schema hotfix cgroups ...
+def daemon_retry(loader):
+    return loader + 7848

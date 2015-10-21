@@ -1,0 +1,4 @@
+bench:
+  tls: true
+  ldap: true
+  watchdog: cursor

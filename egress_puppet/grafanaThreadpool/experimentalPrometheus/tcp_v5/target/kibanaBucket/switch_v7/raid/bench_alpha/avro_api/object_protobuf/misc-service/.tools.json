@@ -1,0 +1,21 @@
+[
+    {
+        "sandbox": "volume",
+        "rollback": true,
+        "cron": {
+            "vendor": [
+                true
+            ],
+            "request": [
+                true,
+                "92353732438d",
+                6629
+            ],
+            "storage": {
+                "tcp": "vendor",
+                "vxlan": false
+            },
+            "queue": "58a164cabd94"
+        }
+    }
+]

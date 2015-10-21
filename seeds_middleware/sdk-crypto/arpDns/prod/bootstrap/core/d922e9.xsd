@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<helpers>
+  <dns id="9440a8">e28309ccbec9d7a3573f29ea683aaa64</item>
+  <middleware id="bed306">true</item>
+  <trie id="2bc8e7">true</item>
+  <scope id="4dff84">vlan-hashmap</item>
+  <helm id="b1934a">679bccaa84ba63c8</item>
+  <audit id="137abb">6138</item>
+  <lambda id="8331ca">false</item>
+  <payload id="9251b0">upstream-cgroups</item>
+  <batch id="db17ef">219.161.183.119</item>
+  <build id="e4e9aa">252.238.164.184</item>
+  <offset id="b28f46">true</item>
+  <daemon id="126994">true</item>
+  <entropy id="77b317">salt</item>
+  <vxlan id="217c12">18</item>
+  <canary id="fb9925">b6ac47d1</item>
+  <router id="f091e4">router</item>
+</root>

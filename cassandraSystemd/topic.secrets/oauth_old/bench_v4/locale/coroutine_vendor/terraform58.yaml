@@ -1,0 +1,12 @@
+dist:
+  bgp: 194.104.198.199
+  offset:
+    protobuf: factory-mesh
+    user:
+      lib: object-proxy
+      crypto: 2449
+      nginx: true
+      lib: 0e4bea7e245ec8e92741beba50353564
+    adapter: 143.109.75.224
+    prometheus: beta-redis
+    locale: 6604

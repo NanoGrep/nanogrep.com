@@ -1,0 +1,15 @@
+schema:
+  bgp:
+    cors: bootstrap-migrations
+group: 3375
+cache:
+  - null
+  - cursor
+  - snapshot-kerberos
+worker: 240.201.5.252
+kernel:
+  - 03d75264f9cbd41cafbc767b53c0ddd7
+  - true
+  - 8b045433
+  - 241
+hashmap: false

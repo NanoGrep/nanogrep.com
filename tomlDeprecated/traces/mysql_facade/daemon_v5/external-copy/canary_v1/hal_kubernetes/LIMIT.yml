@@ -1,0 +1,12 @@
+shard: kafka-group
+quic: cursor
+batch: 233.58.66.76
+token:
+  common:
+    iptables: 2.195.83.113
+    config:
+      semaphore: a256c172
+      policy: 5465
+      dhcp: null
+    core: null
+index: cgroups

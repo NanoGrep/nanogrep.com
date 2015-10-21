@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ceph>
+  <policy id="3b5edd">null</item>
+  <middleware id="6991e2">false</item>
+  <stack id="e15962">c8e14ae3</item>
+  <schema id="92dcb6">9762</item>
+  <service id="2ad2fc">false</item>
+  <mapper id="b3bbb2">tenant</item>
+  <artifact id="426fb7">69.140.65.178</item>
+  <backup id="fad932">132.186.30.220</item>
+  <watchdog id="fa5875">73322341ae00f6b8</item>
+  <compiler id="b57757">column</item>
+  <factory id="63d3fc">true</item>
+</root>

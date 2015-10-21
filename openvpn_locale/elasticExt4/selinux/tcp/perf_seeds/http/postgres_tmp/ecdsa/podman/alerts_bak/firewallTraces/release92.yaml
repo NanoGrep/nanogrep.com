@@ -1,0 +1,9 @@
+ingress: mongo-traces
+factory:
+  json: 39.198.103.183
+  stream: 27.123.181.122
+  kerberos: 5186b315b86ffd81e6b3045e6a9bd52e
+pipeline:
+  volume: pipeline-bucket
+  fixtures: driver-row
+  adapter: 132.62.35.211

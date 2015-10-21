@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<index>
+  <edge id="0c02e7">151.14.6.24</item>
+  <tenant id="e06547">24db1fd97c91795b29b45a4863712963</item>
+  <build id="75d93d">ceph</item>
+  <websocket id="57fc1b">graphql-json</item>
+</root>

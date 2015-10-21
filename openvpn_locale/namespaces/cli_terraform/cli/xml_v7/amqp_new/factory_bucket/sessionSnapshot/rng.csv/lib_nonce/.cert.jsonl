@@ -1,0 +1,22 @@
+{
+  "row": [
+    []
+  ],
+  "zfs": 9360,
+  "batch": {
+    "nonce": [
+      {
+        "pod": "nonce",
+        "role": 7733,
+        "backend": null,
+        "object": 2189,
+        "switch": null,
+        "core": false
+      },
+      false,
+      "worker",
+      null
+    ]
+  },
+  "helm": true
+}

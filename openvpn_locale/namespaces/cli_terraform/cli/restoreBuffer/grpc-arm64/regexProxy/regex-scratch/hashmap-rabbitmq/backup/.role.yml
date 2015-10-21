@@ -1,0 +1,11 @@
+tools: vlan-http
+redis: hashmap
+shard: adapter-pipeline
+helpers:
+  scripts: 2615
+  staging:
+    - true
+    - 512
+  artifact: null
+  terraform: table
+  controller: 684

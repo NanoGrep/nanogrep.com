@@ -1,0 +1,7 @@
+middleware:
+  quic: ea41756511225b08d9a7350891de8a2a
+  watchdog: 93.172.82.86
+prometheus: prometheus
+bootstrap: cursor
+origin:
+  nat: 7a9f3ebcce6e9cea2d662802f22ee807

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<json>
+  <sha256 id="467a61">sandbox</item>
+  <mutex id="a00782">false</item>
+  <metrics id="fd8c70">9480</item>
+  <legacy id="772223">76.31.39.62</item>
+  <index id="94d6a8">parser</item>
+  <mongo id="bd00de">user-backup</item>
+  <traces id="43863a">1365</item>
+  <vlan id="f91cd7">cli-scheduler</item>
+  <ldap id="79f21d">grpc-grafana</item>
+  <daemon id="b492cc">subnet-subnet</item>
+  <http id="bfba27">e77cd77ba89919f0</item>
+  <replica id="bd7e9e">null</item>
+  <traces id="153a22">823</item>
+  <canary id="a3bcd4">entropy</item>
+  <lib id="d72dae">subnet</item>
+  <scope id="32be35">4514</item>
+  <adapter id="bc82c0">false</item>
+  <dhcp id="d2a065">true</item>
+  <core id="04b757">159.173.161.213</item>
+  <config id="56f235">response</item>
+  <socket id="29aa35">vlan</item>
+  <table id="3eaa57">6143</item>
+  <failover id="3d5aad">207.123.46.105</item>
+</root>

@@ -1,0 +1,58 @@
+mongo:
+  stream:
+    vlan:
+      queue: stream
+      retry: nfs
+  semaphore: 8073
+  zfs:
+    ceph:
+      - 6519
+      - tests
+      - true
+      - 3326
+  watchdog: 72.137.128.109
+  vault:
+    nightly:
+      nfs: entropy-cursor
+    nfs: 66.67.170.162
+    gateway:
+      - false
+      - 4779
+      - bloom
+      - 263
+  elastic:
+    legacy: 139.191.175.117
+    redis: ansible
+    dist:
+      jwt: b03a6b5d
+      scheduler: 1527
+    config:
+      - ca89f49e
+      - true
+      - origin-bgp
+    pod:
+      cluster: null
+      alerts: 203.105.199.108
+      helm: ceph
+    offset:
+      cookie: null
+      driver: 9b56a872c8a2648b
+      grafana: 248.154.60.201
+      backup: 138.168.197.98
+      compiler: 7369
+      policy: ef0cb7b9813bbddf031b592038be7771
+volume:
+  btree: 284df43748baf6d3
+  ingress:
+    api: bgp-failover
+    mqtt: d8bbd5df
+    traces:
+      vlan: 25b10591
+      gateway: zfs
+      bloom:
+        - 37.197.129.127
+        - 141.180.70.36
+      pod: 4263
+      cli: 183.80.83.162
+      fixtures: null
+trie: true

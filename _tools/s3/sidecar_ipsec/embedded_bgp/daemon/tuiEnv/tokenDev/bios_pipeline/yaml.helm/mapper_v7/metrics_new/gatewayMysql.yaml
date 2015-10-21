@@ -1,0 +1,25 @@
+bootstrap:
+  - bd10bc7ad95a718c1f804b94c113aa3b
+helm:
+  config:
+    mongo: 33b073fc
+    rest: response-nonce
+  socket:
+    kernel:
+      bench: 105.245.195.114
+      watchdog: 240.78.187.141
+    prod:
+      redis: 1769
+      snapshot: ingress
+      factory: replica-controller
+    core:
+      rollback: switch-legacy
+shard:
+  factory: backup
+  btree: bd6a3b053c4dd831
+  failover:
+    - 197.62.237.97
+    - true
+    - 5903
+  role: middleware-build
+wireguard: 105.136.195.151

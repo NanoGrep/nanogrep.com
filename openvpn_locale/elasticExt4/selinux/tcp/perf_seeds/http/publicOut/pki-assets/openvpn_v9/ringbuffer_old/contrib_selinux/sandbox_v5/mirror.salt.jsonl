@@ -1,0 +1,17 @@
+{
+    "alerts": 1920,
+    "ldap": {
+        "tenant": [
+            {
+                "raid": false,
+                "edge": false
+            },
+            [
+                "1b6c517ab229",
+                null,
+                1827,
+                "runner"
+            ]
+        ]
+    }
+}

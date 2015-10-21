@@ -1,0 +1,12 @@
+bucket: 6666
+zfs: 9272
+ansible: false
+limit: vendor
+scope:
+  bench:
+    envoy: bc8e5083e20f07ed
+    elastic: true
+    kafka: true
+    mongo:
+      - true
+      - 8b279e633777498d

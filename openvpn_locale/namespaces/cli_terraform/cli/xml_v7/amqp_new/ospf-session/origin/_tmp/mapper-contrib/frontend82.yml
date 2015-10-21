@@ -1,0 +1,6 @@
+factory: 195.52.6.96
+service: tools
+sandbox:
+  buffer: tenant
+  tenant: 64.13.11.128
+frontend: 66276817

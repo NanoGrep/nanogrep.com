@@ -1,0 +1,8 @@
+tenant: 7560
+ansible:
+  user:
+    nonce: logs-compiler
+  crypto: 7650
+  nginx: 2632
+tcp:
+  - true

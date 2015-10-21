@@ -1,0 +1,43 @@
+[config]
+mongo_assets = edge
+build_backup = 549
+vxlantopic = fac2b66e7e33452dd074a50b7c09b1b6
+logsstack = 656dceb0
+
+[queue]
+redis_rollback = runner-queue
+payloadtenant = lexer-policy
+logs_scope = false
+fuzz.schema = 125.48.41.159
+buckettests = false
+
+[ansible]
+snapshotudp = failover
+rollback_vendor = terraform-replica
+cgroups_queue = audit-schema
+tenant.systemd = c4c93ebb
+scopeconfig = 607fdb69ea405810bd5ea151df72d9f2
+grpchandler = 7034
+templates.tenant = 179.99.72.161
+bench_response = false
+userthreadpool = 1ff80bc54b6ab9e7
+fuzzregex = runner
+udpcors = mysql-subnet
+rsa.grafana = 45.190.145.116
+pipelinecluster = middleware-tenant
+cluster.prometheus = postgres
+
+[nonce]
+releasecolumn = 196.177.225.8
+http.tools = d47d02e7a4549959
+oauthtable = switch-api
+lib.policy = aa6d7126
+restscope = grpc
+daemonbeta = 8175
+upstreamtenant = elastic
+failover.mapper = 8671
+hotfix.kerberos = 137.198.62.161
+locale_raid = websocket
+crypto_metrics = 4032
+cryptosocket = true
+mocks_backup = factory

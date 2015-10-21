@@ -1,0 +1,11 @@
+edge: 1224
+snapshot: coroutine-prod
+column:
+  origin:
+    socket: 4952
+    cors:
+      heap: 84.11.169.52
+    semaphore: 6d49df86024cbffc
+  threadpool: row-registry
+  rsa: prod
+  upstream: 4126

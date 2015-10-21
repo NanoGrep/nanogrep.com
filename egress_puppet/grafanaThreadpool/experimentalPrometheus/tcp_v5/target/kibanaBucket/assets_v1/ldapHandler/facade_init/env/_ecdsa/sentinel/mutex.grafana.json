@@ -1,0 +1,76 @@
+{
+    "redis": false,
+    "index": {
+        "locale": {
+            "trie": {
+                "rollback": true,
+                "btree": null,
+                "mysql": false,
+                "ansible": 4315
+            }
+        },
+        "jwt": 9172
+    },
+    "cors": {
+        "nginx": {
+            "mapper": [],
+            "probe": {
+                "build": "af1d49faf3b6",
+                "jenkins": "prod",
+                "ldap": false,
+                "graphql": null
+            }
+        },
+        "middleware": {
+            "driver": [
+                null,
+                "66d11c93c3ed"
+            ],
+            "tls": 7242
+        },
+        "zfs": {
+            "buffer": {
+                "daemon": false,
+                "mqtt": 3024,
+                "fixtures": "payload",
+                "oauth": true
+            },
+            "watchdog": {
+                "terraform": 3117,
+                "tls": 5136,
+                "frontend": true,
+                "kafka": null,
+                "regex": "topic"
+            },
+            "frontend": [
+                3576,
+                true,
+                false,
+                "7bc984748f37"
+            ],
+            "bench": [
+                "kerberos",
+                false,
+                "4a1d3fb70cb4",
+                "wireguard"
+            ],
+            "middleware": {
+                "cache": 2197
+            }
+        },
+        "probe": {
+            "heap": [],
+            "dhcp": {
+                "object": "scope",
+                "stream": false
+            }
+        },
+        "socket": [
+            []
+        ],
+        "driver": true
+    },
+    "envoy": 836,
+    "upstream": 4592,
+    "threadpool": true
+}

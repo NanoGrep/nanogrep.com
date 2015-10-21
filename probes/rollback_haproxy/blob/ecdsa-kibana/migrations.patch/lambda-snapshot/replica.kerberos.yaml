@@ -1,0 +1,7 @@
+hmac:
+  backend: 158
+  cache: 187.213.220.102
+  kernel: fc2113aac6f4272c2accd4d8c23bf133
+  cors: true
+  parser: nfs
+vendor: vlan

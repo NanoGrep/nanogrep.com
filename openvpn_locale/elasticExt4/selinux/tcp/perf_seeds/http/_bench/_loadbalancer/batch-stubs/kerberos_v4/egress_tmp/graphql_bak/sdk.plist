@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<redis>
+  <pod id="0a2232">1561d10ca00db6ba</item>
+  <coroutine id="4b1f67">true</item>
+  <scheduler id="5ae8a8">39.189.92.130</item>
+  <bgp id="fe0c3b">btree</item>
+  <nginx id="610f09">envoy</item>
+  <nginx id="b6c57c">2273e3d92c68c21842406c21f5d679ce</item>
+  <oauth id="27ebbc">true</item>
+  <cluster id="324adf">middleware-cache</item>
+  <json id="f97113">795</item>
+  <json id="ec1f9b">8214</item>
+  <cache id="1092e5">cursor-table</item>
+  <bucket id="fd891f">stream</item>
+  <firmware id="a0f4e2">7531</item>
+  <mongo id="0c230f">legacy-request</item>
+  <object id="4db0a1">122eb113</item>
+  <tenant id="37ef8d">group</item>
+  <mongo id="28a284">9351</item>
+  <staging id="6b27d0">replica-jenkins</item>
+  <core id="3f8374">30902302173b42baef28ea17c361d06c</item>
+</root>

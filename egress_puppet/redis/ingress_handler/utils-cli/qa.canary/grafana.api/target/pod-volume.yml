@@ -1,0 +1,14 @@
+jenkins:
+  - 7403
+  - false
+alerts: firewall-edge
+offset:
+  migrations:
+    terraform:
+      artifact: 2053
+  nightly:
+    sandbox: 5044
+  runner:
+    bucket: 45.201.190.103
+  vault: 220.58.86.215
+  udp: vlan-metrics

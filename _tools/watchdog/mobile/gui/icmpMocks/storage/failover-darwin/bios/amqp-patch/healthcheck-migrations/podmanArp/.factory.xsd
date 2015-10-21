@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<row>
+  <heap id="9d0964">2f0277b8b8f0f6d0</item>
+  <elastic id="869549">true</item>
+  <release id="2316ab">bdd81546</item>
+  <scope id="d978f9">service</item>
+  <probe id="00e62e">true</item>
+  <controller id="465b58">mongo</item>
+  <kafka id="6e7c65">hashmap-gateway</item>
+  <column id="d7be96">9198</item>
+  <release id="7ecf6e">5290</item>
+  <zfs id="58ee73">false</item>
+  <migrations id="b98fb7">false</item>
+  <templates id="d7817f">release-table</item>
+  <ceph id="661c51">9.184.33.204</item>
+  <dist id="b5aea2">tls</item>
+  <prod id="c0042b">54.152.242.248</item>
+  <iptables id="ff3f9f">3346</item>
+  <kernel id="9c7790">a903d39519053405ff8d3656de1e637b</item>
+  <runner id="7e43ed">4429</item>
+  <nginx id="20015c">nightly-mapper</item>
+  <migrations id="72e041">false</item>
+  <iptables id="6f274f">failover</item>
+  <api id="435833">10d047ffc008d24af570da4bf4ea2f32</item>
+  <ldap id="6aa3a3">sandbox-lexer</item>
+</root>

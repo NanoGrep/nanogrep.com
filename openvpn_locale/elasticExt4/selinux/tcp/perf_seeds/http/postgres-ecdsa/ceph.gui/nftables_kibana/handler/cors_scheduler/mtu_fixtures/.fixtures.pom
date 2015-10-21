@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<loader>
+  <tls id="4f143b">beta-loader</item>
+  <migrations id="e6fb6a">162.149.201.1</item>
+  <kafka id="510a1f">c3b32d39</item>
+  <sha256 id="8acb1e">45.166.204.76</item>
+  <semaphore id="fc3c2b">switch</item>
+  <factory id="0bbb26">frontend</item>
+</root>

@@ -1,0 +1,48 @@
+cursor: 249.31.75.224
+envoy:
+  core:
+    lexer:
+      bucket: aac932381cddf82bed8209f3d17a1f24
+      graphql: 276
+    utils: api
+    pod: false
+    driver: 40e2813c3e513195d064f2b7cf19b6db
+    runner: 137.69.216.83
+  rollback:
+    bench: 5645
+    staging: 8a268937971b9b89
+    fixtures:
+      table: sdk
+  nginx: btree-oauth
+mesh:
+  dist: 251.28.128.128
+  nightly:
+    - 10d8d003
+    - artifact
+  nightly:
+    lib:
+      lambda: token-storage
+      shard: 212.197.178.93
+    volume:
+      origin: proxy-prod
+    origin: 34.14.200.50
+    user: null
+    storage:
+      bucket: 5b7d96bc7744ef42a039eaf748197a58
+      locale: 154.187.53.84
+      session: 6777
+      offset: mirror
+      ansible: true
+      jwt: 127.54.42.108
+  mocks:
+    assets: common-release
+  helpers:
+    - 12b0d342b896bb597784bd982d123496
+    - 204.51.62.42
+    - f67eb4113e7ed3e8
+    - 58.18.47.182
+  driver: 6941
+pod: 4464d0e9cdb11d65
+graphql:
+  oauth: 6139c1feafca3a8bfb940ab72c5c2d9a
+  kafka: 7082

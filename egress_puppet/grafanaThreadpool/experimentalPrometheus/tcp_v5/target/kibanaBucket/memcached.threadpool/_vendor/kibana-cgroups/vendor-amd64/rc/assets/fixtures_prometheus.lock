@@ -1,0 +1,8 @@
+{
+    "ldap": "1fe384508d4a",
+    "failover": true,
+    "handler": [
+        "staging",
+        "d571d245f4fd"
+    ]
+}

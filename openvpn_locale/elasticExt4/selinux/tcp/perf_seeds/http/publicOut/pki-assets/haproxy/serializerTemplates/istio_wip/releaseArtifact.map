@@ -1,0 +1,44 @@
+{
+    "sha256": "kafka",
+    "ceph": [
+        false
+    ],
+    "cors": {
+        "daemon": {
+            "dist": {
+                "locale": null,
+                "udp": false,
+                "nonce": 2664
+            },
+            "stack": null,
+            "jenkins": [
+                false,
+                "33a154a7fa9f"
+            ],
+            "hotfix": {
+                "cursor": null,
+                "switch": null,
+                "parser": null
+            },
+            "vlan": 9520
+        },
+        "mutex": {
+            "daemon": [
+                true
+            ],
+            "dns": {
+                "daemon": true,
+                "router": "helpers",
+                "rollback": true,
+                "raid": "locale",
+                "compiler": "dns"
+            }
+        },
+        "lib": {
+            "socket": null
+        },
+        "nat": "coroutine",
+        "controller": "011000d54f5d"
+    },
+    "lib": false
+}

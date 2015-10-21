@@ -1,0 +1,12 @@
+mapper: null
+mongo:
+  jwt: 1235
+btree:
+  - 113.75.30.204
+redis:
+  mapper:
+    - efd76213
+  topic: 7226
+  nat: bloom-queue
+origin: artifact-vault
+column: 8257c845ab5f0114

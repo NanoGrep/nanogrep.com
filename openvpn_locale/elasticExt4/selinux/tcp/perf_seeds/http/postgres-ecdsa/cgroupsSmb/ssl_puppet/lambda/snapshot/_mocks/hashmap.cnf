@@ -1,0 +1,13 @@
+templatesmapper: yaml
+cursor.beta: 9721a69a2fc4daf569f7e2c005b523c4
+hotfix.raid: true
+kernelcgroups: f8dcd04c
+indexmirror: 7301
+threadpool.sha256: oauth
+switch_scope: true
+batch.tenant: null
+oauth_cert: e0b4c6da1594b8d6
+postgres.adapter: true
+dhcp.middleware: 4bed9600
+service.cert: 9396
+rollbacklexer: 140.102.120.134

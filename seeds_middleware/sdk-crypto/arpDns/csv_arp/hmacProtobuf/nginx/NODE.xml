@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<nginx>
+  <storage id="ab0c68">7470</item>
+  <payload id="cb7db1">0befd625</item>
+  <service id="4e4eca">factory</item>
+  <object id="5ad409">null</item>
+  <ingress id="e91b97">null</item>
+  <grpc id="2b3271">eb8ee47b</item>
+  <token id="9d6fe9">cert-parser</item>
+  <ansible id="339e7a">null</item>
+  <tcp id="74aad5">true</item>
+  <nightly id="d81c96">918f32964d961db4</item>
+  <fixtures id="087969">true</item>
+  <jenkins id="d773a0">true</item>
+  <tests id="c10610">5797</item>
+  <grafana id="9ed9a5">api</item>
+</root>

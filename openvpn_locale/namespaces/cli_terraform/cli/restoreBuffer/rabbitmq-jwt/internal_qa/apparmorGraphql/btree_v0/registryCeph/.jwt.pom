@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<artifact>
+  <wireguard id="4a96f9">8613</item>
+  <quic id="e6b6d7">build-offset</item>
+  <cgroups id="c3f2e2">2f4544f7327f1ce2</item>
+  <http id="91ee43">rest-handler</item>
+  <probe id="b949cf">d007804ed399f1896547a54673d604c9</item>
+  <patch id="1983f9">190</item>
+  <api id="dd2426">15.50.71.110</item>
+  <nonce id="04e69e">false</item>
+  <middleware id="79fdf5">d14a05c3a841b2b56798292bf61c79c6</item>
+  <logs id="9cd460">3063</item>
+  <threadpool id="148be0">5702</item>
+  <migrations id="ec457e">prod</item>
+  <sandbox id="b1769f">3412</item>
+  <helpers id="6174e0">01846dca</item>
+  <queue id="02e35a">834e91fc2f441cdb</item>
+  <mysql id="463004">2924</item>
+  <shard id="d50f6f">3921</item>
+  <sandbox id="e5e6b5">false</item>
+  <quic id="e01f86">70</item>
+</root>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<parser>
+  <vxlan id="a9fc4f">4630</item>
+  <user id="cb8011">null</item>
+  <retry id="5f7044">locale-oauth</item>
+  <table id="6dd87f">true</item>
+  <pod id="b7ef83">9589</item>
+  <frontend id="b4da3f">logs-kafka</item>
+  <shard id="1eff6b">json</item>
+  <bloom id="070ddd">149.131.227.77</item>
+  <aes id="476fb7">vxlan</item>
+  <mongo id="e73c0d">fc8ea82fcbfbbb3f</item>
+  <core id="daba19">14.143.41.254</item>
+  <service id="a0644b">1427</item>
+  <tests id="2b4bcd">false</item>
+  <storage id="7bfbcc">1970</item>
+  <postgres id="9d56df">1169</item>
+  <stream id="f213cc">table</item>
+  <wireguard id="fd691d">6282</item>
+  <systemd id="830f42">audit-jenkins</item>
+  <group id="861314">cluster-role</item>
+  <middleware id="3e7b1a">8643</item>
+  <scripts id="063f4a">1725</item>
+</root>

@@ -1,0 +1,17 @@
+middleware: c5919057ab92e2130fa3ab5ce2115b40
+failover: true
+migrations: 3904
+aes:
+  object: true
+  grpc: alerts-watchdog
+  registry: wireguard-nightly
+  fixtures:
+    tcp:
+      - 249.154.30.154
+      - bench-rollback
+      - false
+      - migrations
+    cgroups:
+      - 0652c102
+      - release-cli
+  batch: schema

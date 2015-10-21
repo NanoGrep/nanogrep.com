@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<worker>
+  <canary id="3077d7">90fb628ba06ddeacf3fa2f6d0b79c8aa</item>
+  <stream id="2745de">2460</item>
+  <cors id="e01f81">5665</item>
+  <alerts id="f526b5">4092</item>
+  <heap id="344262">94.221.62.111</item>
+  <artifact id="c518fc">vault</item>
+  <migrations id="94ff98">132.49.72.93</item>
+  <json id="d75810">null</item>
+</root>

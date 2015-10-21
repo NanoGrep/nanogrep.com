@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<prometheus>
+  <batch id="0a2843">row-artifact</item>
+  <hotfix id="36ae0e">templates</item>
+  <rest id="0f7c54">160.83.251.170</item>
+  <replica id="add4bf">970e49d47f69b9e8bc3b3c5be9f68a94</item>
+  <storage id="f1d0eb">cookie</item>
+  <iptables id="e295ea">13.140.63.221</item>
+  <wireguard id="452eb3">245.77.144.246</item>
+  <cron id="76d3b4">71.211.229.164</item>
+  <tools id="e25ac5">1769</item>
+  <prometheus id="cfb806">5083</item>
+  <payload id="8319fa">08fc2167</item>
+  <helpers id="afe141">130.29.105.142</item>
+  <crypto id="4baa96">84.23.86.245</item>
+  <controller id="2f6da6">cc7549904d81d30eebe6abf1377e0904</item>
+  <nfs id="c8606a">c43dbe3d98b60753</item>
+  <loader id="79f22f">74.219.179.119</item>
+</root>

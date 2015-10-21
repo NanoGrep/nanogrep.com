@@ -1,0 +1,97 @@
+tests:
+  bgp:
+    - false
+    - 2745
+    - nonce
+    - 84fffcb071739734
+  audit: 191.212.28.241
+  threadpool: storage-limit
+  udp: false
+node:
+  sdk: null
+  volume:
+    - false
+    - 160.13.173.227
+  dns: redis
+  scope:
+    rollback:
+      entropy: 821ef179b6373deaf94a3392a578d914
+      tls: common-cache
+      probe: 87
+    semaphore: 91.20.252.14
+    quic: dhcp-cors
+  node:
+    router: 6aeb76493dc22ccce9a7ab49fe7a61c6
+    mutex:
+      hotfix: lambda-jenkins
+      cron:
+        - 47.164.251.219
+        - true
+        - 100.49.239.158
+      object: terraform-helpers
+      cert: 343c7f4709a39125
+      grpc:
+        - parser-env
+        - cache
+    terraform:
+      - true
+    quic:
+      subnet:
+        - gateway
+        - true
+      cert: 447
+      router: batch
+    wireguard: null
+    group: mesh
+object:
+  firmware:
+    grpc: volume
+    mesh:
+      socket: sha256-hashmap
+      traces: service
+      socket: vault
+      salt: fd96bcc0b3ade318ce7d9589f86cb47a
+      crypto: false
+      dhcp: 7069456c9a1f0ed7d6936596cb4f5a6b
+    env: aes
+    grafana: quic
+    table:
+      nginx: 8793
+      registry: vault-stack
+      nfs: 10.160.160.161
+      bucket: false
+      terraform: cors
+      elastic: 2779
+    cert: 5273
+  firmware: 84.41.56.24
+object:
+  offset: ansible
+  alerts: b2e912d153a0d253
+  lambda:
+    router:
+      - null
+      - 205.49.12.127
+      - true
+  tcp:
+    bucket: oauth-sha256
+    fixtures: 281
+    helm: failover
+    assets: 3fbd73783e6c4b6bf2d180678c734c72
+    scripts:
+      templates: 8318c62a753257f7
+      loader: false
+    cli:
+      socket:
+        - 168.69.8.33
+        - 0109e006d78a8d77dd8eedab19bcc5a8
+        - 62.192.40.226
+        - kafka-salt
+      release:
+        - raid-zfs
+        - 1a56ebe61cae29a2
+        - volume
+      rollback: 2e0775ec15bc2c9322817aa9083cec8c
+  failover: 0d719d479a3786db
+  nginx:
+    - null
+    - null

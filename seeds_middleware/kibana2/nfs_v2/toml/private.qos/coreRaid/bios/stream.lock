@@ -1,0 +1,24 @@
+{
+    "logs": "shard",
+    "tools": [
+        null
+    ],
+    "ceph": {
+        "bootstrap": true,
+        "mocks": null,
+        "bench": [
+            {
+                "frontend": false
+            },
+            "rollback"
+        ],
+        "router": [
+            false,
+            1333,
+            "d845011689e8"
+        ],
+        "hashmap": false,
+        "adapter": "iptables"
+    },
+    "terraform": false
+}

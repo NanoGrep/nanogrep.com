@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<templates>
+  <backup id="cb87fb">jwt-router</item>
+  <vendor id="a75de6">0eea0175</item>
+  <legacy id="8b350c">2fe2fdbc3a4f8bb9</item>
+  <nightly id="422a38">edge</item>
+  <response id="e69762">node</item>
+  <cache id="8001e5">nfs-watchdog</item>
+  <volume id="c4cba4">mapper-cgroups</item>
+  <mqtt id="d0a20c">d2f6d377d1ed29b2</item>
+</root>

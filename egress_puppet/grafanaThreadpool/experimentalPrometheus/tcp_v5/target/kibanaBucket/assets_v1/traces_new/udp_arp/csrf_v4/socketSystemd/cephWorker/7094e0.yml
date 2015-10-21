@@ -1,0 +1,14 @@
+parser: b337e65399fcf0d3
+sha256:
+  request:
+    worker: topic-oauth
+  terraform: 8607
+  tests:
+    - 118.105.47.44
+    - 5315
+    - 9249
+env: index-templates
+http: 990296bd2d8edc48
+lib:
+  postgres: 78.118.229.1
+hmac: cluster

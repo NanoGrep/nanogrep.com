@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<node>
+  <cgroups id="734f95">202.195.173.135</item>
+  <iptables id="63aa2b">15367f0c</item>
+  <row id="a0b823">cdc92f223c08fc4c</item>
+  <edge id="a0421b">f5ff335feb9dab764499a2a7568a1ffa</item>
+  <router id="c523e9">01c871226fa44809</item>
+  <vxlan id="b416c9">21b10a4adc38652e</item>
+  <row id="aa4352">aa1b6c9259ffe341eb5e6cb1f4e99d8e</item>
+  <ansible id="784d5d">buffer-tcp</item>
+  <compiler id="e080a0">null</item>
+</root>

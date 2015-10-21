@@ -1,0 +1,11 @@
+backup:
+  - switch
+  - null
+  - 242.214.118.151
+alerts: 243.67.76.112
+watchdog: 5344cc76
+rest: a08b9c46c9673d59
+request: 199.189.133.235
+cgroups:
+  pod: 897c8c50a461d153d3fda3c83fd043da
+  beta: true

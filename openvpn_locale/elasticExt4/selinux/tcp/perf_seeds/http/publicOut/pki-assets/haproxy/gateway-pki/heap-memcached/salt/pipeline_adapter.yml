@@ -1,0 +1,30 @@
+compiler:
+  patch: 181.103.161.151
+  lambda:
+    scripts:
+      mirror: 215.122.66.34
+      mqtt: dhcp
+    staging:
+      vault: mqtt-utils
+      vxlan: prod-nginx
+      nightly:
+        - 34.30.107.14
+    heap:
+      limit: salt
+      elastic: false
+    token: false
+    frontend: 215.92.156.189
+    dhcp: 58.156.164.225
+crypto: edge-grafana
+mqtt: eb7a94b06d8170447a6251ab868a43d7
+queue:
+  nonce: user-object
+  sdk:
+    column: helm
+    router:
+      mesh: 20.13.6.95
+    coroutine: 1ec203b408b9b37b347da044b99d1952
+  zfs:
+    - true
+    - 74840511
+  nginx: 48.32.113.58

@@ -1,0 +1,53 @@
+{
+    "salt": {
+        "sdk": false,
+        "probe": [
+            {
+                "sdk": 8446,
+                "object": 9337,
+                "elastic": "audit",
+                "cli": 6315,
+                "upstream": 2660
+            }
+        ],
+        "nginx": {
+            "cli": {
+                "heap": null,
+                "migrations": "2439ef71b72e",
+                "volume": "parser",
+                "terraform": null,
+                "legacy": false
+            },
+            "json": {
+                "group": 6848,
+                "grafana": true,
+                "lexer": true,
+                "ldap": null,
+                "nightly": null
+            },
+            "origin": null,
+            "vendor": true,
+            "protobuf": null,
+            "systemd": {
+                "origin": false,
+                "sandbox": null
+            }
+        },
+        "vxlan": {
+            "vault": {
+                "rsa": false,
+                "mirror": null,
+                "logs": "a004c4a16cef",
+                "switch": true,
+                "cluster": 9287
+            },
+            "middleware": [
+                false
+            ],
+            "probe": true,
+            "patch": null,
+            "prometheus": null
+        },
+        "stack": "b260791fcb7b"
+    }
+}

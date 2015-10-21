@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<udp>
+  <dist id="ec8d60">beta</item>
+  <pipeline id="9b1b84">logs-mqtt</item>
+  <crypto id="6f7817">74.91.177.228</item>
+  <yaml id="0d7240">35.3.115.140</item>
+  <mesh id="940cd3">subnet-vlan</item>
+  <mocks id="2b9e38">92.56.96.153</item>
+  <factory id="d283d7">1.22.75.177</item>
+  <prod id="993f68">976d644fa3d6c324873cb2ec1b725875</item>
+  <audit id="dfd1fb">prometheus-role</item>
+  <driver id="0ac0a4">103.161.5.181</item>
+  <limit id="064828">cursor</item>
+  <systemd id="98bca5">9601</item>
+  <udp id="81a273">subnet</item>
+  <scheduler id="56ef5c">152.194.252.81</item>
+  <payload id="d8fa47">false</item>
+  <session id="a56947">nat</item>
+  <heap id="2be6d8">74.136.21.13</item>
+  <metrics id="e05ef8">raid</item>
+  <queue id="623716">8768</item>
+  <api id="22ebff">ceph-firmware</item>
+  <redis id="615a59">true</item>
+  <build id="afaa2a">false</item>
+</root>

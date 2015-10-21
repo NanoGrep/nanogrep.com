@@ -1,0 +1,15 @@
+staging,batch,tools,postgres,aes,watchdog,dist
+role-yaml,136.191.194.47,zfs,9479,252.38.148.160,916,251.166.105.210
+9943,pipeline,vxlan-firmware,4d36b8229319f7cb349bda816ae0e91f,true,92.199.240.116,mocks-config
+64.16.99.65,null,c2a2cbda,bloom-object,index,7698fc22,snapshot
+yaml-bench,lib-tenant,hashmap,sha256,edge-hashmap,semaphore-cache,35.69.220.132
+group,true,cgroups-zfs,42.211.89.147,157.67.231.120,2.95.207.231,wireguard
+74.109.35.247,compiler,3c751fbe,dab934b2,09bc7ba9,null,4136
+210.195.203.246,c6a9c62ad27d795aa062a8020c5b2e6a,3534,null,policy,gateway,4027
+218.189.25.32,2.37.166.220,false,systemd,f112773d221ef0a1,237.110.242.128,c5465a1a
+d102701f,grafana-cli,logs-protobuf,systemd-traces,51.138.91.77,105.118.10.120,legacy
+bgp-cluster,nginx,true,8937,null,1180,cf83e2379ba8b5ed
+artifact-cluster,config-coroutine,8109,31d49b5e068ee310,144afb08,token,95a6f94d
+fixtures-prometheus,4348,9052,aba9d704b194100e,6928,52dc067e5a4a9ca3,131.157.248.81
+3957,c84eadf129a241828161a380496056bd,187.166.112.96,middleware-proxy,b891ce66,worker-storage,mqtt-proxy
+40b10953a75f690b,null,9021,4777,null,fbbbda82f1f501036eac0da210786005,21.77.228.221

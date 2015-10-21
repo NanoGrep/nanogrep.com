@@ -1,0 +1,5 @@
+mysql: 3625
+sandbox: false
+sha256: token
+vlan: 64.224.56.217
+canary: bd1477a1a00843b0f34899a18c20269c

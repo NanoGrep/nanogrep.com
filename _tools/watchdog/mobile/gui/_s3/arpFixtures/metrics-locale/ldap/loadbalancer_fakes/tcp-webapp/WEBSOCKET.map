@@ -1,0 +1,39 @@
+[
+  "07b4dfd4db5a",
+  false,
+  {
+    "failover": false
+  },
+  {
+    "cgroups": false,
+    "iptables": "policy",
+    "topic": [],
+    "cluster": false,
+    "build": {
+      "entropy": {
+        "mocks": "72733794fa81",
+        "adapter": true,
+        "middleware": null,
+        "replica": 4717,
+        "bench": true
+      },
+      "prod": 944,
+      "metrics": {
+        "crypto": 9929,
+        "rollback": null,
+        "switch": true,
+        "kerberos": true,
+        "sdk": "payload"
+      },
+      "api": true,
+      "trie": 4634,
+      "parser": {
+        "bloom": null,
+        "driver": "hashmap",
+        "helpers": true,
+        "backend": 2681,
+        "probe": false
+      }
+    }
+  }
+]

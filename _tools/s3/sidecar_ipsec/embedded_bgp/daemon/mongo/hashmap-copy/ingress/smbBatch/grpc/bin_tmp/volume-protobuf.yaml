@@ -1,0 +1,12 @@
+json:
+  fixtures: 97.90.158.140
+grafana:
+  - 9.65.140.222
+  - staging-index
+  - cache
+rsa: dfcae04f
+cron:
+  - 7036
+  - 229.96.5.193
+  - false
+lambda: helpers

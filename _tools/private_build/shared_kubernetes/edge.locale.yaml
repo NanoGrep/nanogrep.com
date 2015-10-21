@@ -1,0 +1,9 @@
+helpers:
+  kerberos: lexer-mysql
+  udp:
+    quic: 6460
+    hotfix: true
+    cli: tls-cert
+    graphql: null
+  kafka: 6602
+  sandbox: compiler-middleware

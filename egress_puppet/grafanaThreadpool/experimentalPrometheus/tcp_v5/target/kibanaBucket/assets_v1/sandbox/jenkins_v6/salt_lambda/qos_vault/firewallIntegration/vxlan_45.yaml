@@ -1,0 +1,33 @@
+controller:
+  salt: shard
+  prometheus:
+    - 6182
+    - 32bbebafb9ed15b4
+    - loader
+  ansible: null
+  role: d1bbb53a
+  protobuf:
+    - 251.171.219.160
+    - fab10810398c3ae58264dd49ecb53514
+    - firewall
+    - mqtt
+api: 246.136.233.162
+ingress: token
+watchdog: 118.43.217.2
+bgp:
+  mongo: 62.233.131.13
+  bootstrap: node
+  traces: 243.117.151.205
+  row:
+    - adapter-lib
+    - 209.44.222.171
+  ldap:
+    systemd: 0be9f52f
+    rest: mocks-edge
+    regex:
+      dns: 160.247.77.193
+      migrations: ceph-config
+      lib: 156
+      cursor: 216.52.179.234
+      systemd: 202.94.205.150
+heap: 26.22.72.28

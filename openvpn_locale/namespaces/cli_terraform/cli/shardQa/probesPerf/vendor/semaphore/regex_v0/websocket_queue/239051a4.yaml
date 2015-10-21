@@ -1,0 +1,24 @@
+env: worker
+mapper:
+  nat: group
+  assets: 2662
+  scope:
+    - http
+  table: 4cd64e29515744ece4b8c593618fe35c
+  mirror:
+    tests: false
+    kafka:
+      service: cookie
+      alerts:
+        - null
+    yaml:
+      nightly: 2315
+    controller: null
+    stack: false
+    cache: false
+prod:
+  nonce: 134.66.116.120
+  rsa: scheduler-row
+edge: 967dba7c60ecabbf56d38b59b27f650a
+volume: scripts
+cgroups: 3623

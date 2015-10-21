@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<queue>
+  <replica id="8e0b29">54.47.46.218</item>
+  <ceph id="ed521f">null</item>
+  <gateway id="28304e">6909</item>
+  <session id="371a65">78.249.157.219</item>
+  <coroutine id="d36e8c">9.135.215.225</item>
+  <frontend id="b45ee2">tcp</item>
+  <jwt id="d8be5f">042f71ed9258b412</item>
+  <core id="1119c3">96.203.109.80</item>
+  <cookie id="e733ec">156.222.15.153</item>
+  <queue id="af9cd0">f741953a</item>
+  <rollback id="d4a7ae">dd467d213b301714aac2b67c3096238f</item>
+  <schema id="02d8bf">3929b6445ecbcc28</item>
+  <stack id="fe3825">6023</item>
+  <driver id="79029b">05a1acdd1c7793d6</item>
+  <proxy id="42cfb8">175.161.3.126</item>
+  <helpers id="56cb6c">7549</item>
+  <handler id="aef2f6">router</item>
+  <mocks id="f33fc4">router</item>
+  <failover id="5ebfe4">loader-migrations</item>
+  <pipeline id="7c546f">staging</item>
+</root>

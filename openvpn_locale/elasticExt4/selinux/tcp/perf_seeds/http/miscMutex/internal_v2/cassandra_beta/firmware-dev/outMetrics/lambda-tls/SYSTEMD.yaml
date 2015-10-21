@@ -1,0 +1,26 @@
+env: 7391c28a2672426660921c51f962caed
+rollback: nightly
+http: bucket-quic
+node:
+  kernel: 199.19.133.239
+  graphql: group-stream
+  probe: null
+  nfs:
+    router: logs
+    heap:
+      dist:
+        - 51db13c8be9be87b
+        - loader
+      edge:
+        - 02481b3c9f3a1f1e6eb9371a348f4dfe
+        - firmware
+        - role-ldap
+        - templates-volume
+      redis: false
+      fuzz: templates-user
+      aes: 6093
+    mocks: c40c9c392c5ff2e8d1c16bcfc03663c2
+    envoy: false
+  kerberos: cache-udp
+  dhcp: 0831c35bc03de8dd
+limit: d3cc2b7c

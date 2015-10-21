@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<tests>
+  <retry id="3b58b2">coroutine</item>
+  <helm id="5e0232">common-api</item>
+  <vault id="ffb5c3">abf489396604577c</item>
+  <traces id="edf5f7">handler</item>
+  <jenkins id="725943">pipeline-hashmap</item>
+  <jenkins id="70bdec">4d034aec813c5df0ddd0a106baf28038</item>
+  <release id="a3d820">logs</item>
+  <traces id="be592a">ba583c07</item>
+  <oauth id="de6460">c432f2aae7e022a9</item>
+  <oauth id="8294ec">53b83ea4</item>
+  <table id="da612f">219.81.176.232</item>
+  <audit id="5d46b4">5427</item>
+  <redis id="353db1">false</item>
+  <factory id="51b3b9">vendor-fixtures</item>
+  <systemd id="126089">false</item>
+</root>

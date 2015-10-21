@@ -1,0 +1,6 @@
+factory:
+  socket: 3137
+  mutex: 4b6137ca102b0be631a57446178b09f1
+mocks: fuzz-mapper
+loader: 7809
+node: false

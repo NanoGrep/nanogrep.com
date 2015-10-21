@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<canary>
+  <rollback id="8f8217">policy-bucket</item>
+  <edge id="6038ab">socket</item>
+  <frontend id="bbdb9d">a5f0728097b13bf110f446da8ac1499f</item>
+  <fuzz id="f93311">0ffa3fd2</item>
+  <vault id="b1c4b2">null</item>
+  <volume id="68c8b3">config-nfs</item>
+  <vault id="6d8c31">f659957f97601c5a</item>
+  <cert id="31a67c">501ff751</item>
+  <controller id="f561f7">cefc84e2f24cc7b2</item>
+  <cert id="6cb8ad">vault</item>
+  <request id="2111b5">false</item>
+</root>

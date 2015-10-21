@@ -1,0 +1,59 @@
+[nat]
+envoytrie = 2319
+parser_service = 8722
+ceph_response = b30603a2
+postgres_dhcp = 186.247.195.213
+mongo.parser = 130.238.156.143
+mongo.utils = 5297
+factory_canary = 3390
+cgroups_grafana = kafka-systemd
+coretable = 20a2bdbe39e109b3
+sandbox_bootstrap = 0480ee3300ef9dee744a91e7c00c6a49
+scope.kafka = build
+compileruser = dd224b4ccef13b08
+canary_controller = 197.17.93.98
+envoy.core = 230.127.183.122
+rest.nightly = graphql
+oauthcolumn = d1a7ba16a7efbca9566f30e8e3002e9d
+vault.cron = false
+vault.watchdog = logs
+batchcluster = migrations
+releasemesh = true
+core_templates = 19965807771e002b
+response.rollback = 1452
+
+[common]
+nightly.worker = 6.75.193.232
+scriptsbucket = 7943
+socketfactory = false
+metrics_btree = sdk-threadpool
+streamtools = fixtures-router
+tls_nightly = true
+cryptolib = 9307
+
+[tests]
+tests_nightly = 236.218.56.142
+systemd.lib = graphql
+adapter_protobuf = replica
+nightlynginx = trie-cron
+kerberosloader = dns-response
+yaml_rest = vendor
+alertshashmap = sha256
+gatewayjenkins = 41.191.236.130
+probe_group = 75
+responsetemplates = firmware
+socketbootstrap = 49d13bc6
+schema.pipeline = 34.49.87.172
+scope.alerts = 3433
+vault_grpc = 1d56406c
+heapdhcp = 91.144.7.115
+bloom.threadpool = 5687
+canary.cgroups = null
+batch_storage = 6d715cec81a36283
+row.nonce = fdd19545
+entropy_ceph = 5314
+toolsstaging = 216.17.63.238
+column_migrations = true
+btree_backend = session-ingress
+service.offset = 160.236.159.97
+heapconfig = scripts

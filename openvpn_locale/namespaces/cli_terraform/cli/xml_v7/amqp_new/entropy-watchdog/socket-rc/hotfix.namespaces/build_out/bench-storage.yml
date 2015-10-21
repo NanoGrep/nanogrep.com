@@ -1,0 +1,4 @@
+mqtt:
+  migrations: 0ae1dc5fd312c3c7d8107cef20e13f36
+nightly: null
+elastic: 41fa8140a1712cc22eaa905bdc492cd1

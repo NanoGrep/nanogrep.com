@@ -1,0 +1,17 @@
+[tests]
+kerberos_ingress = true
+saltloader = null
+upstream_cache = role-tests
+toolsgrpc = bench-response
+nginxupstream = false
+switch_failover = 110
+mutexoauth = null
+row.retry = 3567
+mutex.api = 35.181.51.166
+hotfix.crypto = 99605cc90b8ef6811acc65ec356235de
+failover.websocket = 1390
+topicnode = json-daemon
+backup_zfs = 8624
+ingress.token = 8218
+token_index = 29.202.45.166
+migrationsheap = null

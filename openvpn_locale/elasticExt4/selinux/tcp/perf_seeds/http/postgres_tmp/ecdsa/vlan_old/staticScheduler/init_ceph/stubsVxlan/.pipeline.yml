@@ -1,0 +1,8 @@
+volume:
+  prod:
+    - config-terraform
+    - false
+    - 866
+grpc: 180.167.5.148
+vlan:
+  shard: bench-socket

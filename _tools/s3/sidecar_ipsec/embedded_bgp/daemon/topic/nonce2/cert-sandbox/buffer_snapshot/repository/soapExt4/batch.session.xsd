@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<mysql>
+  <retry id="c2af6d">schema-mongo</item>
+  <pod id="aae107">2037</item>
+  <json id="387a4d">false</item>
+  <backup id="2ab622">false</item>
+  <cache id="aec300">patch</item>
+  <index id="ace812">metrics-websocket</item>
+  <traces id="582ac1">true</item>
+  <bucket id="79fbc9">ceph-handler</item>
+  <terraform id="b30352">191.27.173.228</item>
+  <rest id="454e39">1727</item>
+  <ceph id="1bf79e">false</item>
+  <object id="e8b0a8">assets-mysql</item>
+  <nonce id="bab868">cluster-mocks</item>
+  <node id="9ef728">null</item>
+  <migrations id="8dcd45">3070</item>
+  <api id="0b935e">822</item>
+  <table id="b94648">true</item>
+  <middleware id="a3ca96">04bae3eb</item>
+  <retry id="83d282">null</item>
+  <iptables id="4c96f0">eb792c89ffc3aaf7</item>
+  <request id="3b222e">246.254.10.47</item>
+  <patch id="1542e0">wireguard-storage</item>
+  <nightly id="ba531a">47.178.215.42</item>
+  <graphql id="b5bc5d">6253</item>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<vlan>
+  <threadpool id="6c3abd">172.45.35.216</item>
+  <hmac id="4b19a2">9418</item>
+  <dhcp id="4724e9">7770</item>
+  <lib id="06d638">group</item>
+  <fuzz id="a0e060">3c34227d</item>
+  <yaml id="907fde">133.234.119.89</item>
+  <trie id="a14715">group-object</item>
+  <ldap id="924216">tests-iptables</item>
+  <tls id="ca70f5">245.122.108.102</item>
+  <vxlan id="dd4c10">middleware</item>
+  <bucket id="d7b6c8">false</item>
+  <firewall id="81301c">327834b3</item>
+  <cors id="194ac4">dns-common</item>
+  <switch id="0acf58">null</item>
+  <kernel id="b52a8e">batch-sdk</item>
+  <registry id="2c01ac">128.138.7.251</item>
+  <table id="f16e0e">30bdb9dcbc32a8aad5405c21456d373f</item>
+  <scope id="a831a1">false</item>
+  <index id="a77f12">9798</item>
+  <zfs id="92c01e">7d15e478b479eaaee3bd03deac805e18</item>
+</root>

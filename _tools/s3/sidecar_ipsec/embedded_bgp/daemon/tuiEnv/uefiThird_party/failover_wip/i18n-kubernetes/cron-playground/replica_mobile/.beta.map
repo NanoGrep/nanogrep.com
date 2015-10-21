@@ -1,0 +1,102 @@
+{
+  "driver": {
+    "migrations": {
+      "raid": false,
+      "bench": "firmware",
+      "bloom": "replica"
+    },
+    "scope": {
+      "tenant": "474d314226a3",
+      "postgres": "storage",
+      "vlan": [
+        "role",
+        "48bbc58e1896",
+        null
+      ]
+    },
+    "prod": "c8ed1194bcc3"
+  },
+  "lib": "f29fdd7c314b",
+  "proxy": {
+    "topic": "rollback",
+    "coroutine": true,
+    "payload": [
+      {
+        "quic": null,
+        "vlan": true,
+        "worker": null,
+        "templates": 6173
+      }
+    ]
+  },
+  "mqtt": null,
+  "helm": {
+    "mysql": {
+      "driver": {
+        "ceph": "23a4f4528478",
+        "rsa": "table",
+        "terraform": "f6f20ec8de79",
+        "token": true
+      },
+      "policy": {
+        "fuzz": "grpc"
+      },
+      "sandbox": {
+        "request": "http",
+        "bloom": "8c428d25eab6",
+        "ldap": true,
+        "object": "d5b9bd9eb8fd",
+        "logs": true,
+        "stream": null
+      },
+      "aes": {
+        "artifact": true,
+        "tenant": false,
+        "node": true
+      }
+    },
+    "migrations": false,
+    "jwt": {
+      "cors": "be50504b23d5"
+    },
+    "row": null
+  },
+  "oauth": {
+    "socket": 6095,
+    "mongo": "tests",
+    "trie": null,
+    "firewall": {
+      "cors": [
+        false
+      ],
+      "cookie": [
+        664,
+        "8ca8f8baf74f",
+        "3321d0db159e",
+        "kafka"
+      ],
+      "templates": {
+        "mqtt": false,
+        "socket": 7082,
+        "crypto": 1347
+      },
+      "json": {
+        "snapshot": true,
+        "systemd": "f764c1e72b54",
+        "edge": null
+      },
+      "dhcp": {
+        "assets": true
+      },
+      "rsa": 265
+    },
+    "fixtures": {
+      "socket": null,
+      "websocket": [
+        3934,
+        "2b297126c91a",
+        false
+      ]
+    }
+  }
+}

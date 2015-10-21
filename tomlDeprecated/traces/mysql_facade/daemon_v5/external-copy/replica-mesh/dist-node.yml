@@ -1,0 +1,6 @@
+shard: 25.167.218.71
+fixtures:
+  - http-edge
+  - 78a33172312e162011ab7aa86862f2f6
+  - templates-terraform
+  - 225.113.115.100

@@ -1,0 +1,7 @@
+beta:
+  fuzz: 180.2.57.49
+daemon:
+  - 6178
+  - prod
+  - 1371
+router: null

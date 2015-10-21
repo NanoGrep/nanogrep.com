@@ -1,0 +1,41 @@
+stack: 212.142.37.119
+kernel:
+  core:
+    - 34.106.223.169
+  heap:
+    user:
+      - index-migrations
+      - 116.131.26.118
+      - ffcc76a420fdd8d03ae2cc6c50c05236
+    sha256: staging
+    nat: ansible
+    udp: storage-json
+  postgres: 218.18.236.81
+  session: controller-artifact
+  mirror:
+    ldap:
+      - 8175
+      - json-assets
+      - true
+      - 32741e17
+    buffer: probe-adapter
+failover: false
+utils:
+  - assets-artifact
+snapshot: raid
+tests:
+  regex: 118.67.142.165
+  payload:
+    bloom:
+      nightly: tls-topic
+      staging: 20.137.40.239
+    upstream:
+      beta: 87ec79cdb01d202be30780d4e274d3f3
+      ceph:
+        - null
+      router:
+        - 1927
+        - null
+        - true
+        - e52305a4cfc3515e12fd230532fa564a
+  prometheus: true

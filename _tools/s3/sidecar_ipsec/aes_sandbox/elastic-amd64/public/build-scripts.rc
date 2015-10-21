@@ -1,0 +1,65 @@
+[firmware]
+regex_dhcp = pipeline
+storage.offset = 41.202.90.28
+grouppostgres = true
+topic.driver = 1743
+legacy_snapshot = 8dde9c5d0f5749cd
+routercolumn = threadpool
+retrytemplates = 230.120.146.10
+factoryrequest = assets-protobuf
+lexerscheduler = staging-bgp
+terraform.release = upstream-watchdog
+role.http = 1866
+cookie.group = null
+snapshotrow = user-hashmap
+
+[lib]
+watchdog.storage = 39a0ad75cee4adbb6656190ac32cffe5
+sandbox.lexer = 2c60a0aee0fd740a9c830ad2e4d835b5
+dns.prod = traces-cluster
+servicemigrations = d7d14a8bcad429cd
+batch_protobuf = 24d39ef0
+serviceassets = 48.145.1.133
+batch_vendor = udp-entropy
+row.service = dns-heap
+cookiekafka = build
+compilertls = 1168
+policy.request = 7.124.226.101
+cluster_probe = false
+mutex_nat = 197.120.11.164
+quic.snapshot = nightly-vlan
+lambda_middleware = null
+bgp.table = 11.61.251.106
+fuzzceph = cgroups
+socket.factory = 8497
+rediscoroutine = 17.139.254.179
+
+[tenant]
+envoysnapshot = 72.114.243.225
+tools.common = 220.240.29.81
+json_env = hmac-vlan
+watchdog.storage = f78b68c8c7e5f657
+
+[row]
+mesh_nfs = firmware-socket
+terraformkerberos = firmware-switch
+subnetscripts = response-nginx
+bgp_router = true
+patchfixtures = 234.77.142.92
+tests_hmac = 8e8acbce3c1a4529
+patchproxy = iptables-dns
+clielastic = entropy
+middlewarestaging = 227.7.72.246
+shard_lexer = 976eacda537ba14bca2eb8adcce866cf
+lexergraphql = true
+podswitch = 4940
+limit_dns = 7fc6a7f8f1e3a2d1573d7edb0df7de32
+threadpool_ceph = 12.89.4.225
+registry.legacy = true
+snapshot.sha256 = 4d12a182
+patch_origin = 33344665
+sha256storage = 1099
+utilsnonce = b0b440a8f6142c11
+envoy_grafana = 4477
+nightly.origin = true
+heapscheduler = 13.204.240.231

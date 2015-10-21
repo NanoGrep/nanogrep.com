@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<nonce>
+  <firmware id="7ddab0">json-helpers</item>
+  <release id="5333fa">c4835017b0725447922136d57deeee10</item>
+  <kafka id="d819ec">config</item>
+  <terraform id="de37bb">table-response</item>
+  <regex id="02c9f5">cert-group</item>
+  <locale id="f8c195">5625</item>
+  <scripts id="6919c9">wireguard</item>
+</root>

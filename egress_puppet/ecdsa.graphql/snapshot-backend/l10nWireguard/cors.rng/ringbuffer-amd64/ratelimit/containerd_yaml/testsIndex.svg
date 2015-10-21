@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<mqtt>
+  <stack id="e8e5c0">223.244.241.137</item>
+  <adapter id="fa483a">false</item>
+  <probe id="f6e0ef">245.67.217.7</item>
+  <jwt id="238de4">210.187.195.179</item>
+  <hashmap id="3344e9">true</item>
+  <backup id="50803a">38.130.51.246</item>
+  <helpers id="e5b4f7">132.102.249.177</item>
+  <vendor id="e24d5e">123.45.120.84</item>
+  <proxy id="ef1d83">true</item>
+  <nat id="4745d3">heap</item>
+  <edge id="37ca56">8909</item>
+  <api id="7bb58d">2cbc5dcc</item>
+  <tests id="f2a019">91.3.156.241</item>
+  <worker id="96e6ba">legacy-locale</item>
+  <postgres id="4798d8">249.44.101.218</item>
+  <quic id="d44f7b">true</item>
+</root>

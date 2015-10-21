@@ -1,0 +1,7 @@
+wireguard: 4749
+socket: token
+sdk:
+  firewall: watchdog
+  udp: 7dc808e677326d53
+dist: true
+grafana: traces-cgroups

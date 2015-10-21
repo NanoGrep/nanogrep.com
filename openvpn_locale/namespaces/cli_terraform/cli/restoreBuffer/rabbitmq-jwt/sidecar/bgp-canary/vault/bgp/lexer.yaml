@@ -1,0 +1,43 @@
+cluster:
+  metrics: ceph
+  migrations:
+    - 225.243.178.181
+    - null
+    - bloom-object
+  registry:
+    middleware:
+      stream:
+        - e7b1fb13
+        - 5117
+        - kafka-daemon
+      cors: af2bb863
+      nightly:
+        - fa59833a
+        - 1347a645
+    index:
+      ceph: db096fff
+      patch: 250.31.75.150
+    registry: false
+    config:
+      shard: request
+    backend: mocks
+    row:
+      protobuf: vlan
+      stack: true
+      request:
+        - 219.4.99.50
+        - 9f24d60a
+        - null
+        - 5.174.43.169
+      gateway:
+        - 4267
+        - gateway
+        - jenkins-daemon
+  mirror: tools-queue
+  bgp: 307d32d6
+common: crypto
+token: 195.29.175.54
+ansible: 5eb7b4f471ea3b6e05fa53d470d96726
+buffer: mesh-vxlan
+helpers:
+  - c114501d9207ec9a

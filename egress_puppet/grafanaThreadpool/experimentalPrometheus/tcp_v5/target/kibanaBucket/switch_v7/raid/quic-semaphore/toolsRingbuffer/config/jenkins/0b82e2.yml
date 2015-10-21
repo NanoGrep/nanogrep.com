@@ -1,0 +1,16 @@
+dns:
+  prod: 4919
+  hashmap: worker-btree
+  udp:
+    shard:
+      redis:
+        - assets-bucket
+    ansible: null
+    failover: 5612e1180aa6d3cd6e6522e0a7d615a0
+build:
+  - false
+  - mutex
+  - 239.196.95.15
+core: upstream
+topic: middleware
+pod: 6538

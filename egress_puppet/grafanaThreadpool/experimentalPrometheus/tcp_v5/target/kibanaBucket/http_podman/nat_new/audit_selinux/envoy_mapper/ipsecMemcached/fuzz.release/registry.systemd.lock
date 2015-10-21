@@ -1,0 +1,35 @@
+{
+  "switch": [
+    "alerts",
+    {
+      "tenant": null,
+      "lambda": [
+        false,
+        null,
+        true
+      ],
+      "adapter": {
+        "staging": true
+      }
+    },
+    [
+      [
+        false,
+        null
+      ],
+      {
+        "heap": "75cc8724794d",
+        "env": true,
+        "scheduler": null,
+        "scripts": null,
+        "elastic": 192,
+        "tls": 486
+      }
+    ],
+    [
+      {
+        "index": "f1037b3fada2"
+      }
+    ]
+  ]
+}

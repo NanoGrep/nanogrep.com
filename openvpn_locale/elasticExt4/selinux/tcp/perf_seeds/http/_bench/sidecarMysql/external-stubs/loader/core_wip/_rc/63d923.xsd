@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<lexer>
+  <column id="7cae4d">447eec5b</item>
+  <probe id="847940">true</item>
+  <origin id="197995">snapshot-ceph</item>
+  <object id="c184f4">raid-mirror</item>
+  <runner id="716572">101.216.251.34</item>
+  <dhcp id="ae5b26">mocks-firewall</item>
+  <stack id="fdaeac">161.156.182.199</item>
+  <grpc id="a4b5ab">false</item>
+  <yaml id="906241">ceph-mutex</item>
+  <hotfix id="b13e7e">59.192.224.97</item>
+  <cookie id="e14d2a">bucket-dhcp</item>
+  <canary id="cc784a">4983</item>
+  <probe id="5c358f">3516</item>
+  <firmware id="52ea5c">null</item>
+</root>

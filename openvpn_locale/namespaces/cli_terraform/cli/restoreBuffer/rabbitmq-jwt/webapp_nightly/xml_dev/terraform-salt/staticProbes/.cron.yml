@@ -1,0 +1,16 @@
+request: 4142
+session: buffer-json
+backend: true
+coroutine:
+  adapter:
+    migrations:
+      - 161.143.246.73
+    ansible:
+      tcp: graphql-semaphore
+      udp: null
+    nfs: 3931
+    metrics: assets-response
+  proxy:
+    - 4.252.198.130
+    - true
+threadpool: 65124c042cd8fa2a

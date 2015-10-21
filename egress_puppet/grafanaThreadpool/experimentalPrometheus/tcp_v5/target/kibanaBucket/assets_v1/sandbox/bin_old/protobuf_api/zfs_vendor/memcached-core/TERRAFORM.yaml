@@ -1,0 +1,16 @@
+cursor: 3803
+mirror:
+  - 1123
+  - true
+  - vault-role
+wireguard: b3dc070cba354995b15367fc6ecaced9
+backend:
+  bench: mqtt
+  traces: true
+  alerts: 443
+  bench:
+    protobuf: 9770
+    backup: 2918
+    http: f279bd174c7a324a6eb6df6f0f1d1df2
+    threadpool: true
+  bloom: salt

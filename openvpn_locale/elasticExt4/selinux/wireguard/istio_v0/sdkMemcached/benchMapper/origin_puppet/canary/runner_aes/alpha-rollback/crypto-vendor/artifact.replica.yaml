@@ -1,0 +1,57 @@
+sha256:
+  - 4d3de2fffb3bc7dc
+dhcp:
+  patch: proxy-assets
+adapter:
+  factory:
+    shard:
+      protobuf: a3b48bf4d168fe4c
+      nat: mongo-queue
+      object: patch-artifact
+    graphql:
+      kernel: 5649
+      node: 1198
+  mutex:
+    user:
+      - watchdog
+      - b46b6fd6
+    token:
+      btree: ca54900b75735cf0
+      origin:
+        - 3b3f06bc50f7c70e
+        - 50
+    nfs: 4793
+    offset: 3122
+  tests: 3424
+  heap:
+    canary: 927
+    nonce:
+      queue: lambda-legacy
+      tools: true
+      vxlan: scope-nightly
+    stack: 196.122.142.29
+  worker: 7981
+oauth: tenant
+session:
+  subnet:
+    volume: queue-adapter
+    mysql:
+      - mutex
+      - null
+      - 131.40.2.252
+    threadpool:
+      jwt: mutex-snapshot
+      snapshot: b77c1b995be0b730
+      protobuf: storage-common
+      cli: 254.207.132.82
+    zfs: vxlan-failover
+    bgp:
+      - 2190
+      - service
+    graphql: 198.156.140.177
+  firmware: false
+topic:
+  - object-hotfix
+  - 1835
+  - 249.239.22.198
+  - cgroups

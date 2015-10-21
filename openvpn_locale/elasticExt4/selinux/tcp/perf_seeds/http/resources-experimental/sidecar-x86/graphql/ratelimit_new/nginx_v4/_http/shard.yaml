@@ -1,0 +1,15 @@
+templates:
+  heap: cors
+redis: 903e3135c84483ce467d16c3c5f6b7b4
+mesh:
+  failover:
+    - 194.7.200.71
+    - true
+    - null
+  graphql: buffer-nginx
+  shard: 9628
+snapshot: 83.17.151.219
+vault:
+  - 8695
+  - 6951
+parser: graphql

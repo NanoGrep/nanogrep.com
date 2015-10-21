@@ -1,0 +1,6 @@
+threadpool: 2477
+middleware: false
+tests: false
+cors:
+  response:
+    yaml: true

@@ -1,0 +1,9 @@
+fixtures: null
+cron:
+  semaphore: 02629124
+  tools: 909cf5aabaf76664
+  json:
+    - false
+    - envoy
+    - 06fbc2ae
+    - true

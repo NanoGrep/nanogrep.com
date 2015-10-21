@@ -1,0 +1,17 @@
+sandbox:
+  semaphore:
+    mirror: 61.72.54.198
+    cert: handler
+    zfs:
+      iptables: 6345170b
+      socket: true
+      udp: false
+      protobuf: 171.235.148.163
+    parser: 66.244.91.19
+    prometheus:
+      snapshot:
+        - bench-snapshot
+        - 66.141.5.151
+    release: 219.205.38.113
+  coroutine: replica
+  switch: 34.217.167.79

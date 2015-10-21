@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "tests": {
+        "daemon": "18fbfbab358b"
+      },
+      "vlan": [
+        "c620ddc96b4a",
+        false,
+        false,
+        "0f324fc0e062"
+      ],
+      "protobuf": false,
+      "snapshot": {
+        "postgres": "upstream",
+        "kernel": "socket",
+        "switch": true,
+        "firewall": "gateway",
+        "fixtures": false
+      },
+      "semaphore": [
+        null,
+        null,
+        "c6bb3e7d0546"
+      ]
+    },
+    5274,
+    {
+      "regex": null,
+      "cert": [
+        6540,
+        false
+      ],
+      "json": null,
+      "queue": 4570
+    }
+  ]
+]

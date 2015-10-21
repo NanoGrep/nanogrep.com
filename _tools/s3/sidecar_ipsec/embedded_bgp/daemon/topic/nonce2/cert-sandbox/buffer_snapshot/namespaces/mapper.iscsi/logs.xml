@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<mesh>
+  <wireguard id="a2fbd8">247.190.110.136</item>
+  <env id="e3283b">adapter</item>
+  <limit id="8dfeb9">failover-cache</item>
+  <legacy id="e51546">15.200.156.18</item>
+  <retry id="141404">tls</item>
+  <worker id="604e57">524d471a70275fca</item>
+  <token id="654721">ccc44110</item>
+  <loader id="1736ed">true</item>
+  <trie id="0d9897">legacy</item>
+  <backend id="0e6cf2">e2513b3c44907d5050c0d963e53c01aa</item>
+  <beta id="21dea4">false</item>
+  <controller id="cf2490">node-crypto</item>
+  <offset id="200b9e">handler</item>
+  <vendor id="98d6b6">6099</item>
+  <legacy id="af1444">column</item>
+</root>

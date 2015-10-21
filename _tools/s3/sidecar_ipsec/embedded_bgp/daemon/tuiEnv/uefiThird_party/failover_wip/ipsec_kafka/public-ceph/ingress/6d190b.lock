@@ -1,0 +1,1 @@
+{"entropy": [], "fixtures": "d708a08c2e03", "daemon": [{"staging": ["hotfix", false], "mysql": {"nginx": "wireguard", "service": true}, "nat": null}, null, 8609, 5221]}

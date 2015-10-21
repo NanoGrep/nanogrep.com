@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<middleware>
+  <origin id="dc28c0">95.112.166.53</item>
+  <dhcp id="625a1a">true</item>
+  <helpers id="ae04b9">middleware-audit</item>
+  <scope id="36c7f0">mirror</item>
+  <tools id="e79396">jwt-dns</item>
+  <helpers id="02fc92">497</item>
+  <trie id="3114f8">null</item>
+  <row id="ba3561">82.62.158.225</item>
+  <grpc id="f0ee76">sandbox</item>
+  <grafana id="64e86c">false</item>
+  <postgres id="0b65ee">null</item>
+  <metrics id="475015">2c87e12af39202c25e63a72b41c318f0</item>
+  <failover id="1bfcef">103.61.244.157</item>
+  <legacy id="4724e6">3bda3c8d</item>
+  <fuzz id="81498f">mongo-nfs</item>
+  <threadpool id="774b40">table-ingress</item>
+  <bucket id="7dfed1">false</item>
+  <fixtures id="4b7273">topic</item>
+  <prometheus id="cd639b">storage-canary</item>
+  <jenkins id="4164e3">75.105.179.189</item>
+  <core id="e01f8b">null</item>
+  <graphql id="8e9cff">138.81.30.46</item>
+  <schema id="4478db">postgres</item>
+  <pod id="f16a93">2c7cb670a06bdca849560d72e362b295</item>
+  <mocks id="8eb49b">216de2b7e414c2ce03e4a7f9f8d1fdca</item>
+</root>

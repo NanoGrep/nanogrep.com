@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<replica>
+  <raid id="04f5ff">udp</item>
+  <grafana id="932634">nonce-dhcp</item>
+  <sdk id="28ccee">grpc-token</item>
+  <lexer id="8b629e">lambda-websocket</item>
+  <websocket id="e3f3bb">5145</item>
+  <index id="b40f90">tests-bgp</item>
+  <coroutine id="3a57f7">212.57.244.124</item>
+  <scheduler id="d713d2">ingress-group</item>
+  <lib id="dd6afb">null</item>
+  <heap id="ee1f54">457044b19431604763dfc077edb6b1a2</item>
+  <nginx id="81c67b">null</item>
+  <vault id="522323">true</item>
+</root>

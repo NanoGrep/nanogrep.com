@@ -1,0 +1,17 @@
+cli: 7171
+mqtt: 238.192.133.239
+request:
+  - e05bf5e946be2614
+  - 31ed8c47a650d4b60eb2f4f7ca2e5732
+  - null
+  - 595fefb84da9710c78fc007838621cf7
+bloom:
+  grpc:
+    - 1865
+    - null
+    - 4659
+lexer:
+  - 132.238.213.132
+  - 6363
+  - 225.219.132.157
+ldap: false

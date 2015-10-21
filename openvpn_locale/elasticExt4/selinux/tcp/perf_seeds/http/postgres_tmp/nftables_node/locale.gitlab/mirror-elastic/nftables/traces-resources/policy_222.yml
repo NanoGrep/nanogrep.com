@@ -1,0 +1,21 @@
+rsa: null
+wireguard: common-mapper
+vault: 204.186.30.40
+daemon: 14.38.126.95
+raid:
+  lambda:
+    canary:
+      - 4595
+      - 8fb6ea89
+      - 91.139.94.54
+    ansible:
+      threadpool: e58cf47b0a82b0c24af5461d39af733f
+      nat: 219.52.78.248
+      ldap: 182.50.66.247
+      rest: mutex
+    audit: config-prometheus
+    daemon: 189.163.224.119
+    hmac: 4364
+    build:
+      - false
+      - true

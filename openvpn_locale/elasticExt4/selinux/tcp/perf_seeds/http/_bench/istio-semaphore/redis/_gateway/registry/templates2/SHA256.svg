@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<firmware>
+  <hmac id="d02643">147.9.84.166</item>
+  <assets id="ee5713">threadpool</item>
+  <traces id="8c60ba">service-artifact</item>
+  <table id="98d27b">080f61fdbd7795c0</item>
+  <dhcp id="7f84d5">8397</item>
+  <redis id="34ee53">null</item>
+  <stream id="107f91">null</item>
+  <firmware id="ef1ce4">null</item>
+  <role id="05b464">54.69.149.19</item>
+  <edge id="00de39">ansible</item>
+  <ldap id="c16e71">7232</item>
+  <driver id="9d7ce3">46b07bcf</item>
+  <row id="d249ac">null</item>
+  <heap id="060802">2cafc087721383c9cbbdfc680a8b229f</item>
+  <daemon id="a72dd8">cgroups</item>
+  <cert id="6dcdf7">token-retry</item>
+  <topic id="b258e9">a469e291</item>
+  <gateway id="4ecfce">1763</item>
+  <lib id="d83eac">sha256-shard</item>
+  <prod id="d5895c">graphql</item>
+</root>

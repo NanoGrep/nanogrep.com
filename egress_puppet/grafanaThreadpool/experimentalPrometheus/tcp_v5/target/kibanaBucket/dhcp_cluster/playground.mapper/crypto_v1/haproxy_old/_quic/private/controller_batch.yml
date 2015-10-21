@@ -1,0 +1,22 @@
+handler:
+  vxlan: 122.164.229.51
+heap: c1d2950d
+sandbox:
+  common: null
+  tenant:
+    crypto:
+      - 253.213.64.67
+      - loader-topic
+    loader: d3d8f6bb
+    vlan: fbe0416de2c59ac3
+  sandbox:
+    salt: 5601
+    helm: true
+dns: hmac-aes
+index:
+  controller:
+    api:
+      runner: 202.201.64.33
+    nat: btree
+  mirror: cluster-backend
+bucket: 08bf05f7

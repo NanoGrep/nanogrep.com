@@ -1,0 +1,26 @@
+loader:
+  common:
+    tls:
+      mesh:
+        - true
+        - cgroups
+        - salt
+      token: 6953
+      metrics:
+        - grafana-assets
+        - salt-registry
+        - mongo
+        - null
+      helpers: null
+semaphore:
+  - true
+column: true
+handler: 80c429c02778043f21bab2d483105dc4
+helm:
+  - 9025
+  - null
+firmware:
+  - 251.24.207.87
+  - fixtures-worker
+  - false
+  - grpc-dhcp

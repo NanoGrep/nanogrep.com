@@ -1,0 +1,12 @@
+redis:
+  - 130.7.82.114
+  - 1b9504fbccbb4dc9
+  - grafana
+  - cache
+metrics:
+  artifact: 101.57.68.95
+tests: 152.10.153.97
+graphql: false
+probe:
+  - 9784
+nat: cors

@@ -1,0 +1,29 @@
+[
+  [
+    [
+      {
+        "parser": "bench",
+        "stream": "19a6d126afbf"
+      }
+    ]
+  ],
+  {
+    "nginx": {
+      "rsa": "mirror",
+      "storage": {
+        "jwt": true,
+        "mocks": null,
+        "staging": null
+      },
+      "semaphore": 7592,
+      "iptables": {
+        "systemd": 7626,
+        "assets": false,
+        "ldap": "sha256",
+        "sandbox": 531,
+        "scripts": false,
+        "stack": "6c7f6fb9a9b7"
+      }
+    }
+  }
+]

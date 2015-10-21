@@ -1,0 +1,7 @@
+rollback: 195.39.250.184
+table: f99a46b12cfacbbe8163f9ad43c6b5e5
+kernel:
+  - table
+  - 5980
+  - 232.251.82.10
+policy: rollback

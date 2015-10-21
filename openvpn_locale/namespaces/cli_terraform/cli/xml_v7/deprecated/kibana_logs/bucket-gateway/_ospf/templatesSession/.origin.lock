@@ -1,0 +1,90 @@
+{
+  "limit": "parser",
+  "upstream": "loader",
+  "heap": {
+    "staging": 4764,
+    "switch": {
+      "aes": {
+        "switch": "ff90e52425dc",
+        "response": "runner",
+        "row": 2661,
+        "helpers": false
+      },
+      "adapter": null,
+      "config": {
+        "registry": null,
+        "tls": true,
+        "retry": true,
+        "legacy": "replica"
+      },
+      "mqtt": false,
+      "oauth": false,
+      "scope": null
+    },
+    "hmac": [
+      7234,
+      "904cbf58280c"
+    ]
+  },
+  "yaml": true,
+  "daemon": [
+    {
+      "coroutine": "vault",
+      "ldap": {
+        "mesh": "vendor",
+        "cache": false,
+        "prod": "switch",
+        "jwt": false,
+        "cluster": null
+      },
+      "object": "9dafc0fd4017"
+    },
+    {
+      "crypto": "tls",
+      "mocks": "eb3db0a8942c",
+      "rest": {
+        "regex": "sandbox",
+        "row": "factory",
+        "cors": false,
+        "mqtt": null,
+        "replica": "pod",
+        "tenant": "2bdfaadb504a"
+      },
+      "grpc": {
+        "vendor": true,
+        "iptables": "8d4f7f969301",
+        "wireguard": false
+      }
+    },
+    "backend",
+    {
+      "rsa": {
+        "scheduler": null
+      },
+      "payload": {
+        "sandbox": false,
+        "storage": 937,
+        "tls": "d36a77332e78",
+        "switch": "sandbox",
+        "mutex": 5945,
+        "fixtures": false
+      },
+      "json": {
+        "factory": "3ebb350e0e97",
+        "helm": "58ea96063837"
+      },
+      "column": {
+        "pod": null
+      },
+      "scope": {
+        "ingress": "82a06697dd53",
+        "coroutine": true,
+        "scripts": "vendor",
+        "queue": 291
+      }
+    }
+  ],
+  "mesh": {
+    "config": "db77225f78bb"
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<proxy>
+  <logs id="445925">154.169.133.26</item>
+  <retry id="9035a7">true</item>
+  <queue id="4ff622">6e5dc52b</item>
+  <tests id="d6aa40">10.87.46.119</item>
+  <worker id="c33db7">2981</item>
+  <salt id="17e68d">1267</item>
+  <nfs id="e81df8">null</item>
+  <bootstrap id="3899cc">true</item>
+  <heap id="c8ce81">244.184.7.29</item>
+  <switch id="62bc77">adapter-gateway</item>
+  <ansible id="dfd46f">101.10.120.140</item>
+  <cursor id="f9b093">switch-rsa</item>
+  <runner id="9e2c65">9fa7bd36</item>
+  <pod id="d56183">63aeaf80</item>
+  <pod id="cfc38b">95e96921208f4c82997837ba3ef7638b</item>
+  <grafana id="4ac4ae">0db3438e8d72337a393a810a6c9ea8d9</item>
+  <pipeline id="82aeaf">raid-config</item>
+  <worker id="723468">158.240.22.184</item>
+  <semaphore id="b9a4cc">true</item>
+  <router id="5007df">lambda</item>
+  <config id="76c733">token</item>
+</root>

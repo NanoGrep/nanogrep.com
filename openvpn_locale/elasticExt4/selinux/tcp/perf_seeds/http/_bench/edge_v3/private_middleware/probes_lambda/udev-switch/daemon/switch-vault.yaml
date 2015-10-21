@@ -1,0 +1,46 @@
+group: http-core
+btree:
+  - d746e56c
+mesh:
+  http:
+    - 112.92.196.184
+    - entropy
+  helpers: true
+  lexer: buffer-templates
+fuzz:
+  - 1266
+  - 82.2.179.92
+  - 123.70.41.100
+  - true
+replica:
+  hmac:
+    socket: 7577
+    scope:
+      cookie:
+        - null
+        - 19.52.183.30
+        - build
+    api:
+      semaphore: null
+      templates: cookie
+      proxy: postgres
+      limit: f74ade56b56ec0df7605409e3a1b11e6
+      request:
+        - cluster-fuzz
+        - 0f308c5b
+        - bootstrap
+    build: ab64215b9db7d07d
+    schema:
+      aes: 2.170.221.22
+      build: 204.107.211.74
+      backend: 823
+      bootstrap:
+        - 5304
+        - false
+        - null
+      topic: 2125
+    ldap:
+      btree: dhcp-dist
+      coroutine: 193.42.149.182
+      watchdog: 132.22.248.43
+      helm: 119dd0e5dd6f632f

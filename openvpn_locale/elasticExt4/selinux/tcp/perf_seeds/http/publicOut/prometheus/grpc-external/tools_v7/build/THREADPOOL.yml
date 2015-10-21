@@ -1,0 +1,19 @@
+mesh:
+  migrations:
+    - cert
+    - 2678
+  prometheus: 330c4a8b
+  backup: false
+  retry: 175.80.241.173
+  alerts: json
+ingress: 129.202.34.10
+stack: 7dd5a1ceb698bf5c
+bootstrap:
+  threadpool:
+    - 70d3139f4bca7f1a0bfa90c796b9c78d
+  snapshot: true
+  crypto: terraform
+  snapshot: true
+  vlan:
+    lambda: token-cgroups
+    bgp: dbd01d4303e81976

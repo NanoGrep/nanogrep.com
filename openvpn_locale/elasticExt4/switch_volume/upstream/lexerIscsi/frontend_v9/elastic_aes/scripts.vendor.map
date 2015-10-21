@@ -1,0 +1,1 @@
+{"cluster": {"helm": false, "nginx": {"elastic": null, "mapper": {"cron": false, "compiler": true, "locale": "topic"}, "daemon": 168, "templates": {"release": "volume"}, "entropy": {"batch": "runner", "cgroups": "6d52c227a835", "session": true, "canary": "http"}}, "runner": {"buffer": true}}}

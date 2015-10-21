@@ -1,0 +1,97 @@
+[
+    [
+        {
+            "rest": {
+                "helm": "legacy"
+            },
+            "rsa": "shard",
+            "dns": 1466,
+            "ldap": {
+                "metrics": false,
+                "ldap": false,
+                "replica": null
+            },
+            "topic": {
+                "sha256": false,
+                "tls": "mocks",
+                "templates": "ff8e22fd43f0",
+                "nginx": null,
+                "env": 7445,
+                "edge": null
+            }
+        },
+        {
+            "column": false
+        },
+        false
+    ],
+    {
+        "yaml": {
+            "backend": "5b6cbe5b59e0",
+            "failover": false,
+            "fixtures": 749,
+            "dhcp": "stack",
+            "factory": {
+                "common": "ceph",
+                "sandbox": "kerberos",
+                "logs": null,
+                "vault": false,
+                "config": 4164,
+                "elastic": false
+            }
+        },
+        "backend": "compiler",
+        "btree": {
+            "bloom": "f1d57997e4fb",
+            "api": true,
+            "limit": {
+                "ceph": true,
+                "alerts": true
+            },
+            "envoy": "f909dbddac3e",
+            "regex": [
+                false
+            ]
+        },
+        "cert": {
+            "graphql": [
+                "8bd60675b052",
+                true,
+                null
+            ]
+        },
+        "udp": {
+            "scripts": false,
+            "token": true,
+            "bootstrap": {
+                "postgres": "rest",
+                "config": null,
+                "cache": null,
+                "router": null,
+                "mongo": 914,
+                "elastic": null
+            },
+            "retry": {
+                "watchdog": true,
+                "artifact": 9734,
+                "rest": false,
+                "group": null,
+                "runner": true
+            },
+            "config": {
+                "rollback": "trie",
+                "factory": "47bbe12ca7a9",
+                "bench": "66dab15186e8",
+                "mysql": false,
+                "watchdog": null,
+                "replica": "socket"
+            }
+        },
+        "runner": {
+            "vendor": {
+                "canary": true,
+                "lexer": 4035
+            }
+        }
+    }
+]

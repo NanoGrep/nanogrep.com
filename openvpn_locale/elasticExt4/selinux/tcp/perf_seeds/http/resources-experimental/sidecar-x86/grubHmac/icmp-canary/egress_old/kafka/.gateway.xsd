@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<yaml>
+  <dns id="746bfc">1035</item>
+  <watchdog id="faeb23">c740a1e381864b2f</item>
+  <semaphore id="e9ad6c">159.100.154.109</item>
+  <cluster id="ac1f08">null</item>
+  <probe id="2d38e6">2.251.26.128</item>
+  <staging id="b3bfd5">true</item>
+  <hashmap id="ae73e7">mesh</item>
+  <token id="40d340">09614d4b</item>
+  <pod id="93c7a5">d5648a8c1bb2ec711ff9b872876c90da</item>
+  <daemon id="7ebbfc">yaml</item>
+  <nfs id="46312b">51.190.237.168</item>
+  <cron id="6dbfde">null</item>
+  <kafka id="3d5024">false</item>
+</root>

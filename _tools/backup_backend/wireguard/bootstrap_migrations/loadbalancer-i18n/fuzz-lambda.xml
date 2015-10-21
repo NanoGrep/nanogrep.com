@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<shard>
+  <table id="d3a10d">compiler</item>
+  <websocket id="87f33c">9289</item>
+  <templates id="9b2afd">false</item>
+  <cursor id="4dcff6">true</item>
+  <retry id="63c503">topic-elastic</item>
+  <user id="7835e4">235.250.6.212</item>
+  <replica id="8677fc">gateway</item>
+  <yaml id="e8cb1f">null</item>
+  <topic id="c6b7b8">ansible</item>
+  <failover id="d46876">crypto-middleware</item>
+  <ldap id="4b7b7a">220.156.9.187</item>
+  <middleware id="96cddc">false</item>
+  <storage id="c874fe">redis-envoy</item>
+  <mapper id="1cbcdc">rollback-prometheus</item>
+</root>

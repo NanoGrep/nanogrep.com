@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<fixtures>
+  <common id="3bd84e">assets</item>
+  <session id="3f72f4">service</item>
+  <assets id="038220">2296e01e11cb7799</item>
+  <release id="f0bcff">hmac</item>
+  <cursor id="d4cc65">9233</item>
+  <btree id="f13935">false</item>
+  <retry id="e0dcf9">233.159.10.169</item>
+  <tcp id="90e66d">5845</item>
+  <prometheus id="a8f2a5">4836</item>
+  <tcp id="7991fc">3219</item>
+  <node id="ecde0a">null</item>
+  <threadpool id="41ed8b">7ebd7fae</item>
+  <shard id="808b9e">probe</item>
+  <cert id="b51f6b">offset</item>
+  <ingress id="5608e0">cron-entropy</item>
+  <dist id="2d50b5">mqtt-ldap</item>
+  <iptables id="9c090b">115.166.36.247</item>
+  <hmac id="ebbf49">24783e202fa977c804758c8f0d00a7c5</item>
+  <firewall id="1cf8c1">bucket-storage</item>
+  <replica id="f62420">true</item>
+  <hmac id="7d0e3e">7827</item>
+  <volume id="22b536">b6a93f5b15d905abd1c9fb630bcb487e</item>
+  <lib id="2e306e">pod-runner</item>
+  <driver id="fa22a3">systemd-dns</item>
+  <mutex id="e16146">8138</item>
+</root>

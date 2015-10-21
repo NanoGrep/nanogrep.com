@@ -1,0 +1,43 @@
+{
+    "group": [
+        {
+            "lexer": {
+                "nfs": true,
+                "limit": null,
+                "metrics": "1e25f0eaed01",
+                "frontend": "rest",
+                "prometheus": "4464d432aa89"
+            },
+            "envoy": "crypto",
+            "templates": {
+                "coroutine": "7e1cc9eae4ae",
+                "ceph": true
+            }
+        },
+        "heap",
+        "limit",
+        {
+            "systemd": {
+                "shard": "fddb15ac05cb",
+                "nonce": true,
+                "schema": false,
+                "proxy": 5405,
+                "aes": 3123,
+                "migrations": 4751
+            },
+            "kernel": "artifact"
+        }
+    ],
+    "mongo": {
+        "fixtures": true,
+        "ldap": [
+            [
+                "backup"
+            ],
+            false,
+            "3907b38377cd",
+            false
+        ]
+    },
+    "core": "f67c3b321731"
+}

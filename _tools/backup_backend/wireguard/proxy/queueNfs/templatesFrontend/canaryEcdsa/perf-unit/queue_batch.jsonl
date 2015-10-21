@@ -1,0 +1,92 @@
+{
+  "cors": "oauth",
+  "iptables": {
+    "registry": {
+      "yaml": {
+        "nightly": false,
+        "quic": null,
+        "btree": true,
+        "gateway": true
+      },
+      "http": {
+        "helm": false,
+        "staging": true,
+        "aes": true,
+        "origin": true,
+        "buffer": true
+      }
+    },
+    "service": false,
+    "cursor": [
+      [
+        "9d7d82a9a543",
+        "e16a65317786"
+      ],
+      {
+        "grpc": null,
+        "node": false
+      }
+    ],
+    "cert": [
+      {
+        "router": "salt",
+        "sdk": true,
+        "table": false
+      },
+      2353
+    ],
+    "middleware": {
+      "cookie": [],
+      "terraform": {
+        "api": "sha256"
+      },
+      "response": {
+        "response": null,
+        "mqtt": true,
+        "logs": "common"
+      },
+      "crypto": [
+        true,
+        null
+      ],
+      "mapper": {
+        "rollback": 4827
+      }
+    },
+    "prometheus": [
+      {
+        "mutex": null,
+        "redis": true,
+        "firmware": 7435,
+        "cli": "0e0fce82f05a",
+        "sandbox": null
+      }
+    ]
+  },
+  "prod": [
+    "f3a4d4940e12",
+    {
+      "hotfix": {
+        "watchdog": 5698,
+        "backend": true,
+        "loader": null,
+        "release": "cron",
+        "router": false,
+        "response": 1095
+      },
+      "payload": true
+    }
+  ],
+  "queue": [
+    [
+      true,
+      {
+        "batch": "ffdcc597095a",
+        "canary": "6dcade9458d1",
+        "mysql": true,
+        "session": "46171fe2618c"
+      }
+    ]
+  ],
+  "compiler": true
+}

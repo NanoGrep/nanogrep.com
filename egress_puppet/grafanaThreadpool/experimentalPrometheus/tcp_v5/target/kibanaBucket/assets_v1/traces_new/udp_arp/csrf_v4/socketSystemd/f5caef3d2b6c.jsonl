@@ -1,0 +1,59 @@
+{
+  "frontend": true,
+  "config": false,
+  "systemd": {
+    "vault": [
+      6038,
+      "e0b657b0184f",
+      {
+        "oauth": 6111,
+        "cookie": null,
+        "jwt": "btree"
+      },
+      [
+        "baaaa58b5283",
+        true
+      ]
+    ],
+    "object": {
+      "tests": []
+    },
+    "proxy": {
+      "socket": [],
+      "hotfix": [
+        null,
+        "8dcb70a61197",
+        false
+      ],
+      "kerberos": {
+        "queue": "7e49a315e86d",
+        "artifact": "scripts"
+      },
+      "kafka": {
+        "logs": false,
+        "helpers": null,
+        "backend": 6470,
+        "release": false,
+        "nat": "threadpool"
+      }
+    },
+    "ansible": {
+      "config": null,
+      "token": "ead403b69c5b",
+      "fuzz": true
+    },
+    "hmac": true,
+    "mapper": [
+      "643d38a9877d",
+      [],
+      [
+        "71f7a7d72f04",
+        "stream",
+        "1adf871035fa",
+        true
+      ]
+    ]
+  },
+  "helpers": "00ad93a25ceb",
+  "subnet": "factory"
+}

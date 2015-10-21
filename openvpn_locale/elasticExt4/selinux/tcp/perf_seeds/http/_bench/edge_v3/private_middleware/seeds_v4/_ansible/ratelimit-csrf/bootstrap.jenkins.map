@@ -1,0 +1,13 @@
+{
+  "nat": {
+    "offset": [
+      [
+        true,
+        false,
+        "794c76ada50e"
+      ]
+    ],
+    "vxlan": "lambda",
+    "bloom": "yaml"
+  }
+}

@@ -1,0 +1,10 @@
+role:
+  entropy: true
+build: 48edac622bc3bf5c
+salt:
+  - 139.193.108.40
+  - failover
+  - 203.193.207.175
+  - 3153
+staging: 8065
+stream: true

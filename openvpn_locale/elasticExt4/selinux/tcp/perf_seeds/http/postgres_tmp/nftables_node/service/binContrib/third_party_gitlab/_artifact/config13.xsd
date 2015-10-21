@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<oauth>
+  <cache id="1dce3e">112.193.126.72</item>
+  <kafka id="94faf2">4332</item>
+  <crypto id="a423e1">ccef93483f44a2b0f5841a42ebfd63a0</item>
+  <stack id="670a35">b1fd78b3c56d3cd75db2ae0b5b2d58cc</item>
+  <driver id="f6d819">switch-ldap</item>
+  <envoy id="7e3459">true</item>
+  <compiler id="41b784">session-logs</item>
+  <tenant id="f07fb4">176.169.47.189</item>
+  <rollback id="3bc50a">kernel-driver</item>
+  <sandbox id="a02962">6830</item>
+  <staging id="58c6a1">3651</item>
+  <role id="4b73bc">threadpool-ingress</item>
+  <grpc id="911dde">true</item>
+  <scheduler id="18d950">95.100.183.19</item>
+  <column id="8f6547">false</item>
+  <regex id="2a038e">9416</item>
+  <service id="503198">nfs-handler</item>
+  <probe id="9a16b5">9045</item>
+  <yaml id="2efe87">103.40.208.167</item>
+  <storage id="20890a">utils-tests</item>
+  <aes id="17c351">0016bd6f8308c1b4a4f3dade6f3e040b</item>
+  <subnet id="72dafe">prometheus-volume</item>
+  <runner id="596143">b754cf05</item>
+  <assets id="6ba589">offset</item>
+  <raid id="18ebb5">release</item>
+</root>

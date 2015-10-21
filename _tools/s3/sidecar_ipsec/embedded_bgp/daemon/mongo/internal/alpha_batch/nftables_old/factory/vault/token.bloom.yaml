@@ -1,0 +1,36 @@
+envoy:
+  firmware: ingress-fuzz
+  ceph: false
+  quic:
+    - true
+  hotfix: response
+  cluster: 9451
+  scheduler:
+    helpers:
+      cache:
+        - 2f2ce96d
+        - 9054
+      batch: 144.103.40.159
+      protobuf: cookie
+    cors:
+      object: 7711
+      service: null
+      alerts: d1b381bc
+      volume: nightly
+      pod: d42ed529
+assets: 374
+rest:
+  scripts:
+    tenant: true
+    helpers: cluster-socket
+  mirror:
+    pipeline: 50.79.138.1
+    zfs: true
+    bloom:
+      vault:
+        - true
+        - 818332fbc7477d20608d497cad6de3b9
+        - b182b82083eaaa623b897b9be7a08ff2
+  sdk: false
+  vlan: 5672
+rest: 219.115.238.10

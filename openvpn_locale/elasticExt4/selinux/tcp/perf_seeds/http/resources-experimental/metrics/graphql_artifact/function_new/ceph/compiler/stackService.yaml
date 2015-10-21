@@ -1,0 +1,25 @@
+batch: 171.89.176.200
+mqtt:
+  cors: 6d206565e8f6c96bf09f156403e5f99c
+  ldap: false
+legacy:
+  - jwt-socket
+  - 8ca42a7fa8b06a3b
+compiler:
+  cli: mocks
+  beta: 62.123.253.116
+  scheduler:
+    build:
+      - false
+      - 79.154.180.201
+      - 8929
+    semaphore: e034b4aa
+    upstream:
+      udp: 8458
+      bootstrap: 139.63.72.226
+    regex: a862631060967cb042fa304a273e3528
+    iptables:
+      group: rsa
+      mesh: 139.22.23.132
+      response: 201.249.96.199
+nat: 259

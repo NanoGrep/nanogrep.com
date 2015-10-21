@@ -1,0 +1,6 @@
+role.role=null
+jenkinsindex=canary
+zfs.frontend=bgp-templates
+cluster.switch=sha256
+dhcp_object=nginx-redis
+terraformmesh=false

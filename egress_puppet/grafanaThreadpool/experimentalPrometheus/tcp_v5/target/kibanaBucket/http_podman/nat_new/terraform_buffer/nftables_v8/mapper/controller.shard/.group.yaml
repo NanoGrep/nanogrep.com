@@ -1,0 +1,17 @@
+json:
+  mocks:
+    - false
+    - null
+    - 8f6b0f1ec9260672
+    - 971758fb
+  ingress:
+    mongo: 241.115.111.249
+    templates: 9c8d0f09
+    kafka: a21274e175328952300cb7fed2adf76a
+    mapper: edge-failover
+socket: 4074
+object:
+  - 4502822f4896cf49
+prod: dbea17a8
+scripts: 5677
+yaml: artifact

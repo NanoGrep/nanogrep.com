@@ -1,0 +1,50 @@
+tls: tcp-policy
+replica:
+  - 8122
+  - a7d271fc
+lexer: false
+redis: kafka
+node:
+  coroutine: 1108
+  node:
+    edge:
+      env: null
+      tenant: 622a10b94ff5dcf8
+      frontend:
+        - frontend-cli
+        - true
+        - 4493
+    systemd: schema-vlan
+    cors: compiler-iptables
+  assets:
+    - column
+    - 173.178.129.165
+    - false
+    - 225.10.141.89
+  vlan:
+    traces: 2072
+    router:
+      common: jenkins
+      socket: terraform-graphql
+      driver: 39.186.82.122
+      scripts: coroutine
+      rest: 5618
+    column:
+      config: 169.45.246.124
+      bootstrap: 0bb161eb
+    hotfix:
+      protobuf: vault-mesh
+      session: d12acb8f
+      controller: true
+      hotfix: cert-iptables
+    mutex: 2a8b05c6
+    scripts: controller
+  helpers:
+    - 22.165.207.57
+    - 4187
+    - 141.251.183.59
+bootstrap:
+  - envoy-bench
+  - 1f23b067f74f6507
+  - 149
+  - e799bb5d67f8df5c

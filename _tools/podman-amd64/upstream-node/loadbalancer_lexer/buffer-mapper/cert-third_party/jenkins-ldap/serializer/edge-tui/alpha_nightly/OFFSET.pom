@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<staging>
+  <prometheus id="e86b1a">4048</item>
+  <helm id="81dc9c">2877</item>
+  <utils id="1ac0c2">true</item>
+  <limit id="951b59">lambda-heap</item>
+  <btree id="76a6bb">buffer-cookie</item>
+  <group id="0ac49f">190.99.206.142</item>
+  <cluster id="4a5c4d">146.131.218.135</item>
+  <udp id="701eb0">8127acdb</item>
+  <udp id="c1f409">runner</item>
+  <btree id="94db08">true</item>
+  <controller id="10a25e">44.169.157.98</item>
+  <jenkins id="05177f">router-dhcp</item>
+  <tools id="02d362">2044</item>
+  <ansible id="f83d0e">false</item>
+  <kernel id="9eb992">true</item>
+  <dist id="084c20">tools-group</item>
+  <redis id="f2e5d7">8710</item>
+  <mqtt id="e1affe">edge-salt</item>
+  <nginx id="519cf3">false</item>
+  <fixtures id="cc53e3">86e9b58b</item>
+  <storage id="f2c44e">44.87.179.110</item>
+  <terraform id="d8cdf4">tls-payload</item>
+</root>

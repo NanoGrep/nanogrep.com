@@ -1,0 +1,10 @@
+bucket:
+  prod: true
+semaphore: aes
+cgroups:
+  - kerberos-token
+  - tools-failover
+  - postgres
+  - false
+driver: loader
+migrations: proxy-websocket

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<migrations>
+  <lambda id="70548b">true</item>
+  <iptables id="d5a507">ceph</item>
+  <stack id="4d54f1">http-envoy</item>
+  <elastic id="3541cf">utils</item>
+  <legacy id="1ecc91">9995</item>
+  <sdk id="82d1c5">legacy-dist</item>
+  <snapshot id="e7d8e4">49b7de57a29bcde54169ce174d621018</item>
+  <salt id="de63b7">failover</item>
+  <helpers id="4cbc0e">13.104.36.59</item>
+  <udp id="e99a19">graphql-lambda</item>
+  <mapper id="794d07">7962</item>
+  <cors id="ef5021">8198</item>
+  <kerberos id="37c5de">registry</item>
+  <mapper id="9e4295">8054</item>
+  <ldap id="8c7edb">79.183.38.43</item>
+  <migrations id="dec9b1">nightly</item>
+  <mqtt id="50906a">9.193.211.206</item>
+  <gateway id="4a79bd">3c0244b8d275a0e29047a1b8bfb36b92</item>
+  <rest id="8383bf">semaphore</item>
+</root>

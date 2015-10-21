@@ -1,0 +1,15 @@
+canary,hashmap,release
+true,7629,edge
+8ace6d6095ce80c00aaa662e1b1dd147,nat,236f4ed8e34dfe37dba35800170dff21
+6671,1576,248.161.211.106
+1390,6b053c28,43ea395d
+2821,staging,1299
+false,9135,32.134.193.7
+2307,592344a214dd77ce,migrations-frontend
+cli-replica,4faf52e77c6f0a7a5b4936586ca42c64,true
+templates-dist,node,5.130.1.166
+edc704d965f0634253054601eaa0a5bd,8666,201.58.82.232
+cursor-schema,7584,migrations
+null,219.50.252.189,c215d35d
+null,true,true
+173.212.232.193,rollback,pod-schema

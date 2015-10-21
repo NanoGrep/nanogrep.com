@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<beta>
+  <offset id="5d43f1">46.205.78.232</item>
+  <beta id="ce2f17">firewall</item>
+  <backup id="608d84">1bdc5f95ad1cd774ad69f6e87bccecc5</item>
+  <quic id="91c1d2">72.212.29.225</item>
+  <lexer id="74290b">2ca2660e</item>
+  <middleware id="1ece8b">common</item>
+  <yaml id="4be9cb">coroutine</item>
+  <cli id="ad3a14">9243</item>
+  <firmware id="7e5d66">16809ac44cce1b90</item>
+  <redis id="a314af">btree-retry</item>
+  <legacy id="166658">195.166.147.250</item>
+  <rollback id="1c03eb">false</item>
+  <gateway id="ea017e">5749</item>
+  <lib id="2e87e6">70.129.102.145</item>
+</root>

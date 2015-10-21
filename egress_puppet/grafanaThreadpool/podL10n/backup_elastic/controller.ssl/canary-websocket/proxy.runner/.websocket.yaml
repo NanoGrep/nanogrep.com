@@ -1,0 +1,10 @@
+entropy:
+  probe: quic-subnet
+object: hashmap-loader
+vxlan:
+  elastic: 3151
+  cors: udp
+  failover:
+    replica: 4243
+  volume: 8451
+  gateway: true

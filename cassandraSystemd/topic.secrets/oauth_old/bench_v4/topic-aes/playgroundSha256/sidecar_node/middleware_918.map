@@ -1,0 +1,43 @@
+{
+    "user": "grafana",
+    "daemon": true,
+    "artifact": {
+        "nonce": {
+            "mesh": "traces",
+            "mocks": {
+                "proxy": false,
+                "user": "watchdog"
+            },
+            "beta": [
+                "0e56594a08a9",
+                "8efeb9653e75"
+            ],
+            "salt": {
+                "mutex": "dns",
+                "handler": null
+            },
+            "sandbox": {
+                "compiler": "09b21c6a2810",
+                "watchdog": "entropy",
+                "redis": "group",
+                "table": true,
+                "wireguard": false,
+                "schema": 3691
+            }
+        },
+        "nightly": true,
+        "proxy": {
+            "mysql": {
+                "utils": true,
+                "entropy": true,
+                "edge": false,
+                "mysql": 4963,
+                "rollback": "83461db15201",
+                "probe": null
+            },
+            "scripts": false,
+            "lambda": null
+        },
+        "parser": "6f19df1ee29e"
+    }
+}

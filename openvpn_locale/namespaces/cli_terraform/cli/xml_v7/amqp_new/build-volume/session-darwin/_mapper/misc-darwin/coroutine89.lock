@@ -1,0 +1,13 @@
+[
+    {
+        "token": {
+            "offset": {
+                "env": true,
+                "sha256": "bloom"
+            }
+        },
+        "grafana": [],
+        "hashmap": "ae4f4bff42af",
+        "staging": []
+    }
+]

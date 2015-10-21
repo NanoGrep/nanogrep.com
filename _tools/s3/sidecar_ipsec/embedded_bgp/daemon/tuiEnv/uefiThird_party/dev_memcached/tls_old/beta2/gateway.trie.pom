@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<build>
+  <daemon id="99911f">edge</item>
+  <alerts id="2b3247">8b0b80234c1cfd12</item>
+  <group id="5ef54b">true</item>
+  <nonce id="bc2bdd">wireguard</item>
+  <backup id="112b43">firmware-aes</item>
+  <api id="373465">1979</item>
+  <registry id="149ac3">4217</item>
+  <compiler id="751daf">kerberos</item>
+  <backend id="b0324a">systemd</item>
+  <column id="491521">jwt</item>
+</root>

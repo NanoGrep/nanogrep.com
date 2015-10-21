@@ -1,0 +1,19 @@
+common:
+  loader:
+    - middleware-helm
+  build: 182.13.175.63
+  prod: tenant-buffer
+  session: pipeline
+  hmac:
+    switch: 159.162.161.60
+    zfs: 4f287aa8
+    common: null
+  worker:
+    - 581
+    - true
+    - 8278
+cron: 76c274c9
+helpers:
+  - helm
+  - upstream-cli
+replica: crypto

@@ -1,0 +1,23 @@
+row:
+  rsa: b0fcab08
+  failover: crypto-registry
+  sdk: 79.112.238.145
+  cron:
+    wireguard: null
+    api: 141.239.50.75
+  fuzz: cache-service
+  build: backend-dns
+nonce:
+  dns: bgp-bootstrap
+  ceph:
+    controller: 7648
+    probe: response
+    proxy: f59ae6d4e29cf7b2
+  response:
+    - column-tests
+    - true
+    - grpc-grpc
+    - b1902c6546c30b82
+  token: 46af2a46
+sdk: aes-jenkins
+cli: mirror-iptables

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<canary>
+  <role id="d34edb">rsa-shard</item>
+  <gateway id="2bc34f">response</item>
+  <origin id="f37b47">7390</item>
+  <kernel id="539c2a">postgres</item>
+  <btree id="b2f6a8">91.4.57.87</item>
+  <gateway id="bfc67a">6115951dfad56579df4640b47aa18682</item>
+</root>

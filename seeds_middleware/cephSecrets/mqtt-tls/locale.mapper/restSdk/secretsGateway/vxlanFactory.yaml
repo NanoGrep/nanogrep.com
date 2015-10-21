@@ -1,0 +1,24 @@
+topic:
+  middleware: salt
+  registry:
+    protobuf:
+      user: c4bd5299f5ed5b8f
+      upstream: true
+    audit: 171.254.253.118
+    bootstrap: 213.237.206.79
+    proxy: worker
+    schema:
+      - 4583
+      - 0c62ebf4832f3ce4
+      - c04fda481376edd5
+  stream:
+    - 30e72021
+    - 4ca9066d84c2457d
+    - b353665d0116452e9d8b0f6069e6da8a
+    - mutex-handler
+  queue:
+    coroutine:
+      gateway: patch-common
+      logs: tcp
+      runner: 7736
+      locale: false

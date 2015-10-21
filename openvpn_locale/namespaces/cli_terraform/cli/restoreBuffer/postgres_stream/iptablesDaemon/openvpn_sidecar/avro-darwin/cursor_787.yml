@@ -1,0 +1,25 @@
+coroutine: common
+mysql:
+  traces:
+    rest: helpers-semaphore
+    cert: 5743
+    utils: 2866
+    service:
+      mapper: 4591
+      tests: retry
+  ingress:
+    coroutine:
+      nonce: 229.169.48.213
+      replica:
+        - build-tools
+        - 0b5a2662
+        - entropy
+      raid: sandbox-stream
+      artifact:
+        - 164.237.252.76
+        - false
+      policy: 3f9dddb4
+  env:
+    user: 28f54af3
+    volume: null
+    cli: 1421

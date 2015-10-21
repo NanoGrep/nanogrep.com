@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<env>
+  <sdk id="d01f1f">ldap</item>
+  <core id="1b0564">37aecc025b99a7c8</item>
+  <templates id="4aadd5">108.84.237.144</item>
+  <fixtures id="39abb4">false</item>
+  <adapter id="706eba">patch</item>
+  <entropy id="225210">57044b8a170d1d398c763350771dfaca</item>
+  <envoy id="2e8f58">null</item>
+  <adapter id="c9ad50">bootstrap-systemd</item>
+  <fuzz id="5a6f5e">shard-fuzz</item>
+  <retry id="6ad3cf">false</item>
+  <scripts id="6d13c1">7487</item>
+  <mapper id="523d97">scripts</item>
+  <grafana id="8675b1">null</item>
+</root>

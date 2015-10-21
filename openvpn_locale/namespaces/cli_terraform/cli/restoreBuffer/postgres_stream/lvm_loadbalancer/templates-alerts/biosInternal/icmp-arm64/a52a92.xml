@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<switch>
+  <cluster id="634b39">tools</item>
+  <heap id="8b922e">7999</item>
+  <websocket id="267bf2">020ea81f28fe445e</item>
+  <assets id="61d4d1">lib-cli</item>
+  <kernel id="1b3f83">6071</item>
+  <subnet id="247e83">3392</item>
+  <sdk id="84badd">fb34b0e5</item>
+  <env id="8dfc8b">mysql</item>
+  <btree id="33607e">191.234.165.252</item>
+  <helm id="a4d2a4">true</item>
+  <graphql id="5e8ba2">9833</item>
+  <config id="6a23b8">null</item>
+  <group id="b3ef6a">cedd97c8</item>
+  <socket id="fb67f3">8623</item>
+  <http id="05e81d">trie-router</item>
+  <snapshot id="ec5314">true</item>
+  <subnet id="7fdc80">4d0a014f</item>
+  <quic id="6509bd">gateway</item>
+</root>

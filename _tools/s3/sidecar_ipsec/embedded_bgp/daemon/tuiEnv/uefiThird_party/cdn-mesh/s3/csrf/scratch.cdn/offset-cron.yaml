@@ -1,0 +1,11 @@
+oauth: 9e9c8a74140d1f32
+oauth: d1e1e476
+tests:
+  cache:
+    tcp: c24825db041cf050
+  bgp: null
+  scope: 8200
+  audit: 9753c3056ea52f99
+redis: nightly-role
+payload: 45.189.206.248
+handler: regex-assets

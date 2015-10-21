@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+  <vendor id="02e48c">239.197.168.248</item>
+  <yaml id="bd52d1">809</item>
+  <rollback id="f3b05d">215.18.233.67</item>
+  <lambda id="93f347">null</item>
+  <switch id="ea4e16">216.100.218.159</item>
+  <queue id="0fb1de">false</item>
+  <nonce id="0b63c7">registry</item>
+  <topic id="bf7c5b">f809586d0fa52d638fb3cde658c6446f</item>
+  <btree id="797ab8">224.189.103.40</item>
+  <token id="3b2f28">node</item>
+</root>

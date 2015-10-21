@@ -1,0 +1,8 @@
+canary: 8945
+subnet:
+  - sdk
+  - 46.114.105.40
+  - kernel-compiler
+  - null
+probe: 7f521b77dae7e7615aff1d71a7fefa7d
+mongo: vlan

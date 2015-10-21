@@ -1,0 +1,87 @@
+canary:
+  canary: scripts-env
+  firewall: scheduler-mirror
+  alerts:
+    json: 195.151.81.70
+    scheduler: null
+    sha256:
+      vendor: e16660cef33d1dcc
+      regex: 16.47.225.74
+      replica:
+        - true
+        - 9722
+        - 6007
+      canary: 0cc60cfc764e70c8c32dc9a31cfba849
+      legacy: 3e71a924ccb2fd772dd5ee67e1cfd860
+    ceph:
+      pod: 5905
+    daemon: socket-hashmap
+    tools:
+      metrics: 6a412979
+      fuzz:
+        - aes
+        - 179.50.94.219
+  mirror: 2020
+  firewall: 96.10.16.22
+  mutex:
+    - frontend
+    - d67d3ac4
+    - false
+hotfix:
+  schema: cgroups-mutex
+  tls:
+    bucket: 9613
+    queue:
+      - elastic-ingress
+  registry: templates
+  rollback: 34307ddbbc13b06ba7c9945f6c0dd999
+  locale: 38.213.166.35
+  edge:
+    helpers: 8c963128
+    cache:
+      - 9263
+      - false
+      - scripts-tcp
+    helpers: storage
+    dist:
+      - 1617
+helm: cookie-session
+token:
+  watchdog:
+    cli: mqtt
+    backend: null
+    schema:
+      lib: bloom-jenkins
+      replica: e87b7dfe39306dfc8e3043313ba5c498
+      dist: null
+    wireguard: edge-payload
+    vault:
+      bloom:
+        - 134.240.125.107
+      nat: 18.43.112.71
+  row: nfs-canary
+handler:
+  - 96.145.186.193
+  - false
+redis:
+  cert:
+    redis: 6678
+    response:
+      rollback: 4463
+      quic: release-alerts
+      socket: vault
+    common: lexer
+  shard: e1d0218f3b3cef9561e973374f390594
+  row:
+    dns:
+      - mocks
+  kafka:
+    threadpool: false
+    postgres:
+      handler: legacy-retry
+      mqtt:
+        - true
+        - true
+        - 197.74.219.232
+        - fixtures-probe
+    table: 97e03aeabf9e3e368383a16921438969

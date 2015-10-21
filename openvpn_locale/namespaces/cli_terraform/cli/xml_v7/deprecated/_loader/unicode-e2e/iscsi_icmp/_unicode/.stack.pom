@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<schema>
+  <controller id="660ed3">2628</item>
+  <entropy id="27a037">234.233.81.223</item>
+  <graphql id="90ebca">mutex</item>
+  <backend id="3ea62c">4142</item>
+  <buffer id="9683c4">5645</item>
+  <prometheus id="0e9edc">ab2d1df7</item>
+  <utils id="f541e2">null</item>
+  <pipeline id="6b11be">response-hashmap</item>
+  <socket id="023fd5">true</item>
+  <helm id="8c1773">legacy-failover</item>
+  <volume id="2df95c">2132</item>
+  <failover id="d26524">true</item>
+  <kafka id="c1a7e8">response</item>
+  <driver id="394aa8">205.100.99.133</item>
+  <policy id="6c7a0b">jwt</item>
+  <assets id="1bc220">70e1c229</item>
+  <storage id="03909e">false</item>
+  <vendor id="79b26c">salt-kafka</item>
+  <firmware id="addd7f">scripts</item>
+</root>

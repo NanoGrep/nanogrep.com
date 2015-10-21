@@ -1,0 +1,41 @@
+backup:
+  bucket:
+    - 42.192.78.56
+  cluster:
+    graphql:
+      - offset-daemon
+      - jwt
+    shard: 7205
+    raid:
+      - d38c15ced4870d79
+      - helpers
+    common: bebe946df9c0befed15e22ddb7b93b40
+  backend:
+    terraform: ef64f009b6827fcd96fdf40abbafa3cf
+    index: true
+    cache:
+      - false
+      - true
+      - hashmap
+      - 54.5.115.227
+    hmac:
+      mapper: 11.62.33.95
+      iptables: true
+      cert: templates
+      daemon: 3487
+    frontend: 241.0.97.111
+    quic: 4186
+  bootstrap:
+    schema:
+      tcp: 4202
+      schema:
+        - vlan-kafka
+        - trie-websocket
+        - hashmap
+        - scope-tests
+    fuzz:
+      api: d09769d0abccdc3c
+      driver: 53579069c5da0c01
+      queue: nightly-jenkins
+      beta: 8971
+    backup: 5091

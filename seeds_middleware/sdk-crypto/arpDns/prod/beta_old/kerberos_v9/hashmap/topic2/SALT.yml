@@ -1,0 +1,56 @@
+mqtt:
+  locale:
+    batch: null
+    helm: 7492
+    lambda: token
+    bootstrap:
+      - false
+    vault:
+      volume: false
+      table:
+        - 9214
+      factory: yaml
+      hmac:
+        - mongo
+        - 61.98.11.27
+      bench: frontend
+    crypto:
+      snapshot: 59.14.214.91
+      session:
+        - http
+        - f159dc011a9cd6f9
+      tcp: systemd-salt
+      prometheus: 9530
+      subnet: null
+  index:
+    - false
+    - 2d715c2b27c50d1f607ee168a4b214f5
+  cursor: 245.141.203.157
+  session:
+    api:
+      entropy: 06e310bc42b1d1027107d5bcc6b73ef1
+      rollback: iptables-lexer
+      driver: true
+      lexer: 6bbf2cf6
+    vlan:
+      - 4092
+      - 5814
+    cluster: null
+    handler: 27.37.33.68
+    lambda: d9f364d0
+    mongo:
+      firmware: 9568
+      common: false
+      topic:
+        - 4191
+  service: 31.84.86.131
+  btree:
+    api: 219.76.61.23
+    user:
+      worker: raid
+      hashmap: e6e318f2afbe9b452ebe5d77911aa524
+      backup: wireguard
+      salt: 239.238.70.16
+      http: ldap
+    ingress: envoy
+    mocks: 221.241.11.191

@@ -1,0 +1,8 @@
+hmac.pod=router
+stream_protobuf=114.166.230.204
+request.proxy=false
+patchelastic=oauth-adapter
+tools_proxy=false
+origin_fuzz=lambda-ldap
+node_lambda=bgp
+websocket_metrics=traces-websocket

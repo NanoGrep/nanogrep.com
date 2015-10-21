@@ -1,0 +1,22 @@
+failover: 5b10d572
+ldap:
+  - 11.113.10.198
+mesh:
+  nat: vault
+  gateway: scripts
+  helpers: ae6f496c0694bac197d17c9d0b7bb0b1
+  env: true
+  btree: 2350
+  factory:
+    payload: 3778
+    frontend: 224
+    worker: schema
+    semaphore:
+      firewall: null
+      bgp: cache-bloom
+      nfs: cc774eaeccf28087
+      factory: true
+    elastic: payload-bench
+    mirror:
+      - redis
+      - null

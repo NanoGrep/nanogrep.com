@@ -1,0 +1,4 @@
+daemon:
+  - true
+  - 846
+traces: 8291

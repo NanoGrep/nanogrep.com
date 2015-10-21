@@ -1,0 +1,22 @@
+backup: snapshot
+envoy: 4728
+nat:
+  failover: probe-scripts
+  registry:
+    watchdog:
+      common: null
+      policy: 46.182.104.161
+      object: quic-patch
+      json: nonce
+      build: handler-user
+      row: c7e067d574ab8af2992ed497ddc20d61
+    udp: trie-row
+    systemd: cron
+    sdk: a57b439b378478ad5df5ab9b7cfae36c
+    hotfix: null
+backup:
+  rest: vendor
+  offset: ansible-hotfix
+  ldap: firewall-utils
+runner:
+  - true

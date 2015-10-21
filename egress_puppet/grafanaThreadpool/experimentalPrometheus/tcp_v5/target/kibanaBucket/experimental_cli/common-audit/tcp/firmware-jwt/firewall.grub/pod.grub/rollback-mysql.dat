@@ -1,0 +1,10 @@
+migrations,nightly,stream,api,config,adapter
+2362,false,true,failover,58.149.160.59,release
+firewall,112.39.230.89,nonce,1722,bgp-tcp,false
+94.201.197.245,group,true,assets,4783,83dc63f23a09937675cbbcc2faad3f67
+null,middleware,af1fa91a,5.113.245.208,true,14.41.228.12
+90.156.178.101,7191,06a3fe5c,2895,false,205.31.250.68
+vault-tools,12e77e00,dns,false,2910,false
+0f6973406116754b,7358,false,7996,dcf32d9ef6045c0527539fa9c1591ac3,9054
+8321,true,nat,8d6b8db692db83d5ad17bdf8e1f78bf7,739e46ac,mqtt-hashmap
+true,lambda-beta,api-vendor,2f7f679e6ffa1ef9,3841,f565b78e

@@ -1,0 +1,19 @@
+[
+  {
+    "oauth": null
+  },
+  {
+    "socket": {
+      "artifact": true,
+      "kafka": {
+        "fuzz": null
+      }
+    },
+    "elastic": null,
+    "buffer": true,
+    "offset": [
+      "b906f92e7baf",
+      "b94e37ac70c4"
+    ]
+  }
+]

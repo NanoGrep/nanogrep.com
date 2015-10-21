@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<bench>
+  <index id="ab0b0c">failover</item>
+  <nfs id="f4f519">5306</item>
+  <pipeline id="8a20e8">proxy</item>
+  <fuzz id="bcc4dc">49cd96bcf2d9259505c42927ff7be08e</item>
+  <dist id="829205">false</item>
+  <frontend id="42ad73">null</item>
+  <grpc id="e2c93f">grpc-subnet</item>
+  <probe id="489432">9616</item>
+  <schema id="891d43">mqtt</item>
+  <entropy id="de7664">true</item>
+  <cursor id="4ec205">json-iptables</item>
+  <tcp id="260ec7">ee6e9c13</item>
+  <jwt id="114936">216.13.47.180</item>
+  <lexer id="13fdbe">26.253.138.144</item>
+  <logs id="307598">kernel-service</item>
+  <mapper id="5a0943">8cd91723</item>
+  <payload id="ccff4f">2170</item>
+  <beta id="803f5d">true</item>
+  <nat id="f94e4d">runner</item>
+  <object id="f61cae">scheduler-traces</item>
+</root>

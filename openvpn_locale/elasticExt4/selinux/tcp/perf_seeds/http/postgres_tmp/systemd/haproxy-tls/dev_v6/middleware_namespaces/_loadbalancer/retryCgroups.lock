@@ -1,0 +1,76 @@
+{
+    "request": {
+        "locale": {
+            "mirror": null,
+            "ldap": {
+                "regex": false,
+                "mutex": true,
+                "volume": false,
+                "worker": "a1b7deb7ff1c",
+                "tcp": true
+            }
+        },
+        "regex": {
+            "postgres": {
+                "scripts": "2a05ee5b4f3a",
+                "envoy": false,
+                "zfs": "cors"
+            },
+            "schema": {
+                "tcp": 2836,
+                "batch": null
+            },
+            "replica": 5739,
+            "build": {
+                "cron": null,
+                "storage": false,
+                "failover": "f32a2db204ca",
+                "locale": null
+            }
+        },
+        "json": {
+            "rest": {
+                "bloom": null,
+                "staging": null,
+                "mapper": 1782,
+                "alerts": "515ccb7aa224",
+                "regex": null,
+                "lambda": false
+            }
+        },
+        "cgroups": {
+            "session": [
+                "compiler",
+                "c33b211034c5"
+            ],
+            "fixtures": {
+                "firmware": "b47b2c83d649",
+                "volume": null,
+                "cli": "cookie",
+                "replica": false,
+                "dns": null
+            },
+            "adapter": 6809,
+            "regex": false,
+            "lexer": {
+                "worker": true,
+                "kafka": "failover",
+                "sdk": null
+            }
+        },
+        "scheduler": {
+            "btree": "helpers"
+        },
+        "dist": {
+            "column": {
+                "nonce": null,
+                "tenant": "core",
+                "router": "07dd8a67f3c8",
+                "api": true,
+                "regex": "82b049b8d693"
+            },
+            "daemon": "tcp",
+            "tls": null
+        }
+    }
+}

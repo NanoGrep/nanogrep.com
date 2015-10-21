@@ -1,0 +1,9 @@
+worker: volume-envoy
+wireguard: 77320847
+cookie: bootstrap-postgres
+compiler: true
+elastic:
+  handler: mqtt
+  metrics: 159.0.131.38
+  migrations: 418
+  templates: 189.206.234.112

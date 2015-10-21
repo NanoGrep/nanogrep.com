@@ -1,0 +1,8 @@
+socket: true
+vault: false
+mongo:
+  - 204
+  - true
+  - shard
+ldap: null
+ceph: env

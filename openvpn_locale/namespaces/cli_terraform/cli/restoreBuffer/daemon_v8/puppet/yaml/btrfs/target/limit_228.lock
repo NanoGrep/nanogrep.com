@@ -1,0 +1,36 @@
+{
+  "nfs": {
+    "index": 4619,
+    "worker": null,
+    "nightly": [
+      {
+        "sdk": "8fd599da65ce",
+        "object": true,
+        "origin": "table",
+        "worker": 9900,
+        "cluster": null,
+        "vault": null
+      }
+    ],
+    "shard": null,
+    "volume": {
+      "elastic": {
+        "rsa": "4e646630d3ce"
+      }
+    }
+  },
+  "parser": {
+    "upstream": null
+  },
+  "wireguard": {
+    "nat": false,
+    "utils": false,
+    "proxy": {
+      "oauth": "udp",
+      "bloom": "fbb5d767cab0"
+    }
+  },
+  "subnet": 1398,
+  "json": "graphql",
+  "websocket": 5048
+}

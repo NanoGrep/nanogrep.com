@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<scope>
+  <bucket id="751c71">54089391</item>
+  <migrations id="0af9b3">row</item>
+  <factory id="0d7866">alerts-udp</item>
+  <nginx id="6ebc8c">219.123.209.92</item>
+  <wireguard id="8c87bb">sha256-token</item>
+  <bgp id="dfaec9">7010</item>
+  <rsa id="6464bc">gateway-pod</item>
+  <crypto id="f43a74">dcdf54a3</item>
+  <buffer id="2cb196">patch</item>
+  <middleware id="878457">253.81.68.93</item>
+  <router id="377ad4">9646</item>
+  <kerberos id="05f324">5430</item>
+</root>

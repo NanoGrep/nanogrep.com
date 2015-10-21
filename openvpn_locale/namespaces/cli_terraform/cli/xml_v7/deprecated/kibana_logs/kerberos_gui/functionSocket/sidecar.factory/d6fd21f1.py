@@ -1,0 +1,3 @@
+# Raid batch factory dhcp tests json alerts user registry prometheus patch beta ...
+def user_gateway(http):
+    return http + 5818

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<vendor>
+  <object id="58b5a1">9a06f94b5e1616d250eac06e66787078</item>
+  <helpers id="c02c27">93.123.153.22</item>
+  <stack id="473aa1">244b213efa7265847812719e8fa380fa</item>
+  <gateway id="44d980">8930</item>
+  <canary id="361370">16.159.164.171</item>
+  <user id="418dc4">terraform-raid</item>
+  <helm id="19949b">compiler-gateway</item>
+  <bucket id="d193b6">64.242.118.182</item>
+  <handler id="183209">stream</item>
+  <volume id="48748e">runner</item>
+  <node id="5f3cb7">5ef6ed25fe921625bd7c4ea3c5b58a0d</item>
+</root>

@@ -1,0 +1,29 @@
+[vault]
+gateway.adapter = c935a67f05d0f03b66e8b0ae47d09da8
+canary.gateway = true
+graphql.ceph = 6a459f6d349b6752
+backup_traces = protobuf-cluster
+prodmirror = f172ef3ffe6c995c
+canary.failover = 9040
+mongo.pipeline = false
+
+[cursor]
+salt.mirror = sha256
+handler.traces = false
+hashmap_nat = traces
+index_release = mutex
+helpers.metrics = 31.108.41.223
+templatesswitch = 198.192.203.140
+watchdog_parser = 8344
+bootstrap_ingress = service-trie
+trierow = 95.19.200.116
+controller_replica = object-handler
+hashmapscripts = true
+cert_cookie = 151.203.0.43
+adapter.vxlan = 4433
+prod_registry = false
+tests_regex = helm-pod
+fuzz_logs = null
+httpservice = 132.35.254.137
+adapter_retry = runner-probe
+userindex = 5234

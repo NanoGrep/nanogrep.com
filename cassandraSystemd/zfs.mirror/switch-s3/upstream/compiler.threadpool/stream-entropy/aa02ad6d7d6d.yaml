@@ -1,0 +1,8 @@
+parser: index
+ldap: 6f7082cc5a8fce72
+topic: true
+websocket:
+  core: 47a9d7bb
+  semaphore: 35ddddc7fd06752297096581941aff50
+probe: 9209
+worker: user-helm

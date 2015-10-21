@@ -1,0 +1,25 @@
+kerberos:
+  regex:
+    - null
+    - 137.31.178.105
+    - 13.215.137.195
+    - 6d143a01628d00ee
+  core: 29.157.33.233
+  pod:
+    audit:
+      - 4169
+      - 14ddd8a06284137c
+    assets:
+      lib: 5095
+      templates: false
+      tenant: node
+      tenant: 4968162a
+      registry:
+        - 08730972b707125c
+        - envoy
+    prometheus: bc931f6a5dca51afd2ff838bdff0d3f3
+  sandbox: 67953214d73fdaf56ce7e68743d672e2
+  mongo: 230
+  cors: 205.152.75.35
+jenkins: mesh
+limit: 109.44.157.48

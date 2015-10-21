@@ -1,0 +1,25 @@
+tcp:
+  - 3241
+  - 706052b3d812426e
+  - 4548
+runner: 154.108.110.224
+nfs:
+  daemon: null
+  router: mesh
+  postgres:
+    - 5836
+    - true
+    - 6f68b45b
+ingress: assets-oauth
+buffer: 53.37.193.33
+json:
+  mqtt:
+    protobuf: fbb61b8f18ccddda
+  topic:
+    daemon: true
+    pipeline: 120165ad30fdcc51
+    token: build
+    dhcp:
+      mesh: null
+      logs: true
+    cli: 229.177.11.71

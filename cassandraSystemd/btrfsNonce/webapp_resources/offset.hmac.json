@@ -1,0 +1,1 @@
+[496, [], null, {"grafana": {"socket": ["canary", "controller", true, "62323a560d2e"]}, "rollback": ["86ade41b2e2d", {"sdk": "f2fe9b602010"}, {"topic": true}], "parser": {"jwt": {"policy": false, "wireguard": "group", "kernel": false}}}]

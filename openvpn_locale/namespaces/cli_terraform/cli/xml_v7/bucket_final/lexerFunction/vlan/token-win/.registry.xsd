@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<udp>
+  <response id="3a09b2">9663</item>
+  <release id="3656ee">109.99.47.178</item>
+  <ingress id="05bfc1">183.249.229.111</item>
+  <upstream id="b1c439">jwt-vault</item>
+  <mocks id="e35eb3">143.113.156.41</item>
+  <ldap id="f1c3fa">97.247.86.224</item>
+  <systemd id="c3cb8e">4163</item>
+  <probe id="d7dec4">kafka</item>
+  <retry id="5a6749">196.44.215.248</item>
+  <trie id="f35d39">166.43.175.27</item>
+  <backend id="a833a0">dd0450319c9eda11</item>
+  <firmware id="7137c5">120</item>
+  <vault id="a21296">false</item>
+  <replica id="2d6335">column</item>
+  <staging id="7a9c09">201.225.10.59</item>
+  <dns id="50fa09">gateway-metrics</item>
+  <sandbox id="41afad">75439ff82a0f1a4ac10b1bcdf4c2bb66</item>
+  <tls id="929c33">8912</item>
+  <lambda id="dbe182">7dd4b130e5ef1005de90f37bdabe44ab</item>
+  <index id="a43192">205.79.169.180</item>
+  <build id="4d04ee">topic-row</item>
+  <mongo id="f67044">53a9ce69ba12d3a3</item>
+  <compiler id="3e1d6a">bf9a20160be6d060</item>
+  <lexer id="daa448">tcp-router</item>
+</root>

@@ -1,0 +1,52 @@
+nat:
+  beta: metrics
+  socket: aebdc514
+  traces:
+    nat:
+      - iptables-release
+      - 9869
+      - mapper
+    mesh: true
+    nat: false
+    bootstrap: kerberos
+    udp: 2582
+  failover:
+    wireguard:
+      rollback:
+        - b2f310be
+      heap: 33c2aa9c48dff8f60876e09b974009d9
+      oauth: 8419
+    switch:
+      column: nightly-user
+      http: 7563
+      tcp: a44bcb750a6b9bd9437079132c1b9df0
+      elastic: payload
+      traces: 2190
+      graphql: null
+    graphql:
+      - 202.18.117.237
+      - middleware
+  migrations:
+    bench:
+      request: scope-env
+      group: bucket
+      buffer: payload-websocket
+      scope:
+        - 125.199.214.113
+        - 1127
+        - 5dd282c2
+        - ecf5a3319b06d1ce
+    mesh: ceph-mirror
+    scripts: 4449
+    templates: true
+    pipeline: true
+    zfs:
+      - 3845
+      - nightly
+      - helpers-index
+  canary: 171.235.225.200
+tools:
+  registry:
+    snapshot: a0279bbbb0dcd247
+    utils: 9401
+    crypto: fd834a3e

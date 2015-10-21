@@ -1,0 +1,114 @@
+{
+  "ldap": [
+    {
+      "env": null,
+      "cors": [
+        "c12e70d952dd",
+        false,
+        "747827d6771a"
+      ]
+    },
+    {
+      "tools": [
+        "upstream"
+      ],
+      "udp": null,
+      "bgp": {
+        "stack": false,
+        "queue": false,
+        "hashmap": "crypto",
+        "storage": false
+      },
+      "hmac": [
+        "grafana",
+        null,
+        "websocket",
+        2868
+      ],
+      "subnet": {
+        "envoy": true,
+        "firewall": "0817a415c24f",
+        "column": false,
+        "bgp": null,
+        "schema": true,
+        "batch": 9744
+      },
+      "snapshot": {
+        "column": "fuzz",
+        "redis": 8145,
+        "request": 11,
+        "ceph": 89,
+        "iptables": false
+      }
+    },
+    [
+      {
+        "ansible": true,
+        "oauth": false,
+        "canary": 7165,
+        "rollback": null,
+        "service": 4654
+      },
+      null
+    ]
+  ],
+  "payload": {
+    "controller": [
+      {
+        "audit": "driver",
+        "elastic": "54eaf5b8991f",
+        "build": null,
+        "limit": false,
+        "migrations": "crypto"
+      },
+      true,
+      false,
+      [
+        "0cb6664af11e",
+        null,
+        false,
+        "alerts"
+      ]
+    ],
+    "bucket": "56cea6a9b6bf",
+    "pipeline": "core",
+    "aes": {
+      "helpers": 4113,
+      "grpc": {
+        "vault": "bfcfc272533c",
+        "loader": "46bacfc36c65",
+        "adapter": null,
+        "session": null,
+        "yaml": null
+      },
+      "request": null
+    },
+    "mesh": {
+      "tools": "fixtures",
+      "crypto": {
+        "stack": false,
+        "helpers": false,
+        "table": false,
+        "ingress": "95ac35f934f4"
+      }
+    }
+  },
+  "loader": false,
+  "tools": true,
+  "mysql": {
+    "nat": "8bb3022251e8",
+    "loader": "ae2183e8b1c0",
+    "token": "805940c52fb1",
+    "vendor": [
+      "raid",
+      8343
+    ],
+    "middleware": [
+      [
+        null,
+        "systemd"
+      ]
+    ]
+  },
+  "jwt": false
+}

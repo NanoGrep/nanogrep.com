@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<vlan>
+  <rest id="f17c8c">cursor</item>
+  <sha256 id="32bbce">3437</item>
+  <cors id="1da0b8">role-frontend</item>
+  <column id="dd304e">6.236.51.199</item>
+  <kerberos id="82d38f">true</item>
+  <postgres id="a3f999">98eabc87</item>
+  <coroutine id="a4f010">0b6edba8</item>
+  <api id="7b2f09">false</item>
+</root>

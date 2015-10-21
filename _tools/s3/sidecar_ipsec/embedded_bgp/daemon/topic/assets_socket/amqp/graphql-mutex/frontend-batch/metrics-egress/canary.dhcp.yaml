@@ -1,0 +1,26 @@
+json:
+  bloom: 151.225.131.200
+  topic:
+    user: 9843
+    quic: 183.44.193.241
+    origin:
+      - 6696
+      - true
+      - 9482
+      - grpc
+    role:
+      bloom: false
+      nfs: 42.105.207.68
+      dist: 192.166.103.161
+    vendor: worker
+shard: 4e95833d44711658db9ab0d84c2bbf71
+proxy: fc78a21d833d4dcf8a26df5aea7313c8
+group:
+  driver:
+    loader: service-column
+  core:
+    - 15.233.218.24
+    - true
+    - d83fbee93da0cf6f
+  semaphore:
+    - 34a0c5a4f49a6d4e

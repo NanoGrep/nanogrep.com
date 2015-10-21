@@ -1,0 +1,33 @@
+mocks:
+  rsa: worker
+  parser:
+    entropy: 8462
+    vault: systemd
+    release: true
+    hashmap: json
+    trie:
+      mqtt: 50.78.219.247
+      zfs: 279b6ca0687450b4433c0aeddc24ccf6
+      nfs: false
+  templates:
+    snapshot: 108.181.40.82
+    vxlan:
+      cursor: templates-upstream
+    retry:
+      buffer: 9de5c1bb
+      offset: policy
+    buffer: pod
+    core:
+      redis: node
+      schema: hotfix-cluster
+      trie: 108.61.98.164
+      bgp: 8127
+      coroutine: json
+    column: 201.95.158.194
+queue: 7546
+migrations: bfcf032e
+nginx:
+  group: e8ab3f74a8c8c7eb
+  ansible: 6011
+  offset: false
+  response: 7478

@@ -1,0 +1,30 @@
+ldap:
+  logs:
+    http: 434fde6fa100264e1deffa61e07918bc
+    prometheus:
+      wireguard: null
+      storage: 97.157.6.139
+      mapper: false
+    semaphore:
+      threadpool: null
+      buffer: 043fe5e6ce2c9781
+      grpc: 96.231.106.60
+    ansible:
+      staging: kafka
+      sha256: 2696
+    grpc: false
+  session:
+    regex:
+      - topic-stack
+      - 213.142.170.59
+    factory: 7512
+    sdk: 116.122.207.80
+    vendor: 7a4a3647
+  entropy:
+    lexer: elastic-scripts
+    sandbox:
+      index: scripts
+    patch: 8920
+artifact: proxy
+alerts: kerberos
+logs: 6005

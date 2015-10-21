@@ -1,0 +1,62 @@
+[cli]
+socket.nginx = ebef7f973a22b825
+env.probe = d65d08e2
+threadpoolmqtt = true
+cookie.upstream = 19.173.135.15
+udp_row = 26430543
+cursor.bootstrap = true
+group_coroutine = 177.177.252.116
+core_zfs = semaphore
+cookie.cursor = switch
+frontend.vxlan = 5119
+dist_traces = 9315
+
+[column]
+hotfixfirmware = tenant
+ldapmiddleware = true
+stack_probe = true
+prod_websocket = nightly-scope
+policycanary = 1093
+trie.origin = 4792
+worker.fuzz = topic
+backup_mqtt = nightly
+router.tcp = 5975
+legacy_nightly = 245.191.229.125
+payload.systemd = btree-bench
+
+[semaphore]
+nfs_firmware = true
+failover_scripts = sha256
+migrations.grafana = 1342
+quic_nightly = scope-hmac
+mysql_frontend = fa8b3adc
+oauth_build = ee9d3913
+bgphandler = 154.186.8.51
+common_lexer = logs-switch
+lib_beta = assets-fixtures
+canary.scope = 7915
+grafana_firewall = 48.37.15.245
+env.cgroups = 806a50b0e1343b27
+snapshot_mapper = b328efff
+ansible_semaphore = false
+alerts_snapshot = false
+utils_handler = true
+
+[driver]
+token.envoy = 1974
+topic.wireguard = legacy
+canary_cors = 162.77.39.166
+controller.backend = 9989
+request.token = api
+redis.release = 120.205.169.235
+hotfixelastic = regex-router
+mongo.dhcp = patch-payload
+stream_regex = cookie
+nat.websocket = 7d7050663fa315378fedc831ac997f70
+group_semaphore = 7002
+nightly.pod = schema-row
+index_metrics = json
+proxy.role = mirror-coroutine
+fuzzgrpc = 5d89e1c1
+tenant.topic = 2272
+scripts_logs = rollback

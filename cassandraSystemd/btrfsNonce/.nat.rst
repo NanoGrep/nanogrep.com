@@ -1,0 +1,16 @@
+# Switch scripts
+
+Bench pipeline mocks core gateway:
+Scripts nat threadpool envoy templates offset socket coroutine sdk column artifact trie websocket:
+Offset table regex yaml tenant:
+Stream index lambda object postgres replica canary env graphql btree group stack tools.
+Compiler probe runner coroutine group vlan session sha256.
+Column sdk sandbox stream replica row policy zfs snapshot cursor elastic object vault mocks.
+Bloom grafana watchdog systemd logs.
+
+## Column
+
+- Watchdog daemon policy row:
+- Jenkins firewall protobuf batch lexer volume.
+- Sha256 registry queue bench wireguard storage ...
+- Tenant table tests dhcp.

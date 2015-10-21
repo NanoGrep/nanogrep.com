@@ -1,0 +1,16 @@
+switch_lambda=stack-failover
+bootstrap.firmware=3063
+lexer.postgres=17.222.27.98
+service_btree=105.90.1.250
+releaseindex=41.235.176.186
+cors.mesh=bucket
+core.artifact=6035
+meshassets=9994
+hotfix_failover=failover
+handler.crypto=rollback
+snapshot.logs=170.233.216.14
+artifact.http=7fbbbdbb
+tls_udp=limit
+grafana_cors=129.75.225.201
+tcppatch=volume-rollback
+assets_mapper=true

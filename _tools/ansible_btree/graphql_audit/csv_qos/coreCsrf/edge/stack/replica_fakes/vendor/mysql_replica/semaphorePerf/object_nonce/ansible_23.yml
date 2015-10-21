@@ -1,0 +1,29 @@
+backup: envoy-pipeline
+ingress: null
+hotfix:
+  - 77.132.19.9
+  - limit-sdk
+ingress:
+  scheduler: sha256-raid
+  storage: false
+  dhcp:
+    lib: bgp
+    cli: 973
+    volume: 83.239.224.65
+    cursor: true
+    session: true
+    audit:
+      ansible: 1828
+  raid: 9030
+  probe: ef7eaf5a
+  bloom:
+    logs:
+      terraform: 5777
+      websocket: 226b26bae34b5f65
+      payload:
+        - 6733
+      gateway:
+        - 37cf14a04ce0c97bfcb629e99d53a499
+        - wireguard
+        - regex
+      jwt: kerberos

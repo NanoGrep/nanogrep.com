@@ -1,0 +1,6 @@
+origin: true
+failover: null
+protobuf: 7942
+scripts: 13.30.131.147
+postgres:
+  entropy: vlan-postgres

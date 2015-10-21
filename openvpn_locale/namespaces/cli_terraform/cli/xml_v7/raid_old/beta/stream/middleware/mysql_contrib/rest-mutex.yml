@@ -1,0 +1,8 @@
+btree: pod-mocks
+firmware:
+  - f4a2e527e41b769999a44f97b667dbca
+  - false
+  - hotfix
+  - proxy
+kafka: regex-adapter
+ceph: 15826f6714d3d945

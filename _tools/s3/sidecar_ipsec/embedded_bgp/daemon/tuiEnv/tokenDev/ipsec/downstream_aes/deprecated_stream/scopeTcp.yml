@@ -1,0 +1,123 @@
+scripts:
+  cluster: false
+  wireguard:
+    mesh: adapter
+    graphql:
+      rest: 171.37.212.153
+    backup: true
+    cli: tls-bucket
+  rest: false
+  factory:
+    hashmap: 1899
+    jwt:
+      - 172.6.142.113
+    token: kerberos
+    release: payload-bootstrap
+    shard:
+      scope:
+        - 26983be40d129d76
+        - frontend
+      prometheus: middleware
+      utils: null
+      scripts: true
+      row: 2695
+      shard:
+        - 9910
+        - rest-sdk
+        - false
+  salt: null
+  hashmap: 163.187.144.182
+tls:
+  helm:
+    regex:
+      - 231.246.25.79
+      - cluster-gateway
+      - hmac-table
+    json: true
+    cursor:
+      pod:
+        - 199.42.90.33
+        - fe0f7df4661a05fdb7e284e8e766798b
+      daemon: 1996
+      parser: true
+      prod: false
+      mocks: null
+      node:
+        - 111.130.190.41
+        - false
+        - false
+        - null
+    yaml:
+      loader: 6483
+      graphql: 5192
+      router: 14.213.136.31
+      nfs: coroutine
+      hotfix: loader
+      rsa: api-assets
+    release:
+      tcp: origin
+    bench: true
+  nonce:
+    elastic:
+      lexer: api-proxy
+      protobuf: 526b3fca8ca6ba1a20ed87138eae5af3
+    rollback: false
+    ingress:
+      migrations: true
+      mocks:
+        - firewall
+      group: false
+    tcp:
+      salt:
+        - rollback
+        - rest
+        - 248.162.152.104
+        - replica-assets
+      traces:
+        - vault-rollback
+        - mutex
+        - 241.198.8.229
+      vendor: null
+      bootstrap: prometheus-dns
+      cache: 5810
+      cache: false
+  lexer:
+    session:
+      backup: 156.159.186.101
+  object:
+    - middleware
+    - 137.182.102.111
+  ingress:
+    mirror: sandbox
+    core: 5a0cc3fc6a1f52893c8ea635496696e5
+    mutex: 82f741c3
+  sha256: queue
+payload: null
+edge:
+  tests:
+    cgroups: 6006
+    sandbox:
+      - null
+    postgres: true
+    router: 792f6eb44186d4f6
+    cors: b8a052b920a860e8
+    entropy: staging
+  upstream: 90.222.243.174
+  controller: 237.150.43.253
+  parser:
+    jwt:
+      payload: vendor
+      adapter: 7694
+      limit:
+        - false
+        - stack
+        - 250.9.251.70
+      logs:
+        - 107.241.240.114
+        - c6c76f16daaaf8f2be65fd1b782ad39b
+        - gateway
+      lib: runner-backup
+    mocks: false
+  gateway:
+    build: 5b178e7a20a101b1db2e9a15a0d73ad1
+grafana: true

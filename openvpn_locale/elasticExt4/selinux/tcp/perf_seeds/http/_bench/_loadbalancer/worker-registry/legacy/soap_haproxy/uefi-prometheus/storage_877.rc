@@ -1,0 +1,44 @@
+[ansible]
+adapter_release = 5790
+snapshot.gateway = true
+vendorredis = dcd3ebe891cb4879
+storagegrafana = cgroups-node
+router_tests = 64177aaacbd747008cf0151a5b2c826c
+zfs.object = loader-vendor
+rest_factory = backup-hashmap
+parsertoken = 43.148.62.56
+
+[session]
+crypto.alerts = 245.144.47.204
+cephtemplates = false
+tls_mutex = false
+rowaes = 132.31.229.239
+artifactoffset = queue
+heapnfs = true
+router.legacy = nginx
+nat.crypto = 784b337ddbefeffa
+mutex_middleware = traces
+pod_templates = worker-hashmap
+kafka_tenant = common-tests
+graphql.common = 4505
+nonce_tcp = 3377
+hmacansible = null
+metrics.ingress = ansible-prod
+sha256legacy = a810a39c
+request.mapper = ce62b5c4ee157f2fba0f991f8e3e19a0
+coroutinerollback = 7989
+pipeline_vendor = 221.169.150.129
+
+[iptables]
+heapzfs = false
+rsa.prometheus = 7516
+middleware_limit = staging
+websocket.beta = d69650e075f9b69d
+clusterworker = 5794
+cert_row = cookie
+rest.jwt = 224.254.62.53
+nonce.legacy = adapter
+build_nginx = nightly-beta
+lambdaterraform = probe-aes
+socket_vendor = bgp
+lexer_trie = canary

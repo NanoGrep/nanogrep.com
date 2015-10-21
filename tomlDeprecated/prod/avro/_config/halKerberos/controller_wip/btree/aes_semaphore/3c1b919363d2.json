@@ -1,0 +1,36 @@
+[
+  [
+    [
+      false
+    ],
+    [],
+    true,
+    5367
+  ],
+  {
+    "env": null,
+    "service": {
+      "raid": false,
+      "gateway": [
+        false,
+        true
+      ],
+      "lib": "nfs",
+      "crypto": {
+        "cli": 2033,
+        "nat": "ansible",
+        "ingress": "d581ed7f2ad2",
+        "cookie": false
+      },
+      "loader": {
+        "legacy": false,
+        "group": 5475,
+        "tests": false,
+        "daemon": null,
+        "postgres": true,
+        "policy": null
+      }
+    },
+    "crypto": "5a9a349d9bf0"
+  }
+]

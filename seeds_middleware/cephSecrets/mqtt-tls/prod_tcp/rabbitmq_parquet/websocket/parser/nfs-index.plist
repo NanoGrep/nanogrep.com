@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<kernel>
+  <watchdog id="3f26fb">terraform</item>
+  <sandbox id="1b7cb3">false</item>
+  <origin id="03f5f9">hotfix-daemon</item>
+  <oauth id="7f4302">1783</item>
+  <tcp id="c8fecd">2769</item>
+</root>

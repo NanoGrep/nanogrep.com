@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<request>
+  <patch id="bf66fc">null</item>
+  <nightly id="43a70a">scripts</item>
+  <stream id="5d1576">envoy</item>
+  <json id="e0499d">handler-assets</item>
+  <tools id="01de5c">161.80.39.25</item>
+  <bloom id="bc0ab9">null</item>
+  <jwt id="8cdd7d">124.90.13.210</item>
+  <jenkins id="287266">12cecb5ad9acfec8</item>
+  <frontend id="4a1237">2659</item>
+  <rsa id="c91fc1">125.76.251.202</item>
+  <kafka id="16c6d5">true</item>
+  <handler id="f5710a">probe-dhcp</item>
+  <coroutine id="bcfd20">protobuf-vlan</item>
+  <assets id="df7357">c5a2524c0190fe728e67743111b7f0e6</item>
+  <patch id="f519f8">true</item>
+  <heap id="a9b8a2">logs-mutex</item>
+  <watchdog id="50b6c5">false</item>
+  <json id="e0c064">json-router</item>
+  <buffer id="939129">150.193.254.196</item>
+  <group id="d3c522">node-helm</item>
+  <cluster id="743b12">utils-shard</item>
+  <entropy id="415a3c">501</item>
+  <compiler id="15feff">bgp-mutex</item>
+</root>

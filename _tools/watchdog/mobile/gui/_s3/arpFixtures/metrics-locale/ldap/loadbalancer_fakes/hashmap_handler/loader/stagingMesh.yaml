@@ -1,0 +1,8 @@
+subnet: 126.48.211.203
+service:
+  - 9702
+  - true
+  - 1291
+  - mocks
+handler:
+  - 1992

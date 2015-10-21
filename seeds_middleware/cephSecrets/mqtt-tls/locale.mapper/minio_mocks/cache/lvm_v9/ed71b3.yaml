@@ -1,0 +1,3 @@
+lexer: false
+legacy: failover-bucket
+bootstrap: release-hotfix

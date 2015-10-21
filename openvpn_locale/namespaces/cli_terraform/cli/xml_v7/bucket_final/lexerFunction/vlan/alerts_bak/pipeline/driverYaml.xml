@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<runner>
+  <rest id="6cc2aa">systemd</item>
+  <hmac id="91cbe3">null</item>
+  <driver id="311a2f">39.225.190.194</item>
+  <rest id="9c4c12">d8aae696fcec4b51</item>
+  <mirror id="a47277">ldap</item>
+  <build id="304514">5426</item>
+  <regex id="942372">46.75.66.235</item>
+</root>

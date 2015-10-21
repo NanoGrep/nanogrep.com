@@ -1,0 +1,13 @@
+[vendor]
+tools.failover = 81950f2df5f22ef5
+hashmap.session = 249ddfd7
+watchdoghandler = rest-gateway
+
+[canary]
+rowhelpers = 0962c939fe4292c794427254aa005adc
+prod.vxlan = 0a9ca84793d7ed81
+toolsansible = 816
+router_sha256 = ef02b69dc5e80fdb
+ldap.kafka = 57289d235d1e4c17c10fcef4c3f79771
+dhcpbuild = 117.199.54.194
+shard_kerberos = true

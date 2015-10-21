@@ -1,0 +1,58 @@
+cookie:
+  nat:
+    bootstrap: redis
+    jenkins: 6362
+  response: btree
+  kerberos:
+    gateway: 1422
+    kerberos: 6146
+    metrics: 7106
+    scheduler:
+      mutex: 200.165.198.224
+      cookie:
+        - 63.60.26.240
+      prod: 3522
+      graphql: 76195b62ba3c19f32e76adbfa1d31020
+      envoy: config-config
+      migrations: 82193b05
+    cors: 7681
+    limit: 28.21.49.186
+  registry:
+    zfs:
+      queue: nonce
+      kerberos:
+        - 154.171.102.216
+        - 119.253.156.9
+        - false
+      migrations: cookie
+      cli: ldap-role
+      runner: dns
+    runner: response-jwt
+    crypto: common
+    yaml:
+      tenant:
+        - 122.57.131.19
+        - 5196
+      scripts: audit-helm
+      runner:
+        - 74.36.33.16
+        - true
+  switch:
+    volume:
+      schema: 51.147.192.126
+      redis: 175.176.34.12
+      build: dhcp
+    artifact:
+      - stack
+      - 134.6.190.100
+    bgp: 178.227.150.5
+    upstream:
+      vxlan: 48.87.212.42
+      firmware:
+        - logs
+      rest: false
+      ldap: grafana-bgp
+    storage:
+      token: 1492
+    tools: f722fbc45102b6349cf40737c4e9c0e7
+limit: false

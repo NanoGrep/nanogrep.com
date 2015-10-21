@@ -1,0 +1,35 @@
+{
+    "oauth": {
+        "table": [],
+        "frontend": "91093c787cec"
+    },
+    "elastic": true,
+    "controller": "alerts",
+    "mysql": {
+        "jenkins": false
+    },
+    "terraform": {
+        "templates": null,
+        "metrics": false,
+        "tools": 4942,
+        "response": false,
+        "handler": [
+            {
+                "yaml": true,
+                "token": null,
+                "handler": 4817
+            },
+            {
+                "json": false
+            },
+            true,
+            {
+                "failover": "04dbaeab210c",
+                "frontend": null,
+                "salt": false,
+                "tests": "cursor",
+                "http": true
+            }
+        ]
+    }
+}

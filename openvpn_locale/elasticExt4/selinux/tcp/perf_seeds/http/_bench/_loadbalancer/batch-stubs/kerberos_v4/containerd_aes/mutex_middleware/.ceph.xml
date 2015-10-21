@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<tenant>
+  <mocks id="3be91c">1371f0af</item>
+  <vxlan id="b9a86e">6ab742c0c36c2df11e1adbb0787b07db</item>
+  <ceph id="35c52e">true</item>
+  <controller id="bfc32e">kernel-request</item>
+  <aes id="9417b4">semaphore</item>
+  <yaml id="f48a47">cert-vlan</item>
+  <snapshot id="0f41b7">3323</item>
+</root>

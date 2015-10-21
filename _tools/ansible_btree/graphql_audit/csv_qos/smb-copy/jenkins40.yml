@@ -1,0 +1,12 @@
+registry:
+  coroutine:
+    cluster: service-prometheus
+    tests:
+      - 236.39.117.128
+  nonce: assets-watchdog
+  switch:
+    - 4414
+    - 9abaaa63061b475da6eb15146c2a9ba6
+    - 536c514fcaa094af05a645dd162cc92e
+  prod: e70b3789
+limit: 574

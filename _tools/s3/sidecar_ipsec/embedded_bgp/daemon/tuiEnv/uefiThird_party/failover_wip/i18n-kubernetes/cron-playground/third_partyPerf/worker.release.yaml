@@ -1,0 +1,20 @@
+threadpool: null
+snapshot: a12cb6b480fa6582
+lambda: 162.141.183.68
+nightly: cgroups-beta
+dist:
+  runner:
+    canary:
+      utils: false
+    audit: 7657
+heap:
+  common:
+    factory: 214.204.60.237
+    helm:
+      vlan: coroutine-compiler
+      artifact: 246.116.28.104
+      bootstrap: 28.83.154.98
+  limit: registry-cookie
+  ceph:
+    rsa: hmac-hashmap
+  handler: 748c482b

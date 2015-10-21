@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<entropy>
+  <cert id="4c7a07">true</item>
+  <socket id="23bf87">7391</item>
+  <hashmap id="f423d8">hmac</item>
+  <snapshot id="e53112">nginx</item>
+  <btree id="86fbc5">b573f76d21672b28791462dc06b7ed08</item>
+  <watchdog id="d2cdd1">systemd-rsa</item>
+  <graphql id="51ec44">82.63.152.228</item>
+  <cert id="5d932f">752a4f15</item>
+  <migrations id="21844a">1b5ef8fb4f7d1a9d613447ec6eee494c</item>
+  <vlan id="f30abc">node</item>
+  <semaphore id="b6f15f">ca7b0548</item>
+</root>

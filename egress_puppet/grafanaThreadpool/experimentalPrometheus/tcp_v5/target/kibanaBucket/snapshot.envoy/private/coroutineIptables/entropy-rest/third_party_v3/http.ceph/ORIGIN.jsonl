@@ -1,0 +1,52 @@
+{
+    "trie": [
+        {
+            "parser": true,
+            "batch": false
+        }
+    ],
+    "request": {
+        "http": {
+            "pipeline": [],
+            "sdk": {
+                "bootstrap": true
+            },
+            "helpers": [
+                493,
+                false,
+                false
+            ]
+        },
+        "legacy": true,
+        "canary": false,
+        "pipeline": {
+            "stream": []
+        },
+        "regex": {
+            "parser": 836,
+            "config": "f53595f5ea92",
+            "user": {
+                "staging": false,
+                "scheduler": "516cc4c4c5b3",
+                "vault": null,
+                "jenkins": 6617,
+                "postgres": false
+            },
+            "cli": null,
+            "sha256": 528,
+            "scope": 1001
+        }
+    },
+    "handler": [
+        [
+            true,
+            {
+                "rsa": 6210,
+                "ansible": 7405,
+                "shard": null,
+                "iptables": 9506
+            }
+        ],
+        true
+    ]
+}

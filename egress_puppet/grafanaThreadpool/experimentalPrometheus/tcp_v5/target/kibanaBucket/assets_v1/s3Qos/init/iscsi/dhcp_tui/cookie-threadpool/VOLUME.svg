@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<nightly>
+  <replica id="fd7b37">e3326e36</item>
+  <compiler id="53f0b5">4948</item>
+  <payload id="66defe">middleware</item>
+  <cluster id="cbc776">true</item>
+  <env id="d36396">cert-nightly</item>
+  <threadpool id="c34b8a">true</item>
+  <sha256 id="7cee06">kerberos-rollback</item>
+  <bloom id="1b09b9">2780</item>
+  <nat id="feba53">lambda</item>
+  <sha256 id="e79c93">c6bc46a9</item>
+  <limit id="c1cad0">2.40.141.149</item>
+  <nfs id="56ab41">0e697357e6194beefb2abe1f80383779</item>
+  <edge id="421b39">null</item>
+  <dhcp id="0ef33d">39.3.213.8</item>
+  <vlan id="56c6f2">pod-factory</item>
+  <vault id="9b7678">tenant</item>
+  <storage id="4ae2ce">228.148.251.59</item>
+  <backup id="adeccd">null</item>
+  <column id="263aa8">hmac-lib</item>
+  <quic id="bd0e17">bucket-mongo</item>
+  <runner id="ddf064">api-socket</item>
+  <patch id="59862b">1922</item>
+  <release id="3cbeba">7ba6fb94eb587376</item>
+  <cluster id="d61a78">2cc81bd72bac0605</item>
+  <semaphore id="6f7620">true</item>
+</root>

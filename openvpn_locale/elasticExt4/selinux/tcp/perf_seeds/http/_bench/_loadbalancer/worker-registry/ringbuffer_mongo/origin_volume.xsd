@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<mapper>
+  <lib id="e1b122">vendor-jenkins</item>
+  <scripts id="600184">jwt-role</item>
+  <pod id="7a2ea1">rsa</item>
+  <runner id="740d51">prod</item>
+  <session id="6add12">1375afa6</item>
+</root>

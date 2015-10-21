@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<pipeline>
+  <queue id="6a9bae">rsa-topic</item>
+  <cluster id="596bb2">9140</item>
+  <mutex id="4b4ce8">1105</item>
+  <router id="008429">true</item>
+  <switch id="9a6cb1">34c2f13b</item>
+  <backend id="79fc31">offset</item>
+  <scheduler id="2b0836">c6179387b9d6a9a2</item>
+  <zfs id="979b58">191.114.216.246</item>
+  <bench id="b4967a">nonce</item>
+  <legacy id="c15637">true</item>
+  <cors id="9b2e5f">false</item>
+  <salt id="2b534c">f3a76bd0ce529a46970c576163fa150b</item>
+  <dns id="fd38bb">339b5bbe</item>
+  <jenkins id="24d812">lexer-queue</item>
+  <logs id="b8ee56">2003</item>
+  <worker id="383c75">kerberos</item>
+  <lambda id="f72075">quic-switch</item>
+  <cgroups id="a7d300">false</item>
+  <service id="b44bbc">null</item>
+  <mapper id="38d952">664</item>
+  <group id="e628ed">c7beada25c17ede02570d638d2a5eee0</item>
+  <fuzz id="6c3ed5">tls</item>
+  <storage id="6b2839">true</item>
+  <prod id="22e848">53.23.111.77</item>
+</root>

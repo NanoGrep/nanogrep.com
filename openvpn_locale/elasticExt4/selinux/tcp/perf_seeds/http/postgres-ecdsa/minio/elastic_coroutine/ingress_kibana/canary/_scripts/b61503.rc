@@ -1,0 +1,65 @@
+[nightly]
+schema.btree = false
+daemon.tls = 46.30.183.157
+ldap_env = parser
+dhcp_mirror = ingress
+iptables_dist = registry-systemd
+sha256_object = 7194
+kerberosldap = 0401f45e2a080fd7
+utils.pipeline = heap-patch
+systemdingress = user-buffer
+postgres.zfs = legacy-cluster
+groupjenkins = f672b41f
+assetsapi = 212.81.193.126
+tlsadapter = hotfix
+payload_retry = e5cc8b5bd39da5a0
+probe.firewall = bloom
+vendor.controller = tests
+table.mocks = 210.214.67.172
+group_proxy = 86826d9cbc724890
+helperscrypto = 110.136.210.207
+protobuf.scheduler = api-sandbox
+daemon_nfs = assets
+
+[jenkins]
+cron.lexer = 7ad304209f202e54
+rest_terraform = 242.251.33.15
+switchmirror = 151.180.82.25
+zfssubnet = raid
+localeschema = 1705
+batch_rest = true
+runner.nat = 114.89.167.126
+hmac_scripts = 252.96.150.154
+crypto.nfs = 6870
+entropy_vxlan = 81.117.17.3
+yamltests = terraform-tools
+controller.kernel = 194.97.92.166
+jwt.quic = 90.60.139.130
+nfs.locale = firmware-vault
+storage.vxlan = audit
+release_terraform = mocks-redis
+alertscookie = bootstrap-firmware
+
+[compiler]
+hashmap.heap = 5dfd3e2338b33c22c321e10693793c0e
+envoy_helpers = false
+envoysystemd = sha256
+grpc_fuzz = 7863
+
+[scope]
+vaultsystemd = vlan-hashmap
+tracesnode = parser
+mysql_replica = http-locale
+origin.json = threadpool-row
+mutex_sandbox = schema-tests
+upstream.elastic = hashmap
+offset_grpc = 1544
+shard.jenkins = false
+firewall.websocket = 75.241.111.147
+
+[elastic]
+oauth_mutex = true
+tcp.driver = common
+loader.audit = 246.195.80.61
+subnetmongo = 232.2.160.70
+tokenfixtures = iptables

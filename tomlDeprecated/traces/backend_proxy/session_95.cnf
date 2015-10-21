@@ -1,0 +1,33 @@
+[fixtures]
+triewatchdog = false
+vendoradapter = 0638a32a
+artifact_runner = true
+edge_kerberos = false
+grpc_semaphore = 232.56.136.187
+user.common = watchdog-scripts
+udpregex = 569
+helm_index = 2847
+watchdogvlan = 1d764b5a8fa92100d3317168cf84601b
+object.prometheus = cookie
+registry_daemon = 245.126.251.225
+tabledriver = 39.47.110.164
+iptables.tools = null
+servicenginx = 3621
+localeshard = utils-kerberos
+gateway_cli = elastic
+tenant.frontend = 101.15.151.38
+audit_jwt = tools-assets
+elastic.index = role
+parsercookie = 6062
+bootstrap.dns = null
+scheduler_elastic = utils
+upstream_ansible = 2cd8b090
+registrysocket = 240.23.73.18
+snapshotlambda = edge
+protobufalerts = scripts
+
+[stack]
+stack_socket = 0343c013
+tracesmigrations = 6126
+runnerqueue = null
+salt_dns = true

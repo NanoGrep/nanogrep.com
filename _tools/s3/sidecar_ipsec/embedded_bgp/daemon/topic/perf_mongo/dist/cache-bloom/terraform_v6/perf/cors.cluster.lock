@@ -1,0 +1,70 @@
+[
+  "policy",
+  {
+    "tls": {
+      "traces": []
+    },
+    "tests": {
+      "schema": {
+        "dhcp": true,
+        "middleware": 209,
+        "tls": false,
+        "scope": null,
+        "mesh": 4794,
+        "loader": true
+      },
+      "templates": {
+        "group": "iptables"
+      }
+    },
+    "subnet": {
+      "lambda": [
+        true,
+        9017,
+        null,
+        4425
+      ]
+    },
+    "staging": [],
+    "mesh": {
+      "socket": "53f9af146df4",
+      "worker": {
+        "jenkins": true,
+        "staging": "f263087dfe3c"
+      },
+      "offset": false,
+      "node": null,
+      "request": {
+        "firmware": true,
+        "retry": 5625,
+        "iptables": false,
+        "ingress": false,
+        "parser": null,
+        "tcp": null
+      },
+      "tests": {
+        "sdk": "cache",
+        "vlan": false,
+        "session": "23826a6a07ba"
+      }
+    },
+    "kerberos": false
+  },
+  {
+    "redis": true,
+    "fixtures": [
+      {
+        "limit": true,
+        "ceph": true,
+        "volume": false,
+        "proxy": "f35a3b7eb6d6",
+        "alerts": null,
+        "group": null
+      },
+      {
+        "assets": true,
+        "firmware": null
+      }
+    ]
+  }
+]

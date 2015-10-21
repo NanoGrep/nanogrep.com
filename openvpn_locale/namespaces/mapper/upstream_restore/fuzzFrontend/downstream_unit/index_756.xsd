@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<lambda>
+  <patch id="c4e976">true</item>
+  <lambda id="8ca51e">5626</item>
+  <bgp id="b0cb14">1923</item>
+  <user id="91da8c">true</item>
+  <bgp id="3d661c">6660</item>
+  <protobuf id="eddaa1">132.183.211.245</item>
+  <tcp id="7f6b71">replica-registry</item>
+  <cors id="b77172">57286cafda438f3e</item>
+  <helpers id="3d1812">113.133.138.20</item>
+  <vault id="1f145e">8759</item>
+  <tls id="3106a1">cursor-yaml</item>
+  <udp id="fbaff1">2050</item>
+  <bucket id="4d4e4d">192.182.163.75</item>
+  <aes id="06c56c">true</item>
+  <user id="9f3302">244.35.82.115</item>
+  <prometheus id="4e3015">null</item>
+  <factory id="4b497e">91b2c601</item>
+  <metrics id="4bd236">125.72.0.8</item>
+  <adapter id="9ec6a7">tenant-sandbox</item>
+  <http id="e1666d">entropy</item>
+  <vendor id="9d8d6e">124.149.36.171</item>
+  <handler id="e20971">dhcp-subnet</item>
+  <common id="a47ce3">null</item>
+  <sdk id="253de5">208.8.84.29</item>
+  <policy id="29f56f">prod</item>
+</root>

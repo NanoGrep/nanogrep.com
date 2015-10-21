@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<protobuf>
+  <vxlan id="e7e5c6">null</item>
+  <rest id="bab432">false</item>
+  <nat id="35e0d1">99ea5126</item>
+  <mesh id="e5940e">246.175.31.227</item>
+  <firewall id="0cfe5b">proxy-hashmap</item>
+  <ingress id="d17430">mqtt</item>
+  <mocks id="1465ce">46.116.224.92</item>
+  <tls id="846fa4">kafka-switch</item>
+  <gateway id="11eda4">hmac-mysql</item>
+  <zfs id="482084">71.192.53.115</item>
+</root>

@@ -1,0 +1,17 @@
+[
+    {
+        "build": {
+            "nfs": "snapshot"
+        },
+        "scripts": {
+            "traces": [
+                null
+            ],
+            "replica": {
+                "jenkins": "95d402da07ca"
+            },
+            "assets": null
+        },
+        "failover": []
+    }
+]

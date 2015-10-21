@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<kafka>
+  <templates id="b12d42">false</item>
+  <api id="46aadf">2817</item>
+  <terraform id="bedb87">socket-staging</item>
+  <buffer id="4b89a4">stream-websocket</item>
+  <regex id="0fbc70">160.43.100.209</item>
+  <bgp id="2842ae">b833f72aa3fc0653</item>
+  <locale id="1edaa1">null</item>
+  <user id="bc63c5">bootstrap-firewall</item>
+  <request id="d90be9">120.221.81.117</item>
+  <systemd id="c9166e">cookie</item>
+  <mysql id="305a12">false</item>
+  <ingress id="1e6368">127.195.231.89</item>
+  <tools id="668990">296</item>
+  <shard id="f4d405">true</item>
+  <grafana id="c8c7e3">9516e4656f2dbefe63ccb2bdae6e2068</item>
+  <beta id="6871b0">219</item>
+  <heap id="19df64">false</item>
+</root>

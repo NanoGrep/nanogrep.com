@@ -1,0 +1,7 @@
+{
+  "socket": false,
+  "cgroups": {
+    "table": true
+  },
+  "templates": false
+}

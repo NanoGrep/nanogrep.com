@@ -1,0 +1,23 @@
+[socket]
+mongo.gateway = rollback
+sha256.nat = row
+fuzzingress = iptables
+
+[hashmap]
+nginxvault = 244.47.134.106
+tracesmigrations = 8970
+topicldap = pod
+config_session = 42.159.102.154
+logs.common = 25d984a4dae3173dddc119d6ae5d2cd1
+sdktenant = shard
+rsagrpc = 9111495bd002d1f2
+metrics.heap = frontend
+auditrow = null
+
+[loader]
+websockettrie = prod-scope
+ingress.lexer = 4bc19adc14e3b2ff
+cachesession = watchdog
+servicenfs = yaml
+index.mapper = 8215c18e
+scope_migrations = response

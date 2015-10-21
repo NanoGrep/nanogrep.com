@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<bgp>
+  <lambda id="f8df69">11.140.17.101</item>
+  <aes id="5be954">18f3953a</item>
+  <driver id="50dcb1">925</item>
+  <adapter id="ced17c">raid</item>
+  <mqtt id="d71bfa">entropy</item>
+  <mocks id="1c5c45">row</item>
+  <cookie id="ae33d7">null</item>
+  <role id="3c6939">false</item>
+  <policy id="7ac6ca">120.198.192.32</item>
+  <handler id="2ea876">254.138.198.153</item>
+  <assets id="9509e5">9486</item>
+  <response id="17a4a1">vlan-pod</item>
+  <quic id="f7e814">salt-vendor</item>
+  <fuzz id="bf4a1c">true</item>
+  <zfs id="fc58a2">334ff7dd2e7011d8</item>
+  <ceph id="2ffa9d">76.225.234.73</item>
+  <logs id="ae60d4">heap-bloom</item>
+</root>

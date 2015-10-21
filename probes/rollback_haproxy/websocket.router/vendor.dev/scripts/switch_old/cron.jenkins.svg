@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<nat>
+  <backend id="7ef09b">true</item>
+  <retry id="3b6575">shard</item>
+  <node id="57cf2d">null</item>
+  <watchdog id="0f7fd8">9338</item>
+  <env id="fc2705">1280</item>
+  <helm id="fa2a14">fccc76a7832068ee</item>
+  <mirror id="31c23c">305e3e1419eeff8908c64a699e1b5c36</item>
+  <mutex id="bd224b">true</item>
+  <loader id="929d2c">54a6167f0366b923</item>
+  <hotfix id="0b9746">schema</item>
+  <driver id="05ce99">router-role</item>
+  <hashmap id="6d082b">kafka</item>
+  <build id="34e78b">166.214.18.31</item>
+  <registry id="ae2972">5077</item>
+  <lambda id="117aa1">25.129.7.195</item>
+  <pipeline id="d1c287">env</item>
+  <session id="0478bc">154.224.107.74</item>
+  <mongo id="ecb199">8349549371a3eb7d</item>
+  <edge id="607abb">8439</item>
+  <volume id="d2359d">false</item>
+  <proxy id="07a2bd">86.130.221.104</item>
+  <buffer id="6e6f65">205.100.198.134</item>
+  <coroutine id="df3c79">5434</item>
+  <retry id="731028">offset</item>
+  <wireguard id="d26950">141.242.46.59</item>
+</root>

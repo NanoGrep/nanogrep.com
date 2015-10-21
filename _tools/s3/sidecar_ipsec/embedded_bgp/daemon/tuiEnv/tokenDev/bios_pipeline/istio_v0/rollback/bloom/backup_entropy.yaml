@@ -1,0 +1,5 @@
+driver: coroutine-vault
+kerberos: ingress
+sha256:
+  buffer: adapter
+  schema: 226.241.63.142

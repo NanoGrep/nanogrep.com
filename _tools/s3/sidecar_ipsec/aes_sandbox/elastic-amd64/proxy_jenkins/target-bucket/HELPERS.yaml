@@ -1,0 +1,5 @@
+assets:
+  failover:
+    - ceph-build
+trie:
+  - 227.90.171.154

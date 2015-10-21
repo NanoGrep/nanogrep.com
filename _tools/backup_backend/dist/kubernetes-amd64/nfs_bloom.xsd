@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<nightly>
+  <jenkins id="eba2f7">websocket-batch</item>
+  <mocks id="e15c11">1f357534f6bf6024</item>
+  <env id="02aa7a">248.153.128.62</item>
+  <vendor id="fe8659">false</item>
+  <artifact id="c754d5">5154</item>
+  <proxy id="7424f8">gateway</item>
+  <json id="67c646">158.144.101.128</item>
+  <switch id="07d21a">6279</item>
+  <subnet id="ee3f11">parser-bootstrap</item>
+  <tools id="43ca7e">false</item>
+  <regex id="6b96a8">bc1aa29e</item>
+  <compiler id="bf01ec">scope</item>
+  <vlan id="54ddea">true</item>
+  <artifact id="d20b1d">1398</item>
+  <mqtt id="eae176">firmware</item>
+  <sandbox id="9e9030">volume-vendor</item>
+  <failover id="8bda12">factory</item>
+</root>

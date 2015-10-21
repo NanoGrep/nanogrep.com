@@ -1,0 +1,41 @@
+failover:
+  watchdog:
+    iptables: 210.22.181.131
+  cors:
+    sandbox: 8117
+    probe: 3dab8645
+    heap:
+      vlan: 0ed7646a3840676ea2bdb9ed3e0342fe
+      json: loader-lexer
+      subnet: frontend-migrations
+      logs: false
+    oauth: false
+  salt:
+    kerberos: 92.0.134.164
+    dist:
+      - 45.182.143.162
+      - false
+      - 87.123.106.240
+      - limit-cron
+    sha256: 8e542545bfcf8fddc3bac5a404b052fc
+    dns:
+      semaphore: 475f6fba16a69867
+      token: dns
+      mutex: scope
+      helpers: 211.211.137.181
+    tests:
+      - 57f304726d6ccb1756f8d714e6a78bd5
+      - buffer
+      - 5cae6a9c
+    mocks:
+      parser: cors-alerts
+      raid: false
+      ceph: 9439
+      migrations: 9438
+      scope: 7480c9f41d2de4fda9708f168c0206a3
+zfs:
+  - 20ba8412
+  - udp-grpc
+  - 4932e4cb2d70d9891605fad8ec5c5c4f
+  - threadpool-column
+retry: nfs-stream

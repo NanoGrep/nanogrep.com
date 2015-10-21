@@ -1,0 +1,26 @@
+stream:
+  schema: 205.243.40.240
+  nightly:
+    crypto:
+      mongo: 9683
+      hotfix:
+        - 8c59983c4263f64e
+        - jwt-ansible
+        - migrations
+    mqtt: 3394
+    middleware: 5934
+    probe:
+      - 983
+      - migrations
+      - tcp-postgres
+  scope:
+    handler:
+      - 4261
+      - release-worker
+      - 2810
+      - worker
+    scope: 3068
+    mutex: 2258
+    storage: null
+  yaml: true
+buffer: 60765381

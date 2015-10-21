@@ -1,0 +1,31 @@
+[
+  true,
+  [
+    "710f91ebe52b",
+    null,
+    {
+      "nonce": {
+        "bench": "157c64603ca4",
+        "dhcp": "role",
+        "canary": "vxlan",
+        "kernel": "bucket",
+        "btree": 6504,
+        "audit": "1f240fbcb667"
+      },
+      "backup": [
+        false,
+        "prometheus",
+        "b727e30e2ff3",
+        null
+      ],
+      "btree": {
+        "backend": false
+      }
+    },
+    490
+  ],
+  [
+    true
+  ],
+  9229
+]

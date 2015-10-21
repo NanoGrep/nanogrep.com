@@ -1,0 +1,65 @@
+[
+    [
+        [
+            {
+                "factory": 4408
+            },
+            {
+                "snapshot": 4294,
+                "oauth": false
+            },
+            {
+                "parser": null,
+                "registry": false
+            },
+            [
+                null,
+                4958,
+                9904
+            ]
+        ],
+        {
+            "tests": "c6777a3923c2",
+            "hashmap": null,
+            "batch": {
+                "rollback": false,
+                "parser": false,
+                "origin": "3b187e36c46e",
+                "offset": false
+            },
+            "core": null,
+            "locale": "rest"
+        },
+        null
+    ],
+    [
+        [
+            {
+                "raid": "e07b90231e78",
+                "threadpool": false,
+                "token": false,
+                "gateway": 2260,
+                "frontend": null,
+                "sha256": "a53a12b20e65"
+            }
+        ],
+        [
+            null,
+            false
+        ]
+    ],
+    "fixtures",
+    {
+        "registry": {
+            "frontend": "4e7613571273",
+            "cluster": false
+        },
+        "topic": [
+            "user",
+            {
+                "schema": true,
+                "handler": 5829
+            }
+        ]
+    }
+]

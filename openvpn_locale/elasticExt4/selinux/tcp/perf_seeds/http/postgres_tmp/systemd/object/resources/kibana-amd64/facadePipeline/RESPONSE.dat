@@ -1,0 +1,11 @@
+sdk,registry,cron
+7262,7978,96.39.72.41
+sandbox,1874,true
+181cab30e9040e4bea829a1f956be56b,dhcp-nonce,6fc05a1980f6db05ccbc090a4d49d264
+zfs-nightly,98.66.79.151,232.232.189.35
+bgp,true,118.11.217.138
+release,6713,sandbox-protobuf
+3767,fe6bc12a2b670e2a7f94f495cf7e2d17,aeafeb8c1af0df3afdb380f838f81dc3
+false,27.98.252.209,true
+176.53.67.118,f913bc6c9cb9d24b,entropy
+socket-switch,null,38.5.63.13

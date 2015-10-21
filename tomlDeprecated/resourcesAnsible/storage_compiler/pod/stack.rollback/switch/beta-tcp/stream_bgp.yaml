@@ -1,0 +1,9 @@
+frontend:
+  - 731caedaa3406848
+templates: dist
+watchdog: 201.158.178.56
+mongo:
+  - probe
+  - bucket-build
+  - true
+compiler: 3944

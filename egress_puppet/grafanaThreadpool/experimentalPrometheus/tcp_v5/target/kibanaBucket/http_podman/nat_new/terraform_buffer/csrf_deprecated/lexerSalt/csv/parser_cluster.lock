@@ -1,0 +1,53 @@
+[
+    {
+        "firewall": {
+            "kafka": null,
+            "canary": {
+                "response": false
+            },
+            "row": {
+                "alerts": false,
+                "bench": "sandbox",
+                "tools": false,
+                "json": false,
+                "raid": true,
+                "edge": false
+            }
+        },
+        "zfs": true,
+        "scripts": 3150,
+        "salt": true,
+        "helm": {
+            "bucket": {
+                "sdk": "scope",
+                "pipeline": true
+            },
+            "mysql": [
+                "bada9a2b4207"
+            ]
+        },
+        "service": "7fc0427e861b"
+    },
+    {
+        "rest": [
+            {
+                "entropy": "02e6967a0404",
+                "lexer": null,
+                "session": "worker"
+            }
+        ],
+        "audit": {
+            "raid": [
+                "d860ea373ffd",
+                true
+            ],
+            "policy": null,
+            "http": {
+                "quic": "f0764e24f870"
+            },
+            "factory": "offset"
+        },
+        "queue": false,
+        "logs": "204d3d079c18"
+    }
+]

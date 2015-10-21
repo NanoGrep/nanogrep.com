@@ -1,0 +1,1 @@
+{"scope": "3d81d9ee6921", "ansible": {"templates": [false, {"mysql": false, "row": "helpers", "bloom": null, "wireguard": "fixtures", "dns": null}, false], "socket": {"dhcp": [false, "48709e89645f", true], "btree": [false], "index": {"adapter": "cert", "locale": "graphql"}, "env": "94d9b491790b", "vendor": null}}}

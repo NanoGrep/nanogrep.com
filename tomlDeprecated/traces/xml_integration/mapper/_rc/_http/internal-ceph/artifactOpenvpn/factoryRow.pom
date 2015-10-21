@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<migrations>
+  <dns id="5fe506">6d95a659</item>
+  <redis id="7b13c9">sandbox-rest</item>
+  <bloom id="db8c48">trie-bench</item>
+  <yaml id="ec6733">5956</item>
+  <worker id="f16826">null</item>
+  <cli id="08075a">false</item>
+  <row id="57cd3d">1975d6cf</item>
+</root>

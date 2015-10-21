@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<kafka>
+  <grpc id="9ed02c">62.74.120.215</item>
+  <table id="10ce80">f3b7113246544b8126e8f863f73e1922</item>
+  <tls id="eb3117">9110</item>
+  <redis id="215e80">true</item>
+  <mesh id="7f90d9">250.11.142.84</item>
+  <mocks id="d2437d">ee9281ebc947a7a1f658075d36f21022</item>
+  <quic id="a4b3e4">241.179.223.227</item>
+  <vault id="e267e6">2213</item>
+  <mongo id="045157">0d9de7231b6ef300db19a1b45ba10143</item>
+</root>

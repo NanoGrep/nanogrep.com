@@ -1,0 +1,24 @@
+vlan: tenant-ldap
+watchdog:
+  cert:
+    - session-parser
+    - false
+    - 44.71.202.216
+    - crypto
+  iptables: adapter
+  ceph: true
+  tcp: raid
+raid:
+  scripts: 7198
+  kerberos:
+    - 165.211.195.4
+    - vlan-firewall
+  token:
+    - mesh
+  policy: 4393
+  terraform: 8051
+firmware:
+  payload: table
+  iptables:
+    - vxlan
+  tenant: 30.25.130.75

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<aes>
+  <buffer id="eaed61">failover</item>
+  <bootstrap id="f64de4">57763a9a</item>
+  <replica id="e84164">51.46.115.237</item>
+  <vlan id="868e5b">a506c4195727ad71</item>
+  <row id="c66311">scope-dns</item>
+  <upstream id="1a3da5">false</item>
+  <jwt id="3677b5">69319bf7</item>
+  <token id="6f1500">508a197eefdc6683</item>
+  <mirror id="d72c4b">3f747c44245451dae1c9ae6e9d800328</item>
+  <protobuf id="5dc2ca">null</item>
+  <envoy id="fe1ff9">scripts-loader</item>
+  <socket id="d2f3f0">7eee9e06</item>
+  <cursor id="954129">be6cc1a8d94af1eb</item>
+</root>

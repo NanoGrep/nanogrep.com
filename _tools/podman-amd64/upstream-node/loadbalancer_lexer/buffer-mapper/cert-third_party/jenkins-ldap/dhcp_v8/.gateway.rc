@@ -1,0 +1,22 @@
+[bgp]
+ldapregex = vendor
+mongo.switch = bucket
+daemonudp = 81b760a16502c1d6
+quicbuffer = false
+cursor_rest = false
+originstorage = 8fd615e6
+entropycache = loader-limit
+wireguardtopic = false
+scope_raid = cluster-stack
+nat.beta = ldap-shard
+retry.iptables = 90.133.246.144
+lib.api = 06057a9e
+fixtures.mysql = stream-factory
+rsatools = request-crypto
+switch.frontend = 4ffb5930
+
+[vault]
+dns.scope = c826352a79b2674d4666a4dc3bdfdb38
+bufferparser = kafka
+requestcors = 38.253.236.61
+vxlandhcp = gateway

@@ -1,0 +1,22 @@
+coroutine:
+  - kafka
+  - row-mysql
+cache:
+  btree: topic-core
+  switch: 1820
+  kerberos: true
+  cache:
+    aes:
+      object: true
+      factory: 32fc18eac8d0f7fb14de934be50601c9
+    daemon:
+      trie: 221.171.160.75
+      cron: 7840
+      tcp: ldap-fixtures
+      cookie: 6610b1e7
+      assets: 319
+    cgroups: 1435
+    adapter: rest
+  regex: queue
+  core: false
+wireguard: f5174c5d

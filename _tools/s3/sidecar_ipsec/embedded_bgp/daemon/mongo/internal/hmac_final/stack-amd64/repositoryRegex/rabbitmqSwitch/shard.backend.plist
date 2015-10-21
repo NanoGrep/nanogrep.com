@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<scope>
+  <elastic id="6e439a">true</item>
+  <snapshot id="d208cd">203.169.89.131</item>
+  <limit id="ed7b31">release-group</item>
+  <rest id="a76fbd">183.239.73.148</item>
+  <compiler id="b581e0">6ee6a1b69fa3e9ae3437e3f39cd02ce7</item>
+  <mapper id="259b5a">7695</item>
+  <firmware id="80fd73">89.99.13.19</item>
+  <staging id="8c23e9">1570</item>
+</root>

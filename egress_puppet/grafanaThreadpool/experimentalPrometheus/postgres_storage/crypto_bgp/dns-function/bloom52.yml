@@ -1,0 +1,13 @@
+systemd:
+  group:
+    upstream:
+      - 50.107.239.165
+      - 8324
+      - wireguard
+      - 9235
+    migrations: 1486
+    snapshot: mapper
+  kafka: udp
+  row:
+    prod: quic
+    staging: 89.7.254.126

@@ -1,0 +1,13 @@
+raid: mysql
+frontend: false
+parser:
+  dist: null
+  policy: column
+  shard:
+    volume: 1.56.54.107
+  index: ae2fb6660ca7fdd1
+  iptables:
+    - null
+session:
+  - traces-api
+envoy: false

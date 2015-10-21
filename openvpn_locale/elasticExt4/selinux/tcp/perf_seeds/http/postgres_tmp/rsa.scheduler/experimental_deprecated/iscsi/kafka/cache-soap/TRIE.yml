@@ -1,0 +1,3 @@
+vault: worker
+vault:
+  upstream: bench-env

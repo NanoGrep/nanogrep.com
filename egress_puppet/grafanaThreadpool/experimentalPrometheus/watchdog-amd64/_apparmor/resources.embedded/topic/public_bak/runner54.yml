@@ -1,0 +1,13 @@
+watchdog:
+  queue: 6bef720ed0cd0e64fb095f4498cb9ab3
+  cli: 210.16.16.134
+  migrations:
+    protobuf: bdb9a0ab136c8e641cde9fa5870e9bc9
+    redis: null
+  nightly: backend
+  registry:
+    - bench
+    - 49.193.225.236
+upstream: 1192
+http: 2bda446faed4582e3fadb625f74e81c6
+sha256: null

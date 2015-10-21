@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<cache>
+  <grpc id="d9a159">197.186.208.16</item>
+  <probe id="ff041e">backend-stack</item>
+  <patch id="9b33b3">134.35.151.254</item>
+  <switch id="1a182f">563</item>
+  <probe id="b006d1">false</item>
+  <ldap id="a99ed4">ad422c29</item>
+  <object id="ce3594">false</item>
+  <token id="76ed58">null</item>
+  <snapshot id="b67b63">03cbc01910bddc5c30ffb087d2b0eb1a</item>
+  <udp id="839b5c">dedce9e7428e2338e1e066995b263d13</item>
+  <upstream id="fc2613">a9a70570</item>
+  <switch id="e45e15">f27a422c465cf7791bbe2682a4f24bc4</item>
+  <legacy id="be7b5a">rest-bgp</item>
+  <session id="7c36c3">af5468db</item>
+  <cors id="0dc5ac">7f406299</item>
+  <staging id="650b50">salt-wireguard</item>
+</root>

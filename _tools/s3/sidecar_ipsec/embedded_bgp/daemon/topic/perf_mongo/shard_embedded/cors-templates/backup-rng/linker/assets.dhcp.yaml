@@ -1,0 +1,34 @@
+node: b6fc4e3b9a41be03e15c7a8fe61c1fe0
+switch:
+  threadpool:
+    bench:
+      - 69.67.245.157
+      - env-snapshot
+      - 4260
+      - 71f1ad0b9a5a0a57606b4686d1a9def5
+    entropy: volume
+    handler:
+      pipeline:
+        - true
+        - 414d257e
+        - 8bf346519a11cadc59a375b7fc82dd9e
+      offset:
+        - 137653d2fd7e70c418b1d03741ff89a7
+      frontend: 2561e970aaa1f290
+    salt: coroutine
+    kernel: 89.35.107.126
+    mqtt: 215.240.81.146
+migrations: true
+helpers:
+  mapper:
+    index: false
+    stack: systemd
+  zfs: false
+  patch: 6303
+  wireguard:
+    - 156.190.243.178
+    - 7692
+    - backend
+    - runner
+  hmac: mesh
+raid: 321c4c0225053ec09fe4bca76c357766

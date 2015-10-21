@@ -1,0 +1,52 @@
+graphql:
+  heap: true
+  systemd: 7998
+  artifact: queue
+  buffer:
+    jenkins: 223a4081
+    hashmap: 8b2f8701
+    retry: f2d69b1b7ccbf0d19054cdecc3d9215d
+  scope:
+    redis:
+      origin:
+        - null
+        - false
+        - 136.234.179.53
+    role: zfs-mongo
+    iptables: tests
+    alerts:
+      - null
+      - patch
+      - null
+      - nginx-zfs
+    upstream: 5.136.152.146
+    response: 66779670eec5c57d
+  group: driver-kafka
+tls: firewall-user
+systemd: true
+patch:
+  subnet:
+    table:
+      batch: terraform
+      protobuf: null
+      lib:
+        - 143.241.134.138
+        - cluster-threadpool
+        - switch-artifact
+        - d1cd825acaac3b4a17166e6b35682d8c
+      pod: 294d8b843c83c703
+      udp: 200.235.73.209
+      kerberos: sandbox-handler
+    router: true
+    lambda: 165cf7c6834819a82f02479faef9afcc
+    canary:
+      http: 228.45.132.79
+  env: 8450
+  api:
+    - fuzz
+    - prometheus-sdk
+    - true
+    - api
+  redis: false
+  router: false
+  common: jwt

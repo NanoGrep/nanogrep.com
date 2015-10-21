@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<http>
+  <cursor id="4ebd39">redis</item>
+  <row id="843cb7">140.40.116.39</item>
+  <mongo id="9583b2">staging-schema</item>
+  <cluster id="ebbed7">null</item>
+  <lib id="3d616b">false</item>
+  <ceph id="3727f3">211.131.156.133</item>
+  <shard id="1c70c1">json-templates</item>
+  <object id="c1ee98">stream</item>
+  <zfs id="a4d2f5">null</item>
+  <salt id="e0a505">3823</item>
+  <bench id="fd2626">105.147.66.49</item>
+</root>

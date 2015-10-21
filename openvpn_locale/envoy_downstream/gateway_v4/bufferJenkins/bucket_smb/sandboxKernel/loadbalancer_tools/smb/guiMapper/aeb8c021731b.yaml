@@ -1,0 +1,17 @@
+bgp:
+  - probe
+  - 168.30.67.136
+locale:
+  - oauth
+  - 33784eb84b0697e8
+  - registry
+object: 2379
+buffer:
+  router: e356c92438d9764b35f9492125108b1e
+  watchdog:
+    - false
+common:
+  upstream:
+    - 14e21cf9
+  heap: null
+  lambda: null

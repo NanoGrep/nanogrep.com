@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<factory>
+  <rest id="783fd6">3c18c25cf9dd95cd</item>
+  <legacy id="23578c">5.35.66.144</item>
+  <quic id="5b729b">147.41.80.138</item>
+  <lambda id="f7f135">build-backend</item>
+  <kafka id="b3b387">cors</item>
+  <loader id="b192ea">false</item>
+  <vxlan id="eb8281">true</item>
+  <parser id="995198">true</item>
+  <edge id="09b76f">lexer-sdk</item>
+  <lib id="3d5234">9051</item>
+  <bloom id="c0f36d">5f1535dd6403781a</item>
+  <vendor id="e541db">prod-metrics</item>
+  <runner id="0b7dee">firewall-dhcp</item>
+  <logs id="754f2a">kerberos</item>
+  <alerts id="7f26c1">runner</item>
+  <cursor id="ff36b4">true</item>
+  <upstream id="3718ca">null</item>
+  <stream id="07c87a">pipeline</item>
+  <buffer id="d67865">null</item>
+</root>

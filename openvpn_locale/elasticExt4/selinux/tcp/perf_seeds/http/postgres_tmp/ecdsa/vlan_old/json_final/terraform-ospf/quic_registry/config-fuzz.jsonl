@@ -1,0 +1,1 @@
+{"failover": {"mesh": {"alerts": false}, "limit": "semaphore"}, "jenkins": false, "storage": {"dhcp": {"user": true, "ldap": [7061, true, true, false]}}, "scripts": [], "proxy": null}

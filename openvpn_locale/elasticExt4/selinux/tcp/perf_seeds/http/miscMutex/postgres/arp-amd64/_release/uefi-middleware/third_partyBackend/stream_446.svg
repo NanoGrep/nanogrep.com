@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<audit>
+  <worker id="6dcabe">dff68946</item>
+  <vlan id="70df8c">590</item>
+  <migrations id="9cfc9b">upstream-kernel</item>
+  <middleware id="e17977">28</item>
+  <traces id="257dbf">640</item>
+  <jenkins id="3db2c4">396c9548000b1445</item>
+  <redis id="1a1899">033ae401c078ac6c</item>
+  <artifact id="ad9123">false</item>
+  <scope id="122c59">e735b2aa643d3fb0</item>
+  <migrations id="af3403">27c78f6a260e01e2</item>
+  <kerberos id="2d6b57">true</item>
+  <driver id="f69d80">null</item>
+</root>

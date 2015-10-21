@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<limit>
+  <patch id="6125ae">shard-vault</item>
+  <udp id="2edaed">null</item>
+  <rest id="b4d004">middleware</item>
+  <dist id="a5a730">6190</item>
+  <scheduler id="b7b418">pod</item>
+  <handler id="06ddaf">eec3cbb702dac43c</item>
+  <traces id="433020">false</item>
+  <envoy id="5ffb37">0ac27276ee1c3b00</item>
+  <daemon id="83d754">null</item>
+  <loader id="0914b1">186.36.36.126</item>
+  <kernel id="59403d">null</item>
+  <wireguard id="8144f8">group</item>
+  <prometheus id="77bfce">69.49.99.51</item>
+  <controller id="df9820">graphql-legacy</item>
+  <cache id="7792f9">8395</item>
+  <mesh id="5a20ec">nfs-compiler</item>
+  <vendor id="8c4762">6c768dc3</item>
+  <socket id="978405">7177</item>
+  <entropy id="89be37">null</item>
+  <limit id="aec967">config</item>
+  <grafana id="a60b78">gateway</item>
+  <config id="09bd6f">72.22.63.30</item>
+  <traces id="f8b3fe">volume</item>
+  <storage id="21a94b">false</item>
+  <proxy id="6f66d1">entropy</item>
+</root>

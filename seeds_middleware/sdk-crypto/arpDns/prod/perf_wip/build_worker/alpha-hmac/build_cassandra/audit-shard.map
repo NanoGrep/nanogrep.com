@@ -1,0 +1,105 @@
+[
+    {
+        "hashmap": "yaml"
+    },
+    {
+        "kerberos": [
+            "c54104b97b93"
+        ],
+        "limit": {
+            "role": {
+                "heap": null,
+                "column": 7272,
+                "handler": "51fbf44ca3d3",
+                "nat": null,
+                "router": true
+            },
+            "lexer": 5892,
+            "node": {
+                "handler": "df8c9b1f62c3",
+                "queue": false,
+                "sdk": "upstream"
+            },
+            "legacy": [
+                false,
+                null,
+                null,
+                "bgp"
+            ],
+            "sdk": "74cee462db01"
+        },
+        "cookie": [],
+        "semaphore": [
+            "mqtt",
+            false
+        ]
+    },
+    {
+        "elastic": {
+            "dhcp": "backup",
+            "volume": "e9ab01236be2",
+            "hashmap": true,
+            "ingress": {
+                "vault": null,
+                "limit": "eebc03a9497b",
+                "adapter": false
+            },
+            "jwt": null,
+            "mirror": {
+                "parser": false,
+                "iptables": null
+            }
+        },
+        "iptables": {
+            "offset": false,
+            "worker": {
+                "scripts": "driver",
+                "sandbox": false,
+                "api": 3951,
+                "index": "udp",
+                "volume": "283bf51b4afd"
+            },
+            "alerts": {
+                "request": null
+            },
+            "udp": 5272,
+            "registry": {
+                "kafka": null,
+                "migrations": null,
+                "yaml": "ac0cb6ca5c8c"
+            },
+            "schema": false
+        },
+        "probe": {
+            "nonce": {
+                "ceph": false,
+                "role": true,
+                "rsa": 6295,
+                "nfs": "08060042d8c2"
+            },
+            "probe": "cors"
+        }
+    },
+    {
+        "rollback": true,
+        "compiler": [
+            [
+                "7b0eccdf77e3",
+                970,
+                true,
+                4239
+            ],
+            217,
+            false
+        ],
+        "mysql": "0e4df1d17002",
+        "jwt": [
+            "4204a0e379bd",
+            {
+                "kafka": false,
+                "mysql": "cgroups",
+                "alerts": "4dae50f5739d"
+            }
+        ]
+    }
+]

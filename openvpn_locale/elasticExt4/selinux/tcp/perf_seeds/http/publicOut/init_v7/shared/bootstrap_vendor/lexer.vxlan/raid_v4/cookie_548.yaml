@@ -1,0 +1,10 @@
+heap:
+  nat: false
+  proxy:
+    mutex: legacy-tcp
+    shard: 4a9ec19a04910b98751bf39a21545dc6
+  session: 64.116.50.184
+  common: 9392a9469c9afd8f
+  adapter: 9162
+  parser: trie
+mapper: tcp

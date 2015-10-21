@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<stream>
+  <ldap id="1f226b">c8343a0b815b935970b5a746094119b4</item>
+  <tenant id="6ff09b">116.11.158.191</item>
+  <tenant id="fd09d0">lexer-origin</item>
+  <bench id="e5e605">119.75.37.242</item>
+  <udp id="514322">true</item>
+</root>

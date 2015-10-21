@@ -1,0 +1,15 @@
+worker:
+  lib:
+    grafana: kerberos-build
+    index: 9804
+    metrics: 2048
+    oauth: 1ecfdeab6863bebf4fd6ba1e84418015
+    bloom: grpc-coroutine
+  env: 237.213.235.176
+  mapper: 1512
+  cookie: vxlan
+storage: b54f5fbc9e4a8103
+middleware:
+  - false
+  - dns
+  - dee950fc58477404

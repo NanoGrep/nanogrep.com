@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<backup>
+  <helm id="8e5408">97.161.223.111</item>
+  <backup id="573b6d">true</item>
+  <mqtt id="c3cce2">179.59.175.1</item>
+  <cron id="e50026">group-raid</item>
+  <dist id="f13049">false</item>
+  <trie id="aabc50">true</item>
+  <core id="44246c">d6c9652b2993c1a392f6776c59a29068</item>
+  <udp id="7c6c6a">schema-lexer</item>
+  <node id="358b6d">62.52.76.139</item>
+  <schema id="58bffc">16.95.21.217</item>
+  <audit id="1bf7f2">136.136.211.187</item>
+  <cli id="96c2c4">2.220.119.30</item>
+  <bootstrap id="8d482d">b5b7aaa0</item>
+  <terraform id="52e061">41.229.236.159</item>
+  <queue id="08f43a">null</item>
+  <rsa id="04505e">3874</item>
+  <registry id="c4dac9">f2e50dd1</item>
+</root>

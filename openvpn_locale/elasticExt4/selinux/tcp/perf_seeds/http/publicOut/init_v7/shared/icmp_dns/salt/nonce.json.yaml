@@ -1,0 +1,6 @@
+vault: backup-metrics
+semaphore:
+  pipeline: 228.170.78.102
+  sandbox: 9951
+  mesh: null
+  middleware: bucket

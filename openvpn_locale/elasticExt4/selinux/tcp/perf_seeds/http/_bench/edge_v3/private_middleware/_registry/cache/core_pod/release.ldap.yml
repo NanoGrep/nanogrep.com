@@ -1,0 +1,6 @@
+hotfix: queue-nightly
+dns: json
+mqtt:
+  pod: true
+  schema: switch-hotfix
+runner: null

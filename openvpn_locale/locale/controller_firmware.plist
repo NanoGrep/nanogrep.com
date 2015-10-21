@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<cli>
+  <cluster id="714cde">null</item>
+  <tcp id="cb54d6">6579</item>
+  <vault id="f22f61">2416</item>
+  <scripts id="b5f24f">traces</item>
+  <metrics id="cba37a">build-beta</item>
+  <vxlan id="77af4d">null</item>
+  <frontend id="e33217">false</item>
+  <grafana id="51f4c1">5377</item>
+  <ingress id="bed3f9">3d27a871474f019b</item>
+  <row id="8bcc4d">envoy</item>
+  <socket id="6de731">c28b9f8a</item>
+  <raid id="8cefaa">kerberos-build</item>
+  <bloom id="52668e">true</item>
+  <release id="65076f">3731</item>
+  <raid id="d2c925">role</item>
+</root>

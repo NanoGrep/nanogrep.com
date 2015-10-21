@@ -1,0 +1,129 @@
+{
+  "vlan": {
+    "column": null,
+    "terraform": [
+      {
+        "raid": false,
+        "offset": true,
+        "prod": "0f360931df4f",
+        "jwt": true
+      },
+      {
+        "driver": 4005,
+        "yaml": true,
+        "bloom": false,
+        "subnet": "trie",
+        "shard": 7605,
+        "bootstrap": false
+      },
+      null
+    ],
+    "storage": "helm",
+    "parser": false,
+    "object": {
+      "templates": {
+        "nfs": false
+      },
+      "socket": {
+        "registry": false
+      },
+      "cache": "46fa83f981c1",
+      "nightly": [
+        "fuzz",
+        null,
+        null
+      ],
+      "crypto": {
+        "handler": null,
+        "vault": 7328
+      }
+    },
+    "salt": {
+      "cron": {
+        "release": "alerts",
+        "fuzz": null
+      },
+      "templates": 5330,
+      "fuzz": {
+        "vendor": false,
+        "table": false,
+        "bench": true,
+        "backup": true,
+        "factory": null,
+        "frontend": null
+      }
+    }
+  },
+  "daemon": [],
+  "websocket": {
+    "ldap": {
+      "response": {
+        "pipeline": "probe",
+        "wireguard": "hotfix",
+        "cluster": null,
+        "service": null
+      },
+      "rsa": false,
+      "watchdog": false,
+      "legacy": {
+        "sandbox": 7907,
+        "origin": "schema",
+        "firewall": "19c9f78ed8e3"
+      }
+    },
+    "kafka": 3279,
+    "http": [
+      [
+        true
+      ],
+      {
+        "core": null,
+        "backend": 206,
+        "nfs": true,
+        "quic": "9738d8a394c3"
+      }
+    ],
+    "upstream": 6454,
+    "trie": 9845,
+    "salt": "28dcd2b1f4d7"
+  },
+  "heap": true,
+  "registry": false,
+  "salt": [
+    [],
+    "parser",
+    {
+      "batch": {
+        "retry": null,
+        "cron": true,
+        "cert": 5937,
+        "config": "43ddee4af260"
+      },
+      "vxlan": "daemon",
+      "kafka": {
+        "wireguard": true,
+        "replica": "row",
+        "middleware": "bda80ca41b0a",
+        "worker": null
+      },
+      "session": {
+        "elastic": null,
+        "nfs": true,
+        "role": "2ce42014ed7d",
+        "ceph": "9c2647da7af3"
+      },
+      "topic": {
+        "gateway": "931043ea20bc"
+      },
+      "systemd": {
+        "core": "ac7ae00676ca",
+        "graphql": true,
+        "canary": true,
+        "envoy": false
+      }
+    },
+    [
+      false
+    ]
+  ]
+}

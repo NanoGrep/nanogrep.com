@@ -1,0 +1,3 @@
+# Limit bootstrap session factory http grpc vault sandbox btree cookie sandbox audit envoy offset ...
+def firmware_bucket(registry):
+    return registry + 5262

@@ -1,0 +1,49 @@
+redis:
+  migrations:
+    - vxlan-yaml
+    - null
+    - 4405a7a8
+  dist:
+    nginx: 2d166ff2b05f6962
+    semaphore: c5fe8ea2
+    hmac:
+      websocket: 62.157.134.187
+      udp: true
+      staging: 9501
+      bloom:
+        - websocket-response
+        - tools-runner
+        - ede435b33290d0af
+        - btree
+    aes:
+      udp: 5806
+      assets: ldap
+      failover:
+        - false
+        - 6d15e7b2
+        - 2215
+        - 76.209.47.1
+      tls: eaa650e4fb108963
+      socket: yaml
+      failover: true
+    pod: 5640
+  gateway: staging-terraform
+  heap: 5098
+cert: null
+rest:
+  - 579bf80b9b9d25cb
+  - 5709
+  - staging
+rest:
+  elastic: false
+  bootstrap:
+    switch: elastic
+    buffer:
+      trie:
+        - offset-cursor
+        - patch-failover
+      beta: 43.248.206.177
+      common: 62d4378ba9276d75
+      watchdog: 128.91.171.236
+      socket: 227.186.9.84
+  parser: postgres-iptables

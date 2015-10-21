@@ -1,0 +1,84 @@
+{
+  "vlan": {
+    "cookie": {
+      "service": true,
+      "lexer": {
+        "probe": false,
+        "config": true,
+        "router": "c7128315c269",
+        "ingress": false,
+        "systemd": true,
+        "bgp": "edge"
+      },
+      "adapter": "terraform",
+      "token": null,
+      "proxy": {
+        "role": "5fce51ca06fd",
+        "schema": "119e19c973f8",
+        "lambda": "fa9df786951f",
+        "payload": 4419
+      }
+    },
+    "cert": {
+      "driver": {
+        "tenant": null,
+        "service": null,
+        "limit": null,
+        "firmware": null,
+        "node": "6a0436f0e3aa",
+        "heap": null
+      },
+      "compiler": "artifact",
+      "backup": true
+    },
+    "role": null
+  },
+  "bootstrap": {
+    "scheduler": {
+      "compiler": 9248,
+      "aes": true,
+      "build": [
+        true
+      ],
+      "service": [
+        1577,
+        3221
+      ],
+      "threadpool": null,
+      "terraform": "driver"
+    },
+    "runner": [
+      {
+        "lambda": true,
+        "api": false,
+        "btree": "39bd161a35a5",
+        "prometheus": null,
+        "trie": true,
+        "migrations": "4922c8bf6ed7"
+      },
+      [
+        true,
+        false
+      ]
+    ],
+    "btree": {
+      "request": 3918,
+      "core": {
+        "stack": "1cc7b7e28af8",
+        "kernel": "1ae22f99e9c5",
+        "helm": 2781
+      },
+      "group": true,
+      "terraform": [],
+      "dhcp": []
+    },
+    "upstream": true
+  },
+  "raid": {
+    "row": "3b3826eeca3b"
+  },
+  "mutex": {
+    "kernel": "bucket",
+    "group": false
+  }
+}

@@ -1,0 +1,30 @@
+[
+    null,
+    false,
+    {
+        "token": false,
+        "zfs": [
+            false,
+            3909,
+            "84180b48bcfc"
+        ],
+        "middleware": {
+            "artifact": {
+                "tools": null,
+                "rsa": "lambda",
+                "group": false,
+                "cluster": "cursor",
+                "parser": false
+            },
+            "utils": null,
+            "protobuf": {
+                "cgroups": "utils",
+                "alerts": true
+            },
+            "row": {
+                "mesh": "ae516299a5a6"
+            },
+            "tests": "driver"
+        }
+    }
+]

@@ -1,0 +1,9 @@
+staging: 173.212.161.63
+alerts: 9edb7433
+hmac:
+  - node-controller
+  - 176.151.163.8
+  - ba8fc04bbba7b040
+  - 8311
+backup: f7b5d5d8
+kafka: 0800ab08

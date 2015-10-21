@@ -1,0 +1,60 @@
+dhcp:
+  queue: 7953
+  batch:
+    watchdog: threadpool-offset
+    backend: 751cd6f52b94dec4dbbe5b031b8acdac
+    semaphore: 228.160.234.239
+    legacy:
+      stack:
+        - 791f1b1b
+        - 64.138.176.59
+        - mirror-vault
+        - 43.48.131.186
+  salt:
+    - false
+  traces: row
+driver: true
+hashmap:
+  - true
+  - e6f20f987d3424af0a4edd191baf97b3
+alerts: mesh
+lambda:
+  aes:
+    canary: api-stream
+    graphql:
+      helpers: 486
+    semaphore:
+      salt: 49e84aa541c07e9f0d73316ac06f2df5
+      frontend: false
+      sdk: nfs-locale
+    origin:
+      - aes
+    elastic: true
+    yaml:
+      - 139
+      - sdk-dns
+      - utils
+      - 578
+  artifact: e2be3299
+  cluster:
+    core: 219.21.142.75
+    templates: crypto
+    controller:
+      mesh: 67e22422215390c0
+      edge: 7b492ce9
+  helm:
+    factory:
+      index: traces-utils
+      metrics:
+        - 240.5.93.193
+        - false
+      canary: templates
+      tcp: core
+      raid: 71.114.28.243
+    rollback: true
+    scheduler: 2340
+    bench: 214.44.94.157
+alerts:
+  backend: 48aa4596
+  mocks: proxy
+  loader: 1256

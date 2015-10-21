@@ -1,0 +1,29 @@
+audit: backend
+staging:
+  - cli-assets
+  - 1004
+  - 9819
+  - retry
+common: 43.246.201.9
+cgroups:
+  shard:
+    - 1163
+  logs:
+    envoy: true
+    cookie:
+      threadpool: redis-lexer
+      json:
+        - cd582829
+        - true
+    semaphore:
+      socket: 6a99281d701aa6f05f68cd8162998378
+    patch: 154.240.67.77
+    oauth:
+      patch: 237.151.218.1
+      env: 52.231.87.190
+    dns: e98a4ff895278bce37d16a63774243bc
+  websocket:
+    loader: 5467
+    fuzz: vxlan-proxy
+    ldap: 39473ee2310e7915
+  tls: shard-edge

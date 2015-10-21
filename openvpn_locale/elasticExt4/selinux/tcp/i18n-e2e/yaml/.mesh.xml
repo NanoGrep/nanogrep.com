@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<upstream>
+  <quic id="5cb2a8">token</item>
+  <nginx id="fa4fed">9520</item>
+  <legacy id="12fbed">2643</item>
+  <cron id="5c8221">8cd95d1d</item>
+  <regex id="7a76a3">release</item>
+  <upstream id="1df94f">null</item>
+  <mutex id="b69841">4699</item>
+  <salt id="b87d06">wireguard-release</item>
+  <tenant id="26124f">15.171.18.49</item>
+  <replica id="e7e504">b29faa2ffaa2741c6b8ac90ac7bd4aec</item>
+  <traces id="5b1a9f">nightly</item>
+  <nfs id="d73484">kafka</item>
+  <subnet id="6037bf">5a566447e53227b2</item>
+  <logs id="e72d66">b7fe20280d61a4a1</item>
+  <beta id="22c280">2349</item>
+  <nginx id="ad7d2d">wireguard-driver</item>
+  <vault id="878bd4">172.252.140.153</item>
+  <rest id="b900cb">43.160.98.15</item>
+  <bootstrap id="f0a12a">middleware-nfs</item>
+  <backend id="47a5bb">84.147.68.165</item>
+  <failover id="952212">641c970c4c49a9a4</item>
+  <traces id="4daa67">c9e9aa77</item>
+</root>

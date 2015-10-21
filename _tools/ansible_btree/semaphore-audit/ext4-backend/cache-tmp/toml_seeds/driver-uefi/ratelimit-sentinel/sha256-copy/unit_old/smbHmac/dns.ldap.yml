@@ -1,0 +1,20 @@
+release: true
+helm: nfs
+mutex:
+  config: websocket
+  kafka: watchdog-entropy
+  origin: mqtt
+  traces:
+    cookie:
+      dhcp: false
+    cert: 145.189.23.130
+    mapper: 163.158.106.145
+  tools: 918
+  lib: true
+mongo:
+  - 2172
+logs:
+  - stack
+  - worker
+  - 4608
+compiler: 4d774778

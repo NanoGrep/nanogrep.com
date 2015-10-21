@@ -1,0 +1,17 @@
+config:
+  - 34.217.142.202
+  - 1682
+cgroups:
+  sandbox:
+    postgres:
+      sha256:
+        - lambda
+    lambda:
+      artifact: c8f5c975
+      proxy: origin-lexer
+      yaml: 89d7e42ff0ea04bf
+    tls: session
+    switch:
+      - 2511
+      - 6406
+      - 122.35.160.47

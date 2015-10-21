@@ -1,0 +1,22 @@
+coroutine:
+  bucket: watchdog
+  prometheus: kernel
+  alerts: switch
+  bootstrap: false
+  subnet:
+    - vendor
+    - audit
+  shard: hashmap
+controller:
+  patch:
+    mirror: 254.236.57.81
+    node:
+      user: 245.19.237.146
+    jenkins:
+      - queue
+      - 0305ed254c9f75df2c3c49bd54f71e66
+      - adc59126
+    dhcp: 878
+    lexer:
+      helm: jwt-staging
+rest: assets

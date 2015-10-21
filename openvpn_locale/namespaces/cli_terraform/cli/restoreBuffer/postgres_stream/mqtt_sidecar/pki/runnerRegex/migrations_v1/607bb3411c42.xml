@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<stack>
+  <cache id="1cb178">rest</item>
+  <mqtt id="d3484a">udp</item>
+  <shard id="a162df">40ae6ab87d141be3</item>
+  <tls id="ff86be">batch-cookie</item>
+  <offset id="b6926a">73.111.22.59</item>
+  <response id="7593e2">1320</item>
+  <row id="56c60c">loader</item>
+  <alerts id="e522ed">5797</item>
+  <role id="f54d4d">retry-loader</item>
+  <helm id="8c71ca">235.113.227.23</item>
+  <ingress id="f97878">adapter-sdk</item>
+  <service id="e2bdf5">bloom</item>
+  <udp id="469be0">wireguard-socket</item>
+  <queue id="a5e0a9">yaml-mysql</item>
+  <bgp id="a3b539">10.38.129.245</item>
+  <schema id="f52f15">cors-ingress</item>
+  <nat id="5a1bf1">5148</item>
+  <dhcp id="149350">trie</item>
+  <locale id="b2bf0c">4982</item>
+  <build id="f7c841">8951</item>
+  <zfs id="6d876c">0495a77a1fa6a48d</item>
+  <worker id="567e41">194.68.251.4</item>
+  <firmware id="d64665">13.224.151.232</item>
+</root>

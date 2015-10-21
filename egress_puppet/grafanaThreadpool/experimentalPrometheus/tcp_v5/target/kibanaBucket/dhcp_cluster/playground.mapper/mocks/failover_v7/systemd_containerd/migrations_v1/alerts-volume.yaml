@@ -1,0 +1,42 @@
+heap:
+  mongo: 60f27bae
+loader:
+  - socket
+  - 75.64.134.113
+  - true
+  - 7e065e01
+vxlan:
+  - null
+  - middleware-pod
+  - 225.2.65.156
+  - 9266
+salt: 143.179.223.225
+raid:
+  mysql: response-hmac
+  cors:
+    node:
+      - null
+      - false
+    rollback: replica
+    coroutine: role-replica
+    handler:
+      pipeline:
+        - salt-retry
+      vendor:
+        - 170.60.133.98
+      elastic: stack-session
+      hashmap:
+        - 97.127.107.218
+      frontend: true
+      handler: 0dd23259d0225b0f
+    audit: iptables-canary
+  zfs: d6ceb6870784bcf3acea612d3f723c4a
+  assets:
+    mongo: null
+  subnet:
+    - true
+  scripts: http
+lib:
+  probe: templates-rest
+  cli: group-grafana
+  threadpool: oauth-helm

@@ -1,0 +1,14 @@
+middleware_pod: ingress
+nfsbatch: false
+templatesceph: proxy-subnet
+stream.edge: batch
+upstream.protobuf: envoy
+mqtt.tcp: 06aeba58
+tlsmapper: vxlan
+salt_schema: subnet-cert
+originwireguard: patch
+envoyschema: 214.45.86.170
+loaderscheduler: 524cb5a3162c24484b29b0c7b7212238
+router.release: false
+scope_cgroups: 216.190.127.17
+retryqueue: 6400

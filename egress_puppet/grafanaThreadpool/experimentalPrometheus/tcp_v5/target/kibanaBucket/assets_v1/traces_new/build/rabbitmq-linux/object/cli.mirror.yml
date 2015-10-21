@@ -1,0 +1,15 @@
+bloom:
+  - 6234
+  - mocks
+  - cc73ae9b3a8b0030
+kernel: terraform-cursor
+frontend: true
+replica: 3ee7fca0d45c5d008d7cb07ccf4593ab
+mapper: 62b65d18
+nginx:
+  edge:
+    cgroups: offset
+    loader: 5290e4838450c6a6
+    snapshot: bench
+    service: 181.154.163.1
+    regex: session-firewall

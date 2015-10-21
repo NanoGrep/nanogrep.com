@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<heap>
+  <parser id="92b1bb">115.152.8.242</item>
+  <schema id="04cad7">0ac7da50</item>
+  <mysql id="bd1271">2373</item>
+  <core id="7d38bb">2153200d</item>
+  <release id="1d3de5">9410</item>
+  <mysql id="4a762a">2207</item>
+  <offset id="bdef72">service-salt</item>
+  <config id="9aa1ce">false</item>
+  <cert id="011bbe">193.122.91.177</item>
+  <tls id="731fd2">service-dns</item>
+  <mesh id="ec5bf7">cookie-zfs</item>
+  <cache id="668492">d4b175363256a261</item>
+  <dist id="43f568">true</item>
+  <cache id="b8a09f">tls</item>
+  <ceph id="7c8327">120.23.239.23</item>
+  <mqtt id="1d80c9">3370</item>
+  <trie id="b40309">170.135.227.59</item>
+</root>

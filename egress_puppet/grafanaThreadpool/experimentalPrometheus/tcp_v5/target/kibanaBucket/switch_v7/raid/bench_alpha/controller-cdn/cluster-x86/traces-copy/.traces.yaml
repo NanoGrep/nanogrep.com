@@ -1,0 +1,27 @@
+nightly: 174.10.11.65
+scripts:
+  mysql:
+    scheduler:
+      - 7010d8be25307ba7
+      - router-probe
+      - object
+      - nat-cors
+  iptables: 43f18b0b9e42ec02
+parser:
+  cli: scripts
+  rsa: 129.80.15.184
+  cluster: 3694
+  wireguard: null
+schema:
+  legacy:
+    batch:
+      - 142.32.129.202
+      - 211.194.30.29
+      - compiler
+      - false
+  cursor: bd7bb781d973606b98fa0a41a2638c4b
+  scripts:
+    daemon:
+      audit: true
+      envoy: 2376
+      hotfix: salt-column

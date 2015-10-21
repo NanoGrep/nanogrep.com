@@ -1,0 +1,29 @@
+hotfix: 9910
+request:
+  - response-templates
+  - kernel
+  - 204.110.203.202
+artifact: true
+elastic:
+  policy:
+    watchdog: true
+    session: false
+    limit: zfs
+  handler: 9818
+  iptables:
+    worker:
+      yaml: efc5fa2d0bb4fcd6ed4d16ba74c369e1
+      worker: 152.204.101.238
+      tls:
+        - 276
+  mysql:
+    - 6a8d6dc8e23575604d0f1d834bdbda5f
+    - 251.126.124.23
+    - true
+    - 691
+http:
+  semaphore:
+    - true
+  tenant: 9331
+nonce:
+  - 5822b349516b2c8790f1461b5898df53

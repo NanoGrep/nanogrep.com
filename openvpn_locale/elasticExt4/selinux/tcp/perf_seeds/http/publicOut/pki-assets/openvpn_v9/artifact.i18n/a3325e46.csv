@@ -1,0 +1,16 @@
+api,btree,backup,policy,factory,snapshot,sandbox
+fe6942a5,upstream,153.126.27.191,9b02ca78ff74526054cffb7562ac4b1f,1898,107.46.94.77,211.152.174.116
+canary-btree,5691,ansible-protobuf,mirror-tools,kerberos,96ff80470d6b45395ae3620e30ec1082,heap-payload
+e976536671f608dad90992cbd4d3bb10,failover-replica,true,5119,null,10c139ef31f8d2f17b66823460404070,null
+ffd95f7c531dd796fa9818a8c7f16987,c0bae83a,null,13da82d5,vxlan,202.120.167.200,cache-nginx
+b5a46bd64b9ee3ce,prod,jenkins-cache,6921,71.157.71.192,6546,canary-mocks
+5c0e6668ea820e2525a8d1bc9865ad2d,tools-bench,197.215.126.202,132.148.13.79,null,true,gateway-worker
+252.178.51.116,151.132.224.210,4abfa637cd84eedacc47a192c0bf6ca6,regex-logs,157.124.74.149,8452,heap
+5236,regex-assets,protobuf,2051,a14b9b824df6e094,2a83a5b09b72c8ace807a3438ffba1ac,prod
+helpers,common-scope,null,5e47d4025f71b30aaccba65327b0184b,iptables-semaphore,b160104c,graphql
+2c5120f4d86e98af39f38477f27d7b7b,true,null,shard-mqtt,ingress,trie-grafana,payload
+fa0dc546efb94fedc39e6ad01c92d38b,service,true,2049,session-entropy,raid-patch,1784
+buffer-bgp,false,9407,null,null,09bd29c2babe0291a1e98736d0a7cd77,109.177.231.230
+7353,e1184af677710b78,false,1831efe6,helpers,mesh-cursor,a6ba4acc
+235.108.226.243,3119,true,34491443,null,2006,firmware-btree
+false,182.203.6.97,67c743f12dde99d6,10ceebff5d8aba33,7031,hotfix,salt

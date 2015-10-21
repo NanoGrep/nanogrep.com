@@ -1,0 +1,73 @@
+[mirror]
+nonce.hotfix = 26a7b466496b31a7
+hmac.assets = 1548
+dhcphashmap = 131.177.45.126
+dist.compiler = 4472
+cookiesdk = 34.18.32.56
+jenkinsmutex = 5c0686a9
+nfs_bgp = worker-dns
+rowdns = false
+redis_session = false
+templates_proxy = 9075
+jenkinsnat = 86e08e93db8b7da8d790c0b01910b507
+prometheus_stack = 3b9b8402316443b6
+rest_gateway = 9333
+lib_sdk = 3236
+frontendraid = false
+
+[volume]
+loader.pipeline = router-mesh
+cursor.bench = canary-pod
+edgeuser = vxlan-websocket
+canary.release = 187.234.170.250
+ceph.envoy = 15.64.175.111
+middleware_mongo = 132.195.102.89
+yamlrunner = 665cdad7ecb9b5b6
+scriptssession = db3db71c3710c1fd
+tenant_trie = 6656
+queuemocks = fuzz
+metrics_handler = ddaace0d6ef693cc45f2fb58f1748238
+core.ceph = tls
+templatesfrontend = false
+originnfs = c41bddd5
+http_fuzz = false
+patch_dns = 51.193.165.222
+firewalljwt = failover-role
+nginx_mapper = 169.170.93.103
+fuzz.scripts = prometheus
+grpc_wireguard = vxlan
+rollbackcommon = 9544
+metrics_vendor = 6003
+storage_helpers = rest-storage
+bootstrapcolumn = locale
+cert_kerberos = 145.23.104.142
+schedulerpayload = 178.197.154.212
+nat_nfs = false
+audit.policy = prod-ansible
+socket_vxlan = false
+mapper_udp = null
+
+[ldap]
+schema.jwt = true
+patchmigrations = cli
+cursor.pipeline = false
+ldapmutex = 4539
+index.tests = schema-compiler
+origin_cors = null
+kernelyaml = 213.89.217.47
+token.user = hmac
+streamgrpc = edge-assets
+parser_mapper = true
+heap_dhcp = e8bd8625
+trie_buffer = dns-nat
+udpquic = topic
+btree_token = true
+mongo.regex = backend
+driver_payload = 5996
+mesh_kernel = null
+
+[nfs]
+row_edge = 193.16.53.45
+vendor.tls = 153.86.125.26
+vxlan.frontend = 223.46.117.9
+testsceph = fuzz

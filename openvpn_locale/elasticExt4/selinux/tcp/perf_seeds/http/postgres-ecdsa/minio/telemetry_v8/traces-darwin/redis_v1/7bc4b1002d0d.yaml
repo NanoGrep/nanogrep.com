@@ -1,0 +1,3 @@
+cors:
+  - cookie-audit
+adapter: nat-mqtt

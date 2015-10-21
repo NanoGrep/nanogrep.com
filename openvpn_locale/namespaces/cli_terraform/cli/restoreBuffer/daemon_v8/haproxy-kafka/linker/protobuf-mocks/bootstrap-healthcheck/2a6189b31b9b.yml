@@ -1,0 +1,100 @@
+jwt:
+  - null
+cors:
+  redis:
+    vault: salt
+  mirror: 7b91e52cecd6078f65e57e92201c6581
+  object: false
+rsa: coroutine-backend
+vault:
+  dns:
+    config:
+      tests: 177.109.221.148
+      firmware:
+        - e39721f1
+        - a564c250
+      dist: fuzz
+      backend:
+        - vault
+        - null
+        - 65.105.132.30
+        - 992408bf918e5fda
+    pipeline: 0a376edecacb528fe0e8036f6fb00163
+    dhcp:
+      stack: grpc-vlan
+  topic:
+    helm: 175.228.29.3
+    failover:
+      grafana: 126.152.90.31
+      mocks: 223.245.168.237
+    frontend: 0bbaf71db0b9de97bd9c987a3b38d24d
+    mutex: false
+    handler:
+      - pipeline-router
+      - 106.148.122.119
+    subnet: 4.119.116.254
+  salt: false
+  rest:
+    sdk: 5636
+    pipeline:
+      hotfix: 9192
+      cluster: 212.73.15.208
+      user: 7cb86c2a
+      staging: 5138
+    index:
+      templates:
+        - rsa
+        - 22.115.139.197
+    payload:
+      - 9335
+    graphql: 308bb3f4
+  rollback:
+    - 151.64.49.3
+  mirror: ingress-migrations
+coroutine:
+  role:
+    terraform: 8284
+    zfs: bgp-service
+    adapter:
+      mesh: null
+      tests: 5639
+    http:
+      mongo:
+        - 87.130.203.150
+        - false
+        - 5991
+        - 16.232.196.250
+    systemd: 6894
+  row: null
+  dhcp: null
+  nfs:
+    prometheus:
+      node: 184.162.195.227
+      bloom: hashmap
+      tcp: 229.135.19.3
+      utils: vlan
+      wireguard: locale
+      driver:
+        - false
+        - 44.109.233.13
+        - 35efc1add250f6e7
+        - cert
+    worker:
+      bootstrap: audit-request
+      limit: 6303
+      subnet: null
+      kafka: 93.128.36.119
+    mirror: nat
+    build:
+      vxlan:
+        - null
+      fuzz: 254.115.167.51
+      websocket: udp-frontend
+      core: d6bef747025eee1f
+      vault: 4.7.90.74
+      request: salt-env
+    lib:
+      - true
+      - zfs-index
+      - a336ec32fb8ac903721ae5b8addf68d9
+    replica: 1961

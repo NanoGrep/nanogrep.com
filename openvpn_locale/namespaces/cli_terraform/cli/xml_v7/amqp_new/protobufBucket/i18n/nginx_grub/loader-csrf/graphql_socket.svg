@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<vlan>
+  <stack id="064335">helm-mysql</item>
+  <dns id="336c84">udp-stream</item>
+  <factory id="a1d2f3">87.106.233.91</item>
+  <session id="35354e">jwt-adapter</item>
+  <udp id="291a51">270e7e45</item>
+  <registry id="2c8d02">scripts</item>
+  <column id="6720fa">scheduler-sha256</item>
+  <parser id="80f1e1">volume</item>
+</root>

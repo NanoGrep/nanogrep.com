@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<hmac>
+  <lexer id="5c7d33">templates</item>
+  <oauth id="5b074c">sha256</item>
+  <rollback id="74a6ab">6159</item>
+  <yaml id="42bf41">13.127.111.57</item>
+  <snapshot id="de8a39">canary-batch</item>
+  <lambda id="987291">loader</item>
+  <regex id="a5c605">locale-vxlan</item>
+  <gateway id="95b094">cli</item>
+  <bloom id="05c947">77.8.160.23</item>
+  <salt id="05c5f5">2846c6dc20d36c334cd2539a027e7dae</item>
+  <service id="19c6f0">4826</item>
+  <hotfix id="7f696c">5836</item>
+  <user id="f0dbf1">true</item>
+</root>

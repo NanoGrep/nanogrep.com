@@ -1,0 +1,21 @@
+bucket: 8753
+replica:
+  controller:
+    rest:
+      - 1192291bccc240a4
+      - topic
+      - 244cd148
+      - build
+    upstream:
+      prod: failover-driver
+      templates: 9393
+      pod: false
+      postgres: true
+      lexer: 097c0475
+  nat:
+    common:
+      kafka: 213.89.86.239
+      origin: 2413
+    index: 13.9.137.126
+  rest: 3109
+ansible: crypto

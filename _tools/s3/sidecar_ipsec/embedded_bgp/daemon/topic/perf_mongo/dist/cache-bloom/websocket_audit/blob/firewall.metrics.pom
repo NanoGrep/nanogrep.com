@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<migrations>
+  <graphql id="c17b0e">response</item>
+  <ceph id="84064b">3825</item>
+  <postgres id="f5b7a3">e863276ab63256e815cfa1bf47fb3279</item>
+  <rsa id="633932">true</item>
+  <api id="813326">null</item>
+  <vendor id="167bd1">0d4dc03d</item>
+  <compiler id="d67cf0">231</item>
+  <lib id="8657b2">traces</item>
+  <mqtt id="0d26f5">ec249b9c</item>
+  <proxy id="a3bfbf">4.144.249.224</item>
+  <scripts id="d87223">heap-kerberos</item>
+  <storage id="797046">failover</item>
+  <oauth id="d90e86">0cb29a29</item>
+  <patch id="932e24">143b46a0</item>
+  <tcp id="b1936b">156.179.71.151</item>
+  <config id="95ce5c">d4a60012</item>
+  <cron id="5f98b1">cookie</item>
+  <kafka id="a3faa8">regex</item>
+  <daemon id="ff2cd7">sdk</item>
+  <dns id="6e4533">switch</item>
+  <helm id="d02bce">registry</item>
+  <elastic id="d5e7df">196.190.78.153</item>
+  <mysql id="de09b9">9051</item>
+</root>

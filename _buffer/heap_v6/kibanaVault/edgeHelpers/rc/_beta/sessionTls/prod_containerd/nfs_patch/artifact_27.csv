@@ -1,0 +1,17 @@
+group,topic,vxlan
+tls-compiler,142.27.187.75,4417
+2866,659,handler-postgres
+8280,a714cf0149f5a4d5,elastic
+26aaa21350c14af3,true,bloom
+89.92.29.199,cgroups,origin
+8622,snapshot,56959bb4
+6cf35bb6,rollback,216.127.221.116
+backup-limit,true,77c6a8cee65a6265478ce92e72dea140
+3861,125,regex-helpers
+pod-shard,3036,849ac0b15dd3f6bb
+8342,null,kerberos-bloom
+true,true,semaphore-kerberos
+null,5862,true
+3016,45.171.141.76,false
+lambda-backend,1442,batch
+scripts,group-nat,cookie-factory

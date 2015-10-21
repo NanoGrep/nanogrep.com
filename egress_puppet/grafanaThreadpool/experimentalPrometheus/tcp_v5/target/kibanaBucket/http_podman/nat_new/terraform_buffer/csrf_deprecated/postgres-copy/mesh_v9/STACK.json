@@ -1,0 +1,117 @@
+{
+  "registry": {
+    "threadpool": [
+      [
+        true,
+        "8d00fde81208"
+      ],
+      "a1af8e123159",
+      "cache"
+    ],
+    "yaml": [
+      1507,
+      {
+        "vlan": "mirror"
+      },
+      467,
+      7172
+    ],
+    "terraform": [
+      [
+        false,
+        "2e1765e6589d"
+      ]
+    ],
+    "row": {
+      "sandbox": true,
+      "env": null,
+      "mysql": {
+        "vault": true,
+        "cert": false,
+        "controller": true
+      },
+      "user": [
+        9415,
+        false,
+        "379931261ed7"
+      ]
+    }
+  },
+  "iptables": {
+    "group": {
+      "bloom": "d4ee97aee83f",
+      "api": [
+        true
+      ]
+    },
+    "volume": false
+  },
+  "assets": {
+    "mqtt": {
+      "dns": 3505,
+      "prometheus": {
+        "cgroups": false,
+        "firmware": "traces",
+        "fixtures": false,
+        "index": "ansible",
+        "ingress": true
+      },
+      "response": "nightly",
+      "cgroups": 6351,
+      "common": {
+        "terraform": false,
+        "grpc": 4565,
+        "rollback": false,
+        "semaphore": false,
+        "role": false,
+        "mesh": true
+      },
+      "build": [
+        null,
+        "core",
+        "22240262e096"
+      ]
+    },
+    "grpc": "7835fc93a8eb",
+    "protobuf": true
+  },
+  "staging": {
+    "trie": false,
+    "token": {
+      "loader": {
+        "quic": false,
+        "subnet": true,
+        "websocket": "ca08d32f3fdb",
+        "cookie": "jwt",
+        "release": "992200a9b7d3",
+        "offset": 904
+      },
+      "env": false,
+      "bench": true,
+      "mocks": {
+        "cursor": "alerts",
+        "controller": null,
+        "protobuf": true,
+        "middleware": "7418bf170cbd",
+        "watchdog": "backend"
+      }
+    },
+    "salt": true
+  },
+  "threadpool": {
+    "mqtt": {
+      "utils": 2190,
+      "systemd": "3b665b8d1874",
+      "object": [
+        4757,
+        null
+      ],
+      "switch": "9447abeb8117",
+      "graphql": null
+    },
+    "legacy": {
+      "response": "nightly",
+      "zfs": "watchdog"
+    }
+  }
+}

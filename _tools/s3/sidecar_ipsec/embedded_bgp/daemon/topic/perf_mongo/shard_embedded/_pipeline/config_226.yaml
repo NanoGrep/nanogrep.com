@@ -1,0 +1,20 @@
+ansible:
+  probe: 7d56eb93
+  api:
+    - mesh-group
+  crypto:
+    - true
+mocks:
+  env: 2.74.219.249
+logs:
+  iptables: 9919
+  ldap:
+    - 9fbc09ee32b09e8b
+    - semaphore-regex
+    - retry
+    - parser-common
+  object: 76.19.5.54
+  bloom: 6022
+traces:
+  - tcp-kerberos
+  - patch-session

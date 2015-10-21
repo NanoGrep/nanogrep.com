@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<zfs>
+  <semaphore id="92f224">grafana-mongo</item>
+  <probe id="b78abe">false</item>
+</root>

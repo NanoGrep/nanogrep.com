@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<bgp>
+  <frontend id="170638">false</item>
+  <adapter id="bbcb97">239.127.224.200</item>
+  <upstream id="eac3bd">8ac6ce9c23fa69e0bc5ec8b100660845</item>
+  <vault id="82f845">10.44.45.19</item>
+  <assets id="c0d30d">86.132.174.217</item>
+  <jwt id="fe4a66">false</item>
+  <service id="78c168">177.31.57.132</item>
+  <prod id="d7164a">6784</item>
+  <systemd id="6e5de7">262</item>
+  <stream id="990997">lambda</item>
+  <nfs id="e474ae">3115</item>
+  <parser id="958c5e">8fb7e8f0</item>
+  <udp id="b6d640">gateway</item>
+  <audit id="bea872">true</item>
+  <user id="735ba9">65e3d6bb7b437383d53de06500a0097a</item>
+  <gateway id="2cf0eb">bloom-common</item>
+  <socket id="3257fe">pod-api</item>
+  <nonce id="a0e1ec">true</item>
+  <mysql id="829d2c">parser</item>
+  <systemd id="09fe38">b57be82e</item>
+</root>

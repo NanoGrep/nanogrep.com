@@ -1,0 +1,19 @@
+[
+  "d8fdcd950ae1",
+  [
+    {
+      "buffer": {
+        "prometheus": "artifact",
+        "rsa": "386c829c13b2",
+        "cors": false,
+        "batch": null,
+        "topic": true,
+        "kafka": null
+      },
+      "common": false,
+      "build": true
+    }
+  ],
+  true,
+  "hotfix"
+]

@@ -1,0 +1,49 @@
+handler:
+  - ff5af2b4210954729516f02c294fbb56
+  - adapter
+  - 159.135.242.190
+jwt:
+  nonce: 6.47.181.48
+  edge: fixtures
+  quic: false
+cron: false
+traces:
+  row:
+    controller: 4009
+    kafka:
+      - 3130
+      - bf2938b6c4387fe5
+      - false
+    bloom: threadpool-nonce
+    build:
+      dns: staging-row
+      frontend: zfs
+      sha256: a31a81a1d024e242d34d7d0dd3e375bf
+      volume:
+        - rsa
+        - 217.1.236.131
+        - false
+  payload:
+    cli: true
+  jenkins:
+    utils: sha256-bloom
+    pipeline: payload-cookie
+    quic:
+      - 250.125.105.225
+      - 139
+      - stack-config
+      - cookie-grafana
+    payload: node
+    middleware: canary
+    udp: bucket
+runner: adapter
+controller:
+  ldap:
+    - true
+    - 165.66.146.65
+  tcp:
+    utils:
+      - 4895
+    ansible: 231.241.223.216
+    regex: 6d0c8029
+  sdk: 56daec11fce566a3

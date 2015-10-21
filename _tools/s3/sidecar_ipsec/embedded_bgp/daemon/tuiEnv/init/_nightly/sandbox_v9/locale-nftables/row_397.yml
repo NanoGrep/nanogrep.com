@@ -1,0 +1,31 @@
+batch:
+  replica: 102.35.36.100
+  kafka: true
+  metrics:
+    - service-systemd
+    - runner-grafana
+    - router-mqtt
+  cors: pod-legacy
+  shard: 102.168.126.184
+  scope:
+    templates:
+      cgroups: edge
+      stack: oauth-kerberos
+      dist: true
+      token: false
+      pod:
+        - elastic-websocket
+        - traces
+staging:
+  offset: 657a1b1f83074d336253dce32496ceee
+  audit: 8122
+  policy:
+    canary:
+      - replica-patch
+      - middleware-policy
+      - ecaa03ce2a93bf19bde283eebe813fdd
+storage:
+  - 6227
+  - legacy
+  - 57.60.199.204
+  - 5b478305

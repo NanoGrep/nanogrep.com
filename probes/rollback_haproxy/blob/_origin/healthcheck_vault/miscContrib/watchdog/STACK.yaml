@@ -1,0 +1,18 @@
+tenant: 7498
+config:
+  ansible:
+    wireguard:
+      ansible: 3824
+      index: affe28fbdf9f0bc8fe707ff67c87ddfa
+      kerberos:
+        - 1692
+        - e66dca61c50916002f4dbc165c0249fb
+        - 7264
+        - 6636
+      beta:
+        - 3a9025e6
+      bootstrap: mesh
+      shard: backend
+    vlan: 40c6040589cc7394ada93e799acab144
+  dns: 39.218.219.241
+api: 218.119.124.207

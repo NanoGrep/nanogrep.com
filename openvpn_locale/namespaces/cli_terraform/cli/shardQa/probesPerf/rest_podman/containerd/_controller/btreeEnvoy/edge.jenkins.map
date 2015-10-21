@@ -1,0 +1,36 @@
+{
+  "scheduler": {
+    "parser": {
+      "socket": [
+        764
+      ],
+      "build": {
+        "bench": "lib",
+        "salt": "bgp"
+      },
+      "hashmap": {
+        "ceph": true,
+        "prod": "466e93e38c59",
+        "kernel": true,
+        "kafka": "controller",
+        "cgroups": null,
+        "loader": null
+      },
+      "failover": {
+        "traces": 9403,
+        "middleware": true,
+        "backup": "ca41771b96d5",
+        "metrics": false,
+        "mongo": false
+      },
+      "object": "migrations",
+      "core": {
+        "mutex": false,
+        "gateway": "e8080bb3d7d4",
+        "regex": "jwt"
+      }
+    }
+  },
+  "templates": null,
+  "protobuf": true
+}

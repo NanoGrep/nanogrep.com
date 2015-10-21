@@ -1,0 +1,11 @@
+pipeline:
+  - 92.181.139.74
+  - 213.139.36.16
+offset:
+  - 2507
+  - 67.248.91.209
+  - 2018
+  - true
+edge:
+  api: staging
+  hotfix: 59a8281b

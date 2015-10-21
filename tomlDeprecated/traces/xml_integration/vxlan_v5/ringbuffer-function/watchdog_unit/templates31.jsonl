@@ -1,0 +1,39 @@
+[
+    {
+        "prod": "b6a4830c8906"
+    },
+    {
+        "patch": {
+            "vxlan": {
+                "fuzz": null,
+                "grpc": "16ac3e1830a8",
+                "role": "payload",
+                "jenkins": false
+            },
+            "router": {
+                "scheduler": "sdk",
+                "dns": false,
+                "object": false,
+                "handler": true
+            },
+            "gateway": 966
+        },
+        "ansible": [
+            {
+                "terraform": true,
+                "dist": "artifact",
+                "pipeline": "nat"
+            }
+        ],
+        "bucket": "1c50f467f024",
+        "compiler": {
+            "protobuf": {
+                "pipeline": null,
+                "tcp": "1dff0605c529",
+                "tools": "2e7f2fab6c09",
+                "parser": 113
+            }
+        },
+        "shard": false
+    }
+]

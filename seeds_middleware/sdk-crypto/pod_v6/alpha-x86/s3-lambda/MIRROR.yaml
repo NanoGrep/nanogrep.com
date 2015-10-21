@@ -1,0 +1,7 @@
+node: audit-terraform
+factory: 67341783fd73f32db97c8e1c54297f08
+pod:
+  - 148.206.253.221
+  - 8129
+  - 156.111.69.22
+subnet: stack-user

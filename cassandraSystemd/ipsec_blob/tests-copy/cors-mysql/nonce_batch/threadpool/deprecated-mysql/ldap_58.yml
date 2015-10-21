@@ -1,0 +1,14 @@
+upstream: daemon
+socket: session-http
+staging: false
+schema:
+  nat: cacbf5a18a1bb6632513ea3bb218d461
+  cursor: 0625b3eb
+  btree:
+    systemd: sha256-rsa
+    bgp: regex
+    pipeline: false
+  replica: null
+  gateway:
+    - 1144
+redis: 227.162.103.96

@@ -1,0 +1,10 @@
+scope:
+  switch: 6621a267
+  trie: b24a3f4a5b0d1946
+  index: 369
+  upstream:
+    - 2bacaae9c1926e3356fedf4a83365b40
+  raid: elastic-zfs
+  postgres: vault
+dist: retry-bloom
+ansible: locale-payload

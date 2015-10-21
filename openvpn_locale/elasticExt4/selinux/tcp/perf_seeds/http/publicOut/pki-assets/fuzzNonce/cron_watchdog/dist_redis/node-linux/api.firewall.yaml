@@ -1,0 +1,9 @@
+wireguard: 8065
+release:
+  - true
+  - 9ca1934030ef6457
+  - json
+bench: 9076
+beta: false
+mqtt: vlan
+router: nat

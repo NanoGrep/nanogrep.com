@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<lib>
+  <vlan id="238701">assets-canary</item>
+  <sandbox id="af0fd5">trie</item>
+  <loader id="09f07d">false</item>
+  <common id="6192ea">242.40.100.91</item>
+  <lexer id="c57f52">request-artifact</item>
+  <mapper id="363641">98.46.150.132</item>
+  <replica id="aeb584">session</item>
+  <hotfix id="15ae29">prometheus</item>
+</root>

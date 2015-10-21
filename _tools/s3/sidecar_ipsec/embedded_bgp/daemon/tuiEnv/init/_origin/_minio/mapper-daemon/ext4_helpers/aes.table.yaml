@@ -1,0 +1,25 @@
+service:
+  - 7419
+  - 9fc2d0ae69fb8da7
+  - systemd-mesh
+edge: f2bc977baf4345c49076f17d95d47a39
+group:
+  cookie:
+    mysql: 1989
+    mesh: 200.248.39.21
+    edge:
+      kerberos: false
+      assets: cron
+      loader: oauth
+      switch: 50.72.115.181
+    coroutine:
+      - e17d29118092cbe0
+      - true
+      - c643cd9a4999ee34
+      - e87fbba699adc976
+    role:
+      mysql: 9314
+    router:
+      token: origin-shard
+      jwt: driver-alerts
+      topic: 3193

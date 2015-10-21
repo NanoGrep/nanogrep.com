@@ -1,0 +1,13 @@
+[scheduler]
+entropy_edge = 35.232.167.107
+helpers_kafka = redis-hotfix
+stack_rollback = 8d077e30efb80d69c027e02f535b775c
+driver_quic = false
+schemaparser = mirror
+mocks.group = bootstrap-watchdog
+scheduler_rollback = 15.254.239.75
+limit.buffer = prod
+nonce_replica = 302e821d66010c29fded39b89d4d04a4
+group.policy = jenkins-mongo
+grafanaindex = 217.175.105.16
+limit_trie = 18.8.162.77

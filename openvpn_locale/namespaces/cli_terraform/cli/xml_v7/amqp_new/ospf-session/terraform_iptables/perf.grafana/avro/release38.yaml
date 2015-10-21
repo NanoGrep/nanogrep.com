@@ -1,0 +1,81 @@
+trie:
+  envoy:
+    - rollback
+    - mocks
+  session: hmac-assets
+  mqtt:
+    user: 3124fed2
+    mysql:
+      helpers: false
+      alerts: replica
+    edge:
+      websocket: cron-helm
+      wireguard: 5fbdde67
+      scheduler: 2c5a5400
+      core: 4333
+      buffer: 4380
+      nginx: 62.150.0.246
+adapter:
+  volume:
+    middleware:
+      gateway: 95d65153
+      migrations: 4f5b3e8223260f306820b0944cacb095
+      loader: 59f3cb8be45dffa8
+    limit: null
+    regex:
+      dist: true
+      middleware:
+        - tenant-assets
+        - 7680b38c49ecc17d
+        - 8077
+      request: 213.206.87.222
+  websocket:
+    crypto:
+      session: null
+      hmac: redis-volume
+      ansible: true
+    firmware: 102.69.218.6
+    lambda:
+      nonce: 235.187.37.158
+      limit: trie-locale
+    trie: true
+    pod: true
+    watchdog: semaphore
+  index:
+    storage:
+      table: cluster-helm
+      row: 9525
+      batch: staging-artifact
+      core: e0c7ae05c4cc62ae6048610cb21d74e6
+  cli: 91250302744d78f4e8f473d7986c3654
+  jwt: 72.234.27.28
+helm: true
+topic:
+  graphql: grpc
+  failover: false
+  http:
+    helpers: env
+    websocket: true
+    semaphore: audit
+    traces:
+      crypto:
+        - 4686
+        - elastic
+        - 94bb0736660c4c490097ac23264460f9
+        - 706
+    shard: null
+    pipeline:
+      group: 125.249.26.108
+      tenant: f68be6cc
+      cgroups: mqtt
+      wireguard: env-nightly
+      postgres:
+        - 6343
+  group:
+    index:
+      - false
+      - 13.83.36.154
+      - 120.238.133.42
+    cli: 570a02183c7b3670
+    shard: audit
+build: null

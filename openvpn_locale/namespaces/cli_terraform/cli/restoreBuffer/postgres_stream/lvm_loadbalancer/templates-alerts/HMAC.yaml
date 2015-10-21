@@ -1,0 +1,33 @@
+redis:
+  firewall: shard-yaml
+  lib:
+    group: null
+    rsa:
+      hotfix: table-mocks
+      failover:
+        - 248.145.107.235
+        - false
+        - null
+  watchdog: assets
+topic:
+  - bucket
+  - assets-middleware
+  - parser-storage
+  - 3694
+group:
+  hmac:
+    sha256:
+      - pod
+      - false
+      - nightly
+      - 32.2.15.141
+    table:
+      vault: 807bc7b0f9fe0057
+      oauth:
+        - terraform-origin
+        - 7ba40d61d3800ba3
+        - cors-buffer
+        - bench
+  compiler: batch-stream
+  cli: http-sandbox
+  semaphore: ceph

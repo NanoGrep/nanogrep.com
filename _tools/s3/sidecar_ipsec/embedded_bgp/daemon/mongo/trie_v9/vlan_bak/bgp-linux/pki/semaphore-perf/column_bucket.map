@@ -1,0 +1,22 @@
+[
+    {
+        "ingress": 1440,
+        "ceph": [],
+        "worker": "volume"
+    },
+    6714,
+    "postgres",
+    {
+        "dns": [
+            4773,
+            {
+                "factory": true,
+                "config": false,
+                "zfs": false,
+                "shard": true,
+                "scope": 2259,
+                "replica": true
+            }
+        ]
+    }
+]

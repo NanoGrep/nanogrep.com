@@ -1,0 +1,74 @@
+scheduler:
+  protobuf: sha256-helm
+  audit: 9489
+  logs:
+    artifact:
+      kafka:
+        - false
+        - proxy
+        - 9044
+        - scheduler-gateway
+      rsa:
+        - true
+        - dist-mirror
+        - 62.40.212.125
+      tools: beta-shard
+    loader:
+      mirror: c5ee6c7c2e3a23a4b9f84e61ac161e7b
+      node: group-volume
+      frontend: 111.211.230.125
+      mysql: 5451
+      rsa: 5615
+    vault: 9bfb9a6a890c4dc7
+    grafana: c0ec31a0504849719e0c4505ea4495bf
+    audit:
+      limit: f3a8331f
+      http: 153.34.20.216
+    envoy: mirror
+  runner:
+    failover: false
+    scope:
+      probe: 5633
+      legacy: bgp-env
+      env:
+        - 65.13.146.142
+      wireguard: 97.111.149.178
+      protobuf: graphql-vxlan
+      offset: 6340
+    grpc: 5630
+    mesh: nonce
+    buffer:
+      object: deb547ddbfda40b22d2d9d459ebb37a8
+    rollback:
+      probe:
+        - 4062
+        - heap
+        - 054fc7268e25e092f8766e1a31e6e83a
+        - 684f86d0b1cbabb63d6021d16193fe20
+      beta: c652e18a3f868659ebcb3b0ac7db06df
+      staging: null
+rest: 9817
+grpc: env-cli
+watchdog:
+  - true
+  - worker-release
+  - dns-nginx
+object:
+  ldap:
+    - 71f86e03
+    - hmac-grafana
+  bloom: 5358
+  kerberos:
+    bloom: btree
+    retry:
+      yaml:
+        - 2643
+        - 164.8.23.239
+        - mqtt-mesh
+        - 66.101.103.124
+    upstream:
+      - 236.223.66.32
+    session: false
+    tenant: schema-vlan
+  stack: object-node
+cors: 1f5d131d

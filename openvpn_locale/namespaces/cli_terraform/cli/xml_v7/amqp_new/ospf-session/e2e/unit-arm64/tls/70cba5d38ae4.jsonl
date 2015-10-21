@@ -1,0 +1,74 @@
+{
+  "beta": {
+    "cgroups": false,
+    "patch": {
+      "cluster": {
+        "json": null,
+        "threadpool": false
+      },
+      "config": []
+    },
+    "ceph": null
+  },
+  "failover": [
+    true,
+    {
+      "mysql": {
+        "storage": 8721
+      },
+      "parser": [
+        null,
+        true,
+        false
+      ]
+    },
+    {
+      "ingress": [
+        9260,
+        null,
+        true,
+        null
+      ],
+      "cgroups": [
+        true
+      ],
+      "alerts": "b8e207cbf15f",
+      "watchdog": {
+        "worker": true,
+        "grpc": "pipeline"
+      }
+    }
+  ],
+  "aes": null,
+  "replica": [
+    false,
+    null,
+    "70fb3cc1c16b"
+  ],
+  "salt": [
+    {
+      "scripts": "user",
+      "driver": {
+        "cert": null,
+        "watchdog": "186feb8a3dbc",
+        "limit": "31bb7cd77ade",
+        "firmware": true
+      }
+    },
+    [
+      {
+        "migrations": true
+      },
+      [
+        null,
+        true,
+        2897
+      ],
+      {
+        "kafka": "947a11f204c2",
+        "factory": "d1082c3c5ed0"
+      }
+    ],
+    null
+  ]
+}

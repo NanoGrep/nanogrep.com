@@ -1,0 +1,35 @@
+{
+  "iptables": false,
+  "token": false,
+  "firewall": {
+    "json": {
+      "rest": {
+        "elastic": true,
+        "quic": 4432,
+        "dhcp": null,
+        "udp": true
+      },
+      "user": {
+        "runner": 9920
+      },
+      "nginx": false,
+      "build": {
+        "sandbox": 2815
+      },
+      "edge": {
+        "upstream": 9734,
+        "factory": true
+      }
+    },
+    "tenant": {
+      "pod": {
+        "parser": true,
+        "udp": true,
+        "upstream": 5644,
+        "alerts": false,
+        "rollback": null
+      }
+    },
+    "runner": null
+  }
+}

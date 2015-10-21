@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<limit>
+  <mapper id="380912">7068fd3d</item>
+  <buffer id="c377de">131.100.28.183</item>
+  <traces id="b9cc65">8636</item>
+  <switch id="605118">quic</item>
+  <entropy id="c14e97">169.53.146.104</item>
+  <oauth id="a7b3c5">storage-prometheus</item>
+  <vlan id="9039db">24.25.171.127</item>
+  <iptables id="2d70c9">248.234.46.83</item>
+</root>

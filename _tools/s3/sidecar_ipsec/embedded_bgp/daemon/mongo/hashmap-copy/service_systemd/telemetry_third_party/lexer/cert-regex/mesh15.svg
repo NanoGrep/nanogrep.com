@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<row>
+  <templates id="afc0af">253.53.143.98</item>
+  <nfs id="211d4e">lib</item>
+  <driver id="d96f25">64.36.170.107</item>
+  <utils id="4c747a">9861</item>
+  <heap id="ec60f3">systemd</item>
+  <node id="c71a40">false</item>
+  <middleware id="fd870a">b3e6b792e0d33d52b09c4a31152de5fd</item>
+  <group id="b63aaf">175.214.153.29</item>
+  <staging id="1a77b8">4864</item>
+  <iptables id="83e83c">true</item>
+  <subnet id="6bcc0e">2595</item>
+  <prod id="87fe9c">218.182.197.93</item>
+  <helpers id="aade3d">d03501942478eaaa36e5378bb8db5b0e</item>
+  <locale id="f87929">false</item>
+  <sha256 id="dcdaae">lib</item>
+  <backend id="c5d97b">a617c234967c37a5c5ab03081f5cdc2e</item>
+  <object id="af1763">ed4936d39c7bbfcf</item>
+  <backup id="cf4e29">false</item>
+  <proxy id="b8a998">nginx-heap</item>
+  <vault id="633d97">true</item>
+  <wireguard id="24e4f6">101.24.39.135</item>
+  <kafka id="becee0">d58dee2c</item>
+  <staging id="84a61d">4376</item>
+  <nfs id="954e74">a48c203e</item>
+  <rsa id="e18bb6">true</item>
+</root>

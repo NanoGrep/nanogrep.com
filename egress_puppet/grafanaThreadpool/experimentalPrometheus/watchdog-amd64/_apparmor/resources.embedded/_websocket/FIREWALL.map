@@ -1,0 +1,14 @@
+[
+  [],
+  {
+    "salt": [
+      true,
+      [
+        null,
+        null,
+        "bootstrap"
+      ]
+    ],
+    "rollback": null
+  }
+]

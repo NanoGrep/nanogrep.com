@@ -1,0 +1,7 @@
+ldap:
+  - backend
+  - 9167
+  - schema-metrics
+probe: true
+sha256: tests
+protobuf: 5690

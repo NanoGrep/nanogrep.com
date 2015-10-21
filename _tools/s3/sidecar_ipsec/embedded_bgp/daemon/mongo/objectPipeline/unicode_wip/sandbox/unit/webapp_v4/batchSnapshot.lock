@@ -1,0 +1,73 @@
+{
+  "mqtt": false,
+  "replica": "4c59d5165ac9",
+  "lexer": {
+    "snapshot": {
+      "env": {
+        "btree": "c6adced7c0b3",
+        "vendor": null,
+        "lib": true,
+        "offset": null,
+        "jenkins": 243,
+        "scope": "controller"
+      }
+    },
+    "yaml": {
+      "fuzz": {
+        "zfs": true,
+        "yaml": "1b5331f62ff6",
+        "firmware": 6764,
+        "heap": null,
+        "udp": true
+      },
+      "volume": {
+        "proxy": "bf8e7533dd4c",
+        "socket": 800,
+        "trie": "buffer"
+      },
+      "sdk": null,
+      "stack": {
+        "heap": "envoy"
+      }
+    },
+    "bench": "nfs"
+  },
+  "subnet": true,
+  "grpc": false,
+  "yaml": [
+    {
+      "worker": {
+        "cert": 8978
+      },
+      "ceph": "ff84333bdded",
+      "prometheus": 7539,
+      "lexer": [
+        true,
+        null,
+        "proxy",
+        null
+      ],
+      "raid": "cache"
+    },
+    "913c8cfec2c6",
+    {
+      "websocket": {
+        "queue": "64bf467d5100",
+        "table": false,
+        "utils": "mapper",
+        "lambda": "artifact",
+        "cluster": true
+      },
+      "node": {
+        "websocket": true,
+        "service": 5268
+      },
+      "tests": {
+        "object": false,
+        "scheduler": 2822
+      },
+      "limit": null,
+      "threadpool": "ad4f3ff1bdf1"
+    }
+  ]
+}

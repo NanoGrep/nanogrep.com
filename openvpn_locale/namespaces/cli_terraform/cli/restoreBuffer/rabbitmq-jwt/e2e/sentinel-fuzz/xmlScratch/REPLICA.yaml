@@ -1,0 +1,8 @@
+websocket: 6098
+kafka: true
+ingress:
+  - loader-mqtt
+  - 8921
+elastic: assets-hashmap
+bench: false
+router: 125.152.147.47

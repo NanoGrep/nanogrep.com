@@ -1,0 +1,74 @@
+{
+  "ldap": {
+    "rollback": [
+      true,
+      {
+        "handler": "legacy"
+      },
+      [
+        false
+      ],
+      false
+    ],
+    "bench": {
+      "column": 60,
+      "vault": null,
+      "batch": [
+        "0e970f761062",
+        null
+      ]
+    }
+  },
+  "topic": {
+    "graphql": {
+      "mongo": 9440,
+      "factory": "5cdfc1b09b78",
+      "redis": {
+        "probe": false
+      },
+      "scheduler": {
+        "elastic": "bucket",
+        "udp": true,
+        "retry": 7381
+      }
+    },
+    "sandbox": [
+      []
+    ],
+    "tls": {
+      "mutex": {
+        "volume": true,
+        "loader": "b3a5f70c5908",
+        "firewall": "mutex"
+      },
+      "audit": true,
+      "switch": {
+        "registry": "b1680b590ff4",
+        "lambda": null,
+        "kafka": "mirror",
+        "redis": null
+      },
+      "dns": "2abdcb47f240"
+    },
+    "terraform": [],
+    "worker": {
+      "rollback": {
+        "mesh": "parser"
+      },
+      "rsa": "worker",
+      "heap": {
+        "response": true,
+        "controller": "hotfix"
+      },
+      "cache": "regex",
+      "wireguard": {
+        "patch": "backup",
+        "rest": null,
+        "sha256": "nat",
+        "postgres": "56a9b32ca8ea",
+        "heap": 1228
+      }
+    }
+  },
+  "lib": null
+}

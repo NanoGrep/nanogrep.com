@@ -1,0 +1,1 @@
+{"common": true, "audit": [{"cli": ["kerberos"], "replica": ["cert", true, "37de97bd723a", "0532c066dc1a"], "cookie": {"crypto": "driver"}, "bgp": "canary"}], "table": 199}

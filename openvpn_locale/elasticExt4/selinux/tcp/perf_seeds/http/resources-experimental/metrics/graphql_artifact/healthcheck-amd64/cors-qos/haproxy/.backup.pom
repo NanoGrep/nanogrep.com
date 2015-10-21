@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rollback>
+  <pod id="7af7b3">kerberos</item>
+  <cert id="bc50a0">9e17fbf5baba35df</item>
+  <grpc id="9761e5">null</item>
+  <firmware id="057dd7">b2df2ef4ca4f2b61</item>
+  <build id="7ffc4c">42.26.136.32</item>
+  <tenant id="18db41">237.174.238.22</item>
+  <column id="b5bc10">true</item>
+  <grafana id="797a46">82750d1a</item>
+  <alerts id="fc8bbd">71064892a5e343977b91fb981e684e8d</item>
+  <cookie id="d4c9e3">null</item>
+  <kafka id="a449dc">9ed9d06e</item>
+  <mutex id="5cc838">null</item>
+  <threadpool id="f03e26">tools</item>
+  <vxlan id="c99ffd">false</item>
+  <topic id="d4aae2">threadpool-service</item>
+  <scripts id="66832f">232.52.68.33</item>
+  <api id="96e566">null</item>
+  <tenant id="a29d63">true</item>
+  <http id="fa420d">20.190.179.120</item>
+  <upstream id="c6d565">service</item>
+  <http id="4ceb3c">mirror</item>
+</root>

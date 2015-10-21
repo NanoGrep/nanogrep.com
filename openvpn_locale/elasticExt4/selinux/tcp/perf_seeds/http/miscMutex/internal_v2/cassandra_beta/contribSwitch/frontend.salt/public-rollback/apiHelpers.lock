@@ -1,0 +1,114 @@
+[
+    {
+        "socket": {
+            "sandbox": [
+                true,
+                false,
+                true
+            ],
+            "coroutine": "systemd",
+            "vlan": "logs"
+        },
+        "sdk": [
+            {
+                "rest": false,
+                "service": 8770,
+                "bloom": true,
+                "iptables": "legacy",
+                "role": "f4ec9fdea09d"
+            },
+            "tenant",
+            {
+                "mesh": true,
+                "gateway": "715d79910f4c",
+                "vxlan": null
+            },
+            "hotfix"
+        ],
+        "bench": [
+            "mirror",
+            "a19644418264"
+        ],
+        "session": {
+            "env": {
+                "index": "bloom"
+            },
+            "mapper": "worker"
+        },
+        "runner": true,
+        "schema": [
+            "vlan",
+            {
+                "crypto": "62dccae146a2",
+                "staging": true,
+                "queue": "utils",
+                "dist": null
+            }
+        ]
+    },
+    true,
+    {
+        "staging": {
+            "artifact": 7313,
+            "handler": false
+        },
+        "registry": {
+            "salt": {
+                "shard": 238,
+                "ansible": 7122,
+                "kafka": false,
+                "row": false,
+                "helpers": "439b0db8c80c"
+            },
+            "cache": {
+                "release": null,
+                "assets": true
+            },
+            "bloom": [
+                false,
+                "e86e6467fc89"
+            ],
+            "firmware": [
+                "009e9d80fa28"
+            ],
+            "wireguard": [
+                null
+            ],
+            "origin": true
+        },
+        "config": {
+            "limit": {
+                "probe": true,
+                "cookie": false,
+                "entropy": "7be230639309",
+                "queue": 8931,
+                "elastic": "btree"
+            },
+            "lib": false,
+            "fuzz": "9a987645c661",
+            "regex": {
+                "threadpool": "4b2e8cb18e74",
+                "config": "cd3da7d19da7",
+                "hotfix": false,
+                "nginx": false
+            },
+            "driver": {
+                "object": "6ce6652a3f7a",
+                "cluster": true,
+                "cookie": true,
+                "bootstrap": 983,
+                "token": "salt"
+            },
+            "semaphore": false
+        },
+        "tenant": [
+            false,
+            [
+                false
+            ]
+        ],
+        "socket": false,
+        "build": false
+    },
+    "3a842c4fead2"
+]

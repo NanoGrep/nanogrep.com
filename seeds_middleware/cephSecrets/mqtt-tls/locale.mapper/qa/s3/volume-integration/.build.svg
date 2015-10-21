@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<threadpool>
+  <upstream id="fe8af3">4777</item>
+  <bloom id="d6b476">196.33.56.91</item>
+  <switch id="a17748">tools-kernel</item>
+  <bench id="33fcca">116.144.171.79</item>
+  <artifact id="6256df">3706</item>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<row>
+  <runner id="db1caa">8302d6f1</item>
+  <oauth id="5458ae">mirror-semaphore</item>
+  <payload id="b17d56">18.111.127.124</item>
+  <hmac id="4f701d">8159</item>
+  <legacy id="e58a00">null</item>
+  <cookie id="026a4d">ldap</item>
+  <metrics id="1643d4">3ba44233</item>
+  <driver id="c5f9ae">49.40.240.150</item>
+  <redis id="0e5e77">false</item>
+</root>

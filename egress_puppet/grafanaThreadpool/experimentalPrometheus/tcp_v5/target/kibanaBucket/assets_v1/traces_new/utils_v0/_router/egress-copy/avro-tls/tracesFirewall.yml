@@ -1,0 +1,13 @@
+limit:
+  schema: true
+  cookie: false
+  salt: true
+  nginx: token-frontend
+tls: migrations-traces
+helpers: patch
+bootstrap:
+  request: 117.23.164.230
+  graphql: 178.236.227.232
+  mysql: false
+  tls: upstream
+  mutex: 8022de63

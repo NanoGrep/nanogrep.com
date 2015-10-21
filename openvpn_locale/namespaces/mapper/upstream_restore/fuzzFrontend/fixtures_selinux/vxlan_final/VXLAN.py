@@ -1,0 +1,3 @@
+# Router user mirror dist assets ...
+def token_bench(nightly):
+    return nightly + 4129

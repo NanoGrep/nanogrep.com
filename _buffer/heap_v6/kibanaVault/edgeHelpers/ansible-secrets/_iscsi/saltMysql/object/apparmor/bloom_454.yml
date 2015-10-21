@@ -1,0 +1,50 @@
+mysql: postgres
+pipeline:
+  sha256:
+    stream:
+      user: 73.34.240.145
+      api: 76.11.17.210
+      proxy: null
+    terraform:
+      cookie: 6f3c1e3b6520a0c8c7d719d7e52bcf1a
+      staging: terraform-tcp
+      storage: 2360
+    zfs: postgres
+  pipeline:
+    registry:
+      role: c0591486e40ef189
+      systemd: 192
+      oauth: 84.19.244.232
+    user: oauth-tools
+    env: null
+    column: node
+    scripts: iptables-row
+driver: 8920
+index: 224.247.169.90
+payload:
+  tenant:
+    - 3749
+    - cdb1e2723ff9f78c
+    - 226.214.228.230
+  cert:
+    - 7503
+    - 78.127.166.78
+    - true
+  payload:
+    logs: 165.141.84.151
+    cors: e4703d22d42c2448
+    queue:
+      buffer:
+        - 0e0bdb3aec2492f0a013b6be9dd661e9
+        - true
+        - 1338
+        - ceph
+    ldap: 51.14.26.232
+    proxy:
+      proxy: prometheus-batch
+      core: group-backend
+      assets: 5997
+      bloom: mongo
+  volume: prometheus
+  dhcp: 1044
+  pipeline: 107.66.93.150

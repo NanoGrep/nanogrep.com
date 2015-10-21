@@ -1,0 +1,8 @@
+entropy: loader-buffer
+scheduler:
+  - 8211
+  - 1e783da9
+  - true
+staging: 103.235.53.183
+subnet: 23.84.90.17
+wireguard: buffer

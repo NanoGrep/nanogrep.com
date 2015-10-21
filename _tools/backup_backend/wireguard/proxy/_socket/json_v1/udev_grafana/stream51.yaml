@@ -1,0 +1,74 @@
+trie: ceph-firmware
+jenkins:
+  failover: 5267
+  cron:
+    salt: false
+  graphql: cursor-mirror
+session:
+  yaml:
+    kafka: false
+    assets: 66.117.120.199
+    registry:
+      udp: 131.252.170.108
+      bench: 122.130.174.168
+      token: 232f6771c10758f5bfff09bee23ef862
+      salt:
+        - 3743
+        - 171.35.199.225
+      traces: null
+    yaml:
+      lib: 45.110.250.217
+      nonce: cache
+    kafka: artifact
+    semaphore:
+      ansible: true
+      scope: 158.103.157.20
+      prometheus: 38e1f4e3d0238951
+      cookie: 4212
+      metrics: null
+      nightly: 8721
+runner:
+  oauth:
+    - staging
+    - release
+  stack: column-registry
+  offset: 6241
+lambda:
+  - null
+  - true
+  - f5e9ecc67f74192c
+cursor:
+  pod:
+    firmware: b1ec44cc
+    replica: 209.39.125.118
+    stream:
+      utils: 0717b076
+      btree: buffer
+    table:
+      aes: mapper
+      cgroups: ea0ee2bd58da144b
+      cors: 53e6e264ff93ced6
+      sdk:
+        - fd326146a3212f05
+      controller: tools-sdk
+      mongo: 4607
+    object:
+      - false
+      - kerberos-dns
+      - 5908
+  jenkins:
+    sha256:
+      postgres: 8491bc69ef171348
+      prod: 753
+    fuzz:
+      cert: parser-core
+      factory: payload-payload
+      rollback: 201.4.40.164
+      vxlan: true
+      sha256: 244.219.44.20
+      canary: raid-mqtt
+    scheduler:
+      - false
+      - 187.24.226.194
+      - true
+      - d3e63e96ce5d7305

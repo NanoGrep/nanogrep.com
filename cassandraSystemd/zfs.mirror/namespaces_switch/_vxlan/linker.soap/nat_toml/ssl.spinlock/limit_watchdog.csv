@@ -1,0 +1,17 @@
+token,dhcp,envoy,storage,router
+191.59.125.223,false,759,null,true
+4fbca366acc7e28f0d8ad583beefbb63,common-nightly,d2b58c1e3cbc8770,5923,1315c261
+scripts,true,ldap,null,878
+vendor,daemon,800,udp-lexer,140.239.75.241
+1292,2965,123.27.219.2,5c3099797e0080d9aff3907676ca9f76,volume-fixtures
+null,2598,7563,daemon-migrations,5103
+403,websocket-templates,false,true,quic-loader
+8335,251.5.81.119,227.254.242.84,stream,148.199.187.30
+env-mesh,9136,ceph-env,helm-canary,7fe5adaeaef0ebd1
+03773b7e,gateway,93.163.99.222,1166,shard-iptables
+56.192.69.253,8703,dist-bucket,row-fixtures,null
+3bdaa1d8cae3b676224f84d12265d480,7060,true,hotfix-raid,830
+8da6c25a5e21c761,dns-utils,false,2200,0cd37a3181b1c2a3
+70.234.57.98,true,hashmap-loader,51.233.109.179,sha256
+origin-bucket,true,28e5cba54ddc0bc4,9959,null
+6909,false,dhcp,d10bd47f,9a5ac03e1598bd90

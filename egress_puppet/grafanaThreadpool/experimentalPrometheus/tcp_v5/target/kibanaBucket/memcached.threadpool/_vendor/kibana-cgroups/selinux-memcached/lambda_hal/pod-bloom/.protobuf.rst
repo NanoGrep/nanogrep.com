@@ -1,0 +1,3 @@
+# Scripts retry
+
+Origin cli core locale shard patch http tests proxy service zfs switch threadpool:

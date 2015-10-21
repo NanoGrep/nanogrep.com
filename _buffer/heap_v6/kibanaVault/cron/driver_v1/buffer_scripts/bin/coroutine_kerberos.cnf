@@ -1,0 +1,26 @@
+[cluster]
+entropy_mirror = 35.64.245.183
+pod.storage = 2697dab5e8c0648b
+mongo.prod = false
+prometheus_staging = env
+backupsession = gateway
+lambda.tenant = wireguard-cron
+alerts_response = 40.250.196.186
+tokenlimit = 114.151.31.53
+cookie_yaml = 234.187.29.199
+cgroups_salt = 4586
+socketmutex = true
+adapter_cgroups = 86.144.216.124
+retrystorage = 145.223.140.208
+mocksbench = btree-column
+nfsalerts = d9cd25494a11b3a0ae30a8e0ad2f4adf
+
+[column]
+coroutine.dns = cursor-metrics
+scopepolicy = 39709be9
+lambdaupstream = f6b734f2f3ff494e
+handlerterraform = 7801
+bucket_release = 5.64.195.162
+bgpiptables = 965d098b67e8e1a1
+lexer.metrics = d8e899f3a4a4c1b9d67b1b24861e536e
+edgedist = role

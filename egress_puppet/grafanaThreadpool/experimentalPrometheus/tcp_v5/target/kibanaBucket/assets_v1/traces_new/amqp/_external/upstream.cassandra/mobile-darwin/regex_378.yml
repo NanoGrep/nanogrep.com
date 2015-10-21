@@ -1,0 +1,43 @@
+locale:
+  object:
+    row:
+      bootstrap: false
+      wireguard: 145.161.3.28
+      vxlan: 2907
+      service: kernel-socket
+    mqtt: hmac-upstream
+    ingress: bec9cd2a5d59b05d45803274695376f4
+  mqtt:
+    adapter: 95.77.229.86
+    rollback:
+      systemd: mutex
+      alerts: 148.72.223.250
+      grafana: ingress-cert
+      user: kernel
+      edge: 96.178.221.248
+    proxy: 1619
+    crypto:
+      daemon: websocket
+      salt:
+        - utils-envoy
+    artifact: 7892
+  beta: firmware-ansible
+  rollback: 1862
+  lambda: entropy
+  nfs:
+    postgres: buffer-dist
+    entropy:
+      pod:
+        - 4328
+        - f5cf3b1ad374ebba
+      proxy: true
+      node:
+        - 730c54c7
+      env: request
+    mirror: true
+    pipeline: crypto-redis
+lexer: 3459
+router:
+  iptables: ingress
+failover: 80.92.17.7
+bgp: fuzz

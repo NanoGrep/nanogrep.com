@@ -1,0 +1,17 @@
+templates:
+  queue: 5413
+  lambda: 99c798c1
+  tenant:
+    cron: null
+    mirror:
+      cgroups: jwt-utils
+      dist: 6015
+      table: null
+      hashmap:
+        - lib
+        - api
+  postgres: 6583
+parser: driver-volume
+migrations:
+  - 8d298fdae2b473d0
+  - 198.234.230.53

@@ -1,0 +1,4 @@
+crypto:
+  offset: null
+canary: nonce
+vlan: mocks

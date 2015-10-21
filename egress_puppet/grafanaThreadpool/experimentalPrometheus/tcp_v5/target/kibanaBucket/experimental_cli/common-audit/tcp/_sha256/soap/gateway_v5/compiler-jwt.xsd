@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<lexer>
+  <utils id="d45d32">50.158.130.168</item>
+  <lib id="240f49">112.81.197.210</item>
+  <middleware id="e2e984">e6e61a0bb6d2dda2</item>
+  <hashmap id="24fa22">true</item>
+  <tenant id="d1c646">e7d6ffd39d36b7e8</item>
+  <index id="e9592a">22.82.254.253</item>
+  <worker id="957321">8494e6e8</item>
+  <regex id="339da5">false</item>
+  <snapshot id="cfa9b9">7728</item>
+  <beta id="ab0d7f">6147</item>
+  <semaphore id="90b20b">2116</item>
+  <assets id="fcdd91">false</item>
+  <registry id="0cce81">true</item>
+  <registry id="3c46c7">ea8d761e</item>
+  <cli id="7213ee">core-dhcp</item>
+</root>

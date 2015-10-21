@@ -1,0 +1,10 @@
+replica: buffer-scripts
+coroutine: assets-tls
+templates: shard-shard
+lambda:
+  daemon:
+    - 6374c144
+    - e26e7f0438771a97
+    - null
+  cgroups: 8c5d84bc3080bec5
+  node: false

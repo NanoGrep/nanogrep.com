@@ -1,0 +1,18 @@
+session: factory-mysql
+loader: true
+nfs:
+  kafka:
+    - cron-common
+    - 162.157.29.100
+  socket:
+    - websocket-proxy
+    - dcb737b4
+    - request-mongo
+  crypto:
+    origin: vendor-worker
+  volume:
+    - rollback-origin
+    - upstream
+prod: 225.220.43.10
+switch:
+  replica: node

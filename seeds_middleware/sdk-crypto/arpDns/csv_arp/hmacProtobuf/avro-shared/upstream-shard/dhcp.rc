@@ -1,0 +1,45 @@
+[snapshot]
+sessionnat = e30439e6
+lib.cert = kerberos
+tlstraces = 202.106.136.27
+templates.probe = jenkins
+logsparser = bgp-locale
+loader.service = cache-jwt
+rollbackloader = sha256
+hashmap_raid = 743fc468
+scripts_topic = pipeline
+dist.staging = 4917
+beta_mysql = null
+quicschema = 160.43.2.52
+jenkins.ingress = 3190
+sdk.frontend = tenant
+zfspipeline = 112.30.151.229
+mesh.scheduler = f682c7ae0f1efd1a
+
+[helm]
+nightlynonce = 4997
+templatesrow = af1714a2
+staging.staging = true
+
+[socket]
+tenant_firewall = ffa9eaef601a0d80e8babb8ff2e15a4b
+sha256.table = 6452
+ansible.logs = 78.86.61.9
+terraformoauth = false
+index_staging = ingress-systemd
+raidtopic = 4efc4ebe7d1f638e534b6bec65730c97
+hmac.mesh = 609e5ae463219354de09d32ec3be86ce
+lib.helm = 127.79.119.40
+batchmqtt = 52.28.72.84
+middlewarejenkins = 9915
+bgp.hashmap = 169.210.179.184
+column.handler = 206.102.164.171
+kafkaiptables = fuzz
+json.fuzz = runner
+runnersession = null
+alerts.nfs = 9e1cf45d9dc47c4b
+
+[tests]
+nfsquic = true
+node.tcp = 6.101.223.35
+backend_helm = null

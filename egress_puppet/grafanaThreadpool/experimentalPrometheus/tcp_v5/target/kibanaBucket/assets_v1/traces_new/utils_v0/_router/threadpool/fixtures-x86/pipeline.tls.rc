@@ -1,0 +1,66 @@
+[role]
+stream_pod = 498
+postgres_config = 2042
+rollback.middleware = true
+alertsscope = cache-bloom
+fixturesretry = false
+yaml_group = ad165102c243169d
+response.batch = 04e6f4166528a5bd2c1fba5021fbbf70
+quickafka = 8eb3ea8e42e43aa86721ea999f3f5980
+registry_raid = 160.5.175.218
+nonce.api = 144.177.84.123
+release_mirror = 9526e9f942892d97c7a3c62442136577
+bootstrap_vlan = tools
+hashmapwatchdog = true
+
+[stack]
+pipelineldap = cli
+ceph_kernel = false
+vaultprometheus = ingress
+grafana.cron = false
+gateway.hmac = 1184
+cache_node = f0b3eb2b
+build_tests = stream
+tls_alerts = true
+protobufmigrations = db56a86a0c28aa5863d9b399545ebb87
+helperscert = pod-kerberos
+legacy_logs = build
+gateway_websocket = 4744c523e8fea618
+
+[bgp]
+coroutine_locale = false
+scripts_registry = role
+sdknat = 249.25.232.16
+oauth.metrics = 2997
+clusterlogs = topic
+storage_sandbox = null
+
+[ceph]
+backend.topic = 251
+cli.yaml = 63.149.142.202
+
+[tenant]
+bloom.firewall = origin
+graphqlshard = false
+nonce.cache = 4f98449d107c32d541edc110aea3542c
+mesh_cluster = 5378
+nginxindex = 390be4dfbe0830a3c5779097708b7920
+helm_lambda = 133.198.36.52
+postgresmutex = a1261c50
+kerberos_rsa = quic
+ingress.edge = vlan
+nightly_ldap = crypto-helm
+roleaudit = 117.69.38.252
+http.nightly = 221.9.34.173
+bgp_rsa = mutex-tenant
+jwt.firmware = migrations
+kernel.aes = 3872
+protobuf.tls = shard-terraform
+nginxrole = false
+adapterprotobuf = 342b442dae90d6f3896c69999f31e752
+lambdahmac = user
+sdkbloom = worker-registry
+sdk_tests = audit
+crypto.envoy = 4778
+shard.node = false
+prometheustraces = 04bff5b6

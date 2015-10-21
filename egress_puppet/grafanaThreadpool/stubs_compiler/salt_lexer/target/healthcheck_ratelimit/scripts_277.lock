@@ -1,0 +1,30 @@
+{
+  "nightly": true,
+  "firmware": {
+    "crypto": [
+      8065,
+      [],
+      3117
+    ]
+  },
+  "object": {
+    "nightly": false,
+    "release": {
+      "nfs": {
+        "response": "ea413d354e2a",
+        "daemon": true
+      }
+    },
+    "factory": null
+  },
+  "storage": [
+    {
+      "schema": {
+        "volume": "c1d865f0c03d",
+        "origin": false,
+        "mapper": false,
+        "nat": 3595
+      }
+    }
+  ]
+}

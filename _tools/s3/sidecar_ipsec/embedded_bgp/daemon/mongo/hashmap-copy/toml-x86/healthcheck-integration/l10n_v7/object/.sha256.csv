@@ -1,0 +1,5 @@
+vault,cron
+null,socket
+184.240.6.48,failover-scope
+bf6e08b327a04726,238.127.100.147
+false,tcp

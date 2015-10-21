@@ -1,0 +1,5 @@
+index: 123.140.93.11
+worker: false
+subnet:
+  - tcp
+cors: false

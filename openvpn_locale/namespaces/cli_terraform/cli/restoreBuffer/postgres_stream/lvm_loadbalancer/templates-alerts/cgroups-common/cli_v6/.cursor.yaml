@@ -1,0 +1,41 @@
+graphql: null
+tenant: true
+adapter:
+  worker: 128.212.132.157
+  canary:
+    trie: false
+    nginx: c56de49b4a131a476c7a58178ee1af3f
+    bloom: 9b707f6693f63c563eb18d1c7c6212ad
+  nfs:
+    index:
+      probe: null
+      canary:
+        - 16405db5b71d1c3a54ab501ef01659c7
+        - false
+        - 2323
+        - 9f36adbfac7d59d6
+      scheduler: 084abef9
+      locale: c916b682
+      object: 0fcc4532f4bb1ad3
+  cors:
+    role:
+      stream: null
+    scope:
+      - null
+  helm:
+    wireguard:
+      scheduler:
+        - 50.30.173.163
+        - 92519bd8
+      queue: user
+      loader:
+        - e602fd3da678be48f21204faeb8ad54b
+        - 73.171.243.116
+        - subnet
+      queue:
+        - topic
+        - true
+      tools: cert-fixtures
+      buffer: 2a9fb2ce69e9bfdd
+    controller: 23.193.19.26
+  backend: 0aea638fcc564414c9e6c8381b69fea7

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<registry>
+  <alerts id="433863">firewall-locale</item>
+  <cron id="26948e">5895</item>
+  <bgp id="475144">false</item>
+  <retry id="f2f0eb">9872</item>
+  <salt id="dea657">39.190.196.2</item>
+  <vxlan id="39ba78">assets-bench</item>
+  <topic id="dc8a42">3951</item>
+  <policy id="ebdcda">208.49.110.168</item>
+  <controller id="9ee268">lib</item>
+  <bloom id="b3f6b6">debaff9f33bf3aa25910db6597aa745c</item>
+  <sha256 id="4b21ac">702e7753d3920b7a568e6477b951b911</item>
+  <ansible id="5ba1cb">null</item>
+  <tls id="564c82">530b14c5</item>
+  <subnet id="a426b9">3f43b990b2aa62d1</item>
+  <cursor id="1cdd8f">193.7.29.202</item>
+  <nat id="bfa9f7">compiler</item>
+  <migrations id="7fa79b">index-batch</item>
+  <cors id="6a1653">iptables-parser</item>
+  <ceph id="c35227">d5352f44</item>
+  <request id="b2fb3a">locale-canary</item>
+  <raid id="376a00">5a2eaf2f198d81a1</item>
+</root>

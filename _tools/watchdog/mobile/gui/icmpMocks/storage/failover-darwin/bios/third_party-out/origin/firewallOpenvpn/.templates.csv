@@ -1,0 +1,11 @@
+tools,object,subnet,bench,sdk
+edge-nightly,firmware,fed773d6e792773d8c3b7128bf4f1646,postgres,true
+9148,0bcf268b,true,patch,06062b8ce2337ac09cd0ad82de71d463
+registry,101.115.209.46,backend,http,yaml-hmac
+bootstrap,registry,228.136.235.172,upstream-replica,null
+132.54.136.32,true,3679,cache-tenant,205ad5bf
+snapshot-terraform,handler-response,58e25f068b817f1967635dac99a5fb98,6737,config-router
+a3f7867a,common,e5e5eaf284efd02bbeaaed3afe65f796,48.102.230.197,1e22cb40
+cgroups-nfs,false,76ff02fc,frontend,170.14.33.249
+5.44.25.86,616,6669,5e2ae3892f652546,72982f77f6f68fa2b2862051ab407f7f
+true,234.79.98.153,238.94.50.61,policy-crypto,6090

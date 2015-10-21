@@ -1,0 +1,25 @@
+zfs: grpc-protobuf
+canary:
+  factory:
+    - index
+  mutex:
+    - volume
+    - 167.175.229.234
+    - 03199e1d5892aebfa7228fbefde97421
+    - storage-release
+  locale: 8.92.163.177
+upstream:
+  ldap:
+    build:
+      row: false
+      hmac: salt
+      cron: 1093
+      node: 214.243.71.219
+      backup: service-iptables
+      canary:
+        - true
+  rollback:
+    entropy: null
+    table: 849b8f6c431d2c8c
+    mqtt: false
+    dhcp: 32.186.73.24

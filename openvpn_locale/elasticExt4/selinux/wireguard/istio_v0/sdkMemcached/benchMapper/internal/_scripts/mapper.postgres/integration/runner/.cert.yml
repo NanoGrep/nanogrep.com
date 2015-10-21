@@ -1,0 +1,9 @@
+topic: aes
+prod: bloom
+vlan: null
+core:
+  - subnet
+  - oauth
+cache: 254.141.228.246
+bench:
+  tls: envoy

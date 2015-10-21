@@ -1,0 +1,10 @@
+cert: offset-release
+cron: false
+queue:
+  tests:
+    - build-policy
+    - driver-router
+node: 67.179.62.223
+backend:
+  handler: scope
+beta: e056a794f80dbf29a6e436dca17d2eec

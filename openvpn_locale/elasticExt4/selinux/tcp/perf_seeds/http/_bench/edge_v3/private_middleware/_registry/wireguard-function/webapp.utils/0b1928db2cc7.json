@@ -1,0 +1,92 @@
+{
+    "compiler": [
+        {
+            "legacy": {
+                "nfs": "151b84802b6a",
+                "dhcp": "4c2a6c1d0192",
+                "mutex": "a1ea672cbbf6",
+                "grpc": "1ec8a92d31b1"
+            },
+            "btree": {
+                "controller": true,
+                "hmac": true,
+                "session": null,
+                "threadpool": 1396,
+                "jenkins": true,
+                "backup": null
+            },
+            "cert": false,
+            "graphql": "de00e406ed08"
+        },
+        false,
+        [
+            {
+                "metrics": "api",
+                "release": null,
+                "kerberos": null,
+                "locale": false,
+                "build": false
+            }
+        ],
+        4616
+    ],
+    "proxy": {
+        "grafana": false,
+        "user": {
+            "fixtures": [
+                "5726ec93192d"
+            ],
+            "tcp": [
+                true,
+                false
+            ],
+            "systemd": {
+                "threadpool": "b6cc3c8071ca"
+            },
+            "token": null,
+            "jwt": {
+                "tests": 275,
+                "cron": null,
+                "payload": true,
+                "mutex": 6300,
+                "registry": true
+            }
+        },
+        "systemd": {
+            "udp": 5339,
+            "probe": "scheduler"
+        },
+        "nonce": {
+            "service": [
+                null,
+                "0c45616ec7f3",
+                null,
+                "mesh"
+            ],
+            "envoy": [],
+            "row": "5a42e345bcbb",
+            "kafka": false
+        },
+        "logs": [
+            {
+                "cors": null
+            },
+            {
+                "terraform": "trie",
+                "nginx": "salt",
+                "backup": false,
+                "canary": "parser",
+                "kerberos": null
+            },
+            [
+                "ldap"
+            ],
+            [
+                "4900b9deb527",
+                false,
+                "ingress"
+            ]
+        ],
+        "helm": false
+    }
+}

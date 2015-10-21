@@ -1,0 +1,58 @@
+{
+    "schema": {
+        "user": "5871ceb4874c",
+        "daemon": 3806,
+        "parser": "87a35a678eda",
+        "lib": {
+            "json": {
+                "ceph": "b3fb1cf0b28b"
+            },
+            "volume": {
+                "ansible": false,
+                "iptables": "cluster",
+                "websocket": "backend"
+            },
+            "pod": {
+                "service": "8bafe33c5e77"
+            }
+        },
+        "proxy": {
+            "row": [
+                null,
+                null,
+                true
+            ],
+            "node": {
+                "table": "subnet",
+                "worker": null,
+                "wireguard": "12ed279317a5"
+            },
+            "crypto": [
+                true,
+                null
+            ],
+            "btree": {
+                "fixtures": 9484,
+                "raid": "9377debd678b",
+                "rollback": "ansible"
+            }
+        },
+        "metrics": [
+            {
+                "backup": false,
+                "limit": false,
+                "grafana": null,
+                "sandbox": "83c1b6769aa0"
+            },
+            [
+                true,
+                "column"
+            ],
+            []
+        ]
+    },
+    "http": "heap",
+    "traces": "role",
+    "handler": "alerts",
+    "limit": "c034caf22390"
+}

@@ -1,0 +1,19 @@
+tools:
+  bootstrap:
+    lexer:
+      vlan: failover-payload
+      entropy: true
+      daemon: 71928e73
+      driver: 6868e7fecbad22ea75256654d3f814b3
+      locale: 27a162d139cbc4ea3bcccb08091fa863
+      mesh:
+        - 209.34.199.238
+        - 175.117.196.254
+        - scope-entropy
+    schema:
+      upstream: true
+      tls: bench-stack
+  switch: firmware-http
+  locale: bucket
+adapter:
+  json: 239.44.204.13

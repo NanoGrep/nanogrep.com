@@ -1,0 +1,29 @@
+firmware:
+  - rsa
+  - retry
+mutex:
+  entropy: fcbdddbc953dde0468113016e49b1d98
+  role:
+    worker: pod-cursor
+    kafka:
+      response:
+        - true
+        - helpers
+      rsa: row-jenkins
+      assets: socket
+    lambda: 79.151.52.73
+    iptables: assets-table
+  crypto:
+    handler: 7b8dd7c8f18317ac5cde8f47a9d05cbc
+  vxlan: 4321
+  buffer:
+    graphql: 224.1.219.246
+    mesh: cli
+    storage:
+      switch:
+        - 7228c9bf
+        - 3196
+    env: http-cluster
+    request: 6648
+    entropy: 8959
+  kernel: index-pipeline

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<http>
+  <json id="3b0680">5.69.17.113</item>
+  <policy id="5a36eb">7076</item>
+  <failover id="183e3c">null</item>
+  <alerts id="21e49e">214.243.193.21</item>
+  <storage id="518495">27.228.60.193</item>
+  <cache id="740504">pod-mocks</item>
+  <volume id="87293e">artifact</item>
+  <daemon id="ee6a46">6408</item>
+  <kernel id="db87ce">mutex</item>
+  <bucket id="15d72b">5cb9725d68966331</item>
+  <tls id="c773d8">socket-index</item>
+  <common id="0827d9">fefaf344aeb9df0c8012a3b3c684823c</item>
+</root>

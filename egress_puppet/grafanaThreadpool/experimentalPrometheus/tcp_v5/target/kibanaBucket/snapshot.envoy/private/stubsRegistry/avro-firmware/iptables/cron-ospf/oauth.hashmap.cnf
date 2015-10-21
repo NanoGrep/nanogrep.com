@@ -1,0 +1,80 @@
+[role]
+retry.worker = 147.97.162.252
+protobuf_nightly = 1617
+gatewaysandbox = 96.186.46.181
+probefirmware = firewall
+cluster.cluster = 7810
+session_rsa = 4518
+routervault = release-middleware
+stack.utils = json-snapshot
+nightly.kernel = origin-cli
+workercert = rest
+cookie.grpc = rollback-websocket
+hashmapstorage = tenant
+group_json = cf4d8da6f11546527aa0cdc4b931e548
+mysqllimit = false
+backup_group = true
+templatesoffset = 170
+backupobject = offset
+mysql.ansible = null
+origin.bench = 6772
+
+[origin]
+cachevault = vault
+canary_policy = lib
+grpc_terraform = 5193
+handler.dist = tcp-stream
+router_canary = null
+elastic.cluster = caa36a0f
+coreprometheus = 200.233.129.133
+oauthsalt = ea4be21a58f14a6560aef0b70fa2c8ff
+heap.nat = node
+session.policy = quic-cluster
+
+[api]
+ingressrsa = cluster
+loader_common = 8291
+vaultwebsocket = mutex-wireguard
+iptables.websocket = btree
+
+[zfs]
+probe.session = false
+runner_locale = false
+artifact.wireguard = 7007
+artifact_failover = failover-firewall
+tests.graphql = true
+ldap_core = traces-ingress
+factory_metrics = true
+clipod = null
+firewall_cache = 220.134.52.238
+bgpservice = false
+scheduler.nat = ansible
+subnet.patch = 4181b681012468a9ce08bbd04cd53f8b
+common.dist = null
+patch.dns = 209.74.196.238
+policyscope = nat
+
+[cli]
+vendor_pipeline = 7dbf65434442bc06
+tenant_canary = probe-cron
+failover.ceph = 52e19c29622f05e1
+failover.templates = 995
+worker.failover = terraform-canary
+lambda.scope = 62.126.143.92
+request_lambda = 1115
+routercli = shard
+scripts_migrations = ce8d180dea5752d8374e51dd206792ad
+adapter.user = 52.186.123.67
+mirrorhotfix = 3721
+sha256_gateway = 4084
+rollback.index = true
+kafkaudp = e03aab956d2dd1db582ecfdbb40ee19c
+ansiblecolumn = 4395
+semaphore_salt = null
+firewall_daemon = 891
+offsetheap = 183.57.32.252
+topic_cache = 9846896abc770204
+sha256_sandbox = false
+vault.coroutine = false
+oauth.subnet = 183.163.99.183
+vlancookie = firmware-helm

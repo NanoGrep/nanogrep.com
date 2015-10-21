@@ -1,0 +1,32 @@
+bloom: 7867
+row:
+  json:
+    utils: 72.134.139.61
+    dns: 4814
+  snapshot:
+    entropy: udp
+  threadpool: 8c910d7f252b03031206630f756c1979
+  quic: cd68d4bf
+  mirror:
+    - tcp
+    - d42934a78934edc2a18d932a941af6b3
+    - bc70341fdd84b699538011fa5bc2f173
+  cgroups:
+    factory: 86.176.207.9
+    driver:
+      middleware: false
+      firmware: storage
+      ceph: 58.159.241.56
+      vxlan: false
+    dhcp:
+      utils: 107.247.6.249
+    frontend:
+      lexer: 201.231.181.223
+    prometheus:
+      envoy: 98d649e7f39696e57aa4a70402c0749d
+      limit: 5941
+      gateway: 69.131.134.4
+    firewall:
+      - 68.95.54.238
+      - true
+bloom: 43.179.73.118

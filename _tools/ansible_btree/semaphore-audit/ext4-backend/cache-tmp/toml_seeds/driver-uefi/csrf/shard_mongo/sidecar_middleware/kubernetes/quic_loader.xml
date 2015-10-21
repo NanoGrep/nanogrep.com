@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<grafana>
+  <table id="52d920">150.195.226.177</item>
+  <config id="98c40d">136.95.186.35</item>
+  <btree id="e0640b">192.133.14.192</item>
+  <kernel id="69e4b5">6.118.63.69</item>
+  <patch id="0ede39">2691</item>
+  <iptables id="f5814c">698</item>
+  <offset id="1c92ab">service-bgp</item>
+  <mocks id="4a2953">105.142.100.205</item>
+  <bucket id="cde29e">193.179.171.203</item>
+  <driver id="48ae97">terraform-btree</item>
+  <token id="4ff8ee">false</item>
+  <env id="cd774f">97.132.140.158</item>
+  <stream id="40a0e2">bucket</item>
+  <middleware id="959f69">104.45.159.166</item>
+</root>

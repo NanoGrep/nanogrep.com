@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<api>
+  <registry id="962c82">snapshot</item>
+  <rest id="547c1d">null</item>
+  <nat id="d3d541">replica</item>
+  <schema id="3ed4ea">76.212.186.173</item>
+  <tcp id="e2a309">staging-trie</item>
+  <tls id="4dc42e">3779</item>
+  <nfs id="b827dd">token</item>
+  <row id="217b6d">null</item>
+  <index id="a3c5a9">20c4073c6927a63c</item>
+  <nfs id="72ef73">grpc-bgp</item>
+  <fuzz id="3d5216">watchdog-vxlan</item>
+</root>

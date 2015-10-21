@@ -1,0 +1,42 @@
+fuzz:
+  cors:
+    - assets-retry
+    - 2812d0fc
+  service: 301a9fbd0e9429fe3ccfd56f3a17e21e
+  backend: 3605424f
+  btree: null
+  frontend: true
+  watchdog:
+    - queue-replica
+prod:
+  helpers: 1.154.176.159
+  staging:
+    scripts: false
+    utils: 196.75.141.156
+    fuzz: postgres
+    udp: false
+  btree: 9db6d2ab8e7f5d745063bf1a6034ea96
+  row:
+    kafka:
+      jenkins: false
+    bench: ansible-zfs
+  coroutine:
+    - utils-payload
+    - http
+    - true
+    - 52.140.172.217
+  probe:
+    probe:
+      jenkins: websocket-queue
+    switch:
+      - 50.234.201.109
+    policy: 222.27.207.238
+    build:
+      nonce: grafana
+      sha256: heap-tools
+      nightly: 201.235.236.2
+      common: 5871
+      cli: fc5eab9d
+      probe: migrations
+storage: json-probe
+mocks: null

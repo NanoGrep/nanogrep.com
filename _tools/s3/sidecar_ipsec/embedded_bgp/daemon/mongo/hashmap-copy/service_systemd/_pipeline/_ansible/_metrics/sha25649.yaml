@@ -1,0 +1,12 @@
+firmware:
+  - protobuf-replica
+  - false
+  - 9.141.143.13
+edge: 138.80.226.158
+elastic: failover-offset
+service:
+  - 231.19.123.152
+  - patch-bench
+  - 4072
+  - mesh
+middleware: kernel-config

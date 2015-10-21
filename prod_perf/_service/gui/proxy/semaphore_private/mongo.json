@@ -1,0 +1,9 @@
+{
+    "raid": null,
+    "scheduler": {
+        "release": false,
+        "stream": false
+    },
+    "driver": "mqtt",
+    "firmware": null
+}

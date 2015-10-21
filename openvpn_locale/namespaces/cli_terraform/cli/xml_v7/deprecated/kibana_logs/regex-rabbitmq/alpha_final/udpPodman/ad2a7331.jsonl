@@ -1,0 +1,71 @@
+{
+  "core": 4460,
+  "cors": 4484,
+  "factory": {
+    "handler": {
+      "kerberos": {
+        "threadpool": true,
+        "request": "fd083ab541f0",
+        "jwt": false,
+        "regex": 7078,
+        "iptables": false
+      },
+      "loader": {
+        "entropy": "scheduler",
+        "mutex": "c8c07b7f2679",
+        "stream": true,
+        "bgp": false
+      }
+    },
+    "nfs": {
+      "storage": "compiler",
+      "cli": {
+        "cert": 1268,
+        "cache": true,
+        "tests": false,
+        "sandbox": "b057404505b4",
+        "lib": "group",
+        "stream": false
+      },
+      "socket": [],
+      "hotfix": {
+        "mesh": false,
+        "udp": true,
+        "env": true,
+        "kernel": "b5143b8bd592"
+      }
+    },
+    "fixtures": {
+      "index": "lexer",
+      "vlan": {
+        "pipeline": false,
+        "tools": 1935
+      },
+      "payload": [
+        "15808cfd0a71",
+        "terraform",
+        null
+      ]
+    },
+    "beta": false,
+    "postgres": {
+      "kerberos": "be7d351abebc",
+      "templates": "role",
+      "wireguard": [],
+      "sdk": {
+        "storage": "a4e0199a0226",
+        "artifact": true,
+        "vlan": true
+      },
+      "json": false
+    },
+    "vault": {
+      "queue": {
+        "proxy": true
+      },
+      "entropy": null,
+      "tools": "8cf5f44bf7b5"
+    }
+  },
+  "edge": true
+}

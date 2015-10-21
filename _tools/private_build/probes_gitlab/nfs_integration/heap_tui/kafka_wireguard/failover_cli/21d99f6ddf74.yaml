@@ -1,0 +1,10 @@
+cron:
+  - hashmap-middleware
+limit:
+  shard:
+    - 249.14.164.22
+    - 168.67.36.241
+    - topic-assets
+  build: artifact-volume
+  tenant: policy
+  zfs: redis

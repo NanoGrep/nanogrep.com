@@ -1,0 +1,20 @@
+bloom: kerberos-hashmap
+origin:
+  stream: b7540825
+  node: systemd-runner
+  staging: false
+  mutex: null
+  build:
+    shard: 7434
+    mqtt: a989798f
+    nginx: 5423
+  bootstrap:
+    canary:
+      - alerts-storage
+    buffer:
+      release: 5957
+      trie: null
+      registry: c2d1f950baa7a81e
+      helpers: 202.27.93.220
+      nat: null
+offset: 799

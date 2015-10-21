@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<grafana>
+  <api id="3416e9">volume-nginx</item>
+  <registry id="40ab69">52.180.237.175</item>
+  <failover id="204467">197.231.187.183</item>
+  <release id="b91d2e">8324</item>
+  <queue id="3a1ab6">169</item>
+  <cron id="b2c874">7177</item>
+  <release id="e4b1ed">volume</item>
+  <graphql id="0c3a10">true</item>
+  <batch id="aa5806">101.9.217.108</item>
+  <api id="4cf579">false</item>
+  <service id="5c646c">5d818ceb</item>
+  <bgp id="767e9f">false</item>
+</root>

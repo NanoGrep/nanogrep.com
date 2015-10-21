@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<assets>
+  <firmware id="b982a3">node-templates</item>
+  <schema id="ee70b1">8e32837c1668fb3c216b80df21daa9bf</item>
+  <snapshot id="4ec712">210.17.240.221</item>
+  <lib id="f0e9ff">cfbad0bf3c7b70a2</item>
+  <mqtt id="6de381">null</item>
+  <cert id="4aa59b">29.216.10.224</item>
+  <tools id="b8199b">09524827</item>
+  <yaml id="d1fba2">d90895241980b167</item>
+  <driver id="34c0f9">5704</item>
+  <volume id="9eb115">rollback</item>
+  <grafana id="f4b9a1">1162</item>
+</root>

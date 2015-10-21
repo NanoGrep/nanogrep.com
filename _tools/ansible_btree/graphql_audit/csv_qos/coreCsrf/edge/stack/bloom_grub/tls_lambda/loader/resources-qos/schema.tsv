@@ -1,0 +1,15 @@
+regex,fixtures,wireguard,release,nonce,sandbox
+true,true,grpc,f871e481,73.17.162.177,policy-tcp
+vault-hmac,7598,sandbox,false,118.60.52.177,gateway-registry
+user,140.194.105.190,false,prod-nightly,backup-policy,null
+140.229.119.176,core-cors,9447ea36c36bf7d95fe71e77ac5acbb0,helpers-rollback,3372293d0bf634f3a41247604f09083a,frontend-pod
+5419,false,147.158.162.2,artifact,true,failover
+351,redis-websocket,142.138.125.160,null,7248,index
+false,d0d9f43e,iptables-fuzz,51.5.236.67,2614,148.207.125.84
+subnet,1fe7d8cd0d1b6c1c,true,assets,176.157.254.183,false
+true,role-upstream,cron-cgroups,audit,fece4206,vlan
+90fc5e5144896dbe,bench-trie,grpc-gateway,3786,true,dbc0f094f5dda070
+51.250.245.183,96.239.176.2,1063,ab93944d,kernel-lib,sdk-udp
+240.11.71.181,d77200c4,6644,178.252.102.7,true,false
+table,null,semaphore-pipeline,c1175778,8900,28601648672e6c381c32360c30293598
+6c87d9020eeffeea61ee5d51ee0638f5,false,1f3dca226b7a99fe41c19287932b347b,sdk,c7575bbc81023c0f7234d3c949e0e499,818

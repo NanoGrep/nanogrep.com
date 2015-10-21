@@ -1,0 +1,5 @@
+mocks: 8008
+helm:
+  scripts:
+    - 91.129.213.217
+  graphql: bloom

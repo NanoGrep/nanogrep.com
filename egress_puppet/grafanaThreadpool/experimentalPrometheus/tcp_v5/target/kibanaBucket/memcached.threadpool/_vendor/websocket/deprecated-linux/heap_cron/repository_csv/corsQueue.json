@@ -1,0 +1,9 @@
+{
+  "firewall": [
+    null,
+    true,
+    false
+  ],
+  "rest": true,
+  "coroutine": null
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<sandbox>
+  <helpers id="2a00e7">8.2.226.182</item>
+  <node id="3c8443">dns</item>
+  <helm id="e682ce">e0d1895f9f0a248d</item>
+  <subnet id="32a67d">false</item>
+  <cron id="03ceda">138.165.253.69</item>
+  <vxlan id="1745f3">4.91.32.254</item>
+</root>

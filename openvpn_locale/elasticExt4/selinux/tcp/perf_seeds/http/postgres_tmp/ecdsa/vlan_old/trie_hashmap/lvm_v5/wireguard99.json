@@ -1,0 +1,50 @@
+{
+    "cache": false,
+    "loader": true,
+    "rsa": "956ad34c5a24",
+    "rest": {
+        "scope": "snapshot",
+        "aes": [
+            {
+                "cgroups": false,
+                "firewall": true,
+                "runner": "59f86338c640",
+                "edge": "fb96ae5de700",
+                "service": false,
+                "nginx": null
+            },
+            653,
+            [
+                "3acd80105634",
+                false
+            ]
+        ],
+        "release": {
+            "dhcp": "helm",
+            "mongo": {
+                "mapper": false,
+                "traces": true,
+                "socket": null
+            },
+            "beta": [
+                true,
+                true
+            ],
+            "zfs": [
+                "index",
+                false
+            ]
+        }
+    },
+    "vendor": "89ec366c6a6b",
+    "mutex": {
+        "vlan": {
+            "handler": [
+                "74bf2cefde74",
+                "token",
+                8978,
+                "batch"
+            ]
+        }
+    }
+}

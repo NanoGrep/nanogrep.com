@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<crypto>
+  <bgp id="65c920">cors-oauth</item>
+  <daemon id="f4de9d">37e5952bd0760821dbdc4824bf9f2cc6</item>
+  <tests id="c4c6aa">67110750e361b9972fb49b9523f98be8</item>
+  <json id="b1b4cd">true</item>
+  <cookie id="c2f501">quic-schema</item>
+</root>

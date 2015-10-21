@@ -1,0 +1,30 @@
+watchdog: 193.193.180.96
+logs:
+  dhcp:
+    object: 9b43639272095383b2cb087256d879a1
+    subnet: audit
+    tools:
+      role: nat-entropy
+  config: factory-dns
+  cron: null
+  common: cron
+  vlan: 91.172.190.76
+object:
+  tcp:
+    - cron
+    - nginx
+    - 181.60.177.157
+    - null
+  prod: volume
+  cursor: 9900
+  nonce:
+    ceph: e9bc6176
+    tests:
+      core: mqtt-mqtt
+      alerts: 2427
+      parser: null
+      row: 4c5964f9b2a7a0d6
+    replica: vault
+    backup: backup-nginx
+  kafka: 4230
+logs: batch

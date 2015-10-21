@@ -1,0 +1,71 @@
+{
+    "artifact": "0df6a338dce7",
+    "quic": null,
+    "volume": {
+        "jenkins": 6862,
+        "edge": {
+            "index": [
+                "token",
+                "2d144586127f",
+                9196
+            ],
+            "templates": false,
+            "jenkins": [],
+            "oauth": {
+                "grpc": "jwt",
+                "failover": true,
+                "firewall": null
+            },
+            "jwt": null,
+            "api": []
+        }
+    },
+    "trie": {
+        "middleware": {
+            "topic": "50cd128c6d3d",
+            "cors": null,
+            "trie": {
+                "tests": "jwt"
+            },
+            "fuzz": {
+                "failover": 1619,
+                "mapper": false,
+                "ansible": 7839,
+                "http": false,
+                "rollback": false
+            },
+            "batch": false
+        },
+        "failover": "d160d206f8bc",
+        "index": [
+            2865,
+            {
+                "runner": false,
+                "lambda": "cluster",
+                "scripts": "f7c46df20f3e",
+                "graphql": true
+            },
+            null,
+            "a1d107228bd2"
+        ],
+        "artifact": [
+            [
+                false
+            ],
+            {
+                "group": 8928
+            }
+        ],
+        "lib": {
+            "migrations": {
+                "tools": false,
+                "gateway": 4866
+            },
+            "common": 8053,
+            "heap": {
+                "jwt": true
+            }
+        },
+        "migrations": true
+    }
+}

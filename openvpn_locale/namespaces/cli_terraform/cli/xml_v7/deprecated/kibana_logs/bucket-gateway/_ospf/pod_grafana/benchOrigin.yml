@@ -1,0 +1,21 @@
+websocket:
+  audit: eeedd610b043a73c
+ansible:
+  bootstrap:
+    worker: trie
+    yaml:
+      - ansible-locale
+  aes:
+    regex: 658ee32b301445adb1eec77b5f36344a
+    aes: 2695
+ingress:
+  zfs:
+    role:
+      - scripts
+      - 6c542419c89db7b94f27abfe1c5b9fe6
+    controller:
+      payload: ad1a1c796e087baa6ffd4d7b906b7eaa
+    iptables:
+      assets: alerts-table
+semaphore: 21.39.240.48
+btree: b9c46dffe7a2f729

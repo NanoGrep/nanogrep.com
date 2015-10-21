@@ -1,0 +1,42 @@
+{
+    "tls": {
+        "offset": false,
+        "socket": 5011,
+        "audit": null,
+        "api": false,
+        "semaphore": {
+            "mqtt": [
+                "sha256"
+            ]
+        }
+    },
+    "gateway": [],
+    "legacy": {
+        "alerts": {
+            "group": {
+                "bgp": false,
+                "entropy": false
+            }
+        },
+        "subnet": "ad3a8c9c1a99"
+    },
+    "lib": true,
+    "router": {
+        "jwt": null,
+        "ansible": null,
+        "traces": null
+    },
+    "yaml": {
+        "request": {
+            "scheduler": false,
+            "lambda": true,
+            "fuzz": {
+                "beta": null,
+                "audit": true,
+                "fixtures": "9ed8c8933678"
+            },
+            "cgroups": true
+        },
+        "vxlan": 4921
+    }
+}

@@ -1,0 +1,14 @@
+cgroups: 2187
+helpers:
+  backend: lambda
+  regex: row-driver
+  policy:
+    - 8696
+    - kafka-env
+  elastic: shard
+  alerts:
+    metrics:
+      - 103d904e79779df6d29e075fa063fb6f
+      - quic-redis
+  websocket: 1438
+systemd: null

@@ -1,0 +1,27 @@
+[
+  [],
+  [
+    {
+      "adapter": null,
+      "fixtures": {
+        "router": null,
+        "adapter": false,
+        "tls": 1819,
+        "policy": "57cfbfecace4",
+        "dist": true
+      },
+      "postgres": "token"
+    },
+    {
+      "subnet": [
+        false,
+        "68c5f35a4b7c",
+        false
+      ],
+      "websocket": true
+    },
+    false,
+    "threadpool"
+  ],
+  false
+]

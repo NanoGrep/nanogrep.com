@@ -1,0 +1,53 @@
+cgroups:
+  volume:
+    grpc: 2fb7c783c4d6a6b0aa659a45e3044996
+  firmware: 7754
+  mesh:
+    - 192.38.103.82
+    - true
+    - false
+  ldap:
+    cache: false
+    queue:
+      compiler: 177.7.58.198
+      nat: 133.16.103.25
+    middleware: null
+    oauth:
+      adapter:
+        - true
+        - middleware-fixtures
+        - 439e7c34
+        - 47.219.6.1
+      ceph: 96.126.16.125
+      token: 5ef9b40e
+      helpers: socket-protobuf
+cli: 4033
+replica: 2.174.203.38
+firmware: controller-retry
+fuzz: 98aaf014
+scheduler:
+  lambda:
+    salt:
+      cgroups:
+        - null
+        - scheduler
+      oauth: compiler-entropy
+    systemd:
+      - 5989
+      - 5679
+    limit: protobuf
+    batch:
+      - 145.124.213.79
+      - 1896
+      - 203.22.119.9
+      - 159.97.102.125
+    hotfix: regex
+    queue: c74b8c20200af635eaf0da2a9c3c34d5
+  btree:
+    buffer:
+      - tls-staging
+      - 9277522da7d6ae8e
+      - true
+      - 37.101.72.34
+    pipeline: true
+    sha256: 760

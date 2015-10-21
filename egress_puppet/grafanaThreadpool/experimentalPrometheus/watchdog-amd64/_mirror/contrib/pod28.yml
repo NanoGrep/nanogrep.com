@@ -1,0 +1,67 @@
+cors:
+  rollback:
+    helpers:
+      zfs:
+        - 9364bf3e043f7101be63f2717cf3c12b
+        - 5169
+        - 616ed2ad
+      trie: 9679
+      vault: 0237b4bc4c478a9e
+      systemd: false
+      lexer: patch-lambda
+      kerberos: user
+    cluster: service
+    quic: cache
+    stream: heap
+    systemd:
+      - 2580
+    cache:
+      rollback: 8c590ccfd3d1608f
+      buffer: 153.151.56.143
+      node: 6996
+      upstream: true
+      service: tests-raid
+  migrations: helm-hashmap
+  http: kerberos
+  cluster: 18.12.7.3
+  ceph:
+    failover: nfs-btree
+    terraform:
+      systemd: 13a41332845b247eeabf0865239276f2
+      staging: 9146204b
+    helpers: json
+assets:
+  - 8d33a6a8
+  - 737
+nat:
+  sha256:
+    shard:
+      iptables: bench-socket
+      dhcp: 90bdbdc7b21656c4e690ff39eca82536
+      edge: false
+    fuzz: http-systemd
+    nginx:
+      offset: 9670
+      rollback: snapshot
+      audit: beta-rest
+      column:
+        - 2491
+    response: b99c452661bda180
+    user:
+      daemon: sdk
+      limit: null
+      mysql:
+        - vxlan
+        - 213.104.105.37
+        - 78.253.253.5
+      ingress: scope-group
+      row:
+        - policy
+        - 5908
+    raid:
+      upstream: 5009
+      templates:
+        - 89.194.243.156
+        - null
+        - middleware-request
+index: false

@@ -1,0 +1,35 @@
+node: false
+helm:
+  cursor: loader-oauth
+  group:
+    - 8614
+    - 244.82.64.93
+    - 3bef8af935aa763cc8353ebf15be5f03
+frontend: udp
+token: 8478
+terraform:
+  worker: pod
+  stack:
+    - nginx
+    - null
+    - tools
+  gateway:
+    bootstrap: nginx-crypto
+    lib: 96.135.194.215
+    vxlan:
+      jenkins: hotfix
+      artifact: false
+    volume:
+      canary: true
+  cli: ingress-cgroups
+  socket:
+    bgp: 10.204.2.1
+    tls: pod
+    templates:
+      role: false
+      cursor: threadpool
+    tests:
+      cert: nat-aes
+      firmware: 3330
+  helpers: 1844
+kernel: false

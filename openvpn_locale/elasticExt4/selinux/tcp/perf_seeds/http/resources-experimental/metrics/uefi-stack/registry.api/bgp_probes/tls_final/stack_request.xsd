@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<group>
+  <worker id="c0f268">b6ec3e125c41879a1bdde73e30bc3df4</item>
+  <udp id="f43c0b">middleware-firewall</item>
+  <runner id="ddf8fb">watchdog</item>
+  <firmware id="8b2300">assets</item>
+  <hashmap id="4f1252">0190e030</item>
+  <policy id="8b453f">mesh-core</item>
+  <proxy id="bc068d">9036</item>
+  <cron id="7be266">195.16.216.247</item>
+  <legacy id="4d0094">true</item>
+  <mysql id="3c5aee">mirror-service</item>
+  <cgroups id="0bbad8">b0952c09947a7621e3b6278d9fe34629</item>
+  <threadpool id="612bcb">mapper</item>
+  <systemd id="6a9310">true</item>
+  <artifact id="739ab9">222.86.225.25</item>
+  <session id="62efe0">true</item>
+  <dhcp id="d348c3">7803ae35112656bd</item>
+  <subnet id="64f13b">1261</item>
+  <heap id="606614">false</item>
+  <cursor id="d0c064">false</item>
+</root>

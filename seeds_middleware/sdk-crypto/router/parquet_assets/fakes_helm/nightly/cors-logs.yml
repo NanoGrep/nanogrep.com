@@ -1,0 +1,47 @@
+ansible: d7b00357f837fc38
+dhcp:
+  utils: 162.57.229.9
+  mirror: 133.211.28.122
+  cluster: 137fde99
+  tests: response-iptables
+  firewall: canary
+  cert:
+    yaml: null
+    socket:
+      nightly:
+        - dbe21a1d6fee3770
+        - 3479
+      scope: 817fa1fbe12b917da5004de5b1e9ff47
+    session: 30.212.59.231
+    grpc: dhcp-kafka
+compiler:
+  kerberos: false
+response: 2bd3fb4d06ae8347180026cf6ed0c350
+mesh:
+  graphql: driver-gateway
+  heap:
+    - 3031545b
+    - bloom-vxlan
+    - 21ad0d12
+  ansible: 244.131.149.47
+  mesh: null
+  origin:
+    worker: vault-logs
+    env: vault
+    alerts:
+      grpc: lexer-mesh
+      ansible: trie-ceph
+      queue:
+        - env-dist
+      aes: 70.249.141.93
+      scheduler: 238
+      backup: coroutine
+    jenkins: 3350
+    mapper: mocks
+    handler:
+      firewall: true
+      vlan: 1235
+      payload: null
+      grafana: canary
+      core: router-elastic
+  crypto: null

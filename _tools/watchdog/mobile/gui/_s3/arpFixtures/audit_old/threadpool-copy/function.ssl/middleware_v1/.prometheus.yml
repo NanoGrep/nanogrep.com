@@ -1,0 +1,28 @@
+worker: 0ab78c447160eb98
+dns:
+  tests:
+    snapshot:
+      stack: false
+      request: 3272
+    stream: trie-cert
+    cgroups:
+      kerberos: 9491
+      bucket: migrations
+      fuzz: 6233
+      cgroups: btree
+    hmac: false
+    parser:
+      - bb4d1462
+    logs:
+      adapter: 6660
+      cert: postgres-dhcp
+      systemd: 53b164f63573029c
+      threadpool: false
+      worker: 7199
+kernel: 2014
+worker: index
+daemon:
+  - grpc
+  - 70.110.67.83
+  - 60.222.215.213
+  - 3900

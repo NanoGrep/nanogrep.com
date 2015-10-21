@@ -1,0 +1,17 @@
+[volume]
+responserole = api
+dist_lambda = f41ee6a8baa318eafac83becef6ddda1
+envrelease = locale-rollback
+fixtures_release = 145.166.49.153
+wireguard_hotfix = true
+build.mutex = handler-daemon
+grafanasubnet = null
+prometheussubnet = vendor
+hashmap.lexer = null
+kerberoscoroutine = 15.84.191.152
+middleware_protobuf = threadpool
+firmware_role = systemd-limit
+tablenginx = loader-cookie
+offset.policy = 2a3814aa
+cryptojenkins = nat-grafana
+heaputils = true

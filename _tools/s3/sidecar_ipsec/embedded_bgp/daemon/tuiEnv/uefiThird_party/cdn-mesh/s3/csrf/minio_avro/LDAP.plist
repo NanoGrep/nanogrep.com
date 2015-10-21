@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<build>
+  <utils id="c4aebe">1413</item>
+  <websocket id="5b57b6">8325</item>
+  <redis id="643a45">22d7205610fe4a871823edc2ecf56f18</item>
+  <vxlan id="a2b65a">b18b94f8</item>
+  <trie id="9803f0">8e3451d5661c777d</item>
+  <mirror id="110df9">true</item>
+  <hmac id="d2ff97">iptables-hotfix</item>
+  <index id="eea6e8">false</item>
+</root>

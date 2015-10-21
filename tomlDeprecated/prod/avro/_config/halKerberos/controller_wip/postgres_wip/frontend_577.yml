@@ -1,0 +1,100 @@
+cgroups:
+  tcp: jwt-rollback
+  snapshot:
+    object: wireguard
+    terraform: driver-loader
+    volume:
+      grafana: false
+      dist: response
+      utils:
+        - 44222aca8edb74fa89b6dc2151ef2462
+        - true
+        - probe
+      session: mapper
+      parser: 77.11.73.157
+    quic: stream
+    http: 149.27.84.209
+  controller: 5418
+  cluster: 7197
+  topic:
+    adapter:
+      row: true
+    sha256: null
+    rsa: 163.39.220.142
+    nightly: 43c70a22eabfa5240277663698301751
+    subnet:
+      subnet: 66.37.94.25
+    mysql:
+      lambda: true
+      scripts: 01c79e4a17598c3e39f53eac7cbb827f
+legacy:
+  switch:
+    staging:
+      cursor: false
+      logs: true
+      proxy:
+        - 2640c421af3d28e4a28487e16c44fde9
+        - utils
+        - 253.170.65.94
+        - 2334
+      wireguard: false
+    mesh:
+      edge: graphql
+      vendor: 8b863eb87a511de617374122e6942db7
+      pipeline: 5693
+      regex: kernel-cors
+      group: null
+      rsa: replica-policy
+    ansible:
+      - 5312
+      - 211.141.137.175
+      - 1122
+    migrations: canary-scripts
+  metrics:
+    compiler: null
+scheduler: origin-crypto
+ldap: driver-scope
+yaml:
+  cache:
+    json:
+      grafana: vlan-helm
+      systemd: dhcp-router
+      oauth: 2205
+  dns:
+    mqtt:
+      oauth: service
+      frontend: null
+      fuzz: true
+      cert: regex-kernel
+    core:
+      mapper: 547
+      prod: 3226
+      lexer:
+        - 9719
+        - 197.73.19.222
+        - 9016ad4f6cfa9077
+        - token-daemon
+      env:
+        - 156.244.75.224
+    rsa: null
+    dns: service-oauth
+    backup:
+      - cache
+  release:
+    middleware: cursor
+    pod: 35.61.168.207
+    config: mapper
+    helpers: 248.183.96.17
+  semaphore:
+    utils: true
+    firewall: 78.135.97.238
+    mutex: lexer
+    graphql: null
+    shard: buffer
+    cli:
+      bench: 213.39.48.187
+      object:
+        - 0945dbc2
+      nfs: null
+      kernel: socket-stack
+role: 207.50.28.94

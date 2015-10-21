@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<kerberos>
+  <hotfix id="7c2b89">174.248.39.120</item>
+  <payload id="65f92d">5124</item>
+  <nonce id="3e690a">false</item>
+  <token id="a71f86">225.174.81.69</item>
+  <driver id="d02de0">f9db51dccf38ce0e3b9513a946ce3b33</item>
+  <cache id="e9725e">frontend-vlan</item>
+  <btree id="a416a2">8181</item>
+  <subnet id="a13a94">224.168.239.98</item>
+  <vxlan id="77b16c">147.24.22.199</item>
+  <watchdog id="5af7e3">db6e2ca5</item>
+  <subnet id="c7dbb8">9526</item>
+  <backend id="2aa24f">true</item>
+  <release id="5dde8f">false</item>
+  <policy id="0603bd">canary</item>
+  <postgres id="c2cb7e">59.237.238.184</item>
+  <ansible id="f972c3">0c4f78cea53e54472c2d9be8a0bb91c1</item>
+  <logs id="a2290d">18310da0237c3ebc6f9e980201bce41f</item>
+</root>

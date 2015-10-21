@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<hashmap>
+  <tests id="0199be">183.78.111.218</item>
+  <patch id="8a48a3">null</item>
+  <factory id="77d2cf">true</item>
+  <udp id="a8391a">9978</item>
+  <vault id="084a1e">42.157.1.30</item>
+  <crypto id="62e904">true</item>
+  <zfs id="5c12c9">99.245.12.252</item>
+  <group id="d12eee">true</item>
+  <firmware id="14dd92">167</item>
+  <queue id="e10c73">switch</item>
+  <adapter id="93bf79">true</item>
+  <beta id="1d39f3">postgres</item>
+  <regex id="9cd300">7158</item>
+  <zfs id="b2d828">f98b900b</item>
+  <patch id="866b8b">coroutine</item>
+  <adapter id="32cfbd">6689</item>
+  <metrics id="3ef747">lib-yaml</item>
+  <gateway id="cbdd37">791d2fa816fea3d6f72af2d92ad76abf</item>
+  <scheduler id="cdcb14">1050</item>
+  <backend id="f84e83">null</item>
+  <topic id="30bfcd">7841d0da394039b64a108f37160b7329</item>
+</root>

@@ -1,0 +1,28 @@
+worker:
+  - 216.49.83.110
+  - common
+  - 147.37.210.127
+semaphore: heap
+bucket:
+  lexer: 4ffff2e27f00c06b
+  bench: sandbox
+  subnet: udp
+  gateway:
+    sandbox: watchdog
+    tests:
+      systemd: bench
+      scripts: false
+      ansible: 5616fc3293ae901d
+      fuzz: a3f17227a43b561f23ae3c5cdeea9de2
+      btree: false
+    mutex: 6057
+    mongo:
+      - api
+      - 6.134.232.187
+      - tenant-watchdog
+table:
+  - 7506
+  - policy
+  - f740b8ca738cc3ea564843f935dc9ae9
+rollback:
+  - 117.229.9.4

@@ -1,0 +1,51 @@
+{
+  "replica": [
+    {
+      "cookie": {
+        "request": null,
+        "middleware": null,
+        "rsa": "4639d31431af",
+        "protobuf": "9c15bd57fd9d"
+      }
+    }
+  ],
+  "aes": {
+    "semaphore": false,
+    "gateway": 1968,
+    "role": [
+      {
+        "fuzz": null
+      },
+      4767,
+      [
+        null,
+        null,
+        null
+      ],
+      "gateway"
+    ],
+    "common": true,
+    "origin": {
+      "mapper": "09b95cf2f471",
+      "json": [
+        null
+      ],
+      "tenant": true,
+      "jwt": {
+        "ingress": "payload",
+        "alerts": false,
+        "backup": null,
+        "retry": "frontend",
+        "token": false,
+        "helpers": true
+      },
+      "hashmap": null,
+      "worker": [
+        true,
+        9162,
+        null,
+        null
+      ]
+    }
+  }
+}

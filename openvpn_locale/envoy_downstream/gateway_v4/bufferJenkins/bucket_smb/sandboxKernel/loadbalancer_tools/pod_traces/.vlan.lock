@@ -1,0 +1,57 @@
+{
+  "common": false,
+  "nonce": {
+    "jenkins": [
+      {
+        "nat": "column",
+        "dhcp": null,
+        "edge": "c1e683f8d69e",
+        "worker": "service"
+      },
+      {
+        "ansible": true,
+        "nginx": true,
+        "hmac": true,
+        "rest": "ed2ca7aa8370"
+      },
+      false
+    ],
+    "runner": [
+      null
+    ],
+    "kernel": "ac68aadcc81f",
+    "protobuf": {
+      "stream": false
+    },
+    "cors": []
+  },
+  "scripts": [
+    7039,
+    [
+      {
+        "terraform": "session",
+        "rollback": 2863,
+        "controller": "origin",
+        "yaml": "13c20d48a608",
+        "fuzz": "3a8646fe2b8d",
+        "kerberos": false
+      },
+      "00ae1c50c700",
+      {
+        "bench": "mongo",
+        "buffer": 876,
+        "vlan": true
+      },
+      {
+        "table": true,
+        "socket": true,
+        "runner": true,
+        "tests": "rollback"
+      }
+    ],
+    "ee5c69166287",
+    true
+  ],
+  "middleware": "fc1662eef0f4",
+  "backup": "5a96f26abca6"
+}

@@ -1,0 +1,103 @@
+{
+    "metrics": "user",
+    "regex": {
+        "release": {
+            "coroutine": {
+                "cache": 7047,
+                "firmware": "123f1af95b47",
+                "terraform": false,
+                "pipeline": false,
+                "threadpool": false,
+                "sdk": false
+            },
+            "prometheus": false,
+            "elastic": {
+                "index": "638f67b07f14",
+                "origin": "worker",
+                "protobuf": true,
+                "audit": "6118cc423965"
+            },
+            "beta": {
+                "tcp": "response",
+                "router": 9101,
+                "staging": null,
+                "subnet": false,
+                "sandbox": "0ce48021deb0"
+            },
+            "router": 1774
+        },
+        "crypto": {
+            "migrations": {
+                "frontend": "7f2e518d2bec"
+            }
+        }
+    },
+    "tcp": [
+        {
+            "pipeline": {
+                "hashmap": true,
+                "prometheus": null,
+                "socket": false
+            },
+            "nonce": "decbf583c624",
+            "metrics": null,
+            "beta": {
+                "origin": true,
+                "stack": "92cedd2f5210"
+            },
+            "cluster": {
+                "crypto": null,
+                "role": "d3b8d7f61f89",
+                "nightly": null
+            },
+            "cache": {
+                "vault": "dcdf47cc9698",
+                "token": true,
+                "mutex": "3e5810bcf1c6",
+                "scheduler": "f3bff2b13d58",
+                "trie": true
+            }
+        },
+        {
+            "ceph": null,
+            "shard": [
+                "grafana",
+                "e9cc5f0722a4"
+            ],
+            "ingress": false
+        },
+        "f20ee6804d6f",
+        [
+            {
+                "json": true,
+                "locale": false,
+                "session": false,
+                "fixtures": "084c813f7fe9"
+            },
+            5417,
+            []
+        ]
+    ],
+    "driver": {
+        "elastic": {
+            "handler": {
+                "limit": "api",
+                "jwt": "cookie",
+                "firewall": false,
+                "envoy": 3610,
+                "logs": false
+            },
+            "subnet": [
+                8417,
+                false,
+                null
+            ],
+            "fixtures": {
+                "lexer": "bb170d2a13da",
+                "helm": 475
+            }
+        },
+        "build": null
+    },
+    "cgroups": 8079
+}

@@ -1,0 +1,68 @@
+{
+  "tcp": {
+    "coroutine": {
+      "response": [
+        4335,
+        null,
+        true
+      ],
+      "session": [
+        "01f5e8fd230a"
+      ],
+      "frontend": false
+    },
+    "session": [
+      [
+        "f9b4f8056796",
+        true
+      ],
+      {
+        "env": 3073
+      },
+      [
+        false
+      ]
+    ]
+  },
+  "scripts": [
+    "pod",
+    false,
+    {
+      "cors": false,
+      "redis": true,
+      "btree": 181,
+      "common": "vxlan",
+      "probe": {
+        "threadpool": true,
+        "grafana": "yaml",
+        "role": 6197,
+        "scope": "cc383ee5d798"
+      }
+    }
+  ],
+  "schema": "710cd1844ecb",
+  "switch": {
+    "firmware": {
+      "vendor": {
+        "artifact": null,
+        "response": true,
+        "session": "405eafd606f8",
+        "failover": "bgp"
+      },
+      "token": 2782,
+      "ldap": {
+        "websocket": true,
+        "mesh": "7bf7dd68d066"
+      },
+      "limit": {
+        "graphql": null,
+        "cookie": "heap"
+      },
+      "lib": "bf1f98dd62af",
+      "tests": {
+        "dns": false,
+        "session": null
+      }
+    }
+  }
+}

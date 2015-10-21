@@ -1,0 +1,37 @@
+middleware:
+  jenkins: locale-systemd
+  socket:
+    helm: 105dcc4cb8709adeed646eae9b12ea9a
+probe:
+  middleware: 9344
+  switch: controller-templates
+  shard:
+    backup:
+      backup: 254.21.146.61
+      metrics:
+        - true
+        - 4795
+    templates:
+      json: 108.150.112.109
+      middleware:
+        - null
+      batch: traces-aes
+    vlan: systemd-salt
+    kernel:
+      tls: false
+      json: 18bbe72c
+      storage: null
+    heap: 175.62.8.123
+    sandbox:
+      assets: common-grpc
+      grpc:
+        - 6576
+        - true
+        - 70.126.60.52
+  request: 9213afb1a117916c606257543300d308
+  role: node
+common:
+  mesh: http-index
+  templates: 2722
+  raid: handler
+  mutex: 517563c8b62570019ae666c919b22a9c

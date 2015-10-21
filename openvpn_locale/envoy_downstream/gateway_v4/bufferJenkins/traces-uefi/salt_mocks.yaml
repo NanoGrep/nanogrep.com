@@ -1,0 +1,8 @@
+logs:
+  queue:
+    - role
+    - frontend-compiler
+    - null
+  sha256: false
+  limit: null
+vlan: registry-crypto

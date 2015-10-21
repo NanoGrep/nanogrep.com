@@ -1,0 +1,19 @@
+limit: mysql-terraform
+firmware:
+  - adapter
+  - 157.211.17.86
+  - 09fe6a34f2397574
+  - cursor-socket
+config: 4482
+parser:
+  limit:
+    - 66.41.61.45
+    - 104.8.61.101
+  origin: 84.148.63.108
+  batch: 4223
+  envoy: b9e2c6e4084ef7d60ba1ceec6b32c38a
+  vendor:
+    - 9220
+    - 2dddfb4b227c498f
+salt: nfs
+mapper: 89.35.15.151

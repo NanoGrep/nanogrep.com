@@ -1,0 +1,14 @@
+redis.traces=nginx
+aes_role=sha256
+schedulerldap=tenant-firewall
+mqtt_pipeline=null
+bucket.audit=helm
+mqtt.common=2795
+nightly.daemon=c3979b005a2271d52d43207d818d43c0
+ingress.nonce=templates-env
+api.mysql=rollback-ceph
+queue_controller=false
+oauth_router=2261
+threadpool.volume=true
+scopecron=upstream
+prometheus.logs=terraform-bloom

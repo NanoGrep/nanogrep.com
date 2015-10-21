@@ -1,0 +1,25 @@
+zfs: true
+quic:
+  limit: env-role
+  crypto: 6612
+  request:
+    - ingress
+  pipeline:
+    trie: gateway
+    salt: registry-nfs
+    vlan:
+      - 7904
+      - middleware-table
+      - 120.105.52.3
+      - d92b932d945d067975f3e0cb20dae9d5
+    edge: 119.186.119.119
+    loader:
+      - 5950
+      - 249da4f2fdbf34aaa929536157569c26
+      - batch
+    cert: 2764
+  vxlan: 9926f9ddc9efca7404f6a081d39d6b04
+release:
+  - 84.240.68.226
+  - 4892fddfdb2fccd0
+  - quic-rsa

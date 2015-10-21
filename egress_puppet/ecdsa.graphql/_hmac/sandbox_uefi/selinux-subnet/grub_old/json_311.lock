@@ -1,0 +1,88 @@
+{
+  "stream": 7922,
+  "nginx": {
+    "bgp": {
+      "entropy": {
+        "policy": "00b945f778f8",
+        "prometheus": "threadpool"
+      },
+      "pod": {
+        "subnet": "group",
+        "snapshot": 4451,
+        "middleware": null,
+        "policy": 8066
+      },
+      "zfs": {
+        "audit": 6334,
+        "nginx": null,
+        "nat": false,
+        "lib": "dhcp"
+      },
+      "scope": true
+    },
+    "node": [
+      {
+        "traces": true,
+        "mapper": "mocks",
+        "offset": "ceph",
+        "lib": "d76456c29e41"
+      }
+    ],
+    "vlan": {
+      "daemon": null,
+      "factory": []
+    },
+    "aes": null,
+    "limit": false,
+    "migrations": {
+      "build": {
+        "failover": null,
+        "json": true,
+        "backup": "70a05b8ca9eb",
+        "kerberos": "65b3238b577c",
+        "pod": true
+      },
+      "utils": {
+        "stream": false
+      }
+    }
+  },
+  "backend": {
+    "graphql": {
+      "btree": [
+        true,
+        null,
+        false,
+        "token"
+      ]
+    },
+    "payload": {
+      "role": [
+        "4540bad7e29c",
+        true
+      ],
+      "redis": 9473
+    }
+  },
+  "mirror": {
+    "systemd": true,
+    "middleware": "middleware",
+    "scope": {
+      "raid": {
+        "nightly": null,
+        "sha256": false,
+        "systemd": "release"
+      },
+      "compiler": true,
+      "index": [
+        "common"
+      ],
+      "core": "243cc87681c5",
+      "policy": {
+        "aes": true
+      },
+      "limit": null
+    }
+  },
+  "lib": false
+}

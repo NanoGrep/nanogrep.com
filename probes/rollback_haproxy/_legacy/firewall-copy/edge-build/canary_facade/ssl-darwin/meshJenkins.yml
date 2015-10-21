@@ -1,0 +1,40 @@
+prometheus: null
+rollback: 799622eb4f1db6434dfc17d78c40d942
+parser:
+  helpers:
+    nightly:
+      bootstrap:
+        - 239.160.120.98
+        - 439742d9
+        - 102.38.72.114
+      rsa: 9241
+    socket: f2a494eb942fd2ea67fdab7bc36a3def
+    nfs:
+      group: hashmap-artifact
+      gateway: false
+      btree: systemd
+      cert:
+        - false
+        - worker
+      loader: 92bc0c93
+      redis:
+        - 197.197.8.126
+    traces: pipeline
+    grafana:
+      cookie: 186.141.206.194
+      factory: 72da9ed8
+  sandbox:
+    cluster:
+      user: assets-kernel
+      quic: mqtt
+    frontend:
+      legacy: 101.100.15.168
+      jwt: jwt-rsa
+      shard: mapper-socket
+      policy:
+        - 84.68.228.31
+        - true
+        - templates
+      column: api
+  ansible: mqtt-rollback
+scripts: ingress-threadpool

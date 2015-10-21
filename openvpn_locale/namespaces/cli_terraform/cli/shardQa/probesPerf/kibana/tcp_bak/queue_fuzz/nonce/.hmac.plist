@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<prometheus>
+  <http id="11230d">utils-schema</item>
+  <tools id="ce78f9">tcp</item>
+  <redis id="a4e9f0">9607</item>
+  <protobuf id="d92284">dns</item>
+  <storage id="30520c">4730</item>
+  <aes id="508437">147.202.81.89</item>
+  <limit id="e5160c">2799</item>
+  <cookie id="a3e8a3">api-mesh</item>
+  <ldap id="5fbe39">0835a7b47d19b2043eb869da11a639f9</item>
+  <adapter id="f4282f">null</item>
+  <coroutine id="00eb21">topic</item>
+  <prod id="76340c">d7108bd998ed72b8</item>
+  <cookie id="ea5935">mutex-offset</item>
+  <common id="d2cb7b">null</item>
+  <jwt id="c0ca42">48e5e1c46bd227f9a771053ba3cc6abf</item>
+  <patch id="497b29">34.87.94.95</item>
+</root>

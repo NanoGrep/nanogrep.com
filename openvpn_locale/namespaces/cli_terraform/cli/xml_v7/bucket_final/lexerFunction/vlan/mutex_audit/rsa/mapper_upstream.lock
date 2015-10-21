@@ -1,0 +1,58 @@
+[
+  {
+    "alerts": false,
+    "regex": null,
+    "cursor": true,
+    "dist": {
+      "socket": {
+        "salt": true,
+        "cluster": false,
+        "mqtt": 1000,
+        "config": true,
+        "jenkins": null,
+        "canary": true
+      },
+      "threadpool": false,
+      "switch": {
+        "nightly": "frontend",
+        "tls": true,
+        "service": 6974,
+        "origin": true
+      },
+      "nonce": true,
+      "nginx": "offset",
+      "udp": {
+        "limit": 6691
+      }
+    }
+  },
+  1440,
+  [
+    "568378efd98f",
+    {
+      "failover": {
+        "scheduler": "deac44aa8d42"
+      }
+    },
+    false,
+    {
+      "rsa": [
+        "39f8f6b5fafb"
+      ],
+      "registry": {
+        "service": null,
+        "column": null,
+        "artifact": "ldap",
+        "jwt": false,
+        "kernel": 2833,
+        "volume": true
+      },
+      "cluster": [
+        true,
+        false,
+        "bench",
+        "limit"
+      ]
+    }
+  ]
+]

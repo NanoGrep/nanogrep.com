@@ -1,0 +1,10 @@
+jwt: null
+index: 246.33.143.122
+alerts: e633273f
+proxy:
+  kafka:
+    redis: null
+    redis:
+      json: false
+      patch: false
+dhcp: false

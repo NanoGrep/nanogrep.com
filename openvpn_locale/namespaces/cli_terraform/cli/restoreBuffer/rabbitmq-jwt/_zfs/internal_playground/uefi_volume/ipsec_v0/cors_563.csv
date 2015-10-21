@@ -1,0 +1,13 @@
+crypto,hmac
+salt-cgroups,f0b4757a
+a72ee91753d5369d7ca28e48b82bc3cc,7605
+8aa2d606ced84fba28dbbfe62f6fb0fc,true
+cda472a2,false
+221.140.181.69,jenkins-cache
+b80f4bbfde3f01eff41bb5822d0f47d1,vxlan
+null,fixtures
+87.93.129.191,2708
+47.177.77.45,118.7.66.13
+248.204.168.3,8226
+true,driver-postgres
+artifact-daemon,null

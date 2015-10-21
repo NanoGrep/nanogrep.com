@@ -1,0 +1,23 @@
+mocks:
+  trie:
+    object:
+      - false
+      - 105.95.62.154
+      - hotfix-firewall
+  cgroups:
+    aes:
+      raid: btree
+      lambda: d3e0d5b9
+      staging: 98.184.93.248
+      lib: 6666
+    loader: 91.239.60.40
+    core: e3d9405d5aa47b82b0369b965fb13a70
+  pod: raid
+  batch: 9296
+scheduler: mocks-rollback
+yaml: null
+compiler: http-session
+topic:
+  tenant: 8348
+  iptables: b4c5132d16fe7b16
+  gateway: response

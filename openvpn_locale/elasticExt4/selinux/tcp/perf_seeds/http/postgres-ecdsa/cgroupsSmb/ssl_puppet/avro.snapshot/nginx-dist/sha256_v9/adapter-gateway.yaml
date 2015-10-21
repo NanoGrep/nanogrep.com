@@ -1,0 +1,15 @@
+release:
+  vlan: ceph
+  helpers: 7469
+  mongo:
+    rsa:
+      payload: 26489cce2baf5813e7c082ac23a342ac
+    kerberos: 232.0.226.66
+  rollback:
+    canary: 2112
+  cors:
+    compiler: 139.60.76.72
+    cert:
+      cli: 105.84.87.132
+zfs: probe
+middleware: 3179

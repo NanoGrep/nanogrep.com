@@ -1,0 +1,17 @@
+object: 6299
+templates: 4747
+templates:
+  - 5.149.135.33
+  - 2a011a102581f736599c95e3c15ee2b3
+  - 122.112.210.2
+  - 8713
+cursor:
+  middleware:
+    logs: kerberos
+    driver: scope-rollback
+    udp: fixtures
+    alerts:
+      mapper: null
+graphql:
+  legacy: 87.232.123.222
+  scope: 4583

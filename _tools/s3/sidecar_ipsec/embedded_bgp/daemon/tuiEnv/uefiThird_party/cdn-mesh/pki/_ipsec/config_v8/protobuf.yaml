@@ -1,0 +1,34 @@
+queue: 86.147.230.78
+salt:
+  http: true
+  legacy: false
+  release: cron
+templates: dhcp
+compiler:
+  cors: 84.228.144.34
+  scope: index-tools
+  helm:
+    cache:
+      - 250.86.70.220
+      - 269dfea2a9d058eaa01741c203e17534
+      - stack-shard
+      - 72.13.27.135
+    table:
+      token: false
+      sha256: socket
+      group: false
+      coroutine: 9807
+      tools: nfs-cron
+      tests: pod
+    rollback:
+      kerberos: 84.21.96.205
+      scheduler: 161.158.126.206
+      core: 2427
+    mocks:
+      mutex: true
+      lambda: worker
+      origin:
+        - 91.111.91.125
+  prometheus: 213.218.218.116
+  cli: false
+  hotfix: null

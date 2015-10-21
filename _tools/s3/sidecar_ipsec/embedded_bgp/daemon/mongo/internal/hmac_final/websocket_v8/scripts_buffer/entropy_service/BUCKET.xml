@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<cursor>
+  <compiler id="44722b">null</item>
+  <mutex id="3db0e5">b196f564</item>
+  <tenant id="b1414c">null</item>
+  <sdk id="7c2103">false</item>
+  <mysql id="b05402">true</item>
+  <service id="b58198">613edea77d3b1ee9</item>
+  <mysql id="91456d">common-dhcp</item>
+  <firewall id="13a809">rsa</item>
+  <offset id="42721e">protobuf-origin</item>
+  <assets id="2c1f57">storage-nonce</item>
+  <bootstrap id="22034b">common-protobuf</item>
+  <limit id="1ad89d">60.59.242.78</item>
+  <loader id="4bd403">false</item>
+  <hashmap id="6b601e">a47d62f1f111b9bcb91cacfc9058b089</item>
+  <grpc id="9a7198">95140808</item>
+  <release id="03f6d0">replica</item>
+  <daemon id="b113e9">4606</item>
+  <retry id="7003a5">3339</item>
+</root>

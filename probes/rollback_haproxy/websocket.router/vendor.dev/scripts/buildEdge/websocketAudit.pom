@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<parser>
+  <assets id="e5ceb7">17.86.106.76</item>
+  <lambda id="1eed22">true</item>
+  <config id="6b7029">firewall</item>
+  <fuzz id="ef9c07">4269</item>
+  <nat id="41ca1b">6edcf073f58b3ef1cd79905280dbc8e5</item>
+  <response id="cf6f25">152.226.51.30</item>
+  <nfs id="3e61bb">119.34.61.96</item>
+  <replica id="a14844">cors-bucket</item>
+  <nightly id="4ef72d">release-edge</item>
+  <json id="89344b">19b23bd2</item>
+  <router id="444b20">aes-semaphore</item>
+  <edge id="30eedc">32.98.129.170</item>
+  <udp id="dd291b">2648</item>
+  <session id="1c516d">scheduler-topic</item>
+  <service id="631eb9">kerberos</item>
+  <probe id="3df403">queue-lexer</item>
+  <templates id="05b2dc">2428</item>
+  <policy id="2949a1">middleware-offset</item>
+  <udp id="d513e8">ed06441e</item>
+  <helpers id="cf04eb">8371</item>
+  <user id="0e3ae9">d8d9aa0b3bb4cb5252f6b3e93dc7960d</item>
+  <utils id="b7137e">yaml</item>
+</root>

@@ -1,0 +1,143 @@
+{
+    "edge": false,
+    "nightly": [
+        [],
+        [
+            "a3f5156df580",
+            8680,
+            {
+                "snapshot": false,
+                "request": "fixtures",
+                "envoy": "cli",
+                "edge": "patch",
+                "replica": true
+            }
+        ]
+    ],
+    "cron": {
+        "response": {
+            "fuzz": {
+                "prod": false,
+                "watchdog": false
+            },
+            "scheduler": {
+                "rest": false,
+                "lambda": true,
+                "build": false
+            }
+        },
+        "env": null,
+        "rest": {
+            "upstream": "b77a6c2b5406",
+            "hashmap": {
+                "switch": null,
+                "bench": true,
+                "mutex": "traces",
+                "templates": 6086
+            },
+            "cache": "prod",
+            "bloom": {
+                "lexer": false,
+                "handler": true,
+                "entropy": 2093
+            }
+        }
+    },
+    "prod": {
+        "row": [
+            "c50069101697",
+            {
+                "beta": "retry",
+                "dhcp": true
+            },
+            9463
+        ],
+        "crypto": {
+            "firewall": {
+                "middleware": true,
+                "legacy": 3159,
+                "grafana": true,
+                "tools": "d3260371437e",
+                "service": "0a4b4e778925",
+                "alerts": false
+            },
+            "fixtures": {
+                "kerberos": null,
+                "hashmap": "locale",
+                "canary": false
+            },
+            "frontend": 390,
+            "oauth": {
+                "volume": null,
+                "canary": "a93bcf9c9223",
+                "driver": "sha256"
+            },
+            "pipeline": [
+                "raid",
+                8744
+            ],
+            "subnet": {
+                "pod": 2792,
+                "dist": "lexer",
+                "regex": "retry",
+                "factory": true
+            }
+        },
+        "rollback": false,
+        "pod": {
+            "dist": {
+                "api": true,
+                "audit": 3701,
+                "ingress": "be44a87fc40d",
+                "grpc": "controller",
+                "envoy": false,
+                "mirror": "alerts"
+            },
+            "vlan": {
+                "terraform": 2891,
+                "crypto": false,
+                "firmware": "response"
+            },
+            "legacy": {
+                "beta": null,
+                "tenant": null,
+                "rest": true,
+                "subnet": true
+            },
+            "policy": null
+        },
+        "payload": {
+            "cgroups": {
+                "btree": "7df0c546a691",
+                "sandbox": 6168
+            },
+            "router": true,
+            "scope": false,
+            "protobuf": {
+                "kernel": true,
+                "gateway": null
+            }
+        }
+    },
+    "config": {
+        "canary": [
+            [
+                "b3173a72c287"
+            ],
+            [
+                null,
+                4647
+            ],
+            null
+        ],
+        "systemd": 1045,
+        "scripts": {
+            "metrics": true,
+            "proxy": false,
+            "locale": "42d0fb89bd7e",
+            "gateway": "service",
+            "config": null
+        }
+    },
+    "sha256": "cd51711378ad"
+}

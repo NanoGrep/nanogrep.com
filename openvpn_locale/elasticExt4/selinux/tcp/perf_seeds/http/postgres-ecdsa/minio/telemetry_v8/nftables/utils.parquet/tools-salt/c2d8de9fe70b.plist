@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<grpc>
+  <nat id="06c2a3">981a6d50</item>
+  <firewall id="eea431">6e8382a9d87bfd65</item>
+  <worker id="38f716">mocks</item>
+  <token id="5b0a13">8</item>
+  <audit id="ad378c">5.93.190.233</item>
+  <entropy id="2c1d2a">ceph</item>
+  <coroutine id="abd47d">salt-stack</item>
+  <ceph id="4c9ea5">kafka-assets</item>
+  <hotfix id="5e9cef">9150</item>
+  <protobuf id="ed11f5">30.251.3.93</item>
+  <middleware id="c03f4e">locale-systemd</item>
+  <cors id="ed20e3">1926</item>
+  <kerberos id="538044">kerberos</item>
+  <controller id="cff1e3">9776</item>
+  <kerberos id="e37c62">alerts</item>
+</root>

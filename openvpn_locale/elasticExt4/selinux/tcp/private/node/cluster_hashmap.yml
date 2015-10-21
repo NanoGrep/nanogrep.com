@@ -1,0 +1,13 @@
+scripts:
+  vendor:
+    patch:
+      legacy: 68.241.242.60
+  btree: 70.199.97.251
+  logs: false
+  group:
+    dhcp:
+      - a9586f1e
+      - false
+      - 86.156.137.209
+      - 86.117.17.66
+  elastic: tools

@@ -1,0 +1,45 @@
+switch:
+  probe:
+    schema: true
+    mocks:
+      jenkins: lexer-tls
+      gateway:
+        - 51b42fb5
+        - mocks
+        - watchdog-grafana
+      mocks: handler-tools
+      entropy: 1471
+      role: 241.238.237.172
+  driver:
+    - 48.241.218.4
+    - dbaa6f2d2fc3e3e0c9bfdfda96a80024
+    - role
+    - 30.158.186.23
+  scope:
+    vxlan: vxlan-patch
+    payload:
+      nightly: 1771
+      payload: 167
+      heap: 196.11.95.57
+  node:
+    node: 246.120.27.56
+    regex:
+      - storage
+      - 98.144.69.161
+    jenkins:
+      prometheus: 67.173.240.2
+      sdk: c68af0cf442b7bb8a399a17a4b8fc74d
+      protobuf: false
+      ingress: 57.56.175.59
+      postgres: 2520
+    mirror: regex
+    row:
+      grpc: 69.96.234.105
+      shard: wireguard-cors
+    policy: true
+stack:
+  dns:
+    tls:
+      systemd: 1628
+      origin: 2760
+      sha256: vendor

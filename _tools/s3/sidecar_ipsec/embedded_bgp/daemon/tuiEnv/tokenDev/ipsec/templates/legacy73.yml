@@ -1,0 +1,34 @@
+kernel:
+  lambda:
+    systemd: cert-artifact
+    dhcp: 154.30.18.126
+  driver: locale-mapper
+  common: 99.213.193.238
+  kafka: be9ce89c
+quic: 9d74752c6b70c943
+worker:
+  quic: 8238
+  cache: hmac
+  migrations: 205.136.208.152
+  payload: 06ca56070da29d4208e058a059f9c681
+  bloom:
+    api: 5197
+  request:
+    role: legacy-ansible
+    jwt: driver-topic
+    heap: topic-helpers
+    group: true
+cert:
+  - 29.17.215.102
+  - 104.128.80.131
+  - ingress-websocket
+wireguard: 9c4770c0b4c0cd30
+tools:
+  audit: true
+  switch:
+    - 204.112.180.133
+    - staging
+  controller: false
+  migrations:
+    runner: 191.100.29.244
+  sdk: ansible

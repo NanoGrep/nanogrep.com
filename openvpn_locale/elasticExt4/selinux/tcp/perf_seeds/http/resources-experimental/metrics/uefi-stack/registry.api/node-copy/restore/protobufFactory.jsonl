@@ -1,0 +1,66 @@
+{
+  "compiler": {
+    "pipeline": {
+      "quic": true,
+      "iptables": [],
+      "redis": {
+        "kafka": false,
+        "rest": null
+      },
+      "regex": [
+        false,
+        8040
+      ]
+    },
+    "helm": {
+      "envoy": true,
+      "terraform": true,
+      "vendor": {
+        "mqtt": 7118,
+        "lib": null
+      }
+    }
+  },
+  "lexer": false,
+  "templates": null,
+  "lib": {
+    "iptables": {
+      "cli": {
+        "gateway": 4834,
+        "semaphore": "2ac70c426ce5",
+        "json": "router",
+        "handler": false,
+        "hotfix": null
+      },
+      "role": null,
+      "json": [
+        null,
+        null
+      ],
+      "edge": {
+        "vxlan": false,
+        "tools": "62aefc951c94",
+        "alerts": "ff93f759b6e7",
+        "traces": 4563,
+        "table": "rsa",
+        "yaml": "prod"
+      },
+      "node": {
+        "patch": "5a79741d56f6"
+      }
+    }
+  },
+  "hmac": "hotfix",
+  "scripts": {
+    "nat": [
+      "ldap",
+      "sandbox",
+      {
+        "probe": null,
+        "trie": "rollback",
+        "cache": null
+      },
+      9903
+    ]
+  }
+}

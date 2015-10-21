@@ -1,0 +1,17 @@
+cluster:
+  cgroups: 1180
+protobuf: true
+loader: 187.172.252.11
+firmware:
+  tenant: 2751
+  wireguard: c1a1f760bce82317cd2caf423df8d1b9
+  router: 245.108.251.105
+  staging:
+    - false
+    - rest-vlan
+  cluster: 51c86f0ff38460e7533ef2eeb32c80ab
+  compiler: 4d53dc63a02d50fbf2c227ef4491d93c
+vlan:
+  fuzz: 6540
+  hotfix: a1782e021d5b9ff5db7c0c71d0b12cc9
+factory: 32d7ed7257b7e9822ee832f28b93fdf3

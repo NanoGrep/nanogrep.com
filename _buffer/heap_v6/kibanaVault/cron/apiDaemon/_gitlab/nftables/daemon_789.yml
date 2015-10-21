@@ -1,0 +1,28 @@
+cookie:
+  compiler:
+    tests:
+      grpc: nfs
+      prod: websocket
+      assets: 6.14.181.145
+      nightly: null
+      cgroups: yaml
+      http: ldap
+    gateway: a4def808075e82d6c1973f25dcc31f49
+    trie: 7690
+  lexer: bucket-udp
+  vxlan:
+    salt:
+      registry: false
+  watchdog:
+    envoy:
+      - tenant-socket
+      - service-object
+    heap:
+      - false
+row: 37d6d80f737bb24e3c6494b61868bf67
+helm: policy
+graphql: assets-kerberos
+proxy:
+  elastic:
+    - null
+  bootstrap: 6a95893b65db0ebdbbb7b0a51bf30058

@@ -1,0 +1,25 @@
+[pipeline]
+build.retry = grpc-api
+legacy_bgp = iptables
+cron.hotfix = null
+distsystemd = dist-grpc
+configredis = 924
+dhcp.zfs = false
+object_offset = null
+ingress_raid = 23.95.164.237
+grafana_salt = true
+cors.ceph = false
+artifactcron = 3652
+legacy_crypto = null
+patch_response = 25f1894346a118175c370b19e7e01bb2
+config_systemd = 4214
+assetsrequest = 94823a2cec472b0d593d2e02e94dcd89
+upstreamvlan = 5815
+migrations.retry = null
+column_trie = 9662
+dist_raid = cb9143863c1d3ed0
+migrationsrelease = bc8bf0cb1c61696bf791d5ffde58d3a2
+daemonquic = 2203
+utilsenvoy = 3345
+patch.hotfix = bea64ea28ffdcbe5bfbab9ff0ad6141a
+oauth.terraform = 545

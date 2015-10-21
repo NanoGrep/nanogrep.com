@@ -1,0 +1,72 @@
+[
+  {
+    "prometheus": [
+      [
+        "legacy",
+        "proxy",
+        true
+      ]
+    ]
+  },
+  [
+    {
+      "storage": {
+        "locale": 6540
+      },
+      "http": {
+        "fuzz": false,
+        "lexer": false,
+        "cors": 7282,
+        "table": 3877,
+        "parser": null
+      },
+      "rollback": [
+        true,
+        true,
+        "retry",
+        false
+      ]
+    },
+    {
+      "vxlan": {
+        "index": false,
+        "upstream": "templates"
+      },
+      "scope": 2614,
+      "prod": [
+        "mocks",
+        false
+      ],
+      "handler": {
+        "vendor": false,
+        "migrations": null,
+        "subnet": 9917,
+        "canary": "role",
+        "metrics": true,
+        "api": null
+      },
+      "group": 3726
+    },
+    [
+      {
+        "yaml": null,
+        "tenant": "mesh",
+        "router": false
+      }
+    ],
+    [
+      {
+        "kafka": true,
+        "raid": true
+      },
+      false,
+      {
+        "ingress": false,
+        "cache": "tls",
+        "mongo": null,
+        "snapshot": "b3249c664321",
+        "cron": false
+      }
+    ]
+  ]
+]

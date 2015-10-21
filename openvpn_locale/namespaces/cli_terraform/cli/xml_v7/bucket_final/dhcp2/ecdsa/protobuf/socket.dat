@@ -1,0 +1,8 @@
+vxlan,udp,pipeline
+artifact-firmware,worker-mqtt,3060
+true,9fc1d2c2267a0b3a,147.78.66.74
+assets-dist,233.29.2.87,2566
+168.182.117.128,99.180.9.25,59.22.53.21
+7239,null,gateway-prometheus
+240.95.230.158,35.246.62.228,1415
+159.250.63.102,6317,service-redis

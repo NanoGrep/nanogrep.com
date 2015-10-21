@@ -1,0 +1,17 @@
+{
+  "failover": false,
+  "mapper": 523,
+  "payload": {
+    "jwt": [],
+    "crypto": [
+      {
+        "sha256": false
+      }
+    ],
+    "tenant": {
+      "udp": [
+        null
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+backend:
+  crypto:
+    schema: 3083
+    rest:
+      - c6a2c1486ea80bc3
+      - 8114
+      - null
+    cors:
+      - dhcp
+      - 58.254.3.252
+    tests: 6226
+    cookie:
+      - 108.7.86.205
+      - 145.57.194.168
+  sandbox: 40fbb1eaed67d3df
+  btree:
+    - snapshot-column
+    - 95.253.46.173
+    - 163.238.208.131
+  tenant: 3595
+  ingress: kerberos-lib
+patch: udp-pipeline

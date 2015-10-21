@@ -1,0 +1,15 @@
+vendor: cd2a2037
+envoy: 2975f5f5
+handler:
+  mysql: vlan-nonce
+  nonce:
+    canary:
+      origin: 1326
+      handler: 128.199.79.45
+    loader: false
+  http:
+    - elastic
+    - tools-systemd
+  legacy: group
+  bloom: 212.41.252.165
+  regex: failover-request

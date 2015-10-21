@@ -1,0 +1,84 @@
+[pod]
+offset_hashmap = 4432
+ceph.json = alerts
+salt.loader = btree
+elastic.compiler = true
+stack_gateway = 3728
+mutexwebsocket = table-router
+replicalimit = user-session
+kernel.middleware = false
+btreeprod = entropy
+noncecert = salt-legacy
+
+[origin]
+mocks.queue = bucket
+tests_artifact = 375
+socket_iptables = payload-pod
+env.bloom = cli
+kerberossession = true
+adapter_cors = true
+backend.vendor = cluster
+schema.semaphore = null
+clustermesh = 196.105.162.22
+
+[tenant]
+fuzz_request = 1647
+stagingsystemd = null
+replicaretry = 0ee543a7dcb60f7c68424d36a7f5f914
+cli_adapter = 150.148.133.159
+watchdog_utils = 2b76498eb368157ad61bf307287edae0
+threadpool_helpers = 239.153.246.140
+terraform.frontend = f5aa99eccb671f70e96ffca327c9c474
+mysql.tcp = alerts-cache
+parser.locale = 1195
+kerberos_protobuf = factory-canary
+tcpbloom = true
+lambda_core = 8439
+cryptolambda = 9058
+mocks_scope = 218.93.139.11
+templates_upstream = 18.91.122.169
+policy_sandbox = f4fe987ee29e24aa650337d8bae5b27d
+bgp_origin = false
+rolecron = 6701
+cache.nightly = 4aabe87cb8693c0e
+mockstools = 3989
+artifact.upstream = canary-yaml
+lambdahttp = 46c94466
+rollback_alerts = 567
+
+[backend]
+jwt_artifact = retry
+migrationsoauth = 71bb0f1a2dbb9bc1
+registrykafka = graphql
+ldap.beta = crypto-subnet
+terraform_driver = tests-legacy
+hmacretry = edb76c3ac41f031f76e59d2ac00c2fae
+frontend_tls = ccbe01b653193ce1
+factoryapi = role-cursor
+topic.origin = nat
+traces_patch = 9225
+request.utils = 231.239.114.213
+cert_envoy = 50.52.225.252
+
+[origin]
+stream_legacy = d77a65e9
+nonceenv = migrations-cron
+betatopic = true
+session_tcp = 9124
+helperselastic = mocks-alerts
+scope_session = http-frontend
+buffer.redis = aes
+probefactory = 4760
+httpmocks = false
+snapshotstream = 70
+mysql_grpc = 4469
+offset.salt = null
+firmware_stack = false
+staging.shard = 07ffd66b04154f08
+edgeudp = dns-scheduler
+toolsmutex = nonce-cgroups
+bench_locale = null
+saltcgroups = 0b801cc13ea37029
+handler_vault = 9564
+ldap.mqtt = 69.229.243.79
+helmjwt = worker-mocks

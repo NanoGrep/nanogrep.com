@@ -1,0 +1,65 @@
+jwt: nightly
+controller: offset-group
+subnet: null
+dhcp:
+  mysql:
+    proxy: jenkins
+    router: 13e56ee4
+    retry: group
+    response: probe-mongo
+  socket:
+    prometheus: 91.132.20.91
+    response:
+      - 94349254
+      - upstream
+      - middleware-cgroups
+      - 5296
+  graphql: 135.64.16.162
+beta:
+  bench:
+    proxy: subnet-cache
+    jenkins: nonce-queue
+  metrics: 562d898795f034fba3e9ceb4dff8af64
+  upstream:
+    replica: iptables-patch
+    kernel: false
+node:
+  entropy:
+    nightly: helpers
+    stream: 7f4e566f
+    batch: cluster-kernel
+    beta:
+      cgroups: null
+      core:
+        - http
+        - 199.158.187.154
+        - nightly
+        - 9994
+      fixtures: 75.58.29.149
+  volume:
+    group: oauth
+    canary:
+      rest: null
+      kernel: 7587baae8e2758d9
+    locale:
+      firmware: storage
+      legacy: aef3f81d12f1dec6
+      patch:
+        - pod
+        - 8150
+      bench: origin
+      cert: 4bdc66f412d584df619f2002f769002c
+  artifact:
+    release:
+      dhcp: null
+      websocket: sha256-runner
+      mocks: upstream
+      cron: 203.181.167.144
+      cert: nginx
+      dns: tools
+    aes: null
+  dist:
+    - schema-nightly
+    - 115.146.231.157
+    - tls
+  terraform: mapper-coroutine

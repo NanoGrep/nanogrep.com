@@ -1,0 +1,46 @@
+[
+    {
+        "fuzz": 1133,
+        "handler": {
+            "bootstrap": 8975,
+            "upstream": true,
+            "scheduler": true,
+            "jenkins": {
+                "sha256": true,
+                "proxy": 540,
+                "scope": "7e74ad7e74f0"
+            },
+            "ansible": "49fcab001e40"
+        },
+        "lambda": [
+            null
+        ],
+        "prod": true,
+        "topic": {
+            "column": false,
+            "semaphore": {
+                "registry": 6412,
+                "common": 4684,
+                "response": null
+            },
+            "udp": [
+                9669
+            ]
+        }
+    },
+    null,
+    {
+        "semaphore": {
+            "nonce": "grpc"
+        },
+        "legacy": {
+            "hotfix": true
+        },
+        "heap": "b7b8db039042",
+        "bootstrap": {
+            "socket": null
+        },
+        "tests": "96b98d2b0092",
+        "ingress": "common"
+    }
+]

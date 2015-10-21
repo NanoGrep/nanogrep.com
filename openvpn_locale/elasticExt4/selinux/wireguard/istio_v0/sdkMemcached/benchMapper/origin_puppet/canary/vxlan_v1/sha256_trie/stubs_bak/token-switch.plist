@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<elastic>
+  <probe id="a8645e">4203</item>
+  <tcp id="ba1ca2">834ccf75</item>
+  <service id="c5c2f3">4687</item>
+  <ldap id="1365c7">quic-cli</item>
+  <templates id="fc7a5d">1791ed2c</item>
+  <tenant id="3a271c">4eb26d4d</item>
+  <env id="3d7dd3">false</item>
+  <vault id="d57d8e">systemd-vendor</item>
+  <loader id="9c7732">nonce</item>
+</root>

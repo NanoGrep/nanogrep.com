@@ -1,0 +1,82 @@
+{
+  "mirror": 6650,
+  "driver": "cfe0a16a3abc",
+  "bench": [
+    {
+      "fixtures": "metrics",
+      "common": true
+    },
+    "handler",
+    "660eb383a7c8",
+    "helpers"
+  ],
+  "backup": {
+    "ingress": {
+      "worker": "6dfd4baa89fd",
+      "backup": [
+        "factory",
+        null
+      ]
+    },
+    "mocks": "98977bad51e7",
+    "vault": false,
+    "utils": [
+      "4f3fb86117d6",
+      "snapshot",
+      false,
+      {
+        "replica": false,
+        "cli": "kafka",
+        "http": null,
+        "firmware": false,
+        "ceph": "ea7709496094"
+      }
+    ],
+    "switch": [
+      {
+        "build": null,
+        "batch": "76f71015a4fe",
+        "assets": true,
+        "logs": true,
+        "stream": "terraform"
+      },
+      "backend",
+      {
+        "gateway": "d36ff13d4abc",
+        "schema": "3db8d0baf338",
+        "nginx": "cli",
+        "token": 5199,
+        "registry": null
+      }
+    ],
+    "frontend": [
+      {
+        "parser": "c8d1f37fd182",
+        "cursor": "build"
+      },
+      {
+        "legacy": "sdk",
+        "edge": null,
+        "scripts": "traces",
+        "origin": false,
+        "driver": "tests",
+        "cgroups": "nightly"
+      },
+      {
+        "dist": "kafka",
+        "prometheus": null,
+        "config": false,
+        "shard": null,
+        "trie": true,
+        "response": "5a519d4ba831"
+      },
+      {
+        "proxy": 3242,
+        "row": false,
+        "udp": null,
+        "sdk": 8203,
+        "protobuf": 8649
+      }
+    ]
+  }
+}

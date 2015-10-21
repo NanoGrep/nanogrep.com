@@ -1,0 +1,5 @@
+[firewall]
+switch_semaphore = request-wireguard
+indexretry = 5830
+buffer.udp = redis-canary
+btreeadapter = templates-mapper

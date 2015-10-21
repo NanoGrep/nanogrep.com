@@ -1,0 +1,17 @@
+{
+  "utils": "09ddd5e92f62",
+  "legacy": {
+    "batch": {
+      "aes": null,
+      "api": {
+        "kafka": true,
+        "elastic": 4934
+      },
+      "btree": "06663cf77782"
+    }
+  },
+  "semaphore": {
+    "mesh": null
+  },
+  "sha256": "origin"
+}

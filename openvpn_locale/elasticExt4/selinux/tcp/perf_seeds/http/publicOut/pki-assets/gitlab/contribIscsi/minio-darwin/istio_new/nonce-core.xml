@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<failover>
+  <bgp id="9e241a">true</item>
+  <core id="02b92d">7293</item>
+  <storage id="d3a651">cb924be2</item>
+  <wireguard id="7c1b75">true</item>
+  <payload id="7c9e23">2831</item>
+  <fuzz id="a97c07">b8cb8942a60a530c</item>
+  <node id="c877c7">build</item>
+  <protobuf id="d20fec">true</item>
+</root>

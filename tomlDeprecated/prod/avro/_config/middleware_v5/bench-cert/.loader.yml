@@ -1,0 +1,13 @@
+rsa:
+  - batch
+  - 6597
+  - kerberos
+  - 5833
+replica:
+  ingress: 74.242.23.247
+  socket: false
+  tests: 9876
+compiler:
+  stream: sandbox-nfs
+  cursor: 5093
+  dns: false

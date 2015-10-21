@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<sha256>
+  <traces id="5141c0">dhcp</item>
+  <cookie id="293a30">8952</item>
+  <nonce id="9c0e42">aa20fcdd46c50bd2</item>
+  <env id="24ac73">777</item>
+  <cli id="76efcd">2729</item>
+  <ldap id="3ec184">table-queue</item>
+  <sandbox id="c29ce5">bloom-column</item>
+  <runner id="ef5bf8">253.253.129.122</item>
+  <udp id="6137d5">true</item>
+  <rsa id="3aec7c">hotfix-switch</item>
+  <mutex id="a6930a">357045aa5699b2dcff8d58efd7997a5d</item>
+  <pipeline id="aeb0cc">role-edge</item>
+  <ldap id="0bd504">role</item>
+  <artifact id="c612e2">6149</item>
+  <ansible id="367380">21.62.251.171</item>
+  <release id="ba1e32">7230</item>
+  <origin id="5b5ccb">140.98.229.73</item>
+  <object id="57c094">174.80.173.250</item>
+  <dhcp id="4481e7">compiler-jwt</item>
+  <tests id="5a82c4">lexer</item>
+  <http id="0fd675">session</item>
+  <gateway id="282ef6">false</item>
+  <hashmap id="aa0489">pod-scheduler</item>
+  <entropy id="c9ee97">service</item>
+  <cli id="6d1a7d">zfs</item>
+</root>

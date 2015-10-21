@@ -1,0 +1,34 @@
+parser:
+  - 964
+  - policy
+  - 4638
+  - threadpool
+prod: 11be4b024a4c171ecd4d68b751815940
+mutex: 286aa4193daeb315
+batch:
+  schema:
+    btree:
+      wireguard: 5724
+      prometheus: heap
+      cookie: 8639
+      cache: service
+      traces: 8270
+      scheduler: 38da2f1b23bf5b663a810335ef210990
+    column:
+      - router
+      - 109.232.113.189
+      - rest-artifact
+      - ldap-common
+    api: kafka
+    stream: 25.137.199.194
+    probe: gateway-websocket
+    runner:
+      migrations: 58950170eaa74ad11fcd2df0098eefa9
+      firmware: 252.46.179.107
+      vxlan: 2365
+      audit: 132.116.27.190
+  response:
+    - 58.18.187.50
+    - 3186
+    - true
+  firmware: 70.117.231.173

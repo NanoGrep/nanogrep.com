@@ -1,0 +1,23 @@
+mongo: 151.243.220.48
+trie: 48.60.19.82
+mqtt:
+  group: 207.177.145.158
+storage:
+  templates: group
+  mapper: null
+  index: 186.59.219.101
+  core:
+    ansible:
+      - abc6d80cf3f6bab1
+      - 151.84.56.66
+    request:
+      alerts: 146.176.132.245
+      config: mesh-core
+      lib: dhcp
+    bloom:
+      common: 4781
+      mqtt: 8329
+      handler: scope
+    bench: sandbox
+    envoy: false
+gateway: request-ansible

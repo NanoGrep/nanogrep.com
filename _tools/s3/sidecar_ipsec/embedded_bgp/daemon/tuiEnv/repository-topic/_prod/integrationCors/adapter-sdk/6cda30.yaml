@@ -1,0 +1,7 @@
+driver:
+  yaml: 6080
+  fuzz: regex-replica
+  elastic: cgroups
+  locale: stack
+canary: false
+mongo: 151.117.30.74

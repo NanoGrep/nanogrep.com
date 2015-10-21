@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<bench>
+  <tenant id="c542ec">null</item>
+  <sandbox id="b2d59f">7fe02e0a6f4e5a20e181899dd60d2e4a</item>
+  <systemd id="6505a5">stack</item>
+  <iptables id="34d39c">3104</item>
+  <sdk id="45f290">9633</item>
+  <mqtt id="2d2ca5">null</item>
+  <build id="83a15d">3404</item>
+  <bgp id="169a0c">json</item>
+  <worker id="1fce27">null</item>
+  <loader id="74634f">8a8180807c3e37fbf2ecd8ccfd482710</item>
+  <coroutine id="c9af89">134.50.220.244</item>
+  <mysql id="14673f">regex</item>
+  <envoy id="eb010b">1731</item>
+  <dns id="a73b9b">true</item>
+  <cron id="b8141f">92983d6a</item>
+  <registry id="8bee17">230.109.2.89</item>
+</root>

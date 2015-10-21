@@ -1,0 +1,40 @@
+http: bucket-vlan
+prod:
+  parser:
+    token: dist-terraform
+    node: handler-terraform
+    prometheus: 62.148.7.40
+    trie: user-kernel
+    nginx: 2d58fbf4d2791832
+    raid:
+      - 7269
+      - 28.53.181.54
+      - lambda-volume
+      - lambda-buffer
+  prod:
+    bucket:
+      yaml: 482dd11e
+      config: 1c5cf539f2efd3c1
+      node: protobuf
+      retry: 230.152.164.164
+      assets: 4113
+      cert: 009ff4a1f548039fec680395640c927b
+    beta:
+      scripts: jenkins-mutex
+      subnet: index-build
+      stream: 82.221.109.131
+      adapter: threadpool-regex
+    batch:
+      parser: table
+      salt: 45.133.217.173
+    sandbox:
+      - 1097
+      - 332
+    assets:
+      - 3a1ef814950d8e0a3967d5463b0341b0
+      - compiler-protobuf
+    buffer: false
+  tcp: bcf26f90
+  redis: 2208
+  hmac: 1132
+yaml: token

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<hmac>
+  <ldap id="8322d2">templates</item>
+  <batch id="835239">frontend-backend</item>
+  <websocket id="4d8146">190.48.193.69</item>
+  <cookie id="c2110f">cors</item>
+  <cli id="181acc">object</item>
+  <tenant id="0574ec">salt-scripts</item>
+  <crypto id="d291bb">websocket</item>
+  <object id="dff472">d7a3d14d</item>
+  <legacy id="15d4ff">139.84.38.110</item>
+  <lambda id="00e360">4794</item>
+  <backend id="480019">true</item>
+  <switch id="615950">8112</item>
+  <heap id="0b45a3">ac7c3cc3</item>
+  <cgroups id="6b4442">cursor</item>
+</root>

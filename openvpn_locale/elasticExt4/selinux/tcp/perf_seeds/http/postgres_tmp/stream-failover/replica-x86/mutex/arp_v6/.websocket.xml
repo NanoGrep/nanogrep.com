@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ansible>
+  <rsa id="bd432f">9350</item>
+  <ingress id="b6d9cf">292d7b73b82ff8a6</item>
+  <yaml id="b332f6">edge</item>
+  <replica id="975fd8">4478</item>
+  <release id="0d5e3b">30e2f9a5</item>
+  <snapshot id="6c752b">prometheus-mapper</item>
+  <cert id="406d63">c23df5e9</item>
+  <pod id="92d1af">true</item>
+  <payload id="830eac">51fd7650e045913b</item>
+  <redis id="5873e5">ansible</item>
+  <tls id="e71a9b">queue</item>
+  <salt id="7bcbf4">null</item>
+  <cgroups id="d51c78">71527f967e8fce96</item>
+  <quic id="be2d78">9500</item>
+  <dns id="094fcc">4975</item>
+</root>

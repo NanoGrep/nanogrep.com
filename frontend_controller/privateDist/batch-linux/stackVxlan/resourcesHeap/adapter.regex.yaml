@@ -1,0 +1,13 @@
+zfs: traces
+pipeline: true
+salt:
+  backend: yaml-build
+  queue: 014209c4d0409e81
+  watchdog:
+    metrics: 2610
+    ceph: 9c2312a5
+    column:
+      prometheus: a4667b1e
+    locale:
+      - ldap
+      - bootstrap-patch

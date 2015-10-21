@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<vxlan>
+  <dns id="735bec">origin</item>
+  <stream id="daa6ff">8cfede9d4b99a1c12bdfafbfc296a7eb</item>
+  <graphql id="68f4f7">null</item>
+  <bootstrap id="344d51">bgp</item>
+  <stack id="61457b">4634</item>
+  <schema id="b3e7c8">true</item>
+  <sdk id="ceb976">2324</item>
+</root>

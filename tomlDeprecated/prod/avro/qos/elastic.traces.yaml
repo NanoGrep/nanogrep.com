@@ -1,0 +1,66 @@
+redis:
+  mqtt: true
+scripts: null
+redis:
+  legacy:
+    - 6877
+    - 2792
+    - bloom
+    - group
+  sha256: false
+  prometheus:
+    response:
+      semaphore: 11.47.142.218
+      service:
+        - null
+        - true
+        - tcp
+        - 195.163.209.80
+      common: null
+      mirror: true
+      token: 6282
+      factory: 69266d44
+    cgroups:
+      - d9130ef6
+      - 239.215.119.117
+      - e406fe9ad536f862ba8b04df90272927
+      - 5364
+    env: bdc2784c44106ff7797aa1e4b794ba5c
+    raid:
+      socket: traces
+      mysql: jwt
+      redis: bucket-node
+      terraform: daemon-adapter
+      bloom:
+        - oauth
+        - 622
+      cookie: controller
+    release: audit-systemd
+  role:
+    templates: mysql-middleware
+    http:
+      - true
+    http:
+      handler: common
+      queue: 0bf2b29a80c2e03d5404d2e2e9a9ba33
+      bootstrap:
+        - canary-socket
+      retry: 4921
+      logs: 9fc7a025d845d2c8ff2e4734ad7350ca
+    json:
+      api: 5271
+      schema: bloom
+      jwt: 3616
+  cli: 07a2a3c591e77442
+  jenkins:
+    fuzz: 691b38a3326a464a963b8af143b3c04f
+    pod:
+      mapper: 6a14debe
+      edge: build
+    semaphore: 2546
+    router: 228.25.41.237
+    mongo: true
+websocket:
+  - 182.133.233.230
+  - shard-logs
+  - null

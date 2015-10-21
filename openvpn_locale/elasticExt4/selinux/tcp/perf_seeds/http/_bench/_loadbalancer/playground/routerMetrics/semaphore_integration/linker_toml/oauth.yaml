@@ -1,0 +1,29 @@
+tests:
+  crypto:
+    tcp: 7479
+    redis: 620
+  jenkins:
+    release: crypto-limit
+  firmware: 7dcf9912
+  kafka: 7098
+  ingress:
+    mutex:
+      cluster: hotfix
+      probe: null
+  failover: 92413c2654f8c6a6ee2ed6edc28e578e
+api: 9190
+sdk:
+  lexer: 7841
+  artifact: 7107
+  regex:
+    tcp: 242.178.210.40
+    systemd:
+      - cab2e7bf830371ba
+      - 8a291493ca8da19c
+    protobuf: false
+    yaml: 8276
+  graphql: 5460
+grafana:
+  - 2450
+sha256: 36.217.129.250
+service: d211c368

@@ -1,0 +1,7 @@
+rollback:
+  graphql: null
+  canary: true
+  backup: 28.220.231.59
+  mqtt: 204.153.53.70
+  index: 4bf8375899a32935
+socket: false

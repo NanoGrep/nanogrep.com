@@ -1,0 +1,45 @@
+cert:
+  rsa: traces
+  rest:
+    - null
+    - 153.196.230.14
+  utils: 602af533bbfe6650
+  switch:
+    - lexer
+    - true
+    - utils-batch
+    - false
+mutex: 5392
+api: a2d1b048ec00bb00
+metrics:
+  - terraform-vault
+  - true
+user:
+  - 131.112.182.34
+  - tools
+  - cookie
+wireguard:
+  core:
+    origin:
+      ansible: 7244
+      compiler: nfs-scope
+      dns:
+        - 21982cd97ce9d78d15fb81f10fc026cf
+        - 7926
+      node: scripts-utils
+      table: upstream
+      retry: true
+    mongo: false
+  role:
+    tcp: 65.102.28.92
+    firmware:
+      watchdog: true
+      legacy: patch
+      kerberos: 9263
+      lexer: 18.218.87.90
+      sha256: 143.159.110.224
+      role: 182.98.229.234
+    threadpool: null
+    ldap: row
+    tools: controller
+  grafana: systemd-ingress

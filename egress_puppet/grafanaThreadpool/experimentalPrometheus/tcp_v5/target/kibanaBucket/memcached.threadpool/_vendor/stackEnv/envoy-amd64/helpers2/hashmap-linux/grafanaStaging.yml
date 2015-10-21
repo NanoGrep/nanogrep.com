@@ -1,0 +1,32 @@
+vxlan:
+  pod: true
+  sandbox: tests
+  templates:
+    - null
+    - 132.212.62.104
+    - 2b08b29bebb3b497452328be5e58cd66
+  role: false
+  mutex: 127.124.170.210
+  scope: 7350
+row:
+  - null
+  - true
+bucket: 48.48.220.72
+systemd: b1b7c0fc
+mapper: 3567
+limit:
+  backup: mirror-api
+  stack:
+    service: logs
+    socket: false
+  helpers: 6.34.81.254
+  registry: fadda23e78bf245b9a5c67263db9fc8e
+  kernel: 30fc9f2713a06d0c
+  replica:
+    frontend:
+      - 33.1.26.31
+    semaphore: core
+    origin: threadpool-topic
+    kerberos: true
+    btree: 49.119.38.214
+    canary: 251.159.105.246

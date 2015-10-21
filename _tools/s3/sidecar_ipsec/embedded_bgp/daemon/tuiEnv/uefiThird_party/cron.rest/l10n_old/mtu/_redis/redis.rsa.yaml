@@ -1,0 +1,19 @@
+nonce: 54.231.105.250
+bootstrap:
+  salt:
+    frontend: 23b994e3c293a415
+salt: 6699
+salt:
+  origin: fc6ce3b65d2067033d24cdcda56a1af9
+  patch:
+    proxy:
+      - 1062
+      - parser-retry
+      - 144.54.191.58
+      - 137.174.139.129
+    crypto: cf763d35
+    http: 35bd5ad0f1db478a57fed347aa1bf53a
+  ceph: vault
+  ingress: 52.146.67.10
+protobuf: bf80a3e4fa37184e
+backend: 162.247.96.249

@@ -1,0 +1,7 @@
+mocks: bootstrap-env
+tools: buffer
+fuzz:
+  tenant:
+    - dhcp-cache
+    - cert-locale
+    - 151.165.181.34

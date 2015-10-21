@@ -1,0 +1,1 @@
+{"websocket": {"http": [{"rest": true}], "nightly": [], "scope": "ca102f5cfc2e", "mqtt": "handler", "group": 9794}, "crypto": ["wireguard", [{"upstream": 7833, "udp": false, "legacy": "assets"}, {"jwt": false, "http": true, "vxlan": null, "postgres": "origin"}, {"runner": "tools"}, {"api": 3381}], [[2675]]], "adapter": null}

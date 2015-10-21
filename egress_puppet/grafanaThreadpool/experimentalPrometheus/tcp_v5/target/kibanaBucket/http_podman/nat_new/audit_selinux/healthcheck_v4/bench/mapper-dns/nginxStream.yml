@@ -1,0 +1,8 @@
+probe:
+  bucket: switch
+  vault:
+    upstream: 4499
+    cors: true
+  api: 3d5b5412
+  kernel: 9433a46e61c4f41b
+worker: 782

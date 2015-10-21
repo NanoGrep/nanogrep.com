@@ -1,0 +1,6 @@
+legacy:
+  - zfs
+  - false
+  - mesh
+  - 7166
+replica: logs

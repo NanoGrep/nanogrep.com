@@ -1,0 +1,14 @@
+{
+    "stack": true,
+    "grafana": {
+        "scheduler": {
+            "dhcp": [
+                "57befa4606e5",
+                "jwt"
+            ]
+        }
+    },
+    "nginx": null,
+    "jwt": null,
+    "lib": false
+}

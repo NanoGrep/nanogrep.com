@@ -1,0 +1,1 @@
+{"build": {"row": null, "hmac": [5952], "bloom": [true, {"core": 3441, "hashmap": true}, {"retry": false, "mutex": null}, "switch"]}, "gateway": false, "lambda": true, "firmware": "json", "assets": "b5cf6216c860"}

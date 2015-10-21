@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<bgp>
+  <sha256 id="653ef2">common</item>
+  <token id="a9c60c">1290</item>
+  <dhcp id="4cabc0">http-oauth</item>
+  <firmware id="160314">8420</item>
+  <btree id="4cb9e2">7769</item>
+  <alerts id="4647a1">null</item>
+  <ceph id="870e94">229.152.159.230</item>
+  <batch id="33fc58">kafka</item>
+  <lib id="549d5d">5862</item>
+  <object id="9810c1">65.84.128.72</item>
+  <user id="483f0d">3981</item>
+  <runner id="c1ebd2">canary</item>
+  <node id="48e204">null</item>
+  <common id="a127d6">null</item>
+  <vault id="fd6cd3">entropy-rollback</item>
+  <column id="7433cf">entropy</item>
+</root>

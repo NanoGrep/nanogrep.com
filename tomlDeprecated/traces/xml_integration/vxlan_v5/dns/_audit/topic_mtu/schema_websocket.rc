@@ -1,0 +1,16 @@
+aesbeta=245.77.209.33
+role.patch=9102
+ceph_registry=2911
+socketswitch=daemon
+grpcparser=cursor
+common_kerberos=user
+noncersa=22.6.132.107
+ceph_mocks=cursor-tls
+patchindex=staging
+elasticcgroups=nginx-grpc
+redis_http=policy
+semaphore.yaml=false
+udprsa=stream
+topic.worker=0499da6ec7189fe8eedf893067717836
+volume.column=env-rollback
+columnreplica=246.247.23.221

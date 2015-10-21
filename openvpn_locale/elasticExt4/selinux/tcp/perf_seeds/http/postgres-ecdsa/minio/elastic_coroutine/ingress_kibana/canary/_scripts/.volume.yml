@@ -1,0 +1,10 @@
+adapter: 9870
+coroutine:
+  service: 133.153.152.221
+  snapshot:
+    - service
+    - pipeline-zfs
+    - templates-router
+    - scripts-config
+  websocket: 69fe732739cbebbf
+  regex: raid-grpc

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<factory>
+  <raid id="2814eb">null</item>
+  <schema id="eb8bd6">126.48.103.183</item>
+  <api id="594672">grafana-tests</item>
+  <mysql id="fae2e1">ed6a491463f5753e8b2dc43f1c0d22d7</item>
+  <policy id="441284">udp-nonce</item>
+  <helpers id="4e8e2d">probe-parser</item>
+  <table id="1606a4">67.214.110.196</item>
+  <buffer id="42ef76">node</item>
+  <frontend id="95d0c2">locale-core</item>
+  <cors id="c874a8">tcp-cors</item>
+  <vault id="1802db">null</item>
+</root>

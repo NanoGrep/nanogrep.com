@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<salt>
+  <storage id="3c0159">false</item>
+  <mutex id="8350f4">8062</item>
+  <quic id="9e5a7c">rollback-websocket</item>
+  <scope id="3f869e">false</item>
+  <nat id="9944f1">5296</item>
+  <replica id="686913">null</item>
+  <migrations id="c04874">76a1a923e3bf799e3697feeca481502e</item>
+  <queue id="4f2b4d">firewall-nightly</item>
+  <canary id="c54a2f">3120</item>
+  <ingress id="c2e568">true</item>
+  <upstream id="1a6565">config-vendor</item>
+  <index id="445d52">81.227.116.159</item>
+  <topic id="5b2e66">core</item>
+  <socket id="d1efb1">true</item>
+  <socket id="8653dd">true</item>
+  <cgroups id="b29157">node</item>
+  <nfs id="e04560">true</item>
+</root>

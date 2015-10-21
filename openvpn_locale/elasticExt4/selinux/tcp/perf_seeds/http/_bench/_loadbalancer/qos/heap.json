@@ -1,0 +1,60 @@
+{
+  "grpc": "release",
+  "scope": {
+    "rollback": {
+      "request": {
+        "trie": false
+      },
+      "origin": null,
+      "node": "api",
+      "sha256": "cb37532bfee5"
+    },
+    "regex": false
+  },
+  "request": "2694a4b74413",
+  "buffer": true,
+  "lib": {
+    "tools": [],
+    "mysql": 2919,
+    "role": null,
+    "proxy": {
+      "alerts": {
+        "bucket": 6995,
+        "env": true,
+        "cursor": "6e492dd4502e",
+        "quic": null
+      },
+      "queue": false,
+      "http": [
+        "47499b0c6b29",
+        false
+      ],
+      "gateway": [
+        "parser",
+        null,
+        null,
+        true
+      ],
+      "json": {
+        "backup": null,
+        "pipeline": false,
+        "ansible": null,
+        "node": null,
+        "dhcp": true,
+        "tenant": null
+      }
+    },
+    "tenant": {
+      "runner": "traces",
+      "env": [
+        "ba76014e987a",
+        true
+      ],
+      "ansible": true,
+      "kernel": [
+        true
+      ],
+      "cgroups": 8436
+    }
+  }
+}

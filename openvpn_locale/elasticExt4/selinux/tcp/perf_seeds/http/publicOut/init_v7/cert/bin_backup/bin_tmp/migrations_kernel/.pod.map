@@ -1,0 +1,74 @@
+{
+  "mapper": {
+    "node": "sdk"
+  },
+  "patch": {
+    "hmac": {
+      "dns": [],
+      "prometheus": [
+        true,
+        true,
+        2112,
+        true
+      ],
+      "scheduler": {
+        "nginx": false
+      }
+    },
+    "protobuf": null,
+    "dns": [
+      {
+        "policy": "backup",
+        "btree": true,
+        "vendor": null,
+        "grpc": "2981c23ea9c4",
+        "legacy": "e7b51d8a42f5"
+      },
+      "539331a91d2e",
+      5830
+    ],
+    "env": [
+      [
+        true,
+        5716,
+        true
+      ],
+      {
+        "heap": true,
+        "proxy": "compiler",
+        "volume": true
+      },
+      {
+        "jenkins": "router",
+        "volume": 3144,
+        "edge": true,
+        "cluster": "8ef74e1c9a4e",
+        "legacy": true
+      }
+    ],
+    "watchdog": {
+      "upstream": {
+        "daemon": false,
+        "volume": "766ce4efafae",
+        "pod": 7938
+      },
+      "subnet": 2463,
+      "http": [],
+      "canary": [
+        "723c30cde6e6"
+      ],
+      "scripts": null,
+      "firewall": {
+        "registry": false,
+        "jenkins": null,
+        "pipeline": true,
+        "crypto": "heap",
+        "upstream": false,
+        "service": null
+      }
+    },
+    "websocket": [
+      4806
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+origin:
+  sandbox: 8d87efb2
+  mesh:
+    - schema-beta
+    - user-threadpool
+  role:
+    graphql:
+      stack:
+        - false
+        - null
+      mocks: 840f674083b7a142
+      topic: quic-shard
+      nfs: 170.7.51.250
+    worker:
+      offset: nat
+      bloom: udp
+      env: bd07e49a7c96c0c4
+    bucket: scripts
+  nat: tenant
+  snapshot: 200.49.217.186

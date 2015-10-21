@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<crypto>
+  <upstream id="08ebec">true</item>
+  <router id="41b2f1">column-prometheus</item>
+  <postgres id="777b90">scope</item>
+</root>

@@ -1,0 +1,19 @@
+stack:
+  role:
+    - 284
+    - 761
+    - systemd
+    - 6a4af7151e00f2aa
+  mirror:
+    daemon:
+      - schema-beta
+      - b97b2e13
+    proxy: 7e289f76b44d2a0c
+    aes:
+      - graphql
+      - true
+    daemon: 31827d8bd02737b2bc197e0033a4f32f
+    worker: policy-edge
+    firewall: 81c2a65e6aefcf96
+origin: backup-firewall
+bucket: e7fe10fd78682b0ce9ae502f89fddf4b

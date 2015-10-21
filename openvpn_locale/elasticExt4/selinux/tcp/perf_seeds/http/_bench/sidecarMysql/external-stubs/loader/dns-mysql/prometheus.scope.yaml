@@ -1,0 +1,10 @@
+helm:
+  audit:
+    bootstrap:
+      nfs: 7f4bdcc67372cf315e7a137105e3e71b
+      driver: 238.224.43.189
+    dist: d33dd50eae74b92ee8162be672c13436
+  kerberos: 8644
+  mocks: e1ef7054d2f74a84e17408f1b12bb5a7
+  mongo: 7268
+kerberos: true

@@ -1,0 +1,6 @@
+nat: prometheus
+service: entropy
+storage: 4.177.106.5
+volume: a2469222c59c63f6a7a5a067ead2130c
+cron:
+  - sha256-grpc

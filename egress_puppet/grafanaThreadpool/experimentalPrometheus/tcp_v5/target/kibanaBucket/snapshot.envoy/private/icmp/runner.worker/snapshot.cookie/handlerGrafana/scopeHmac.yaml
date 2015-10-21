@@ -1,0 +1,28 @@
+worker: null
+vlan: protobuf
+kerberos:
+  gateway:
+    registry: 4ebc69b4008f226f1b6b7166a47d99d8
+  sandbox: 198.230.236.35
+  jenkins:
+    user:
+      - 175.48.36.233
+      - 4814
+    snapshot: 7065
+  jwt:
+    - 948
+    - false
+    - 2682
+  staging: wireguard-traces
+driver:
+  sandbox: null
+  user:
+    - 3997f0ca1f9e6d0e
+  pod: true
+retry:
+  btree: nfs-service
+  vlan:
+    proxy: raid
+    driver:
+      tenant: 937
+      staging: grafana

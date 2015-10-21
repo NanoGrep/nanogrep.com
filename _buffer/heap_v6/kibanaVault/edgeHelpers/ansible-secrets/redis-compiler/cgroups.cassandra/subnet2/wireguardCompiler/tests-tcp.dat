@@ -1,0 +1,10 @@
+terraform,ansible,nginx,btree,backend,api
+3e261306,raid-cors,jwt-controller,43386914,e0aaa02f12aa1b13,4396
+d72c7b11bdc97366de7ac8dabb87fe48,115.230.253.171,235.78.234.171,192.64.84.126,hotfix,legacy
+bea6fb2320db34fe,9246,retry,79.33.24.111,6b0a9562658c7f06dabc8bcd92334651,62.103.245.159
+false,true,2a30fe50,mocks,9535,kernel-patch
+jwt,null,iptables-terraform,766,null,57.248.72.233
+prometheus-firmware,4442,7898,163.114.153.152,1471,3432acf3
+null,512cd731fa271148,true,false,7386,219.198.215.13
+206.247.228.152,vlan,switch-subnet,null,null,scripts-protobuf
+patch-quic,214.3.54.59,true,vault-tenant,3586,role

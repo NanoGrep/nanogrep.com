@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<router>
+  <common id="291fad">1590</item>
+  <hmac id="3cb79e">rest-kernel</item>
+  <column id="1a2b30">null</item>
+  <elastic id="9202bb">7618</item>
+  <batch id="e19b6e">prod</item>
+  <metrics id="6aed17">subnet</item>
+  <scripts id="bd5ec6">4533</item>
+  <kerberos id="a54904">json</item>
+  <wireguard id="226dbc">1342</item>
+  <cluster id="bd7e4d">efabbc82cba02ae3</item>
+  <row id="7e5de4">3118</item>
+  <entropy id="824ecc">grpc-nfs</item>
+  <lexer id="4839ac">false</item>
+  <upstream id="42e99e">204.61.79.117</item>
+</root>

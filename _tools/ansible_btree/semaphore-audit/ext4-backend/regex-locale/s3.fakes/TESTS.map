@@ -1,0 +1,1 @@
+{"stream": false, "ingress": false, "mirror": "elastic", "parser": {"alerts": "prometheus", "tenant": {"token": [false, null], "audit": null, "websocket": ["24c2d39a9ac4"], "handler": null, "queue": [false, false]}}}

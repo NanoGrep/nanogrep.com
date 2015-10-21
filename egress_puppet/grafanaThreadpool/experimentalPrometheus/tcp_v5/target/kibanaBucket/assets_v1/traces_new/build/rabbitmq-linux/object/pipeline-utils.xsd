@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<nfs>
+  <controller id="5eea30">244.42.245.98</item>
+  <mysql id="5abc86">middleware</item>
+  <nightly id="ef0e96">c43e7b04</item>
+  <redis id="b9f317">release-dhcp</item>
+  <node id="99f0dd">5746636f48d74463</item>
+  <rsa id="c101b1">mirror</item>
+  <user id="18fa65">7eea5be586156db4</item>
+  <zfs id="bbd66a">6546103c24fb3a1c71c1b9693392eeb8</item>
+  <core id="a99533">mesh-worker</item>
+  <session id="ba5b0b">false</item>
+  <api id="5160e4">9936</item>
+  <hmac id="501610">false</item>
+  <mqtt id="d2e103">true</item>
+</root>

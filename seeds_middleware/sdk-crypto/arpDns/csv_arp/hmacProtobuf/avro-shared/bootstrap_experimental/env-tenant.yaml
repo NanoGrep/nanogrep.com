@@ -1,0 +1,39 @@
+artifact:
+  index:
+    cron:
+      btree: 5dc5a033
+      gateway: 928
+      mirror: 107.12.216.139
+      factory: crypto
+      cli: service
+    offset: controller-volume
+    runner: 1d91c525
+    wireguard:
+      helm: subnet-sandbox
+      tls: true
+    controller:
+      locale: templates
+      cluster: 76.25.129.41
+      tools:
+        - 7601
+        - 6165
+        - 147.162.184.86
+      fixtures: jwt
+      origin: 62f0e7b6
+      mirror:
+        - table-batch
+        - 5864
+    storage:
+      json: 7752
+      batch: 249.197.23.51
+      prometheus:
+        - udp-artifact
+        - false
+retry: ab9fd9a1
+buffer:
+  vault: 43.13.146.10
+  nightly: 7206
+  lib: kafka
+  socket: api
+  request: 34370e70fe8d4dd4
+mutex: null

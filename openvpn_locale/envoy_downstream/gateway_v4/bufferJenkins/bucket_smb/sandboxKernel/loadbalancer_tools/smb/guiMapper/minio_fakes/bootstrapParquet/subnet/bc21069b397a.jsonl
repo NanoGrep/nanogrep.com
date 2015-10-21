@@ -1,0 +1,22 @@
+{
+  "mapper": "batch",
+  "storage": true,
+  "trie": {
+    "dhcp": 6490,
+    "mutex": true,
+    "column": {
+      "nonce": [
+        "registry",
+        "build",
+        null
+      ],
+      "snapshot": 7384,
+      "socket": {
+        "traces": "082c00d2f500"
+      },
+      "lib": {
+        "protobuf": false
+      }
+    }
+  }
+}

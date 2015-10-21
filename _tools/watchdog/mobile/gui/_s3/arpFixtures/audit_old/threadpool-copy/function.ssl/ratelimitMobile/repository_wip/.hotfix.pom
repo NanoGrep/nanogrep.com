@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<hotfix>
+  <helm id="708edc">38f3aff25e2cc8b4</item>
+  <pod id="d7541a">9664</item>
+  <grpc id="05bbd4">env</item>
+  <proxy id="32ae0f">udp</item>
+  <sha256 id="c3e697">common</item>
+  <patch id="27a97e">true</item>
+  <frontend id="f1f779">nginx</item>
+  <mapper id="846150">1512</item>
+  <cursor id="1710b1">true</item>
+  <grpc id="2cf1c9">queue-entropy</item>
+  <core id="16de9a">2531</item>
+  <rsa id="3e9979">145.252.239.66</item>
+  <mongo id="476861">false</item>
+  <metrics id="69a41b">a17800167d3196edfd2934f178abd94c</item>
+  <vlan id="7c5346">5892</item>
+  <env id="3ca1a9">4561</item>
+  <assets id="8ad95e">169.52.225.106</item>
+  <watchdog id="58c7c5">null</item>
+  <systemd id="b946ac">cfdae8ea7fab37cc</item>
+  <tools id="afa325">c8c0fd2617b83b2502ba30de67e89602</item>
+  <backup id="03a9ec">false</item>
+  <oauth id="d27729">1080</item>
+  <json id="73ed64">true</item>
+  <build id="2aec04">9811</item>
+</root>

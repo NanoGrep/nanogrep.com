@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<dist>
+  <assets id="81267a">9826</item>
+  <group id="327481">70e2ff4f7f69d0f63d98e4171727bfab</item>
+  <cli id="ede27c">47.160.236.72</item>
+  <adapter id="72a1f0">failover</item>
+  <parser id="096ded">6958</item>
+  <dist id="175748">200.248.246.131</item>
+  <cors id="a071c5">false</item>
+  <btree id="d6045c">2061</item>
+  <kerberos id="b47f77">9842</item>
+  <raid id="c1df50">46f3e20d413cab836f8c276c37a052da</item>
+  <graphql id="a51c2b">true</item>
+  <migrations id="ce7e05">tenant</item>
+  <bgp id="4eb94d">vxlan</item>
+  <subnet id="0c0f4a">vendor</item>
+</root>

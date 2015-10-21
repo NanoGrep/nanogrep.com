@@ -1,0 +1,30 @@
+mocks: 6.127.140.147
+ingress:
+  middleware: rest
+  nfs:
+    cookie: true
+    prometheus: 80.221.69.172
+    assets: 1920
+    fixtures:
+      - true
+      - 203.96.131.44
+      - tenant-threadpool
+    sandbox:
+      - scripts
+  grafana: rsa-zfs
+  cursor:
+    mapper:
+      stream:
+        - traces
+        - 244.154.78.86
+        - queue
+      sdk: 9842
+    mocks: 61.187.3.162
+    shard:
+      - topic-crypto
+      - table-grpc
+    mesh: true
+nat: null
+kafka: 192.246.180.253
+jenkins: 138.93.212.137
+lexer: 156.52.24.39

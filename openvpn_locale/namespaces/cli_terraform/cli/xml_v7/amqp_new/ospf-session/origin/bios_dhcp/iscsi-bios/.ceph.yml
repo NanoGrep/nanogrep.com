@@ -1,0 +1,46 @@
+canary:
+  daemon:
+    bgp: e9b86cbb42bf7c50
+    cluster: 4351
+    tcp:
+      - 213
+      - loader-udp
+    helm:
+      elastic: 110.210.242.42
+      core: 140.156.242.16
+      api:
+        - heap-hashmap
+      mirror: 94.211.109.28
+      artifact: true
+      role:
+        - ldap-pipeline
+        - null
+        - metrics-dhcp
+    btree: helm-response
+  vlan:
+    - mesh-tcp
+    - c89dab26bc664f5638c7ac61528651b9
+    - true
+  wireguard:
+    vxlan:
+      - null
+      - router
+      - cors
+      - 2179
+  prometheus: 7004
+tools: vlan
+metrics:
+  jwt: 217.30.42.191
+  protobuf: 9276
+nightly:
+  response: mapper
+  parser: 124.194.19.61
+  coroutine:
+    cgroups: switch
+  metrics: null
+  udp:
+    crypto: a04f1fe82899b80d25dd09fe51afd1d2
+    mapper: c0c350d6
+    trie: tls-vlan
+  watchdog: graphql-salt
+hmac: 6358

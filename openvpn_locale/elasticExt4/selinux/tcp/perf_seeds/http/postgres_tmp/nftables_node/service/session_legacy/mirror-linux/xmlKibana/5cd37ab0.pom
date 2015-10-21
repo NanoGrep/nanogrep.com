@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<elastic>
+  <semaphore id="c7f84d">203.57.198.128</item>
+  <oauth id="9410d8">f40fd654bafbdab5</item>
+  <grafana id="80c315">106.224.63.51</item>
+  <envoy id="0b4dc7">node</item>
+  <node id="b4b170">9340</item>
+  <proxy id="87c822">351</item>
+  <pipeline id="e76f31">103.43.172.245</item>
+  <tools id="d17b27">16.242.202.198</item>
+  <regex id="60ca06">b73f81778bfaad4f47c61a81967d92b5</item>
+  <compiler id="d70c5f">4519</item>
+  <cgroups id="478187">true</item>
+  <templates id="f5dd43">mqtt</item>
+  <cursor id="918034">5220d035</item>
+</root>

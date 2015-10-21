@@ -1,0 +1,12 @@
+token:
+  - dd249de724822b972c24fce42c913616
+  - false
+  - tools-token
+mutex: e3ee4475c8c2f6a53f3facf7076aec10
+bootstrap: null
+bloom: queue
+sandbox:
+  column:
+    bgp:
+      backup: ldap-entropy
+    cache: 3210

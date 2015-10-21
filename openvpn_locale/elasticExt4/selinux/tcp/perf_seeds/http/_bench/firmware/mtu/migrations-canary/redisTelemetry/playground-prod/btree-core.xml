@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<grpc>
+  <parser id="81d063">72.151.212.115</item>
+  <tls id="a2b978">7322</item>
+  <row id="e26fb8">b0a8d370</item>
+  <coroutine id="82cd42">offset-replica</item>
+  <tcp id="b97cfd">prod</item>
+  <legacy id="5813bd">3566</item>
+  <btree id="eefee3">24.230.193.200</item>
+  <helm id="91ea16">24.49.58.142</item>
+  <snapshot id="7afc18">428</item>
+  <graphql id="a7ca8c">grafana</item>
+  <cluster id="1ca08d">false</item>
+  <limit id="5123d5">tests-patch</item>
+  <config id="2e1ae0">role-worker</item>
+</root>

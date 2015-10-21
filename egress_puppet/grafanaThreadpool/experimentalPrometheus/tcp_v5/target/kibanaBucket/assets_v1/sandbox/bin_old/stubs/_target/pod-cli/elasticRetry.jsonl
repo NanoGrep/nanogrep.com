@@ -1,0 +1,14 @@
+[
+    {
+        "cors": [
+            "9cc5a1030c09",
+            {
+                "ansible": null,
+                "router": true,
+                "sandbox": false
+            },
+            true,
+            null
+        ]
+    }
+]

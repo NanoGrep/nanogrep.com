@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<retry>
+  <upstream id="d37710">f4789da0</item>
+  <zfs id="2ef3b3">true</item>
+  <audit id="bc7fa5">stream</item>
+  <sandbox id="053c02">false</item>
+  <proxy id="a4a992">false</item>
+  <mqtt id="8bae0c">7956</item>
+</root>

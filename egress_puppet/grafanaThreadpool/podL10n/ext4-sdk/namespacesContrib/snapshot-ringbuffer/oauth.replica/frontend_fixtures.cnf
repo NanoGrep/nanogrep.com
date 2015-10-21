@@ -1,0 +1,42 @@
+[nat]
+testspostgres = 209.47.64.93
+canary_scripts = 212.63.6.238
+cryptokerberos = cookie-index
+fuzz_index = dns
+threadpool.systemd = templates-pod
+role.helpers = null
+origin_udp = helpers-stack
+wireguard.controller = b1d38fa26b54f6968afe7526ffb20c2d
+heapcookie = 62.147.46.180
+
+[offset]
+patch_mapper = 2f82934e
+terraformmigrations = mirror-worker
+mysql.rest = 9911
+triecli = null
+
+[lambda]
+legacydriver = parser
+dns_nightly = 5220
+token_failover = 2095
+
+[controller]
+common.iptables = locale-mapper
+sessionwireguard = false
+storagevolume = true
+shard_ldap = 9744
+meshcursor = controller
+prod_socket = buffer-dhcp
+parser.index = row-tests
+replicacors = table-helpers
+tabletls = true
+udp.mirror = true
+middlewareldap = true
+cookienginx = 3729
+tokenhelm = 111.61.56.153
+utils_mocks = socket
+certlambda = false
+rest.cert = nonce
+regex_registry = 94.10.71.82
+envoytests = 7531
+protobufmongo = 3806

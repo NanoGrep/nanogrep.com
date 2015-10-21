@@ -1,0 +1,25 @@
+lambda: 7981
+threadpool: role-buffer
+watchdog:
+  ldap: 1599
+  yaml: role
+  raid:
+    mocks:
+      canary:
+        - 3356
+      scripts: driver-registry
+      factory: 9678a06df94dde52
+      prod: true
+      tests: origin
+    terraform:
+      utils: controller-common
+    mirror:
+      cors: 3926
+      alerts:
+        - 3340
+        - 5007
+        - oauth-raid
+        - 1.240.137.42
+    gateway:
+      buffer: router
+    runner: true

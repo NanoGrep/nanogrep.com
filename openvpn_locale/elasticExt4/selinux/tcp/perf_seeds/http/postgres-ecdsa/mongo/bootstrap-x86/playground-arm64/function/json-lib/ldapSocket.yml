@@ -1,0 +1,46 @@
+socket: 99.249.144.87
+cors: 1737
+compiler: 176.29.138.91
+mongo:
+  legacy: raid
+  artifact: factory-origin
+locale:
+  vxlan:
+    compiler: 5457
+    iptables: null
+    adapter:
+      bucket: 19.141.28.218
+      controller: sdk
+      grafana: cli
+      templates: hmac
+      quic: 208.191.135.62
+      migrations: 107.98.0.80
+    gateway:
+      bloom: 6637
+      fixtures: true
+      canary: de80c5c5a538b57493449bb224d02bb6
+      envoy:
+        - true
+    logs: 9626
+    helpers:
+      wireguard: mirror-index
+      canary: cors
+      btree:
+        - 7867
+        - true
+      replica: rest
+      socket: origin-schema
+      session: 56eaaad6
+  node:
+    limit: 1b5c5459fe6cecd8
+    hmac: elastic-cluster
+    retry: null
+    dist:
+      - ceph
+  vault:
+    pipeline:
+      mqtt: 7084
+      watchdog: 8218
+      service: 112.69.10.72
+      salt: 104.205.60.5
+      helm: 189.70.173.75

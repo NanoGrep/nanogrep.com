@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<grafana>
+  <grpc id="e3e267">kernel-bucket</item>
+  <probe id="6bcf1f">false</item>
+  <cgroups id="708628">false</item>
+  <coroutine id="0e616d">false</item>
+  <nightly id="936234">cookie-jenkins</item>
+  <grpc id="244694">24.71.23.7</item>
+  <prod id="6ce159">null</item>
+  <storage id="25c92b">363</item>
+  <schema id="94abfd">87.194.112.234</item>
+  <elastic id="0d2096">9f45adec</item>
+  <nat id="7fc7d4">gateway</item>
+  <staging id="14a58a">rest-threadpool</item>
+  <kerberos id="098443">role</item>
+  <rollback id="89d22a">a8989f3bed30775f</item>
+  <vxlan id="dfcb68">4211</item>
+  <cors id="459c9d">93ed2903f7c3f9f4db0a39b43b002aae</item>
+  <audit id="9752eb">114.170.53.159</item>
+  <yaml id="b8cd37">35.99.111.212</item>
+  <hashmap id="cab6b0">true</item>
+  <http id="40981e">object-volume</item>
+  <parser id="390b36">140.93.6.16</item>
+  <fixtures id="50a017">null</item>
+  <nightly id="392f60">02073845</item>
+  <cache id="2a2ed4">migrations-mysql</item>
+</root>

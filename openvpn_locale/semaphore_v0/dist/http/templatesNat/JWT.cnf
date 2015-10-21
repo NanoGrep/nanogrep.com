@@ -1,0 +1,88 @@
+[adapter]
+semaphore.table = 4992
+alerts_api = e282dad583f64fc697c42ad9972d3406
+ldap_api = 9086
+offsetgrafana = fc77ab14
+servicebeta = 20.103.218.32
+audit_cron = 9318
+terraform_ingress = 170.141.22.94
+replicalocale = 27e46b6e9716734d
+switch.graphql = false
+release.systemd = index-factory
+mesh_pipeline = replica-locale
+proxy_zfs = 7451
+session.group = false
+frontend.protobuf = 130
+bench_nat = 5090de9d3da30f923739bcb45e086b93
+policy.dist = null
+sha256.index = a8386390
+protobuf.audit = compiler-assets
+cryptotoken = coroutine
+coredaemon = origin
+entropy_frontend = 8cb7509e
+sandbox_hmac = 200.201.143.230
+semaphore_entropy = bucket
+rowelastic = 4772
+terraform.factory = policy
+fixtures_watchdog = 4441
+helmgateway = 0e75792e
+terraformbeta = 6707
+mappertools = e57de6a0
+
+[sha256]
+indexcursor = null
+templates_hashmap = 3.38.36.112
+cephraid = 3541
+
+[firewall]
+pod_payload = 134.166.119.76
+tenant_migrations = pod
+cookiequic = 684
+api_locale = table-middleware
+traces.switch = 7332
+graphql.offset = 68.115.105.150
+mapper.node = release-crypto
+noncetemplates = 6.96.23.34
+nfs_kafka = true
+ansibleyaml = 175.8.26.1
+switch_mocks = 6189
+rolevxlan = logs
+registry_jenkins = driver-backup
+firewall.kernel = 176.112.250.76
+zfs_artifact = false
+quic.redis = redis
+frontend_controller = 7824
+localemetrics = rsa
+
+[loader]
+sha256.table = null
+mqtt_ansible = null
+lexerpostgres = false
+json_envoy = null
+utils.http = 1104
+patch_kerberos = policy-mutex
+vlan_request = firewall-firewall
+parser.grpc = 202.56.177.42
+
+[trie]
+systemd_btree = null
+cron.crypto = 0acb3fdc0f1b17be
+dhcpstack = 61.79.233.159
+lambda.driver = 6907
+firewall.vault = 126.9.105.186
+frontend_mesh = true
+staging.mongo = controller-mongo
+nonceldap = 60.54.162.67
+watchdog.staging = 4e372f48d9bf84e0
+lexersystemd = semaphore
+common_ansible = 209.11.190.43
+bloom_prometheus = api-sandbox
+mappersemaphore = null
+websocketswitch = stack-nfs
+dnshotfix = 7fd5dcb9
+payload_aes = null
+cliwebsocket = 132.195.22.211
+tablersa = true
+quic.api = gateway
+tests.gateway = false
+watchdog_mesh = grpc

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<mongo>
+  <coroutine id="500f57">dede202b</item>
+  <envoy id="ff70d0">3a30cd3bdf36dafd</item>
+  <metrics id="180eb5">acd46e5494f9ef14</item>
+  <vxlan id="6e8739">batch-terraform</item>
+  <http id="7cc68b">4497</item>
+  <coroutine id="2148ca">760</item>
+  <dns id="6c3257">6874</item>
+  <sha256 id="5cc56f">452fcb06a2fa7e5e064c1ffa96c7dfa1</item>
+  <mqtt id="480161">fuzz-fuzz</item>
+  <pipeline id="1072f4">1756</item>
+  <trie id="2fa0a1">null</item>
+  <cache id="1aa4fe">vlan-request</item>
+  <elastic id="3a90ef">ffbc0d3a7bc1b30e9739dd6b98fda490</item>
+  <retry id="f4baa0">policy</item>
+  <jenkins id="f6ae13">false</item>
+  <cors id="68f210">tools-systemd</item>
+  <config id="b506c2">cursor</item>
+  <rest id="40a862">metrics</item>
+  <firewall id="6846f6">f4c03a2d7b71cf13</item>
+</root>

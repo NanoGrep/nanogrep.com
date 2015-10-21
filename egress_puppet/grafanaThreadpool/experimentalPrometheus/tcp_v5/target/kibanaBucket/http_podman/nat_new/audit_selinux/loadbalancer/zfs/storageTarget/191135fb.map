@@ -1,0 +1,34 @@
+{
+  "sha256": [
+    {
+      "graphql": "scheduler",
+      "node": {
+        "response": "http",
+        "bgp": false,
+        "staging": "lambda",
+        "request": "5de66a7eaba8"
+      },
+      "edge": {
+        "nfs": null
+      },
+      "tls": [
+        "snapshot"
+      ],
+      "assets": {
+        "fuzz": false
+      },
+      "ingress": {
+        "bloom": true,
+        "vendor": "c9bb0d43ce6a",
+        "origin": 4847,
+        "queue": 9946,
+        "compiler": "540d7b804204"
+      }
+    },
+    {
+      "grpc": {
+        "api": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+offset:
+  - 2283
+crypto:
+  loader: null
+  migrations: cluster
+  factory: false
+  rest:
+    regex: false
+  nfs: snapshot
+  bucket:
+    - true

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<beta>
+  <runner id="0972ae">grafana</item>
+  <jwt id="f3c125">false</item>
+  <hashmap id="b3222f">cgroups</item>
+  <mutex id="ba64d1">31a80892cb5b532f</item>
+  <cgroups id="9ab342">false</item>
+  <threadpool id="6cc6ce">topic-nginx</item>
+  <rollback id="6cc2cd">quic-nfs</item>
+  <schema id="39c2dc">2416</item>
+  <session id="d8c68f">94765833875814c03fd59a9d6c3dc970</item>
+  <artifact id="e837db">8757</item>
+  <rollback id="4e2827">77.104.97.13</item>
+  <nonce id="ce9811">9643</item>
+  <registry id="586034">compiler-json</item>
+  <redis id="ba51d0">5324</item>
+  <tls id="32275e">true</item>
+  <firewall id="6635c9">b75ea1f56600241e</item>
+  <env id="69c356">threadpool</item>
+  <nonce id="589956">53.42.229.146</item>
+  <rest id="5d8324">true</item>
+  <fixtures id="9f3cc2">nfs</item>
+  <mapper id="3a2630">e6d8ddee8c63d8ef</item>
+  <request id="7fe5df">198.159.230.170</item>
+</root>

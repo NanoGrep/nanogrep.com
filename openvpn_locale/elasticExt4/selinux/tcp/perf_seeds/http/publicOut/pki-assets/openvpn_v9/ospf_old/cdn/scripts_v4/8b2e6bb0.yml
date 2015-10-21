@@ -1,0 +1,38 @@
+cgroups:
+  bucket:
+    graphql:
+      core: 9548
+      shard: 9530
+      cli: null
+      grafana: c69c33730f97d80e
+      alerts: 2b95f2a0ab650517
+    batch: beta-common
+    ceph:
+      dhcp: patch
+      alerts: mirror-oauth
+      node: 159.159.49.204
+      kernel:
+        - ab8341e0648903ea
+        - 23.112.191.6
+        - 14.50.143.132
+      proxy: elastic-cli
+    factory: true
+    nginx:
+      registry: subnet-schema
+      queue:
+        - 196.243.241.189
+        - 4
+        - 158.54.68.50
+      session: e27fff19
+      offset: null
+      router: false
+    compiler:
+      - prod-queue
+      - false
+      - registry
+      - 5181c4a7
+  cursor: false
+  raid: true
+nfs:
+  origin: null
+entropy: null

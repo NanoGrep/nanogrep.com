@@ -1,0 +1,9 @@
+nat:
+  cert: 9547
+trie: bc023a7146ea0f73
+ingress: staging
+mutex:
+  - true
+  - false
+  - false
+  - 4030

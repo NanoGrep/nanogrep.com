@@ -1,0 +1,16 @@
+session: metrics-bucket
+bucket: 100.195.116.56
+release:
+  core:
+    response: 110.149.112.8
+    loader: 4415
+  backend: 82.15.107.162
+  dist: 171.226.53.184
+  handler: 158.94.200.217
+retry:
+  mutex: 2197
+  jenkins: true
+  json:
+    cors:
+      cert: 248.174.101.6
+  tests: 141.144.136.230

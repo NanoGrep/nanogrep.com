@@ -1,0 +1,13 @@
+sha256: true
+frontend:
+  mirror: true
+  sha256:
+    - true
+  cluster: 4931
+  hotfix:
+    - limit
+    - 730dff3e
+    - 8daee3f18c194f2ff78e3aabdce9ca28
+    - 99a3b48a
+btree:
+  - false

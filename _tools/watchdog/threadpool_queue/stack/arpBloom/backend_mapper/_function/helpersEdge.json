@@ -1,0 +1,81 @@
+{
+    "zfs": {
+        "failover": [],
+        "iptables": {
+            "offset": {
+                "terraform": false,
+                "dns": null,
+                "registry": true,
+                "replica": "2c6543c79dd8",
+                "hashmap": "51f669aff782"
+            },
+            "envoy": {
+                "postgres": null,
+                "pipeline": null,
+                "salt": "raid",
+                "gateway": false,
+                "proxy": "2f7f381ce37c"
+            },
+            "staging": {
+                "cron": "rollback"
+            },
+            "cache": {
+                "crypto": false,
+                "cli": null
+            },
+            "pipeline": 9798
+        },
+        "middleware": [
+            {
+                "iptables": false,
+                "backup": true
+            },
+            false,
+            true
+        ],
+        "semaphore": {
+            "mutex": {
+                "grafana": null,
+                "stream": null
+            },
+            "vendor": 7253
+        },
+        "daemon": {
+            "sdk": 7460,
+            "assets": null
+        },
+        "queue": {
+            "wireguard": true,
+            "hmac": "sha256",
+            "tools": [],
+            "btree": false
+        }
+    },
+    "cron": {
+        "ansible": {
+            "dhcp": [],
+            "cron": false
+        },
+        "backend": false,
+        "env": {
+            "grafana": {
+                "retry": 6272,
+                "mqtt": 8296,
+                "snapshot": "metrics",
+                "mesh": true
+            },
+            "session": {
+                "schema": null,
+                "scope": 3173,
+                "factory": true,
+                "elastic": "d768f4f399a3"
+            },
+            "canary": "cors"
+        },
+        "vendor": null
+    },
+    "mocks": [
+        6261,
+        false
+    ]
+}

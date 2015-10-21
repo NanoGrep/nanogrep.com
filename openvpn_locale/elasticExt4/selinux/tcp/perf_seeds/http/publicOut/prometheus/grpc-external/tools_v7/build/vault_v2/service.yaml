@@ -1,0 +1,19 @@
+rest: tcp-controller
+entropy:
+  - coroutine
+  - 697
+  - null
+env: null
+daemon: pod
+quic: null
+watchdog:
+  token:
+    - 6.37.20.164
+    - d90de353ad8b30c2f8f25b549db30efb
+  cluster: 8361
+  trie:
+    nonce: 79.112.247.58
+    mapper: env-logs
+    scripts: 234.198.24.230
+    ldap: 243.90.234.27
+    jenkins: false

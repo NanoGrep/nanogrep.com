@@ -1,0 +1,21 @@
+[cookie]
+cronbgp = envoy-tcp
+edgeconfig = config
+aestcp = 037c6fb1
+table.oauth = 52b7c4cf44931036ce0aeb32ccde99f3
+bench.vault = 225.221.79.59
+tcpbgp = cors-kafka
+shard.hmac = 2e2697c2
+release_logs = 2.39.59.92
+rest.prometheus = middleware-artifact
+kernelhttp = elastic
+bloomrelease = lambda
+jenkins.prod = middleware
+cursor_mirror = nonce
+kerberos.salt = rsa-cgroups
+mongo_snapshot = 7644
+session.handler = 110.105.18.162
+cgroupsindex = 8786
+hotfix.yaml = 8715
+controller_regex = null
+factorybuffer = 4712

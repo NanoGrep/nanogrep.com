@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<sdk>
+  <rest id="cfcc28">mirror</item>
+  <bucket id="fed7f4">jwt-zfs</item>
+  <dhcp id="8a356c">mqtt-bgp</item>
+  <build id="3d5ba1">rsa-tests</item>
+  <cgroups id="19ae8f">null</item>
+  <patch id="52a346">true</item>
+  <stack id="12066b">97.57.149.20</item>
+  <runner id="6806a8">false</item>
+  <http id="220e75">47.4.199.69</item>
+  <watchdog id="09dce1">audit</item>
+  <origin id="cb18f3">25.163.179.63</item>
+  <node id="aab238">7654</item>
+  <cgroups id="95f535">assets</item>
+  <audit id="c1497d">null</item>
+  <traces id="f692c9">189.126.1.16</item>
+  <probe id="f7e49f">index</item>
+  <index id="4d3179">c8de77c43434df5d</item>
+  <session id="ac182b">oauth</item>
+  <payload id="163731">false</item>
+</root>

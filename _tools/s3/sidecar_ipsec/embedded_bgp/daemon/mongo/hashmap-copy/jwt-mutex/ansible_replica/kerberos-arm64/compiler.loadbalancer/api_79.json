@@ -1,0 +1,21 @@
+[
+  "hashmap",
+  [
+    "d09dea126350",
+    true,
+    {
+      "origin": {
+        "helm": true,
+        "lambda": null,
+        "rollback": 4537,
+        "helpers": "mutex"
+      },
+      "ldap": [
+        true,
+        false,
+        "fc11f570a607",
+        null
+      ]
+    }
+  ]
+]

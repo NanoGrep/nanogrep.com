@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rsa>
+  <templates id="471420">5136</item>
+  <vxlan id="c94deb">daemon-raid</item>
+  <dhcp id="fe67e1">wireguard</item>
+  <failover id="fed6c8">coroutine</item>
+  <row id="ab25de">true</item>
+  <artifact id="78148c">9778fe6be261fb906ce6a249577c5d4b</item>
+  <middleware id="43e999">2b89def3</item>
+  <cert id="febd66">null</item>
+  <daemon id="5cff67">wireguard-sdk</item>
+  <traces id="d2be7b">708</item>
+  <alerts id="a1d270">nonce-kerberos</item>
+  <aes id="b1c81d">6634</item>
+  <queue id="eaffe9">ldap-core</item>
+  <graphql id="3e223a">tcp-registry</item>
+  <tools id="8e3342">bgp</item>
+</root>

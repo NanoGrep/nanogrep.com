@@ -1,0 +1,27 @@
+retry: origin
+nonce: null
+artifact: sdk
+vxlan:
+  - node
+  - 167.74.145.139
+retry: 145.206.238.82
+scripts:
+  cache:
+    - session
+    - 4952
+    - salt-zfs
+    - 1421
+  mutex:
+    - 5815
+    - payload-logs
+  yaml: true
+  mongo:
+    payload:
+      vault: f5c8d713b7eccb11f8735a51b60c8311
+      kerberos:
+        - 06cb3362fd8445d70ac5be78ea5f1947
+      payload: 9154
+      backup: 7474
+    node: 4604
+    sdk: null
+    fixtures: 23.237.50.4

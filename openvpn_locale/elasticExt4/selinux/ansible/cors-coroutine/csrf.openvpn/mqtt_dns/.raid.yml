@@ -1,0 +1,52 @@
+lexer: trie-envoy
+loader:
+  - false
+  - true
+  - 5d72fe14f84278b5b6262354861d43df
+  - 2514
+mesh:
+  socket: gateway-beta
+  config:
+    - 80.39.193.5
+  adapter:
+    cache:
+      user: offset
+      helpers:
+        - false
+        - vendor-zfs
+        - 66bdf0dae8f52642fc5e6773d732e25c
+      scripts: 6975
+      nonce: false
+      cert: envoy
+      nfs: session
+    rest: node-postgres
+    role:
+      assets: 126.167.108.39
+    kafka:
+      build: true
+      snapshot: nginx
+      queue: metrics
+      vault: true
+    controller: sandbox-pod
+    artifact: true
+  vendor: middleware-bucket
+assets:
+  - 248.165.139.89
+  - e874b8d4c1ba4f5d
+  - true
+  - true
+retry:
+  pipeline:
+    - 22.68.117.76
+    - true
+    - cursor
+    - null
+  nightly: true
+  tenant: 4710
+  table: 6699
+  mapper: 37.196.217.239
+  node:
+    - offset-switch
+    - 60
+    - af904239328cae9afb7835264a9dda6b
+    - 2bd5d1e8b2f9efa5

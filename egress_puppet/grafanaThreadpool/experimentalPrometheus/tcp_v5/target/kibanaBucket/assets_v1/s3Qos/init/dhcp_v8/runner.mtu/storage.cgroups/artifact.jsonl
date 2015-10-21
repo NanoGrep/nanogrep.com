@@ -1,0 +1,23 @@
+[
+  {
+    "nat": "mqtt",
+    "fuzz": {
+      "service": "ddb4dd7c4ad5",
+      "http": "a62363163db3",
+      "rest": null,
+      "canary": 2000,
+      "migrations": {
+        "prod": "canary",
+        "mongo": "598d3d34cd47",
+        "jwt": false,
+        "protobuf": "factory"
+      }
+    },
+    "vlan": [
+      false
+    ],
+    "hotfix": true,
+    "adapter": null,
+    "socket": "b683639bf541"
+  }
+]

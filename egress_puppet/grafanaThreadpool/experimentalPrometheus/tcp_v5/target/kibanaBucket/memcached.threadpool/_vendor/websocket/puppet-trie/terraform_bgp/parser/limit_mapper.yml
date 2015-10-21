@@ -1,0 +1,44 @@
+daemon: 1802
+mongo: cache
+sha256: migrations
+controller:
+  scripts: 5303fba4538ff945
+  pod: mirror-tenant
+  node: switch-grafana
+  rest:
+    jwt:
+      lexer: 3437dcff
+      mutex:
+        - 32.130.29.53
+        - 1892
+        - quic-router
+      tools: cb64133fa607212d0c5a252cb8b61307
+    factory:
+      index: b3ab4e69
+      regex: watchdog
+      replica: null
+      traces:
+        - null
+        - 640
+        - dist-threadpool
+      cors:
+        - crypto-mysql
+        - 3895
+      hashmap: 7692
+    envoy:
+      heap: threadpool-switch
+      http: null
+    subnet:
+      - 4002
+      - e0a6a1aa4d243862
+      - sdk-tests
+    mocks:
+      index: 160.96.234.56
+      coroutine: limit
+      dhcp: 72.71.152.115
+      nat: 5b706457
+  jenkins: envoy
+  socket: 3dc4a0dcc7ea1f71
+helm:
+  scheduler: stack-oauth
+  replica: legacy-regex

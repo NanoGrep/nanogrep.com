@@ -1,0 +1,11 @@
+dns: mysql
+vlan: switch-node
+bucket: 18f4b6ac3d8c705b
+cgroups:
+  mongo:
+    elastic: udp-index
+    bootstrap:
+      - 139.57.75.96
+    audit: vault-lambda
+  sandbox: 117.91.97.231
+scope: 4670

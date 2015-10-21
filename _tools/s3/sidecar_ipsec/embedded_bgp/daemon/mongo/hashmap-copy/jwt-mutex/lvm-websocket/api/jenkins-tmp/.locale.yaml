@@ -1,0 +1,17 @@
+adapter:
+  dns: factory
+  audit: null
+  vxlan: 37.206.193.169
+  rollback: b4676dc0
+  threadpool: nfs-edge
+snapshot:
+  daemon: 8351
+  lambda:
+    service:
+      metrics: quic-mqtt
+    zfs: beta
+    rsa: 129.184.219.178
+    subnet: 171.158.80.194
+    traces: 1bd797474d006dd6
+rest: hotfix-prometheus
+shard: true

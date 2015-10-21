@@ -1,0 +1,26 @@
+sdk: legacy
+terraform: 3375
+threadpool:
+  watchdog:
+    - 2122
+    - 53b0fe8687a433f3bf95ea94dcb61f4f
+    - 83174e7ca998b275bf9ecd4d7f4d89ac
+  tcp:
+    response: cd8bf10dfe8ddcf1
+    mapper: rest-stack
+    cors:
+      http: 222.45.183.131
+      compiler: 46.230.96.27
+      btree: parser-nat
+      bloom:
+        - firmware
+        - nfs
+        - 7f7090ce00bdd6b0d7a98ee2891a9f1b
+      yaml: controller-tcp
+      table: 87637375
+    zfs: null
+  policy: config-regex
+  offset: 5484
+  edge: 205.149.191.249
+common:
+  user: false

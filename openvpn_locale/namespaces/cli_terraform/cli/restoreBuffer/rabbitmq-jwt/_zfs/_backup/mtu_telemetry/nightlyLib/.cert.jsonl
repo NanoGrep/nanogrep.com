@@ -1,0 +1,49 @@
+{
+  "udp": [
+    {
+      "audit": [
+        3028,
+        false,
+        "0189891c0800",
+        null
+      ],
+      "jenkins": [
+        "watchdog"
+      ],
+      "middleware": {
+        "sdk": null,
+        "core": false
+      },
+      "envoy": {
+        "mutex": true,
+        "sdk": "23f40a6b2bcf",
+        "tcp": "16c9270f8615"
+      },
+      "oauth": {
+        "terraform": "ab9b92637a77",
+        "jenkins": null,
+        "stream": 2354,
+        "alerts": "22ede0c70646",
+        "rollback": "cda6c8e7ea4c",
+        "scope": "mongo"
+      }
+    }
+  ],
+  "session": {
+    "lexer": "service",
+    "crypto": null,
+    "udp": {
+      "tls": "696046953b65",
+      "artifact": {
+        "edge": "fa730d718bc2",
+        "assets": true,
+        "tenant": "c9419eb6e5dc",
+        "entropy": true,
+        "templates": "a2db0321bb3d",
+        "vault": true
+      }
+    },
+    "cli": null
+  },
+  "factory": []
+}

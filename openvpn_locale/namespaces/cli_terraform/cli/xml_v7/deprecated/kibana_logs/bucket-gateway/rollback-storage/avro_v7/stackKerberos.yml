@@ -1,0 +1,28 @@
+pod: 11.156.206.150
+storage: scope-router
+service:
+  regex: 90.117.93.148
+  kerberos:
+    - null
+  dist:
+    sdk:
+      tools: metrics
+      ansible: false
+      bootstrap: bfa6b0f2fbe5ebdb2aefcd32ae4c5833
+      middleware: 215.10.14.219
+    socket:
+      topic: hmac-watchdog
+    mirror:
+      token: true
+      dns: scheduler
+    traces:
+      lexer: logs
+      service: tools-rest
+      nonce: false
+      trie: false
+    queue: true
+    canary: 223.171.161.240
+  websocket: yaml
+  backend: 156.246.163.105
+migrations:
+  - 8324

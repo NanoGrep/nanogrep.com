@@ -1,0 +1,9 @@
+daemon: null
+terraform: 103.208.197.243
+protobuf: handler-lambda
+websocket:
+  stream: 4813
+  trie: false
+  config:
+    - 215.212.57.247
+  edge: 200.214.127.19

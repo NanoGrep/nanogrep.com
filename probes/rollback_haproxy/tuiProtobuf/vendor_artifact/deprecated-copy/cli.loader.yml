@@ -1,0 +1,10 @@
+ldap: 2823
+limit: 84.230.17.212
+json: false
+response: 8113
+regex:
+  - null
+  - 119.143.58.205
+  - 8724
+  - true
+wireguard: 13313332

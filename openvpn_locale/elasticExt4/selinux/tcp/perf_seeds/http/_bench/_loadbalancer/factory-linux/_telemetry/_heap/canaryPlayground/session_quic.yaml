@@ -1,0 +1,67 @@
+core:
+  heap:
+    cors: 242.191.254.53
+    shard: 517
+    envoy: 177.164.66.160
+    coroutine: trie
+    yaml: 2111
+    role: 197.230.201.13
+  hotfix:
+    threadpool: 1016
+    daemon:
+      protobuf: row
+      node: adc0e2b7
+      vendor: 7
+      bench: 4123
+      trie: 9806
+  role: kafka-cert
+  origin: cors
+  runner: 21.82.222.233
+  tcp: true
+tools:
+  mapper: registry
+  nfs: true
+  mutex: router
+  nginx:
+    build:
+      stack:
+        - true
+        - fixtures-build
+        - false
+        - 33.33.219.182
+      object:
+        - 30ed17a5
+        - nginx
+        - 7967
+  replica: 6744
+dist:
+  heap: 202.122.239.16
+  rollback: 48.222.114.213
+  iptables: false
+  nightly:
+    node:
+      proxy:
+        - vlan-runner
+        - 14.77.238.113
+      semaphore: hashmap-middleware
+      artifact: ansible-lambda
+      probe:
+        - 220.210.230.205
+    subnet: 6bf79d01
+    buffer:
+      - object-compiler
+      - a9b7349c9e748c0f532226bb1deadfaa
+      - envoy
+      - 258afe50
+    rest: 133.136.138.208
+  terraform:
+    limit: watchdog-user
+    heap: node-nonce
+    tests:
+      artifact: false
+      limit: watchdog-upstream
+    prod: fuzz
+    fuzz: schema
+    service:
+      sdk: 180.248.115.122
+      subnet: response-mirror

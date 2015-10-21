@@ -1,0 +1,46 @@
+policy: 4512
+rest: false
+tests:
+  cache: mocks-logs
+  staging:
+    failover: false
+    edge:
+      failover: 82.236.166.74
+      assets: 210.229.62.149
+      assets: stream
+      loader: 57.254.80.21
+    assets: null
+    sdk:
+      - node-retry
+      - service
+      - 3a9ea383db962d3c8313dcb037a1aa13
+      - dhcp-index
+    buffer:
+      traces: tenant-tcp
+      cli: 200.66.32.23
+      sdk: 2427
+    controller:
+      nginx: 2631
+      release: 207b64c0608413600826a83914a2c2ae
+      env: false
+      bootstrap: session-kafka
+      daemon: 7b0c23cf
+      ceph:
+        - 34.69.146.226
+utils:
+  fixtures:
+    bucket:
+      - edge-aes
+      - 120.127.38.126
+      - topic-entropy
+    request: 156.66.177.128
+    websocket:
+      semaphore: 215.198.186.123
+    offset: true
+  legacy:
+    - 483beffe605e57f5
+    - 159.174.248.192
+    - tls-beta
+    - true
+  upstream: rest
+cert: ldap

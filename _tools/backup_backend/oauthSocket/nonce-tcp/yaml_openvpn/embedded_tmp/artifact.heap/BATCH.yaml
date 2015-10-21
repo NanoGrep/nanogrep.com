@@ -1,0 +1,43 @@
+driver:
+  controller: null
+  driver:
+    prometheus: btree-row
+  response: lib-lib
+  cert:
+    index:
+      ceph: true
+      alerts: snapshot
+      terraform: a7800879f1ec3975
+    tenant: 94.212.148.249
+    bloom:
+      socket: 5377
+      compiler:
+        - 74.208.70.54
+        - 56.42.233.210
+        - 8680
+        - cfaadd65
+      middleware: false
+      bootstrap: 137.246.102.25
+      threadpool: true
+      kernel: 222944e6d28e2d05fe484213b7692df7
+    coroutine:
+      - nginx-utils
+    oauth: fixtures-hashmap
+  json:
+    dist:
+      tenant:
+        - pod-canary
+        - null
+        - null
+        - 59.89.103.176
+      handler: 404df946
+      tools: tcp
+      oauth: 6006
+    coroutine:
+      udp:
+        - heap
+        - 37b876fd
+        - origin
+        - faa2def712f36d820c165740d6bc0c77
+jwt:
+  vendor: pipeline-topic

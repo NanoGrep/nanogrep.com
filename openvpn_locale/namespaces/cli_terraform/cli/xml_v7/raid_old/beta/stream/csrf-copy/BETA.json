@@ -1,0 +1,10 @@
+{
+    "user": {
+        "quic": "scheduler"
+    },
+    "replica": "d9053cfb4b0a",
+    "shard": {
+        "mapper": null,
+        "index": null
+    }
+}

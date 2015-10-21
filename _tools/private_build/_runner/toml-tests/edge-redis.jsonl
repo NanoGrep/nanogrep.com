@@ -1,0 +1,133 @@
+{
+  "helpers": [
+    {
+      "failover": null,
+      "traces": 6782,
+      "snapshot": {
+        "jwt": 4831,
+        "mocks": true,
+        "backend": null,
+        "systemd": null,
+        "nonce": "nat"
+      },
+      "role": [
+        "pod"
+      ],
+      "nfs": null
+    },
+    "bench",
+    {
+      "wireguard": {
+        "tcp": "semaphore",
+        "coroutine": true,
+        "rsa": false,
+        "artifact": true,
+        "nfs": null
+      },
+      "api": {
+        "frontend": false,
+        "zfs": "limit",
+        "bench": true,
+        "threadpool": 6906
+      },
+      "snapshot": [
+        3657,
+        "1a21ca18fe05",
+        false
+      ]
+    }
+  ],
+  "core": [
+    {
+      "grpc": null,
+      "middleware": {
+        "factory": "bloom",
+        "trie": true,
+        "artifact": null,
+        "migrations": "iptables",
+        "btree": false
+      }
+    },
+    {
+      "role": {
+        "oauth": "61ccd26f4ee0",
+        "compiler": 1571,
+        "column": "json",
+        "vendor": false
+      }
+    },
+    {
+      "scripts": {
+        "response": null,
+        "grafana": "dd0b8be6e20e"
+      },
+      "nginx": [],
+      "sdk": {
+        "bucket": "73fda815d322",
+        "storage": false,
+        "proxy": true,
+        "bench": null,
+        "stream": "c9203e3e6ece",
+        "mirror": "grpc"
+      },
+      "payload": {
+        "offset": "cookie",
+        "schema": "tools",
+        "request": false,
+        "middleware": "tenant",
+        "templates": "b78f786bb60c"
+      },
+      "buffer": {
+        "dhcp": false,
+        "pipeline": "50dd480def86",
+        "bloom": null,
+        "salt": true
+      },
+      "proxy": []
+    },
+    {
+      "gateway": {
+        "switch": "mocks",
+        "watchdog": false,
+        "grpc": null,
+        "registry": false,
+        "probe": 6953
+      },
+      "alerts": {
+        "lib": "52ca1b3a4f80",
+        "cors": true,
+        "factory": true,
+        "vendor": "1231fe6370d6",
+        "switch": "370f0becf91d",
+        "audit": true
+      },
+      "release": true,
+      "role": [
+        "865d9e079a25"
+      ],
+      "ldap": [
+        null
+      ],
+      "scheduler": "policy"
+    }
+  ],
+  "sha256": {
+    "role": false,
+    "staging": 3580
+  },
+  "env": "elastic",
+  "controller": {
+    "kernel": true,
+    "request": [
+      [
+        "0eb6a7f62d72"
+      ],
+      "af97526f7bdd",
+      {
+        "node": "scheduler"
+      },
+      false
+    ],
+    "api": true
+  }
+}

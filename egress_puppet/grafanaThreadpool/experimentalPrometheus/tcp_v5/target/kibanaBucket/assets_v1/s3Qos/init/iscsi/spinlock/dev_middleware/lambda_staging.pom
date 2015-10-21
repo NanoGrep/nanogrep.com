@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<queue>
+  <watchdog id="a1d586">core-api</item>
+  <schema id="6d9814">5356</item>
+  <watchdog id="01bcc3">5211</item>
+  <zfs id="996329">null</item>
+  <staging id="6d9406">723</item>
+  <zfs id="00a017">3bb7ffa893c713c1</item>
+  <volume id="996ef5">b3b97a62cc1dfcf78b83fc7bec662971</item>
+  <iptables id="bee7db">b20600c4ce3dc6f9</item>
+  <mapper id="c47bd9">edge-table</item>
+  <backend id="164141">false</item>
+  <crypto id="828c75">firmware-helm</item>
+  <helm id="c790b8">30.153.154.8</item>
+  <failover id="3e67a0">null</item>
+  <vxlan id="9ae234">redis</item>
+  <cert id="06d98d">scripts</item>
+  <handler id="563311">5665</item>
+  <mongo id="cb5d27">dd3cda6c</item>
+</root>

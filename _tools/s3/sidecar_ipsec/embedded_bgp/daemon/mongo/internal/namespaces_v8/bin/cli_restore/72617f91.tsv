@@ -1,0 +1,10 @@
+schema,upstream,oauth,jenkins,gateway
+frontend-backup,null,145.148.100.157,7db3f6f1c2e4bd98,7262
+jwt-snapshot,146.145.196.14,56.116.126.35,null,7227
+true,112.247.163.251,cert-grafana,vendor,109.134.137.231
+206.219.217.82,217.97.153.212,58.207.38.112,token,5063
+6592,246.76.135.41,vault-tests,b9a30d1c,6463
+7048,122.15.72.226,20.21.242.23,false,0604d3f0976f57a3
+3814,5a2a203ea49935dcc695b41f6add19ea,frontend,adapter-elastic,oauth
+raid,edge,group,role,assets-cron
+true,1517,2607,fuzz,null

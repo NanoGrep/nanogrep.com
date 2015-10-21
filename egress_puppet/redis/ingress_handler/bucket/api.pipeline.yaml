@@ -1,0 +1,30 @@
+buffer:
+  proxy:
+    cursor: 43.151.230.33
+    vault:
+      envoy: 7996
+      proxy: 64.53.50.233
+    logs:
+      schema: 72268ebe9fdc7679
+      mutex: controller
+      token:
+        - probe-templates
+      registry: probe-watchdog
+      traces: true
+  cgroups: lib
+  tests:
+    bench: 15.127.251.105
+  edge:
+    volume: 144.122.39.157
+    response: 4e23f6cb
+  lexer: 1360
+  stream:
+    - 8124
+    - 178.118.160.69
+kerberos: 134.254.242.74
+cursor: 706
+mirror:
+  artifact: edge
+  upstream: handler-threadpool
+  jwt:
+    - 106.8.244.96

@@ -1,0 +1,17 @@
+batch: 1537
+ceph:
+  build:
+    utils:
+      user: service-rest
+    config:
+      cluster: 129.246.207.220
+      mirror: null
+      sha256: 5eb447b9
+      rest: stack-policy
+      mirror: null
+      buffer: 4158
+    core: zfs-cluster
+    yaml: 177.164.128.126
+daemon: 3263
+salt:
+  cli: 8f579f5f77b86a51

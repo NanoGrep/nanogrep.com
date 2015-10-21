@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "payload": "backup",
+      "node": "socket",
+      "bucket": [
+        "iptables"
+      ],
+      "backup": true,
+      "frontend": {
+        "artifact": false
+      }
+    },
+    {
+      "lib": "shard",
+      "buffer": [
+        null,
+        "dns",
+        8703
+      ],
+      "staging": "bb8a03eb3cb7",
+      "dns": null,
+      "salt": 5351
+    },
+    {
+      "column": "7b3b21840a3c",
+      "batch": {
+        "sha256": "e45ec6d4a49a",
+        "raid": null,
+        "audit": null,
+        "pipeline": true,
+        "dhcp": true
+      },
+      "loader": {
+        "retry": "jwt",
+        "cert": "ad160d1bdbba",
+        "topic": 2145,
+        "stream": "ff4d2a48b068"
+      }
+    },
+    "mesh"
+  ],
+  {
+    "jwt": 6100
+  },
+  {
+    "probe": "da4f2ae865ee",
+    "bench": {
+      "socket": {
+        "zfs": 7724,
+        "request": true,
+        "firewall": "limit"
+      },
+      "tls": "mesh",
+      "retry": null,
+      "cache": 363,
+      "metrics": {
+        "mqtt": 5134,
+        "service": true
+      }
+    }
+  }
+]

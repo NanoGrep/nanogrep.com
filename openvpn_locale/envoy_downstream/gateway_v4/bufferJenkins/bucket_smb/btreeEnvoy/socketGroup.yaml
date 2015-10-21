@@ -1,0 +1,27 @@
+rsa:
+  cron: 2229
+  prometheus: null
+  ansible:
+    router: true
+    buffer: cli-limit
+    vault: 04a3b1343241a23bed71fa0f58ab91a7
+    vlan: http-graphql
+    tests: fixtures
+    quic:
+      sdk: fuzz
+      rest: aae3a561
+  policy: 6740
+redis: 123.107.30.91
+limit: 9787
+sandbox:
+  nat:
+    - 28.160.3.129
+    - btree
+    - 9.68.202.217
+    - f3ab65a644ce43b6
+  stack:
+    firmware: d63f9079
+    watchdog: 181.190.230.39
+    hotfix: 6581
+  api: daemon
+  retry: cursor

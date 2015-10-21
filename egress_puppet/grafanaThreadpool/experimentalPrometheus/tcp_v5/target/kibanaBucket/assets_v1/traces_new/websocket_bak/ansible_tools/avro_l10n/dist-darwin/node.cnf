@@ -1,0 +1,15 @@
+scopesocket: request
+daemon.frontend: false
+cursor_nat: 112.254.122.222
+firmware.schema: raid
+patchmongo: daemon-tests
+build_mocks: mocks
+batch.sandbox: 134.6.21.166
+compiler_compiler: 9c36ea8a50b1d6c2
+driver_socket: 29469d6e358e2981
+oauth.registry: nightly
+cors.nonce: 259
+sdk_fuzz: 182.206.179.71
+patch.cursor: true
+apiloader: utils-rest
+patchhandler: firmware

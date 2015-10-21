@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<storage>
+  <entropy id="199299">318</item>
+  <lexer id="2067ea">21ef82571f9bd75f2799aef316742e62</item>
+  <kafka id="4cbff7">vlan-loader</item>
+  <legacy id="8a3209">70.105.170.107</item>
+  <coroutine id="d44cc3">805f05a3</item>
+  <compiler id="eda615">8315</item>
+  <router id="9b38ea">node-scripts</item>
+  <cors id="9d2c37">firmware-frontend</item>
+  <cgroups id="7a705b">06dc6b1eae429607</item>
+  <yaml id="3256da">0698656cf2e27593</item>
+  <nfs id="4687e0">scripts-nonce</item>
+  <bucket id="d4d228">firmware</item>
+  <alerts id="eaf027">traces-loader</item>
+  <threadpool id="81dc84">false</item>
+  <stack id="fac9a1">31.56.103.49</item>
+  <failover id="200245">8be0f6cc65939796</item>
+  <policy id="73aecb">40ef5b17</item>
+  <mocks id="7990dd">9507</item>
+  <trie id="001e98">141.120.12.209</item>
+  <regex id="e5d06f">null</item>
+  <fuzz id="5c73f6">coroutine-patch</item>
+  <elastic id="8d72dd">d02f909fb3af4ed7563720d9afb7dd2f</item>
+</root>

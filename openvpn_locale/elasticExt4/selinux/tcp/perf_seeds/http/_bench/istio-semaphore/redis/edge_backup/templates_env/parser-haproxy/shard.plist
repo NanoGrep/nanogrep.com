@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<switch>
+  <cursor id="23ea5e">null</item>
+  <ingress id="134771">beta-adapter</item>
+  <protobuf id="7a1311">e936b3c7dd1cc7d2ce84c38215f21ee8</item>
+  <replica id="d5bf24">8241</item>
+  <cgroups id="49bd9c">6407</item>
+  <regex id="4f168c">25704a101e834e0d87a43f54ce491b9f</item>
+  <cluster id="bacaf8">18.215.240.120</item>
+  <scope id="b2ae0b">920b8771</item>
+  <group id="14e2d4">bucket-mapper</item>
+  <ansible id="1bf36f">mesh</item>
+  <payload id="739c8e">2089</item>
+  <pipeline id="d08728">3311</item>
+  <storage id="4e74aa">103.44.9.254</item>
+  <tcp id="203e45">false</item>
+  <kernel id="f03d96">queue</item>
+  <assets id="57aff2">76ee0dd9a1f804e12b86919803fa3767</item>
+  <release id="718a48">93.106.72.209</item>
+  <cursor id="990d5f">ac7a1148</item>
+  <fixtures id="4e7e82">f843612e</item>
+  <vault id="ca4cd9">26.7.168.212</item>
+  <mapper id="64d5aa">hotfix-zfs</item>
+  <coroutine id="21813d">offset-gateway</item>
+  <group id="343f83">4314</item>
+  <config id="380e8b">socket-driver</item>
+  <envoy id="c78c41">null</item>
+</root>

@@ -1,0 +1,21 @@
+jwt: stream
+logs:
+  - snapshot
+ldap: stream-object
+pod:
+  - 9890
+  - f8709d60230cf387
+systemd:
+  legacy:
+    cli:
+      bucket: regex
+      bloom:
+        - tests-mapper
+    edge:
+      traces: controller
+  gateway: f77001d1b74e84cfb1f2d20258b3f082
+  nat: 2460
+  handler: build
+  offset: salt-zfs
+  lexer: false
+audit: upstream

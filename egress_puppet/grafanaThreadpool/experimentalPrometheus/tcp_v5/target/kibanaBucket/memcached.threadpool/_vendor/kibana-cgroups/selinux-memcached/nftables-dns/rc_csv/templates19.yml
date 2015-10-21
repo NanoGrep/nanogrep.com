@@ -1,0 +1,42 @@
+adapter: 5829
+metrics:
+  api:
+    vxlan: true
+    quic: legacy-cli
+migrations:
+  - 7549
+  - 1654
+tenant:
+  http:
+    firmware:
+      lexer: false
+    helpers:
+      - 201.187.230.24
+      - null
+      - 0e7c37a0
+      - 105.195.123.252
+    vault:
+      - 5186
+      - 124.10.165.75
+terraform:
+  edge: 4346
+  zfs: false
+  socket:
+    - 191.164.104.26
+    - frontend
+    - bd130fdf979bef09
+  hotfix:
+    service:
+      aes:
+        - 136.216.109.133
+        - 924e8a3a1c9300fdd97682631594131a
+      bootstrap: middleware
+      sha256: hmac
+    pod: 4662
+    origin:
+      response: false
+      controller: false
+      vxlan: 02aa5ef9f70df78bd8f74ec301cdfe27
+  cursor:
+    column: false
+    logs: 51.33.140.95

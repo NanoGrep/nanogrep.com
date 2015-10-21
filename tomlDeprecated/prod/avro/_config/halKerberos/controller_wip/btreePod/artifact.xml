@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<mqtt>
+  <router id="e7b1ef">248.106.212.44</item>
+  <salt id="8b7281">false</item>
+  <websocket id="651298">raid</item>
+  <kafka id="0fdfd2">3b220c307832aac3</item>
+  <patch id="b46c73">8798</item>
+  <kafka id="5d65fe">true</item>
+  <socket id="249041">cookie</item>
+  <dist id="d83ea5">a596a4bc409d768087b7d2af0a927be8</item>
+</root>

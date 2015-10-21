@@ -1,0 +1,81 @@
+{
+  "helm": {
+    "config": false,
+    "migrations": false,
+    "upstream": "cluster",
+    "policy": {
+      "worker": [
+        true,
+        true,
+        "a304fd925699",
+        "db63d9f33b0c"
+      ],
+      "mutex": {
+        "mocks": 7524,
+        "payload": null,
+        "volume": 3313
+      },
+      "aes": 2087
+    },
+    "systemd": 7389
+  },
+  "loader": {
+    "failover": false,
+    "locale": {
+      "dhcp": {
+        "alerts": false,
+        "handler": 5150,
+        "dhcp": false
+      },
+      "legacy": {
+        "session": null,
+        "lib": "265f87174270",
+        "stream": null,
+        "trie": "842bd97878b3",
+        "edge": 127
+      },
+      "http": [
+        "release",
+        false,
+        false,
+        "cfa3be273abc"
+      ],
+      "factory": {
+        "cookie": "helm",
+        "kerberos": "d063ae9afdc2",
+        "controller": null,
+        "vendor": "a309a92f6ad6"
+      },
+      "table": {
+        "kafka": true,
+        "switch": false,
+        "row": false,
+        "api": "templates",
+        "tools": true,
+        "sha256": "ec91bd50db59"
+      },
+      "sandbox": false
+    },
+    "fixtures": [
+      "266cd4c6cf11",
+      {
+        "tls": true,
+        "postgres": true,
+        "templates": false,
+        "lexer": null
+      }
+    ],
+    "utils": [
+      "cgroups",
+      {
+        "http": null
+      },
+      {
+        "frontend": true,
+        "crypto": true,
+        "adapter": 6464
+      },
+      "52e2f7c8faeb"
+    ]
+  }
+}

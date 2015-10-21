@@ -1,0 +1,15 @@
+[
+    [
+        "mocks"
+    ],
+    {
+        "column": {
+            "request": null,
+            "postgres": {
+                "failover": true,
+                "grpc": true
+            }
+        },
+        "beta": []
+    }
+]

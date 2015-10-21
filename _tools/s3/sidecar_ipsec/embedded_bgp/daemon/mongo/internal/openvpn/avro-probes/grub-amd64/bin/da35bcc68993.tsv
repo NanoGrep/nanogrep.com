@@ -1,0 +1,15 @@
+regex,upstream,subnet,cluster,grpc,api
+true,23.163.66.196,adapter,lexer-request,7dddabe8,111.124.172.57
+183.140.36.140,a38fa938,false,common,response-config,null
+8928ae14,31.212.150.168,true,stack-beta,207.176.135.153,32d7c9a0b7b0016bfa37a7f50513beb1
+2fe2c8f4,73.230.5.177,ingress,true,tests-subnet,false
+rollback,false,false,4615,nonce-kerberos,utils
+6994270503cb916c,proxy,true,null,adapter-cron,7068
+c48ffd3e,null,47.229.75.83,182.77.153.71,729,token
+576bc1a0,yaml,43.173.225.56,false,7037,7538
+kernel,null,scheduler,679dc0f547c025c0,false,quic-envoy
+227.67.110.113,3603,481,env,5686,f36f21e95dd51ae51bddebba82db500d
+null,handler,b83b703f,4b2eeb66,5114,c7d2abf6fc79d91e
+null,6cac2c79295c1871380a01924ff4a942,150.122.250.56,2825,75.89.42.161,e958d422d6387083
+157.91.10.113,hmac,5294,true,6507,240.65.201.154
+null,udp,0f0186dc,false,165.64.168.222,mocks-watchdog

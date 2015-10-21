@@ -1,0 +1,26 @@
+utils: canary
+router:
+  json: 2725
+  alerts:
+    prometheus: ca7fd809
+    cors:
+      - 7466
+      - subnet
+      - 95dacffc81e79300de439317abb7574a
+    object: grafana-postgres
+    mesh: prod
+    fuzz: true
+  lib:
+    - 242.82.31.142
+    - pipeline
+    - 225.249.234.102
+  dist: group
+  cluster:
+    alerts:
+      migrations: 2719
+      helpers: e3a938213dc8c046
+    http: tests
+    probe: false
+    scheduler: d71b6f8b7696e4df0f51db9e0db09ff4
+    index: yaml-shard
+  zfs: 63.113.146.47

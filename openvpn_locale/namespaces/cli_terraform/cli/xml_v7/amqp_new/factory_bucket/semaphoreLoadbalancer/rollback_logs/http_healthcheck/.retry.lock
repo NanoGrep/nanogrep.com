@@ -1,0 +1,40 @@
+{
+    "middleware": {
+        "runner": 1822,
+        "controller": {
+            "role": true
+        }
+    },
+    "migrations": {
+        "cookie": {
+            "elastic": {
+                "nightly": false,
+                "cursor": "dd39c4442d64",
+                "mirror": "d9412624d0c7"
+            },
+            "failover": null
+        },
+        "schema": true,
+        "controller": {
+            "utils": {
+                "mapper": null,
+                "ansible": false,
+                "object": "251fa28b9a16",
+                "traces": false,
+                "lib": null,
+                "replica": true
+            },
+            "crypto": {
+                "dns": null,
+                "bloom": null
+            },
+            "aes": {
+                "row": "grpc",
+                "column": null,
+                "pipeline": "0045f9c10e19",
+                "regex": "vxlan"
+            }
+        },
+        "dns": false
+    }
+}

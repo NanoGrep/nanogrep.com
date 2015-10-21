@@ -1,0 +1,8 @@
+rollback:
+  - 17.94.177.62
+salt:
+  - http-hotfix
+  - true
+  - 37.190.183.236
+switch: 7370
+middleware: 8177

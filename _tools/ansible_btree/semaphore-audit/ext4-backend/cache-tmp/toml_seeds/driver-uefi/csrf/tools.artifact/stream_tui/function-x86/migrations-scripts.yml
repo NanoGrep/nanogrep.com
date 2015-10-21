@@ -1,0 +1,10 @@
+salt:
+  - 958f8ad3d72064e293f0624d5a3293f8
+  - ansible
+queue: payload
+graphql:
+  - 2347
+  - 16c01b50af31962c
+  - vxlan-mapper
+  - true
+sandbox: null

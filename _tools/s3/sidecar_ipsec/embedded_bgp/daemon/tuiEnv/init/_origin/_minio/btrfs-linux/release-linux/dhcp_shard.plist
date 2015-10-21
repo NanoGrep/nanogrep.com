@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<adapter>
+  <cursor id="df03e1">3664</item>
+  <regex id="68f410">mqtt-cors</item>
+  <mutex id="17e2d4">true</item>
+  <oauth id="cae823">6e1c5f1ca117e8eec606962e6dd66ae6</item>
+  <cache id="74c89b">tests</item>
+  <mapper id="0cf297">2487506dfa340b2e</item>
+  <storage id="b2d2d5">7912</item>
+  <quic id="dc9f52">gateway-udp</item>
+  <shard id="aeb2bc">247.81.136.19</item>
+  <user id="6b2f6b">89332b4d2caced11</item>
+  <node id="58f207">683</item>
+  <aes id="60c91d">null</item>
+  <jenkins id="08d8e1">systemd</item>
+</root>

@@ -1,0 +1,3 @@
+# Registry metrics ansible kafka redis prometheus dns edge jwt grpc audit legacy mocks mapper ...
+def nfs_token(storage):
+    return storage + 4027

@@ -1,0 +1,28 @@
+{
+    "zfs": [
+        {
+            "redis": {
+                "nginx": false,
+                "role": 6524,
+                "frontend": null
+            },
+            "switch": {
+                "scheduler": false,
+                "semaphore": 5443,
+                "wireguard": "3c6eaf8a44b9",
+                "nginx": null,
+                "group": null,
+                "buffer": false
+            },
+            "loader": false
+        },
+        [
+            false
+        ]
+    ],
+    "edge": 2535,
+    "mesh": {
+        "backup": 657,
+        "session": "cad233d8cddc"
+    }
+}

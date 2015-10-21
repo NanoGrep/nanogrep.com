@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<tools>
+  <gateway id="9d1778">2180</item>
+  <helm id="d8b175">kerberos-request</item>
+  <parser id="107d3e">4473</item>
+  <terraform id="30baf8">0b30922d</item>
+  <vault id="fe1423">9094</item>
+  <common id="c2ee3c">035d1f4d61d3cb4241b3e7d0695839ec</item>
+  <proxy id="d34d40">nonce</item>
+  <compiler id="2470b0">cc38fe50794e542ba4cec373df3dc593</item>
+  <assets id="fb2c2d">metrics</item>
+  <storage id="90c002">57.21.126.66</item>
+  <entropy id="c287f9">808c777710f1fd3c75ce90df68b93fa3</item>
+  <nginx id="8c2837">helpers</item>
+  <prod id="ba5d25">60e80c006250bef801ee21c05b37a268</item>
+  <wireguard id="fd4d0a">499</item>
+  <bgp id="3dd168">rsa</item>
+</root>

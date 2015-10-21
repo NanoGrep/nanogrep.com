@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<cli>
+  <handler id="4f614f">7839</item>
+  <buffer id="f79b15">233.138.15.14</item>
+  <tools id="4c2afb">worker-legacy</item>
+  <prod id="f03d41">5146</item>
+  <mutex id="48421b">aes</item>
+  <heap id="479945">true</item>
+  <scope id="4d8790">a9173c53</item>
+  <api id="e82537">stack-offset</item>
+  <regex id="cc3dca">stack</item>
+  <postgres id="faa96f">core-websocket</item>
+  <beta id="286b4d">5959</item>
+  <kafka id="1c0bd7">ee826e01</item>
+  <sdk id="9c9ddf">true</item>
+  <volume id="3827b4">3172</item>
+  <regex id="13cb74">false</item>
+  <helm id="e81c0b">proxy</item>
+  <staging id="506ec3">8118</item>
+  <tools id="bfea4c">4118</item>
+  <postgres id="cb2bff">true</item>
+  <release id="287726">false</item>
+  <column id="951f1c">12.141.237.27</item>
+  <driver id="16f89d">lambda-mapper</item>
+  <dns id="5e8954">aebe6c12cf9bc13c</item>
+  <bloom id="37c941">request</item>
+</root>

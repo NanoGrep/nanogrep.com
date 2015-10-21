@@ -1,0 +1,23 @@
+metrics: c6690d52824b44b0
+traces: true
+token:
+  rsa: core-ldap
+  heap: 56.208.5.170
+  adapter: 9993
+  coroutine:
+    nat: 3435
+    nfs: 78.196.100.131
+    artifact:
+      salt: true
+      websocket: false
+    redis: true
+    controller:
+      - pod
+    traces: kernel-queue
+  cli:
+    - 1.115.101.8
+    - true
+    - postgres-lambda
+    - config
+btree: 67fb6a7fdd47fb7e
+role: 535acbdb

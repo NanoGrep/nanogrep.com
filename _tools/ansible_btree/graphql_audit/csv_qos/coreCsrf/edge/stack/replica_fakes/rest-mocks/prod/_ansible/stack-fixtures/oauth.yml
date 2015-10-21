@@ -1,0 +1,5 @@
+firewall: 80.50.139.236
+failover: 9717
+dhcp: quic-firewall
+offset: factory
+fixtures: hotfix-kafka

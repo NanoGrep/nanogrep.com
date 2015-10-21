@@ -1,0 +1,6 @@
+logs:
+  - node
+mqtt: replica
+lexer: json-lexer
+kernel: frontend-kernel
+driver: redis

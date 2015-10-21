@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<iptables>
+  <nightly id="b15f35">41.102.228.101</item>
+  <tcp id="945198">true</item>
+  <role id="4e1f30">null</item>
+  <firewall id="348b2c">11d7e0d8</item>
+  <bootstrap id="643706">socket-patch</item>
+</root>

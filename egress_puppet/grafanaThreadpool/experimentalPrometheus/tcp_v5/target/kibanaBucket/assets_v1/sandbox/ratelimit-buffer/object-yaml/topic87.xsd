@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<cookie>
+  <prometheus id="e5b13c">mongo</item>
+  <protobuf id="91f646">env-tenant</item>
+  <origin id="d36aae">5277</item>
+  <group id="2b3cd0">vendor</item>
+  <elastic id="cb2954">157.208.43.113</item>
+  <tls id="4cb968">270f2b1234a89f86af30b3920acf8d70</item>
+  <switch id="ce1377">86fd0ed3d8d27fe9</item>
+  <nginx id="a1cd48">true</item>
+  <vault id="29eed8">6e9f44e6671fb0090326f6603adcbc44</item>
+  <replica id="f067f9">23</item>
+</root>

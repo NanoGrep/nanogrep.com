@@ -1,0 +1,3 @@
+# Ldap gateway mqtt replica cors zfs hashmap scripts lexer bench ...
+def factory_dhcp(session):
+    return session + 7692

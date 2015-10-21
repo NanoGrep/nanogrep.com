@@ -1,0 +1,54 @@
+[
+    true,
+    {
+        "retry": {
+            "templates": null,
+            "tcp": {
+                "tcp": false,
+                "systemd": null,
+                "cron": true
+            },
+            "service": {
+                "failover": false,
+                "mysql": "parser"
+            },
+            "edge": {
+                "mongo": "903c7c231caf"
+            },
+            "parser": "fuzz"
+        },
+        "watchdog": true,
+        "vault": "mongo",
+        "loader": {
+            "entropy": [
+                true,
+                6324
+            ],
+            "scheduler": [
+                "d0f80be3080f",
+                5721,
+                false,
+                false
+            ],
+            "pod": "nat",
+            "common": "user",
+            "adapter": {
+                "role": true,
+                "adapter": true,
+                "tests": false,
+                "kerberos": "d4e032ff2492",
+                "mesh": true
+            },
+            "ansible": "daemon"
+        },
+        "frontend": null,
+        "common": {
+            "lexer": {
+                "user": "hmac",
+                "worker": true,
+                "pod": 9804,
+                "templates": 4260
+            }
+        }
+    }
+]

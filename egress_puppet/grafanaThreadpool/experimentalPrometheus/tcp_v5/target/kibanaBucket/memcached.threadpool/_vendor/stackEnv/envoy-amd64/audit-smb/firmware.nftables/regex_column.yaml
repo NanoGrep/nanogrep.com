@@ -1,0 +1,10 @@
+assets:
+  response: artifact-user
+  grafana:
+    - 136.54.51.220
+    - 4337
+  dhcp:
+    - f7f0a3a0c8b23734
+    - 4242
+    - frontend-group
+    - 171.18.10.251

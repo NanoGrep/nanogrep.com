@@ -1,0 +1,22 @@
+traces: scripts-failover
+jenkins: 10.119.207.214
+helm: 145.182.190.225
+index:
+  limit: nat
+  btree: mysql-middleware
+  policy:
+    pod: c7aea24fb11d1336
+    response:
+      runner: 2dcd5ea3
+      role: nonce
+    ingress:
+      protobuf: 9940
+      logs: eedcd9b1
+    postgres: false
+  legacy:
+    ceph: cert
+    node:
+      rsa:
+        - 3d62a9d15d9174e4
+      service: 168.202.148.224
+backup: null

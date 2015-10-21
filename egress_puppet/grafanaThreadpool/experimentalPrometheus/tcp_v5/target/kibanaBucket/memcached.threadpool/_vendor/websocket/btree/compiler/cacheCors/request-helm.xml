@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<assets>
+  <api id="c36eee">oauth</item>
+  <tenant id="abb348">3802</item>
+  <cluster id="786e87">false</item>
+  <beta id="a4f243">8749</item>
+  <threadpool id="da5272">grafana-locale</item>
+  <batch id="f70398">btree</item>
+  <mocks id="c7ec20">7965</item>
+  <envoy id="9d8629">5312</item>
+  <scheduler id="f0dfe7">131.177.245.96</item>
+</root>

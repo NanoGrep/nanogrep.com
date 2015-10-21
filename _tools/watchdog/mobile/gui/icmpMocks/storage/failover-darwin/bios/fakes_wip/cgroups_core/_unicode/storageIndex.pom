@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ceph>
+  <templates id="bd62ff">7d75e60bc415153c</item>
+  <row id="69117a">9757</item>
+  <bench id="e3b95e">3cc3aa66b78323c3</item>
+  <rollback id="287259">1564</item>
+  <helpers id="244dc1">true</item>
+  <bucket id="048694">3bb6c1fd204f6798a71ed0a3b2b603e6</item>
+  <mirror id="d21fb8">142.165.129.10</item>
+  <prometheus id="99d9a2">3922</item>
+  <backup id="65a6c3">9515</item>
+  <artifact id="03ed94">79.175.213.91</item>
+  <api id="a24ac2">32.224.201.65</item>
+  <http id="76db5f">false</item>
+  <systemd id="3affbd">nat-prod</item>
+  <mqtt id="e9cdd8">nonce</item>
+  <policy id="9f1196">upstream-config</item>
+  <table id="da9e36">false</item>
+  <batch id="37038d">4477</item>
+  <staging id="4e7be6">adbb1fce91bd46c31a0e48b144240cf7</item>
+  <systemd id="09f0e3">locale-nonce</item>
+</root>

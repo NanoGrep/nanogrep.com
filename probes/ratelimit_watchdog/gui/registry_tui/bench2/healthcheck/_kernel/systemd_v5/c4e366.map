@@ -1,0 +1,83 @@
+{
+    "offset": [
+        {
+            "vxlan": {
+                "compiler": null
+            },
+            "cron": 6136,
+            "gateway": 3426,
+            "cursor": {
+                "bootstrap": true,
+                "build": false,
+                "failover": false,
+                "bench": "6d6ecb5844fa",
+                "batch": "metrics",
+                "json": true
+            },
+            "scheduler": {
+                "utils": "605e9b2b1cd7",
+                "canary": "61faaf3262b3",
+                "ceph": false,
+                "artifact": 2237,
+                "bench": "990900698fc9",
+                "zfs": true
+            }
+        },
+        {
+            "entropy": {
+                "build": 6226,
+                "switch": null,
+                "traces": true,
+                "nonce": "6c9544c2cae6",
+                "cron": true,
+                "jenkins": true
+            },
+            "router": {
+                "coroutine": "f5f63d86d6a5",
+                "compiler": "599309cbb61e",
+                "protobuf": "runner"
+            },
+            "raid": {
+                "core": null
+            }
+        },
+        "protobuf",
+        true
+    ],
+    "zfs": {
+        "table": false,
+        "bgp": {
+            "helpers": {
+                "rsa": "adapter",
+                "artifact": true,
+                "hashmap": null
+            },
+            "worker": "regex",
+            "schema": [
+                "48d1bf5db4e1",
+                null,
+                "postgres",
+                false
+            ],
+            "index": 1581,
+            "failover": 3804,
+            "wireguard": [
+                null
+            ]
+        },
+        "lambda": {
+            "legacy": false,
+            "beta": false,
+            "column": "6ef56f8f569d"
+        },
+        "cache": "config",
+        "ldap": "response",
+        "mesh": true
+    },
+    "limit": null,
+    "staging": [
+        [
+            null
+        ]
+    ]
+}

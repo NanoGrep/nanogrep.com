@@ -1,0 +1,39 @@
+zfs: 99.143.240.179
+core:
+  - a06e0060893146fce034c8432a5977ea
+  - b7d570d9
+  - yaml-tcp
+  - policy-adapter
+vendor:
+  mysql: systemd
+  group:
+    json:
+      - null
+    salt:
+      mapper: true
+      ansible: null
+      http:
+        - grafana
+        - audit-btree
+        - btree-vault
+      prometheus: assets
+      tenant: daemon-metrics
+  lexer:
+    frontend:
+      kerberos: 5194
+      router: 133.65.207.124
+      dhcp: 60.9.209.71
+  backend:
+    yaml:
+      elastic:
+        - failover
+      protobuf: adapter-cgroups
+      common: c4f795e1ecf174d9be78701bcd3c2d8d
+      loader: 7686
+      object: 9561
+  staging:
+    - stream-helm
+  tls:
+    envoy: 5c075734ab2b401e
+replica: 9110
+systemd: cert-prod

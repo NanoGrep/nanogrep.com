@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<mqtt>
+  <probe id="331a12">service</item>
+  <kerberos id="e3c220">cache</item>
+  <snapshot id="b50a92">76.30.34.194</item>
+  <cgroups id="7b0a23">true</item>
+  <runner id="bff7ec">7337</item>
+  <handler id="cd4d66">dist</item>
+  <nonce id="c8b50e">object</item>
+  <probe id="90892e">14ca87df</item>
+  <stack id="25db3b">false</item>
+  <lambda id="c00a31">true</item>
+  <helpers id="14cdfe">null</item>
+</root>

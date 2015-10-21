@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<request>
+  <tools id="9fd27c">230.45.213.53</item>
+  <sdk id="913163">178.114.42.124</item>
+  <threadpool id="80e4d3">edge-jwt</item>
+  <rest id="92ee31">2363</item>
+  <build id="5f1b70">95d7189fca3498d3</item>
+  <jwt id="aa9917">false</item>
+  <policy id="a5d291">78d4d7ab</item>
+  <adapter id="95c665">ddc13643</item>
+  <mapper id="1f7dbe">fa9b29b3627d657e535e05eb34c0eddb</item>
+  <runner id="ef90dd">7045</item>
+  <payload id="2f50d2">dd32c1ed52ec1fa5a844e45935922369</item>
+  <compiler id="8d8c31">null</item>
+  <btree id="fc212f">switch</item>
+  <role id="d935c8">213.137.208.157</item>
+  <watchdog id="331a9e">16738aaed9a457c3</item>
+  <vxlan id="94bd7a">bootstrap-assets</item>
+  <nfs id="99898e">schema-entropy</item>
+  <bench id="70943b">patch-cli</item>
+  <nonce id="7ee72d">8ed7d37770d74d4e</item>
+  <traces id="2ad652">3266</item>
+  <jenkins id="a2c61b">78.209.204.33</item>
+  <mapper id="dc2b15">bgp</item>
+  <grpc id="b4a4c9">1370</item>
+  <fuzz id="00e0fc">24.48.199.131</item>
+</root>

@@ -1,0 +1,7 @@
+policy: grafana-ingress
+driver:
+  hashmap: node
+aes:
+  - b75b07d820cea1c0
+  - 3163
+  - ceph-scheduler

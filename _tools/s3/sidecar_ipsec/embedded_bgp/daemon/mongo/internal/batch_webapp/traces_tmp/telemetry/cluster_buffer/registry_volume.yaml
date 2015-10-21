@@ -1,0 +1,27 @@
+stream: 76.80.191.222
+yaml: scripts-metrics
+tenant:
+  mirror:
+    - 8713
+    - null
+  backup:
+    offset:
+      - 6899
+    vxlan:
+      ansible: lib-socket
+      mapper: false
+      http: 149.139.217.182
+    scripts: null
+  ingress: false
+  udp:
+    tests:
+      dist: firmware-cli
+      bootstrap: true
+      ingress:
+        - 63b3fef7
+        - env
+      edge: udp
+      bootstrap: release
+  volume: true
+audit: 4289
+yaml: terraform

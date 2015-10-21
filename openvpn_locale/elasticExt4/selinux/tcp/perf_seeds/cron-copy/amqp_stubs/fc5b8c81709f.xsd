@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<daemon>
+  <subnet id="3d39d3">graphql</item>
+  <pod id="4e8795">4371eed4</item>
+  <grpc id="89e03f">83.245.184.12</item>
+  <grpc id="faf3a2">null</item>
+  <scripts id="7a182d">2356</item>
+  <cgroups id="1a5ca1">373fc2bc8bd52844</item>
+  <build id="fb0d1f">false</item>
+  <payload id="d9d3ae">95d4e44d63e0f29c56a6389c67ef765f</item>
+  <schema id="cf78c4">null</item>
+  <dist id="adb7f1">3d981babef96ab11</item>
+  <metrics id="1cc61d">mongo-ansible</item>
+  <artifact id="b7e70a">130.48.63.201</item>
+  <sdk id="b1af0c">157.143.219.28</item>
+  <policy id="500f5a">7482</item>
+  <metrics id="2acd61">lib-scope</item>
+  <staging id="1f7416">244.68.202.171</item>
+  <proxy id="5833bf">7115</item>
+  <heap id="d673cb">prod</item>
+</root>

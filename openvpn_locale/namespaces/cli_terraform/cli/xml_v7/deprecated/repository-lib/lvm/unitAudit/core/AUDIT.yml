@@ -1,0 +1,41 @@
+grpc:
+  rollback:
+    vault:
+      upstream: 178.12.171.30
+      bloom: user
+      driver: dca9061bfa46a0975161e9bd4ad7b83c
+  daemon: patch
+  cluster: 142.74.12.235
+threadpool:
+  loader:
+    failover:
+      semaphore: 378bbb22
+      staging: 2740
+      object: false
+      payload:
+        - watchdog-alerts
+      cert: true
+    lexer: artifact-terraform
+    staging:
+      postgres: nginx-bucket
+    threadpool: queue
+    handler: hashmap
+  elastic: 174.36.12.203
+  rsa:
+    mirror:
+      ansible:
+        - 2756
+        - ingress
+    volume:
+      worker: 7dcc23eb6ab400dd8c13c995142bee16
+    firmware:
+      driver:
+        - 35ba2b16
+        - 2668
+      http: parser
+      shard: bloom
+      compiler: 6301
+    cache: 34.162.242.252
+  runner: 61
+  mongo: 8a210062
+tls: 18

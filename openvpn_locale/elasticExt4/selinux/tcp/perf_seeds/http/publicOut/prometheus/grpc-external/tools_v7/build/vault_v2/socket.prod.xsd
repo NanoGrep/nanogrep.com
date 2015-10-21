@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<shard>
+  <adapter id="c6680c">181.224.40.75</item>
+  <helm id="a72165">209.236.124.69</item>
+  <cli id="dd0f28">122.32.111.142</item>
+  <mongo id="7ceb6f">patch-replica</item>
+  <response id="f22ed8">9a99687f</item>
+  <backend id="4a9be0">api</item>
+  <edge id="f30954">probe-kafka</item>
+  <mqtt id="af92ea">iptables-probe</item>
+  <api id="97edc1">sha256-mapper</item>
+  <proxy id="a5ef8f">10978765d25ecadb</item>
+  <controller id="adc5be">7da6a7d64c672e2f</item>
+</root>

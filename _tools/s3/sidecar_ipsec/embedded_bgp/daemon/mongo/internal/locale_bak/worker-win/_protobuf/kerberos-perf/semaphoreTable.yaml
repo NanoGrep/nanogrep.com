@@ -1,0 +1,40 @@
+mutex:
+  vendor:
+    hmac: templates-firewall
+    cookie: api-regex
+    switch:
+      index: dhcp-mongo
+      ansible: raid-nightly
+      origin: 9390
+      edge: false
+      stream: probe
+  config: d9c0c961789d9892
+  locale: 194.225.42.201
+  jenkins: 239.44.210.164
+  udp:
+    vault: 3566
+    subnet:
+      cursor: 1681
+    limit:
+      - 3631
+    elastic:
+      systemd: 409
+      limit: 42912c4a0729b702f4e8fa5c473c58ff
+      mesh: 250.131.73.237
+      request: sandbox-tests
+      tools: ad1f3cc770ee5f94
+      release:
+        - null
+        - 105.92.201.206
+        - null
+    crypto: cli-dns
+scripts: lambda
+backup:
+  - 96.210.74.193
+object: hotfix
+elastic:
+  - 6a6f444aa9f46c264926373a4daeb74b
+  - 1e0390769ffeae37
+  - runner
+  - udp
+dns: 1735

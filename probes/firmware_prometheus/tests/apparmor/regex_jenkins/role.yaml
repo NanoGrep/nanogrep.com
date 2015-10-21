@@ -1,0 +1,32 @@
+payload:
+  hashmap: false
+  cors: pod
+  backend: 132.4.124.72
+  tests:
+    - 3499
+    - a97372ed36fa20d6
+    - mongo-lambda
+    - 9909
+  subnet:
+    volume:
+      firmware: rest
+      driver: session
+      frontend: true
+    hmac:
+      - buffer
+      - 2128
+      - true
+    edge:
+      beta: 39.105.143.113
+      migrations:
+        - vxlan
+      compiler: 222.17.239.181
+      aes: 1352
+      failover: scripts-crypto
+  table: 9f1d5e2ceebca91ca0e72905a99aa094
+ldap: redis
+oauth: token
+iptables:
+  - lib-templates
+  - f70d02da
+queue: 4528

@@ -1,0 +1,12 @@
+kerberos: 190.38.56.61
+hmac: true
+session:
+  request:
+    group: 6c8ad4ccf8d6b207cd1e87423d3a2c01
+    replica:
+      - 156.144.250.194
+  mirror: 227.182.40.170
+vlan:
+  helpers: semaphore-proxy
+  handler: e4ac58af81fe392d848241f6f15a0eca
+  stack: de93fc6d5acc5006

@@ -1,0 +1,11 @@
+kafka,adapter,alerts,cache,prod,logs
+d58c327c,false,24.236.78.30,queue,190.104.20.71,null
+5728,212.3.145.65,5944,ef4e19346042e9e2,mesh,true
+153.54.5.42,8215,47529f0e,98460166,f642b4da,bucket-dhcp
+true,quic-group,8048,true,bucket,logs-bgp
+5248,locale,349,tests,dist-index,9220
+quic-worker,f7ffa6da9dd5b74f,210.80.211.112,36.230.5.116,d33cde024d39ee52c4bb1438b5c3f7f6,null
+wireguard-vendor,dist,bucket,8463,crypto,47.74.165.36
+204.202.224.78,udp,190.158.10.182,84.43.108.18,068e94e5e752392c,9354
+193.14.181.83,153.58.232.11,8101,build-entropy,stack,6c6b3bbdf4963d65
+83c8ed71,heap,token,vxlan,6826,null

@@ -1,0 +1,35 @@
+{
+  "nfs": {
+    "dist": [
+      {
+        "redis": true,
+        "backup": "4c3c14ca6ce5"
+      },
+      [],
+      {
+        "templates": "2fadde01caea",
+        "aes": false,
+        "grpc": false
+      },
+      {
+        "traces": false,
+        "websocket": false,
+        "cursor": "154186747f04"
+      }
+    ],
+    "metrics": "649bc5835b5e",
+    "dns": {
+      "tests": []
+    },
+    "utils": 5420,
+    "coroutine": {
+      "sha256": "token",
+      "elastic": [
+        "5ce1a863c3c3",
+        true,
+        null,
+        "staging"
+      ]
+    }
+  }
+}

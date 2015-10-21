@@ -1,0 +1,6 @@
+nat: 9951
+jenkins: 2679
+semaphore:
+  factory: null
+table:
+  - terraform-lib

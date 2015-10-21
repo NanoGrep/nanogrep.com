@@ -1,0 +1,32 @@
+{
+    "legacy": {
+        "ingress": {
+            "nginx": {
+                "failover": null,
+                "trie": null,
+                "tests": false,
+                "queue": "migrations",
+                "mysql": "cli"
+            },
+            "node": [
+                false,
+                "6953a579b06b",
+                "8043495a2445",
+                "ansible"
+            ],
+            "storage": null
+        },
+        "bench": {
+            "firewall": [],
+            "helpers": [
+                null,
+                "04cd5012af69",
+                6848
+            ],
+            "nat": "gateway"
+        }
+    },
+    "coroutine": "storage",
+    "aes": 5958,
+    "trie": 454
+}

@@ -1,0 +1,61 @@
+common:
+  crypto: coroutine-sha256
+  storage: false
+  systemd:
+    json: true
+    sdk: 4691
+    daemon: 182.119.243.249
+    beta:
+      - true
+    firmware: 538b83d5da20dfa1415913b5819a840c
+    beta:
+      - 15.103.143.52
+      - 3890
+      - true
+  runner:
+    - 9344
+    - driver
+  switch: 15.254.56.162
+  stream: 63a502ee
+migrations: mqtt-logs
+controller: 8974
+protobuf:
+  envoy: true
+  common:
+    - templates-protobuf
+  gateway: 7050
+raid:
+  semaphore: 982bc33b1866d59b
+  queue: 1.38.220.223
+  zfs:
+    salt:
+      subnet: threadpool-logs
+    index:
+      rest: null
+      service: 126.2.79.166
+      dist:
+        - 114.199.143.230
+        - 7174
+        - artifact
+    queue:
+      sdk:
+        - 1238
+      artifact: d64ec608
+      postgres:
+        - kerberos
+        - probe
+    udp: 4608
+  proxy: 7876
+  limit:
+    raid:
+      bench: false
+      crypto: 3802fb80332f0351c9c49ead64d2a8ba
+    envoy: 2809
+    cors:
+      templates: probe-subnet
+      volume: 5736
+      yaml: 145.99.243.176
+      tests: 1838
+      firmware: cli-cgroups
+  tenant: buffer
+kernel: adapter-vault

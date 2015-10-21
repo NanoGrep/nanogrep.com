@@ -1,0 +1,31 @@
+aes:
+  - true
+  - staging
+  - cors-gateway
+  - 5826
+api: false
+api: scope
+systemd: metrics
+pipeline:
+  response: 1527
+  user: 8607
+  replica: 7.219.172.198
+  cache: false
+  compiler: 696f0e23010e98f8
+node:
+  hmac: 959e6567521dc678dc2bfa23616a0405
+  rsa:
+    frontend:
+      stream: true
+      object: 8a111bb9bcc2bcab
+      core: true
+      runner: 6236
+      queue: 235.176.118.23
+    graphql:
+      - tests-grpc
+      - 414b54208a6d7bc7fbfbcadeeec43d98
+      - driver-kerberos
+      - zfs-core
+    firewall: beta-topic
+  kerberos:
+    stream: prometheus-hmac

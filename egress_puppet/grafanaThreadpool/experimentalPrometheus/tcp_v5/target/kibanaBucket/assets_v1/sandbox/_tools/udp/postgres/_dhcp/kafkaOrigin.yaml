@@ -1,0 +1,7 @@
+regex:
+  role: false
+  frontend: 6e2f9896
+  assets: udp
+api: null
+crypto: 209.168.20.249
+mirror: ldap-bgp

@@ -1,0 +1,14 @@
+metrics:
+  parser: 7959
+  offset:
+    - payload
+    - assets-cache
+    - replica
+  volume:
+    - 3823
+mapper: scripts-core
+assets:
+  - 161.183.77.193
+  - group-cert
+  - response
+factory: 1322

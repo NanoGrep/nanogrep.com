@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<firmware>
+  <dns id="f1b3ae">240.216.94.86</item>
+  <cron id="32689b">8646</item>
+  <buffer id="e101c8">backup</item>
+  <prod id="1b46f0">router</item>
+  <firewall id="1159a1">mapper</item>
+  <buffer id="383eff">null</item>
+  <bloom id="acca7a">null</item>
+  <worker id="86aeac">bb99e720</item>
+  <scope id="f6f546">session-snapshot</item>
+  <parser id="b5a3bd">61.190.47.41</item>
+  <scheduler id="b70b2f">factory</item>
+  <tcp id="98e3f6">heap</item>
+  <raid id="5cceff">middleware</item>
+  <scope id="c0a38e">3593</item>
+  <mqtt id="d93aa6">bgp-rsa</item>
+  <node id="cd4614">edge-cookie</item>
+  <hmac id="f140ed">cli-probe</item>
+</root>

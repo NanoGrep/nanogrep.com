@@ -1,0 +1,17 @@
+[cors]
+scheduler.column = registry-row
+handler.socket = 252.239.150.200
+bench.ingress = 39ba92a232063461
+lambda_iptables = 4871
+websocket_semaphore = firmware-terraform
+sha256release = 3824
+storage_kernel = cors-middleware
+dns_nonce = false
+gatewaymigrations = 7415
+build.sandbox = fuzz-switch
+hmac.subnet = 75.179.216.193
+backupdaemon = false
+
+[nonce]
+switch.gateway = coroutine-payload
+userzfs = false

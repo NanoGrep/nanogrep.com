@@ -1,0 +1,8 @@
+handler,registry,mutex,ansible,ceph,vxlan,udp
+ec1caf9b,d19ecc2e,6f1cffe8,6206,246.207.186.19,rest,vendor
+semaphore-topic,8d73709567faf639,9fd4bef062606a65fa4d2c189e4c24a0,cache,true,122.142.37.190,18.194.30.178
+heap,origin,null,null,fd9c080f,service,true
+tenant-threadpool,group,dns-alerts,3ce767d4ba6b9bb3,null,84,salt
+rsa,jenkins-systemd,758,prometheus,hashmap,cluster,lib
+pod-legacy,5.132.143.75,22.111.217.92,proxy,false,compiler-daemon,230.28.117.217
+null,nginx-rollback,hashmap,null,4776,156.65.84.93,edge

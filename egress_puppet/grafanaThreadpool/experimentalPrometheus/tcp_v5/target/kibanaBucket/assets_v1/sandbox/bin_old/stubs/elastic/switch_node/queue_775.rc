@@ -1,0 +1,39 @@
+[utils]
+policy.proxy = true
+object.registry = tls-migrations
+nightly.backend = 117.98.173.124
+
+[pod]
+handler.trie = regex
+compiler.salt = 204.122.37.54
+rollback_scripts = api
+betasession = iptables
+sha256.scope = regex
+systemd.scope = cursor
+fuzz_mapper = 8796
+switch.assets = 4622e205c31025fd0708ab41a40b5913
+firewallschema = 30.167.27.127
+volume_payload = 5962
+elastic_crypto = 5006
+tenanttls = null
+cors_socket = 1232
+vendortcp = null
+mockscontroller = 8679
+jwt_cache = dist-storage
+testslimit = response-adapter
+jenkinsbeta = object
+queuepayload = raid
+bloom_wireguard = 6d599acd
+udp.canary = 9363
+pipeline_nat = false
+shard.rollback = 5337
+quicmysql = null
+quic_common = 6.139.140.41
+sandbox_tests = prometheus
+natregistry = b47a33a9a8c69d1c2b92ea8f380bad93
+
+[cookie]
+grpcbgp = f9729421
+metrics_compiler = handler-ansible
+group.tcp = 3967
+udpenv = 7016

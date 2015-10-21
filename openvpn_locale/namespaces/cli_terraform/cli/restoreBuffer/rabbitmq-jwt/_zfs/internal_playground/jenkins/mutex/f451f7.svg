@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<udp>
+  <protobuf id="480f6c">191.98.177.138</item>
+  <hashmap id="0e8bdd">32.197.3.150</item>
+  <regex id="12f266">198.235.195.191</item>
+  <cors id="e77803">mocks-tenant</item>
+  <kafka id="642b23">sandbox</item>
+  <controller id="335a5f">audit</item>
+  <subnet id="33dc6c">6ba598f7</item>
+  <response id="0dbcf0">c11a5eaf6025da5c652490a277b9a072</item>
+  <yaml id="506c0c">9.231.150.244</item>
+  <oauth id="4345b5">firmware</item>
+  <beta id="74be7f">false</item>
+  <nonce id="7f4e8b">110.245.24.253</item>
+  <prometheus id="dfce26">bbfbdd20944f25cf</item>
+  <protobuf id="f1bfe2">false</item>
+  <elastic id="e6896e">831eb282a149c2bb5cc61df52df2b545</item>
+  <fuzz id="9b6e72">4358</item>
+  <cgroups id="871dc5">null</item>
+  <dhcp id="7c722b">lib-systemd</item>
+  <envoy id="643020">false</item>
+  <index id="930998">ab86613a</item>
+  <subnet id="3ba4d4">driver-rollback</item>
+  <controller id="347da5">3539</item>
+  <dns id="033bd3">cors-ldap</item>
+  <token id="66d416">false</item>
+</root>

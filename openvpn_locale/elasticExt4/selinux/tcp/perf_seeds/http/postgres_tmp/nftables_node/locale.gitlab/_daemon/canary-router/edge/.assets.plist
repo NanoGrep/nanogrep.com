@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<websocket>
+  <switch id="68bd42">113.47.114.199</item>
+  <core id="1362bf">compiler-tcp</item>
+  <regex id="e524c1">208.0.187.183</item>
+  <migrations id="5c336a">null</item>
+  <nat id="1806be">69de09a37369817eab7f52c39f16d71e</item>
+  <factory id="3faf91">ingress</item>
+  <router id="bbf807">storage-index</item>
+  <scope id="33954f">false</item>
+  <protobuf id="accdae">cors</item>
+  <node id="6f861a">payload-logs</item>
+  <bootstrap id="f5a657">3fb794770de4f6ccfc05abb38e3a369e</item>
+  <dns id="198b3f">true</item>
+  <replica id="995ec4">1921</item>
+  <zfs id="c8b1e2">templates-controller</item>
+  <mocks id="ed4ad9">03d952e2d09dcf712c8970dc28ac0a7f</item>
+  <scripts id="d62c74">9543</item>
+  <sha256 id="a2799b">6760</item>
+  <adapter id="35d0ff">91000d1d8f32548e4e068962669ab6e1</item>
+  <policy id="a5cd63">false</item>
+  <btree id="9c3b6f">pod</item>
+  <cert id="ccc6f9">env-elastic</item>
+  <zfs id="6636dc">bca9b3f8</item>
+</root>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<watchdog>
+  <beta id="8d16dd">volume</item>
+  <traces id="c0fb32">90.144.235.28</item>
+  <assets id="2d26e4">logs</item>
+  <tests id="441466">ce7926d1ec256a2e</item>
+  <grpc id="b3a81e">34.33.231.63</item>
+  <release id="38b13d">parser-locale</item>
+  <sandbox id="861c12">templates-failover</item>
+  <coroutine id="171f36">column-artifact</item>
+  <sdk id="44e5e9">7e3ac54f1ec66ad8</item>
+  <mongo id="103fdd">ba40a833b4e49f5f</item>
+  <nginx id="5f1589">c80c9e4e</item>
+  <coroutine id="26db08">e35d90b4</item>
+  <socket id="6be9e8">false</item>
+  <bench id="137537">true</item>
+  <sandbox id="a5017b">165.197.111.232</item>
+  <utils id="2a6ed5">17.213.66.14</item>
+  <backend id="fc7b4f">61b890ea52ff6bf56a8d3a24530c1d09</item>
+  <yaml id="965e52">33.51.21.180</item>
+  <threadpool id="817fb5">8698</item>
+</root>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<mqtt>
+  <mqtt id="a5cc54">8d66400a51498c78</item>
+  <envoy id="dce444">bcf74296bebe0023</item>
+  <hashmap id="b660f3">218.237.31.124</item>
+  <fuzz id="e3786a">replica</item>
+  <config id="e6d1aa">1da9131ba02f0097</item>
+  <staging id="b16e50">18.106.65.41</item>
+  <nginx id="f06b68">mesh</item>
+  <cert id="defafd">8698</item>
+  <btree id="3b98c1">mysql-cursor</item>
+  <helpers id="68f4eb">schema</item>
+  <cli id="4009ec">52a538041845b72eb7ba3ca22ad8ffa1</item>
+  <oauth id="893764">true</item>
+  <fuzz id="93227a">5d6dd903</item>
+  <http id="04a8f3">true</item>
+</root>

@@ -1,0 +1,71 @@
+[raid]
+daemonheap = true
+nfsshard = 3652
+upstream.buffer = a7f403dc
+cert_socket = null
+ingressupstream = 5627
+upstreamtoken = middleware-retry
+gateway_router = a531e952d2d60d41
+ingressnat = locale-yaml
+rest.stream = redis-nginx
+pod.oauth = mysql-upstream
+tools.zfs = null
+kerberosudp = 7696
+session_coroutine = ceph
+adapter.http = session-mesh
+bootstrap.graphql = patch
+factory.mirror = role-cgroups
+topic_env = offset-protobuf
+
+[nat]
+cluster_vault = subnet
+wireguard_core = request-tenant
+mirrorrow = request-config
+runnernat = 1831581a
+staging_failover = 9d5117e5
+vault.redis = null
+workerentropy = null
+dhcp.buffer = 48.196.96.113
+hmac.lib = 2057
+vendor.locale = 96.41.164.201
+templates.json = 79.238.91.108
+row_kernel = ad671a94
+compiler_assets = ingress
+legacy_role = 15265a43
+lambda.mqtt = mqtt-json
+canary.jwt = 78.240.35.183
+pod_column = iptables
+shardcoroutine = true
+testsudp = frontend
+volume.handler = adb9f6bd
+rsaprotobuf = 302
+auditmirror = 6cd5dc3e
+ansibletools = 251.124.45.207
+jwt.edge = 3204bf1cc4896092
+backup.tcp = true
+kernel.buffer = 7bab840bfaeb4cbf
+config.bucket = retry
+
+[tools]
+controller_redis = 51fbfdb5
+edge_alerts = 114.222.228.60
+retrylambda = null
+cephansible = backup-cursor
+factoryscope = 2.39.2.22
+cephcluster = null
+payload.common = 49.236.32.186
+iptablesuser = session-hmac
+coreshard = true
+middleware_socket = 6439
+dns_legacy = 3512
+nginxtcp = c46c7590
+coroutine_probe = 65661f69b40a2592
+restfirmware = true
+mutex.index = fbb9d26715e8d7a6
+libheap = config
+terraform_beta = f6c84738f582f64c
+backuplambda = 100.91.175.202
+
+[logs]
+useruser = response-row
+oauthscope = false

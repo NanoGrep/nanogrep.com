@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<cors>
+  <mysql id="48a990">3745</item>
+  <kernel id="6601be">true</item>
+  <mocks id="1a879e">830c5dbbf84b3b71</item>
+  <driver id="e14710">1620</item>
+  <websocket id="ab5938">2532</item>
+  <worker id="2d0934">f5d0462c09a2bcdf44da7c0bd9d3f4fc</item>
+  <topic id="d90b7e">78.230.51.50</item>
+  <api id="c6418b">false</item>
+  <mongo id="b49ee9">0f89a243</item>
+  <metrics id="d6c3d2">null</item>
+</root>

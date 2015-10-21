@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<kerberos>
+  <subnet id="000e45">92d60383</item>
+  <cgroups id="bb3e50">true</item>
+  <nat id="d5f482">null</item>
+  <templates id="7c442a">d26bec28</item>
+  <firewall id="ee6d82">6ea52a24</item>
+  <firewall id="199c2a">1747</item>
+  <artifact id="ce4bba">3591</item>
+  <pod id="c5aebf">504</item>
+  <jwt id="d03133">33.74.237.133</item>
+  <middleware id="0bf569">168.173.79.179</item>
+  <scheduler id="7897f1">8700</item>
+  <volume id="0dcf5f">105.118.247.16</item>
+  <postgres id="968c27">6f33d2e6b704894c</item>
+  <mesh id="da7d76">222.201.238.163</item>
+  <response id="299da5">1474</item>
+  <replica id="783d39">true</item>
+  <coroutine id="c2e3ce">211.198.221.50</item>
+  <threadpool id="126781">aes-utils</item>
+  <rest id="95b6a3">true</item>
+  <socket id="7e5798">216.117.153.142</item>
+  <env id="e65c02">role-jwt</item>
+</root>

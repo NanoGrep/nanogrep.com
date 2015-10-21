@@ -1,0 +1,11 @@
+graphql: grafana
+factory:
+  elastic: 8342
+  row: null
+  registry: redis-replica
+  coroutine: object-origin
+  backend: 5bab6c5e58d4975bb4de801b02979b62
+row: 9313
+salt:
+  logs: true
+mysql: 6838

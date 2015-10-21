@@ -1,0 +1,19 @@
+[vault]
+mesh.bench = true
+nonce_pod = null
+release.tenant = firmware
+saltprobe = token
+payload_cursor = true
+stack_raid = 0fd801fe84c299c8
+cli_locale = null
+cephcookie = 7038
+jsonstaging = 243.206.40.116
+
+[bootstrap]
+mqtt.cert = firmware
+jenkinsingress = cdf1b825c0b713539713be4007ec454e
+edgepatch = 7734
+session_helm = shard-cluster
+cors.api = false
+firmware.switch = 133.202.93.36
+schema.helpers = false

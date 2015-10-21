@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ldap>
+  <protobuf id="a06c40">42aedd23e2814026</item>
+  <daemon id="368adf">utils-controller</item>
+  <mysql id="4ece24">graphql</item>
+  <api id="bf4e1f">8770</item>
+  <scheduler id="be5f7e">207.132.156.25</item>
+  <hashmap id="c7feb4">artifact</item>
+  <traces id="da510f">bench</item>
+</root>

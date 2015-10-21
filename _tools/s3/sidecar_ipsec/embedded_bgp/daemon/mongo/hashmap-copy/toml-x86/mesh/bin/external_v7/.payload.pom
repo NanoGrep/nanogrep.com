@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<origin>
+  <heap id="4625f3">af2a45066d9f9a06</item>
+  <pipeline id="68a981">41.151.64.57</item>
+  <origin id="b97fa6">false</item>
+  <lib id="467f4f">3101</item>
+  <kafka id="d3604a">kernel-offset</item>
+  <core id="df6094">6971</item>
+  <yaml id="32ffcb">artifact</item>
+  <scheduler id="6b3b96">de2d10f42baafac1</item>
+  <buffer id="3cbb8a">141.75.175.183</item>
+  <bloom id="d0d98e">bootstrap-volume</item>
+  <scheduler id="47b074">false</item>
+  <prod id="a10677">3405</item>
+  <env id="9f3cde">23.192.245.233</item>
+  <zfs id="431b30">8766</item>
+  <dist id="b17de3">null</item>
+  <fuzz id="2068f8">9369</item>
+  <hmac id="ca32ae">115.232.5.220</item>
+  <helm id="137712">11.210.99.119</item>
+  <middleware id="a618c0">proxy</item>
+  <pod id="b7d2a0">tls-router</item>
+  <tenant id="1f5bdc">false</item>
+</root>

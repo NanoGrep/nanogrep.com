@@ -1,0 +1,24 @@
+[
+    {
+        "frontend": true,
+        "snapshot": {
+            "api": {
+                "semaphore": true
+            },
+            "dist": {
+                "scope": false
+            },
+            "systemd": false,
+            "cookie": [
+                false,
+                null,
+                1808,
+                null
+            ],
+            "grpc": {
+                "build": "vlan"
+            }
+        }
+    },
+    "sha256"
+]

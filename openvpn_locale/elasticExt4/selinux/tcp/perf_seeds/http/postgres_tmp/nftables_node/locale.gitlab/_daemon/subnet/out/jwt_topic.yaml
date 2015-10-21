@@ -1,0 +1,54 @@
+ceph: false
+bucket: 19.61.173.81
+build:
+  pipeline:
+    mutex: 4256
+    snapshot:
+      staging: 177c8b7f
+      kerberos: 2066
+      trie:
+        - 165.198.175.14
+        - 9c991b02986e21cc6345a2e7c98c31e7
+        - false
+        - bloom
+      scope:
+        - loader-zfs
+        - 3863
+        - 316c23c06d423343b9545072ca0449af
+      cookie: 9789
+      traces: router
+    batch:
+      - 64.214.104.124
+      - 666e675e
+      - 3b7b45cab9f8932ecf50381742782f05
+      - false
+    udp: utils-pipeline
+  sha256: 156.216.239.173
+  buffer:
+    - cli
+    - true
+  probe: 202.211.137.37
+storage:
+  lexer:
+    build:
+      - scheduler
+      - 60239dae291496e32372222026af48fd
+      - 337
+      - nfs-zfs
+  zfs: false
+  coroutine: core
+  parser: 19ecee77
+  cluster:
+    scheduler: 9efeb9b70eaec5d4
+    table: true
+    subnet:
+      - dns
+      - 192.58.89.51
+      - 244.89.90.246
+mqtt:
+  elastic:
+    loader: 6403
+    staging:
+      request: cgroups-compiler
+    dns: e78f4c637da64bd2
+    vendor: 1845

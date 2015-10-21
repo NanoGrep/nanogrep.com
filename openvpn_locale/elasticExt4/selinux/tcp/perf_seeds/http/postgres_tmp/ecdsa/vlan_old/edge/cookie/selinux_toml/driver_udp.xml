@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<pod>
+  <token id="51322c">2101</item>
+  <worker id="d02d01">626</item>
+  <scripts id="68a0cf">110.53.228.186</item>
+  <dns id="f43956">41425d3f4d92c7d6f29eaf716b3735f9</item>
+  <http id="ff7029">8436e082</item>
+  <prod id="b3d8c9">null</item>
+  <ansible id="78d36e">adapter</item>
+  <protobuf id="654ce7">null</item>
+  <watchdog id="29aaf7">0a39d9c3</item>
+  <grafana id="934dc9">203.236.184.132</item>
+</root>

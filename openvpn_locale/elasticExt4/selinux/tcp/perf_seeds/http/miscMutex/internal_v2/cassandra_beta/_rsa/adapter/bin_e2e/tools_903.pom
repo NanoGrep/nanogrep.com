@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<stream>
+  <helpers id="c72c2c">upstream</item>
+  <hashmap id="311da6">5b2e91bb80e1e450</item>
+  <hmac id="cac3ad">null</item>
+  <jenkins id="3de147">7767</item>
+  <bgp id="06052f">ceph</item>
+  <canary id="3ef62a">fixtures</item>
+  <tools id="a3686d">17.171.10.7</item>
+  <legacy id="74a57e">mongo-ingress</item>
+  <middleware id="3a1a2a">sandbox</item>
+  <threadpool id="24ecdd">5092</item>
+  <helm id="9fc2f6">bgp</item>
+</root>

@@ -1,0 +1,20 @@
+switch:
+  - hmac
+config:
+  - 368ae51e22ad951d16363d40d44a4802
+user: 3b0870d2
+tls:
+  backup:
+    envoy: false
+    origin: index-table
+scope: trie-bucket
+bootstrap:
+  beta: registry
+  retry:
+    - 4959c6486aee57fa1c9119e92745fe4c
+    - 2c6387b3d826a446
+  compiler: 9181
+  firmware: 6863
+  quic: cgroups
+  ldap:
+    - true

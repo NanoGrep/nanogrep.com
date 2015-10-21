@@ -1,0 +1,37 @@
+kafka: false
+tenant: 4583
+column:
+  grafana:
+    dhcp:
+      proxy: f2816b381ed8cd5ff9e62e9e9bbe8f5a
+    upstream: 2146
+  rollback:
+    factory:
+      dist: 911f38cf00d3d06777ee0eb93277cd8d
+      graphql: role-socket
+      retry: 0bcb1e20
+      ldap: 9970
+      cert: 215.44.118.76
+      bootstrap: 2c501e71
+    ceph: 9744da6a234d98d6b34ddbff190ee6a8
+    cli: 7.213.28.108
+  fixtures: null
+  frontend: nonce
+  limit: 259c7bc3dceb379e64931a713c6ce840
+  scope:
+    mocks: 133.225.170.38
+lexer: tests
+env:
+  shard: zfs-factory
+  trie:
+    probe: 1763
+  metrics:
+    - 1953
+    - edge
+    - mysql-node
+    - shard
+  column:
+    nfs:
+      build: 62.180.126.143
+    row: tests-common
+  mongo: 7271

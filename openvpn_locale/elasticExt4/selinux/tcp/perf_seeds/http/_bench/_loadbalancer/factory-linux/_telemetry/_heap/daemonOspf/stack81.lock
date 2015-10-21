@@ -1,0 +1,27 @@
+{
+    "tenant": {
+        "loader": [
+            [
+                null,
+                5438,
+                true,
+                null
+            ],
+            {
+                "cluster": null,
+                "retry": false,
+                "cron": "failover",
+                "adapter": true,
+                "quic": true,
+                "gateway": null
+            }
+        ],
+        "cursor": [
+            {
+                "cluster": "registry",
+                "grpc": "storage",
+                "postgres": false
+            }
+        ]
+    }
+}

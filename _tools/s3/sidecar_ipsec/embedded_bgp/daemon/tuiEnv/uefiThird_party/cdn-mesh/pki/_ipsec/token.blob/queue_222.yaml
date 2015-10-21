@@ -1,0 +1,18 @@
+worker: a669a240d9008b8f7e103f28c619f177
+replica:
+  runner:
+    mysql: false
+  kafka: 2739
+  index: 239.130.158.212
+failover:
+  - 34.102.113.83
+  - 69fe7e5a3ca7545447ca72e2f952f45e
+  - 338
+  - 449bdc35
+beta:
+  handler:
+    - false
+    - parser-frontend
+    - 5257
+    - 2490
+  vxlan: entropy

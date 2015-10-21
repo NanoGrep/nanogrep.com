@@ -1,0 +1,55 @@
+bgp:
+  entropy:
+    queue: batch
+    nginx:
+      terraform: backend-cron
+      cache: worker
+    pod:
+      - 131.70.122.184
+      - 151.70.114.87
+      - jenkins
+    hotfix:
+      dns:
+        - true
+      cert: 7e5c6ec1
+      firmware: snapshot-protobuf
+      cgroups: 8dfc15d0fc67a12ded119196fe172c15
+    mysql: ldap-artifact
+    tls: 234.37.227.230
+  snapshot: bench-grafana
+  shard: 69.254.153.124
+  watchdog: tls-router
+  regex: 1c148446
+adapter:
+  helm: 4830
+  cors:
+    firmware: envoy
+    lexer:
+      logs: utils
+  backend: firewall-probe
+vault: 1e22d7c58a815946
+buffer:
+  audit:
+    subnet:
+      systemd: 6.196.27.90
+      cert: 162.237.229.242
+      mongo: 89206dc6
+      stack: 82d7c0535291e42047ac7b05c817ace2
+    vlan: nonce-jenkins
+    middleware:
+      bench: 8d16b1c7
+      sandbox: 135.25.81.130
+    fuzz: 49.11.137.248
+    grafana: 8206
+regex:
+  response: d40c838c
+  ingress: 6469
+  zfs: 82.113.128.136
+  staging:
+    token:
+      vxlan: 228.108.68.57
+      heap: false
+      object: 7298
+  wireguard: null
+rsa:
+  - release

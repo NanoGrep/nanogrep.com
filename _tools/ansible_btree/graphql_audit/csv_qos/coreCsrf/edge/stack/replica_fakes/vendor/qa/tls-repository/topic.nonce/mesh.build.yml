@@ -1,0 +1,30 @@
+ansible:
+  payload:
+    switch:
+      gateway: e01318da456327ca394824782a24f019
+      volume: payload
+      regex: lexer
+      table: null
+      frontend: null
+    stack:
+      - 1308
+      - 149.87.106.170
+    build: 043968bdaeeeb3b054d2ef3e00216598
+    vxlan: 9246
+    hashmap:
+      mapper:
+        - 213.144.216.240
+        - 9594
+        - null
+        - payload
+  lexer: heap
+  policy: 70.153.248.219
+  backend: 7e54ce5261c2d62f
+ceph:
+  dns: true
+  dist: 1348
+  json: false
+  snapshot: 00fdcc02
+  prod: ff96b445
+  hashmap: true
+service: 13.129.174.2

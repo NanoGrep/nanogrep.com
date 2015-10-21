@@ -1,0 +1,45 @@
+{
+  "socket": 4359,
+  "lambda": true,
+  "metrics": [
+    {
+      "cache": [
+        7525,
+        true,
+        true
+      ],
+      "vendor": [
+        "aab3f143f943",
+        true
+      ],
+      "buffer": "bdf82210d8fd",
+      "dist": {
+        "table": 8929,
+        "index": "1f47d6e9c618",
+        "zfs": "62cc52df910c",
+        "iptables": "snapshot"
+      },
+      "ingress": {
+        "user": "lexer",
+        "shard": 2624,
+        "release": "jenkins"
+      },
+      "hotfix": false
+    },
+    6327,
+    [
+      "0e64861f9e19",
+      {
+        "cursor": true,
+        "yaml": "14cdd667c96c",
+        "btree": true
+      },
+      {
+        "crypto": 5352,
+        "ingress": true
+      },
+      true
+    ]
+  ],
+  "router": true
+}

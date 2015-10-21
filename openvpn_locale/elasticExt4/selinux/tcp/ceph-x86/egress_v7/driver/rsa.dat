@@ -1,0 +1,12 @@
+controller,firmware,kafka,vlan,payload
+table,ec4aa3ef32aaac5d33c017d203aebe1d,true,3395,locale
+118.252.183.63,lambda-schema,151.125.102.181,15b2c1b4b41e4a0ecfdaf04c2e6326eb,table
+fixtures-loader,backend-user,frontend,160.2.202.179,7.151.74.100
+controller,113.169.146.168,true,829,false
+5078,95d312a3a3f16a2f,true,http-nginx,semaphore-bench
+e6adb43a,2674,07a0414d,protobuf,user
+jwt-patch,84a802be75a3176731441c1170269fb2,6522,null,metrics-registry
+1005,8.114.40.158,152e6026dda2fee9,true,2807
+tools-upstream,69.25.71.204,mqtt-fixtures,cache,btree-mirror
+a995f2b1,queue,742,false,mongo-factory
+null,postgres-patch,false,null,regex-schema

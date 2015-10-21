@@ -1,0 +1,24 @@
+upstream:
+  - staging-beta
+  - 197.52.159.171
+coroutine:
+  fuzz:
+    assets: 7057
+    terraform:
+      - 7981
+      - buffer-kerberos
+  cert:
+    config: session
+  cookie: 7360
+  gateway: grafana-firewall
+  cli:
+    loader:
+      watchdog: 6745
+    nat: tests
+    mesh: false
+    postgres: 383db4fa773ef705
+    build:
+      jwt: batch-topic
+    prometheus:
+      jwt: frontend
+  mapper: node-env

@@ -1,0 +1,48 @@
+cluster:
+  staging: systemd-hotfix
+iptables:
+  - c2b803ddaa4726e4
+user:
+  session:
+    vault: a83a25738ca22806
+    build:
+      - parser-shard
+raid:
+  lib: 1a8b8b9e283b2c0b201890d039dd5138
+  switch: 229.205.46.82
+  vxlan:
+    hmac: a6a30e295fb077220e890250fc215eb5
+    prod: 6f6cecce89a83084f002847a93b6b247
+    ceph:
+      index:
+        - crypto
+        - null
+      vendor: btree-vlan
+      ingress: 9841
+      object: ceph
+payload:
+  btree:
+    jwt: ff6252004d4fd596c0ea763b5a27280e
+    elastic:
+      iptables: column-proxy
+      ansible: bloom-registry
+      nfs: probe
+    zfs: 2715
+  elastic:
+    nginx:
+      canary: 201.177.167.22
+      rest:
+        - sha256-vxlan
+        - nfs
+      dist: 7b0a1c8fa63eb79d9dba5642642335db
+      prod: null
+      prometheus: 4237
+      edge: rest
+    mysql: policy-frontend
+  object:
+    - cron
+    - mirror-daemon
+    - aes-bgp
+  scripts: 3f2b1f3b
+  mapper: 119.30.219.25
+cert: 4a13ce47b1b4413f9fdc9d450be15cdc

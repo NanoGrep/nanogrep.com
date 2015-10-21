@@ -1,0 +1,7 @@
+failover:
+  ansible: false
+  cache:
+    watchdog: 39.34.204.83
+    traces: registry
+  object: 3311be5d9d2c8d89
+  cli: failover

@@ -1,0 +1,13 @@
+wireguard: 151.156.126.190
+object: 11e68f8b
+vxlan:
+  aes:
+    - true
+    - protobuf-failover
+  udp: raid-backend
+  socket:
+    - threadpool-jenkins
+    - 6904
+    - 466
+    - 52.210.181.122
+protobuf: 165.38.14.41

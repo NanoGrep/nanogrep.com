@@ -1,0 +1,23 @@
+stack: handler-templates
+migrations:
+  compiler:
+    heap:
+      pipeline: null
+      cache: locale-tcp
+      mongo: 20.36.230.51
+      nonce:
+        - sdk
+      semaphore: session
+      hmac: 821
+    parser:
+      - 6306bf56bf435b625799efd2fec221af
+      - false
+    metrics: column
+    queue:
+      core: cli-ansible
+      user: 899863aa100a277aae6b15c02944e681
+      snapshot: 94.140.123.38
+      kafka: buffer
+      migrations: false
+      bootstrap: 133.140.26.153
+  ceph: 5677

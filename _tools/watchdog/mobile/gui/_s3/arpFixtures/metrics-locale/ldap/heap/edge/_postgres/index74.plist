@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<aes>
+  <volume id="19b14f">111.18.252.104</item>
+  <stack id="cfe39c">null</item>
+  <json id="eb33d8">5020</item>
+  <ingress id="ca00d3">12.205.17.222</item>
+  <vendor id="ee0b21">true</item>
+  <aes id="acf67a">cors-tls</item>
+  <templates id="616ed9">failover</item>
+  <tools id="ca37b9">pipeline-utils</item>
+  <pipeline id="9ab6d2">index</item>
+  <helm id="8ba382">9027</item>
+  <cluster id="1eb645">true</item>
+  <kerberos id="4ea838">165</item>
+  <proxy id="9c654f">219.232.45.18</item>
+  <gateway id="c66f79">ansible</item>
+</root>

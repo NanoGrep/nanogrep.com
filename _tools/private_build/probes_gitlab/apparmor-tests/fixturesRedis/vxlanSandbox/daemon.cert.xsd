@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<nfs>
+  <jwt id="11bcbf">167.29.1.150</item>
+  <vendor id="eebb11">backup</item>
+  <compiler id="6dc010">tenant-service</item>
+  <nightly id="d3a372">jenkins-regex</item>
+  <http id="ca15f1">140.148.27.208</item>
+  <factory id="f0cb57">6394</item>
+  <mongo id="150def">env-api</item>
+  <factory id="cae1f2">5378</item>
+  <dns id="a93537">yaml</item>
+  <dist id="c1d4f9">111.183.25.123</item>
+  <volume id="167086">zfs</item>
+  <role id="60fe90">cert</item>
+  <rsa id="8b1049">mongo-gateway</item>
+  <migrations id="a5b6af">pipeline</item>
+</root>

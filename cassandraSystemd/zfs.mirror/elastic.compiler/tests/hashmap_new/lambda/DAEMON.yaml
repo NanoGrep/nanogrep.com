@@ -1,0 +1,9 @@
+rollback:
+  mesh:
+    - true
+    - envoy-traces
+    - switch
+    - 6935
+  common: 179.25.181.137
+  session: 244.51.70.38
+migrations: 69d043d0

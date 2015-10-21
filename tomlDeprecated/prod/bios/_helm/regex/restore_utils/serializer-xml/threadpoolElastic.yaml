@@ -1,0 +1,4 @@
+salt: handler-edge
+legacy: jwt-nat
+regex:
+  - null

@@ -1,0 +1,115 @@
+[
+    null,
+    {
+        "ingress": {
+            "btree": {
+                "release": "websocket",
+                "templates": true,
+                "vendor": null
+            }
+        },
+        "mysql": {
+            "pipeline": null,
+            "http": [],
+            "user": "patch",
+            "bgp": {
+                "batch": "locale"
+            },
+            "parser": 8479
+        },
+        "payload": {
+            "subnet": [],
+            "lexer": {
+                "oauth": "17ffb4f07b96",
+                "threadpool": null,
+                "elastic": 7603,
+                "tests": "13532c0244e6",
+                "grafana": null,
+                "cli": 9918
+            },
+            "upstream": "frontend",
+            "driver": false,
+            "udp": {
+                "failover": null
+            },
+            "pod": {
+                "trie": "tests"
+            }
+        },
+        "snapshot": {
+            "role": {
+                "websocket": "383dcd66ec11"
+            },
+            "factory": {
+                "bench": 4273,
+                "api": "cf0abdda0929",
+                "subnet": "4378f795f08b",
+                "user": "8131fcb8e69d",
+                "group": null
+            },
+            "staging": {
+                "worker": "failover",
+                "stream": 7506,
+                "offset": false,
+                "service": "jwt"
+            },
+            "queue": {
+                "snapshot": 614
+            }
+        },
+        "sandbox": [
+            false,
+            null,
+            {
+                "helpers": false,
+                "worker": 9615,
+                "helm": false
+            },
+            true
+        ]
+    },
+    {
+        "tools": [
+            [
+                true,
+                798,
+                5894
+            ]
+        ],
+        "ceph": null,
+        "quic": [
+            "099ee7c00cf1",
+            {
+                "cli": null,
+                "dns": true,
+                "buffer": false,
+                "adapter": "e05994ff3b54"
+            }
+        ],
+        "grafana": "fdcff9273213"
+    },
+    {
+        "registry": {
+            "env": [],
+            "salt": [
+                "fixtures",
+                2828,
+                "00c817593246"
+            ],
+            "tcp": {
+                "vxlan": "controller"
+            },
+            "jenkins": 6594
+        },
+        "token": [
+            true,
+            [
+                null,
+                null,
+                null
+            ],
+            "response",
+            null
+        ]
+    }
+]

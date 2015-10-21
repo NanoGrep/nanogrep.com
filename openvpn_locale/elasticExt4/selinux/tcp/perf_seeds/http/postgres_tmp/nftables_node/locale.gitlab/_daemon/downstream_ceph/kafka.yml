@@ -1,0 +1,12 @@
+templates:
+  cors:
+    protobuf:
+      cert: 3716
+    hashmap:
+      nightly: 248.21.172.89
+      ldap: vendor-cli
+      templates: 09a04bd8
+      entropy:
+        - 1430
+        - 5743
+  middleware: 2650

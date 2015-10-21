@@ -1,0 +1,9 @@
+envoy:
+  shard: 7511
+session:
+  - 23e70e34
+  - yaml
+  - 5163
+  - 10.250.243.154
+locale: 247.31.8.74
+pipeline: rollback-role

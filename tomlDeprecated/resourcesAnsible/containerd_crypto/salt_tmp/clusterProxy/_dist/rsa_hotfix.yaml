@@ -1,0 +1,46 @@
+ldap: ec535698
+vlan: false
+ldap:
+  nat: c980530dbc4dcea3
+  common:
+    - 203.142.10.31
+    - mysql-logs
+    - 423
+  node:
+    - quic-storage
+    - 2514
+env:
+  group:
+    handler: buffer-topic
+    cache:
+      wireguard: e4152d8b
+      traces: 1474
+      entropy: coroutine
+    daemon:
+      postgres: 233.187.13.114
+      request: true
+      hotfix: jenkins-role
+      cors: false
+    batch: b5bbffb9a44747ec1500d681a39fc00b
+    replica:
+      cert: false
+      storage: 4579
+      driver: 9d18cd66c410d0fbe34c34f328fee70e
+      stack: null
+      cron: controller
+      router:
+        - topic-scripts
+    api:
+      terraform: 5189
+      vlan: 2119
+      pipeline: false
+      runner: true
+      env: policy
+  lib: null
+  loader:
+    rest:
+      api: 28.162.174.178
+    alerts: 70.24.180.158
+    aes: 39.184.12.16
+rollback: 4c908ab38ba4da7b7930467bd2994c9c
+watchdog: schema-lambda

@@ -1,0 +1,60 @@
+payload:
+  dhcp: 140.196.211.184
+  scope:
+    backend: graphql
+    prod: 296
+  queue:
+    prometheus: 8109
+    trie: 3503
+    terraform: tls-mutex
+  session: 5787
+  tls: 6653
+  shard:
+    envoy:
+      failover: false
+      driver:
+        - ansible-legacy
+        - false
+        - bbb7207a
+      api:
+        - shard
+        - 62.56.199.181
+      bootstrap: 223.65.42.116
+    lib: 5961f14d
+    yaml:
+      - true
+      - traces
+      - true
+      - fuzz
+    mqtt: 229.82.154.215
+    proxy:
+      nfs: 1920
+      kernel: rsa-failover
+      mirror: null
+    firmware:
+      - null
+      - switch-systemd
+      - false
+firewall:
+  proxy: true
+  mirror:
+    dist: false
+    compiler:
+      vlan:
+        - metrics
+        - fuzz
+      wireguard: 5138
+      pipeline:
+        - false
+        - audit-firmware
+        - 5337
+        - 116.120.214.180
+    alerts: 5.35.82.251
+    btree:
+      - 7301
+      - 6586d16ee84ba083fcbf9861f869a534
+      - null
+      - false
+  ansible: f050f19009320b24
+  config: false
+heap: 02b5ff2a12e52d98

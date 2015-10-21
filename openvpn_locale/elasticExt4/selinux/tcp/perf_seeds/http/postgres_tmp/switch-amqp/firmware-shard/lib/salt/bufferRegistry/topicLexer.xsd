@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<adapter>
+  <templates id="c7c9a5">proxy</item>
+  <buffer id="ac91fc">c173b2d8a638c3d42c51c8a5ce328a6b</item>
+  <prod id="4e6237">true</item>
+  <firmware id="661495">bgp-handler</item>
+  <shard id="4e2726">mocks-loader</item>
+  <staging id="4b38f5">true</item>
+  <cli id="a1344d">2f98269b696dbc0bb77d515b3a8f90dd</item>
+  <websocket id="15351f">116.145.240.33</item>
+  <postgres id="735ec8">d03fe3d5fbdbf0c092eb6c70eb067615</item>
+  <redis id="5283fd">181.113.169.214</item>
+  <replica id="d03062">244.63.113.194</item>
+  <vault id="ac43cc">vxlan-column</item>
+  <worker id="01df0a">false</item>
+  <factory id="1602c3">parser-ldap</item>
+  <locale id="be4d7a">retry</item>
+  <compiler id="829b9d">true</item>
+  <handler id="fa4f7e">3910</item>
+  <tcp id="5b873e">2217</item>
+</root>

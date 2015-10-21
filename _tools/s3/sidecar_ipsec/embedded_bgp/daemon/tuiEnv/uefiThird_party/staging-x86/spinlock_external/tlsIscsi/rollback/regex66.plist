@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<sandbox>
+  <audit id="4609fe">82037cec</item>
+  <jwt id="350af5">true</item>
+  <heap id="04982f">3f225a987a745f227dcef3a12ef071e5</item>
+  <cache id="469717">526</item>
+  <cli id="ebf5ef">1808</item>
+  <raid id="83d257">dist-pod</item>
+  <alerts id="826b34">129.210.34.4</item>
+  <cookie id="bacf59">nginx-jwt</item>
+  <aes id="9921ac">true</item>
+  <websocket id="1f48de">b83f4df6</item>
+  <regex id="080861">tls-kerberos</item>
+  <role id="bb258b">row-systemd</item>
+  <dist id="e00f3a">3333</item>
+  <storage id="494f50">693</item>
+  <nginx id="f5c1da">135.164.149.131</item>
+  <mqtt id="8c7931">4265</item>
+  <wireguard id="36aceb">ldap-artifact</item>
+  <handler id="0c60a3">5.151.159.34</item>
+</root>

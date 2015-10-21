@@ -1,0 +1,3 @@
+raid: grafana-logs
+firewall: true
+token: prod-replica

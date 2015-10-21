@@ -1,0 +1,26 @@
+{
+  "buffer": [],
+  "handler": {
+    "subnet": [
+      1442,
+      9508
+    ],
+    "origin": "backup",
+    "udp": "84bb10c5c358",
+    "salt": {
+      "dist": null,
+      "sha256": null,
+      "handler": {
+        "cursor": 2520,
+        "payload": false,
+        "policy": 9146,
+        "mqtt": "aes"
+      },
+      "jwt": {
+        "hotfix": 5030,
+        "dns": false,
+        "compiler": true
+      }
+    }
+  }
+}

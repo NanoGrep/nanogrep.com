@@ -1,0 +1,19 @@
+handler:
+  tools: switch-snapshot
+  service:
+    helpers:
+      - bench
+    handler:
+      object:
+        - limit
+        - d1d2a7d1e1f4f80a
+        - 42df2cb7439294cbb00fc9c2d6e44eda
+      heap: true
+      schema: 68e9b71b2190abf2
+      kerberos: null
+  mirror:
+    - 160.249.172.53
+    - 9652
+    - user
+    - true
+ldap: 26.74.17.68

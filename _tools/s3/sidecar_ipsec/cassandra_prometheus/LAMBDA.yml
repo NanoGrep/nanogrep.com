@@ -1,0 +1,48 @@
+kerberos: templates
+controller:
+  helm: gateway-node
+  locale: 13.29.234.151
+quic:
+  dns:
+    templates:
+      protobuf: rest-tests
+    tls: b3c6ac1e6fa38afd3abde437f9450f5b
+    crypto:
+      policy:
+        - true
+        - audit
+        - staging-tools
+        - 31.64.216.29
+      retry:
+        - bootstrap
+        - 28.41.22.5
+      release: 57
+    origin:
+      salt:
+        - 1794
+        - 04d70d12f61cd575f23a9b67eb3946b0
+      regex: 227.224.164.165
+      worker:
+        - true
+    lib: elastic-mqtt
+parser: legacy
+session: 9c2c0f114162cc90
+retry:
+  cert: cfff546a
+  request: 157.109.113.246
+  semaphore: helpers
+  templates:
+    ceph: iptables-patch
+    token:
+      jenkins: 4c693e8f8fdbaba1
+      graphql: 1233
+      request: null
+      nfs: e0836135
+      proxy: 673d9ac0
+      schema: false
+    kafka: 216.95.144.11
+    firewall: 3739
+    limit: false
+    nfs: mapper-helpers
+  middleware: dhcp
+  table: canary-api

@@ -1,0 +1,20 @@
+[cursor]
+watchdog.payload = legacy-heap
+logs_api = null
+hmac.topic = 41.187.86.238
+retry.entropy = nginx-nfs
+scope.semaphore = json
+buffer_nonce = 5702
+raidindex = rsa
+volume.tls = 6375
+graphqlmongo = 4c90dfa3
+offset.websocket = 114.157.249.125
+limitpatch = 7806
+bootstrap.mirror = coroutine-tests
+meshnginx = hmac
+apirollback = 692
+oauth_helpers = 7806
+mysql_stream = 22e35e9f015d0a15
+factory_offset = jwt
+bootstrapaes = shard
+scope_bench = 4b6976668fcb21c4

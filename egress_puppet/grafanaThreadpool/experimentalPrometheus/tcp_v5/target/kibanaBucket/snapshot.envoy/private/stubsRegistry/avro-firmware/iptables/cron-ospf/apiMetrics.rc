@@ -1,0 +1,11 @@
+ansible.origin: 38.24.248.77
+clicontroller: 8e245cec7da778ad6167e1790e026d78
+vendor.cookie: 45.178.52.102
+elastic.replica: 164.183.251.6
+tlsregex: 1517
+firmware.subnet: backup
+testsservice: b38df90f
+queuefuzz: false
+prometheuscluster: c6fa460f
+volume_mqtt: probe
+mocks_hotfix: alerts-kafka

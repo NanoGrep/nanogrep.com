@@ -1,0 +1,19 @@
+{
+  "frontend": [
+    "upstream",
+    [
+      "d6332b7c5024",
+      true,
+      "89b20171d820"
+    ],
+    {
+      "queue": {
+        "kernel": "b1e8a232681a",
+        "locale": true,
+        "audit": false,
+        "stack": null
+      },
+      "mongo": "ce2912770c1b"
+    }
+  ]
+}

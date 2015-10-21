@@ -1,0 +1,49 @@
+registry: 118.153.232.249
+tls: 91.151.60.200
+envoy: true
+scope:
+  rollback: true
+  registry: 4927
+  driver: 229.157.174.245
+  wireguard: 1b6977dad8ee6e9a
+  cache: 125.81.9.37
+  loader: 829
+request:
+  postgres:
+    artifact:
+      nightly: 53.125.222.226
+      oauth: null
+      volume: batch
+      btree: null
+    metrics:
+      env:
+        - fa70cefa
+        - false
+        - 24.89.224.2
+        - false
+      quic: null
+      object:
+        - 7280
+        - 56.154.58.27
+      postgres: 4628
+    tools:
+      nonce: threadpool-nat
+      hmac: true
+      tcp:
+        - 6805
+      proxy: null
+    middleware:
+      mongo: null
+  heap:
+    vault: upstream-proxy
+    volume:
+      - 992c8a8c
+      - 23.15.199.112
+      - sdk-nightly
+    tools: 7775
+    vault:
+      edge: d97997621b5e0d25
+  mqtt: object
+  dns: feb831a4fde32f833e25da1040d817ee
+  hashmap: 894a8e3c4f7cf7f1664daf9f25a77002
+  nat: cgroups

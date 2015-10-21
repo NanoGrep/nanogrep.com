@@ -1,0 +1,32 @@
+bootstrap:
+  tenant: true
+  runner: 23.46.200.67
+btree:
+  salt:
+    config: null
+    ingress:
+      - 1c86b5a6478260619b2212deac809ce0
+    snapshot:
+      grafana:
+        - false
+        - 9804
+    redis: null
+    api: 113.150.139.195
+    router: schema-ingress
+  vendor: 3
+origin:
+  fixtures: 2973
+  origin:
+    lexer: 1752f0b579c4fc08127cc9b4d03a4c92
+    wireguard:
+      - 284b1563
+      - true
+      - bb654515a9ca42135eda10000b8f10a7
+upstream: bgp-coroutine
+rsa: 0041dfc2ef30cd7c0c8272a66b9126d2
+router:
+  crypto: 374e9197
+  user: lambda
+  rest: mysql-utils
+  entropy: a3975b77f9d1af7c
+  grpc: 3826

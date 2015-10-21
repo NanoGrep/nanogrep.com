@@ -1,0 +1,42 @@
+{
+    "queue": {
+        "mqtt": null,
+        "topic": [],
+        "tenant": [
+            false,
+            {
+                "service": false
+            },
+            {
+                "factory": false,
+                "logs": 6920,
+                "offset": null,
+                "cron": false
+            }
+        ],
+        "cert": {
+            "heap": [
+                null,
+                null
+            ],
+            "metrics": [
+                4584,
+                428
+            ]
+        },
+        "bucket": {
+            "nat": {
+                "retry": "prometheus",
+                "wireguard": "fbf5a978fa1a",
+                "pipeline": false
+            },
+            "cursor": {
+                "node": 7815,
+                "failover": "9e2b7c5fcc45",
+                "bgp": true,
+                "group": 7645
+            }
+        },
+        "protobuf": null
+    }
+}

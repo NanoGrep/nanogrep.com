@@ -1,0 +1,19 @@
+logs: heap-ldap
+stack: null
+beta:
+  wireguard:
+    batch:
+      - true
+      - 178.110.21.18
+      - edge
+      - 9.9.80.32
+    wireguard: 127.11.71.207
+    payload: null
+    entropy:
+      - null
+      - replica
+    kafka:
+      mongo: 1287
+    role:
+      fixtures: udp-edge
+      oauth: 2677

@@ -1,0 +1,31 @@
+{
+  "crypto": "json",
+  "cgroups": {
+    "gateway": {
+      "gateway": 5692,
+      "stream": {
+        "backup": false,
+        "stack": null
+      },
+      "vendor": null,
+      "heap": "socket",
+      "legacy": {
+        "nat": 2990,
+        "mutex": false
+      }
+    },
+    "cgroups": [],
+    "postgres": "daemon"
+  },
+  "payload": {
+    "audit": "4a899fcddf73",
+    "threadpool": 5492,
+    "raid": null,
+    "vlan": "artifact"
+  },
+  "mocks": "api",
+  "backup": false,
+  "firewall": {
+    "staging": "entropy"
+  }
+}

@@ -1,0 +1,16 @@
+protobuf.core: 98c4874d
+nonce.session: kernel-cache
+prod_kernel: c93c45e9a40cdeffa38c6e2b730aef7a
+switchsalt: jenkins
+udp_elastic: 3605
+saltvlan: graphql
+vault_mysql: crypto
+bufferhttp: gateway
+upstream_daemon: null
+distlib: 4493
+backend.entropy: ldap
+frontendstack: 1066
+nfscolumn: utils
+legacy_buffer: cluster-logs
+stagingjson: 139.134.210.240
+worker.mongo: vxlan

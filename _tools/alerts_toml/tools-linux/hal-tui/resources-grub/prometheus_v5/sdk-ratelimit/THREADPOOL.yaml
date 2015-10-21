@@ -1,0 +1,66 @@
+edge: request
+controller:
+  cache:
+    hashmap: lambda-vault
+    vlan:
+      retry: sandbox-graphql
+    sha256:
+      - raid-nginx
+      - 8616
+    probe: jwt-hashmap
+  probe:
+    terraform:
+      - dhcp
+      - 2512
+    iptables: false
+    snapshot:
+      jwt: logs
+      controller: 2020
+      cli: 183.33.64.23
+      firmware: 9572
+      token: handler-helpers
+    alerts: 4668fe181fab9648ed99429b698c142c
+rest:
+  probe: fuzz
+  tls: true
+  mqtt:
+    vlan:
+      ansible:
+        - b771e0ca3c0a8e20
+        - 1.152.126.244
+        - false
+        - false
+      replica: tests
+      nfs: 132.190.172.48
+      dist: beta
+    firmware: scope-prod
+    scripts: null
+    helpers: 50.119.29.4
+  protobuf:
+    assets: dhcp
+    mutex:
+      dist: false
+      group: true
+      json: 154.22.74.67
+      json: 7146
+    storage: 6181
+    tools:
+      bootstrap:
+        - upstream
+      cert: traces
+      artifact: null
+      hashmap: service-hmac
+      cert: 61f54c2f25f814edf3e7e3018aadaad8
+    ceph:
+      build: 54.84.89.152
+      object: switch-bloom
+      column: tests
+      tcp: efcc5b1389a04696b0244035c6af9568
+      sandbox: false
+      tcp: prometheus
+  ansible: 4368
+config: dfd2d6d9e7b2bae977fb9e952925ed79
+scope: null
+mongo:
+  - ldap-nginx
+  - f657733594735a06352f4d14ef13bbeb

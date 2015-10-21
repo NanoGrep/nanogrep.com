@@ -1,0 +1,9 @@
+release,canary,websocket,core,scheduler,mesh,redis
+templates,271,nonce-jenkins,3740,161.225.41.103,false,6708
+locale-trie,27.3.163.22,locale,219e2ab8c01f2406f40191cd90bb011c,58a8db01,core-column,token
+fuzz-systemd,migrations-lib,true,false,81830f1de1186b2adb214445d1026b1f,null,true
+138.139.10.57,group,false,false,true,false,cache
+true,4def292d48fc0d434130e50ec49d47fd,109.91.92.216,true,true,6047,211.193.208.59
+false,8382,8791,true,elastic-utils,103.81.78.53,heap
+7481,9760,payload,sha256,row-mocks,null,vlan
+prometheus,106.202.48.115,null,iptables,column,audit,null

@@ -1,0 +1,18 @@
+iptables:
+  legacy: response
+  core:
+    - 7983
+    - false
+    - 9077
+worker:
+  bucket:
+    - b6b54fa7
+    - 711
+    - 222.243.158.168
+  bgp: token-postgres
+  hmac: 4bb0bf41f9269449ce822e2f4a0e33ba
+  jwt: 84
+  locale:
+    queue: null
+    socket: 151.248.172.134
+  tools: 12.11.30.63

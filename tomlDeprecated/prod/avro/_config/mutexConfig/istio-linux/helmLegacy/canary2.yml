@@ -1,0 +1,14 @@
+worker:
+  cache: 195.150.232.80
+  regex:
+    entropy:
+      replica: 11f299ad
+      cursor: sandbox-trie
+    scope: 1800
+    replica: 80.219.237.175
+    hotfix:
+      tests: 197.164.25.177
+      coroutine: threadpool
+  audit: 160.142.0.145
+row: prometheus-build
+socket: true

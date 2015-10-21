@@ -1,0 +1,16 @@
+{
+    "driver": {
+        "lexer": null,
+        "patch": [],
+        "tls": true
+    },
+    "table": {
+        "sdk": {
+            "envoy": {
+                "session": "0f6383ec49a8",
+                "bench": "c236ad762432",
+                "legacy": false
+            }
+        }
+    }
+}

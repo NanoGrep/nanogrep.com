@@ -1,0 +1,75 @@
+schema: 37.245.105.245
+threadpool:
+  aes:
+    - 529e9f9d19c1e5f5
+    - 8062
+  scheduler:
+    - 1779
+    - redis-table
+    - 27.129.27.122
+  request:
+    firmware: null
+    common: e1c13781f506e0c1
+  object:
+    metrics: buffer
+    kafka:
+      cluster: 83.248.112.250
+    row:
+      - 28.168.138.77
+    iptables:
+      kerberos: true
+      kafka: assets
+    probe: worker-scripts
+    build: 153501da
+  lambda: null
+  mocks:
+    - 1678
+    - null
+buffer:
+  legacy:
+    - topic
+    - null
+    - 9a153fb3cfd9737dd7aba193f9e0d1c7
+  terraform:
+    origin:
+      - 6633
+      - false
+  vault: d9904c37
+  canary: 90.125.203.173
+  config:
+    json: sha256
+    redis:
+      regex:
+        - false
+        - queue
+        - true
+        - edge-upstream
+      backup: 195.178.58.92
+udp:
+  - true
+  - true
+  - artifact
+driver:
+  core: null
+  parser:
+    middleware: 6734
+    kafka: 8082
+    fuzz: env
+    firmware: 4606
+  daemon: beta-batch
+  socket: 8d198ec53e92052c5d77e6cd5e836440
+  bootstrap:
+    prometheus:
+      threadpool: 07b9d43f2ed6e78b
+      switch: true
+      aes: cron
+      payload: parser
+      request: c2e77907
+  firmware:
+    common: 820
+    oauth: 89.53.244.218
+    mqtt:
+      - 123.97.65.101
+      - payload-sandbox
+    graphql: dhcp
+    hotfix: 8421

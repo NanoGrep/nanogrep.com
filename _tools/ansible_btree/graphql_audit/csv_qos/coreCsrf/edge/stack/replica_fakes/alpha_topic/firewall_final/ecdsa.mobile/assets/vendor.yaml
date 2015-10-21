@@ -1,0 +1,68 @@
+rsa:
+  beta: rsa
+trie:
+  bucket: 613e136a
+rsa:
+  bench:
+    driver: 115.226.74.46
+    column:
+      - scheduler
+      - false
+    websocket:
+      - session-sdk
+      - 5656
+    logs: socket-beta
+  iptables: 240.63.213.165
+  snapshot: 231.201.154.117
+  lambda: true
+failover:
+  scope: bgp-cgroups
+  worker:
+    buffer: token
+    templates: 133.248.137.196
+  aes: fixtures-batch
+core:
+  pipeline:
+    - 214.38.10.59
+    - 752d327913e8fe82cb7126c584cb6242
+  traces:
+    mqtt: false
+    session: 7684
+    controller:
+      offset: scheduler
+      cron: cors-oauth
+    registry: rest-compiler
+    envoy: b4e40349
+tests:
+  legacy: false
+  failover:
+    bootstrap:
+      ingress: false
+      runner: null
+      retry:
+        - c18127e4
+        - 209.226.71.58
+        - hmac
+      heap: 72afcf28
+      dns:
+        - 119.112.218.24
+      http: tools-probe
+    iptables:
+      traces:
+        - 1864
+        - session-mocks
+      artifact:
+        - false
+      sha256:
+        - 219.153.151.51
+    vendor:
+      parser: bdd3dbc442c30fe703d4bdedc2906c80
+      zfs: pipeline
+      prod:
+        - 103.124.140.36
+        - aa7cfe9104f7301be7cecc6a179fccf5
+      scope: proxy
+  object: 144.168.221.67
+  hmac: 5497
+  bucket: null
+  wireguard: false

@@ -1,0 +1,15 @@
+oauth:
+  release: bdf045ca
+  nat:
+    - eb686399e266d67c9b08d09e5cb52b53
+    - true
+    - 63.78.170.67
+  edge:
+    nat: 6837
+    json:
+      - 66.129.126.3
+  row: service-backend
+  nfs: mirror
+  core: systemd-mqtt
+postgres: 252.60.97.189
+adapter: 6896

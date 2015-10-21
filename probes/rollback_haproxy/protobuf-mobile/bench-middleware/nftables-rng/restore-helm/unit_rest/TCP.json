@@ -1,0 +1,26 @@
+{
+  "yaml": false,
+  "tests": {
+    "json": true,
+    "compiler": true,
+    "websocket": [
+      {
+        "tenant": "64b4079dd5d5",
+        "entropy": "29211d048a08",
+        "upstream": "25061a4d5131",
+        "tls": false,
+        "policy": "a682f9892898",
+        "router": false
+      },
+      "bc6b4674cf7f",
+      {
+        "prod": "ba7ba6357015",
+        "helm": null
+      },
+      null
+    ]
+  },
+  "alerts": [],
+  "ceph": true,
+  "loader": false
+}

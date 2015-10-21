@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<envoy>
+  <audit id="736ea1">stack-kafka</item>
+  <api id="0bfba3">5779</item>
+  <beta id="33a43e">shard-mesh</item>
+  <logs id="083c94">common-switch</item>
+  <service id="161931">column</item>
+  <protobuf id="71c0d0">3493</item>
+  <mutex id="5fd722">stream-semaphore</item>
+  <upstream id="2615de">http-node</item>
+  <table id="8bf977">98faff2e</item>
+  <vxlan id="db9e22">row</item>
+  <yaml id="6ff387">191.96.41.20</item>
+  <locale id="6ad6b6">mocks</item>
+  <lambda id="ba75d4">replica</item>
+  <bloom id="4dbb42">38.192.113.162</item>
+  <tls id="18943c">false</item>
+</root>

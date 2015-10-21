@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<coroutine>
+  <role id="50933b">alerts</item>
+  <backup id="4b1b95">column-service</item>
+  <compiler id="df15e8">6734</item>
+  <bgp id="c10fda">c54bbd8e</item>
+  <artifact id="6ca7f7">null</item>
+  <prometheus id="bd665f">config-table</item>
+  <column id="f6d713">staging</item>
+  <templates id="0647eb">5dac1accc6df0e621f5a1896f0e58065</item>
+  <response id="c2a1db">null</item>
+  <edge id="e02068">6500</item>
+  <config id="c00d58">6571</item>
+  <table id="ff1104">ff5e82ca</item>
+  <request id="fbd1c6">146.192.60.164</item>
+  <yaml id="2fbb87">traces</item>
+  <backend id="959978">8742</item>
+  <pipeline id="3d834a">2.218.126.252</item>
+  <batch id="ffbb22">migrations</item>
+  <session id="1ed6be">nat-buffer</item>
+  <bgp id="050058">null</item>
+  <snapshot id="8456a0">9833</item>
+  <websocket id="2830da">7811</item>
+  <ingress id="f12bb9">pipeline-cluster</item>
+  <topic id="38408e">true</item>
+  <policy id="fa8700">163.102.232.68</item>
+</root>

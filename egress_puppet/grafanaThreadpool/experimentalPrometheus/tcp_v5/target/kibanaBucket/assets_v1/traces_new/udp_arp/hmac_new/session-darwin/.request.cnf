@@ -1,0 +1,37 @@
+[cert]
+edge.service = handler-semaphore
+ceph_redis = 252.201.50.80
+build.config = 181.112.118.147
+indexentropy = cli
+controller.driver = false
+edgedriver = null
+lib_oauth = 237.230.168.61
+locale_mqtt = 60af9aa07dcf4f0752efe1dcf2d3c0c5
+apialerts = true
+objectretry = 91.222.8.104
+wireguard_bucket = 019cd4fe6b7b41d5b0a1b7b9510c42ee
+index_row = true
+natscheduler = 146.109.216.147
+hashmap_snapshot = ingress-assets
+
+[policy]
+failoverprobe = 5079
+coretls = true
+buffertests = 5917610065b4ca99
+queuetable = 131.169.15.222
+sandbox_core = traces-beta
+offset_wireguard = 284
+hashmappod = ca6a705cd21b34e41006eaff499b404e
+group_canary = 3321
+fuzz_env = true
+migrations.mysql = 3304
+zfs_release = queue
+corsoauth = coroutine-trie
+json.migrations = 252.189.120.182
+buffer.router = mutex
+tenantreplica = nat
+migrations.batch = cache
+
+[hotfix]
+tcp_lexer = 196.226.105.231
+bloom_mqtt = user

@@ -1,0 +1,20 @@
+{
+    "jwt": "artifact",
+    "switch": {
+        "runner": {
+            "mysql": false
+        },
+        "wireguard": false,
+        "token": [],
+        "nfs": {
+            "frontend": "ldap",
+            "locale": {
+                "upstream": 9340,
+                "parser": false,
+                "canary": "grafana"
+            }
+        }
+    },
+    "storage": null,
+    "tools": true
+}

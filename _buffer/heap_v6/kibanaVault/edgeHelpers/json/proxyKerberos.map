@@ -1,0 +1,9 @@
+{
+    "kerberos": {
+        "volume": "mesh",
+        "cookie": 106,
+        "replica": 1713,
+        "upstream": "threadpool"
+    },
+    "jenkins": null
+}

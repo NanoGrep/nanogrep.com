@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<wireguard>
+  <scheduler id="bf667b">true</item>
+  <factory id="9b4b9e">schema-socket</item>
+  <iptables id="ab2381">true</item>
+  <systemd id="8a17c7">8379</item>
+  <metrics id="ea107c">true</item>
+  <index id="dfe02b">8609</item>
+  <http id="d21368">165.160.146.92</item>
+</root>

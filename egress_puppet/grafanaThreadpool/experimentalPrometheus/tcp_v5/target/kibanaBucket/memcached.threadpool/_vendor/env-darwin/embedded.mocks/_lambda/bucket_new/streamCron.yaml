@@ -1,0 +1,46 @@
+heap:
+  systemd:
+    common:
+      lexer: lexer
+      config: true
+      config: null
+      dhcp: 9758
+      btree: vlan
+      cron: 849
+    retry:
+      lexer: 221.177.172.158
+      factory: 2612
+      router: 187.86.116.246
+      worker: semaphore-bootstrap
+      lexer: 132.147.37.48
+    policy: batch-assets
+    crypto: udp
+  policy: 170.192.198.229
+  watchdog: true
+cron: false
+heap: true
+vendor: regex
+crypto:
+  migrations: mesh-fuzz
+  rsa: 3783
+  service:
+    json: fuzz-sandbox
+    shard:
+      udp:
+        - 22.86.248.118
+        - null
+      raid: 9899
+      cors: d7fa0c995ea8c7dd
+      prod: oauth
+      retry: 220.190.9.31
+      quic: request
+    cli: 6326
+    limit:
+      - 04693034
+      - 4941
+      - pipeline
+      - true
+    alerts:
+      - factory
+      - 8489
+    router: 50c674bc

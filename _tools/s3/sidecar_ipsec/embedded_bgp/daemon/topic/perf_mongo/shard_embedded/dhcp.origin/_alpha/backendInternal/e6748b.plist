@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<kerberos>
+  <rollback id="9a89a3">vlan</item>
+  <switch id="90e3a9">object</item>
+  <adapter id="93f900">76.95.145.190</item>
+  <lambda id="25c7c1">vxlan</item>
+  <pipeline id="23f9cc">true</item>
+  <backend id="717939">systemd-semaphore</item>
+  <pod id="954b36">51a5657147afa7f3ca405c924c0d63e2</item>
+  <backup id="00cc6a">stream-beta</item>
+  <postgres id="43e2c8">null</item>
+  <limit id="0a8280">8976</item>
+</root>

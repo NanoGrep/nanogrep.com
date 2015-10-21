@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<socket>
+  <nightly id="0b9f04">8166</item>
+  <bucket id="b2076b">common</item>
+  <topic id="a842d1">vendor</item>
+  <dhcp id="f57b8c">null</item>
+  <canary id="de0922">lambda-subnet</item>
+  <websocket id="5f63fa">migrations-nonce</item>
+  <scope id="6095d1">1867687001373bf27241bfed8f02ee37</item>
+  <tenant id="950dfd">65.73.184.43</item>
+  <envoy id="3cdf96">181.234.163.7</item>
+  <index id="d82576">upstream-config</item>
+  <cluster id="951b1a">68.228.33.184</item>
+  <scope id="939d27">null</item>
+</root>

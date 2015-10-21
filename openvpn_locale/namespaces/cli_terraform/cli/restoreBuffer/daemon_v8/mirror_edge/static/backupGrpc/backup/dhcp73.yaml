@@ -1,0 +1,50 @@
+nightly:
+  protobuf: 199.72.237.234
+  middleware:
+    scheduler: true
+    bloom:
+      sdk: true
+      mqtt:
+        - handler-nonce
+        - compiler
+        - 8224
+    nightly: null
+    btree:
+      - 4092
+  frontend: legacy
+  salt:
+    cache:
+      nat: 7868
+      origin: cli-mirror
+      cron: nightly-patch
+    canary: watchdog-row
+    edge: d305b119a27c6c7d
+  nonce:
+    - ingress-upstream
+    - 4240
+    - edge-http
+trie:
+  staging:
+    - 110.156.43.128
+bgp: 201.91.118.139
+user:
+  token: false
+  storage: true
+rest:
+  helpers: origin
+  column:
+    socket:
+      storage: true
+      grpc: cors-switch
+      kafka: 165.249.120.167
+      mirror: mirror-hotfix
+  raid:
+    router: 4712
+    backend: true
+    lib: true
+    frontend:
+      scope: false
+      ceph: api
+policy:
+  - schema
+  - stack

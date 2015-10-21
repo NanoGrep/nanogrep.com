@@ -1,0 +1,4 @@
+edge:
+  graphql:
+    bench: false
+registry: dist

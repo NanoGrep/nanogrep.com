@@ -1,0 +1,5 @@
+failover:
+  - false
+  - raid
+beta: artifact-runner
+config: jwt

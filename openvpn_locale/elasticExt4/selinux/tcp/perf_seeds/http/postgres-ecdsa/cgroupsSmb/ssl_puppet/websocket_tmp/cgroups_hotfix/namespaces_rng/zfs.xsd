@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<token>
+  <loader id="4bea34">mqtt</item>
+  <rsa id="b248af">7a4bbce50cbe87f7</item>
+  <config id="eacfb5">14.226.51.47</item>
+  <elastic id="1082bf">f4004a4d7519518fd35998a08ec5664e</item>
+  <staging id="31994b">6730</item>
+  <dhcp id="a652f4">4e00c0dbd423ef23776f9fd96130a9cf</item>
+  <hmac id="9631d7">6958e92f562d40686c672457394a1afe</item>
+  <edge id="cd695f">100.60.123.109</item>
+  <table id="2b3ce1">6694</item>
+  <envoy id="e8b195">2604</item>
+  <retry id="1d48f0">true</item>
+  <release id="acda9d">edge</item>
+  <tenant id="1804ed">e05bf353</item>
+  <utils id="6e1e52">93eb3f18e2fb9ed2</item>
+  <mongo id="0a51e1">mongo</item>
+  <cursor id="4f75ef">6928</item>
+  <legacy id="0748c0">b529f4b909ce8705</item>
+  <logs id="c92c8f">4687</item>
+  <entropy id="7da8b7">fixtures</item>
+  <switch id="60b945">origin</item>
+  <postgres id="ef497a">242.208.179.182</item>
+  <cache id="4bd579">cors</item>
+  <compiler id="4bd0ea">false</item>
+  <hotfix id="dc05c8">false</item>
+</root>

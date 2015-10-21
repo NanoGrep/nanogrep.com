@@ -1,0 +1,27 @@
+upstream: 102.229.136.240
+quic: true
+logs:
+  backend:
+    mesh: 7654
+    tests:
+      heap: 9d3663ad
+      table: 7992
+      kernel: buffer-storage
+      kernel: tenant-buffer
+  dns:
+    - 2d94ed8e
+    - 029f5649d8c291f7
+    - 6762
+  dhcp:
+    token: 6246
+    prometheus:
+      - bgp-staging
+      - 174.117.52.175
+      - 134.183.54.135
+    group: fuzz-session
+    threadpool:
+      - 1516
+      - null
+      - hmac-canary
+      - aa95ca56bac1ae411c7da968f2e28c2b
+  release: acd73a1c775eb09a4b94aa6e43b7c6a0

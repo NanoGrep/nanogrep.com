@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dns>
+  <sha256 id="ad3ff2">161.99.99.11</item>
+  <role id="07f86b">ce281770417ad5d4</item>
+  <backup id="baee82">cert</item>
+  <lexer id="7008b5">api-mqtt</item>
+  <crypto id="754473">false</item>
+  <response id="5affa1">mqtt</item>
+  <replica id="0d13cf">null</item>
+  <proxy id="30d5c4">d5fa365b9e33a897</item>
+  <replica id="a298fc">170.50.252.107</item>
+  <coroutine id="7361da">3897</item>
+  <threadpool id="2f1d6f">scope-service</item>
+  <stack id="35cfd0">offset</item>
+  <tools id="d30706">781</item>
+  <prod id="5a581d">3741</item>
+  <scripts id="8633a4">1272</item>
+  <elastic id="fc9268">assets-cron</item>
+  <terraform id="93db6c">nat</item>
+  <rollback id="1c6284">column-btree</item>
+  <dist id="b71a08">a8e1d0ceced28027</item>
+  <cookie id="5c1b8f">4723</item>
+  <cursor id="3dca14">legacy-fuzz</item>
+</root>

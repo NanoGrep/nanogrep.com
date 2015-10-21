@@ -1,0 +1,49 @@
+{
+    "nfs": {
+        "fuzz": false,
+        "hashmap": {
+            "sandbox": [
+                "b2b8986ca2da",
+                true
+            ],
+            "object": {
+                "response": null,
+                "migrations": "cors",
+                "helpers": 3256,
+                "bootstrap": "ingress",
+                "jenkins": true,
+                "jwt": "dhcp"
+            }
+        }
+    },
+    "hotfix": false,
+    "wireguard": true,
+    "vlan": {
+        "systemd": {
+            "origin": [
+                "e987fbdcf735",
+                "8ad4cc7f6bd2",
+                "table",
+                "5956e8f8e89e"
+            ],
+            "wireguard": true,
+            "cors": "2e2ad2fb160c",
+            "quic": false
+        },
+        "node": [
+            {
+                "lib": 6298
+            }
+        ],
+        "helpers": {
+            "adapter": {
+                "coroutine": 5701
+            }
+        },
+        "yaml": "cursor",
+        "postgres": {
+            "failover": "07176e9b75e8",
+            "prod": []
+        }
+    }
+}

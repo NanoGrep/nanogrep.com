@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<cron>
+  <rsa id="b4f95d">b438dd8e</item>
+  <handler id="45ca1c">8139</item>
+  <switch id="3929a6">143.96.130.48</item>
+  <bloom id="f9736e">42.113.41.32</item>
+  <udp id="d18af8">8330</item>
+  <btree id="b8c012">30.251.94.58</item>
+  <mutex id="a2d600">redis-cluster</item>
+  <aes id="0e0a3e">jenkins-terraform</item>
+  <pipeline id="96ee62">false</item>
+  <gateway id="a82a50">tenant-elastic</item>
+  <registry id="48a841">templates</item>
+  <bloom id="4f07db">6069</item>
+  <json id="bd26ff">postgres-fixtures</item>
+  <subnet id="17f637">true</item>
+  <kafka id="95bece">null</item>
+  <ingress id="a89370">7003</item>
+</root>

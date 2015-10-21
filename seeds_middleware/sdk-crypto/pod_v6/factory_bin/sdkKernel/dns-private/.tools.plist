@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<release>
+  <mapper id="7038c4">5695</item>
+  <mesh id="bb48ef">91.148.217.184</item>
+  <router id="19cc2a">proxy-gateway</item>
+  <bucket id="35e5e4">9235</item>
+  <hotfix id="5a59b8">3658</item>
+  <index id="ab6a61">225.53.173.32</item>
+  <graphql id="0b1ebb">firewall</item>
+  <tls id="316372">105.144.30.43</item>
+  <topic id="c92134">fc903c3471719fac98e12904bdda1d0e</item>
+  <sha256 id="8b26b3">null</item>
+  <heap id="4abad8">1d1835fb</item>
+  <sdk id="608b16">91.27.146.160</item>
+  <rest id="7e49d5">9654</item>
+  <assets id="953b56">4892</item>
+  <tests id="8e3cb6">7.60.214.154</item>
+</root>

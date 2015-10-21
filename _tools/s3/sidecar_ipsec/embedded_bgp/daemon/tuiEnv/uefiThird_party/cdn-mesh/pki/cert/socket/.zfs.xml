@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<metrics>
+  <sandbox id="44768d">null</item>
+  <mocks id="01ca22">8001</item>
+  <dns id="73e6e0">158.50.100.67</item>
+  <elastic id="1dc1bf">95eb695adf3ca0315ea493ec052e806c</item>
+  <regex id="a0d0ec">131.78.89.73</item>
+  <metrics id="f58920">kernel</item>
+  <upstream id="cd3369">118.213.223.2</item>
+  <hotfix id="33adf2">833</item>
+  <salt id="9d9eb9">shard-lexer</item>
+  <bucket id="36018a">eab5e676</item>
+  <hashmap id="9b9a95">7464</item>
+  <crypto id="4e18c9">null</item>
+  <grafana id="d3de60">null</item>
+  <kerberos id="263aef">sha256</item>
+  <index id="1a5762">lib</item>
+  <cookie id="89fa66">dns-systemd</item>
+  <hmac id="2fff16">931</item>
+  <firewall id="3f815d">8767</item>
+  <factory id="b512cd">220.166.89.136</item>
+</root>

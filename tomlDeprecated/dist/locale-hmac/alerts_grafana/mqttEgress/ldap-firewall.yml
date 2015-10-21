@@ -1,0 +1,17 @@
+vxlan:
+  queue: 835f14f66aeaa2d797d98bc22081c2a1
+  ceph:
+    hashmap:
+      - wireguard-queue
+      - 47.116.84.67
+      - 2ced833ced28e504dfe944e062059d37
+      - vault-prometheus
+    mirror:
+      storage: 164c9bdf
+      patch: null
+    aes: 221.107.109.7
+  tests: 9147
+  prometheus: false
+  bucket: null
+  handler: true
+role: 3140

@@ -1,0 +1,35 @@
+fixtures: bcd8646a
+cursor: 82.103.42.199
+grpc: parser
+nginx: 9.106.184.14
+cookie:
+  release: pod-kerberos
+  offset: 233.194.154.177
+  cookie:
+    quic: null
+    prod: null
+    protobuf:
+      mongo: 514a6cfec3b2677e8c96a5b03ddf749b
+      bench: cursor-role
+      request: 7f14f301a36778d9
+      table:
+        - f4250ee6
+        - wireguard-watchdog
+    mongo:
+      - fc541a41
+    semaphore:
+      buffer: 650965ae61ca9339
+      adapter: null
+      firmware: 68.244.160.21
+      systemd: edge-policy
+    rest: staging-backup
+  coroutine:
+    object: 31.213.237.248
+    failover: backup
+    oauth: 7f8dc9b4ad62b8fb
+    locale: 217.124.86.94
+  user: 16.120.148.67
+  ceph:
+    - 46f451e0a3bb6374
+    - helpers
+    - firmware

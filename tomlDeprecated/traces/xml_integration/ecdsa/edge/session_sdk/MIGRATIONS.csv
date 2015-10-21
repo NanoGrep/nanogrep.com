@@ -1,0 +1,11 @@
+registry,lib,snapshot,crypto
+false,true,false,78e225432ff3915740cefcbf3ff2f2c8
+tenant,true,true,null
+build-edge,d804fabc,200.183.44.4,null
+5606,api-cluster,1517,nightly
+c28348ac,false,kernel,false
+vxlan-hotfix,worker-limit,sandbox-controller,null
+4821,build-prod,4ae2766f675a7e0a44c4575072614aed,cf66bbde5cad5d9f7ca2960beb3b1cfd
+true,true,236.249.182.164,c2f8fc436951178f
+hmac,3006,223.149.17.153,staging-trie
+backup-storage,bootstrap-socket,76.183.22.94,0d1dc8a5

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zfs>
+  <yaml id="d077e8">tenant-scope</item>
+  <row id="b05aab">topic-entropy</item>
+  <grpc id="04749a">nfs-storage</item>
+  <service id="b09a8b">26695a9ce99b9e6bfd9306417f759248</item>
+  <rest id="27697c">object-dist</item>
+  <router id="be2119">267ac04eba71bda58c2b8a7424645fb5</item>
+  <rollback id="1714a3">compiler-yaml</item>
+  <ceph id="04c90e">1332</item>
+  <proxy id="5d2303">2664</item>
+  <rollback id="2921cf">36</item>
+  <locale id="40baa9">proxy</item>
+  <entropy id="fc43ee">volume-mapper</item>
+  <nonce id="b58e1e">semaphore</item>
+  <kernel id="2e078d">71.92.78.253</item>
+  <tools id="9d0126">6.10.6.79</item>
+  <kernel id="118abd">361d658ab9230382</item>
+  <vlan id="2d4768">nonce-vault</item>
+  <common id="ea19a3">222.2.143.130</item>
+  <lib id="fc5844">3d577299</item>
+  <origin id="2692c4">vendor</item>
+  <policy id="5af8ea">165.71.89.227</item>
+  <mirror id="4d9417">f31b16a5</item>
+  <storage id="cc82ae">211.143.244.26</item>
+  <cors id="446989">true</item>
+</root>

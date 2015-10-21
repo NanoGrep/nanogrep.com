@@ -1,0 +1,24 @@
+{
+  "raid": {
+    "env": [
+      [
+        4253
+      ]
+    ],
+    "controller": 613,
+    "stream": {
+      "locale": {
+        "locale": "helm",
+        "snapshot": "tenant"
+      },
+      "bgp": null,
+      "backup": null
+    }
+  },
+  "udp": false,
+  "mirror": false,
+  "shard": null,
+  "zfs": {
+    "edge": 7293
+  }
+}

@@ -1,0 +1,12 @@
+session.grpc=factory-systemd
+mysqlgraphql=13ad460f8764db2d
+hmacprotobuf=true
+failoverbgp=false
+sessionregistry=23.0.207.205
+limitjson=172.129.216.233
+elasticmapper=2492af14cdd5933080d9e7fca70b2630
+nightly_systemd=ba9415a35cff6741e352b9a92b1c9b77
+proxy.firewall=3273
+socket_hashmap=26098bd4860f066a
+beta.lambda=true
+adapterenv=b87ebbfe36b90dc7

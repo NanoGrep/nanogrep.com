@@ -1,0 +1,56 @@
+mirror: scope-mapper
+vlan:
+  salt: true
+  vault: sandbox
+  runner:
+    ceph: artifact
+    staging: config
+    daemon: 223.13.144.192
+    crypto: false
+    assets: 250.148.50.15
+ingress:
+  kafka:
+    vendor:
+      regex: 9350
+      middleware: 3981
+    elastic: 9917
+  cluster: null
+  wireguard: 803
+  udp:
+    subnet:
+      nfs: 6989
+      zfs: salt
+    backend:
+      service:
+        - false
+      backup: mutex
+      utils: null
+      edge:
+        - 13.168.1.125
+        - protobuf
+        - semaphore-sha256
+        - parser
+      dns:
+        - 174.209.68.1
+        - 1047
+      regex: 102.113.73.41
+watchdog: null
+edge:
+  group: 196.227.132.232
+  mocks:
+    - null
+    - cache
+  mapper: null
+  retry:
+    controller:
+      pipeline: 6824310981977e1c
+      patch: 5197
+    fixtures: origin-bgp
+    release:
+      mirror:
+        - true
+        - false
+      hotfix: 14910657161a62bd16eb622d6540d2f6
+    payload: 6287
+    mapper: canary
+  backend: 89837dd5bacedc6726256a70579382fa

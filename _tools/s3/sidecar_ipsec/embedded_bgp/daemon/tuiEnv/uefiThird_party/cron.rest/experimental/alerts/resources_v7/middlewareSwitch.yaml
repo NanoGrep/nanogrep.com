@@ -1,0 +1,13 @@
+service: null
+controller:
+  response: a0809596
+  hmac:
+    shard:
+      - null
+  jenkins: 189.53.171.158
+  middleware:
+    scope: 9694
+bucket:
+  - 165.204.179.158
+  - 101.125.171.79
+topic: threadpool-api

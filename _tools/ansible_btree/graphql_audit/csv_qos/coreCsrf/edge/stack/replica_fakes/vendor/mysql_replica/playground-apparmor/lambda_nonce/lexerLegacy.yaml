@@ -1,0 +1,42 @@
+watchdog: core-compiler
+core:
+  probe:
+    object: a198d0a9064224f1
+    retry: mirror
+    subnet: 6054
+    kernel: false
+  stack: true
+  traces:
+    cursor:
+      http: mutex
+      traces:
+        - terraform-pod
+        - null
+        - 2897
+        - true
+      scripts: 6db5d75adcbcf605
+      topic: false
+    cookie:
+      - 6775
+      - true
+    btree: 4078
+  replica: false
+  table: 7261
+proxy: sha256
+mqtt:
+  bucket:
+    kafka: 213.114.31.87
+    ingress: 160.176.208.246
+  firewall: false
+  hmac: false
+rest:
+  env: 174.69.134.209
+  scripts: kerberos-alerts
+  nonce: driver-nfs
+  traces: 4bd68df9
+  sandbox: 131.173.87.46
+  protobuf:
+    cors:
+      raid: 3417
+      probe: false
+jwt: helpers

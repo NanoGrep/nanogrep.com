@@ -1,0 +1,91 @@
+{
+    "volume": [
+        {
+            "bench": null
+        }
+    ],
+    "regex": {
+        "terraform": {
+            "topic": true
+        },
+        "nightly": {
+            "prod": [],
+            "btree": {
+                "mqtt": true
+            },
+            "cert": false,
+            "assets": "response"
+        },
+        "grpc": {
+            "driver": "b790e1e41e17",
+            "kerberos": "router",
+            "staging": {
+                "role": 2531,
+                "mysql": true,
+                "ingress": true,
+                "cache": true,
+                "utils": "2b12dd464dbd"
+            },
+            "runner": {
+                "protobuf": 5414,
+                "daemon": true,
+                "loader": true,
+                "offset": "6e3e75639e95"
+            }
+        },
+        "beta": {
+            "mqtt": {
+                "audit": null,
+                "frontend": false,
+                "mqtt": null,
+                "cursor": "cgroups",
+                "logs": "locale",
+                "cgroups": "bloom"
+            },
+            "firmware": {
+                "factory": "dc2990dd14b7",
+                "ansible": 7133,
+                "jenkins": null,
+                "user": false
+            },
+            "middleware": {
+                "quic": false
+            },
+            "cursor": {
+                "hashmap": "lambda",
+                "audit": null,
+                "retry": 2605,
+                "config": false,
+                "mongo": "object"
+            }
+        },
+        "mocks": {
+            "scheduler": [
+                true
+            ],
+            "migrations": 1626,
+            "graphql": true,
+            "nfs": {
+                "topic": false
+            },
+            "systemd": "65686acb0c05",
+            "user": null
+        },
+        "helpers": {
+            "legacy": {
+                "backend": "b6765dcc93bb",
+                "logs": 5714,
+                "loader": "b821a64ae91f",
+                "rsa": null,
+                "kafka": 5122
+            },
+            "prod": null,
+            "tls": false,
+            "daemon": {
+                "handler": true
+            },
+            "envoy": 9093
+        }
+    },
+    "tls": false
+}

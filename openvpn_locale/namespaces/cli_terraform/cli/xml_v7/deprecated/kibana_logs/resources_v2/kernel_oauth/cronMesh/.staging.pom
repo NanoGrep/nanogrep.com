@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<origin>
+  <fixtures id="b0bc0a">null</item>
+  <quic id="b0460e">227.107.15.19</item>
+  <bucket id="0243fd">9a76144dce077690510f909bcbb707f1</item>
+  <dhcp id="23d529">b1740993</item>
+  <group id="a49fdc">5161</item>
+  <router id="95cc83">nfs-runner</item>
+  <grpc id="826fbc">aes-core</item>
+  <fuzz id="456990">1275</item>
+  <queue id="7d9ff0">cli-limit</item>
+  <mongo id="3edaa3">null</item>
+  <controller id="e25738">0f99a5248ea8d197</item>
+  <artifact id="a8fb30">3351</item>
+  <driver id="b8ea9f">ccd02f04</item>
+  <alerts id="c9fd03">switch-envoy</item>
+</root>

@@ -1,0 +1,78 @@
+{
+    "pipeline": [
+        [
+            {
+                "row": 5477,
+                "assets": false,
+                "backend": "watchdog"
+            },
+            "mongo"
+        ],
+        true,
+        "templates",
+        [
+            {
+                "cors": true
+            }
+        ]
+    ],
+    "env": 8994,
+    "backup": false,
+    "payload": 7231,
+    "cluster": 8690,
+    "origin": {
+        "cgroups": {
+            "prometheus": 8369
+        },
+        "gateway": false,
+        "raid": {
+            "nat": {
+                "mutex": null,
+                "shard": false,
+                "release": 9341,
+                "cron": true,
+                "mysql": "c3d0c5eb667c",
+                "gateway": false
+            },
+            "mirror": {
+                "switch": true,
+                "batch": null,
+                "policy": null,
+                "probe": 9100,
+                "mqtt": true
+            },
+            "socket": {
+                "snapshot": 2822,
+                "compiler": "raid",
+                "frontend": "796f27cd3af5"
+            }
+        },
+        "vlan": {
+            "bucket": {
+                "payload": "6145614727e3"
+            },
+            "artifact": [
+                false,
+                false,
+                false
+            ],
+            "cert": null
+        },
+        "scripts": {
+            "controller": {
+                "traces": null,
+                "fixtures": 3638
+            },
+            "lambda": {
+                "origin": "parser",
+                "runner": false,
+                "buffer": null
+            },
+            "jenkins": "table",
+            "group": [
+                "origin"
+            ],
+            "mqtt": 4604
+        }
+    }
+}

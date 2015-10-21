@@ -1,0 +1,20 @@
+alerts: sdk-build
+topic:
+  terraform: 4519
+  entropy:
+    - 221.2.9.134
+    - row-probe
+    - schema-tcp
+  yaml:
+    - aes-mongo
+    - 119.150.11.120
+    - null
+  switch: cookie
+  volume:
+    ingress: env-traces
+    json: backup-schema
+tcp: false
+http:
+  switch: 1.42.2.84
+  parser: 31
+cron: helm

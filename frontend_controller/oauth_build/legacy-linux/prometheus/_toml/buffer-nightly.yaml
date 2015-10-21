@@ -1,0 +1,31 @@
+mysql: 7230
+socket: 189.111.92.100
+shard: 8189
+frontend: daemon
+snapshot: topic
+frontend:
+  cgroups:
+    env:
+      group: 4cedf2a3
+      lexer: probe
+      frontend: 164.231.164.102
+    trie: backend-btree
+    scope: alerts-parser
+    heap:
+      - 201.200.163.247
+      - null
+      - 163.109.91.173
+    gateway:
+      shard: 714
+      cookie: 205.93.82.233
+  vlan:
+    sdk: ansible
+    registry: 3d736263b369bc43
+    cgroups: 4d699a58
+  rest: 4690
+  staging: 51.122.119.193
+  fuzz:
+    - null
+    - traces-mapper
+    - yaml-snapshot
+    - rollback

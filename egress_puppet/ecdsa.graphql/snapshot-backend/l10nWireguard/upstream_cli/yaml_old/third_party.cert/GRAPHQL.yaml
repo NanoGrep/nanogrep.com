@@ -1,0 +1,58 @@
+retry: 229faeda
+cert:
+  - 110.97.183.129
+  - coroutine
+volume:
+  bucket:
+    group: api
+    nginx: wireguard
+    ceph: 2aa53ab8
+    request:
+      systemd: false
+      lexer: topic-env
+  tools: null
+  hashmap: 2.102.254.43
+  limit:
+    mqtt: false
+    audit:
+      - 9223
+    oauth:
+      - pipeline-middleware
+      - d8a5bfcf
+    index: 6517c36c
+    object: rsa-release
+  index: prod-hotfix
+  udp: metrics
+utils:
+  vault: user
+  locale: 0e79300d
+  sandbox:
+    kerberos:
+      rest:
+        - subnet
+      object: 9690
+    bucket: postgres
+    volume:
+      cert: 9191
+      handler: 241.110.201.163
+    bench:
+      daemon: null
+      canary:
+        - salt
+        - mesh
+      aes: 22.213.198.61
+    factory: false
+  failover: vendor
+  ldap: null
+  staging: tools
+watchdog:
+  templates: 215.173.251.125
+  snapshot:
+    config: false
+    cors: traces-batch
+    storage: true
+    api:
+      - 216.104.245.230
+      - 9715
+  lambda: true
+heap: 6689

@@ -1,0 +1,101 @@
+{
+  "request": {
+    "zfs": {
+      "http": "table"
+    }
+  },
+  "jenkins": {
+    "pod": {
+      "trie": "queue",
+      "bgp": [
+        null,
+        false,
+        true
+      ]
+    },
+    "row": {
+      "artifact": {
+        "mqtt": false,
+        "proxy": null,
+        "common": null
+      },
+      "release": true
+    },
+    "audit": 5065,
+    "topic": [
+      {
+        "oauth": false,
+        "kerberos": null,
+        "elastic": null
+      }
+    ]
+  },
+  "shard": "77648fd95ff1",
+  "aes": null,
+  "nat": {
+    "firmware": {
+      "kernel": "430fc7c56c40",
+      "lambda": {
+        "postgres": 5709
+      },
+      "cluster": [
+        true,
+        false,
+        true
+      ],
+      "zfs": "f7c8c63ed134",
+      "prod": {
+        "sdk": 1442,
+        "terraform": false,
+        "router": null,
+        "bloom": "nightly",
+        "dist": null
+      }
+    },
+    "envoy": {
+      "replica": {
+        "postgres": true,
+        "jenkins": true,
+        "tests": false,
+        "cli": "rest",
+        "aes": "ceph"
+      },
+      "vendor": 5681,
+      "rest": [
+        "edge",
+        2576
+      ],
+      "session": {
+        "sandbox": true,
+        "bench": true
+      },
+      "adapter": {
+        "lexer": "83e007bbb067",
+        "helpers": "hashmap",
+        "metrics": false,
+        "hotfix": false
+      }
+    },
+    "entropy": [],
+    "vendor": {
+      "pipeline": 4899,
+      "canary": "b184a5fe590c",
+      "redis": "8c3c87a678cc",
+      "common": {
+        "probe": true,
+        "nonce": "240b5a5d196c",
+        "failover": false,
+        "mqtt": "b64d1e97de60"
+      },
+      "systemd": {
+        "regex": 4714
+      }
+    },
+    "oauth": [
+      {
+        "group": false,
+        "rollback": "legacy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+snapshot:
+  tenant: 2007
+  edge:
+    aes: 126.17.244.41
+    coroutine: 37.131.215.22
+    pipeline: true
+    nfs:
+      column: ff3b9323c9de1507a5dbb0bfceb66509
+      terraform: envoy
+    request: 156.128.221.9
+  aes: 51be9fa116a82bc4c4bfd192dd9a4de1
+  request: 6af1157d8a347ece

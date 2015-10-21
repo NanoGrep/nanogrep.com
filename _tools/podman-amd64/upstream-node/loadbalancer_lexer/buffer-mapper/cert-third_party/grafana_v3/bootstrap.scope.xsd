@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<hmac>
+  <ingress id="f86d91">mocks-object</item>
+  <prometheus id="dce3ea">75492b6c622b3e1e</item>
+  <pod id="0f7d5e">1066</item>
+  <quic id="242fa3">6045</item>
+  <oauth id="0da6fe">6906</item>
+  <ceph id="ce14a6">handler</item>
+  <storage id="5dfb0e">151</item>
+  <bench id="b44f1b">fc5b4a19fbdc47a378ff6984b5da795e</item>
+  <stack id="2ded9f">cgroups-config</item>
+  <compiler id="4b1ce9">1c7773c99d50ecb0</item>
+  <group id="380491">true</item>
+  <bgp id="be7057">f101eafc3704fd82</item>
+  <cluster id="cbedb0">138.45.4.16</item>
+  <kernel id="e1e9fe">4916</item>
+  <cli id="08762d">false</item>
+  <quic id="fa336a">1cc6ad6afdfc5af2e7cce4a8a46e96de</item>
+  <adapter id="03ad30">1ac5b2f2219d07b8</item>
+  <threadpool id="c2e174">e40898c48d4c5233f67bdb7256d3c8d9</item>
+</root>

@@ -1,0 +1,31 @@
+semaphore: 93.171.247.82
+kernel: 9728
+wireguard: 246.180.68.208
+snapshot: 5359
+cache:
+  canary: false
+  fuzz: pipeline-iptables
+  iptables: null
+  common:
+    nat: controller-coroutine
+    nat:
+      node: 36.66.54.194
+      templates: websocket
+      logs: 26f645d2
+      entropy: parser
+      api: redis-redis
+      grafana:
+        - 1863
+        - 136.53.210.158
+        - bb1a5ff3483e299eeb4bd6d9afa702ba
+        - cursor
+    patch: null
+    nfs:
+      - true
+    semaphore:
+      - ddbf284218e6b3ca
+      - 5eaa15492651c7ea
+      - parser
+      - null
+  snapshot:
+    - row-kafka

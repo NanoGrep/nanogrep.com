@@ -1,0 +1,20 @@
+[quic]
+salt.protobuf = 129.158.216.191
+terraform_cli = true
+tcp.fixtures = 214.140.38.86
+salt_rest = 5327
+quic.gateway = false
+websocketresponse = ac7f90a5372264c94db3a4a1add1e042
+quic_envoy = 442
+mocks.rest = d827aba2fcd83cff
+legacy.scripts = true
+yaml_handler = 254.5.191.158
+json_grpc = null
+dns.cache = true
+gatewayedge = true
+request_limit = mirror-entropy
+beta.queue = node
+pod_mesh = 5360
+failover_ldap = 6045
+factory.tenant = 1459
+redisnode = index

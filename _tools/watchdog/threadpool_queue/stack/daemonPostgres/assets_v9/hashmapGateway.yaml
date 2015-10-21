@@ -1,0 +1,24 @@
+compiler: 5375
+helpers: worker
+zfs: 169.33.239.248
+templates:
+  hotfix: 39.208.195.167
+  staging:
+    - null
+  rest: true
+  common: 573521d8aa2c5c8b
+config: grpc
+kernel:
+  http:
+    coroutine:
+      vlan: 246352ab0033f99098af0514d744499c
+      oauth: 86ad7d7f62743ce1
+    adapter: 177.147.184.63
+    rsa: 216.248.19.91
+    registry: build
+    registry: lexer
+    object:
+      - null
+      - true
+  protobuf: sandbox-parser
+  metrics: 144.72.112.168

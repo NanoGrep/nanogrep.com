@@ -1,0 +1,37 @@
+[
+    {
+        "prod": {
+            "rollback": "cdec9818ec45",
+            "bootstrap": 9630,
+            "tests": [
+                null,
+                false,
+                false
+            ],
+            "bgp": "c31c8ac8b66f",
+            "graphql": "2957a820113c",
+            "grafana": "user"
+        },
+        "bloom": {
+            "grafana": [
+                null,
+                "zfs"
+            ],
+            "ansible": {
+                "aes": "760d37d0313f",
+                "assets": true,
+                "controller": true
+            },
+            "salt": {
+                "envoy": "02425ad945de",
+                "snapshot": 905,
+                "kernel": 1878,
+                "iptables": "threadpool",
+                "object": "traces",
+                "ceph": true
+            }
+        }
+    },
+    "release",
+    true
+]

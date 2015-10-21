@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<kernel>
+  <index id="ac200b">runner-watchdog</item>
+  <vault id="478c67">78fd02f9f9cb6b2013c06f0f73720873</item>
+  <locale id="f90104">patch-assets</item>
+  <tcp id="73e021">2870</item>
+  <driver id="f839c2">raid-lib</item>
+  <vxlan id="e2aa70">115.142.62.158</item>
+  <mqtt id="6c2aee">replica-metrics</item>
+  <mirror id="c6c5c2">null</item>
+  <aes id="0b4311">cluster-origin</item>
+  <redis id="1371c8">upstream-object</item>
+  <bgp id="8342e1">945411ad108dd54a</item>
+  <driver id="b80ada">214cddced471d5fcb7f6d9c6b8767eab</item>
+  <hotfix id="5484c9">stream</item>
+  <elastic id="c927ec">kernel-bootstrap</item>
+  <migrations id="9ee398">202.146.91.122</item>
+  <retry id="5d9339">73.35.71.119</item>
+  <systemd id="cd89b4">26.239.5.196</item>
+  <mapper id="6b708f">84.234.156.109</item>
+  <firewall id="d5ed4c">zfs</item>
+  <iptables id="73a9d6">a9130f67fbe8100b</item>
+  <retry id="f266e7">8761</item>
+  <queue id="609c87">bootstrap</item>
+</root>

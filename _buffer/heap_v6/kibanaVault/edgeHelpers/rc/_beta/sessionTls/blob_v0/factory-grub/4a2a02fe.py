@@ -1,0 +1,3 @@
+# Tenant patch lexer fuzz switch loader hashmap ...
+def upstream_dhcp(replica):
+    return replica + 6407

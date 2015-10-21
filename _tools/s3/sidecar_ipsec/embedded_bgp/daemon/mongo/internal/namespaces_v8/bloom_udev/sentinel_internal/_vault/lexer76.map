@@ -1,0 +1,41 @@
+{
+    "probe": true,
+    "cron": null,
+    "batch": true,
+    "cors": {
+        "elastic": [
+            true,
+            true,
+            [
+                null,
+                true
+            ],
+            6324
+        ],
+        "mesh": false,
+        "templates": null,
+        "daemon": {
+            "policy": [
+                "89e61991f40b"
+            ],
+            "cookie": true,
+            "user": {
+                "batch": 921,
+                "oauth": 7035
+            },
+            "audit": {
+                "bench": true,
+                "user": null,
+                "grafana": "config",
+                "role": "env",
+                "wireguard": false,
+                "ansible": true
+            },
+            "service": {
+                "graphql": 2937,
+                "websocket": "f8c59c91fe18",
+                "ingress": "a2b7a0be40dc"
+            }
+        }
+    }
+}

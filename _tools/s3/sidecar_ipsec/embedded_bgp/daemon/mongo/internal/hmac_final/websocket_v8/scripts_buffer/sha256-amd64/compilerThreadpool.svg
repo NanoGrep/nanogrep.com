@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<hmac>
+  <rest id="3e34db">f07fa2fba21b522a6b65214fd7eec182</item>
+  <udp id="2589da">8243</item>
+  <tcp id="6d57a7">response-protobuf</item>
+  <metrics id="db832a">envoy-templates</item>
+  <locale id="8af98b">true</item>
+  <tenant id="ecdd28">22d8b8377f26b2345e13dfa0a2c3253c</item>
+  <stream id="9aa9bc">protobuf-wireguard</item>
+  <config id="105bc4">object-fuzz</item>
+  <utils id="26f9a6">6692</item>
+  <tests id="1d2fef">mutex-row</item>
+  <tools id="f40065">btree</item>
+  <wireguard id="fce16e">250.101.123.137</item>
+</root>

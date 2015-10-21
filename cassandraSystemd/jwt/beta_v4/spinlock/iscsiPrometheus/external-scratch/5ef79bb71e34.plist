@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<row>
+  <semaphore id="86a1aa">1844</item>
+  <cache id="e84516">true</item>
+  <backup id="9ed9bb">1374</item>
+  <user id="66faff">true</item>
+  <backend id="3fd395">backend</item>
+  <schema id="8e5e35">d75eefe4d19f4f3c</item>
+  <backup id="799493">144.37.60.233</item>
+  <vlan id="a1b706">5873</item>
+  <graphql id="a1590d">mysql-tenant</item>
+  <token id="a4bc4b">48.144.197.91</item>
+  <migrations id="d81c0d">207.23.156.27</item>
+  <table id="9256da">volume</item>
+  <kernel id="4a2797">1cacbcfe</item>
+  <ceph id="260062">null</item>
+  <zfs id="2209e9">215.37.74.76</item>
+  <vendor id="9a6429">c6fb7f5dc43c95cc99f96a94936978aa</item>
+  <aes id="ba7569">ingress</item>
+  <semaphore id="7c3fb4">1a84133c</item>
+</root>

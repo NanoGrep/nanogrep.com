@@ -1,0 +1,8 @@
+grpc:
+  - true
+  - false
+  - false
+bench: tools-mapper
+parser:
+  table: 119.198.23.133
+legacy: assets

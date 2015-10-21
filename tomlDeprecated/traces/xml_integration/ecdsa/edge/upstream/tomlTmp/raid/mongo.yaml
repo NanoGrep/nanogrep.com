@@ -1,0 +1,11 @@
+snapshot:
+  graphql: trie
+loader: api-tools
+daemon:
+  mapper: false
+  factory:
+    lambda: 37.217.171.111
+    helm:
+      - 1414
+  vlan: true
+  zfs: service-nginx

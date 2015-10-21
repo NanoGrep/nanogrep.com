@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<middleware>
+  <stack id="3fd702">161.143.38.160</item>
+  <ceph id="615e15">fuzz-fuzz</item>
+  <protobuf id="54ee45">watchdog</item>
+  <runner id="191be9">11.244.167.94</item>
+  <mysql id="1354da">fuzz</item>
+  <threadpool id="ee5f86">178b9fbd50703843</item>
+  <kerberos id="c9a3d1">sha256</item>
+  <systemd id="b7d2f8">7b9b729a</item>
+  <entropy id="d3b0a1">218.111.113.249</item>
+  <elastic id="9ea26b">1475157124d4f1898f963d8dea861652</item>
+  <ldap id="e0975a">45818c3d</item>
+  <session id="5115aa">71ce9506</item>
+  <upstream id="901a4c">true</item>
+  <handler id="f6d307">hotfix</item>
+  <backend id="4a35a9">controller</item>
+  <backend id="cfa251">120.108.199.124</item>
+  <lib id="e6454e">4934</item>
+  <patch id="6da575">654d01b67dd18e60</item>
+</root>

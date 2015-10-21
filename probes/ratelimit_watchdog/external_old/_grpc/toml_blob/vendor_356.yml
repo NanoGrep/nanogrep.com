@@ -1,0 +1,3 @@
+service:
+  - tls-core
+  - true

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<handler>
+  <lambda id="d8df09">table-protobuf</item>
+  <mqtt id="80820d">null</item>
+  <quic id="5eac66">policy</item>
+  <rest id="892983">false</item>
+  <subnet id="409afb">false</item>
+  <templates id="5167d4">oauth</item>
+</root>

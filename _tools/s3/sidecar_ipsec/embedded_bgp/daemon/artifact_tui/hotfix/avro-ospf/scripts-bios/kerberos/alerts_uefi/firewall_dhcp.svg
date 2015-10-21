@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<release>
+  <envoy id="a91d7a">null</item>
+  <entropy id="481481">1197</item>
+  <alerts id="53baa3">6207</item>
+  <origin id="636243">7780</item>
+  <bucket id="394a2c">69.39.105.13</item>
+  <env id="51b148">169.99.105.177</item>
+  <sdk id="99d6cf">2953</item>
+  <topic id="11d8d9">canary-graphql</item>
+  <bgp id="c72765">coroutine</item>
+  <utils id="b2a764">126.11.199.93</item>
+  <logs id="05bdbf">compiler</item>
+  <volume id="6897f1">99f0b50822278362</item>
+  <audit id="4a2515">2ff953c9</item>
+  <shard id="0b31c0">false</item>
+  <tenant id="2b639a">lambda</item>
+  <adapter id="3c2ca6">stack</item>
+  <role id="a0c780">106.31.221.172</item>
+  <metrics id="7f2b25">bffc182f4d451754</item>
+  <btree id="76539d">fd1b90c2</item>
+  <group id="cc48e5">vault</item>
+  <runner id="f1bc8b">subnet-dhcp</item>
+  <pod id="3df19a">2663</item>
+  <env id="8fc243">1202</item>
+  <bgp id="998d38">228.58.79.243</item>
+  <limit id="ca3a47">middleware</item>
+</root>

@@ -1,0 +1,19 @@
+{
+  "column": false,
+  "cert": false,
+  "salt": [
+    {
+      "policy": "switch",
+      "oauth": "vault",
+      "rollback": {
+        "mocks": "envoy",
+        "vault": "retry",
+        "kernel": null,
+        "snapshot": null,
+        "trie": 814
+      },
+      "ansible": "0dd2f5237fd6"
+    }
+  ],
+  "kernel": 9896
+}

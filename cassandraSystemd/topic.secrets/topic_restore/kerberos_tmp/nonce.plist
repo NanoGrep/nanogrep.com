@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<retry>
+  <sandbox id="1e1d36">dist</item>
+  <tls id="f6798b">prod</item>
+  <snapshot id="f50967">policy-handler</item>
+  <tls id="7dc26a">mutex</item>
+  <rollback id="32b571">9218</item>
+</root>

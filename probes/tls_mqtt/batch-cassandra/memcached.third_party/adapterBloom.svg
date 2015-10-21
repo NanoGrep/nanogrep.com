@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<scheduler>
+  <tests id="f09839">edge</item>
+  <prod id="cd6682">6006</item>
+  <threadpool id="a7f042">false</item>
+  <worker id="a3413f">heap</item>
+  <hashmap id="508ef1">loader-gateway</item>
+  <release id="a347a0">origin</item>
+  <factory id="cbb603">125.243.90.203</item>
+  <quic id="b2c5fe">124.118.40.165</item>
+</root>

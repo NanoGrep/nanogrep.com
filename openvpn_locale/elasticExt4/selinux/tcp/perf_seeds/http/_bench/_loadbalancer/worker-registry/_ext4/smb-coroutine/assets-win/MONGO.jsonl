@@ -1,0 +1,31 @@
+{
+  "tools": [],
+  "limit": true,
+  "mongo": {
+    "response": [
+      [
+        "76ac47505203",
+        "e67ac17b1c03",
+        "policy",
+        null
+      ],
+      "nightly"
+    ],
+    "cors": 6517,
+    "build": [
+      {
+        "lambda": true,
+        "grpc": "stack",
+        "tcp": true
+      },
+      {
+        "row": "mapper",
+        "vault": true,
+        "tools": false
+      },
+      "adapter"
+    ],
+    "limit": false,
+    "mapper": null
+  }
+}

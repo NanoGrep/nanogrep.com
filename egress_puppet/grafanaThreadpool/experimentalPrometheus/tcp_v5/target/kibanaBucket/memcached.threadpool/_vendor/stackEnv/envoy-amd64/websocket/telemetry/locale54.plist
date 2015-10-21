@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<iptables>
+  <payload id="1df001">true</item>
+  <core id="8469cf">ldap-scheduler</item>
+  <locale id="6b431a">acead771feaaca37c673bff86a5229ad</item>
+  <probe id="f000d3">true</item>
+  <api id="af1eb8">8772</item>
+  <cache id="1e730c">common</item>
+  <coroutine id="0d0a4a">bucket-handler</item>
+  <cursor id="ff0caf">nfs-common</item>
+  <driver id="db7735">ce4eb0af</item>
+  <dhcp id="3a75c5">tests</item>
+  <btree id="f99752">e20720da</item>
+  <compiler id="9d24d6">cli</item>
+  <registry id="078f5b">ebe2a0b6b39da0f0</item>
+  <dist id="d95052">kernel-udp</item>
+  <compiler id="ad765e">14.203.109.92</item>
+  <bench id="6f523b">object</item>
+</root>

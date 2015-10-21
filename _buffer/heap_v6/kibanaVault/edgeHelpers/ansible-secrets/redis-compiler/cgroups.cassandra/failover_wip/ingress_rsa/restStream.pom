@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<nat>
+  <ceph id="afd046">true</item>
+  <json id="78abb4">734c2875645b2fe8</item>
+  <websocket id="a803ef">false</item>
+  <retry id="c39b94">182.131.96.29</item>
+  <envoy id="9a15b8">64.147.36.193</item>
+  <common id="4d2be0">c59ee009</item>
+  <crypto id="4cfa06">env-offset</item>
+  <rsa id="eb8472">session-scripts</item>
+  <oauth id="e01c58">93.16.202.3</item>
+  <beta id="a5bd64">null</item>
+  <alerts id="967742">nfs-index</item>
+</root>

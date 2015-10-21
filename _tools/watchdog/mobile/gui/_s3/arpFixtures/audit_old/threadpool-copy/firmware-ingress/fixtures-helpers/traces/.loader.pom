@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<backup>
+  <aes id="ced1c3">08d82802dd2add1a3b26830373c4e961</item>
+  <upstream id="7c6f2d">bgp</item>
+  <semaphore id="d11e3c">false</item>
+  <graphql id="e7dc28">1561</item>
+  <kerberos id="c152e3">core</item>
+  <coroutine id="dd8052">service</item>
+  <proxy id="a625a5">191.234.48.198</item>
+  <sha256 id="23c6af">4892</item>
+  <entropy id="e1a1af">firmware</item>
+  <edge id="283220">mongo</item>
+  <mocks id="a67b43">false</item>
+  <ansible id="6cc919">false</item>
+  <mocks id="4d42cd">replica</item>
+  <oauth id="aa56ac">true</item>
+  <switch id="871445">fuzz-cgroups</item>
+  <websocket id="e71d7b">181.91.42.78</item>
+  <vault id="db537e">eeed9c8473353cb5</item>
+  <origin id="6b03db">222.205.212.111</item>
+  <jenkins id="b3480c">dhcp</item>
+  <tenant id="4df98e">bucket-legacy</item>
+  <rsa id="9b678b">scripts</item>
+  <router id="151feb">cgroups-mapper</item>
+</root>

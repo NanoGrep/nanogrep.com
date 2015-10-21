@@ -1,0 +1,31 @@
+[
+    5274,
+    {
+        "column": null
+    },
+    [
+        false,
+        null,
+        [
+            [
+                false,
+                false,
+                null,
+                null
+            ],
+            [],
+            [
+                "tls",
+                false,
+                "81ed30213467",
+                4391
+            ],
+            {
+                "mqtt": "8982bfe6d939",
+                "edge": false,
+                "coroutine": "canary",
+                "rest": false
+            }
+        ]
+    ]
+]

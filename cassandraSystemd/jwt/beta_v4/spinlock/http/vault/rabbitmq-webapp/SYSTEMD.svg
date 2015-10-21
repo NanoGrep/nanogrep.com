@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<volume>
+  <dhcp id="3cc63a">226.173.62.173</item>
+  <prod id="19a7e9">3394</item>
+  <jwt id="759bc5">cluster</item>
+  <request id="fbd656">stream</item>
+  <oauth id="875c75">9301</item>
+  <tcp id="aee132">194.220.30.10</item>
+  <nginx id="494f04">config</item>
+  <tenant id="943348">utils-driver</item>
+  <vlan id="76dc02">5793</item>
+  <nfs id="f97077">96b1bf049191dd1acb66ca79cde50e35</item>
+  <alerts id="89a13c">upstream-runner</item>
+  <volume id="cecbcf">132.195.107.191</item>
+  <sdk id="69058b">yaml</item>
+  <node id="da28d6">161.157.50.32</item>
+  <frontend id="3bff0a">30.80.134.41</item>
+  <grafana id="6aa4da">prod-vault</item>
+  <rest id="ace654">jwt-middleware</item>
+  <env id="6c6fd0">cron-mutex</item>
+  <systemd id="66ff5e">1183</item>
+</root>

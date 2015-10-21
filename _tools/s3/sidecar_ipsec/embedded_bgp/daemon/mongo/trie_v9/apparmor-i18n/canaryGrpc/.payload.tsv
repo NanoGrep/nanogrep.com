@@ -1,0 +1,10 @@
+nginx,failover,firewall,metrics,topic,node
+79.199.195.161,json,9612,object-adapter,2f84504377b6e13c2c394f4165f24f70,247.178.61.2
+7321,698c3000414fc6e9,129.26.194.248,249.42.249.133,0f34b9c0eb465b0e,mongo-driver
+9960,235.44.86.113,23.147.29.135,migrations,5104,2023
+firmware,9456,false,controller-replica,187.56.106.70,80.102.50.165
+169.132.170.194,staging,cursor,stack-json,logs,48.149.241.134
+pod-lib,lambda,false,005f3452,redis,null
+173.203.126.120,null,9681,controller,true,187.31.95.61
+null,7cf1fc6a,57.230.152.133,4e40a32a,false,batch
+5381,6666,151.96.25.193,3014,jwt,graphql

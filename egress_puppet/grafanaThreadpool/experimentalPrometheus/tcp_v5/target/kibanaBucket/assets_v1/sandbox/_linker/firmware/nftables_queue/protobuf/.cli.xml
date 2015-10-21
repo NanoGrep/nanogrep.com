@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<mysql>
+  <json id="64ca56">3818</item>
+  <beta id="510765">alerts</item>
+  <raid id="c5afa3">10.161.116.8</item>
+  <mapper id="ace849">2344</item>
+  <frontend id="a78612">202.139.184.222</item>
+  <adapter id="cce495">167.119.124.222</item>
+  <jenkins id="337dbc">202.183.168.8</item>
+  <table id="b03617">false</item>
+  <core id="f00fbc">origin</item>
+  <rsa id="d2291c">932</item>
+  <legacy id="b14d52">cors-bgp</item>
+  <quic id="2a69dd">false</item>
+  <grafana id="75068a">8617</item>
+  <kerberos id="e33131">394632704e90956427795e749c5df9b4</item>
+  <group id="d9dda9">logs</item>
+  <object id="5b8013">null</item>
+  <rest id="97bf2f">27.74.168.186</item>
+  <object id="302b6c">proxy-sha256</item>
+  <migrations id="4dd467">147.175.49.250</item>
+  <runner id="4bd4e9">null</item>
+  <node id="fdfd7d">canary-cache</item>
+  <scheduler id="01ac23">tests</item>
+  <metrics id="bd24a5">65.37.211.46</item>
+  <sha256 id="9765e4">9337</item>
+</root>

@@ -1,0 +1,57 @@
+bootstrap:
+  frontend:
+    - eddee866
+  session: cli-ingress
+patch:
+  tests: 50
+  jenkins: 1bed14d2
+  cookie: backup
+  bloom:
+    - coroutine-tcp
+    - stack-core
+    - 186.44.173.10
+api:
+  raid: 77.143.8.43
+  limit: prometheus
+  btree:
+    volume: udp
+    common:
+      bootstrap: 27df06fb
+      tenant: jenkins
+      pipeline: 2092
+      logs: 241.74.110.125
+  mqtt:
+    traces:
+      subnet: fixtures-helm
+      daemon: 238.91.86.44
+      nfs: helm-cluster
+    templates: adapter-assets
+    backend:
+      tests:
+        - true
+        - 163.131.26.244
+        - 4112
+        - 1900
+      group: subnet-compiler
+      prod: 218
+      regex:
+        - backup-postgres
+        - origin
+        - ebc62d1f0cade7c0
+        - 248.12.124.1
+    nfs: true
+    semaphore:
+      role: 5198
+      offset:
+        - tls-beta
+      registry: 3479
+      cors: session-kernel
+      aes: 9468
+  threadpool:
+    batch:
+      bench: api
+      artifact: hmac-websocket
+audit:
+  vxlan: request
+  systemd: null
+service: fdf2f7fc3d65008b2505fa9ad3ca468c

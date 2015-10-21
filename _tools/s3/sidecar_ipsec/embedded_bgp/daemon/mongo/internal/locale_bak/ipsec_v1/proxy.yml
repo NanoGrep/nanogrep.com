@@ -1,0 +1,24 @@
+replica: kernel-watchdog
+yaml:
+  release:
+    - 5467
+    - alerts-rest
+    - driver
+  bench: terraform-utils
+  subnet:
+    probe: false
+    tcp:
+      oauth: false
+      index: 22.226.91.9
+      cron: 7772
+      failover: null
+      controller: envoy-subnet
+      scope: 531902af3af5c9ef
+    bloom:
+      - a3830c2d
+      - 589d16ba15460926
+    bootstrap: daemon-batch
+limit:
+  pod: adceeafe
+  bench: artifact
+  rsa: null

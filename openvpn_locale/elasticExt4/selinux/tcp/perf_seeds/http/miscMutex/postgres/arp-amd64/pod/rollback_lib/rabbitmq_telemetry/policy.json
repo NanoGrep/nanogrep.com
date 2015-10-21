@@ -1,0 +1,86 @@
+{
+  "mirror": {
+    "ldap": [
+      true,
+      {
+        "mesh": false,
+        "ceph": null
+      },
+      "http",
+      {
+        "table": "a19ff137a965",
+        "metrics": "2a2384d4ac87",
+        "firewall": true,
+        "vendor": 2026,
+        "cli": false
+      }
+    ]
+  },
+  "helpers": {
+    "edge": {
+      "bloom": true,
+      "heap": "quic",
+      "ldap": {
+        "hmac": true,
+        "beta": "e4fc40ad7fed"
+      },
+      "backend": false
+    },
+    "firmware": true,
+    "metrics": true,
+    "core": null,
+    "redis": {
+      "cert": {
+        "rollback": true,
+        "postgres": true,
+        "nginx": 6816,
+        "runner": null,
+        "tenant": false,
+        "replica": 7123
+      },
+      "btree": {
+        "trie": false,
+        "topic": "1e53cc8af643",
+        "config": 3422,
+        "bootstrap": 7269,
+        "elastic": 4762,
+        "pod": "d7f3ed9645bf"
+      },
+      "policy": 1807
+    },
+    "bgp": {
+      "utils": "scheduler",
+      "bench": null,
+      "alerts": null
+    }
+  },
+  "terraform": 539,
+  "batch": [
+    7590,
+    [
+      true
+    ],
+    [
+      {
+        "gateway": "cors",
+        "raid": "009b62be1300",
+        "beta": "middleware",
+        "hashmap": null
+      },
+      {
+        "hashmap": "canary",
+        "stack": "00024b89dc39"
+      },
+      [
+        true,
+        null,
+        null,
+        true
+      ],
+      [
+        null,
+        "bench"
+      ]
+    ]
+  ]
+}

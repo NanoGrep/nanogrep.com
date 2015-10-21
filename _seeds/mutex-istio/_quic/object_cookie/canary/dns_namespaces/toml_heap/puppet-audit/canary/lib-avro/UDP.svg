@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<quic>
+  <group id="ef94e1">125.157.176.253</item>
+  <cors id="31a017">vxlan-loader</item>
+  <env id="4bdcd6">node</item>
+  <assets id="8fbdd4">true</item>
+  <nightly id="fcf289">9517</item>
+  <controller id="445bcb">5c014539f76b5a41</item>
+  <column id="febd31">d02a52c4</item>
+  <fixtures id="d9e40e">12.164.13.130</item>
+  <scope id="fdc1f9">grafana</item>
+  <elastic id="a2c7ec">table</item>
+  <zfs id="f3277d">204.202.33.115</item>
+  <cli id="2b6f71">1c836221</item>
+  <kafka id="91cb1c">08212e65343c81f1a79773a967100e3b</item>
+  <aes id="5ade13">33.23.169.80</item>
+</root>

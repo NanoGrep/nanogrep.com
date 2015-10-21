@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<tcp>
+  <ldap id="01c41e">199.140.10.151</item>
+  <middleware id="d69259">145.37.54.234</item>
+  <vendor id="61f58c">legacy</item>
+  <jwt id="72c51f">ceph-hashmap</item>
+  <probe id="8bdb50">true</item>
+  <frontend id="ad19d4">d247038627992680b41e732e443a1c5c</item>
+  <fixtures id="136709">74360bad0ce6c104</item>
+  <rollback id="39413a">2511</item>
+  <heap id="648cd3">ee0ef701</item>
+</root>

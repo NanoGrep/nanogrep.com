@@ -1,0 +1,7 @@
+dhcp,kernel,regex,token
+34,driver-ansible,subnet-tcp,2400a911
+9925,60.118.123.196,storage-mysql,122.220.72.179
+197.179.178.202,e9f24311cf26737cd667e67d4b45a8fe,80507a3b,null
+0d53771d,cf10e119b9f3489eddee1c977982847a,f328086e24cc2373a42b2c4dae57679d,null
+2199,75.123.21.173,schema-locale,139.154.125.12
+146.84.43.239,true,false,lib-entropy

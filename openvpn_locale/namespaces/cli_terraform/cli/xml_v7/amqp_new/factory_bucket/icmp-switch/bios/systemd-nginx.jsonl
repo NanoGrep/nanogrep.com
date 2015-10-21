@@ -1,0 +1,47 @@
+{
+  "hmac": [],
+  "mapper": true,
+  "cookie": false,
+  "compiler": {
+    "raid": {
+      "batch": {
+        "cert": "0499c67692d8",
+        "replica": null,
+        "group": false,
+        "vlan": true
+      },
+      "nonce": {
+        "bucket": 3916,
+        "metrics": true,
+        "alerts": 7508,
+        "middleware": false,
+        "crypto": 265,
+        "postgres": "dc69ef618b8b"
+      },
+      "registry": "heap",
+      "udp": {
+        "pod": false,
+        "mesh": 8319,
+        "release": null,
+        "request": "traces"
+      },
+      "column": null,
+      "proxy": {
+        "fuzz": false
+      }
+    },
+    "config": [
+      true,
+      [
+        "dns",
+        "mqtt",
+        false
+      ],
+      4726
+    ],
+    "vault": {
+      "node": null,
+      "logs": 2561
+    }
+  }
+}

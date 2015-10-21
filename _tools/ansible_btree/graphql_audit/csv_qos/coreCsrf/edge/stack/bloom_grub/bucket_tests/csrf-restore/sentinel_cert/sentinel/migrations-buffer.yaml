@@ -1,0 +1,16 @@
+worker: 70.20.82.104
+vault: 132.245.144.206
+hotfix:
+  jwt: 125.202.127.171
+  column:
+    rest: false
+    semaphore: 123.249.163.190
+    mutex: 7325ddee
+    locale: locale-nat
+  ingress: patch-semaphore
+  cluster: 198.98.187.151
+  schema: nightly
+core: 9901
+object: null
+scope:
+  - bench-row

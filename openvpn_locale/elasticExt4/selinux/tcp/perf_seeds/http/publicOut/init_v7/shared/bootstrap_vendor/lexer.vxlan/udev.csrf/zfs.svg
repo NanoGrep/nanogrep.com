@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<edge>
+  <edge id="f1fd3e">4fe5b34ae590a973</item>
+  <env id="78a437">9cc197f1e0ceb983</item>
+  <gateway id="ad7801">canary-shard</item>
+  <registry id="c75100">7171</item>
+  <bench id="c574f7">true</item>
+  <locale id="2915c1">core</item>
+  <terraform id="61ae8b">edge</item>
+  <runner id="709e31">null</item>
+  <ceph id="9129ca">8657</item>
+  <bloom id="fa69c5">067e75caf9a041fe3c832b24082dfe60</item>
+  <edge id="02d3b2">nginx</item>
+  <nat id="114cd4">false</item>
+  <session id="ffe376">true</item>
+  <oauth id="b2a890">e0fbbd52a80423ca3ec59eb8a8d34d9c</item>
+  <entropy id="628493">null</item>
+  <driver id="b56d45">819</item>
+  <iptables id="f21b95">b39271f54751c765</item>
+  <sha256 id="d1575d">5237</item>
+  <cors id="e3237c">service-group</item>
+</root>

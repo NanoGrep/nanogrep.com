@@ -1,0 +1,82 @@
+{
+    "scheduler": {
+        "jenkins": 6400,
+        "crypto": {
+            "ansible": {
+                "artifact": 6043
+            },
+            "dns": "frontend",
+            "frontend": [
+                null,
+                4737
+            ],
+            "vault": {
+                "probe": null,
+                "salt": false,
+                "build": false
+            }
+        }
+    },
+    "volume": {
+        "migrations": "service",
+        "env": {
+            "cron": {
+                "oauth": true
+            },
+            "nonce": [
+                null,
+                "cache",
+                null,
+                7373
+            ],
+            "queue": {
+                "traces": "dcb1b58cc331",
+                "salt": true,
+                "regex": "proxy",
+                "cgroups": "cce5080cb229"
+            },
+            "rollback": [
+                "ffadfcec46f1",
+                null,
+                true,
+                true
+            ]
+        },
+        "node": "jwt",
+        "terraform": []
+    },
+    "pod": {
+        "scope": 8203,
+        "iptables": "sandbox",
+        "logs": {
+            "regex": {
+                "nonce": "6b4577f32a76"
+            },
+            "canary": {
+                "hashmap": "batch",
+                "shard": true,
+                "socket": null,
+                "sha256": null
+            },
+            "switch": [
+                null,
+                true
+            ],
+            "bootstrap": {
+                "scheduler": null,
+                "btree": "d36ce8bea8ce",
+                "graphql": 7098,
+                "config": false
+            }
+        },
+        "node": "67c5c2d320f9"
+    },
+    "bgp": {
+        "scope": null,
+        "aes": "lib"
+    },
+    "bucket": true,
+    "prometheus": {
+        "config": "b2ecc28ca1d4"
+    }
+}

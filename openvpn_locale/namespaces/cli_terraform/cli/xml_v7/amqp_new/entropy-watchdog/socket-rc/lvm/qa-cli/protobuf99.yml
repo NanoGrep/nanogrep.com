@@ -1,0 +1,35 @@
+vault:
+  mesh: e063acde
+  metrics: 611
+  scope: f133726a75b5e7c1664cc4de09a17270
+  env:
+    metrics: 634a567cbb73e79de5f5801e5c1568de
+    websocket: true
+    controller:
+      column: bench
+      nfs: 439cd640eabd6353
+      coroutine:
+        - tcp
+        - false
+        - cgroups-ldap
+        - 9912
+      node: volume
+    bootstrap: false
+    snapshot:
+      registry:
+        - true
+      mesh: null
+  patch: 210.248.82.65
+  origin:
+    node:
+      hotfix: baaa0441
+      adapter: 59.172.202.33
+      legacy: false
+      cluster: 134.250.44.86
+    ldap:
+      tls: 7.243.87.139
+      kerberos: cc8a6965
+      backup: 78.53.50.178
+      cookie: 242.111.128.200
+    socket: 2506
+    grpc: true

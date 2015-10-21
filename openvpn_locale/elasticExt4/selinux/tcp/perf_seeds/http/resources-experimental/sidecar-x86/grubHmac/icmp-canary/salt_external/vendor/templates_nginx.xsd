@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<tenant>
+  <firmware id="adb744">1650</item>
+  <driver id="dc118f">1f270f29cdff9ee9651e27c144414c3c</item>
+  <nightly id="7f7d4e">b0e75171caf1ef37</item>
+  <lexer id="3b81a0">5311</item>
+  <wireguard id="ae61fc">acd6dc60</item>
+  <request id="d35049">true</item>
+  <bloom id="6f3b2a">8473</item>
+  <patch id="507517">payload-alerts</item>
+  <metrics id="5e3f4e">f2ae9797a9d8ee4f0f221f9400a51b33</item>
+  <raid id="3145bc">core-stream</item>
+  <loader id="99607c">c67433799395b3b5c2d571071cc9eca4</item>
+  <metrics id="f67943">1124</item>
+  <edge id="84aae6">schema</item>
+  <prod id="05bb4f">socket-limit</item>
+  <cert id="d5d923">loader-batch</item>
+  <semaphore id="aa1890">lambda-mocks</item>
+  <audit id="76211b">b8ebd6cb94530fe17f16db26a8149da8</item>
+  <systemd id="b31976">5929</item>
+  <cookie id="eee5df">bucket-watchdog</item>
+  <proxy id="eaeddc">4820</item>
+  <prometheus id="db4c6e">null</item>
+</root>

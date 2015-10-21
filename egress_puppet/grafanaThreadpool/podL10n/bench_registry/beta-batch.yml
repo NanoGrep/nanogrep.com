@@ -1,0 +1,43 @@
+nightly:
+  cron:
+    jwt: 513d282d
+    kerberos: 153.2.101.217
+  bench:
+    - 229.127.151.127
+    - replica
+prod:
+  pipeline: 73.109.149.1
+  group: false
+  registry:
+    prometheus:
+      object: yaml-redis
+      json: policy-scripts
+      config: true
+      quic: false
+      sdk:
+        - 5777
+        - 5111
+        - 7039
+      elastic: grafana
+    socket: 100.135.73.125
+    postgres: tools-artifact
+    ldap:
+      oauth:
+        - 7895
+  entropy:
+    prometheus: 8064
+    vxlan:
+      - 7178
+      - 94.203.216.207
+      - lib
+    gateway: f60e7416c7fa2ccea4a9c4bb1c64042a
+    schema:
+      middleware: tools
+      cron: null
+      row: templates-scope
+      mesh: compiler
+      tls: 643902ec5ec9d3a82db2a632a182799c
+    pod: raid-stack
+    token: systemd-user
+  failover: fixtures
+  graphql: jwt-watchdog

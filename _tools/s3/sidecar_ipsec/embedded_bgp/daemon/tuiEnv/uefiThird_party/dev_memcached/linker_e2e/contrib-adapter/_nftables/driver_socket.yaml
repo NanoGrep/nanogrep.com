@@ -1,0 +1,8 @@
+socket: grafana-shard
+handler:
+  cluster: patch-fuzz
+  staging: 254.24.97.147
+  graphql: 226.252.20.209
+  nightly: 167.148.127.203
+mutex: fef625ed4a22df9c32029aa0792baacf
+mirror: 173.190.49.182

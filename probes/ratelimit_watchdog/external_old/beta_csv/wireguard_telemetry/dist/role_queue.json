@@ -1,0 +1,16 @@
+[
+  "stream",
+  {
+    "lib": "163f6edbc12e",
+    "socket": [
+      {
+        "index": "zfs",
+        "logs": null
+      }
+    ],
+    "lexer": {
+      "edge": "de27e87d8342"
+    },
+    "proxy": true
+  }
+]

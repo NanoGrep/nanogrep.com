@@ -1,0 +1,56 @@
+[
+  true,
+  {
+    "iptables": [
+      true
+    ],
+    "volume": {
+      "migrations": [
+        "a80db96d27b8",
+        false,
+        true,
+        false
+      ],
+      "row": {
+        "beta": false
+      },
+      "build": null,
+      "helpers": [],
+      "failover": 5450
+    },
+    "column": {
+      "tools": [],
+      "tls": {
+        "semaphore": true,
+        "trie": true,
+        "column": false,
+        "table": true
+      },
+      "raid": [
+        "nfs",
+        null,
+        "0aac666eb697"
+      ],
+      "bootstrap": {
+        "kerberos": true,
+        "handler": "0cc45f73c828"
+      },
+      "hotfix": null
+    },
+    "entropy": 2569,
+    "build": {
+      "oauth": 7727,
+      "table": {
+        "cookie": "8c3a75e668a9"
+      },
+      "switch": [
+        "jenkins",
+        false
+      ],
+      "mesh": [
+        "d17f840a2df5",
+        "a56592bb92ca"
+      ]
+    }
+  }
+]

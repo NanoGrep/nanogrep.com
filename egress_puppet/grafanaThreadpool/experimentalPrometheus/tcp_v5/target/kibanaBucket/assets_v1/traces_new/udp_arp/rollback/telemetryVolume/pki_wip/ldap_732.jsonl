@@ -1,0 +1,36 @@
+[
+    [
+        "legacy",
+        {
+            "helm": [],
+            "row": {
+                "compiler": false,
+                "buffer": "dhcp",
+                "edge": null
+            },
+            "tls": true,
+            "mocks": {
+                "cors": "tools",
+                "parser": true,
+                "prod": "336fb234a61a",
+                "envoy": true,
+                "prometheus": 2345
+            },
+            "nfs": null
+        },
+        [
+            null,
+            {
+                "storage": "a86d30baa90d"
+            },
+            {
+                "locale": "95006c2d52d0"
+            },
+            [
+                "patch",
+                false
+            ]
+        ],
+        9630
+    ]
+]

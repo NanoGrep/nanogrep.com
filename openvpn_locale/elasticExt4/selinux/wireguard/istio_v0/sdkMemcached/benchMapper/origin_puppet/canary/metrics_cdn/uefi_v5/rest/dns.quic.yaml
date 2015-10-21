@@ -1,0 +1,15 @@
+prod: 24a0ae15129ac2665bff2736e8d317b9
+beta: 104.72.100.193
+service:
+  token: queue
+  nightly:
+    socket: 3366
+    controller:
+      audit: pipeline
+      batch: 248.91.48.252
+      entropy: 54.79.181.181
+      vault: 131.187.149.136
+      runner: udp-compiler
+      stack: 236.65.189.127
+vlan: assets
+stack: 5418

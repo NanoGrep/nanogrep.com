@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<failover>
+  <prod id="24420d">batch-volume</item>
+  <postgres id="87ad2c">registry-grpc</item>
+  <handler id="00f898">3a19f4ded71dd4dc895065c840380ac8</item>
+  <patch id="cc3f45">7287</item>
+  <terraform id="b9effe">7186</item>
+  <udp id="fa2ce9">backend-yaml</item>
+  <http id="9058ae">11</item>
+  <regex id="e13699">2793</item>
+  <parser id="867664">grpc-queue</item>
+  <adapter id="dba0b5">225.175.98.199</item>
+  <kernel id="67cdc6">quic-udp</item>
+  <release id="c2c197">false</item>
+  <index id="99218e">token-subnet</item>
+  <elastic id="faa943">gateway</item>
+  <frontend id="cfe67d">null</item>
+  <quic id="e5c00c">bootstrap</item>
+  <watchdog id="16df65">null</item>
+</root>

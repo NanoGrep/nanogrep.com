@@ -1,0 +1,28 @@
+rsa: redis-vendor
+tcp: 247.207.110.160
+driver:
+  graphql:
+    vlan:
+      index: mirror-cli
+      object: false
+      bloom: bench
+      policy: table-volume
+      firewall: cf6f64ab948bc89e
+replica: true
+logs: pod
+protobuf:
+  mocks:
+    cluster: 117.44.117.181
+  raid:
+    registry: beta
+    queue: vault-volume
+    tls: 145.76.68.20
+    protobuf: 38ff7def
+  proxy:
+    probe: null
+  mocks: null
+  core:
+    scheduler:
+      - e663174521804463
+      - 5625
+      - handler-offset

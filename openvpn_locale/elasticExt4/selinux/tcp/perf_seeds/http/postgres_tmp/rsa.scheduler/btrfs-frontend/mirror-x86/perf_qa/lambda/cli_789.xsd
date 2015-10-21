@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<router>
+  <traces id="34ffcf">false</item>
+  <lib id="b99a97">env-switch</item>
+  <jenkins id="3abf07">b250ac2128722b8a59c4e3002875efca</item>
+  <sha256 id="a17ea4">handler</item>
+  <hotfix id="271276">dist-hmac</item>
+  <redis id="2419be">nightly-scheduler</item>
+  <core id="2c132b">2696</item>
+  <socket id="9ea79a">true</item>
+  <websocket id="25cef1">9601</item>
+  <shard id="e7fac9">243.136.91.73</item>
+</root>

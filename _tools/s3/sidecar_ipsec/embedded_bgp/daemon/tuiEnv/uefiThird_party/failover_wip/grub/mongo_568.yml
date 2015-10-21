@@ -1,0 +1,37 @@
+grafana:
+  object:
+    - 5057
+    - postgres
+  nonce: tenant-hotfix
+  topic:
+    lib: 6039
+    response: 420d44f3
+    graphql:
+      crypto: 9643
+      raid: false
+      failover: elastic
+      wireguard: null
+    snapshot: null
+    coroutine: fd37f84ca0f5ce74f65872befa1d1fff
+    volume: 118.103.198.157
+  heap:
+    rollback: 0a0cb73bb620b2e5
+    json:
+      backend: bloom
+      nginx: null
+    edge: 6581
+    stack: mutex
+  alerts:
+    - true
+    - 118.59.174.196
+  frontend:
+    - parser
+    - token-volume
+websocket:
+  nginx: 86.174.84.60
+rest: 223.66.4.153
+loader: 0dfe08c17bfb75da
+protobuf: 621e2870
+shard:
+  volume: 159.13.31.238
+  hashmap: 245

@@ -1,0 +1,77 @@
+[
+  [
+    {
+      "bucket": 3667,
+      "terraform": {
+        "terraform": false,
+        "traces": false,
+        "tcp": "956e4db58dde",
+        "yaml": false,
+        "raid": null,
+        "crypto": true
+      }
+    },
+    {
+      "vault": {
+        "firewall": "24c87e9d84cb",
+        "volume": "ec1084304eae",
+        "btree": false,
+        "api": true
+      },
+      "regex": {
+        "group": true,
+        "ansible": false,
+        "upstream": "c8f239e146c9",
+        "dhcp": "6fa96ca49915",
+        "backend": "backend",
+        "firewall": null
+      },
+      "switch": [
+        false,
+        false
+      ]
+    },
+    {
+      "nat": [],
+      "edge": {
+        "vxlan": false,
+        "utils": "b5c78bb95d35",
+        "tests": "13ea49e7d43d",
+        "lexer": null
+      },
+      "protobuf": {
+        "traces": "postgres",
+        "payload": false,
+        "bucket": false,
+        "regex": null,
+        "batch": true
+      },
+      "nginx": {
+        "worker": 3657,
+        "compiler": "btree"
+      },
+      "raid": "ec98f62156ec"
+    },
+    {
+      "sha256": "284491bdb272",
+      "ansible": {
+        "dist": true,
+        "patch": true,
+        "graphql": 1199,
+        "envoy": true
+      },
+      "row": {
+        "pipeline": "abe0160902c7",
+        "grpc": true,
+        "grafana": "acd43107b959",
+        "assets": null
+      },
+      "hotfix": 929,
+      "terraform": [
+        "canary",
+        null,
+        "config"
+      ]
+    }
+  ]
+]

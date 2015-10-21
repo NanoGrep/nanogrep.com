@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<tenant>
+  <hmac id="1d87f0">handler-migrations</item>
+  <udp id="f7efde">7626</item>
+  <mocks id="21dd22">null</item>
+  <prometheus id="2e7e65">mocks-cluster</item>
+  <driver id="52eea9">2a5fd807</item>
+  <heap id="d2d872">true</item>
+  <redis id="510df2">storage-release</item>
+</root>

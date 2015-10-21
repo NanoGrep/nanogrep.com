@@ -1,0 +1,48 @@
+{
+    "rollback": "quic",
+    "session": false,
+    "json": "payload",
+    "nat": {
+        "artifact": "firmware",
+        "upstream": {
+            "middleware": {
+                "mutex": "elastic",
+                "mesh": null,
+                "bgp": null
+            },
+            "nightly": false,
+            "dist": {
+                "aes": true
+            },
+            "bench": {
+                "heap": false,
+                "common": false,
+                "runner": true,
+                "firewall": true
+            },
+            "retry": "build"
+        },
+        "handler": {
+            "lib": {
+                "kafka": false,
+                "handler": 6078,
+                "zfs": false,
+                "graphql": "71e924baaca4",
+                "metrics": true
+            },
+            "alerts": {
+                "edge": null,
+                "bgp": true,
+                "tls": "helpers",
+                "limit": true,
+                "postgres": false
+            },
+            "canary": {
+                "user": null,
+                "artifact": null,
+                "ceph": false
+            },
+            "mutex": "switch"
+        }
+    }
+}

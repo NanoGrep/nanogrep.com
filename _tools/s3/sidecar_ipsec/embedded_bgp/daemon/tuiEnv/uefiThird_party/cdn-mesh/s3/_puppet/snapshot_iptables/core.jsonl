@@ -1,0 +1,52 @@
+[
+  {
+    "sdk": {
+      "mongo": true,
+      "logs": false,
+      "redis": [
+        true,
+        true
+      ]
+    },
+    "cookie": {
+      "compiler": 4403,
+      "kernel": 9831,
+      "role": {
+        "queue": "edge",
+        "oauth": "442e21807b07",
+        "dist": "origin"
+      },
+      "cgroups": {
+        "vendor": "77c2bb515b58",
+        "cluster": null,
+        "buffer": true
+      },
+      "mirror": {
+        "mysql": "153a0b6936ec",
+        "api": true
+      }
+    },
+    "kerberos": true,
+    "loader": [
+      "storage",
+      9368,
+      [
+        8771,
+        true
+      ],
+      {
+        "fixtures": "dcb252058929",
+        "wireguard": 9641,
+        "raid": true,
+        "rollback": false
+      }
+    ],
+    "http": [
+      9416,
+      false,
+      null
+    ]
+  },
+  null,
+  null
+]

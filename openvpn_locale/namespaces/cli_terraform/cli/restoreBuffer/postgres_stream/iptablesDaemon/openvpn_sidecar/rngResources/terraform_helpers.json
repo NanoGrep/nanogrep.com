@@ -1,0 +1,85 @@
+{
+  "config": "mapper",
+  "runner": {
+    "socket": [
+      null
+    ],
+    "daemon": {
+      "payload": {
+        "iptables": "15c0067caf5c",
+        "raid": true,
+        "proxy": false,
+        "elastic": null,
+        "tls": true,
+        "btree": false
+      },
+      "scope": null
+    },
+    "coroutine": {
+      "lexer": null,
+      "topic": 1944,
+      "dns": [
+        "dc11c0110e25"
+      ],
+      "websocket": [
+        null,
+        false,
+        3123
+      ]
+    },
+    "grpc": [],
+    "session": null,
+    "utils": "fe90ec530968"
+  },
+  "cluster": [
+    {
+      "envoy": 3257,
+      "backup": {
+        "backend": true,
+        "templates": "5bd4d7afbf6c",
+        "mocks": "9d93ae46cf18",
+        "volume": "jwt",
+        "middleware": null,
+        "edge": false
+      },
+      "node": "36ef6b7219a1",
+      "adapter": [
+        4664
+      ],
+      "cluster": [
+        "aa3b040df606",
+        "baa59dd2704f"
+      ],
+      "rsa": null
+    },
+    "replica",
+    {
+      "vault": null,
+      "cache": true,
+      "jenkins": "tools",
+      "hotfix": {
+        "nfs": "rollback",
+        "tests": "beta",
+        "fixtures": "group",
+        "daemon": null
+      },
+      "rest": false,
+      "session": {
+        "tenant": false,
+        "object": "43a8f19ebc13",
+        "snapshot": 9109,
+        "rest": 9935,
+        "limit": true,
+        "ingress": true
+      }
+    },
+    {
+      "websocket": [
+        true,
+        "beta"
+      ],
+      "mongo": null,
+      "grpc": "52da5f67b614"
+    }
+  ]
+}

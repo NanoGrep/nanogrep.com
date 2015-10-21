@@ -1,0 +1,45 @@
+grpc: jwt-http
+logs:
+  assets: true
+  kerberos: handler
+  jenkins:
+    threadpool: true
+    core:
+      service: 159.54.238.237
+      envoy: terraform
+      rest: edge
+      crypto: mongo-origin
+      offset: threadpool-proxy
+      firmware: role-quic
+  vendor:
+    mutex:
+      firmware: 128.112.202.62
+      assets: 129.86.176.242
+      coroutine:
+        - 30001f65
+  queue: grafana
+replica:
+  mirror:
+    jwt:
+      vault: 5693
+      cron: lib
+      dns:
+        - table-lib
+        - 117.23.151.151
+      failover: 3415
+      jwt: ade8115f6d65d2d09322c27c3c4beddd
+      socket:
+        - tools-semaphore
+        - btree
+        - 39.43.192.5
+        - aes
+    raid: 248.252.74.236
+    yaml: false
+    http: 12.59.196.59
+    bloom: 8340
+  stack: dhcp-lambda
+  traces: true
+  templates: elastic
+  nginx: 4443
+helm: 102.49.21.230
+cookie: daemon-request

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<session>
+  <stack id="f71286">105.133.37.25</item>
+  <beta id="cbfe7e">18d3b06eac7e6a4535e2d8e4d7b20c10</item>
+  <pod id="067683">2573</item>
+  <hmac id="1fa10d">6689</item>
+  <vxlan id="fc289e">57.202.106.46</item>
+  <pipeline id="b99017">b680eabf</item>
+  <rsa id="1f0722">505</item>
+  <vxlan id="63d8c3">worker</item>
+  <response id="4b8bac">0e9165ef</item>
+  <batch id="b6bf2e">110.61.72.42</item>
+  <row id="2e2fe2">151.232.196.227</item>
+  <hashmap id="f2982b">raid-user</item>
+  <common id="682861">5751</item>
+  <elastic id="a4b456">d45bf03902404ea4277f1a23f8137cd4</item>
+  <tenant id="34a40f">bgp-object</item>
+  <row id="93ab3c">true</item>
+  <redis id="95dc99">fixtures</item>
+  <bootstrap id="c4905f">topic</item>
+  <shard id="68ee53">migrations-terraform</item>
+  <handler id="7732ee">false</item>
+  <queue id="81f127">646345d9</item>
+  <udp id="389022">3209</item>
+</root>

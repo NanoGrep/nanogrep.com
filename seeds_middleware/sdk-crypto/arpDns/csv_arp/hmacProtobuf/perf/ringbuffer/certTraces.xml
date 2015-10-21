@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<queue>
+  <bloom id="2aa1f8">1627</item>
+  <websocket id="8a1a6b">146.49.116.50</item>
+  <upstream id="0fec13">84</item>
+  <patch id="51a6a6">mesh</item>
+  <common id="bf8642">service-terraform</item>
+  <session id="02b712">241.250.15.46</item>
+  <nightly id="9b967c">a27669abbe73bd06227fda91adb131dd</item>
+  <nat id="54f430">241.138.236.139</item>
+  <payload id="277ceb">true</item>
+  <cache id="1b12be">4065</item>
+  <patch id="25cdbd">5116</item>
+  <replica id="ccf219">bgp</item>
+  <heap id="011bea">null</item>
+</root>

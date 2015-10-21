@@ -1,0 +1,22 @@
+{
+  "limit": "user",
+  "proxy": {
+    "helm": "2052a009faa6"
+  },
+  "frontend": "offset",
+  "vendor": null,
+  "nginx": {
+    "factory": "sandbox",
+    "proxy": [
+      {
+        "token": null,
+        "session": false,
+        "schema": false,
+        "bucket": "1e4d982bee9f",
+        "index": "nfs"
+      },
+      true
+    ]
+  },
+  "stack": []
+}

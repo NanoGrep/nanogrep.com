@@ -1,0 +1,7 @@
+vendor:
+  - rsa
+  - mirror-lexer
+  - false
+nfs: 42.205.76.93
+topic:
+  kerberos: topic-mesh

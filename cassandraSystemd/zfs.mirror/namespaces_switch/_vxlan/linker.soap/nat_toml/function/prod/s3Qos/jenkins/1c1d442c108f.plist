@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<tenant>
+  <origin id="013271">1818</item>
+  <tools id="ba6c03">164.184.250.49</item>
+  <middleware id="37111d">9681</item>
+  <templates id="86a60c">cf2f0e1c</item>
+  <release id="da251a">btree</item>
+  <upstream id="ff3c7c">3675</item>
+  <kerberos id="5d765f">218.131.172.136</item>
+  <batch id="4c1e3f">oauth-helm</item>
+</root>

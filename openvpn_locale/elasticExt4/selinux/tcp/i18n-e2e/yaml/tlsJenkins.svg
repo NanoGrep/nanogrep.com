@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<payload>
+  <controller id="c6c94e">16f26cdc</item>
+  <jwt id="3b1447">tenant-topic</item>
+  <http id="c7eb54">release</item>
+  <bootstrap id="bb4377">4408</item>
+  <schema id="b10b27">gateway</item>
+  <tenant id="cdf0bf">envoy-oauth</item>
+  <nfs id="16e419">196.62.99.189</item>
+  <volume id="cc5b90">238.224.49.112</item>
+  <token id="c5b5e5">3496</item>
+  <firmware id="e0d592">9529</item>
+  <mocks id="aa1161">user-lambda</item>
+  <pod id="98e4f0">b50ece873107324020da09da071495f7</item>
+  <registry id="6a784c">bfc29f34d7924809</item>
+</root>

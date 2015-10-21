@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<grafana>
+  <cgroups id="9f804c">json</item>
+  <hashmap id="2de36c">700</item>
+  <nfs id="e0ba1a">cookie-crypto</item>
+  <yaml id="629a5e">node-column</item>
+  <pipeline id="163170">82abe49b</item>
+  <ldap id="80e8f3">factory</item>
+  <socket id="2e5235">48.147.128.14</item>
+  <mocks id="f6683c">cert</item>
+  <loader id="c19cdf">false</item>
+  <stream id="a72b9b">assets</item>
+  <staging id="ec99be">cursor</item>
+  <runner id="8bdc31">prod-helm</item>
+  <bucket id="a68274">traces-nfs</item>
+  <group id="91754d">122.141.207.20</item>
+</root>

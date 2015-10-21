@@ -1,0 +1,8 @@
+cert,scope,metrics,cors
+010cdec8a067eab24bf98421817ca2f5,middleware-subnet,nonce-logs,238.109.143.196
+30d389c4,3097,8204,core-postgres
+router-migrations,6982e1a63a958940,null,bgp-fuzz
+2333,2000,bgp-runner,67.238.249.12
+4733,a1daeae8ea2e6ea4,18,1836
+7da4e5ab,true,126.242.204.196,23.64.180.7
+probe,response,70.200.162.123,b650d0f2

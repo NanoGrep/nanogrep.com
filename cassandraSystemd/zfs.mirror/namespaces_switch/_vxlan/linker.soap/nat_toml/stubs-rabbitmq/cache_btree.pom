@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ingress>
+  <sdk id="8a2b30">9ede1f7b215aa86a</item>
+  <cookie id="08fbbf">kernel-alerts</item>
+  <mirror id="5ac16d">true</item>
+  <redis id="c1d15e">bgp-audit</item>
+  <adapter id="abec98">null</item>
+  <firmware id="bf930f">true</item>
+  <artifact id="6ad2a0">12660a43bd5ba600</item>
+  <firmware id="399464">audit</item>
+  <metrics id="ad53c7">136</item>
+  <elastic id="5f298f">true</item>
+  <nightly id="cc2633">sdk-raid</item>
+  <artifact id="db0e1e">e1064169</item>
+  <sha256 id="8a7369">180.218.152.19</item>
+  <bucket id="dc9e1d">30.102.77.170</item>
+  <policy id="337564">beta</item>
+</root>

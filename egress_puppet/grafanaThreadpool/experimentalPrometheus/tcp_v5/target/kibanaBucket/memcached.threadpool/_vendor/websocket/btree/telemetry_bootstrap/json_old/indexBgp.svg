@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<semaphore>
+  <bloom id="13b0af">compiler</item>
+  <entropy id="441374">209.230.77.35</item>
+  <frontend id="37ac0a">helm-bucket</item>
+  <token id="3b61eb">97.113.192.27</item>
+  <sandbox id="9b0dce">alerts</item>
+  <sandbox id="b5119f">false</item>
+  <tenant id="1b097a">fcda27d7a1f3a157</item>
+  <websocket id="8ddbed">6709</item>
+  <grpc id="5182d1">migrations</item>
+</root>

@@ -1,0 +1,26 @@
+audit: 141.62.6.140
+patch:
+  assets: lambda-postgres
+  backup: table-fixtures
+  stack: 7127
+  vendor:
+    graphql:
+      udp: 6537
+    terraform: 3664
+    router: bgp
+    schema: 3298
+    bgp: 3291f914
+    edge: handler
+redis:
+  topic:
+    bucket: null
+    sdk:
+      - c32b4146
+      - 181.204.73.226
+      - 1374
+    templates: bootstrap-tls
+helm:
+  - 3395
+  - iptables
+  - 133.223.54.29
+gateway: 41.28.53.182

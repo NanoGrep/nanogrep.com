@@ -1,0 +1,13 @@
+udp,jwt,prometheus,dhcp,locale,edge
+schema,frontend,replica-scheduler,prod-build,object-handler,05601311
+fd5f63b3615cf0a5,0b33ad2e28e04f5da338ec8d9c63cb6c,6426,00825ddad2b02314,7151,7ce05d0900100f5e78f5ef8c763969c7
+6879,207.83.163.80,83.149.193.40,247.53.234.216,89,mapper
+api-assets,8781,false,59.31.208.143,null,logs
+oauth,ddaadc0a,1795,tests-edge,true,8711
+7c1e8b303e77a6fc9766ec5795216b6a,hmac,1969,4e64e44d,4c7f31bf18a98b89b8f113d4c3fdede2,mongo
+c2a79abf372a5736eca74c04a3d4108f,622a41b5ba1f6993,raid-vxlan,null,239.166.104.187,4992
+1762,tools-udp,sandbox,c41cddee,true,heap
+null,rest-udp,yaml,mocks,4c304e77d3c5f6b0b5e9f9c67f576772,171.183.107.117
+audit-snapshot,hotfix,2596,null,tests-scope,6d7affda
+null,4898,1740,205.230.195.22,208.100.77.30,198.46.226.235
+true,beta,4272,66a2719a,mysql-assets,false

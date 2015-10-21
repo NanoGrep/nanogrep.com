@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<nightly>
+  <proxy id="234e74">retry</item>
+  <systemd id="5936bc">false</item>
+  <audit id="7739ed">json</item>
+  <tenant id="8e9702">53ea36cb0c8d474cc7ba9d7d7cc3269a</item>
+  <router id="a15c68">prod</item>
+  <beta id="56b31f">postgres-wireguard</item>
+  <quic id="f7ab25">115.72.78.136</item>
+  <probe id="eb6b10">tests</item>
+  <migrations id="3395f9">quic-watchdog</item>
+  <tcp id="c5e8fe">63.153.205.222</item>
+  <ansible id="f14251">225</item>
+  <controller id="8780bc">5790</item>
+  <nat id="2fbe66">false</item>
+  <index id="cdd78a">user</item>
+  <cgroups id="d99b9d">50.159.5.158</item>
+  <fuzz id="ae8696">868e4943808310a50a45b4ec963e8d44</item>
+  <tenant id="2da30b">6.99.105.111</item>
+  <release id="7ea634">7f345482f1338dc7</item>
+  <hmac id="3b5a07">4679</item>
+  <legacy id="a8d201">8ef6c4c3b73167a1</item>
+  <stream id="8cebbd">61.215.140.207</item>
+  <utils id="f62199">221.199.252.42</item>
+  <fuzz id="ea7301">165.8.218.209</item>
+</root>

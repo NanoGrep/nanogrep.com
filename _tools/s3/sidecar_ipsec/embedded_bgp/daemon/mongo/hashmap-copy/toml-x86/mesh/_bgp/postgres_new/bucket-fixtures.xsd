@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<cluster>
+  <nginx id="9bc8ef">false</item>
+  <btree id="d37596">5216cfe6</item>
+  <router id="a9dc26">4f1a79ce</item>
+  <cookie id="67c267">redis</item>
+  <row id="62683e">aes-pipeline</item>
+  <tenant id="69194e">90467198</item>
+  <adapter id="36fc0a">149.75.27.212</item>
+  <btree id="6c589e">69.25.148.107</item>
+  <storage id="f53c9c">273</item>
+  <socket id="570b3a">null</item>
+  <watchdog id="30f35d">253cf5d0</item>
+  <iptables id="31ea18">6164</item>
+  <ansible id="40c296">cf5d4ea19b0567a980344310244edf5e</item>
+  <mysql id="5a1d5c">3061</item>
+  <router id="276a74">false</item>
+  <upstream id="03a57a">registry</item>
+  <service id="b1ce7b">25.182.99.106</item>
+  <policy id="b1c666">6672</item>
+  <compiler id="d08a0a">06f6691099963b6f</item>
+  <tenant id="5341fb">zfs</item>
+  <frontend id="8a0325">1535</item>
+  <buffer id="1ca08c">templates</item>
+  <sandbox id="276ba0">0ef1e92038b915e14ecf029052be876a</item>
+  <helpers id="db8c29">bc6e1531</item>
+</root>

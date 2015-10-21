@@ -1,0 +1,54 @@
+{
+    "shard": {
+        "ceph": 6977,
+        "entropy": true,
+        "btree": {
+            "backup": {
+                "firmware": 8132,
+                "nginx": "utils",
+                "cors": true,
+                "kernel": true,
+                "legacy": null
+            },
+            "shard": 2486,
+            "terraform": {
+                "volume": null,
+                "semaphore": 476
+            },
+            "stream": {
+                "cert": 9990,
+                "locale": "ec13d62f052a",
+                "service": true,
+                "migrations": "elastic",
+                "config": "hmac"
+            },
+            "semaphore": "bucket",
+            "tcp": {
+                "bench": null,
+                "controller": null,
+                "oauth": null,
+                "ansible": true,
+                "config": "5cc624190394"
+            }
+        },
+        "alerts": {
+            "session": "api",
+            "dns": true,
+            "tenant": "trie"
+        }
+    },
+    "stack": [
+        {
+            "api": 5115,
+            "shard": [
+                "templates"
+            ],
+            "parser": {
+                "proxy": null
+            },
+            "helm": true
+        }
+    ],
+    "backup": null,
+    "jwt": 907
+}

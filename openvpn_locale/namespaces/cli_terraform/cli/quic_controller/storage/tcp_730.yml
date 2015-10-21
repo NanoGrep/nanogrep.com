@@ -1,0 +1,28 @@
+json:
+  probe:
+    proxy: 214.8.237.40
+    batch: daemon-ingress
+    scheduler: c1c37f66ce8a29e174e4c660a47c60ce
+    hmac: column
+  lambda: true
+service:
+  bucket:
+    - cache-crypto
+    - false
+  origin: 1332
+  adapter: null
+  queue:
+    - nonce-service
+    - batch-batch
+  topic: null
+json:
+  prod: mysql-zfs
+  canary: wireguard
+  node: 4819
+  schema: false
+env:
+  - 15c03f1ba13f3f93df641e73db1866b1
+  - 9037
+  - factory
+  - 6257d20bc0722f5a
+bootstrap: 24667ad4449e2175c27a0c7cc3f16244

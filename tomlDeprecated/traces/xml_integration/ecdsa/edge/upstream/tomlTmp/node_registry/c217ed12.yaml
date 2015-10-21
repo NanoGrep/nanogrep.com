@@ -1,0 +1,31 @@
+lib: vault-column
+policy:
+  controller: cache-kernel
+  stack: 3142
+  vlan:
+    btree:
+      backend: mocks
+  vlan: bootstrap
+  sandbox: 53.227.58.203
+  build:
+    oauth:
+      http: null
+    build: 244.100.166.100
+    service: queue-shard
+    upstream:
+      redis:
+        - false
+        - kafka
+      worker:
+        - 6d32a26d9f87783f
+        - router-bgp
+        - true
+      dist: true
+      nat: router-origin
+    offset: b99f9b8063a5bff8cb18798a690522d0
+kernel: 9810
+row: 910cd96790a3d334
+table: true
+service:
+  firewall: vault-logs
+  worker: 3237

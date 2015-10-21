@@ -1,0 +1,8 @@
+{
+    "quic": "postgres",
+    "lexer": [],
+    "vault": [
+        "78c4648feb98",
+        "trie"
+    ]
+}

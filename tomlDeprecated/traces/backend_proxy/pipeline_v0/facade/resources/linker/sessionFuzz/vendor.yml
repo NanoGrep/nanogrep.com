@@ -1,0 +1,5 @@
+jenkins: true
+http: yaml
+socket: bgp-kerberos
+ansible: tls
+firmware: b1115309

@@ -1,0 +1,38 @@
+vlan:
+  firewall: fe75e41508e44518
+  origin: 2099
+  tenant:
+    kerberos: 8772b744b41a6c9b
+    vxlan: 251.37.120.37
+    common:
+      kafka: 238.157.140.63
+      nightly: request-router
+      tls: lib
+      alerts:
+        - null
+        - staging
+  switch:
+    hotfix: b04eed0e
+    vlan: role-alerts
+firewall: false
+volume:
+  probe: null
+  locale:
+    queue:
+      - 6849
+      - regex
+      - f8e1d9f3d9362396
+    gateway: 122.201.163.236
+    grpc: http-cron
+    mysql:
+      - lexer-templates
+      - 9e4d8fbccf6bb368cb2ab4648e11cf9d
+      - 158.156.58.219
+      - 4422
+    origin: 7083
+    hashmap: null
+  parser: 1208
+  mirror: 8b6402048b750fafa287bd00f52cbdd5
+  limit: 68.140.168.62
+wireguard: batch
+vault: 218.94.153.112

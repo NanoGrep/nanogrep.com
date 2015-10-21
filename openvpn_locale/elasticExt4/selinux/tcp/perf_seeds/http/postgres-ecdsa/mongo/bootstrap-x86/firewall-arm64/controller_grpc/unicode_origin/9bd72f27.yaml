@@ -1,0 +1,45 @@
+elastic:
+  controller:
+    protobuf: true
+    request: 13ca5079
+    handler: true
+    locale:
+      factory:
+        - controller-build
+        - true
+      user:
+        - 78b9678bc5aef7012c16ca0d62d9c128
+      api: 0e53deb0
+      dhcp: null
+      raid: adaf476c
+      mesh: utils
+  handler:
+    scope:
+      regex: traces
+      grpc: adapter
+      payload: 6767
+      release:
+        - 125.67.26.57
+        - false
+      kafka: 115.25.251.173
+    retry:
+      - false
+      - null
+      - 4.69.80.96
+      - tools-user
+    nfs:
+      websocket: 139.26.76.94
+      audit: legacy-user
+      trie: f1c1b5ecd48c4c6c
+      tenant: null
+    replica:
+      kernel: postgres-dist
+      compiler: null
+      topic: 5912
+      release: 93.153.227.230
+      request: core
+  env: mesh-nat
+  buffer: pipeline
+  payload:
+    traces: backup-beta
+  snapshot: c94f611e

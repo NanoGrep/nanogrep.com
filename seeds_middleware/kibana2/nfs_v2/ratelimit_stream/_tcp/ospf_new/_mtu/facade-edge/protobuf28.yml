@@ -1,0 +1,33 @@
+object: 117.183.216.28
+config: ceph
+json:
+  scope:
+    watchdog:
+      parser:
+        - scheduler
+      backend: trie-adapter
+      policy:
+        - locale
+    bootstrap: 252.136.254.231
+    dns:
+      - core
+    replica: 1573
+    mesh: storage
+    vlan: 140.249.243.102
+  traces: grafana-systemd
+  websocket: 56c14c928079a7fa
+  grpc: 89.223.235.22
+vault:
+  coroutine: scripts
+  cluster:
+    origin:
+      bloom: 7a768309dede20da806580f05b2799af
+      prod: 46.43.211.99
+      env: 5023
+    core: 46.253.53.162
+    crypto: mocks
+  node:
+    - 6595
+    - 04fa20e2227f827720c25408495cc3ea
+    - queue
+  cert: 102.192.64.228

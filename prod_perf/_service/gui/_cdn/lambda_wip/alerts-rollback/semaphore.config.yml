@@ -1,0 +1,17 @@
+mysql:
+  backup: 176da89b
+elastic:
+  ldap:
+    fuzz: 1942
+  fuzz: metrics
+  assets:
+    staging: 138.38.9.89
+    firmware: 84.76.238.77
+    wireguard: null
+    shard:
+      - 4137
+      - false
+      - null
+      - 154.86.159.147
+grpc: 94009917fdc1db78
+rest: cbf0c2d3

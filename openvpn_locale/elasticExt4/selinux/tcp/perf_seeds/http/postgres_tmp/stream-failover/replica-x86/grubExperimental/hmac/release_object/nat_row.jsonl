@@ -1,0 +1,27 @@
+[
+    {
+        "tests": 2151,
+        "helm": [],
+        "firewall": {
+            "topic": false,
+            "helm": [
+                "c3245f6affed",
+                null,
+                true,
+                true
+            ],
+            "redis": [],
+            "aes": []
+        },
+        "response": {
+            "group": {
+                "elastic": null,
+                "ansible": null,
+                "request": "lambda",
+                "locale": "f08c8142cbee",
+                "cache": null
+            }
+        },
+        "cluster": "fixtures"
+    }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "sandbox": {
+      "audit": {
+        "tenant": "ef229f8ab947",
+        "volume": "parser",
+        "regex": null,
+        "nat": "object"
+      },
+      "lambda": 1893
+    },
+    "cache": {
+      "rollback": null
+    },
+    "volume": {
+      "cache": {
+        "middleware": null,
+        "config": "crypto",
+        "bucket": "1b613b5ce08e",
+        "oauth": false,
+        "lambda": true,
+        "kerberos": null
+      }
+    }
+  },
+  {
+    "audit": [
+      {
+        "cursor": 2083
+      },
+      []
+    ]
+  },
+  {
+    "sandbox": {
+      "edge": false,
+      "volume": "4d8d9f5e612b",
+      "index": true,
+      "yaml": null
+    }
+  }
+]

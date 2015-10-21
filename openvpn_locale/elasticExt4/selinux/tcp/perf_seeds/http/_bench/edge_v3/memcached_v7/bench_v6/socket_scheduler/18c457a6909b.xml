@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<logs>
+  <bgp id="84a872">false</item>
+  <assets id="9ba443">false</item>
+  <request id="7d016a">null</item>
+  <release id="2ee2e4">registry</item>
+  <artifact id="317b77">19.60.100.61</item>
+  <retry id="e677d3">1790</item>
+  <storage id="abd4ca">ceph</item>
+  <runner id="a96409">108.60.194.131</item>
+  <kafka id="5c8a2a">false</item>
+  <mysql id="b86aeb">false</item>
+  <hmac id="063ef4">efc7c14f</item>
+  <helpers id="ccfffc">92e6ea027abbc4abc3b6023a1b69d838</item>
+  <mocks id="9aca16">0bb7a66f</item>
+  <buffer id="1e8173">group-cluster</item>
+</root>

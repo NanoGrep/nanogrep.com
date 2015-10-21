@@ -1,0 +1,1 @@
+{"locale": false, "tls": 6938, "failover": ["protobuf", "7051227a6cd8", {"wireguard": "scheduler", "websocket": {"worker": false, "raid": true}}, {"grafana": 4722, "scripts": null, "storage": 7193}], "graphql": true}

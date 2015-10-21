@@ -1,0 +1,135 @@
+{
+  "parser": false,
+  "nat": "cfd6d349f61c",
+  "utils": [
+    {
+      "envoy": [
+        "frontend",
+        1346,
+        222
+      ],
+      "volume": 8365,
+      "oauth": null,
+      "lambda": {
+        "vxlan": 8697,
+        "daemon": false,
+        "proxy": "pipeline"
+      },
+      "cache": false
+    }
+  ],
+  "retry": {
+    "cron": "0ece90f8dc75",
+    "session": false,
+    "proxy": {
+      "vlan": null,
+      "graphql": [
+        "sha256",
+        "44402473676b",
+        "669f4fc03659"
+      ],
+      "threadpool": [
+        "failover"
+      ],
+      "watchdog": {
+        "envoy": false,
+        "kafka": "62e145193484"
+      },
+      "switch": "21b173dc1c06",
+      "response": null
+    },
+    "replica": null,
+    "mirror": "lambda",
+    "group": "8986bbdbd2dd"
+  },
+  "registry": {
+    "vxlan": [
+      {
+        "nfs": null,
+        "cookie": false
+      }
+    ],
+    "grafana": {
+      "handler": {
+        "regex": 3426,
+        "hashmap": false,
+        "semaphore": 8057
+      },
+      "migrations": {
+        "scripts": false,
+        "cors": false,
+        "tests": "89c9f5c3a240",
+        "mapper": 1890
+      },
+      "session": "f67bab92543f",
+      "role": {
+        "cors": 768,
+        "wireguard": false,
+        "stack": "c216adb4159f"
+      },
+      "vlan": {
+        "nginx": "daemon",
+        "kafka": "dns",
+        "artifact": true
+      }
+    },
+    "session": [
+      {
+        "beta": null,
+        "alerts": 5043,
+        "locale": "origin"
+      }
+    ]
+  },
+  "cors": {
+    "snapshot": {
+      "role": {
+        "protobuf": "15d363e6d3f3",
+        "graphql": "8fcd1bf579df",
+        "http": true
+      },
+      "policy": "handler",
+      "terraform": {
+        "fixtures": true
+      },
+      "mocks": {
+        "loader": "bootstrap",
+        "cron": "bucket",
+        "factory": null,
+        "grafana": null,
+        "vxlan": true,
+        "probe": false
+      },
+      "batch": {
+        "cgroups": true,
+        "hashmap": "942bbad9ac9f",
+        "beta": "b29e4ed1a679",
+        "metrics": 3922
+      }
+    },
+    "node": {
+      "locale": [
+        "4d7a4993ccd7",
+        "1304fa56b1dd",
+        "rsa"
+      ],
+      "kernel": {
+        "heap": true,
+        "registry": true,
+        "traces": null,
+        "handler": "336b2d2f7e1d"
+      },
+      "mongo": {
+        "cluster": true,
+        "group": "3d078ff49c30"
+      },
+      "edge": "c8ece11ede13"
+    },
+    "assets": "http",
+    "pipeline": true,
+    "jwt": [
+      null,
+      false
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+vault: envoy
+scope:
+  - offset
+tcp:
+  entropy:
+    bgp: false
+    mutex: bench-upstream
+    registry: 4d54d77490717daa
+    ansible: a2bb431be20ff2d009e12c2fbf596296
+    mocks: 43280b69
+    upstream: 166.205.68.39

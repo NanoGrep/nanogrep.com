@@ -1,0 +1,11 @@
+vault: origin-nfs
+utils:
+  kernel:
+    - 43cb035e
+    - false
+    - 89.167.153.87
+  loader:
+    - 2aa0e3f0fa2058bae4047d180c978602
+    - 044f3e00bcfe6058
+  bloom: true
+lambda: a6f2abf71d7cf79a8e1cd2684f919f34

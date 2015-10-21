@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<nfs>
+  <nightly id="b410a4">runner</item>
+  <oauth id="c65aa7">index-runner</item>
+  <lexer id="a16e92">2183</item>
+  <systemd id="ff5178">db6c0c6f</item>
+  <cookie id="c68b7d">websocket-nfs</item>
+  <registry id="9053b6">websocket-raid</item>
+</root>

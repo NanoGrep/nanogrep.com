@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<factory>
+  <assets id="a2b8dc">false</item>
+  <cursor id="7e2b3d">helm-service</item>
+  <firmware id="aae781">false</item>
+  <session id="a25d6e">postgres</item>
+  <nginx id="43f8f6">session-lexer</item>
+  <replica id="c02e3c">89.2.195.120</item>
+  <crypto id="ca987e">null</item>
+  <fuzz id="40aecc">0b906dd878cb2fd5</item>
+  <kernel id="9ed87e">http-zfs</item>
+  <firewall id="09cef1">migrations</item>
+  <socket id="708245">1193</item>
+  <patch id="ee154f">96f3bb7b</item>
+  <logs id="13ef67">4995</item>
+  <migrations id="382910">9580</item>
+  <storage id="c07bdf">f298e183fa83fe6c</item>
+  <sdk id="ba09a2">d292256935b81a83</item>
+  <tenant id="bfcc06">40.35.86.98</item>
+  <buffer id="b86818">lambda-table</item>
+  <lexer id="5cdfd7">bb7d00fa</item>
+  <cursor id="ad3c8c">mqtt</item>
+  <quic id="fe53a4">9497028dc23f38066251ea161c3da1f7</item>
+</root>

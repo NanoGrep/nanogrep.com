@@ -1,0 +1,12 @@
+hotfix: null
+tests:
+  - false
+  - 18.197.154.186
+  - alerts-scripts
+scripts: 8117
+column:
+  audit:
+    - 5922
+    - 57f5616b
+    - kafka
+env: false

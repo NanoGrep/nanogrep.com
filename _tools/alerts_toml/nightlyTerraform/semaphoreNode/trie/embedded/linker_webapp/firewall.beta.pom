@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<vlan>
+  <bloom id="93c38a">194.228.108.148</item>
+  <kernel id="5abde4">false</item>
+  <mysql id="b2c3f9">5008</item>
+  <mesh id="ccdf2b">registry-websocket</item>
+  <response id="1d4746">50b4c9c040afc40e</item>
+  <common id="aaab8d">6359</item>
+  <cookie id="02e226">true</item>
+  <core id="af4e8f">config-lib</item>
+  <nfs id="df6182">110.114.117.60</item>
+  <mysql id="a76284">mysql-node</item>
+  <bench id="4b5073">zfs-mysql</item>
+  <semaphore id="0a14fa">false</item>
+  <tenant id="f1bff1">74.24.162.41</item>
+  <vxlan id="e1b0ce">246.65.100.145</item>
+  <hotfix id="809ec4">nginx</item>
+  <offset id="fe2eb9">0c4c48e340362bdb</item>
+</root>

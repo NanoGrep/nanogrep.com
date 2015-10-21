@@ -1,0 +1,7 @@
+helpers: 6340
+payload:
+  - service-staging
+  - nonce-core
+  - rollback-cookie
+  - 103.224.96.130
+mesh: regex-sha256

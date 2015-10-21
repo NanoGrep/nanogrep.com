@@ -1,0 +1,6 @@
+cgroups: runner
+table: false
+backup: false
+cli: 747
+index: snapshot-daemon
+volume: true

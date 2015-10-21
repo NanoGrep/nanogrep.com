@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<logs>
+  <websocket id="7829a6">aes-coroutine</item>
+  <storage id="8f949c">true</item>
+  <backend id="1b01fb">5.179.115.13</item>
+  <ldap id="8907b4">b905daa12b1042ee</item>
+  <limit id="e9e194">null</item>
+  <proxy id="15ac23">35.109.89.176</item>
+  <watchdog id="58d2ea">5918</item>
+  <backend id="f2c5ce">198.40.161.49</item>
+  <helm id="448b0a">bloom-api</item>
+  <release id="efe36c">true</item>
+  <postgres id="3862ba">211.187.122.37</item>
+  <payload id="0be902">5069</item>
+  <sandbox id="626bc1">83.91.134.235</item>
+  <prometheus id="243f75">envoy-replica</item>
+  <bgp id="ad0221">grpc-oauth</item>
+  <tools id="a38978">terraform</item>
+  <payload id="37030b">null</item>
+</root>

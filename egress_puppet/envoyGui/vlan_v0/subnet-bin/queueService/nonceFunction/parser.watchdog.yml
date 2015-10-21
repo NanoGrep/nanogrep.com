@@ -1,0 +1,20 @@
+iptables:
+  regex:
+    dist: jwt-mutex
+  kernel: null
+  edge: 3522
+  stream:
+    json:
+      stack:
+        - 209.163.108.214
+        - 6748
+        - 1728
+      runner: d4462ba5078b5ab8c8a2193fe630306d
+    cron: table-http
+    ceph: 8a50d19444332eee415e30a8b5a0e5ac
+    service: true
+    mysql: 197.147.157.86
+    websocket: dd8da51b
+  jenkins: 8307
+driver: watchdog-table
+index: 5187

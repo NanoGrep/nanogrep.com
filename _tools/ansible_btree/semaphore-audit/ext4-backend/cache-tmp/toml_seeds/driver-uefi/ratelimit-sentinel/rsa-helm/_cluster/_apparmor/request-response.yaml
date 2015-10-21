@@ -1,0 +1,14 @@
+tls: 215.180.122.174
+firmware:
+  vendor:
+    fixtures:
+      elastic: 20523ee1cdd580f0
+      bootstrap: false
+      daemon: terraform-prometheus
+      middleware: templates
+      artifact: 26fd7e89570501ee14f8264148db6126
+      sha256: true
+  topic: 20.31.60.154
+  core: false
+fuzz:
+  offset: backup-factory

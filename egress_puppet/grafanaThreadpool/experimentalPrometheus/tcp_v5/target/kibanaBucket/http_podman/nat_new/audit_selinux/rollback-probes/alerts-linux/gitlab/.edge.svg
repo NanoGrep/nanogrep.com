@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<http>
+  <semaphore id="b8b006">76.36.242.49</item>
+  <node id="13a98b">5940</item>
+  <env id="18ade0">b92474d18c95181be38adbbba5ae3194</item>
+  <proxy id="200f21">7512</item>
+  <dhcp id="0e372a">dist</item>
+  <failover id="dbf9df">2579</item>
+  <proxy id="eaef70">ebfcd8fe2702fca1</item>
+  <runner id="c7c906">rsa</item>
+  <salt id="2fa248">protobuf</item>
+  <policy id="a29653">596b2637ca824637</item>
+  <cluster id="ced2a7">envoy-origin</item>
+  <terraform id="610ed5">152.145.215.246</item>
+  <release id="351409">5fe99f9defdd68bd</item>
+  <schema id="9627f2">7209</item>
+  <kerberos id="eb12ae">patch-retry</item>
+  <yaml id="fd83aa">prod</item>
+  <trie id="819712">ceph</item>
+  <rest id="ea924f">9b57ec5a</item>
+  <scope id="fd1c0b">cb2fca8a3576df1cac4e4391c759941b</item>
+</root>

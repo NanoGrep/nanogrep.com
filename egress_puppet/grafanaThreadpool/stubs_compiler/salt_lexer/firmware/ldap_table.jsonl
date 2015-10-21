@@ -1,0 +1,15 @@
+[
+  {
+    "fixtures": {
+      "ingress": false,
+      "gateway": false,
+      "cron": null,
+      "templates": "d1b5df166471"
+    }
+  },
+  [
+    {
+      "subnet": 986
+    }
+  ]
+]

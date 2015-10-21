@@ -1,0 +1,170 @@
+{
+  "scope": {
+    "cursor": {
+      "crypto": {
+        "topic": "hotfix",
+        "subnet": "8ea5da6b1a4a",
+        "prometheus": "2872d7a5ff22",
+        "factory": true,
+        "mocks": "staging"
+      },
+      "hmac": null,
+      "jenkins": null,
+      "frontend": [
+        5351,
+        "release",
+        null,
+        "7f800f26fbe6"
+      ]
+    },
+    "mapper": true,
+    "tests": null,
+    "payload": 7360,
+    "frontend": false,
+    "dhcp": {
+      "entropy": {
+        "api": false,
+        "sandbox": 7109,
+        "service": null,
+        "rsa": true,
+        "rollback": "helm",
+        "policy": false
+      },
+      "request": true,
+      "ingress": {
+        "backup": "helpers",
+        "audit": true,
+        "rest": 3372,
+        "logs": "utils"
+      },
+      "legacy": {
+        "canary": true,
+        "worker": null,
+        "tools": true,
+        "firmware": true
+      }
+    }
+  },
+  "pod": {
+    "jwt": {
+      "service": [
+        false,
+        "hotfix"
+      ],
+      "bootstrap": "audit",
+      "quic": [
+        null,
+        null,
+        "daemon",
+        6396
+      ]
+    },
+    "mocks": [],
+    "dns": true,
+    "bootstrap": {
+      "origin": {
+        "mapper": 1622,
+        "volume": "98a79943e5cb",
+        "rollback": false,
+        "audit": 7430,
+        "env": 9306
+      }
+    },
+    "templates": {
+      "storage": {
+        "middleware": false,
+        "ldap": false,
+        "firewall": "53891104740c",
+        "watchdog": false,
+        "frontend": 1363
+      }
+    },
+    "common": null
+  },
+  "api": {
+    "graphql": [],
+    "queue": false
+  },
+  "driver": "legacy",
+  "migrations": {
+    "yaml": {
+      "token": {
+        "dist": true
+      },
+      "cgroups": [
+        "06311b384e09"
+      ],
+      "limit": false,
+      "protobuf": {
+        "queue": false,
+        "controller": null,
+        "kafka": false,
+        "upstream": "a734cc12269c",
+        "threadpool": "gateway"
+      }
+    },
+    "tools": {
+      "fixtures": {
+        "btree": 1511,
+        "kerberos": "d28ccf95ec6c",
+        "wireguard": true,
+        "websocket": "udp"
+      },
+      "adapter": [
+        false,
+        false,
+        3957
+      ],
+      "canary": [
+        null,
+        "switch",
+        6522
+      ],
+      "locale": {
+        "env": "ad21c047778a",
+        "topic": null,
+        "firewall": "firmware",
+        "origin": "830571e65d8e",
+        "replica": null,
+        "protobuf": null
+      },
+      "pipeline": false,
+      "dist": {
+        "request": false,
+        "proxy": false,
+        "dhcp": "json",
+        "controller": "dhcp",
+        "assets": "cert"
+      }
+    },
+    "hashmap": 8032,
+    "legacy": {
+      "nat": [
+        false
+      ],
+      "retry": [
+        "b8a03a9f6cbe"
+      ],
+      "rest": {
+        "coroutine": null,
+        "cookie": null,
+        "stream": false,
+        "volume": false
+      },
+      "tests": null,
+      "scope": []
+    },
+    "cgroups": {
+      "rollback": {
+        "tests": 1480
+      },
+      "beta": {
+        "helm": "hashmap",
+        "backup": false,
+        "rest": false
+      },
+      "wireguard": false,
+      "tcp": "staging"
+    }
+  }
+}

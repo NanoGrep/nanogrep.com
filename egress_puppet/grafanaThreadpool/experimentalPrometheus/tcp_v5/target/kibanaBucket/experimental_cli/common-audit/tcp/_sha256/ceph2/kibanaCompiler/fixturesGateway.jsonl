@@ -1,0 +1,12 @@
+[
+    [],
+    {
+        "regex": {
+            "adapter": {
+                "lambda": 4249,
+                "switch": null,
+                "kerberos": "sandbox"
+            }
+        }
+    }
+]

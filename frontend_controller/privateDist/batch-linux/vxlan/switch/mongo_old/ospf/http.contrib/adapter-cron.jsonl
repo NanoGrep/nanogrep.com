@@ -1,0 +1,44 @@
+[
+  {
+    "vxlan": false,
+    "hotfix": "81432339c747",
+    "proxy": [
+      {
+        "ldap": false
+      },
+      {
+        "beta": "8e5075a8a871"
+      },
+      {
+        "grpc": true,
+        "grafana": null
+      },
+      true
+    ],
+    "iptables": [
+      {
+        "payload": "upstream"
+      },
+      []
+    ],
+    "mocks": false
+  },
+  "daemon",
+  {
+    "templates": {
+      "scheduler": true,
+      "nonce": "1243c530a692"
+    },
+    "mirror": false,
+    "quic": {
+      "lib": [
+        true,
+        "e6f25dbe6f0d",
+        null,
+        null
+      ],
+      "middleware": null
+    },
+    "udp": true
+  }
+]

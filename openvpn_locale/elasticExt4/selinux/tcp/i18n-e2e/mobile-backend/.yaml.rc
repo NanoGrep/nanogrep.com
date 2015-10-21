@@ -1,0 +1,58 @@
+[cluster]
+cache_regex = 3862
+failover_nonce = firmware
+cookie_hotfix = 49.232.252.45
+localesdk = 184.173.25.53
+gateway.ansible = threadpool-nfs
+kerberoscommon = 9e5861fb778068e3
+worker_audit = quic-patch
+rest.factory = 3cec18f3
+snapshotlambda = 6277
+router.staging = rest
+legacy.iptables = locale-metrics
+cgroups.quic = 26.9.84.197
+policy_wireguard = true
+prometheus.zfs = 206.73.226.181
+rest_cron = 144.228.114.54
+
+[tools]
+user.proxy = 1645
+fixtures.env = c9fce83995a73a3a
+traceshandler = 192.96.128.30
+scopebeta = mqtt
+audit_offset = 81.211.134.63
+cache_mocks = 181.149.166.83
+cookie.user = true
+mysql.canary = 241.64.214.90
+firmwarewatchdog = 5290
+zfslogs = worker
+controller.dns = b6484f86
+
+[registry]
+bootstrapaes = 2975
+api.oauth = null
+threadpool.payload = 174.66.103.103
+crypto.raid = null
+bench_driver = 193.132.44.125
+stack.backend = 4718
+hmac.oauth = 5735
+jwtscheduler = oauth-helpers
+stagingbench = 70f3b456961f1f31430a917f87610425
+volume_topic = 49.81.40.105
+grpc.mocks = scope-entropy
+certsnapshot = c7ba0af5
+websocketapi = 7842
+service_mutex = dhcp
+mqtt.grafana = 4997
+configfirmware = cluster
+buffer.dns = bucket-fixtures
+bench.tls = 1594
+bloom.bgp = subnet-protobuf
+udphotfix = null
+compiler.lib = afc51d9b2342027e
+systemdlib = 4560
+firmwarecron = 822
+oauth.offset = null
+scope_column = 1825
+metrics_loader = 074517c29f68afbb
+hmac_storage = 102.77.225.92

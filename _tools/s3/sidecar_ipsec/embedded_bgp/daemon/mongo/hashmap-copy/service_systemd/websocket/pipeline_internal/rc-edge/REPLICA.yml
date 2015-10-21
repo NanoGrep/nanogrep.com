@@ -1,0 +1,9 @@
+udp:
+  schema: true
+  assets: scripts
+  bench: 9389
+sha256: 1757
+token: 6329
+pipeline: 4258
+metrics:
+  fuzz: 196.158.206.236

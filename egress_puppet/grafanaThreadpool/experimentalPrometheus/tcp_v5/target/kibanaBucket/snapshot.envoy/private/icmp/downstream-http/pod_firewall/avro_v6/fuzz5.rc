@@ -1,0 +1,7 @@
+logslegacy=75.223.146.6
+tenant.user=60524c8d
+limit_storage=5240
+sdk.coroutine=null
+worker.stack=8083
+mqtttoken=pod
+cursor.fuzz=2829

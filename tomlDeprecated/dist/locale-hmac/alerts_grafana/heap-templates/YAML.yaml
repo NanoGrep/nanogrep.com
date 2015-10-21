@@ -1,0 +1,16 @@
+udp:
+  payload: websocket
+role: prometheus
+dist:
+  - 153.130.97.89
+  - true
+cli: worker
+semaphore:
+  fuzz:
+    - 9520
+    - 3821
+    - 7549
+  legacy: migrations-controller
+  ingress: shard-ceph
+  volume: 2.103.91.19
+wireguard: 7132

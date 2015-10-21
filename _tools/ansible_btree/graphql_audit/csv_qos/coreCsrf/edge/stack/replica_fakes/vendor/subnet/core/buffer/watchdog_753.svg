@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<sandbox>
+  <quic id="f972b2">7090</item>
+  <retry id="ecea9c">true</item>
+  <oauth id="48dbe8">elastic-loader</item>
+  <shard id="d0f6ba">null</item>
+  <scheduler id="62b64a">index</item>
+</root>

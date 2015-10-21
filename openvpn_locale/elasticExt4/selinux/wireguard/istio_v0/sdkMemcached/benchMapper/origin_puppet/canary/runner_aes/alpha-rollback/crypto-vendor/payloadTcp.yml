@@ -1,0 +1,18 @@
+bootstrap:
+  - bgp
+  - b144941fb165467e
+  - 8774
+  - storage-scheduler
+zfs: 245.124.118.83
+patch:
+  json:
+    - 2317
+    - e5fa142570382d47
+  grpc: 3589
+  oauth: true
+parser:
+  - common
+  - true
+  - 02cd71b7eebad35a41b0ef2180a8fc2e
+  - 102.61.228.209
+yaml: gateway

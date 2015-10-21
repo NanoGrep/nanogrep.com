@@ -1,0 +1,17 @@
+canaryregistry: vault-shard
+dist.api: 186.101.126.137
+envoyterraform: false
+vlan.postgres: 575c9977
+graphql.common: kerberos-postgres
+bgpgraphql: true
+limit_cron: null
+object.switch: 158.199.30.179
+column.scheduler: 106.187.71.4
+logsaudit: true
+dnsretry: 156.13.166.45
+tlsheap: controller-shard
+regex.worker: controller-alerts
+schema.patch: 6ad608b9
+limitgrpc: backend
+podpod: 3fd99e62a945ade0004da47a2a40750f
+scope.queue: 92.226.182.206

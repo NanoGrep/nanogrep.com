@@ -1,0 +1,12 @@
+runner:
+  mutex: false
+  entropy: loader
+  cgroups:
+    - 790a5756972059ab
+    - 6abc20ff
+    - 32.165.215.25
+    - object
+semaphore: 3f9309e0f007fcb5
+hashmap: false
+ingress: 3.95.135.247
+hashmap: 79.143.133.231

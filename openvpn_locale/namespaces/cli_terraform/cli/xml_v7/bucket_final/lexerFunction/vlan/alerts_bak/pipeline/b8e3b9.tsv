@@ -1,0 +1,12 @@
+failover,storage
+origin,false
+143.140.104.178,2913
+bgp-helm,aes-user
+buffer,envoy
+true,7050
+141.164.42.91,d01b137c520a7298
+20a320cc270adae4,129.142.171.84
+da97756f5ef9c97648a338b807bae3e0,false
+false,b3d6be8b5ccb2f77
+firmware-hotfix,role
+29.70.69.86,schema-core

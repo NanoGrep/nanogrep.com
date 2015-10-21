@@ -1,0 +1,32 @@
+{
+    "nat": "5fbd6a50b727",
+    "mqtt": {
+        "role": false,
+        "dist": [
+            null,
+            {
+                "controller": false
+            },
+            "8b79435b5905",
+            {
+                "volume": false,
+                "rest": "group",
+                "batch": null,
+                "config": null,
+                "jenkins": 4082,
+                "fixtures": true
+            }
+        ],
+        "mirror": {
+            "user": 984,
+            "dhcp": {
+                "topic": null,
+                "loader": "8b1add4f3808"
+            }
+        }
+    },
+    "cli": {
+        "registry": []
+    },
+    "sandbox": "node"
+}

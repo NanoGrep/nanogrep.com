@@ -1,0 +1,22 @@
+beta:
+  - ef1b751b
+  - schema
+tools:
+  threadpool: 4644
+  kerberos: dhcp
+  ldap: 7031
+  logs:
+    cors: mysql
+    audit:
+      - true
+    heap:
+      stream: 33c8f9a1
+      core: null
+      mocks: limit-request
+      firmware: 9678
+      cli: group-dist
+      wireguard:
+        - 2151
+        - udp-lexer
+    oauth: true
+storage: helpers

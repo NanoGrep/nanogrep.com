@@ -1,0 +1,30 @@
+[
+    [
+        [
+            false,
+            {
+                "helm": 6403,
+                "vendor": false
+            }
+        ],
+        "e596415da713",
+        true,
+        [
+            {
+                "node": false,
+                "entropy": 2163,
+                "http": null,
+                "bench": 6568,
+                "schema": true,
+                "lexer": "nightly"
+            },
+            {
+                "stack": 5819,
+                "cursor": "registry",
+                "sha256": "c8f0c68328c5",
+                "tcp": true,
+                "loader": false
+            }
+        ]
+    ]
+]

@@ -1,0 +1,100 @@
+{
+  "payload": {
+    "socket": {
+      "scheduler": {
+        "common": true,
+        "mongo": false,
+        "stream": false,
+        "row": "controller",
+        "controller": null,
+        "websocket": false
+      },
+      "backend": {
+        "raid": "nginx",
+        "common": "02d808f3714d",
+        "driver": true,
+        "registry": false,
+        "kerberos": true
+      }
+    },
+    "nginx": {
+      "limit": [
+        false,
+        false,
+        "4e0b1fbceb6a",
+        true
+      ]
+    },
+    "mysql": [
+      {
+        "column": "rest",
+        "middleware": "f439fde95fb1",
+        "yaml": "6c61084cacc3",
+        "artifact": "tools",
+        "cors": "bootstrap",
+        "helm": "09240d6e9491"
+      },
+      {
+        "hmac": "ansible",
+        "topic": true,
+        "kernel": true
+      },
+      {
+        "schema": "57619193d3ef",
+        "jwt": 334,
+        "session": false
+      }
+    ]
+  },
+  "systemd": {
+    "tests": false,
+    "pipeline": {
+      "switch": "4306e4eb62ec"
+    },
+    "tcp": {
+      "dhcp": {
+        "proxy": true,
+        "firewall": "parser"
+      },
+      "nginx": {
+        "jwt": true
+      },
+      "entropy": {
+        "node": null
+      },
+      "systemd": {
+        "yaml": null,
+        "stack": "6612bea8ece0",
+        "replica": false,
+        "raid": "dns",
+        "registry": null,
+        "backup": false
+      }
+    },
+    "worker": "bench",
+    "node": [
+      null,
+      [
+        false,
+        "systemd"
+      ],
+      {
+        "helpers": null,
+        "canary": false,
+        "group": false,
+        "mutex": false
+      },
+      [
+        "60081c3d0af1",
+        null,
+        "6cd37ba7f64e",
+        false
+      ]
+    ],
+    "cli": {
+      "registry": {
+        "systemd": 6563
+      }
+    }
+  }
+}

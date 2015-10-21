@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<systemd>
+  <crypto id="d1ba3e">4716</item>
+  <worker id="93eda1">3080a4f2c0eaf7d5a472c96adb47c989</item>
+  <frontend id="bc6b1f">false</item>
+  <rsa id="905c76">hmac-artifact</item>
+  <oauth id="bca2cd">95.181.247.215</item>
+  <core id="4468cb">parser</item>
+  <node id="4c6dc4">c91fb93d</item>
+  <templates id="cd59ca">false</item>
+  <lambda id="50ebdc">null</item>
+  <node id="6cc0d0">null</item>
+  <rsa id="e0b071">null</item>
+  <jenkins id="9a18a8">false</item>
+  <scheduler id="b1807f">248.204.177.190</item>
+  <buffer id="27574e">compiler-scheduler</item>
+  <hashmap id="a2afb1">null</item>
+  <nginx id="44d9ae">a2d1b148</item>
+  <backup id="3b6750">true</item>
+  <index id="670297">sdk</item>
+  <firmware id="42aefe">null</item>
+  <role id="4b92d8">2663</item>
+  <json id="1c8d58">3259</item>
+  <systemd id="45491e">182.80.194.173</item>
+</root>

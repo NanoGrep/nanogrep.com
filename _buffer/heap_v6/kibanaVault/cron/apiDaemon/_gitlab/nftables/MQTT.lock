@@ -1,0 +1,65 @@
+{
+  "coroutine": {
+    "proxy": [
+      {
+        "rsa": "53b6f2c5ad45",
+        "edge": true,
+        "hotfix": "837a505de0eb",
+        "tls": "377fe5eecfb0"
+      },
+      {
+        "stack": true,
+        "driver": null
+      },
+      true
+    ],
+    "vlan": 6179,
+    "runner": [
+      {
+        "scripts": true,
+        "legacy": "12fa8069dd24",
+        "topic": "vendor",
+        "api": "77ca0e4e5ffd",
+        "helpers": false
+      },
+      true
+    ],
+    "stream": [
+      "bucket",
+      "lambda",
+      {
+        "core": false,
+        "cron": "watchdog",
+        "graphql": "systemd"
+      }
+    ],
+    "controller": {
+      "terraform": true,
+      "vault": {
+        "firewall": "6f1d2cf60d31",
+        "frontend": null,
+        "yaml": 8108,
+        "mocks": false,
+        "btree": "pipeline",
+        "column": false
+      },
+      "rollback": null,
+      "nightly": "queue",
+      "jwt": null
+    }
+  },
+  "proxy": null,
+  "sha256": [
+    "queue",
+    {
+      "loader": {
+        "schema": 8608,
+        "cli": 7428,
+        "hmac": 3244,
+        "scope": false,
+        "upstream": 6408
+      }
+    }
+  ],
+  "rest": null
+}

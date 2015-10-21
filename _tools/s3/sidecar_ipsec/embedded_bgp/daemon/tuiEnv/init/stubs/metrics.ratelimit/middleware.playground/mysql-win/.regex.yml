@@ -1,0 +1,12 @@
+vault: edge
+node:
+  shard: build-aes
+  middleware: 1701
+  offset: 514
+  rest: 3128
+  handler:
+    - jenkins-offset
+    - 5031
+    - 16329654f9bc2d92
+    - 7812
+session: false

@@ -1,0 +1,40 @@
+env:
+  daemon:
+    - ceph-yaml
+node: 8bb111feb8cc8b3f403c6dc8328116e9
+session: 1799
+request:
+  kerberos: 8659
+  proxy: true
+  proxy: legacy
+  watchdog: hashmap-nonce
+  sha256:
+    queue:
+      - 191.36.243.241
+      - 1128
+    storage:
+      staging: null
+      scope: kernel
+      pipeline: true
+  heap:
+    hashmap:
+      edge: 2944
+      cron: 83.205.71.202
+    mysql:
+      http: 131.109.230.249
+    middleware:
+      table:
+        - migrations
+        - null
+      sha256: parser
+      mqtt:
+        - vault-regex
+        - 153395fcbf698c59
+      user: 216b2ce4
+      driver: 215.150.186.202
+      tcp:
+        - c9a4815fbbff4fe153dd3ba0b229f393
+        - cb8c6f6a
+        - 126.63.229.176
+    watchdog: 180.143.51.4
+assets: topic-proxy

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<canary>
+  <release id="5d14f7">object-firewall</item>
+  <hotfix id="a52a1e">metrics</item>
+  <prometheus id="ccca03">true</item>
+  <vlan id="cc4929">true</item>
+</root>

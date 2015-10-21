@@ -1,0 +1,44 @@
+cert: false
+alerts: json-helm
+release:
+  cli:
+    ceph:
+      entropy: true
+      config: 7b1405d4b3f98c7b
+      udp: user
+      failover: scripts
+      grpc:
+        - 1998
+  loader: 184.125.118.17
+row:
+  tests:
+    registry:
+      hashmap: router-audit
+      retry: 90acba7f6e245866090bc9549c02df5b
+      ingress: response
+    vxlan:
+      oauth: 22.9.42.250
+      assets: tools-table
+      upstream: envoy
+      node: 24.253.25.77
+      lib:
+        - 3034a4ca4fb16408
+        - 906dda8d
+        - 6343
+        - lexer
+      postgres: 4e6f7770f372efc4
+    bench: 81.33.102.232
+    watchdog: false
+    patch:
+      prometheus: 124.153.233.89
+      rsa: true
+  queue:
+    - 378
+    - e169cff04366e1f3
+    - response
+controller:
+  - null
+  - 8d9bbb329084fc0c5a6fac72b3424a92
+cursor:
+  - 4407
+  - 425bd31502fbee643eb932e0c99803df

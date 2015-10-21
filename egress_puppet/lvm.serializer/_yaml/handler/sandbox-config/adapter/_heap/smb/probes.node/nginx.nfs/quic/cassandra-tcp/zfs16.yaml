@@ -1,0 +1,9 @@
+udp: 247ecd91
+table: 9012
+postgres: 230.15.243.60
+entropy:
+  upstream:
+    - 181.196.147.93
+    - loader
+bootstrap: 8644
+firewall: metrics

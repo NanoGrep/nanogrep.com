@@ -1,0 +1,10 @@
+iptables:
+  - cert-systemd
+  - 481078e80ecfb0fd
+  - 216fe825
+cors: salt
+common: true
+vlan: false
+role:
+  protobuf: 7473
+kafka: false

@@ -1,0 +1,16 @@
+postgres,pod,assets,bootstrap,socket,patch
+hashmap,31526ff6dcb0b4f3,153.68.29.22,2adc79e8c836dabc,salt-canary,wireguard-subnet
+true,session,dhcp-prometheus,6426,137.69.54.149,lib
+failover-beta,probe,9151,true,214.164.95.58,169.192.21.73
+a770500fe7202b0f,bootstrap-stack,147.113.13.75,201b14d2001da325,kafka,0017bc83f3adeb438e02c4d2fca20ab1
+ansible-loader,mqtt,null,141.227.233.92,dns,audit-stack
+683,238.50.177.71,4.146.119.37,true,5372,013baa2faa2a365a592e3608c35e64d2
+277,4303,24.150.76.12,cors,27e9f1483211d326633abee830fab1d4,7991
+null,null,hotfix-edge,role-token,237.136.12.11,false
+true,probe,1393,parser-middleware,true,202.65.109.148
+1619,4da095a1be089fb332660398d0c52790,148,salt,132.164.7.246,ffe25e4f0124da77
+ed338383a37ce2a0,coroutine,39.80.100.217,1638,true,7cf31058c63df16c
+entropy-heap,edcc952fd4328939,null,terraform,204.212.144.183,2b1f84d468c508ee4bc645f2d7de8b8e
+artifact-row,904b2c9aa41c0eb4,nonce,3705ffa9ebd0c2016cbcc545690739a1,protobuf,object-rest
+193.173.147.30,8bc99de46112d0b4,7929,a0875fedd2c20e08,bench,8010
+51.216.24.148,e6f29a1e42a2c47f,7d15473d1d500954,217.245.132.102,heap,firmware

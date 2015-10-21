@@ -1,0 +1,70 @@
+tenant:
+  retry:
+    policy:
+      probe:
+        - true
+        - eb40d901279ce6477bf42f68e8bf2d75
+        - hotfix-ansible
+        - null
+      compiler: 131.169.192.208
+      common: true
+    rest: probe-runner
+    backup: tenant
+    node:
+      templates: false
+      offset:
+        - hashmap
+        - true
+      coroutine: subnet
+  rollback:
+    systemd: d9a176be58e2b4c6ba423a46078af872
+    iptables: 146.62.78.214
+    worker: api-coroutine
+    session: c12d4a72
+    bgp:
+      - 112.189.167.86
+      - 6671
+      - null
+      - null
+  trie:
+    vault: 2263
+    topic:
+      - 2596
+      - object
+    proxy: logs-backup
+    registry: false
+    grpc: cursor-protobuf
+    stack:
+      - audit
+  dns: true
+  mocks:
+    hashmap: nfs
+  vlan: 239.253.80.109
+mocks:
+  core:
+    vlan: 139.96.18.98
+  limit:
+    metrics:
+      threadpool: user-frontend
+      stream: null
+      prod: 235.26.19.47
+    stack:
+      batch: 1535
+      worker: 5043
+      assets:
+        - e9521af735240373
+        - true
+        - regex
+        - policy-kernel
+    mongo: null
+    migrations: cursor-vxlan
+    volume:
+      - 173.93.198.165
+    firewall: e64647e070f2c7d6
+  failover: false
+  scripts: oauth
+  systemd: response
+  nfs: 8223
+nonce: true
+dhcp: column-hashmap
+http: 81.83.232.238

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<tests>
+  <failover id="56f339">null</item>
+  <mirror id="bf72b8">postgres-volume</item>
+  <scheduler id="cee70e">d3a49dbe</item>
+  <offset id="de34dd">f329d25d</item>
+  <rest id="5b2501">vlan</item>
+  <rollback id="590c83">false</item>
+  <cluster id="d24315">9523</item>
+  <fuzz id="d0f8ee">0f3f3bfee0bb754ac708f734b28a1244</item>
+  <kernel id="af8da4">9427</item>
+  <canary id="1c168b">nat-rest</item>
+</root>

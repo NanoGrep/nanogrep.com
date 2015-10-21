@@ -1,0 +1,1 @@
+{"migrations": "grpc", "scope": true, "router": {"cgroups": {"sdk": {"entropy": null, "node": false, "tcp": 825, "runner": 7759, "cron": true}, "pipeline": {"request": true, "cgroups": null, "utils": null, "artifact": "da44d816913f"}, "bloom": {"sandbox": "grafana", "replica": null}}}}

@@ -1,0 +1,63 @@
+elastic:
+  - 31.29.207.87
+  - 7059
+  - 152.133.103.21
+  - 7860
+watchdog:
+  grpc:
+    core: 39.250.70.31
+    core: adapter-volume
+    schema: 8b5211d2fd7a6ab0
+    limit: 722c208e4812f77a5909a502ab5709f6
+    sdk: 240.146.2.181
+  watchdog: true
+  migrations:
+    systemd: 7545
+    ceph:
+      bootstrap: adapter-subnet
+      ldap: middleware-crypto
+      bloom: 7618
+      token:
+        - aae24f06
+        - be8286524b713e56
+        - firmware
+      dhcp:
+        - 9953
+    grafana: mqtt
+    beta: storage-response
+    service: 4837
+    volume: false
+nginx: null
+rest:
+  nfs:
+    prometheus: true
+nfs:
+  vxlan: 8163
+  iptables:
+    cors:
+      edge: 6447
+      locale: udp
+      regex: 1723
+      offset: vlan-service
+    policy:
+      kerberos: 1135
+      canary: replica-mapper
+      handler: 4658
+      dns: 11.119.138.146
+      object: 682
+    cluster: true
+    terraform: 0ed26c047066abd3e634c4b13f381090
+  templates: true
+  semaphore: 110.200.95.99
+  patch: 982
+  audit:
+    udp:
+      - systemd
+    bootstrap:
+      router: topic
+      migrations: 238.164.92.124
+      crypto: beta-regex
+    traces:
+      stack: core
+      ldap: 7640
+artifact: 5977

@@ -1,0 +1,3 @@
+ldap:
+  nginx: 8.153.223.6
+alerts: bench

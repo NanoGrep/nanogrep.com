@@ -1,0 +1,11 @@
+jenkins:
+  - switch-nightly
+  - daemon
+envoy: 68fb800a6bc052dd
+firmware:
+  loader:
+    grpc: false
+  quic: prod-probe
+  watchdog: 125.189.125.162
+tools: role
+column: true

@@ -1,0 +1,26 @@
+{
+    "patch": {
+        "sdk": false,
+        "iptables": {
+            "proxy": [
+                true,
+                "graphql"
+            ],
+            "lib": 7008,
+            "bloom": [
+                "parser",
+                false
+            ],
+            "common": {
+                "staging": null
+            }
+        }
+    },
+    "grafana": "zfs",
+    "helpers": [
+        []
+    ],
+    "prometheus": [
+        false
+    ]
+}

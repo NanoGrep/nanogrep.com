@@ -1,0 +1,67 @@
+vendor:
+  ansible:
+    bloom:
+      failover: 8974
+      tools: false
+      assets: topic-quic
+      pipeline: 7732
+    retry: true
+    kerberos: artifact-migrations
+    vlan: group-threadpool
+    sandbox:
+      column:
+        - failover-middleware
+        - 7823
+        - false
+        - session-ansible
+      alerts:
+        - 199.53.174.196
+        - 5079cc9e
+        - null
+    release: 130.1.15.176
+  scripts:
+    redis:
+      jwt: 3935
+      table:
+        - 148.246.11.212
+        - canary-wireguard
+        - dist-staging
+    tcp:
+      mongo: 1535
+      mapper: entropy
+      service: false
+      jwt: cache
+      volume: false
+    scope:
+      - 94.231.209.20
+      - 252.27.26.20
+      - runner
+      - bba21442f5eac6b8
+mysql: 2048
+mesh:
+  hmac: vault
+  object:
+    - legacy
+column:
+  request:
+    vxlan: true
+    alerts: 2177
+    common: 6950
+    nat: 5b5cad50e8a92c567c0900622a44016c
+  cli:
+    schema:
+      mongo: nonce-websocket
+    adapter:
+      mysql: ee315a3ca45d09779dd7f5c4c6fec94b
+    factory:
+      - 7903
+  limit:
+    fixtures: true
+  tls:
+    - 182.71.193.125
+    - legacy
+    - 3fb1bdcc
+  ansible: row-object
+  bench:
+    - hashmap-nfs
+    - kernel-udp

@@ -1,0 +1,16 @@
+yaml:
+  hashmap: utils-stream
+  zfs:
+    - 59322276a647dd15
+    - c99d81e96d5981be
+    - switch-snapshot
+    - null
+  assets:
+    runner:
+      cursor: 101.187.42.206
+      parser: lambda-grafana
+      cache: proxy-mqtt
+      backup: f8fe06c38da4300b
+    hashmap: 917
+    bloom: 8615
+parser: mapper-wireguard

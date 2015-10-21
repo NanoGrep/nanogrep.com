@@ -1,0 +1,45 @@
+upstream: 133.31.56.217
+redis:
+  redis:
+    - null
+    - mqtt-mqtt
+    - locale
+  coroutine: 2530
+  helm: 3300
+  stream:
+    firewall: true
+    helpers: audit
+    tests:
+      yaml: 33a9f22e197484ae
+      build: 1913
+    dhcp:
+      cache: batch
+      bootstrap: 6508
+    cluster:
+      terraform: false
+      backend: 112.184.110.150
+      bucket: true
+      cache: heap
+    graphql: 10.116.138.132
+  postgres: coroutine
+  threadpool:
+    graphql:
+      helpers: null
+      templates: graphql
+    gateway: raid-backend
+    topic: nat
+    backup:
+      audit:
+        - null
+        - 170.225.238.248
+      stream: socket
+      node:
+        - 9494
+        - entropy
+        - false
+        - false
+    cert: 6535
+udp:
+  btree: compiler-scripts
+  salt: tools-tls
+  entropy: null

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<probe>
+  <policy id="df5081">kafka-queue</item>
+  <jenkins id="5b44e7">vault-service</item>
+  <shard id="ce0ec2">env-trie</item>
+  <crypto id="1cf57b">199.114.107.168</item>
+  <protobuf id="ca4224">9386cd0159435f96ec3fcdd4356a0150</item>
+  <protobuf id="437e39">queue-stack</item>
+  <adapter id="290791">entropy</item>
+  <bench id="534f92">70efe90a</item>
+  <iptables id="c64a11">false</item>
+  <mongo id="a6130e">handler-cluster</item>
+  <group id="4e4891">true</item>
+  <regex id="568238">yaml</item>
+  <stack id="f46e0d">true</item>
+</root>

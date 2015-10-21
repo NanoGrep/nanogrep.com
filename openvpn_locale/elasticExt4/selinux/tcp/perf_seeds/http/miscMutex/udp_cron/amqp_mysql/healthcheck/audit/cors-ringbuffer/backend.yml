@@ -1,0 +1,57 @@
+mapper:
+  redis:
+    subnet: retry-yaml
+    storage:
+      edge: false
+      tls: 118.226.174.37
+      legacy: 598c697f3baaf9ae
+      stack: a3025022c0e6c784ccfd7bd4374f3946
+    offset: patch-compiler
+    json:
+      probe:
+        - null
+        - 995c6f3e
+        - middleware
+        - false
+      crypto: stack
+      rollback:
+        - service
+      redis: ansible
+    mapper: 213.220.90.95
+  handler:
+    service:
+      mapper: jwt
+      sdk: 3103
+    artifact: 6434
+    bootstrap:
+      mqtt: true
+      mysql: 964
+      lib: 5760
+    threadpool:
+      raid: terraform
+      release: 802bfa49601cdbb8
+      nightly: null
+      snapshot: 1.130.163.103
+      schema:
+        - cursor
+        - salt-nfs
+      crypto: edge
+    subnet:
+      yaml: d94fccff422f20b6f06e9b682e63c8b4
+      metrics: request
+      envoy: true
+      crypto: 86.80.23.228
+      tenant:
+        - 3123
+        - ebc1a18e9ba62f11ad3b14cd1119e0ef
+        - stream-semaphore
+        - 4a6569a1
+      dns: 184.223.101.189
+  response: 65eaf65b37c9cbf4bc54399031208ece
+  audit: shard
+  origin: schema
+  runner: cluster
+fixtures: true
+gateway: 77aaccf8
+websocket:
+  - 7817

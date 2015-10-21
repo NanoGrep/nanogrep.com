@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<redis>
+  <cookie id="af11a1">pod-queue</item>
+  <mysql id="670226">3113</item>
+  <topic id="2e1586">d3f007bae299024f2b34d9c25dcc4fee</item>
+  <stack id="415073">221.107.242.175</item>
+  <worker id="d4e8a3">parser</item>
+</root>

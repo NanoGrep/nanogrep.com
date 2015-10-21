@@ -1,0 +1,53 @@
+storage: 4344
+cron:
+  traces:
+    driver: dns-threadpool
+    proxy:
+      retry: 15.35.80.29
+      grafana: 9fd2ab69e3d76c32
+      mirror: 6c3a770b175c0b5f
+      rest: build-tcp
+      rollback:
+        - 6323
+      beta: kafka-kafka
+    aes: 27.232.113.177
+  stream: aa8458aac16239ba3349f1936d7eed15
+audit:
+  jenkins:
+    loader:
+      graphql: null
+      alerts: dhcp
+      postgres: 8142
+      snapshot: 166.226.47.216
+      handler: tests-http
+      edge: 5278
+    prod: 3401
+  pod:
+    retry: 0524209e
+    cluster: 166.223.154.254
+    payload: prometheus-policy
+    backup:
+      failover:
+        - 8771
+      redis:
+        - index
+      rest:
+        - 106.112.60.48
+        - 14.12.105.96
+        - null
+      sdk: 54fec59d
+      audit: 91.134.237.128
+    wireguard:
+      - locale
+      - hmac-payload
+      - 48.196.239.99
+      - crypto
+switch:
+  - tenant-user
+  - 9280
+vendor:
+  watchdog: 7aa4c1e7d6d5a8a6279378770c94197d
+  scope: 29b9af7e6bab5a36
+firewall:
+  driver: 6fc6bcf9
+  fuzz: redis

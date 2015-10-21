@@ -1,0 +1,45 @@
+mocks: bucket-rest
+stream: null
+pipeline:
+  heap:
+    ansible: pipeline
+  policy: 18.238.70.45
+  volume: cache
+  tcp:
+    snapshot: 1.90.18.211
+    pipeline: 5627
+grafana:
+  failover:
+    nonce:
+      mapper: fbb0324aabced257
+      lambda: true
+      kerberos: 148.125.178.64
+      tests: 3577
+      scope:
+        - elastic
+        - true
+        - envoy-btree
+    mirror:
+      nonce: false
+      driver: 63.164.235.71
+      adapter: 04636e53
+      mocks:
+        - 899f650aba4f1037
+        - null
+        - 3182
+    object:
+      stream: compiler
+      row: null
+      volume: dcf90c6e
+      btree: 8606
+    factory: true
+    build:
+      - true
+      - edge-wireguard
+      - a1f3620e9759f30a05cc76fc42f4b15b
+      - elastic
+  cgroups: nfs-metrics
+  storage:
+    terraform: envoy-fixtures
+firewall: 106.15.196.104
+fixtures: 9317

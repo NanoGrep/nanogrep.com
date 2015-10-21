@@ -1,0 +1,42 @@
+jenkins: ansible
+cors:
+  http: false
+  token:
+    ldap: session
+    pipeline: tests
+    rest:
+      yaml: socket-sandbox
+      salt:
+        - 123.22.221.190
+        - false
+        - 202.39.236.69
+        - 70.67.40.126
+  trie: false
+user: false
+probe:
+  jwt: 115.117.109.189
+  core:
+    - kernel-envoy
+    - 165.247.81.84
+  frontend:
+    lexer:
+      registry: sha256
+      cookie:
+        - 6973d6db
+        - 3366d864
+      rsa: fee756e51cfa6768
+    kernel:
+      - 6647
+    switch: 0aa1b7f1e2dcd49c
+    scope: 80.165.192.196
+    assets:
+      aes: 075fb8e5f1bdb0b1
+      grafana: 3420
+      grpc: 20.43.178.183
+  batch:
+    common: threadpool
+    quic:
+      - btree
+      - 7523
+  socket: envoy
+  node: false

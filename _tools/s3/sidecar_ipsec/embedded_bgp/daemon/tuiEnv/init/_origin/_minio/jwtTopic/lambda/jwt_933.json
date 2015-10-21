@@ -1,0 +1,28 @@
+[
+    true,
+    {
+        "prod": {
+            "vxlan": [
+                "3e166ee91902"
+            ],
+            "lib": true
+        },
+        "prometheus": {
+            "crypto": {
+                "upstream": 129,
+                "kafka": "754f3ac58c26",
+                "limit": null
+            },
+            "trie": {
+                "loader": false,
+                "cgroups": 3847,
+                "graphql": true,
+                "limit": true,
+                "envoy": false
+            }
+        },
+        "tools": false,
+        "token": "switch"
+    },
+    "dist"
+]

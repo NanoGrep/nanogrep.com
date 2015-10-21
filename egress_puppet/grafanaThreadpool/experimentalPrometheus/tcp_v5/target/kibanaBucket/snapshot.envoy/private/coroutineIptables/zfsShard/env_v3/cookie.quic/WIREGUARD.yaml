@@ -1,0 +1,102 @@
+dns: volume-regex
+cookie:
+  queue:
+    stack:
+      vxlan: 8078
+      traces: a471d1d8
+      migrations: 8120
+      switch: 089aa033220cb356aa3c32e0db7ca418
+    websocket: null
+    websocket:
+      - index-object
+    core:
+      patch: cert-runner
+      failover: 19.134.10.226
+      limit: alerts-buffer
+      elastic:
+        - 1202
+      lambda: true
+    middleware: 1638
+    semaphore:
+      controller: 2bb874d6441848d59b9bf5271c27b87e
+      parser:
+        - e2ca6b2e0970c3ac2205075cdcf9c781
+        - true
+        - null
+  websocket:
+    stack: e676b6e11062a96d
+    api: 47a51c38cfd868c8
+    dist:
+      - 2051
+      - migrations
+      - true
+      - topic
+    handler:
+      cache: 3231
+      offset: false
+      daemon: 2650fd509f94452c2501763ddc8f5f73
+      dist: 94.201.144.35
+      logs: 1359
+      config:
+        - hashmap-row
+        - true
+    cursor: 180
+    dns: 9230
+  row: 225.223.186.57
+postgres:
+  trie: 87fa359a77f0c083a86d824e35753a09
+  postgres:
+    schema:
+      handler: null
+      controller: column-column
+      cli: rollback-bloom
+      frontend: true
+      cursor: null
+    sandbox: 6847
+    logs: 5e83a1cb
+    stream:
+      - 3933
+      - 6442
+      - elastic
+      - 5760
+    envoy:
+      - tcp
+      - 8712
+      - true
+  middleware: queue
+  stream:
+    oauth:
+      semaphore: true
+      core: firmware
+      oauth: 95d330848ce6c358
+      beta: 19d9249e3fe959c1
+    mesh: mapper
+    metrics:
+      - api-json
+      - 2997
+      - true
+    config: volume-env
+  queue:
+    websocket: 703
+    common:
+      vxlan: null
+      bench: salt-gateway
+      iptables: 2143
+      ingress: true
+      assets: bgp-semaphore
+      cursor: 4694
+    locale:
+      tools: crypto-mesh
+      worker: grpc
+      vault: false
+      dns: nfs
+      vault: 4e48ecfcf7dd6dcfbd7cde8b1cc7ff22
+    cursor: 32396b6d
+    oauth: payload-frontend
+  btree: 4769
+cors:
+  - zfs
+  - 207e5c8045e73e4483433c7f6ee73a79
+  - b2d11cb8
+  - 2.237.187.171
+api: 9535

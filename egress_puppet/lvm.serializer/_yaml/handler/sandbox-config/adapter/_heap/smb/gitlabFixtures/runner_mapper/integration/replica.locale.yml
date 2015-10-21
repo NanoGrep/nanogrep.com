@@ -1,0 +1,33 @@
+role: systemd
+registry: 911b7512
+threadpool:
+  nfs: 486
+  nfs:
+    rollback:
+      role: false
+    traces:
+      - a9dc16fd
+  compiler: btree
+  tcp: 8705
+  websocket: 204.107.114.46
+session:
+  envoy: mongo-role
+  mirror: null
+  router: 8611
+  daemon:
+    wireguard:
+      - null
+  envoy:
+    - true
+offset:
+  daemon: 7057
+  rollback: 9525
+  grafana: null
+  http:
+    fixtures:
+      yaml:
+        - false
+        - caf5416d
+        - 112.60.178.149
+    cookie: 7257
+    subnet: false

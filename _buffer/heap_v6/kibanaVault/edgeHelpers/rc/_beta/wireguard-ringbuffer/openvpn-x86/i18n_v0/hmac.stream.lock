@@ -1,0 +1,63 @@
+[
+    null,
+    {
+        "token": {
+            "prod": false,
+            "switch": {
+                "hmac": false,
+                "controller": null,
+                "nonce": true,
+                "payload": "0bc44c3ac38d",
+                "entropy": null
+            },
+            "runner": {
+                "envoy": "mysql",
+                "origin": "fixtures",
+                "utils": false
+            },
+            "role": [],
+            "socket": [
+                null,
+                true,
+                null
+            ],
+            "cert": {
+                "switch": null,
+                "tls": true,
+                "udp": "redis",
+                "volume": "core"
+            }
+        },
+        "traces": true,
+        "vxlan": {
+            "fixtures": [],
+            "adapter": "metrics",
+            "mocks": false,
+            "vxlan": {
+                "dns": "tools",
+                "socket": true,
+                "replica": "origin"
+            }
+        }
+    },
+    [
+        true,
+        [
+            "d84597c475fb"
+        ],
+        [
+            {
+                "topic": "request",
+                "volume": false,
+                "tools": false,
+                "alerts": null
+            },
+            [
+                6318,
+                false,
+                "jwt",
+                "snapshot"
+            ]
+        ]
+    ]
+]

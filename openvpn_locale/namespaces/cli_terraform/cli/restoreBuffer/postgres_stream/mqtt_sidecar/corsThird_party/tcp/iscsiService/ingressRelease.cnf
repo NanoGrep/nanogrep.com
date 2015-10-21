@@ -1,0 +1,12 @@
+prometheusvendor: 149.237.111.110
+graphql.prod: buffer
+prometheus.vault: 49.95.162.127
+mongoorigin: 59ec6cb27fc6adff9f22ac2d4321ff0c
+grafanaudp: origin
+scripts.ceph: buffer
+kernel_shard: ff19a544453c05d014b3a612e51a4a25
+jenkinsfirewall: 502834e66dbc31516f8d97f81b429cfd
+regex_regex: 5d07a2f052ca5e399adc83e45bbc1209
+cgroups_kafka: 26638e24d0bcad57
+firewallrollback: sdk-prod
+cursor_failover: 248f926bf119bad78e16c4204136e2fe

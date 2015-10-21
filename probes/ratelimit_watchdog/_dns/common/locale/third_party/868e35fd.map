@@ -1,0 +1,107 @@
+{
+  "quic": true,
+  "nginx": {
+    "mutex": null,
+    "policy": false,
+    "compiler": {
+      "lib": {
+        "batch": true,
+        "rest": "a3326e3e7ea2",
+        "buffer": false
+      },
+      "hashmap": {
+        "lib": true,
+        "udp": 9006,
+        "loader": true
+      },
+      "terraform": false,
+      "cluster": "270298b83b7e",
+      "systemd": "79f259ea9ef8"
+    }
+  },
+  "frontend": {
+    "request": {
+      "loader": "e9904eb431c2",
+      "alerts": false,
+      "response": [
+        null,
+        1908
+      ],
+      "jenkins": {
+        "volume": false,
+        "firmware": "coroutine",
+        "probe": "d5cb707784b8",
+        "cluster": null
+      },
+      "utils": {
+        "lexer": true,
+        "middleware": null,
+        "volume": null,
+        "cache": null,
+        "table": false
+      }
+    },
+    "prod": "8c95eba94c9c"
+  },
+  "trie": [],
+  "fixtures": {
+    "firmware": {
+      "ingress": [
+        true,
+        false
+      ],
+      "envoy": 9377,
+      "batch": [
+        null,
+        null,
+        null,
+        false
+      ],
+      "edge": {
+        "migrations": 5011,
+        "scripts": "2b2e4a168367",
+        "batch": false
+      },
+      "bootstrap": {
+        "cert": 5997,
+        "user": null,
+        "migrations": "0dd583ea534a"
+      }
+    },
+    "nightly": {
+      "request": true,
+      "rest": null,
+      "offset": {
+        "registry": "09638e89fedf",
+        "middleware": "protobuf",
+        "dist": "terraform",
+        "staging": "2050b2b494df",
+        "json": "082e2f1a3e20",
+        "cron": true
+      },
+      "lib": {
+        "migrations": 3623,
+        "table": "crypto",
+        "bootstrap": "66a8c660b6bb",
+        "legacy": "5d72b609f274",
+        "cors": 8137
+      }
+    }
+  },
+  "crypto": {
+    "controller": true,
+    "dns": false,
+    "role": [
+      {
+        "origin": "b0b23a4ed1dd",
+        "threadpool": true,
+        "config": "a49f2f49cc6d",
+        "vlan": "7d62719b3bc9"
+      },
+      [
+        "1e23398790de",
+        2436
+      ]
+    ]
+  }
+}

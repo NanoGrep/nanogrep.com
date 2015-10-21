@@ -1,0 +1,50 @@
+[
+  [],
+  {
+    "topic": null,
+    "node": {
+      "redis": "common"
+    }
+  },
+  {
+    "origin": {
+      "lib": false,
+      "tools": true
+    },
+    "dns": {
+      "common": {
+        "origin": "b990560a9308",
+        "backend": true,
+        "templates": null,
+        "vxlan": "c3e8e6fc8353",
+        "response": 4173,
+        "probe": false
+      },
+      "schema": null,
+      "fixtures": {
+        "proxy": false,
+        "salt": true,
+        "controller": null,
+        "request": 8061
+      },
+      "utils": [
+        null,
+        false,
+        8257,
+        "fixtures"
+      ],
+      "mesh": {
+        "object": null,
+        "ingress": 1352
+      }
+    },
+    "session": {
+      "jwt": null
+    },
+    "bucket": {
+      "bgp": "81fef8c72cf3"
+    },
+    "canary": "coroutine",
+    "envoy": true
+  }
+]

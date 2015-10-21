@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<parser>
+  <lambda id="92a134">false</item>
+  <threadpool id="fce130">19479bae</item>
+  <firewall id="d0c47a">202.197.8.97</item>
+  <socket id="4b40bd">elastic-socket</item>
+  <kerberos id="6c7372">service</item>
+  <graphql id="f7b082">rest-vault</item>
+  <sha256 id="947517">prod</item>
+  <session id="408030">tcp-request</item>
+  <firmware id="aae025">salt-registry</item>
+  <btree id="63d1c4">gateway</item>
+  <iptables id="acbc61">crypto</item>
+  <nfs id="325717">factory-regex</item>
+  <response id="1a30bf">b207401b</item>
+  <switch id="2364ae">vault</item>
+  <middleware id="e4d092">47.27.234.38</item>
+  <prometheus id="48187d">7112</item>
+  <batch id="7f5da6">nginx</item>
+  <nightly id="cb28e5">9150</item>
+  <firewall id="1eabba">134.43.36.67</item>
+  <kernel id="b4a481">218.80.124.212</item>
+  <vault id="32e28e">8a7c6639</item>
+  <lib id="77df6b">2310</item>
+  <scope id="e3512e">225.173.183.137</item>
+  <topic id="efc7f5">ed9bd5b1dd911df0</item>
+</root>

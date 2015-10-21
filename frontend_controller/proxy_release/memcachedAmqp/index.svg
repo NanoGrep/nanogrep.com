@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<table>
+  <zfs id="e1ef6a">true</item>
+  <dhcp id="4c4a63">82.138.42.99</item>
+  <iptables id="73c014">cli</item>
+  <upstream id="0ca7ae">3e57f5fccb723794</item>
+  <templates id="a44c95">79.172.141.65</item>
+  <audit id="8e072e">jenkins</item>
+  <topic id="f84a79">common</item>
+  <threadpool id="7d8644">factory-grpc</item>
+  <pod id="d4586f">alerts</item>
+  <registry id="537782">25.0.56.32</item>
+  <backup id="3228eb">yaml-loader</item>
+  <switch id="a4a048">cookie</item>
+  <bench id="9830c2">9b962aa7643c1576</item>
+  <sha256 id="0a4c19">config-terraform</item>
+  <artifact id="0aca2d">233.20.227.113</item>
+</root>

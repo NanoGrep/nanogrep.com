@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<schema>
+  <postgres id="b3b2b9">83.210.158.201</item>
+  <common id="50442b">fa257e4c5084113714942fd694b2328a</item>
+  <dhcp id="f833ae">8770</item>
+  <group id="6cf58b">191.26.92.149</item>
+  <firewall id="74f159">artifact-sdk</item>
+  <probe id="bdfff9">7275d3583d949eb8db89b1abda77f325</item>
+  <redis id="e98b3f">topic-scripts</item>
+  <ceph id="274f5c">cert</item>
+  <hotfix id="8081e6">worker-fixtures</item>
+  <metrics id="424fe2">retry</item>
+  <compiler id="8b3e9e">3039</item>
+  <handler id="93197a">5350</item>
+  <rsa id="a91dc1">lexer-fixtures</item>
+  <release id="91c62a">2221</item>
+  <prometheus id="03b2d5">248.122.168.146</item>
+  <vendor id="8a3cb2">payload-lambda</item>
+  <coroutine id="42434b">null</item>
+  <tools id="722003">true</item>
+</root>

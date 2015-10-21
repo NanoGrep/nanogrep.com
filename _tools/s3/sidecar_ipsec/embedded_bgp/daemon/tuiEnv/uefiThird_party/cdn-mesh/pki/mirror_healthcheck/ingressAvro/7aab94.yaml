@@ -1,0 +1,36 @@
+payload: 29840f739bdd3d19
+artifact:
+  jwt:
+    sandbox:
+      helm: cfa2e19aa116cf51e5fb30beb81bfdd4
+      schema: true
+    nightly:
+      - a589f9ee795f4f95
+      - cursor-edge
+      - 133.146.152.201
+  zfs:
+    json:
+      topic:
+        - kafka
+      migrations: group-grpc
+      mysql: pipeline
+      table: db5dcdf8b51c7e67
+    salt:
+      role: 3817fb999de12753
+      salt: false
+    cgroups: c5f16137
+    volume: true
+    raid: b45180b595aedb70
+    hashmap: null
+  firmware: 9682
+  regex:
+    request:
+      role: gateway
+      fuzz: 208.20.234.141
+      schema:
+        - false
+    edge: lexer-udp
+  bloom:
+    - http-batch
+    - 83.79.2.210
+mysql: terraform

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<terraform>
+  <request id="5e6f64">null</item>
+  <daemon id="d9298c">cron</item>
+  <backup id="7c78b1">20fe027729a7db2c</item>
+  <lexer id="721733">tls</item>
+  <cli id="528c8b">false</item>
+  <ingress id="bbb430">false</item>
+  <lib id="d7943a">198.111.226.129</item>
+  <kafka id="cecec9">salt-build</item>
+  <loader id="f04fab">false</item>
+  <prometheus id="f186db">prometheus</item>
+  <traces id="4a1957">0b6e3c819e4f6f7f</item>
+  <metrics id="254ba4">stack-bootstrap</item>
+</root>

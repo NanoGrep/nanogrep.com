@@ -1,0 +1,43 @@
+adapter: build
+assets:
+  - 99.208.123.49
+beta:
+  tests:
+    ceph:
+      policy: true
+      zfs: 118.27.224.120
+      dhcp: false
+    staging:
+      - 129.33.22.102
+      - 6291
+      - nightly
+    prod: cc952a6f
+    prometheus: nginx
+    assets:
+      aes: null
+  tls:
+    nginx:
+      hmac: 70cded37bc480718db38975fdd5c8bec
+      adapter: 194.98.243.96
+      backend: 40f3270b5db7362359a382105b87d628
+      nightly: null
+      zfs: 2790
+    mocks:
+      node: 4089
+      bench: sandbox
+      mapper: true
+      yaml: ingress
+      migrations: 52f4bc11
+    metrics:
+      schema: prod
+      zfs: firmware-aes
+      group:
+        - null
+        - 6041
+        - heap-grpc
+      release: bgp
+      shard: null
+      index: false
+  rollback: 87.113.131.180
+cert: true
+prod: 3e4793828cf4a0f2

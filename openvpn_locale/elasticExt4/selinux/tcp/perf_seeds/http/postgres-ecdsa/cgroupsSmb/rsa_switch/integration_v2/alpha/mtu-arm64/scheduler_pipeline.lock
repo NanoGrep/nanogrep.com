@@ -1,0 +1,25 @@
+{
+    "firewall": 2980,
+    "session": [
+        true
+    ],
+    "compiler": {
+        "lib": [
+            {
+                "bgp": null
+            },
+            false
+        ],
+        "beta": [
+            {
+                "user": 4758,
+                "retry": 3772
+            },
+            "6fe40a05af83",
+            {
+                "entropy": "salt",
+                "patch": false
+            }
+        ]
+    }
+}

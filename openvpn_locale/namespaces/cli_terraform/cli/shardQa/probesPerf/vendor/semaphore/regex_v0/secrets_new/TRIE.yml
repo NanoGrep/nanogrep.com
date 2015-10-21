@@ -1,0 +1,31 @@
+response:
+  envoy: 207.165.95.137
+  kafka: 234672f4baaee593
+  assets:
+    envoy: mqtt
+    tests:
+      mesh: 144.5.216.162
+      nginx: 89.96.229.175
+      nightly: prod-zfs
+      release: true
+      beta: batch-vlan
+    nonce: 195.122.143.127
+    cli:
+      middleware:
+        - 6109
+        - 716
+        - oauth-rest
+        - true
+      cursor: middleware
+      websocket: false
+      firewall: true
+      rsa: common
+      kerberos: 1e5c78b8c65734ab
+  retry:
+    vxlan:
+      - http
+      - systemd
+    retry: 122.58.28.254
+    scheduler: 9b95db38e38d6d245ee6a3740236f49b
+  tools:
+    beta: null

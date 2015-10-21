@@ -1,0 +1,23 @@
+{
+    "buffer": 8068,
+    "websocket": {
+        "kerberos": []
+    },
+    "mysql": [
+        [
+            null,
+            "54a6876673f7",
+            true,
+            {
+                "salt": true,
+                "topic": false,
+                "compiler": "vendor",
+                "retry": 7606,
+                "config": null,
+                "artifact": "dec3928a7668"
+            }
+        ]
+    ],
+    "user": 3382,
+    "sha256": 721
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<api>
+  <user id="6c2ba5">f34595035651f0e0</item>
+  <nat id="03e83b">a4961596</item>
+  <quic id="4c8ded">150.213.96.34</item>
+  <config id="2b75ff">null</item>
+  <zfs id="d99c51">service-mirror</item>
+  <compiler id="5c15d5">0a6022f1e2eada74</item>
+  <json id="414037">null</item>
+  <table id="1caf3e">236.142.140.12</item>
+  <salt id="664b15">driver</item>
+  <buffer id="c9a37f">51.147.213.221</item>
+  <hashmap id="c4e4d4">199.2.27.244</item>
+  <hotfix id="3e57c4">4369</item>
+  <api id="a25e6b">198.213.229.192</item>
+  <btree id="d15bab">bootstrap</item>
+  <cgroups id="86d154">nat-row</item>
+  <driver id="bfbf07">mocks-shard</item>
+  <helm id="a94c2c">64456f77ef86418d6796ba107b71c189</item>
+  <cron id="f1ccca">false</item>
+  <snapshot id="13df5a">2781</item>
+  <loader id="75bc51">factory</item>
+  <api id="d38d52">stack-node</item>
+  <mutex id="07df9a">daemon</item>
+  <quic id="7537bb">heap</item>
+  <ceph id="730912">false</item>
+</root>

@@ -1,0 +1,8 @@
+scripts: tools
+tenant:
+  response: 7040
+yaml: 8107
+artifact:
+  cors: schema-mysql
+  oauth: 206.60.93.183
+nfs: cors

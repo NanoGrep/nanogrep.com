@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<coroutine>
+  <wireguard id="f413bf">36.170.96.173</item>
+  <pod id="993a73">true</item>
+  <mocks id="9f2484">oauth</item>
+  <nfs id="6cee9c">5410</item>
+  <vault id="686ab8">171.128.215.212</item>
+  <helpers id="ea63e6">group-socket</item>
+  <subnet id="a0bf63">postgres-bgp</item>
+  <ldap id="cd150f">hashmap-compiler</item>
+  <redis id="2b16df">136.169.82.158</item>
+  <systemd id="44d3de">9fa8f39781951c6e</item>
+  <cluster id="d18de1">2222</item>
+  <canary id="2b1da7">233.197.26.218</item>
+  <templates id="4500e3">staging-failover</item>
+  <ansible id="90e6a4">false</item>
+  <scheduler id="726efa">null</item>
+  <controller id="23a826">92.225.226.120</item>
+  <grafana id="9977bd">hmac</item>
+</root>

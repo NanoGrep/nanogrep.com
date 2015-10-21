@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<websocket>
+  <udp id="e63bfa">null</item>
+  <policy id="25ef17">65.186.221.233</item>
+  <entropy id="8b6867">4733</item>
+  <release id="eb248e">cursor-rest</item>
+  <gateway id="f70002">61e018f1</item>
+  <adapter id="790259">jwt-cursor</item>
+  <nonce id="648fe9">udp</item>
+  <sdk id="2543e3">19.48.0.165</item>
+  <tcp id="371dae">02c7f0f3</item>
+  <registry id="0f15b8">e938fcbae234d9db</item>
+  <mirror id="ad56b4">a8b3a10f</item>
+  <semaphore id="c444b1">170.151.104.176</item>
+  <wireguard id="0c8414">true</item>
+  <zfs id="c8a5e5">6536a471</item>
+  <salt id="35d18b">semaphore-user</item>
+  <bgp id="cb251e">null</item>
+  <user id="d5f13a">common-tenant</item>
+  <probe id="0c9bb4">frontend-cron</item>
+  <graphql id="b9a137">10e5328b</item>
+</root>

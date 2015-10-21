@@ -1,0 +1,102 @@
+policy:
+  beta:
+    cert:
+      grafana: 195.164.119.70
+      rsa: 105.91.115.189
+      envoy: 6847
+      http: eb34549f
+      column: batch
+      mirror: 243.171.148.240
+    envoy: nat
+    traces: 5458
+    nfs: iptables-grpc
+    response:
+      - 4d991ee8416ead3c16d8aa8da396f6c6
+      - upstream-watchdog
+      - tenant-nat
+    tenant:
+      buffer: 3cfece22111aeba4
+      aes: pod
+      hmac: 2599
+      canary: 5946
+      grafana: 623a7af39915f795
+  zfs:
+    logs:
+      systemd: null
+      assets: 22b66961010994b2
+      hmac: response-oauth
+      graphql:
+        - false
+        - 618fe496a20469c2a9aa61f3ba184567
+        - null
+        - 2523
+      quic: false
+      lexer: utils-hashmap
+    schema:
+      zfs: 4316
+    cache: null
+  mysql:
+    mutex:
+      dist:
+        - tools-loader
+        - false
+        - sha256-edge
+      cert:
+        - bloom-hmac
+        - 2510
+        - b23f158e172505f1
+    controller: true
+  mocks:
+    bench:
+      index: alerts
+      nightly: 50c5c2b8c012e8040ffc5e25626df5d5
+      salt:
+        - 124.43.152.160
+        - 6909
+        - 107.130.18.212
+      vault: 336ee6fdab044edb
+      user: lib
+    subnet: false
+    utils: 8c18cb658f1f91e78409225d9cbd679a
+    cgroups: null
+    topic:
+      - 8326
+      - 6630
+      - null
+    audit: ingress
+  mongo: 2799
+envoy: 82.228.195.59
+prod:
+  - offset-migrations
+  - 161.133.221.29
+  - false
+  - release
+origin:
+  role: 4396
+elastic: postgres
+build:
+  table:
+    dist: 10360ab8d672b8781e878340e7357b56
+    helpers: 2791
+    rest:
+      shard: true
+    vlan: null
+  protobuf: 34.194.186.198
+  role:
+    - 9664
+    - false
+  snapshot: envoy
+  mongo:
+    mutex: e5a9894e
+    lexer:
+      cursor:
+        - 179.205.141.113
+        - null
+        - 2161
+        - metrics
+      locale: 5496
+    watchdog:
+      - backend
+      - 31.83.246.168
+      - 9ae02c14bdd0b202
+  mirror: 74.236.237.168

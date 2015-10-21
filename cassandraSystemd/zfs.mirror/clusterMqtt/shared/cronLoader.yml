@@ -1,0 +1,30 @@
+mapper:
+  iptables:
+    json:
+      ingress: null
+      quic: 193.0.57.57
+      http: 877
+      backend: 127.6.57.243
+    mesh: crypto
+  dns: iptables
+raid: 973b5dc41714459e8970d9b77461f32e
+hashmap:
+  - null
+terraform:
+  dhcp: true
+bgp:
+  column: false
+  mocks: b9bb010d26931da6
+  origin: 7911
+  user:
+    cache: false
+  core:
+    hmac:
+      - oauth
+    config:
+      - session-build
+      - 6933
+      - 1825
+    node: snapshot-object
+  btree: sha256-index
+table: tests

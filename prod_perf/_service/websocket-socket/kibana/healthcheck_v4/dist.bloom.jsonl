@@ -1,0 +1,40 @@
+{
+  "proxy": [
+    {
+      "ingress": null,
+      "replica": false,
+      "threadpool": true,
+      "switch": [
+        null,
+        false,
+        false
+      ],
+      "failover": false,
+      "limit": {
+        "parser": true,
+        "grafana": 4415,
+        "tcp": 3749,
+        "tenant": false,
+        "middleware": "offset",
+        "helm": false
+      }
+    },
+    true
+  ],
+  "batch": 244,
+  "mqtt": {
+    "nonce": {
+      "raid": [],
+      "entropy": {
+        "nat": null,
+        "elastic": "8ed87699e7b3",
+        "aes": "env",
+        "cache": true
+      },
+      "vendor": null
+    },
+    "origin": null,
+    "batch": "failover",
+    "nightly": null
+  }
+}

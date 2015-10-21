@@ -1,0 +1,23 @@
+vendor: session
+firmware:
+  - 87.110.62.220
+  - 2e7578391fb14bbd
+  - 111.72.194.244
+  - 5354
+socket:
+  gateway:
+    queue: fc69251a3be42e5e
+    handler: 201.77.176.207
+    adapter: 69dbcc0c5d1e9aef
+    protobuf: 5875
+    kerberos: salt
+    sandbox: buffer
+  legacy: mqtt-backup
+  dist: true
+  ansible: null
+  ingress: 8d37ac2cd523e1ee
+  user:
+    - object-loader
+    - iptables-cache
+    - aae35bbd68a2177a
+    - nat

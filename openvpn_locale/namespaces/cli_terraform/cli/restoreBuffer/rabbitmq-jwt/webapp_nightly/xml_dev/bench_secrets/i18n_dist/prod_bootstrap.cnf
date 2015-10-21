@@ -1,0 +1,7 @@
+firewall_node=72cb9c262a467b00
+tracesoauth=true
+podvault=a4e131de2c6c377b38bbbf302091a2f5
+user_tests=true
+staging_scripts=145.163.98.27
+storage_user=a905808ef1a3af7f
+alerts.tools=protobuf-pipeline

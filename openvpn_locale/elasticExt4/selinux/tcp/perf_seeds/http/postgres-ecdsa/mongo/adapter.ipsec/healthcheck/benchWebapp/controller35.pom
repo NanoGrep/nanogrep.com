@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<artifact>
+  <json id="1a4aa3">helpers-zfs</item>
+  <patch id="74d7ee">true</item>
+  <artifact id="beb03e">compiler</item>
+  <sha256 id="abf1a4">probe</item>
+  <cookie id="fbcaac">null</item>
+  <jenkins id="794d50">4731</item>
+  <rsa id="fd6405">websocket-vendor</item>
+  <node id="782adb">05bf23e7</item>
+  <storage id="7e439d">parser-json</item>
+  <cookie id="b575f4">nfs-grafana</item>
+  <mesh id="0a9eee">11.251.46.59</item>
+  <nightly id="80ed2c">zfs</item>
+  <nonce id="a492c5">driver</item>
+  <dns id="2bb4f4">hashmap</item>
+  <envoy id="ec2f4f">true</item>
+  <core id="9120c5">224.114.165.205</item>
+  <lambda id="5af094">157.253.164.163</item>
+  <grafana id="e5e2c1">e091c0f5</item>
+  <threadpool id="53cd30">2821</item>
+  <rollback id="c16048">zfs-mesh</item>
+  <yaml id="da5864">index</item>
+  <handler id="986391">mapper</item>
+</root>

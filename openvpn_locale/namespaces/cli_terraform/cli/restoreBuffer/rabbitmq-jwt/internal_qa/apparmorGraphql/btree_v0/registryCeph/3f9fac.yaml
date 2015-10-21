@@ -1,0 +1,105 @@
+lib:
+  udp: null
+  audit: 360c2bfeb429833e
+  cron:
+    - 5387
+    - 147.30.89.137
+    - 236.130.249.108
+  response: protobuf-vendor
+  terraform:
+    canary: 6490
+    regex:
+      rollback: null
+      handler: false
+      nfs: dhcp-heap
+      rest: 58c6c7122b78cf14
+      object: 8723
+    bloom:
+      switch: redis-prod
+      prometheus: queue
+      stream: 9579
+      systemd: true
+  bgp: dhcp
+systemd:
+  bootstrap:
+    - upstream-cron
+    - lambda
+  role:
+    jenkins:
+      grafana: false
+      handler:
+        - 4173
+        - null
+        - 26e28712cccd7f42
+      subnet:
+        - 1966
+        - true
+        - null
+      replica: b6bb8bd8
+    heap: cors
+    edge:
+      jenkins: 6cc375c3316d28e5
+      rollback: 250.222.78.161
+    graphql: 1d9641b164b3cd8bec3a0ba0c72e6f2e
+  watchdog: tcp
+  mongo:
+    dist:
+      pod: f566c5ec4e4a6a0d
+      driver: row-retry
+      driver: false
+    ceph:
+      - dist
+      - 39.124.73.3
+      - mirror
+      - templates-trie
+    controller: 132.44.53.36
+    driver:
+      - true
+      - 697
+      - false
+    bgp:
+      - row
+      - cli-edge
+  nat: 3224
+  firmware: null
+ingress:
+  loader:
+    quic: 1103
+    bucket: 989fbe0e
+    hmac:
+      - bc8bc999
+      - cgroups-dns
+      - 1146c18ce4adb156
+    cgroups: bench-common
+    salt: 9bf02da4f26df86e4ef32ac14b603d9d
+  common: null
+  runner: iptables
+  env:
+    sandbox: hotfix
+  row:
+    metrics: 6419
+    edge: 4040
+    kerberos:
+      dns: 9ef3bf6745e942742fff50282ce7a727
+      zfs: 1519c1312d40dde6
+    adapter:
+      retry: false
+      limit: 211.227.137.165
+      retry: 6818e344cb3f93f6
+      regex:
+        - assets
+        - 9793
+        - handler-envoy
+      mqtt: retry
+  limit:
+    - pipeline-vendor
+    - 2996
+column: probe
+kafka: cursor
+json:
+  udp:
+    legacy: false
+    heap: true
+    ingress: 1522
+    mutex: kafka
+  kafka: cgroups-alerts

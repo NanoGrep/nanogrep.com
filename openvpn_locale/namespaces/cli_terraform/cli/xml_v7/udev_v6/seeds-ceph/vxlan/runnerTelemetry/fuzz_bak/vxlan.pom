@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<jenkins>
+  <helpers id="6c233d">false</item>
+  <mocks id="25d338">mongo</item>
+  <pod id="84d9cf">false</item>
+  <prometheus id="3142d8">8071</item>
+  <cors id="403250">127.0.162.209</item>
+  <config id="a9759c">yaml</item>
+  <driver id="0c4fb4">fixtures-cron</item>
+  <rest id="690da5">8a5082467aec9670</item>
+  <iptables id="9e673b">a4e5260c</item>
+  <socket id="7f500f">53.235.14.165</item>
+  <aes id="870c2e">c6cc0ae581afdbb1</item>
+  <batch id="8750b0">policy</item>
+  <grpc id="238747">199.97.132.17</item>
+  <tenant id="b9e6e7">false</item>
+  <entropy id="96f831">null</item>
+  <rsa id="356e0a">mutex-backend</item>
+  <retry id="5e8a10">null</item>
+  <ingress id="6ce1c9">346644efae7edb5c692c60cc19b6b3da</item>
+  <utils id="d0d1e6">aa445307</item>
+</root>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<coroutine>
+  <lib id="903382">false</item>
+  <tls id="1e61fc">rest-terraform</item>
+  <nginx id="820fb2">74.177.68.11</item>
+  <mysql id="69714c">40.23.223.243</item>
+  <trie id="31cbe0">false</item>
+  <factory id="38db53">f4184fefdfa11bb8</item>
+  <redis id="5eb66e">195.107.228.192</item>
+  <mirror id="5a1320">compiler</item>
+  <firmware id="c08f9b">false</item>
+  <staging id="a45c70">tests-mutex</item>
+  <zfs id="2f6196">null</item>
+  <router id="954828">watchdog</item>
+  <oauth id="c54358">4.137.14.211</item>
+  <traces id="c10177">17.254.18.151</item>
+  <replica id="64bd57">447b56971fc41c269bb029ee421e5b9f</item>
+  <origin id="c23a39">true</item>
+  <snapshot id="ab8ca3">fixtures-ingress</item>
+  <ansible id="9838dc">43dea46f6965e9a0042f822e6532fa71</item>
+  <aes id="71611d">ceph-shard</item>
+  <fixtures id="b9b7e0">false</item>
+  <registry id="7d9f9a">8706</item>
+  <helm id="bb11ce">b9064546</item>
+</root>

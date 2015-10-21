@@ -1,0 +1,16 @@
+[hashmap]
+env.mirror = 244.105.95.56
+jenkins_canary = 34.203.181.20
+role.bootstrap = null
+token_scheduler = response
+dns_stream = 3c212fbab2f9fc8671d0a64d43b99e27
+config_common = sha256-router
+bgp_mutex = null
+ceph_dhcp = 163.66.7.152
+fuzz_common = vxlan-limit
+patch.lib = grafana-dns
+upstreammongo = 870f324fb49a135821c8cd8c762ff7c8
+sdk_retry = 181.33.187.224
+response.nonce = c0dcd9b3
+mysqlworker = 9937
+watchdog_graphql = oauth-mapper

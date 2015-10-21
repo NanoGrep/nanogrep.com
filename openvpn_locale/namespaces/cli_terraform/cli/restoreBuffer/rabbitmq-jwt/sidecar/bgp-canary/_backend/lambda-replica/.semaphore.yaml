@@ -1,0 +1,11 @@
+btree:
+  mongo:
+    - 1119
+    - daemon
+    - bucket-failover
+  assets:
+    hotfix: 9f5a7570
+    dns: null
+    vlan: watchdog
+batch:
+  migrations: hotfix

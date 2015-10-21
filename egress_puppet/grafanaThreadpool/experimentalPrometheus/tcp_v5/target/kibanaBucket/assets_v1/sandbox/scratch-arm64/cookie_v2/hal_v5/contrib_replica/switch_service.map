@@ -1,0 +1,29 @@
+{
+  "quic": [],
+  "kafka": "mapper",
+  "tenant": [
+    "audit",
+    [
+      false,
+      {
+        "mapper": null,
+        "switch": 1774,
+        "topic": true,
+        "edge": "compiler"
+      }
+    ]
+  ],
+  "mocks": "125ed081ded9",
+  "table": [
+    {
+      "graphql": {
+        "backup": "994940b5fc95",
+        "frontend": "4be27d056daa",
+        "metrics": "e7c2a509967f",
+        "websocket": "8920c5b66eb5",
+        "mongo": 773,
+        "redis": "89be302106d5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+cursor:
+  - ceph-scheduler
+nightly:
+  traces: 9350
+  buffer: 718
+  legacy: 7316
+  scripts: 451
+  kernel:
+    - 73b365ef49a0fd9276fd1ea43659242d
+    - 122.251.232.245
+    - false
+  nonce: gateway
+cert:
+  - iptables-nightly
+  - replica-offset
+offset: 21.245.36.191
+btree: c7a1cb0f
+table: queue

@@ -1,0 +1,15 @@
+serviceredis: 8474
+templates.semaphore: 8733
+index_wireguard: role
+bootstrapthreadpool: 3641
+mongo_metrics: 9022
+env_postgres: batch-salt
+iptables.patch: response-cluster
+streamcluster: column-cache
+websocket.postgres: 1271
+lambda.hotfix: topic
+servicescripts: 111.244.252.91
+fixtures.heap: 172.107.219.86
+migrations_cluster: 1570bf9f539a64953c28fe725372b897
+postgres_stack: 0ed9fd3bdd22e29e
+gatewaydhcp: 8435ba4715480a8289e9a6cc8cfd45b5

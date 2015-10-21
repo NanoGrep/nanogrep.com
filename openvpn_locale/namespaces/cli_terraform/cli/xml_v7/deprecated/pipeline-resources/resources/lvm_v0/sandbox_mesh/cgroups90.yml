@@ -1,0 +1,27 @@
+postgres:
+  canary: 70a4293f9e2124e0efef7f7a2b242579
+  service: mirror
+websocket: mesh-dist
+staging:
+  ingress:
+    vlan:
+      adapter: row-systemd
+      regex: factory
+    storage: null
+    logs: hotfix
+    table: 90c9ac42365f57069cd986d706599ee1
+    redis: 1696
+  pipeline:
+    - 70f5b82570b8172a
+  aes:
+    buffer:
+      api: 4453
+    cache: 52ce6ea2
+  cluster: true
+locale:
+  grpc:
+    nfs:
+      - 236.242.190.242
+      - upstream-core
+  templates: 2873
+  envoy: 1262

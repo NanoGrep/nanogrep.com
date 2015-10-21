@@ -1,0 +1,28 @@
+config: null
+traces: envoy-bootstrap
+core:
+  queue: runner-probe
+  buffer: false
+firewall:
+  hotfix:
+    templates: f2e2b9d2
+    threadpool:
+      upstream: cursor-compiler
+      index: 2764
+      service: 9702
+    mesh:
+      threadpool: 27.22.238.226
+      scripts: sandbox-fuzz
+      tcp: null
+      offset:
+        - graphql
+        - 68.20.0.197
+        - true
+      threadpool: 3481
+      http: schema
+    user: false
+    socket: b9f76fada6458397
+    bloom: true
+vendor: 4437
+scheduler:
+  - 0de1324389a76ae0

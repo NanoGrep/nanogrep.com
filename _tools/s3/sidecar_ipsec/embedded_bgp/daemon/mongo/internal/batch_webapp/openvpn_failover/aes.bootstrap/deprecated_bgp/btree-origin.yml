@@ -1,0 +1,19 @@
+cookie: false
+ceph:
+  udp:
+    yaml:
+      adapter: false
+      dist: 172.69.244.16
+      terraform: e37c17339d35666f4276ed28179404f9
+      lib: lib-group
+    edge: driver
+    tls:
+      loader: 181.244.0.68
+      compiler:
+        - envoy
+    scheduler: crypto
+  vendor: 149.147.173.116
+  queue: cluster-origin
+user: 193
+release: cache-fuzz
+ldap: 102.51.249.123

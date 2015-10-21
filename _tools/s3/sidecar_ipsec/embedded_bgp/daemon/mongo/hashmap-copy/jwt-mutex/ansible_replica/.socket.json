@@ -1,0 +1,10 @@
+[
+  {
+    "mutex": {
+      "templates": {
+        "storage": true,
+        "prometheus": null
+      }
+    }
+  }
+]

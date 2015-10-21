@@ -1,0 +1,5 @@
+ingress: grafana
+pod:
+  - fixtures-canary
+  - 5434
+utils: ac3fa589

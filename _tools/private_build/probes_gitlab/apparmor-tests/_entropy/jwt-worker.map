@@ -1,0 +1,36 @@
+[
+    {
+        "dhcp": {
+            "retry": {
+                "redis": false,
+                "shard": true,
+                "group": true,
+                "runner": "f72f01a34fad",
+                "jwt": false,
+                "raid": "compiler"
+            },
+            "watchdog": {
+                "fuzz": null,
+                "cursor": false,
+                "hotfix": false
+            }
+        },
+        "row": {
+            "scripts": {
+                "scope": "dbef4e57edcc",
+                "release": 6301,
+                "vxlan": 2057,
+                "graphql": false
+            },
+            "cursor": {
+                "api": true,
+                "iptables": null,
+                "loader": "lambda"
+            },
+            "udp": null
+        },
+        "hotfix": {
+            "payload": true
+        }
+    }
+]

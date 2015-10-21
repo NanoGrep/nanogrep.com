@@ -1,0 +1,15 @@
+scheduler:
+  elastic:
+    edge:
+      - lexer
+      - b26d70dc
+    rollback:
+      patch: 3a05e82b
+      beta: nightly
+      backup: buffer
+      http: lexer
+mongo: 134.33.51.27
+bucket: 2009c379e0b246e2
+crypto: semaphore-handler
+bucket: prod
+backend: false

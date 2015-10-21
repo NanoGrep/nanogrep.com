@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<yaml>
+  <legacy id="cbed94">tcp-migrations</item>
+  <dhcp id="624a2a">null</item>
+  <tools id="27000d">019adb31</item>
+  <pipeline id="50b3a6">131.169.95.134</item>
+  <nginx id="bb0b66">metrics</item>
+  <utils id="f29746">231.237.213.100</item>
+  <shard id="1b7641">traces-request</item>
+  <firmware id="5d27b5">18.201.194.253</item>
+  <shard id="479dc0">4c122a839ff3452e</item>
+</root>

@@ -1,0 +1,24 @@
+cursor: tenant
+scripts: migrations-protobuf
+storage:
+  tenant: 64.214.61.62
+switch:
+  nightly:
+    group: 143.41.117.18
+    traces:
+      registry: group-cors
+      heap: null
+      firewall:
+        - 194.104.48.172
+        - 6289
+        - fixtures
+      websocket:
+        - 2172
+        - 5a48e07d74eb8bc7e8ac267b89c430b0
+      core: 2907
+    group: 83.112.216.51
+    entropy: 154.41.99.242
+  firmware: subnet-runner
+  tests: d060567000d0a742c25978b45cb080ae
+  lexer: true
+group: 9e68d640087a1226

@@ -1,0 +1,36 @@
+{
+    "batch": [
+        "mirror",
+        false,
+        "efcefcf86b01"
+    ],
+    "cursor": false,
+    "oauth": {
+        "response": false,
+        "canary": true,
+        "regex": "258d1906dfb9",
+        "node": {
+            "zfs": {
+                "probe": true,
+                "pipeline": "d0a9a3389e29",
+                "logs": "8ae2278e17d9"
+            },
+            "compiler": "78efbc5fec76",
+            "staging": [
+                "7b41a99e179d"
+            ],
+            "dist": [
+                false
+            ]
+        },
+        "http": {
+            "helpers": false,
+            "locale": "request",
+            "build": null
+        },
+        "tools": "079107c902b7"
+    },
+    "lib": null,
+    "hmac": "shard",
+    "salt": 583
+}

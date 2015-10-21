@@ -1,0 +1,85 @@
+frontend: logs-driver
+api:
+  column: 1395
+  quic:
+    ingress:
+      queue: 5fae6d27
+      fuzz:
+        - 6a92a384
+      controller: 4696
+      cookie: graphql
+    nightly:
+      role: false
+      backup: ldap-tenant
+      cookie: row-runner
+      frontend: bloom
+      aes:
+        - 9349
+      retry:
+        - 2760
+    factory: 79.26.110.116
+  vlan: 45.49.68.182
+  zfs:
+    snapshot:
+      proxy: f1a76d9a33beba83
+      backup: null
+      core: rest
+      probe: true
+    parser: a7267c19380c41c80389172f5659f83d
+    systemd: 9305
+    tools: 895
+  templates: false
+  http:
+    jenkins: 242.104.243.45
+    env: 29.74.231.156
+    lambda:
+      stack:
+        - 3ee8bf3b
+        - 1f2e4d0d
+      hmac: logs-pipeline
+      traces:
+        - cookie
+        - false
+      coroutine:
+        - tcp
+        - null
+        - ansible-terraform
+      probe: 4820
+      parser: false
+    cli:
+      firmware: f3c5ef3b
+      cert: 3427
+      column: hotfix-jwt
+    lexer: 4866
+graphql: 0524b51a
+parser: proxy-cors
+nginx:
+  fixtures:
+    utils:
+      tcp: 5a6b1d68
+    canary:
+      session: 1120
+      kerberos:
+        - 133.218.7.4
+        - true
+        - false
+  ldap:
+    mysql: 8063
+    controller:
+      systemd: retry
+      jwt: mocks-hmac
+      nat: 3759
+      kernel: 16.115.73.44
+    zfs:
+      - 253.123.184.117
+      - false
+    trie: 105.79.66.56
+    rest: 5983
+oauth:
+  kernel:
+    offset: 53.61.177.254
+  cache: baed49e670eff0d4
+  graphql: hashmap-snapshot
+  tenant: queue
+  ceph: true
+  kafka: 9227

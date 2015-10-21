@@ -1,0 +1,10 @@
+helpers: tcp-wireguard
+artifact: null
+ingress: 177.187.92.216
+storage: 463
+payload: null
+canary:
+  - false
+  - 6494
+  - 133.219.68.33
+  - 6072

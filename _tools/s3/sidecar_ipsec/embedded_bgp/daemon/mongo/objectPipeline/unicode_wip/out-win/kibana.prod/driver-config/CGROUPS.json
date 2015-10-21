@@ -1,0 +1,50 @@
+[
+  [
+    3167,
+    9315,
+    "router",
+    5792
+  ],
+  [
+    {
+      "parser": "buffer",
+      "edge": false,
+      "utils": {
+        "iptables": true,
+        "backup": "offset",
+        "parser": true
+      },
+      "locale": "a68ecab254da",
+      "controller": {
+        "token": 2123,
+        "env": "shard",
+        "table": null,
+        "policy": null
+      },
+      "index": {
+        "mocks": true,
+        "backend": null,
+        "locale": false,
+        "redis": false,
+        "cors": "cdfd1a4e4978"
+      }
+    },
+    {
+      "user": [
+        "hmac",
+        "worker",
+        true
+      ],
+      "mocks": [
+        "env",
+        null,
+        false,
+        "f6b144db68bc"
+      ],
+      "limit": true
+    },
+    []
+  ],
+  false,
+  "tools"
+]

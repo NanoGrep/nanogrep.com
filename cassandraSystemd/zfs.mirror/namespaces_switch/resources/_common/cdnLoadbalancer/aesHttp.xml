@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<utils>
+  <postgres id="6bb866">vendor</item>
+  <migrations id="5cf456">false</item>
+  <token id="1baa86">firmware</item>
+  <offset id="9de141">5959</item>
+  <cursor id="3aeed8">8.147.53.218</item>
+  <policy id="8a1f27">6861</item>
+  <staging id="d49dd2">9cdc6120</item>
+  <payload id="bac3e7">d122e054b3097b7f</item>
+  <dist id="d4634b">317468ae35d64b3b002367010d987242</item>
+  <bench id="a039fc">tests-token</item>
+  <probe id="773536">storage-service</item>
+  <tls id="c8c25a">9420</item>
+  <factory id="c9b6a2">backend-rsa</item>
+  <regex id="7ccf62">958d30ae</item>
+  <metrics id="1049f1">null</item>
+  <backup id="0ed7a6">edd2719240bffa7d</item>
+  <prometheus id="dc75cd">node</item>
+</root>

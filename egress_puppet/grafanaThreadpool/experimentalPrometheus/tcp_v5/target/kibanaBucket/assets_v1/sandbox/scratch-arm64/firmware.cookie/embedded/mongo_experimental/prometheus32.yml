@@ -1,0 +1,24 @@
+ansible:
+  - 97.235.61.86
+  - entropy-vlan
+  - 65.202.203.52
+  - 67910e08e03144756489a0664d0e57d5
+mapper: 9665
+middleware:
+  mapper:
+    proxy:
+      gateway: coroutine
+    http:
+      locale: true
+      node: 35d2aac6
+      nat: 214.81.243.235
+    release: redis-factory
+    semaphore:
+      - 7899
+      - offset
+    staging: null
+  scope:
+    - 5971
+    - vlan-schema
+  trie: cgroups
+  scripts: replica-stream

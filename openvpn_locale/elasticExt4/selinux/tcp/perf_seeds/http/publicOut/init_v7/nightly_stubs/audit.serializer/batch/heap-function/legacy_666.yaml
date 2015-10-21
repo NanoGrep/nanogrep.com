@@ -1,0 +1,10 @@
+controller:
+  - d76fa605999b7667
+  - true
+  - 122.142.162.210
+  - 3750
+probe:
+  - backup-gateway
+  - policy
+  - 222.23.173.153
+kafka: 10fa7922f76fbbd8

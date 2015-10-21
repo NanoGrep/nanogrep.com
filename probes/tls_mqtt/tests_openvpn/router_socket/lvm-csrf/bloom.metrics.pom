@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<cache>
+  <mesh id="7adc1d">182.189.186.82</item>
+  <kerberos id="83a059">jwt-templates</item>
+  <controller id="9cefaf">kafka</item>
+  <bucket id="9f8765">205.169.152.144</item>
+  <hashmap id="e6f10b">87.195.99.207</item>
+  <legacy id="feab7f">false</item>
+  <vault id="dc893f">false</item>
+  <sha256 id="cd5c64">5c05fe33bc71d568332c2253b4509841</item>
+  <protobuf id="65d9b3">udp-cert</item>
+  <tls id="954ff8">true</item>
+  <nat id="52b90a">3099</item>
+  <upstream id="031ab4">mirror</item>
+  <migrations id="30b44c">69.13.119.170</item>
+  <assets id="bb3027">aes-nginx</item>
+  <release id="942bcf">3645</item>
+  <object id="6fb22e">45.181.106.138</item>
+  <mesh id="896940">mirror</item>
+  <bench id="58c344">154.198.147.40</item>
+  <kerberos id="47fa45">true</item>
+  <factory id="15bffb">null</item>
+  <handler id="d1ea68">entropy-threadpool</item>
+</root>

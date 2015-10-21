@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<hotfix>
+  <firewall id="e8c101">2229</item>
+  <mirror id="1cb634">72a8d5815d743595cfeed8d9e6ba0415</item>
+  <dist id="e420e1">yaml</item>
+  <redis id="738e31">6954</item>
+  <origin id="9abe17">3005</item>
+  <helpers id="11760b">false</item>
+  <nat id="091bee">f569eef8bca83b1a01ad6e45a57eba43</item>
+  <worker id="c2b8b8">table</item>
+  <handler id="dd80d0">null</item>
+  <fixtures id="e0209e">null</item>
+  <mocks id="46110e">false</item>
+  <vlan id="13f92b">true</item>
+  <nightly id="28439a">socket</item>
+  <snapshot id="aea6b8">5deb5366d845a51a16bdf07b29e66b2d</item>
+  <templates id="11fa73">9245</item>
+  <prometheus id="fdd8c6">assets</item>
+  <buffer id="b10a61">pod</item>
+  <limit id="2bd66c">b4a96c772aaec18b</item>
+  <nightly id="c0abd7">false</item>
+  <json id="29b41e">tenant-oauth</item>
+  <scheduler id="1d4922">4332</item>
+  <compiler id="eeb2ef">dist-mutex</item>
+  <fixtures id="ba54f9">101.249.106.65</item>
+  <dist id="6aa49d">worker</item>
+</root>

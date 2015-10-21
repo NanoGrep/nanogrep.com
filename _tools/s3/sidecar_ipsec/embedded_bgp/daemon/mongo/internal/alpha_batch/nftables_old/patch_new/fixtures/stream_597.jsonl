@@ -1,0 +1,63 @@
+{
+  "mirror": [
+    [
+      {
+        "cron": "5f7ad8696aaf",
+        "build": null
+      }
+    ],
+    true,
+    [
+      {
+        "dist": true,
+        "coroutine": "370c9534c52c"
+      },
+      {
+        "registry": "d0072ac77db7"
+      },
+      []
+    ],
+    {
+      "config": {
+        "kerberos": "api"
+      },
+      "scripts": "nonce",
+      "terraform": {
+        "nfs": 1834,
+        "sdk": null,
+        "middleware": null,
+        "threadpool": "gateway"
+      }
+    }
+  ],
+  "mysql": "fbe626d087c3",
+  "vault": {
+    "object": 513,
+    "hashmap": false
+  },
+  "scope": [
+    {
+      "handler": [
+        true,
+        false
+      ],
+      "aes": false,
+      "tenant": "cursor",
+      "terraform": "build",
+      "graphql": {
+        "gateway": "cli",
+        "proxy": true,
+        "kerberos": "05464af7a66e"
+      },
+      "row": [
+        false,
+        null,
+        "ae6b378db8f9",
+        3035
+      ]
+    },
+    [],
+    true
+  ],
+  "tenant": null
+}

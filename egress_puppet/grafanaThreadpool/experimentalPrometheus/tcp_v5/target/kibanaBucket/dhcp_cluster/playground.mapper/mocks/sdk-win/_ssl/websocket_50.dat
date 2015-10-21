@@ -1,0 +1,14 @@
+cursor,cors,api,proxy,mongo,driver
+dhcp,200.218.15.157,null,3566,salt,e11b6210c39d9d76
+origin,backup,b94ec890dfbdea8a,213.104.27.229,c81032daf7d013612e6114b2821bd26b,cache
+34.93.228.93,2540,169.35.190.131,209.139.202.162,null,d41e92d5db1cb837b60ff5828962f4d1
+grpc-mqtt,253.177.118.4,193.66.206.38,false,false,scope
+2216,true,helm,systemd,ad6eae9a,bloom
+166.231.78.112,5663,scheduler-adapter,191.143.27.5,elastic-core,switch
+ansible,83.159.95.29,wireguard-handler,635d2519,190.82.154.241,staging-dhcp
+kafka-ansible,166.65.4.77,105.109.22.5,salt-frontend,audit,scope-metrics
+3144,compiler-grafana,true,18.39.12.251,77.23.102.190,9f019f4a
+compiler-queue,201.67.5.91,true,postgres-hotfix,false,40.116.28.184
+996360a3,true,false,false,stream-role,logs-legacy
+124.193.68.178,40.64.154.111,false,trie-common,219.243.117.52,false
+metrics,cac30427,203.208.222.77,true,middleware-metrics,41814f92

@@ -1,0 +1,47 @@
+lambda: grpc
+topic: 194.115.206.247
+shard:
+  group:
+    group:
+      vendor:
+        - 2441159a
+        - 793
+        - 7372ccba2a475b9116586ebbcc949233
+        - false
+      zfs: 195.107.249.75
+      pipeline: mocks
+      migrations: 7763
+      hotfix: 3993
+      btree: null
+  queue: e54fe696
+column: tcp-mocks
+driver:
+  socket:
+    - mongo-heap
+    - 3.87.26.60
+    - 458b609a53b5f8be8fd5d21eb948b79b
+  btree:
+    fixtures: 167.168.26.74
+  factory: 254.166.171.94
+  hmac: b5ca2d6fc8d6e6d6
+  tcp:
+    coroutine:
+      cluster: 3220
+      ingress: 190.223.123.199
+      tls: helpers
+      cookie: socket-raid
+      lib: rollback
+    mongo:
+      parser: 9718
+      node:
+        - 217.34.108.184
+      rollback: 7686
+      heap:
+        - probe
+        - true
+      request: shard-migrations
+    mongo: retry
+    systemd: redis
+  env: ansible
+env:
+  cookie: true

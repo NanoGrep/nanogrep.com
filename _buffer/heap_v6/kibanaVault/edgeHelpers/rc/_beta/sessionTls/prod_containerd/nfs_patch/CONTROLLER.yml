@@ -1,0 +1,8 @@
+mesh: 1038caabbdadabfe
+scheduler:
+  - 110.181.182.36
+prod:
+  parser: watchdog
+  mqtt: 3379
+  policy: false
+  yaml: object-probe

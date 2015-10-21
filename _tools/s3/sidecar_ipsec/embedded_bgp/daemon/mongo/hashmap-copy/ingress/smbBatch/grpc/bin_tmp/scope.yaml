@@ -1,0 +1,9 @@
+scheduler:
+  - cli-common
+  - null
+  - shard
+  - 9625
+grafana:
+  volume: 8010
+cookie: canary-driver
+snapshot: 246.134.67.28

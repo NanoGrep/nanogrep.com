@@ -1,0 +1,47 @@
+sandbox: 151.41.249.42
+sandbox: 83.54.53.79
+mongo:
+  env: 2957
+  hmac: false
+  rollback:
+    ceph: 487
+    quic:
+      jenkins: 20.34.215.238
+      node: 7584
+      rollback: true
+      canary: 138.150.227.209
+      postgres: 52.15.33.83
+      migrations: 3ed60eff
+    driver: backend
+    group: aaf7a0c12e7f849f8e3b84618c83761e
+    gateway: ingress
+  origin: null
+  locale:
+    mongo: rest-staging
+    token:
+      request: schema
+    buffer:
+      mesh: 7492
+      audit: 4249
+      daemon: nightly-trie
+    metrics: traces-worker
+    regex: false
+    driver: 1027
+origin: nightly
+raid:
+  probe: 4668
+  redis: config
+  traces:
+    canary: token
+    jenkins: handler-wireguard
+index:
+  elastic: true
+  switch: wireguard
+  policy:
+    tests:
+      payload:
+        - 250.51.142.38
+        - null
+        - null
+      mysql: cookie-mutex
+      retry: true

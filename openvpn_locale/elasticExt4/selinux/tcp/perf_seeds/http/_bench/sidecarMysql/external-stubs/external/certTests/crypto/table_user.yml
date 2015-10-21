@@ -1,0 +1,15 @@
+lib: e65d5920459f4ae4838498195a6730ed
+regex:
+  core: logs
+  regex: heap
+  tcp:
+    rollback: 1516
+    replica: nightly
+  core: sdk-probe
+failover: traces
+patch:
+  salt: kerberos-redis
+  watchdog: rollback
+  session:
+    - false
+    - null

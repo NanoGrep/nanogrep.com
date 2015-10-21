@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<hotfix>
+  <mesh id="c94896">af2fa5813c21f117cf7c68a1a6e3c8b4</item>
+  <replica id="fa7536">true</item>
+  <mocks id="a74ac7">null</item>
+  <retry id="e9cbc3">e6eb2501ab63ccb1</item>
+  <nginx id="8aa048">4131</item>
+  <vendor id="5de397">true</item>
+  <metrics id="45644b">783</item>
+  <release id="6076c7">b5efaaa1af74cb53d424821fbb942d14</item>
+  <failover id="b45305">814</item>
+  <index id="b64fcd">7fa1e8c9ed4b5eb1f79c4372787447fd</item>
+  <entropy id="57d029">true</item>
+  <prometheus id="362c01">mutex-cgroups</item>
+  <sandbox id="a3c269">174.58.222.206</item>
+  <backup id="753d33">45032ccd</item>
+  <session id="05a749">6628</item>
+  <ldap id="0b7843">09a12b18f192e3ebe02d8776ab33ca90</item>
+  <policy id="7026cb">ceph-request</item>
+  <cgroups id="1ad34d">217.31.128.133</item>
+  <cookie id="bc3501">30.29.235.231</item>
+</root>

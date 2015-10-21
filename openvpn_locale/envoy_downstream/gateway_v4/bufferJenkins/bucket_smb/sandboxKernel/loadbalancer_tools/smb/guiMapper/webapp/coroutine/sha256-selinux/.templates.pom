@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<registry>
+  <envoy id="67f09e">7418</item>
+  <bucket id="cc3392">raid</item>
+  <buffer id="c7e6f1">0872b01c</item>
+  <subnet id="bca0fa">1659</item>
+  <kernel id="135a8a">true</item>
+  <switch id="41a398">tenant</item>
+  <mirror id="3d0d8f">nginx</item>
+  <hotfix id="f69790">queue-salt</item>
+  <storage id="750d26">ebd19ed8</item>
+  <kafka id="bcb361">null</item>
+  <tests id="a318a0">role</item>
+  <env id="c84f40">helpers</item>
+  <buffer id="057c67">elastic</item>
+  <rollback id="f096cb">a6ebf0b9a997ee0f</item>
+  <helm id="33a46c">false</item>
+  <ceph id="2132e2">null</item>
+  <router id="1454b1">null</item>
+  <nonce id="a9b879">194.3.142.124</item>
+</root>

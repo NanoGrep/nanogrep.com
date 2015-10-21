@@ -1,0 +1,35 @@
+envoy:
+  sdk: router-tests
+  prod:
+    prometheus:
+      retry: nfs
+      firewall:
+        - 2057
+        - tools
+      watchdog: table
+      nginx: false
+      vendor: group
+    fuzz: null
+  websocket: cf6a45c48c063f56
+  prometheus: null
+  cors:
+    mapper: mesh
+    rollback: false
+    cookie:
+      - stack-regex
+      - cron
+      - entropy
+      - compiler
+    buffer: 9944
+    mysql: null
+    bench: 3331
+  mutex: true
+ingress:
+  tls: 219.197.7.128
+  http: null
+  helm:
+    - true
+  loader: d1a94831c6128cb9
+service:
+  - 244.15.200.190
+session: true

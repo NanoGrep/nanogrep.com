@@ -1,0 +1,13 @@
+[logs]
+redisbeta = null
+tablepayload = 6652
+daemonhmac = c06a28c8ba330cb8
+meshyaml = jwt-canary
+migrations.subnet = 4781
+
+[graphql]
+prometheusgraphql = runner
+assets_storage = bgp-fuzz
+alerts.hotfix = 145.59.115.250
+upstream.mutex = 3770
+tests.legacy = 3d650ed6

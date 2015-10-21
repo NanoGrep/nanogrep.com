@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ansible>
+  <hashmap id="9e7012">133.211.71.105</item>
+  <tools id="348f9f">2810</item>
+  <loader id="a29d46">a13a09d8bebf46ffacd5863bd5b24aab</item>
+  <prometheus id="04c912">192.213.117.82</item>
+  <scheduler id="e61775">true</item>
+  <object id="3cbbe1">daemon-beta</item>
+  <cert id="1f56f8">1187</item>
+  <replica id="19c894">locale</item>
+  <compiler id="fdb708">40413da09a0ff54f</item>
+  <prometheus id="a727d2">aa4f824d</item>
+  <worker id="2d0764">rsa-release</item>
+  <json id="49736c">165.177.248.63</item>
+  <lexer id="0509e4">upstream</item>
+  <protobuf id="2bf8d5">ingress</item>
+  <assets id="220b18">offset</item>
+  <handler id="e44053">109.5.140.35</item>
+  <dhcp id="3f7e2f">152.90.52.86</item>
+</root>

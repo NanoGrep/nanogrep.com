@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+  <salt id="bd790b">staging</item>
+  <tls id="b9a09e">204.213.246.36</item>
+  <grafana id="986849">terraform-traces</item>
+  <index id="fdc6a3">146.13.211.180</item>
+  <lexer id="b6b735">quic-watchdog</item>
+  <env id="946f72">509af31f0d35e78aa875047c67a4f3e6</item>
+  <vlan id="a6bdb0">null</item>
+  <metrics id="291958">c98a4718</item>
+  <service id="8ef1c0">threadpool</item>
+  <systemd id="ec21f9">dac12ef1d0bd7e20</item>
+  <redis id="a2c257">418</item>
+  <lambda id="4ac084">upstream-firmware</item>
+  <terraform id="609959">35.40.160.160</item>
+</root>

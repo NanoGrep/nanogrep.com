@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<handler>
+  <gateway id="24b50e">9f5da7a08abea3a6</item>
+  <sha256 id="5b9c7b">backup</item>
+  <column id="914134">jwt</item>
+  <role id="14114e">edge-volume</item>
+  <response id="7b9397">null</item>
+  <ingress id="34921a">redis</item>
+  <payload id="f56e6f">true</item>
+  <cli id="bf5262">522</item>
+  <threadpool id="13f93b">5146</item>
+  <index id="806a1c">83.149.101.117</item>
+  <lexer id="71a921">18e1a149</item>
+  <heap id="4e73f8">buffer-role</item>
+  <retry id="6adebc">role-policy</item>
+  <mutex id="b33eec">d5134228</item>
+  <handler id="716e89">643818fb</item>
+  <edge id="e45f20">subnet-envoy</item>
+  <origin id="9b1302">false</item>
+  <cursor id="4beb90">true</item>
+  <group id="e9f080">heap</item>
+  <failover id="c60ee7">column-rollback</item>
+</root>

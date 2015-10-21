@@ -1,0 +1,20 @@
+mysql: failover-schema
+pipeline: salt
+switch:
+  - null
+env:
+  nginx: semaphore
+  column: redis
+  user:
+    subnet: 4235
+  redis:
+    prometheus: null
+    nginx: 203.165.53.103
+    adapter: bgp-postgres
+    lexer:
+      socket: false
+      common: compiler
+      service:
+        - 130.47.157.170
+      object: envoy-registry
+  utils: api

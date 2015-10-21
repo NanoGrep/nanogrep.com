@@ -1,0 +1,50 @@
+cluster: stream-env
+loader:
+  hashmap: prod
+  cron:
+    socket: locale
+  jwt: a093e6b0f6dbb22a
+  kafka: 5383
+  coroutine:
+    - 3572
+    - 26cff8cd176c6e8c22be459cce72734a
+row: true
+btree:
+  helpers:
+    alerts:
+      - 139.205.93.131
+    table: null
+    templates: aes
+middleware:
+  lexer:
+    worker:
+      volume: 52.182.182.20
+      stack: true
+      cgroups: 4879
+      rsa: a24a0f01e828efe7151ab42e951e7d19
+      iptables: null
+    worker:
+      - 44.211.100.194
+    origin:
+      - backup-elastic
+      - limit
+    trie: 66.87.91.108
+  gateway: kafka-audit
+  storage: 3.151.235.154
+  handler:
+    crypto: 8034
+    proxy:
+      - true
+      - true
+    legacy:
+      ceph: 192.25.229.8
+    edge:
+      driver: de299cee
+      core: false
+      prod: tls
+      edge: tls
+      mongo: 3.102.70.238
+      sandbox: 217.128.197.171
+  core: bde38d64acccf03c
+  vlan: 907bca5d9cce67c245969eabb012a606
+jenkins: false

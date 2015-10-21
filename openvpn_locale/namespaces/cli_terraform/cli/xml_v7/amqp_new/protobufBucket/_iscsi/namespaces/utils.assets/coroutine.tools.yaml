@@ -1,0 +1,17 @@
+yaml:
+  - 3034
+  - true
+  - proxy
+  - 131.96.228.213
+logs:
+  - helm
+  - 03118df2199e2111
+  - json
+  - 12.16.217.22
+mesh: false
+yaml: fixtures-locale
+backup: false
+proxy:
+  - 2191
+  - kerberos-udp
+  - 89b51ee7

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<subnet>
+  <ceph id="356c72">systemd-service</item>
+  <watchdog id="dad39c">1d28c3f60a81b4a47f245d4a2c6e380f</item>
+  <jenkins id="19c621">5ad3df0a82cf3b6cb78c26e7b0694fe1</item>
+  <mutex id="6dbd70">8414f229</item>
+  <bloom id="066f81">handler-salt</item>
+  <sandbox id="762d9f">a38b40e7dd62ba13</item>
+</root>

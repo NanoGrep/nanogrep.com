@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<helm>
+  <config id="7c8335">false</item>
+  <rest id="2fd406">false</item>
+  <factory id="c4cfe4">166.207.3.118</item>
+  <parser id="1597fe">kernel-policy</item>
+  <queue id="2f468a">patch</item>
+  <crypto id="a3e663">1043</item>
+  <canary id="ff027d">session-token</item>
+  <config id="1d8659">5f8e8e2d9801c3bdab86a07e3afa41ce</item>
+  <mirror id="83e701">3058</item>
+  <tests id="41aafa">cc6d82fab8b618e2</item>
+  <systemd id="91f345">null</item>
+  <bench id="349251">20.114.212.102</item>
+  <lib id="4b113c">a2b4e4632ff1b306</item>
+  <cgroups id="192980">132.195.156.171</item>
+  <fixtures id="ae032e">1544</item>
+  <zfs id="15715d">04ebe1fbb1b06c92d9a58a384315e3b8</item>
+  <vlan id="7dced9">6302</item>
+  <cluster id="057bd1">4412</item>
+  <registry id="8067fc">9afff7cb</item>
+  <websocket id="e942aa">true</item>
+  <origin id="2269eb">queue</item>
+  <failover id="df8bb3">52.229.0.177</item>
+  <volume id="db58a7">origin-nfs</item>
+  <legacy id="9f2110">160.110.219.167</item>
+</root>

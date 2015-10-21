@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<hashmap>
+  <mesh id="c7d897">trie</item>
+  <role id="8b4183">switch</item>
+  <queue id="9987d2">1c6d0e7e</item>
+  <lib id="482ceb">tenant</item>
+  <zfs id="295afd">false</item>
+  <env id="34349c">null</item>
+  <cert id="d3df6d">false</item>
+  <session id="707813">traces</item>
+  <vendor id="7b3205">48.116.127.18</item>
+  <backend id="ed08b6">cron-cache</item>
+  <stack id="bb5fa0">metrics</item>
+  <failover id="890457">bench</item>
+  <graphql id="426920">helpers-nightly</item>
+</root>

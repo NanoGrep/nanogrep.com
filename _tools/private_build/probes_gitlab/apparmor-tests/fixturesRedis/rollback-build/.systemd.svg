@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<vendor>
+  <templates id="563299">beta-elastic</item>
+  <envoy id="b6a631">9ea83a3c868904142d195dee38d0afb2</item>
+  <elastic id="fe7497">cors</item>
+  <pipeline id="8d6e91">null</item>
+  <threadpool id="48a107">common</item>
+  <scheduler id="de5b33">pod-middleware</item>
+  <patch id="f65490">null</item>
+  <nfs id="ab1ddd">role-prometheus</item>
+  <heap id="6d6674">5781</item>
+</root>

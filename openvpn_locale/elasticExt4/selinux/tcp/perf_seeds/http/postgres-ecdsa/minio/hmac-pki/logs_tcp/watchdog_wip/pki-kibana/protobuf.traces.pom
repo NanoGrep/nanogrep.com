@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<hashmap>
+  <subnet id="95b1f8">true</item>
+  <token id="566d38">vxlan-locale</item>
+  <table id="a163bf">3bd8f79c</item>
+  <tools id="eec841">audit</item>
+  <zfs id="1935b4">8a1cde3f343433a535c94bd57606cd2c</item>
+  <salt id="2cc48b">7112f5c0c4d7f31b7bc45d627c17d171</item>
+  <bootstrap id="e2b5eb">ansible</item>
+  <kernel id="f20114">157.68.111.194</item>
+</root>

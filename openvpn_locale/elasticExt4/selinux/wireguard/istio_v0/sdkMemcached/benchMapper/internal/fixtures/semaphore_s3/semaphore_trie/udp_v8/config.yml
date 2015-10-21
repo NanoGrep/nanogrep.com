@@ -1,0 +1,31 @@
+mqtt:
+  trie:
+    mesh: 1860
+    cursor:
+      quic: 2370
+      jwt: replica
+      column: 763
+    tcp:
+      worker: audit
+      scope:
+        - ddc291d92a8f7a2c06d7baf100734113
+      watchdog: origin
+    heap:
+      - 214.160.45.8
+      - 4009ef28
+      - mysql
+      - 2709
+    object:
+      - scheduler-crypto
+      - kafka
+      - buffer-common
+      - e95e8ab5
+  buffer:
+    ldap: envoy
+    request:
+      threadpool: zfs-kernel
+      tcp: 5332
+      dist: 010a03ff565cb0ad79ab19a9a0d8d6f9
+      artifact: scope
+    postgres: 0aa8c423
+  user: false

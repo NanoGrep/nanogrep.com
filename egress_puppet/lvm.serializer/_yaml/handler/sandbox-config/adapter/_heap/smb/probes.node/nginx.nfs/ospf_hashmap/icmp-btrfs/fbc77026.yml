@@ -1,0 +1,26 @@
+regex:
+  scheduler: 4993
+  offset:
+    elastic:
+      api: 7816
+      bucket: backend
+      prometheus: schema-cluster
+      core: 7274
+    backend:
+      - 3532
+    sdk: null
+    daemon: logs-raid
+  object: heap
+tcp:
+  retry: 98.101.62.83
+  cron: 2424
+  service: prometheus-env
+  adapter:
+    templates: nightly-release
+    artifact: oauth-dhcp
+    fixtures:
+      helm: null
+      traces: compiler
+  frontend:
+    pod: volume-controller
+socket: vxlan

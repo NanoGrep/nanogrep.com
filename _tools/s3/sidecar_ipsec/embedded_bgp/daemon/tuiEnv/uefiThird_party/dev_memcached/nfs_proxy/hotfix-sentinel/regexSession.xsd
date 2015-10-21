@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<backend>
+  <registry id="f80eaf">14.22.105.87</item>
+  <entropy id="40f4cb">ac144b14</item>
+  <cli id="969e16">vault-systemd</item>
+  <jwt id="bd6d59">7656</item>
+  <node id="09c752">object</item>
+  <buffer id="c79778">jwt</item>
+  <ceph id="1c0cb6">controller-nightly</item>
+  <dhcp id="175b0f">109.108.37.198</item>
+  <column id="3b0be6">245.206.89.31</item>
+  <session id="1b7e6e">89a744187f1e3ac3f1e6bf8e7a0ae475</item>
+  <failover id="ebfaa2">181.101.210.103</item>
+  <sandbox id="7aea3f">4687631a3ee30ad1</item>
+  <scheduler id="a2d272">false</item>
+  <http id="d3210e">vxlan-cache</item>
+  <node id="4db2f6">6112</item>
+</root>

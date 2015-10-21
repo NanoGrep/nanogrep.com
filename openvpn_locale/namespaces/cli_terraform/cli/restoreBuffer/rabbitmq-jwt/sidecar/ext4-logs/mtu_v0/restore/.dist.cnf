@@ -1,0 +1,10 @@
+vendoransible=119.237.227.190
+ingressswitch=watchdog
+nfs_mqtt=3c2e833e5dc9b1e38bd923f81dd2cf62
+indexlocale=c63a5be7408b54d8
+topicworker=null
+dns.prod=dee3b2b4606ae6ea
+locale_kafka=null
+canary_pipeline=metrics
+originiptables=adapter-bucket
+tcpresponse=1704

@@ -1,0 +1,39 @@
+{
+  "pod": "envoy",
+  "dist": {
+    "cache": true,
+    "kernel": {
+      "socket": [
+        2914
+      ],
+      "scope": {
+        "sandbox": 1839,
+        "fixtures": "jenkins",
+        "origin": "e2c391a6b8c2",
+        "ldap": true,
+        "node": "bloom"
+      },
+      "controller": {
+        "service": false,
+        "crypto": null,
+        "http": "offset",
+        "compiler": null
+      },
+      "release": {
+        "udp": true
+      },
+      "snapshot": "terraform"
+    },
+    "staging": [
+      {
+        "offset": "sdk",
+        "gateway": "bloom",
+        "mysql": true
+      }
+    ],
+    "watchdog": "worker",
+    "http": [
+      2267
+    ]
+  }
+}

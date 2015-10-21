@@ -1,0 +1,9 @@
+trie: kerberos
+role: bootstrap-fixtures
+pod:
+  - bfa0d375
+  - false
+  - alerts-registry
+  - 8467
+dhcp:
+  - 40b36932

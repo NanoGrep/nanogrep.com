@@ -1,0 +1,25 @@
+tcp: 213
+rest: 8304
+session:
+  lambda:
+    hmac: semaphore
+    cookie:
+      handler: limit-helm
+      cache:
+        - failover-table
+      oauth:
+        - false
+        - 4105
+        - 19.106.165.212
+    nat: 9575
+    sdk: 4526
+    assets:
+      regex: 229.163.86.60
+      mongo: 616
+      offset: 9171
+    common:
+      - 229793df
+      - runner-role
+      - 115.222.154.29
+      - role
+  sandbox: tools

@@ -1,0 +1,95 @@
+[sdk]
+vaultlimit = aes-salt
+bootstrap_stream = 8771
+core_limit = 3374
+iptables.stream = templates-index
+metricshashmap = d81aa9ffb515d977b5ddbd6dcc8bbb17
+scope.buffer = false
+podkernel = c73e1b04
+http.mutex = false
+limit.logs = 570edb2ca28c70233ca0e4fca835e391
+regex.cluster = systemd
+buffer.retry = 5971
+vendordhcp = regex-assets
+prometheus_response = redis-upstream
+reststream = 2593
+ceph.mutex = false
+cliudp = 9434
+buffer.aes = schema-regex
+
+[helpers]
+middlewaretoken = staging
+compiler_queue = 54da9081f6ad1a3a
+proxyrunner = heap
+schema_sandbox = bench
+dist_fuzz = rest-cursor
+table.cache = null
+hotfix_assets = envoy
+common.driver = 4e58ae3f
+tls_bench = false
+jenkins_elastic = 9643
+buildhashmap = common
+schema_elastic = schema
+compiler.watchdog = true
+nginxfixtures = 72789cf7
+jwt.sdk = sdk
+api.cluster = traces
+artifact_threadpool = a7ab1f34a17f0b20514424203e5a10a9
+
+[pod]
+limit.yaml = null
+ldap.oauth = 9e21b7a14fc482eb
+tcprollback = canary-batch
+builddns = 609602a3
+tokenproxy = 84.45.98.42
+grpc.audit = 50.241.9.164
+dns_kafka = 171.126.34.68
+btreenode = mapper-rest
+ingress_heap = 93.37.90.98
+config.object = 5f2251dede3c2759a763e0a2dfc12e61
+probecache = helpers
+salt.helm = heap
+clicert = staging
+coroutinehashmap = 97.180.146.152
+bootstrap.scheduler = 4.246.110.13
+indexmqtt = core-driver
+config_session = 4733
+fuzzfirewall = null
+apiansible = 4779
+btreestream = aaa8ebb1938f6438
+middleware_tls = c81625dd
+configceph = c1a91bfd715609faeb65318d1197731a
+failover_fuzz = 3429
+cronedge = 0fd7137594dc318be368eb4400f98d41
+lib.dns = mqtt-group
+frontendgrpc = 62.216.219.243
+librequest = grafana-cache
+upstream_systemd = 157.98.114.232
+bench_sha256 = schema-coroutine
+
+[mongo]
+ingress.coroutine = batch
+hmac_mutex = false
+tenant.oauth = 1202
+grpc.graphql = mutex
+releasekernel = threadpool
+index_queue = kernel-nfs
+sha256_api = 9979
+scope_semaphore = 04a67afa
+helpersmocks = 44.29.219.187
+utils.gateway = false
+staging.backend = 0423231ad768c122
+
+[mesh]
+systemd.config = switch
+column.zfs = 149.232.47.241
+betabtree = 186
+response_sdk = 7092
+nonce_prometheus = a6fc8bcd
+policy_lib = storage-coroutine
+daemonnginx = middleware
+compiler.utils = 98.128.209.43
+httpkernel = null
+graphql.sha256 = 3540
+schema_limit = c5cc9d86ff057b16
+jwt.dist = 144.34.11.218

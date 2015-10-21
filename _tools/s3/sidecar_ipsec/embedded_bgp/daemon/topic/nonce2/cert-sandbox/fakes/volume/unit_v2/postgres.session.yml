@@ -1,0 +1,7 @@
+semaphore: 570
+queue:
+  - false
+  - null
+  - ldap
+handler: 69.207.240.17
+fuzz: 70ebf2f01bac7efbbfb928a113a5f8b0

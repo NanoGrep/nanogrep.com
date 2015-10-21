@@ -1,0 +1,25 @@
+backend: 134.111.174.20
+ingress:
+  assets:
+    legacy:
+      mesh: 3333
+      metrics: entropy-patch
+      nfs:
+        - ldap
+        - 6fa315f82754cb0b
+        - factory-tcp
+      btree: 3220a1877b2e990c
+      row: 4199
+  trie:
+    cli:
+      runner: ecf1c5b6dc20a2f63b9a264a7643e187
+      heap: f5e720c9cb8a8a0868c915671dd57b79
+    cron: c393fd50d0ce310a3cd9f2a4523f4c0e
+    dist: 8926
+    stream: 161.252.243.67
+    object: row
+    hotfix: true
+  frontend: 8980
+probe: release-build
+patch: 1478
+queue: null

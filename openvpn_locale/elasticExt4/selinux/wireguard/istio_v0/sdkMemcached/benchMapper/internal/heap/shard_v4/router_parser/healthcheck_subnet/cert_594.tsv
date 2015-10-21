@@ -1,0 +1,7 @@
+stack,factory,kernel,scheduler,bloom
+c4bcf732364c1f5714ad36fb38a0cde2,6895,11.48.84.53,f79edf7a01ab8354,true
+rest,f74a9c63,24283998,true,102.252.114.20
+82484769ab2ee28f,frontend,211.217.48.205,9957,jwt
+true,null,false,false,6024
+cluster,c9134a3f6b7c4e60f801c13866c44d10,edge,203.169.148.209,mesh
+bench,c024167bca2bd30843c4b198fe9ca81e,cache,763b699928d4367967a6bde610e57592,bench

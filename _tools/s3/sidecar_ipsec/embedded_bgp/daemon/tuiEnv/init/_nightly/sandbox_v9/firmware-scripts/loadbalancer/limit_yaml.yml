@@ -1,0 +1,34 @@
+ldap:
+  sandbox: true
+  http:
+    batch: f9176f43a2af03c7
+  rsa: threadpool-scope
+  sandbox: loader-salt
+bgp:
+  scope: 3cbfa69e
+  origin:
+    middleware: hotfix
+    policy:
+      scheduler: 2507
+      ingress: 157
+      rollback: ea63c2a5
+      handler:
+        - false
+        - handler-role
+        - jenkins
+        - firmware-coroutine
+      cron: factory-policy
+      policy: 23.176.48.9
+    nightly: yaml-user
+  object:
+    canary:
+      cookie: null
+      scheduler: null
+      vault: 6111
+      role: fc3c2983
+      tenant: 30157cbdb63e58a73ee67784d79313a0
+    helpers: proxy-ansible
+    cron: 103.103.34.195
+    nfs: adapter-postgres
+    cgroups: 9654
+  websocket: a8b0387273cd8116715c1a6b5b17cdbc

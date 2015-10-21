@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<nat>
+  <pod id="10cfe0">null</item>
+  <trie id="018126">router</item>
+  <switch id="0a0cf7">storage-compiler</item>
+  <assets id="411147">ca007e1b</item>
+  <cron id="af8bcf">178.68.239.26</item>
+  <scope id="062b05">backend</item>
+  <driver id="09d0aa">logs-payload</item>
+  <beta id="c1f72e">fdbefb1eef472f8bf7de8336cebe1cc0</item>
+</root>

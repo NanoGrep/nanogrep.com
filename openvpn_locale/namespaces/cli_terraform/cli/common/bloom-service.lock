@@ -1,0 +1,68 @@
+{
+    "sdk": null,
+    "yaml": "cors",
+    "cli": {
+        "config": "30134fd597cf",
+        "gateway": {
+            "kerberos": [
+                true
+            ],
+            "envoy": {
+                "systemd": null,
+                "graphql": "mapper",
+                "wireguard": "heap",
+                "release": 8081,
+                "column": "cb80e32059e3",
+                "templates": "8db9c3c2ede7"
+            },
+            "worker": {
+                "staging": false,
+                "http": "cgroups",
+                "kafka": true,
+                "graphql": false
+            },
+            "trie": false
+        },
+        "factory": {
+            "cert": null,
+            "legacy": {
+                "hmac": true
+            },
+            "staging": null,
+            "cli": null
+        },
+        "fuzz": false
+    },
+    "nightly": {
+        "cron": "runner"
+    },
+    "offset": {
+        "tools": true,
+        "regex": false,
+        "table": null,
+        "mapper": {
+            "vault": [
+                "rest",
+                "e4c7937339a6",
+                false,
+                false
+            ]
+        },
+        "pipeline": true,
+        "response": {
+            "utils": false,
+            "failover": "16f169458e35",
+            "lambda": {
+                "driver": "7f8104640715",
+                "metrics": "80f9beddba0b"
+            },
+            "helm": 9794,
+            "config": {
+                "tcp": 9217,
+                "pipeline": "6627ecbd7d9f",
+                "tools": true,
+                "staging": false
+            }
+        }
+    }
+}

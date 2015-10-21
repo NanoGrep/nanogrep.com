@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<tests>
+  <shard id="b697b5">177.12.75.220</item>
+  <templates id="6dc412">8401</item>
+  <api id="8384d8">false</item>
+  <switch id="6ca0be">ldap-hmac</item>
+  <ingress id="13d1d6">81.3.142.230</item>
+  <proxy id="9e8e7d">mirror-bloom</item>
+  <payload id="1e3d5e">prod</item>
+  <batch id="013377">9709</item>
+  <sdk id="162cb8">12</item>
+  <mqtt id="c7e78c">backup-switch</item>
+  <hashmap id="95fccd">8991</item>
+  <topic id="f7a7e3">7371</item>
+  <semaphore id="0a8ea5">5059</item>
+  <router id="848abf">locale</item>
+  <limit id="37f429">7a09bad4</item>
+  <socket id="6e17f7">ceph-nat</item>
+  <bloom id="6fba6b">7868</item>
+</root>

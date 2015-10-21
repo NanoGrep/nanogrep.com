@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<jenkins>
+  <quic id="0c02f3">false</item>
+  <lexer id="4150ff">beta-rest</item>
+  <cert id="1ac7e2">null</item>
+  <rest id="c619f7">6775</item>
+  <sdk id="3b44cb">241.150.18.147</item>
+  <patch id="2b6bd2">114.73.173.70</item>
+  <driver id="b84fa9">a4cc323fa4dc7baf574c6ec0338f7b3d</item>
+  <salt id="4574b5">systemd-salt</item>
+  <mongo id="94848c">true</item>
+  <scope id="09340c">61.74.230.112</item>
+  <shard id="8db645">migrations</item>
+  <templates id="77bb1a">false</item>
+  <tcp id="3a7787">e283f82b2f4f39249022c8902bd39eec</item>
+  <grafana id="afbb2f">8d896cb7312eda37</item>
+  <tests id="8f2048">3f29a5bc</item>
+</root>

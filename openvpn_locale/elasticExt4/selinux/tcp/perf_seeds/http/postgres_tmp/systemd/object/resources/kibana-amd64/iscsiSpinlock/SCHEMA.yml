@@ -1,0 +1,14 @@
+kernel: metrics-build
+payload: 069ad10d84c587277a7c9c4ebc775f2e
+prometheus: 8f1f4e35
+cache: 3104
+fixtures:
+  - stream-kernel
+backend:
+  stack: fixtures
+  parser:
+    patch:
+      dist: true
+      heap: mirror-rest
+  raid: 1174
+  metrics: false

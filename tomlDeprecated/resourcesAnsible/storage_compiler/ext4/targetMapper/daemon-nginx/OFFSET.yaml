@@ -1,0 +1,55 @@
+grpc:
+  traces: 3826
+  worker:
+    cgroups: 2829
+    node: 4181
+    tests: 119.6.186.186
+    runner: d59873098d92e9ec
+  router:
+    patch: aes-middleware
+    utils: ca4dddc7
+    table: sandbox
+    cache: eedb258f29c30ab9260b2943c960cb44
+    cgroups: bootstrap-pod
+    ansible: 37.16.144.244
+  tcp:
+    assets: 117.125.51.205
+    artifact:
+      vendor: 19.92.189.216
+    edge:
+      switch: 8960
+      service: btree
+      cert: worker
+      parser: 4f11677aa1e164df8fd090e6a066149c
+      sha256: false
+      firewall: 59.13.194.243
+    pipeline: frontend-registry
+    tools: true
+    env: metrics
+lambda: null
+schema:
+  prod:
+    - role-service
+    - 103.252.6.83
+  locale: false
+  stack:
+    wireguard: ansible-tenant
+    batch: true
+    sdk:
+      ceph: 7515c74d
+    mutex: 251.175.232.5
+    helpers:
+      grpc: nonce
+      grafana:
+        - 79c42672
+        - false
+        - nonce-threadpool
+      audit: 2064
+      proxy: 3832
+    cache: false
+  queue:
+    tests: api
+    sha256: firmware-bgp
+hotfix: 31.197.147.122
+token:
+  - 1073

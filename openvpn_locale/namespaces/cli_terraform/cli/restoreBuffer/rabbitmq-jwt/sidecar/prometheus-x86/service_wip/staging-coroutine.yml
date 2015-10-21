@@ -1,0 +1,49 @@
+mocks:
+  core: switch-proxy
+  backup:
+    - null
+  socket: 53cde9cb8262e5e6972ec29470baacf8
+config: cf4139ae
+iptables:
+  gateway: true
+  config:
+    config: a536f93ca72189e507f81aad74c50582
+    stack:
+      helpers: null
+      lambda: 3989
+      json: policy
+      canary: 3280
+      postgres: false
+    pod: bloom-vxlan
+    hmac: limit
+    backend:
+      column: 4926
+      prometheus: column-yaml
+      adapter: true
+      compiler: 7412
+    staging: 7330f83fafc83d45a287564a6ba7a2d4
+  tenant: true
+  common:
+    rsa: semaphore
+    graphql: 63.37.18.76
+    backup: trie-policy
+    audit: vendor
+  vlan:
+    fixtures:
+      graphql: 1fbfe8a0
+      factory: 2fe6208ae3afbb94afbef3bfaf67b346
+      nat: 6a3a4dd2bd93dfd5
+    pod:
+      json: a442290a
+      vxlan: true
+      grpc: 1684
+      ansible: 73f4cbe06786ba1e
+    cursor: 9879
+    common:
+      bootstrap: true
+      firmware: 8e2939d80fadff69a2e1e114e2964cde
+    alerts: fuzz
+    request: 19e15c77e4a5acc6
+  user: yaml
+column: 21.116.138.48
+crypto: 206.116.134.41

@@ -1,0 +1,68 @@
+tenant:
+  backend: a0f198db6709af0f
+  hashmap: 6b36c61961ef670d701761975d4e0dfc
+  trie:
+    daemon:
+      bench: null
+      salt: 111.195.6.235
+      helm: null
+      object: mapper
+    driver: 5.224.170.152
+    mysql: daemon-sandbox
+  audit:
+    - migrations-topic
+    - 9717
+    - null
+batch: 9484
+heap:
+  raid: 252.7.254.132
+wireguard:
+  dist: 8ce1b80b
+  mocks:
+    tls: http-snapshot
+    trie:
+      core:
+        - yaml
+    kerberos: utils-prometheus
+  threadpool: null
+  upstream: 141.15.83.137
+terraform: batch
+metrics:
+  graphql: 4f07ed653b12db03
+  response:
+    adapter: sha256-helpers
+    config: true
+    frontend:
+      trie: envoy-offset
+    patch:
+      - 122.169.34.133
+      - 8321
+      - mongo
+      - schema-graphql
+    driver:
+      zfs: lib
+  crypto:
+    upstream:
+      group: false
+      prometheus:
+        - 81.133.201.190
+      terraform: 9.117.102.77
+      mutex: 792d0d3d
+    firewall:
+      udp:
+        - 372e03f6b3352bb2f00948477299b4fb
+        - 6f0b982527e13db81b19b9475b1e1991
+        - 5979
+      cli: nat
+      handler: retry
+      watchdog:
+        - 8368
+      postgres: 117.32.246.168
+    compiler:
+      systemd: 147.16.30.184
+      backup: 938
+      ceph: 165.5.12.246
+      salt:
+        - 7fc77f7cf459e223a77c97ef786199e1
+      cert: 36.72.165.116
+  fuzz: kernel-role

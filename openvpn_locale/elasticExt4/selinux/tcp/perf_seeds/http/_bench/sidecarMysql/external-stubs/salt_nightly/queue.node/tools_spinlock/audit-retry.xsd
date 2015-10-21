@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<prod>
+  <daemon id="f28a5c">rollback</item>
+  <parser id="352217">envoy-bench</item>
+  <cookie id="45816d">689ff93b</item>
+  <helpers id="524295">systemd-dhcp</item>
+  <envoy id="735a9f">1256</item>
+  <nonce id="107de2">54.56.166.42</item>
+  <rsa id="fb6fac">column-batch</item>
+  <templates id="e148ba">storage-queue</item>
+  <node id="4a2575">5364</item>
+  <subnet id="de7183">cbcb18d2</item>
+  <cron id="d8dc90">404756abdc3c8471</item>
+  <lib id="a9b1dd">bc2b170e</item>
+  <http id="b1fdc3">true</item>
+  <coroutine id="128668">firmware-helpers</item>
+  <table id="1b20cb">switch-ceph</item>
+</root>

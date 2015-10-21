@@ -1,0 +1,51 @@
+adapter: router
+helm:
+  - pipeline
+watchdog: 150.241.61.242
+prometheus:
+  tls: false
+  edge:
+    artifact: 164.100.138.239
+    json:
+      env: 108.239.107.104
+      payload: parser-helpers
+      firewall:
+        - 25.217.195.37
+    vxlan:
+      pod: systemd-ldap
+      websocket:
+        - retry-vault
+        - 4079
+        - 3f3e6608
+        - row-lambda
+    backup: true
+    proxy: templates-tls
+    metrics: 20.125.102.254
+  handler: index-raid
+  cluster: socket-replica
+bootstrap:
+  mysql: a05293bebe4576fe42f519ad8cf2a971
+  bootstrap:
+    object: 8ef6b142a803df65
+    tcp: 250.35.197.118
+  vxlan:
+    tools: 8eed5b376afaa80e
+    dhcp: ansible-tools
+    proxy: proxy-artifact
+    rsa: 4176
+    router: null
+    terraform: grpc-queue
+  limit: 7410
+  limit:
+    cookie: false
+    group: factory-http
+    topic:
+      - 86e92ddf1e10aeb41c1157c8eb397917
+    mesh:
+      controller: c8b7c96780f91517
+      utils: probe-pod
+      utils: salt
+    fixtures:
+      - metrics
+      - payload
+    ansible: 91.138.15.200

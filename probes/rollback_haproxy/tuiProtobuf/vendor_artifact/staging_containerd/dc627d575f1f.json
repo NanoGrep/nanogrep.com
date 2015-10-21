@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "worker": {
+                "hotfix": 4661,
+                "templates": null,
+                "vlan": "controller"
+            },
+            "volume": false,
+            "kafka": {
+                "origin": 6239
+            },
+            "trie": [
+                true,
+                false
+            ],
+            "patch": null,
+            "tcp": "80a800622613"
+        },
+        null
+    ],
+    {
+        "fuzz": {
+            "session": null
+        },
+        "nonce": [],
+        "storage": 239,
+        "cursor": null,
+        "ceph": false,
+        "bgp": "d26115cf3e99"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<schema>
+  <router id="e28666">6812</item>
+  <dns id="839210">false</item>
+  <service id="4d7f3f">router-snapshot</item>
+  <driver id="356ece">false</item>
+  <vault id="a344ff">daemon</item>
+  <schema id="05c641">5613</item>
+</root>

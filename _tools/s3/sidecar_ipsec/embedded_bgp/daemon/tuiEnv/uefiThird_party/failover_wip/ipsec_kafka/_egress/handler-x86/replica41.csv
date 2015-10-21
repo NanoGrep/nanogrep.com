@@ -1,0 +1,7 @@
+prometheus,firmware,frontend,service
+137.212.156.83,assets,3078,96b69dd86033dd3e2a7319d525a47c5a
+e7ddb364,211.149.253.58,rest-cli,grpc
+true,5389,cli,null
+63.211.47.80,router,payload,dfc099e31e8d44cf
+79.107.147.136,hmac-dns,7611,bench-buffer
+true,grpc-bootstrap,144.179.180.183,legacy

@@ -1,0 +1,12 @@
+sdk:
+  - 1d7a25b773c6b1d5
+lambda:
+  nginx: true
+yaml: sandbox
+tcp:
+  replica:
+    - watchdog-cluster
+    - logs
+    - 171.73.59.125
+grafana: true
+grpc: 87.128.238.194

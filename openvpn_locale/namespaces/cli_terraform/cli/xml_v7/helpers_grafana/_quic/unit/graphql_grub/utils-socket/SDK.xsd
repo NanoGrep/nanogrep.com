@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<websocket>
+  <yaml id="a3f7e2">tls-logs</item>
+  <bloom id="e0fd39">2580</item>
+  <jenkins id="a19786">null</item>
+  <session id="fd11d4">schema</item>
+  <payload id="a78cd5">wireguard-daemon</item>
+  <postgres id="2897d0">false</item>
+  <row id="e534ce">ldap-artifact</item>
+  <vlan id="51f341">261c3f73</item>
+  <column id="0f9581">96caffcc57b8a410</item>
+  <regex id="080aed">4cca5f7b</item>
+  <artifact id="c429b8">27.231.114.180</item>
+  <audit id="e30b96">9579</item>
+  <socket id="9dbeab">b914e818fe95dc5104f8bbd50353d0a1</item>
+  <backup id="4da3e2">true</item>
+  <systemd id="7cdbce">4471</item>
+  <storage id="74f53d">true</item>
+  <grafana id="c5b3ee">vault-core</item>
+</root>

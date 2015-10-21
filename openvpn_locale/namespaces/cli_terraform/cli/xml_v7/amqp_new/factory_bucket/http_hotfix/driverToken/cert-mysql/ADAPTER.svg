@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<cors>
+  <compiler id="11d278">5753</item>
+  <templates id="da7771">101.75.26.70</item>
+  <pod id="a24231">5089</item>
+  <common id="281aa0">json-replica</item>
+  <group id="2ea6f7">quic</item>
+  <ingress id="21a324">9491</item>
+  <loader id="4f260f">84.111.41.138</item>
+  <jwt id="e3b9f5">d3307badfebc040ffbf841e54579e198</item>
+  <scope id="713dc4">cluster</item>
+  <stream id="310a47">48.83.200.94</item>
+  <sdk id="fe4844">4161</item>
+  <schema id="5b5e41">elastic</item>
+  <ceph id="021a9b">c3b3ed2ea4738a62e92430fdcf6b4720</item>
+  <factory id="bca2ef">sdk</item>
+</root>

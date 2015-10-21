@@ -1,0 +1,45 @@
+scope: 86539395
+batch:
+  pod: 247.96.220.105
+  dist:
+    fuzz: 7822
+    build: null
+    token: 166.90.237.87
+    vault: 31.115.212.242
+role:
+  - false
+jenkins: 81.86.76.73
+assets:
+  mocks: 8150
+  cluster: templates
+  envoy:
+    release:
+      - bloom
+      - true
+    lambda: 62f70ce6
+    backend: session-object
+    parser: 3d606d3d
+cgroups:
+  socket: graphql-zfs
+  backend: 9.143.95.156
+  semaphore:
+    rest: false
+    utils:
+      - b8f82ee8afa6ba4d
+      - websocket-gateway
+      - false
+    vxlan: 8.93.10.26
+    loader:
+      cron: hmac
+      retry: kernel-driver
+      handler: a3f1b5fb241bfd15c9820f21cc82dfe9
+      buffer: 816963aa32151f774609dcd0d50c6050
+  mongo: 84cc2da59f317d04
+  iptables: 2740
+  env:
+    nonce: nightly-tools
+    alerts: 3192
+    response: yaml-staging
+    assets: null
+    fixtures: 9754
+    sdk: 4767

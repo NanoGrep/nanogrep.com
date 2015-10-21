@@ -1,0 +1,75 @@
+{
+    "cron": {
+        "templates": true,
+        "grafana": [
+            {
+                "tenant": null,
+                "beta": "0bed3128dbf1",
+                "trie": 8964
+            },
+            "prometheus"
+        ],
+        "service": [
+            {
+                "cluster": "sha256",
+                "nat": null,
+                "cache": 7639,
+                "backend": true
+            },
+            {
+                "origin": 2734
+            },
+            {
+                "mapper": 7627,
+                "daemon": false,
+                "pod": "e2d4a2b95ef7",
+                "vxlan": false,
+                "sdk": "8673ef89ee49"
+            },
+            false
+        ],
+        "row": [
+            "loader",
+            {
+                "mapper": null,
+                "nat": "elastic",
+                "heap": "0f3847059516",
+                "payload": 3580
+            }
+        ],
+        "mapper": [],
+        "config": {
+            "systemd": true,
+            "common": "e0812a378422",
+            "semaphore": {
+                "driver": 392,
+                "user": "cache",
+                "origin": null
+            },
+            "driver": {
+                "beta": "12e8345d21bb",
+                "ceph": true,
+                "firmware": 2287,
+                "envoy": "adca460dc6b0",
+                "postgres": null
+            },
+            "terraform": true
+        }
+    },
+    "switch": [
+        "mysql",
+        [
+            {
+                "parser": null,
+                "jenkins": "19c9c970daf0",
+                "oauth": false
+            },
+            {
+                "mongo": true
+            }
+        ]
+    ],
+    "alerts": {
+        "mqtt": true
+    }
+}

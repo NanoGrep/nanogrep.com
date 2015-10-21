@@ -1,0 +1,17 @@
+mesh,lambda,bucket,pipeline
+canary,131,false,242.53.221.205
+false,9730,true,failover-cert
+961,7622,e582165f,168.94.168.223
+false,2239,object-ceph,8424
+api-mutex,null,117.63.39.46,5282
+3383,false,233.173.122.167,7.24.197.190
+null,2759,949203d2,scope
+f123484827ad2462ca70f4fb28e83d6f,346,true,tenant-elastic
+aes,262,90.115.182.103,5402
+25495ff633eeb99758b31695327cd436,6810,dhcp-mirror,8004
+b2ccaa11,3343,cdf4d15c99a71e08,dns
+limit,cache,126.44.183.98,false
+nfs-vlan,true,ceph,helm
+6756,origin,4fb29237,123.123.130.78
+build,nginx-index,response,false
+2080,rsa-rest,1490,true

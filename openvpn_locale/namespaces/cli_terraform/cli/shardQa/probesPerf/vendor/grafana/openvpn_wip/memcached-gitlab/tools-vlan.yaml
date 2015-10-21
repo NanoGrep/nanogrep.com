@@ -1,0 +1,5 @@
+firewall: cli
+udp:
+  - 7903
+  - websocket-coroutine
+index: 1426

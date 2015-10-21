@@ -1,0 +1,11 @@
+nonce:
+  utils: ansible-nightly
+dhcp:
+  - 234.12.16.112
+  - socket-dhcp
+session:
+  build: f665ace3800ce4b7
+postgres:
+  - row
+vendor: 5268
+fixtures: bucket

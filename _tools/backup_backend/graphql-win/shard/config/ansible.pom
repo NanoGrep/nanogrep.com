@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<audit>
+  <terraform id="d1d632">kerberos</item>
+  <pod id="6e1a37">fixtures</item>
+  <scope id="21e614">websocket-trie</item>
+  <mapper id="4e34b7">lexer</item>
+  <audit id="d145c9">pipeline-sdk</item>
+  <dist id="1f1669">true</item>
+  <jwt id="43dc67">3193</item>
+  <canary id="130649">a2c6d1f0283f8499</item>
+  <nginx id="106099">195.23.101.36</item>
+  <user id="78ed9d">false</item>
+  <coroutine id="48ec76">upstream-release</item>
+  <runner id="4498dc">true</item>
+  <lib id="74264e">jwt-bucket</item>
+  <table id="761377">152.182.53.5</item>
+  <mqtt id="d1b8f0">0ab792c351233266</item>
+</root>

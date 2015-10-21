@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<release>
+  <nfs id="972a21">f7c8caa2068b6aaf65806c4a7ed6f60a</item>
+  <ingress id="75f36d">true</item>
+  <token id="62c27d">rsa</item>
+  <hotfix id="c7ba7e">false</item>
+  <dist id="f4a1c9">6436</item>
+  <upstream id="4f22b8">probe-zfs</item>
+  <cli id="d3bac5">1821</item>
+  <probe id="7a337f">subnet</item>
+  <parser id="b22913">daemon</item>
+  <cert id="6632f7">metrics-firmware</item>
+</root>

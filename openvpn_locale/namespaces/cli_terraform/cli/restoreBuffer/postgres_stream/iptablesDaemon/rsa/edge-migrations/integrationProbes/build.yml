@@ -1,0 +1,72 @@
+vxlan:
+  cli:
+    cron: null
+    redis:
+      offset: graphql-zfs
+      rest: crypto
+  regex: 2501996d
+  nfs:
+    locale: 228.80.30.61
+    release: 98f6cc91
+    object: 9944
+    cli: 2682
+    lexer:
+      - build
+      - true
+      - 119.1.100.52
+      - 158.240.106.71
+    buffer: proxy
+  mapper:
+    graphql: 150.228.92.131
+    dns:
+      - ddf9d50d38bb8f7771cb4697a31565af
+      - 9912
+      - logs-cors
+      - 5229
+    core: null
+    ansible:
+      wireguard: 8344
+      backup: nginx
+    firewall: origin
+    elastic: 32.47.113.5
+  config: 1201
+oauth:
+  audit:
+    lambda:
+      redis: e2413e426d14faf4cf069a407ee5110a
+      node: c9ea5792eb10f7e9
+      failover: legacy
+      scope: false
+      terraform: socket
+      daemon: 44.106.15.117
+    switch:
+      nightly: null
+      response: 133.83.21.214
+      vlan: 2247
+      traces: retry-postgres
+  frontend: null
+  daemon: true
+  dist:
+    common: false
+    heap:
+      bgp: 101.27.104.1
+      nfs: 9902b21e3d43e956dfcf54c667173dad
+      lib: 8380
+    backend: 749c16e7ac4a61a2
+    stack:
+      gateway: 836
+      kernel: true
+      upstream: 1496
+  lib: a5d48104
+  table: 61.31.71.244
+storage:
+  prometheus: parser
+  quic: core
+  fuzz: 94.141.112.128
+  rollback: yaml
+  prometheus:
+    - tcp-loader
+    - false
+  artifact:
+    switch: 264989b6cb4c7836b41c334924835d68
+    systemd: af8af50b5446e9df500919b999101dd0

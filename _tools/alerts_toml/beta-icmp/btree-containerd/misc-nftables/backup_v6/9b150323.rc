@@ -1,0 +1,79 @@
+[legacy]
+postgres_mysql = 2401
+tenant_crypto = http
+cryptofactory = 404861d701729c19
+prod_legacy = row-nat
+pod_watchdog = 96.67.127.119
+threadpool_assets = 5781
+bootstrap_assets = e4b4849c5c5bc796
+vendor.core = af4ea9a3
+cookiekernel = true
+group.heap = false
+udp.aes = mirror
+coroutine.mongo = 2f1b05d9
+helmupstream = 240.10.134.126
+bench_loader = 1f41aa97a417db09d5d683f0a3c01126
+coroutine_backend = 67.53.28.35
+saltzfs = bgp-hotfix
+core.regex = aes
+scripts_bootstrap = 156.209.217.208
+stream.ldap = null
+cert.udp = 1463
+rollbackansible = 7610
+kernel_graphql = null
+firmware.elastic = null
+failover_mongo = 223.173.109.172
+releasesocket = e97d934df82aeb12
+udpprometheus = 9083
+group_mesh = 9f13e632
+
+[elastic]
+hotfixmigrations = null
+envoy_graphql = semaphore
+objectpipeline = 92.236.170.11
+cluster_group = 123.229.78.4
+topic.build = 6812
+regexsubnet = 224.8.15.20
+buildmqtt = 229.154.114.173
+saltgraphql = mongo-frontend
+nightlycolumn = 248.235.194.189
+bloom_dhcp = true
+kafka.cron = 3998
+aesbuffer = false
+policygrafana = 3769
+snapshot_aes = 201.174.254.140
+session_grafana = 14a567b7ca61ff91
+watchdogsemaphore = true
+natelastic = loader-artifact
+jwt.kerberos = 131.141.35.8
+semaphore.staging = 2369
+
+[backend]
+compileransible = json-semaphore
+templates_shard = 151.173.139.171
+quic_grpc = 3401
+trie.semaphore = c7749a12
+prod_failover = 8192
+kernel_cache = 8236
+config_pod = 60
+volume.row = frontend
+systemdprotobuf = null
+helpers.middleware = 69.161.244.166
+lexer_templates = 5952
+semaphore_grafana = sdk-worker
+row.raid = cgroups-sha256
+patch_lib = node
+tools.migrations = nfs
+clivxlan = bootstrap-locale
+bloom_cors = 90.239.3.64
+columnlogs = f1cea67a
+legacy.tcp = 2006
+redistcp = 74.247.237.77
+nonce_bootstrap = ddeb974113da434f
+heapnfs = vxlan
+stack.aes = true
+fuzz_lambda = bloom-helpers
+
+[vendor]
+logs.grpc = null
+bench.session = 250.182.0.57

@@ -1,0 +1,8 @@
+trietemplates: 5430b8ea1ba1f22157a87b1754d4bbc1
+zfs_prod: 652d574721607b958c548cca86fb6df7
+retrydns: 8250
+tests_buffer: 9414
+tenant.postgres: 1819
+utils.websocket: 1939
+rsagrafana: true
+storagemapper: wireguard

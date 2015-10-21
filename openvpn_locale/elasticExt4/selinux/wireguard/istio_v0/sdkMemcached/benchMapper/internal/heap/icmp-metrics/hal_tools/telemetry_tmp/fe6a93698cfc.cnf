@@ -1,0 +1,4 @@
+rsamutex=logs-socket
+cluster.coroutine=bucket
+bench_legacy=1315
+index.tenant=false

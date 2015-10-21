@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<nginx>
+  <mongo id="ed6999">row-worker</item>
+  <vault id="b9a692">4090</item>
+  <nightly id="1089b8">102.126.175.27</item>
+  <gateway id="2f569b">1142</item>
+  <entropy id="e0e0bf">null</item>
+  <switch id="2025be">d90acba831cf4c79</item>
+  <kafka id="3530f3">stream-vxlan</item>
+  <mqtt id="eea831">030548fe30b84812</item>
+  <vxlan id="a96538">proxy</item>
+  <semaphore id="13f12b">origin-firewall</item>
+  <offset id="eb1e64">false</item>
+  <shard id="e10566">false</item>
+  <redis id="f6f14e">common-group</item>
+  <prod id="59920b">576025d4f2ac5967e84279141abc7afa</item>
+  <pipeline id="d11a94">5387</item>
+  <staging id="b81871">true</item>
+  <canary id="62305f">driver</item>
+  <release id="436699">false</item>
+  <switch id="1a36ff">entropy</item>
+</root>

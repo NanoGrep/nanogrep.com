@@ -1,0 +1,32 @@
+group:
+  - 35.144.129.208
+  - origin-nfs
+  - migrations
+yaml:
+  - cdb10405e6a541c3878934f3e3d3dd3e
+  - 5dc29fe4f286d3476f7396a620f601be
+terraform:
+  cluster: 8ef094ceb6f967d3
+  rsa: de2680087fa772784fe1ed41fc0dceba
+  traces: true
+  helpers:
+    lib:
+      - 7236
+      - trie-probe
+    kernel:
+      redis:
+        - coroutine-factory
+        - fuzz-tests
+        - loader
+      frontend: false
+      vlan: 46.59.71.172
+      daemon:
+        - true
+        - payload
+        - tests-cors
+      nginx: 326
+    utils: c8b2cff64cc9cfb5
+  audit: grafana-tls
+vlan:
+  controller: dist
+  factory: 123.182.127.242

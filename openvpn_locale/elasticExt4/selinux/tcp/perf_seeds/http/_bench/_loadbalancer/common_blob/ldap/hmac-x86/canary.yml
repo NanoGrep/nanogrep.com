@@ -1,0 +1,4 @@
+tenant: ceph
+worker: 2b8a58c9150a6e2a3110f8aa25c56476
+udp: true
+cookie: 162.205.82.51

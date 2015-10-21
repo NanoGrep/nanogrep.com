@@ -1,0 +1,27 @@
+[role]
+nightly_yaml = group-proxy
+factorycursor = bgp
+queue_edge = false
+volumescheduler = 141.6.242.175
+benchedge = 10.116.179.102
+sdk_aes = a7e5de97
+fuzzredis = prod-user
+helmmesh = 32.105.215.81
+distprometheus = threadpool-vault
+registry.pipeline = 38.197.102.9
+batch.bloom = null
+jwt_tenant = 1133
+runner_release = true
+artifact.utils = row-iptables
+zfslexer = bgp-vendor
+mutex.staging = false
+envstream = 76.171.89.62
+mutex.vlan = cluster-cluster
+patch_parser = dist
+staging_staging = fuzz-rest
+mirrordns = aes
+templates_rest = factory-retry
+mirror.utils = true
+scriptsansible = locale
+mapper_mirror = 2ce2ccc9
+proxypod = parser-postgres

@@ -1,0 +1,6 @@
+probe: nginx-artifact
+traces: row
+cluster:
+  - entropy
+  - 102.247.95.214
+  - probe

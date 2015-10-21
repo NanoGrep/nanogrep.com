@@ -1,0 +1,19 @@
+semaphore:
+  cookie:
+    cluster: false
+    audit:
+      jenkins: false
+      core: true
+      envoy: false
+    dhcp: 244.13.24.120
+    upstream:
+      utils: frontend
+      cluster: 6e98d43484734aa71f7b575b4662598a
+      ingress: 66.244.225.175
+      staging: cgroups-controller
+      nonce:
+        - a45a19981a725b26587ef8105cf328c5
+        - febd22072bc3d33c077d607d5d024dd9
+        - a61bead469127874
+      crypto: policy
+  dist: 76.191.230.189

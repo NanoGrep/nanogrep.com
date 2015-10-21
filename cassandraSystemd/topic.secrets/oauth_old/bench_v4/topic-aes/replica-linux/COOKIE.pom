@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<loader>
+  <dhcp id="b98497">202.199.160.134</item>
+  <staging id="2cc420">173.244.176.163</item>
+  <staging id="b00a03">236.109.32.131</item>
+  <helpers id="b9a4b3">snapshot</item>
+  <limit id="8f52a4">2199df22</item>
+  <retry id="479eec">null</item>
+  <mirror id="6f3514">limit-payload</item>
+  <controller id="0397d6">graphql-lambda</item>
+  <failover id="379c04">daemon</item>
+  <router id="f6bd0f">127.95.162.68</item>
+  <policy id="333fa6">sandbox-beta</item>
+  <common id="810494">1731</item>
+  <udp id="e47319">stack-cert</item>
+  <lib id="7a1305">99.120.216.137</item>
+  <schema id="471e8e">8910ad9c820d8654</item>
+  <logs id="a3b015">buffer-cache</item>
+  <entropy id="f1a11f">9998</item>
+  <batch id="253a1b">null</item>
+  <nightly id="02a4ce">86.107.73.183</item>
+  <cert id="a6f9d7">request</item>
+  <mysql id="0397b6">2969</item>
+  <failover id="0ad540">null</item>
+  <vendor id="0ae539">232.231.102.154</item>
+</root>

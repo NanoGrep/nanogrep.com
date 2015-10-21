@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<stack>
+  <policy id="d6ce7a">mirror</item>
+  <metrics id="b3600c">null</item>
+  <migrations id="6844b9">fuzz-registry</item>
+  <sandbox id="c3eec2">null</item>
+  <trie id="6a7e65">8617</item>
+</root>

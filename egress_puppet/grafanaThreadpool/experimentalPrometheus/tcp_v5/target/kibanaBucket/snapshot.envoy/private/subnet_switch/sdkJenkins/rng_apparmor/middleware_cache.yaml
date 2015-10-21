@@ -1,0 +1,8 @@
+postgres: systemd
+mapper: bb6bb516
+cursor: request-assets
+group:
+  subnet: volume-lib
+  graphql: nightly-kafka
+dns:
+  bucket: null

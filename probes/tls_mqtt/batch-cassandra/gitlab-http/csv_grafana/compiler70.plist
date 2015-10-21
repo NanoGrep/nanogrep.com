@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<bloom>
+  <elastic id="a2c725">scope</item>
+  <cursor id="120a20">ab0cd6b5ff8b084cbe8cb9946af3b42b</item>
+  <trie id="b135e3">redis</item>
+  <fixtures id="644986">151.7.239.34</item>
+  <yaml id="6dbd18">1.154.186.247</item>
+  <kerberos id="6ed817">1972</item>
+  <traces id="a5c1c7">7f6673248196347dba7cfdc2647b74e6</item>
+  <storage id="ebd287">310</item>
+  <coroutine id="5bb411">true</item>
+  <trie id="9d67c6">7956</item>
+  <vendor id="c8463e">false</item>
+  <staging id="b80612">4b95a208</item>
+  <service id="8f9759">batch-pod</item>
+  <fuzz id="db8c87">tests-btree</item>
+  <nginx id="c9c6b7">9698b511eae47c08393736f0d3810663</item>
+  <firmware id="00a301">true</item>
+  <vendor id="7652a1">38.72.14.130</item>
+  <helm id="84a136">197667652631f20c</item>
+  <alerts id="f7eb2b">43.127.26.131</item>
+  <switch id="8f2ed8">true</item>
+</root>

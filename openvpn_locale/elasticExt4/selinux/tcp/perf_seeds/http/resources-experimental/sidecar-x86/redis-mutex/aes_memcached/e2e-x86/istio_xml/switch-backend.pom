@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<batch>
+  <iptables id="c7cca6">c3d6ca63</item>
+  <coroutine id="c5cd46">9025</item>
+  <row id="0f7e10">null</item>
+  <nightly id="ff7fc6">false</item>
+  <retry id="0fbe27">prod</item>
+  <batch id="d742c5">true</item>
+  <mocks id="a22762">2.137.206.208</item>
+  <ldap id="ef770a">node</item>
+  <kerberos id="86a61a">null</item>
+  <kafka id="634439">false</item>
+  <rollback id="2807f1">policy</item>
+  <nightly id="aa2087">4c0d8e49</item>
+  <edge id="7097b3">response</item>
+  <scripts id="21220e">8764</item>
+  <mutex id="89a1c0">kafka</item>
+  <heap id="f347fd">node-sdk</item>
+  <schema id="ef2131">da3a5ede</item>
+  <elastic id="54ff54">topic</item>
+  <role id="76becb">null</item>
+  <payload id="749a09">true</item>
+  <elastic id="c32877">jwt-nfs</item>
+  <zfs id="27512c">rsa-regex</item>
+</root>

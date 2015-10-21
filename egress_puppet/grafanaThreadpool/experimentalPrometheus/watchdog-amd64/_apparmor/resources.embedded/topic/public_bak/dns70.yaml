@@ -1,0 +1,28 @@
+alerts:
+  loader: raid
+  session:
+    cache: null
+    registry: 127.161.220.131
+    stack: true
+    runner: 31.254.37.76
+    replica: 823
+  udp: 78.176.30.95
+  build:
+    - 116.150.100.115
+  btree:
+    object: hotfix-grpc
+    retry: udp-bgp
+    threadpool:
+      mesh: 8025
+    rest: mysql
+    subnet: assets-prod
+  core: 76.236.149.91
+threadpool: f7d7ebcd
+service: edge
+prod:
+  rsa:
+    trie: redis
+    edge: nat-envoy
+    replica: origin
+    ansible: 195.20.29.223
+  firewall: 7804

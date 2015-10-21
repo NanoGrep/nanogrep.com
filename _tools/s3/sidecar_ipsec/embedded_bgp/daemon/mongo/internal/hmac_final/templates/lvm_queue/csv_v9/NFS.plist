@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<session>
+  <grafana id="695d44">entropy</item>
+  <assets id="69704c">assets</item>
+  <mapper id="5fc394">aes-mongo</item>
+  <session id="a6de5c">5770</item>
+  <ingress id="4bf9f7">true</item>
+  <terraform id="025fe3">ldap</item>
+  <tcp id="ddebca">7ac0435ae5f8b08c</item>
+  <cli id="97658a">86.124.12.172</item>
+  <http id="373b73">aes</item>
+  <sandbox id="44202a">grpc</item>
+  <response id="a1d72c">cli-dns</item>
+  <sha256 id="0d90f4">697</item>
+  <prod id="78790d">cache-registry</item>
+  <coroutine id="78f23e">false</item>
+  <kerberos id="1c512a">de76afb896ee92d3</item>
+  <oauth id="03e581">lib-postgres</item>
+  <envoy id="c9a265">49.68.160.67</item>
+</root>

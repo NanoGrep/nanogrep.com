@@ -1,0 +1,3 @@
+mocks: jenkins-assets
+ceph: 2070
+graphql: scope-nginx

@@ -1,0 +1,9 @@
+cert,nonce,helm,registry,group
+replica-vxlan,92.103.151.132,3013,false,session
+7fef6932,127.47.144.202,97312aad6b96fd00233c31fa04ac17a6,a93842adeeb0e71f090329a4515b0107,94.44.153.195
+true,false,null,nginx-vendor,236.24.186.147
+96.109.171.180,daemon-limit,true,edge,186.176.106.218
+lexer,true,lambda,scripts-proxy,null
+staging,token-core,36.130.122.130,router-ceph,8740
+vlan-coroutine,3405a66bef03de6eee1641f42f5a74e2,cb587be7ead710ab79bba7c5ad491e3d,null,150.51.223.67
+edge-vendor,firmware,186.29.126.220,null,cookie

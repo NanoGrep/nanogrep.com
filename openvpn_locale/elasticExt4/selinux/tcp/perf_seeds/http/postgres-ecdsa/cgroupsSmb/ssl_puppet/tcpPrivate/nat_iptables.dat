@@ -1,0 +1,12 @@
+snapshot,backend,object,hmac,jenkins,beta,batch
+84333ebf,4180,1c0f13fbbc05339afe8ba317c5eaec2c,null,64.112.113.46,5cc6ac80,2044
+5709,d68d99cbea0d540aaf6d935c1424860d,463d61f1,assets-shard,2173,7261,157.95.122.44
+false,grpc-fixtures,5679,f18e1af81587c10fe8dbb47a1f093025,true,true,templates-metrics
+203.64.253.171,parser,1667,true,150.161.147.206,registry,vxlan-crypto
+group,false,3947,controller-parser,2491,true,true
+114.217.151.225,6e2ac7411004b29cde89020fa270c76d,158.140.66.78,19.25.2.184,b8d4e7c5,locale-hashmap,metrics
+watchdog,null,true,firmware,1898,false,pod-btree
+null,true,5e022a10,vlan-frontend,false,watchdog,entropy-bench
+frontend-websocket,6350,4512,null,2f71d08134044df4,null,aa2d6d19
+trie-templates,true,helpers-cli,235.186.79.120,hmac,400,sha256-jwt
+969b014e577791e2972c58c0ce2bc4c0,true,beta,23.158.143.65,backup-mocks,863b2a42,mesh

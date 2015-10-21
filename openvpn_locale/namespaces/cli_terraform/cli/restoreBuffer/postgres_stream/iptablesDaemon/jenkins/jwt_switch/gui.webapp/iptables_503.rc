@@ -1,0 +1,13 @@
+[middleware]
+snapshot.shard = websocket
+shard_staging = true
+api_stack = policy-sandbox
+helpers.mutex = 5681
+daemonmirror = true
+json_aes = true
+logssandbox = 180.253.199.200
+streamwebsocket = sdk
+alertssystemd = registry-hotfix
+elastic_mysql = true
+vendor_dns = null
+lambda.zfs = d81f92334bca4b0a

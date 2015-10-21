@@ -1,0 +1,30 @@
+[
+  true,
+  [],
+  {
+    "cors": null,
+    "index": "rollback",
+    "hashmap": {
+      "build": {
+        "socket": "6482386030c3",
+        "gateway": true,
+        "beta": 8732
+      }
+    },
+    "cursor": {
+      "raid": {
+        "subnet": false
+      },
+      "quic": "mutex",
+      "patch": {
+        "proxy": "ldap",
+        "helpers": false,
+        "backup": null
+      },
+      "adapter": "scheduler"
+    }
+  },
+  {
+    "jenkins": true
+  }
+]

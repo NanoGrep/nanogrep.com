@@ -1,0 +1,16 @@
+assets:
+  pipeline: 2449
+  cache:
+    stack:
+      origin: 7e1bcd2b
+      batch: null
+      bench: 84.156.224.149
+      sha256:
+        - 0d3291f537e17bcf
+        - null
+    postgres: 6667
+    stream:
+      - 3607
+      - 8982
+      - 135.104.118.104
+buffer: daemon-traces

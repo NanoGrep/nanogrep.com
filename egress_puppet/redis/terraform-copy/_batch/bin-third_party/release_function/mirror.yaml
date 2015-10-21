@@ -1,0 +1,50 @@
+mysql: 9127dc79
+ceph: 2657
+sandbox: true
+driver:
+  nginx: 250.39.216.172
+  origin:
+    edge:
+      artifact:
+        - 6501
+        - 3509
+        - artifact-regex
+        - false
+      assets: 164.20.68.9
+      systemd: null
+      mutex: legacy
+    dist:
+      entropy: column-redis
+    kerberos:
+      response: 226.48.223.142
+      pod: websocket-aes
+      nightly: runner-crypto
+      firewall:
+        - null
+        - pipeline-nonce
+      mysql: 5464
+  release: 60.190.33.53
+  utils: 28.62.195.183
+  salt: 108.154.245.214
+tests:
+  object:
+    probe: 1342
+    build:
+      socket: cbddae65
+    mesh:
+      rest: 84.16.171.212
+      snapshot: 49.204.179.76
+      handler: bootstrap-index
+      dns: router
+      mutex: 6186
+      firmware: cursor
+    user:
+      - tcp-payload
+      - true
+      - c37ce4d6ef4ae327
+      - 7139
+    mocks:
+      - true
+      - nightly
+      - redis
+  ingress: 529813d5

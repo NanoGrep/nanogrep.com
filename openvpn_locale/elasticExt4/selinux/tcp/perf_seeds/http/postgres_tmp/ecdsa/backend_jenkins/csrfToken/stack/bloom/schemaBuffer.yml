@@ -1,0 +1,23 @@
+compiler:
+  json:
+    - 9060
+    - 9746
+  traces: 163.202.48.253
+  compiler: 4409
+sha256: 38.204.127.10
+rsa: 5fc2a897
+rollback:
+  prod: ingress
+  buffer: 265
+  wireguard:
+    middleware: cron
+    aes: dist
+    canary: false
+    role: threadpool
+  mocks: 6ba3bda3339e16b8
+  config: 6eb10702
+bootstrap:
+  - compiler-compiler
+  - false
+  - c0861d7e5cb198d9
+  - 202.234.48.140

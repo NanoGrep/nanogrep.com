@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+  <firmware id="ec370b">btree</item>
+  <compiler id="c7e517">9071</item>
+  <cluster id="8315d8">5243</item>
+  <logs id="b29484">f6747349</item>
+  <limit id="629992">4735</item>
+  <logs id="2bf4dd">bootstrap-protobuf</item>
+  <nat id="d962d8">107</item>
+  <config id="302a52">6910</item>
+  <dhcp id="ead3a3">6b77f4b4</item>
+  <column id="4f14b5">125.242.132.125</item>
+</root>

@@ -1,0 +1,25 @@
+[
+  false,
+  "9b9204a42e5a",
+  [
+    [],
+    [
+      [
+        false,
+        false,
+        true
+      ],
+      null,
+      false
+    ],
+    [
+      false,
+      {
+        "storage": 7816
+      },
+      "rollback",
+      []
+    ],
+    null
+  ]
+]

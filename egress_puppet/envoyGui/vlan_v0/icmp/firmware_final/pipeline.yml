@@ -1,0 +1,8 @@
+metrics:
+  release:
+    dns: 32e5ab8e1b218cf181b0f7e6c04e31a4
+  core: 4983
+  prometheus: bgp
+  pipeline: 4048
+  aes: null
+jenkins: watchdog

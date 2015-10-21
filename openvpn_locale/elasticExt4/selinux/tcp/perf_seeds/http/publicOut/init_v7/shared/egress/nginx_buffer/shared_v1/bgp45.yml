@@ -1,0 +1,5 @@
+mirror: hmac-hmac
+tls: true
+migrations: 125.167.73.94
+release: 223.120.170.115
+shard: ansible-user

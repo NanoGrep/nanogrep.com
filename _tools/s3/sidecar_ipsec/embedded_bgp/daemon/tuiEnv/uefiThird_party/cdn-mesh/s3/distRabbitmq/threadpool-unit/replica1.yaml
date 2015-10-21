@@ -1,0 +1,17 @@
+core:
+  nat:
+    scope: zfs
+    cache: 299b814821e96673
+  staging: false
+  payload: 9594
+cli:
+  - true
+mapper:
+  postgres: 5670
+  redis: 123.74.177.190
+sandbox: cad82d28
+payload:
+  - null
+  - backend-proxy
+  - true
+common: 2337

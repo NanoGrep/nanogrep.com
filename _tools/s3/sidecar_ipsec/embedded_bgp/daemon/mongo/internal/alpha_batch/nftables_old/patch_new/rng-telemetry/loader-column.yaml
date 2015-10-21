@@ -1,0 +1,9 @@
+tls:
+  json: 6174
+  worker:
+    bgp: 4218069c97e0f146a6fd4be3e5bc1267
+    frontend: 81.245.213.160
+    nfs: null
+    ceph: tools
+    cache: false
+    switch: ec1cf33a

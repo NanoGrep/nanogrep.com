@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<switch>
+  <quic id="71e4cb">json-pod</item>
+  <vault id="0c3923">index</item>
+  <stack id="6264e0">null</item>
+  <handler id="92070e">null</item>
+  <mocks id="a1d063">a1819380</item>
+  <sdk id="476afa">sha256</item>
+  <raid id="247770">6c336665e01f4a0e</item>
+  <stack id="6ee47a">session-nonce</item>
+  <registry id="f18f29">3639</item>
+  <mesh id="a4815e">helm-lib</item>
+  <token id="b13195">logs-firmware</item>
+  <limit id="1d9392">f49bf08a01429c44</item>
+  <dhcp id="f78b57">wireguard</item>
+  <nfs id="8d9300">132.241.148.77</item>
+  <cache id="6b5f9d">9.33.209.223</item>
+  <bucket id="e50cac">index-mqtt</item>
+  <table id="cc0bcc">build</item>
+  <jenkins id="527ac4">a49fd40f13f3764b</item>
+  <aes id="12fe23">156.247.191.228</item>
+  <legacy id="f49573">139.61.200.141</item>
+  <helpers id="3099d8">stack</item>
+  <jwt id="0f6878">5248</item>
+</root>

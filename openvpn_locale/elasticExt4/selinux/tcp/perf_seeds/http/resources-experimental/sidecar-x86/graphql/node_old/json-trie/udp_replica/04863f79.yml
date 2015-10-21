@@ -1,0 +1,33 @@
+sandbox:
+  helpers:
+    scripts:
+      assets: d1f745c1
+    config: kerberos-lambda
+    watchdog: null
+  sandbox: scope-core
+  fuzz:
+    failover: null
+    cgroups: 462da6744ae9b540
+    nat:
+      json:
+        - nightly-node
+        - 33e8a77a94268e1f
+      bench: d6536731361723c078a1e16d93d621e4
+      canary: e4ae7471a5f7fec90ead8fbdb7821edd
+      user: 84ba4c59243bc2ef832839116b89ae48
+    bucket: vault
+    runner:
+      raid: oauth
+    helm:
+      jwt: true
+      aes:
+        - entropy-firewall
+        - 32328f3aa70f0e6cdb7fa2b3d81dc763
+      iptables: 5642
+      vxlan: 237.162.238.53
+jwt: locale-bloom
+role:
+  - kafka-backup
+  - 226.118.146.77
+  - 9017
+  - 18b93457b1683b07

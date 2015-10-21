@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<http>
+  <index id="c70dd2">null</item>
+  <user id="3d4871">cursor-iptables</item>
+  <pod id="0686a6">111.2.224.205</item>
+  <crypto id="b65d54">vault-heap</item>
+  <audit id="9ee7d1">e33c73b3bc7796df26297204bfa10b8a</item>
+  <tls id="dc8254">9774</item>
+  <artifact id="6077ab">beta-tools</item>
+  <cluster id="a039a3">patch-proxy</item>
+  <edge id="9efcb7">208.87.114.138</item>
+  <websocket id="ac2fce">2611</item>
+  <vlan id="42b0a5">195.84.131.136</item>
+  <payload id="63b7f5">service</item>
+  <node id="afb44b">165.14.90.235</item>
+  <volume id="efce4a">false</item>
+  <firmware id="5c1340">topic-logs</item>
+  <group id="302f5b">true</item>
+  <user id="2c6a09">traces</item>
+  <grafana id="f734af">154</item>
+  <cron id="45eb3b">null</item>
+  <iptables id="38d68b">7142</item>
+</root>

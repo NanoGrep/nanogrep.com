@@ -1,0 +1,86 @@
+{
+    "build": false,
+    "queue": [
+        "column",
+        {
+            "rest": null,
+            "cluster": {
+                "frontend": "controller"
+            },
+            "metrics": true
+        }
+    ],
+    "btree": [
+        "b75b34cdcdf8",
+        {
+            "driver": "5db612f44496",
+            "crypto": [],
+            "api": "handler",
+            "batch": [
+                true,
+                true,
+                true
+            ],
+            "stack": 6324
+        }
+    ],
+    "router": null,
+    "logs": {
+        "lib": [
+            false,
+            5329
+        ],
+        "row": [
+            934,
+            {
+                "runner": "proxy"
+            },
+            {
+                "column": false,
+                "snapshot": null
+            },
+            {
+                "driver": false,
+                "lib": "lexer"
+            }
+        ],
+        "storage": [
+            {
+                "salt": true,
+                "helpers": null,
+                "hashmap": true,
+                "terraform": "c79fae799a20"
+            },
+            {
+                "sdk": null,
+                "ingress": "19c2228a0799",
+                "core": "e07a2159c32f",
+                "rollback": "utils"
+            }
+        ],
+        "protobuf": {
+            "nginx": 3692,
+            "zfs": "af41a3c334ff",
+            "nat": "traces",
+            "cgroups": null
+        },
+        "object": false,
+        "cron": [
+            {
+                "group": false,
+                "role": true,
+                "cli": "postgres",
+                "backend": 4102,
+                "hashmap": false
+            },
+            [
+                null,
+                false
+            ],
+            {
+                "kerberos": false
+            }
+        ]
+    },
+    "coroutine": true
+}

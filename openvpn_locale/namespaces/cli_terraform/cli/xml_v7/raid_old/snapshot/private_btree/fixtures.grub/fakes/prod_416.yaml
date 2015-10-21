@@ -1,0 +1,6 @@
+udp:
+  loader:
+    - f49cdb1ccf7c1fce5c3f3996d1020ab1
+    - 9bed65711f909927d4f17eec6c3f929a
+  metrics: 143.182.213.14
+systemd: 7f230c528a00aab96c1579ec61d97461

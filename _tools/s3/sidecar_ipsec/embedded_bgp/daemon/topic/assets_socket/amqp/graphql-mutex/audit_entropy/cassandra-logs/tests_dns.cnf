@@ -1,0 +1,72 @@
+[cursor]
+logs.bench = 224.252.210.23
+rsaldap = true
+http.cors = 204.19.247.64
+lexer_runner = bloom
+replicanode = column-driver
+nginxsystemd = hotfix
+ldapmapper = 1797
+bloom_cors = false
+bufferlocale = 6f3ad339798decf0024b9911de7cf4f3
+column.switch = 141.181.34.167
+common.udp = 133.113.147.143
+scripts_limit = false
+table_core = 106.203.4.32
+group_group = 74.27.171.48
+replica.websocket = 30.37.233.82
+helm.column = http-runner
+gateway.lib = systemd-parser
+configpostgres = tools-prod
+tests.nginx = 3021
+utilsstaging = 35.12.137.60
+cachestorage = api
+table.token = 36.216.9.30
+tls_build = false
+mqtt.audit = 72.39.80.197
+aes.rollback = nat-schema
+bench_scheduler = ab4d0f17f053fbad
+terraform_worker = 8943
+mockssha256 = b5ba28a7cae34f23
+middleware_policy = true
+
+[queue]
+storagemiddleware = 08e6b0e5
+nfsenv = null
+lib.migrations = 136.183.46.93
+helpers.session = 9ee2251e
+dist_backend = false
+runner_cursor = 35.158.99.233
+columnjenkins = table
+mongorequest = 8243
+prodlimit = 177.237.181.97
+benchyaml = 36.111.79.54
+batchswitch = 9807
+config.offset = 32a51c96
+buffermocks = 242.179.9.136
+subnet_semaphore = 89d9f061
+bootstraplocale = mysql
+udp_grafana = 4597
+heap.migrations = staging-fixtures
+response_tls = prod-nat
+volumekafka = 122.43.8.156
+rsa.semaphore = hotfix-nfs
+
+[yaml]
+frontend.mongo = assets
+replica_kernel = false
+
+[grafana]
+rollback_prod = 9980
+quicbucket = 151.169.106.190
+edge_scope = 8027
+logs.terraform = ceph-vlan
+bufferdist = 993bd39a
+replica_sha256 = 7473
+
+[redis]
+udp_release = 7258
+nightly.audit = origin
+grafananat = 6350
+nfs_zfs = session
+response_core = true
+lexer_adapter = logs-pipeline

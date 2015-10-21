@@ -1,0 +1,17 @@
+worker: false
+loader:
+  dhcp:
+    - 47.44.58.238
+    - 84f3be5e
+    - vendor
+replica:
+  stack: a9867ab5
+  router:
+    - nfs-vendor
+  offset:
+    - 1981
+    - storage-fixtures
+snapshot: 4801
+daemon:
+  - mongo
+  - 28fbcb50

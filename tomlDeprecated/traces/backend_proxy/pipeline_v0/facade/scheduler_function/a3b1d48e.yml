@@ -1,0 +1,16 @@
+payload: assets-cookie
+request:
+  - 9354a6cc
+controller:
+  service:
+    graphql:
+      subnet: 134.21.209.213
+      response: subnet
+    mapper: 154.127.161.42
+    vault: 192.21.7.144
+wireguard: jwt-frontend
+hotfix: 1.195.42.19
+config:
+  - 25.105.236.10
+  - aa0321a350c15fed
+  - 1649

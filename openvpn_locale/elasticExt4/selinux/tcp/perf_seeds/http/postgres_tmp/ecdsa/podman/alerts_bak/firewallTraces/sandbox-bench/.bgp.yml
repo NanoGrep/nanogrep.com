@@ -1,0 +1,5 @@
+wireguard: controller-group
+firmware: 1870
+token: 178.20.91.133
+failover:
+  subnet: 157.162.123.112

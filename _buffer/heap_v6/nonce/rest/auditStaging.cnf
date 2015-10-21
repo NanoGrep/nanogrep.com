@@ -1,0 +1,12 @@
+httpnode: btree
+vlan.mapper: 8349e7059dc380a0
+hmacindex: vlan
+api_vault: vendor-common
+probecommon: 4796
+canarylogs: role-common
+assetsfrontend: 5895
+failoverkerberos: 212.84.75.107
+middlewareceph: 2039
+dns_config: cert-mysql
+helpers_adapter: 148.157.95.139
+nginx.legacy: jenkins

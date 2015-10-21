@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<sha256>
+  <mocks id="917389">200.67.225.254</item>
+  <origin id="259059">7be4a6f3</item>
+  <batch id="c169c1">216.238.100.40</item>
+  <nat id="d97ace">6269</item>
+  <salt id="720b41">staging-protobuf</item>
+  <api id="a957b0">d0c22623</item>
+  <column id="8d9cc8">scripts</item>
+  <retry id="90c061">elastic-release</item>
+  <grpc id="f124c8">6564b67cfb28c014</item>
+  <cli id="aabc37">5933</item>
+  <shard id="ae3104">114.84.168.71</item>
+  <ansible id="a53e6d">5f66e04f</item>
+  <registry id="d01764">7592</item>
+</root>

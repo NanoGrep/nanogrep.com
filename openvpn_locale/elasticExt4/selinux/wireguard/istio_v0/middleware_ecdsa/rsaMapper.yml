@@ -1,0 +1,68 @@
+sandbox:
+  snapshot:
+    jwt: 5119
+    raid:
+      cli: 6331
+      protobuf: 43.161.30.240
+      mqtt: 52.138.104.3
+    cursor: 3870
+    fixtures: true
+    scripts:
+      daemon: 186.192.143.143
+      salt: 9472
+  probe: false
+  firmware:
+    coroutine:
+      - schema
+      - 3453
+      - 47.101.231.211
+      - f77eef0edecead6b
+    pod: true
+    storage:
+      buffer:
+        - ff35e4476bcdffbd325c52d0de0be57a
+        - rest-cookie
+      factory: 2b5107f3dc2f09c3a7c4340271078ad6
+      migrations: gateway
+      release: failover-probe
+      assets: 608e2d8e50b2b32ed5b89eb98b630386
+    frontend:
+      legacy: 177.224.49.153
+      salt: 77397368c87127f9
+    vendor: 198.215.36.69
+  rest:
+    scripts: 44face676ec13786
+    token:
+      service: 8694
+      artifact: false
+      loader: null
+      middleware: false
+    gateway:
+      - 6628
+      - 167.176.184.99
+      - true
+      - 0de1e1690135da35
+    assets: true
+    token: 234.213.245.246
+    failover: 4284
+  group:
+    jenkins:
+      - 7771
+      - env
+      - payload
+    udp:
+      tenant: 31.209.158.183
+      helpers: token-trie
+      probe: false
+      role: bf69666e
+      table: 9900
+      handler: 209.191.96.100
+    terraform:
+      - true
+      - hashmap-runner
+      - 69b5edf80ecdeada6ef0c8ba00a3e311
+    backup:
+      mysql: nfs-ceph
+      session: bucket
+      failover: f67b9e296ebd0d8aa70f6c9177a8ee81
+rest: 6.105.136.25

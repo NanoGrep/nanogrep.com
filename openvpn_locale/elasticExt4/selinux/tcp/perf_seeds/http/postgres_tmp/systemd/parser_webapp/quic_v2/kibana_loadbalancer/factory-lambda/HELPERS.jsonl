@@ -1,0 +1,96 @@
+[
+  {
+    "lib": {
+      "policy": true,
+      "vault": {
+        "shard": "a3d0a14e6fed",
+        "cron": 5804,
+        "protobuf": false
+      },
+      "build": true,
+      "buffer": {
+        "entropy": true,
+        "registry": 9295,
+        "snapshot": false,
+        "object": true,
+        "volume": true
+      },
+      "oauth": [
+        "retry",
+        null
+      ]
+    },
+    "loader": [
+      {
+        "pipeline": "c726c9135dee"
+      },
+      {
+        "utils": null,
+        "gateway": false,
+        "topic": 566
+      },
+      "bd52826ed131",
+      "vault"
+    ],
+    "trie": {
+      "gateway": {
+        "canary": "1f274dd40dd2",
+        "jwt": true,
+        "raid": 276,
+        "sdk": false,
+        "frontend": "38372fced7b8"
+      },
+      "scripts": 9582,
+      "runner": {
+        "iptables": true,
+        "elastic": "watchdog",
+        "volume": "6879ab084395",
+        "api": "envoy",
+        "regex": 890
+      },
+      "hmac": true
+    },
+    "jenkins": [
+      {
+        "kerberos": null,
+        "edge": 6202,
+        "origin": null,
+        "mutex": "4616c12d26be",
+        "common": null
+      },
+      {
+        "schema": "bootstrap"
+      },
+      {
+        "protobuf": 3624,
+        "worker": false,
+        "tcp": null,
+        "cluster": false
+      }
+    ],
+    "websocket": {
+      "request": "ceph"
+    },
+    "worker": null
+  },
+  false,
+  {
+    "dns": "f37072bb9845",
+    "staging": "aes",
+    "semaphore": {
+      "sdk": [
+        false,
+        false,
+        true,
+        null
+      ],
+      "cert": "fuzz",
+      "replica": 4989,
+      "envoy": null,
+      "queue": 8207
+    },
+    "storage": {
+      "migrations": "1ec2e02182e3"
+    }
+  }
+]

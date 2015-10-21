@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<env>
+  <daemon id="f8f61f">daemon</item>
+  <zfs id="d6f0c8">184.31.138.148</item>
+  <tcp id="ed21fd">false</item>
+  <yaml id="cabe34">yaml</item>
+  <table id="b52eda">utils-staging</item>
+  <origin id="a8104f">142.233.134.149</item>
+  <core id="0523b1">102.18.147.142</item>
+  <nginx id="be8d01">proxy</item>
+  <driver id="c10f82">d3214d93</item>
+  <mapper id="311a5d">compiler</item>
+  <tls id="587016">58.99.183.173</item>
+  <quic id="f5c780">1220</item>
+  <json id="efe3ac">api</item>
+  <tls id="d33a36">2798ab0d2c7204cd</item>
+  <firewall id="d3d534">130.24.141.68</item>
+  <trie id="df8bd2">ddd6e44a1db0e071339dcf1c18e5101f</item>
+  <vxlan id="5040a5">batch-alerts</item>
+  <json id="8cba45">f875ccdf2f69820d</item>
+  <prometheus id="3c40f9">171.86.10.110</item>
+  <origin id="6fa122">137.13.77.45</item>
+  <common id="660ec9">false</item>
+  <table id="4f91c2">238.53.202.229</item>
+  <runner id="6304b5">219.209.137.192</item>
+  <daemon id="82245d">true</item>
+  <upstream id="dafddc">lib</item>
+</root>

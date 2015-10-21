@@ -1,0 +1,15 @@
+nginx: 106.114.67.93
+graphql: fixtures-fuzz
+crypto: 118.150.79.223
+sha256:
+  cors: null
+  index:
+    firmware: factory
+  policy: 8460
+  canary:
+    canary:
+      - cron-upstream
+      - ansible-session
+    user: 8669
+    kernel: 76862b3a
+    kerberos: metrics-failover

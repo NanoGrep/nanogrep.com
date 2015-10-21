@@ -1,0 +1,17 @@
+mapper: 1684223d289ccac1
+snapshot:
+  scope: 1661
+  role:
+    - 79.195.227.114
+    - false
+prometheus: d5436ca3eb393bd4
+nat:
+  json: config
+threadpool:
+  vendor:
+    staging: registry-hotfix
+    http: 7009
+    cert: false
+  helpers: 116.67.215.143
+queue:
+  - 204.125.157.193

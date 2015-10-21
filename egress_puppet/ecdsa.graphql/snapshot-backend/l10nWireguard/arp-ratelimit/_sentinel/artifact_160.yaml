@@ -1,0 +1,26 @@
+helpers: redis-ldap
+api: heap-iptables
+protobuf: 191.173.211.63
+registry:
+  edge:
+    tcp:
+      bootstrap: 3068
+      proxy: null
+      common: 5.173.52.223
+      helm: 52.98.17.44
+    helpers:
+      tls: ae20cdfda00ead81
+      registry: worker-logs
+    firewall: compiler
+    cgroups:
+      - null
+      - 146.105.154.199
+    bgp:
+      scripts:
+        - prometheus
+      threadpool: false
+      user: coroutine-vlan
+    edge: envoy-ceph
+  rollback: 139.54.183.56
+  raid: config-tcp
+  upstream: true

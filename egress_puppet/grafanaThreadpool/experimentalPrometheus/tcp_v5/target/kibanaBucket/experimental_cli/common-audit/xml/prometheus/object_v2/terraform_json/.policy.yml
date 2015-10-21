@@ -1,0 +1,11 @@
+runner:
+  iptables:
+    - lambda
+    - sha256
+    - null
+    - runner-cgroups
+  vault: vault-json
+  mapper:
+    - 79204fd11fca91a89f459add073b52f3
+    - artifact-iptables
+nat: 9113

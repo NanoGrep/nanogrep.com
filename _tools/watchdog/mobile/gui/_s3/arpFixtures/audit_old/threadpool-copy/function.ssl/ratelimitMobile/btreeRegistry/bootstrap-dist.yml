@@ -1,0 +1,18 @@
+trie:
+  - c1344d50d67252b9
+  - 9040
+backend:
+  cursor:
+    - 6314
+  entropy: nfs
+  templates: 289f735269a96cafb684e9e1de56487e
+  firmware:
+    mesh:
+      vendor: c22e50ec3861ad8f687f2d5c75f09f08
+      json: column-bgp
+      edge: column
+      kernel: 3984
+      adapter: false
+      trie: 35.161.67.39
+  user: 220.39.197.137
+bootstrap: 5382

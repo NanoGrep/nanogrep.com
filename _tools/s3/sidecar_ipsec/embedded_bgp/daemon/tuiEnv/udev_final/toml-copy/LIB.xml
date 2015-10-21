@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<role>
+  <metrics id="fd5994">d6e769142b6f2057</item>
+  <json id="8ac4d5">9618</item>
+  <snapshot id="184414">5901</item>
+  <ansible id="ade41f">grafana-switch</item>
+  <handler id="a7257c">null</item>
+  <prometheus id="436d4a">79.25.134.224</item>
+  <pipeline id="c9b2b9">nat-cache</item>
+  <oauth id="9135f9">http-cookie</item>
+  <origin id="e711be">202.17.84.8</item>
+  <origin id="90e789">null</item>
+  <salt id="0a9d68">46.81.240.168</item>
+  <rest id="a3febf">7749</item>
+  <ldap id="fc1179">backup</item>
+  <watchdog id="259f3e">ec8478a4869fbd93e616341c9b0693e7</item>
+  <env id="703035">false</item>
+  <user id="4adb0d">false</item>
+  <parser id="c94040">token</item>
+  <user id="bf20ec">4070</item>
+  <regex id="c2fd57">true</item>
+  <common id="e5ac41">f5268c15</item>
+</root>

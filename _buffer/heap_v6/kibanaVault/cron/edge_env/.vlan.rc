@@ -1,0 +1,44 @@
+[scripts]
+artifact_token = rest
+kerberosworker = firmware-common
+threadpooljenkins = null
+zfs_kernel = rollback-driver
+jwtbackup = 6495
+apiscripts = 8233
+lambda.artifact = 239.254.18.5
+alertsmigrations = terraform
+cli.vendor = 184.7.65.230
+rsacors = f483bdbc
+registry_lexer = cookie
+bloom.core = stack
+
+[batch]
+systemdmiddleware = 75
+protobuf_scope = 38.1.211.24
+pipeline.parser = 2a6bd904
+volume.batch = 8966
+systemd_release = false
+mqtt.row = b6affe51b9b8a599
+sdk_build = firewall-systemd
+oauth_bootstrap = index-bloom
+btree_topic = null
+nodealerts = factory-bootstrap
+jenkins.lib = ed40b5e016e7d6603c0f4181340358de
+row_release = 2508
+stack.rest = 7087
+index_backend = 3563
+batchprotobuf = rest-tcp
+redis_scripts = null
+grpccgroups = bgp
+middleware_policy = fe2fad8091aa01309945e36fbf630cfd
+sha256_mesh = logs
+postgres.crypto = runner-ldap
+stack.heap = a7912cec377782ba
+benchfixtures = tests-cors
+semaphorenfs = false
+cache.request = 242.120.221.113
+schemabench = 208
+protobuf_router = 2.244.197.43
+distsocket = storage
+watchdoglegacy = true
+ldappostgres = true

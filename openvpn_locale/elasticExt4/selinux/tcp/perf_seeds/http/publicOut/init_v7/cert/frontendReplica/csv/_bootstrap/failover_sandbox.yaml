@@ -1,0 +1,17 @@
+lambda: salt-sandbox
+proxy:
+  crypto:
+    - null
+    - 107.150.104.100
+    - 48165183
+    - c51257bfaac18663
+  systemd:
+    - 104.13.143.229
+    - 6514
+    - mongo
+  cli: true
+  offset:
+    - ingress
+    - ef4370f182a1f3c9b67120deb1471b26
+  payload: true
+  envoy: btree

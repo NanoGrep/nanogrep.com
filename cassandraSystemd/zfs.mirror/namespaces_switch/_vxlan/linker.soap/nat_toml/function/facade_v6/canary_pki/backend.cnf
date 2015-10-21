@@ -1,0 +1,81 @@
+[mapper]
+kerberosmocks = null
+grafanafirmware = 1948333c4bc3433a
+nightly.buffer = 53.253.4.208
+patch_bgp = payload-terraform
+metrics_legacy = loader-crypto
+graphql.cert = policy-shard
+cephprometheus = false
+mapper.vault = 591c56dd8bb40164ab761fc7ebce2d14
+heaphmac = stream-migrations
+scope.build = 107.42.29.56
+lexer.tests = b18c0150b3535289ad6072cbcd5fe1ad
+protobuf_salt = 163.73.151.191
+socket.tcp = legacy-migrations
+firmware.dns = probe-hmac
+raid.rollback = quic-salt
+graphql_bloom = alerts
+registry.artifact = 42.248.175.224
+backend.cli = middleware
+subnetcommon = cookie
+session.upstream = role-ansible
+nfs.snapshot = 9536dfec
+ansiblegroup = false
+
+[kernel]
+vxlan_udp = b32514d7
+websocket.semaphore = bench
+tools.shard = 199.220.59.205
+trie_hotfix = column
+firewall.core = null
+sha256.retry = 6942
+indexutils = helm-quic
+jenkins_dist = nonce-cors
+
+[backup]
+buildrow = column
+zfs_graphql = 8.94.146.204
+vlan.kafka = 4953
+tenant.cookie = false
+graphql.assets = grafana
+dnsmutex = pod
+hmacvault = 158.13.178.158
+tcpdhcp = token-threadpool
+yaml_protobuf = 6cac5c961dc41cdca3818be827395e3d
+
+[registry]
+elastic.probe = systemd-nat
+restansible = false
+terraform_column = ingress-raid
+pipeline_hmac = false
+volumeshard = gateway
+bootstrap_role = 9083
+utilsnonce = 5138
+hmac_redis = 5844
+
+[terraform]
+raid.ansible = 8226
+offset.vlan = 978fdfccedcc820d
+handler_scope = 4150
+prod.tls = b581afcebaf84e2f
+tableparser = lambda-upstream
+replicaheap = jwt
+envoy.bgp = rsa
+replica_driver = 6475
+bootstrap.hotfix = true
+btree.elastic = 798
+scripts_locale = entropy
+canary_zfs = 396beefca8742b08d6c8278f33602698
+grafanacrypto = 44e4b68623909a42920cce4aac1156d9
+nightlycore = 1035
+controller.cli = 7430
+jwtrunner = 9781
+registry.core = rest
+scope.failover = mutex
+vlanldap = 87314761bb035efbd9cb2e43082bae97
+quicdist = false
+locale.oauth = 16bf35458fce5995
+socket.token = 334
+rsagrpc = 36.203.254.241
+kafka_batch = 3247
+queue_volume = false

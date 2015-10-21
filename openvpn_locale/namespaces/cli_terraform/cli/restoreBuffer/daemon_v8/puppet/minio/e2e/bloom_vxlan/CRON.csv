@@ -1,0 +1,7 @@
+role,wireguard,frontend,artifact,user,protobuf
+column-wireguard,false,84.213.162.179,firewall-group,logs,cron
+schema-tcp,volume,2636,true,193.71.187.62,false
+true,token-mapper,failover-bloom,false,70f8c291e4bb4100,true
+nat,83.197.156.238,aes,postgres,f65fc0d3,1815
+true,54.209.230.42,165.239.118.82,5293,235.11.232.10,false
+true,utils,95.76.153.14,662,true,null

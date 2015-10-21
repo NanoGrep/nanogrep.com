@@ -1,0 +1,81 @@
+[mutex]
+prometheus_tests = cluster-lib
+jsonbench = 171.143.147.34
+queue_upstream = 5265
+user.rollback = true
+legacy.lib = 209.9.248.163
+registry.udp = 9187
+firmware_rsa = controller-mongo
+audit.release = 65.156.222.108
+trie_nginx = 183.44.43.61
+mqtt.kerberos = dist
+prometheus_daemon = topic
+templateshotfix = 187.206.28.191
+
+[semaphore]
+jenkins_mesh = oauth
+session_grafana = 4915
+batch_origin = 61.22.94.206
+grafana_compiler = null
+row_snapshot = false
+usersocket = 2711
+prodsubnet = 3028
+hotfix_token = payload-heap
+workerenvoy = 9.82.71.77
+loader.tls = metrics-group
+cephcommon = vxlan
+build_dist = 293de24c98e24a67
+env.rest = wireguard
+frontend.watchdog = 8443
+fuzzaes = 37db314b5e4a54f07db2f86e2f6aad41
+object.offset = true
+sockethandler = migrations
+queue_frontend = snapshot
+tenant_regex = 28.166.62.160
+hashmap_cgroups = 5893
+
+[cors]
+crypto.upstream = 2731
+core.upstream = frontend
+workermiddleware = false
+tablecompiler = 7101e670f9e05b366b3f0e5a7b2fb20f
+schematopic = 0728b1ca04162064
+runner.volume = 8266
+http_firmware = limit
+mutex.heap = true
+threadpool.response = iptables
+bucket.nonce = 14.240.161.29
+protobufrsa = 3021
+salt_lexer = true
+core_trie = edge
+user.vlan = ddebe77b651d84cd164216125a6d71d6
+mysql.backend = rest
+alertscontroller = c8cf0a05
+core_cli = 5310
+udprunner = mirror
+mocks.column = true
+routerentropy = null
+tcp.prod = false
+wireguardindex = 1398
+index.policy = staging-jwt
+metrics.vendor = 7646
+
+[table]
+edge.session = 214.240.0.89
+legacy_tenant = mutex-templates
+gatewayadapter = 162.112.124.109
+scope.ingress = 261b06e6640167be62cd09a616c7960f
+nightly_salt = 1405
+helpers_limit = 5.129.253.209
+ingress.sandbox = 91.218.204.72
+raid_service = 9f53406bd7f411b7f875737abe17f504
+
+[user]
+limitrunner = crypto-ldap
+entropy_bgp = node-user
+templatesbootstrap = utils
+requestprod = 70.116.187.94
+middleware_kernel = bootstrap-raid
+index.stack = 6361
+quic_templates = 4642
+ldapoauth = true

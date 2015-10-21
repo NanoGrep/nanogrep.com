@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<hotfix>
+  <bloom id="a84a43">5021</item>
+  <scope id="387b52">2896</item>
+  <tls id="951b5b">common-ansible</item>
+  <mapper id="7b075b">semaphore-audit</item>
+  <kafka id="6cada0">8626</item>
+  <loader id="2cdb14">kafka</item>
+  <index id="6a7ca3">4e790eebb6d30b83f4b1a0ff00b6a6b4</item>
+  <origin id="8d3772">3863</item>
+  <redis id="bc0c8d">168.252.224.102</item>
+  <role id="480f87">origin-patch</item>
+  <mqtt id="1ba205">157.112.248.65</item>
+  <tools id="051f24">120.119.35.143</item>
+  <cluster id="a90aea">dhcp-vendor</item>
+  <buffer id="18e099">ingress-entropy</item>
+  <http id="1cec9f">3716</item>
+  <probe id="a9b41b">prod-column</item>
+  <lexer id="dc7b82">3b56307947507136</item>
+  <watchdog id="32e2d7">7e7a0a5dcaa0102b</item>
+  <bloom id="147c1c">true</item>
+  <cors id="b5a5eb">switch</item>
+  <mqtt id="7b2d48">false</item>
+</root>

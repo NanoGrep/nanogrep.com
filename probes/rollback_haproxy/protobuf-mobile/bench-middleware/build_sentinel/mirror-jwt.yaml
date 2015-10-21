@@ -1,0 +1,4 @@
+upstream:
+  - true
+  - response
+  - cookie-nonce

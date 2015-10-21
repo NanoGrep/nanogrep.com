@@ -1,0 +1,150 @@
+{
+  "locale": "8090e62356b3",
+  "mqtt": true,
+  "daemon": null,
+  "mocks": {
+    "request": "0466ca3a4938",
+    "bench": {
+      "socket": true,
+      "object": [
+        false
+      ],
+      "sha256": false,
+      "factory": {
+        "response": true,
+        "wireguard": "54edbfd61b31",
+        "rollback": "b31baca2f01b",
+        "yaml": null,
+        "mesh": true,
+        "payload": "07dad941bcc7"
+      },
+      "prod": "314c333210e5"
+    },
+    "bloom": {
+      "mutex": false,
+      "storage": null,
+      "kafka": {
+        "kernel": true,
+        "worker": "e00f16a6ec24",
+        "snapshot": false,
+        "edge": 6463,
+        "postgres": "factory",
+        "nfs": false
+      },
+      "audit": [
+        true,
+        null,
+        "997207dd045a"
+      ],
+      "hashmap": null,
+      "canary": {
+        "ansible": null,
+        "nightly": "be671dbb7767",
+        "mirror": "2ffa0801b703",
+        "elastic": "wireguard",
+        "cert": "schema",
+        "artifact": true
+      }
+    },
+    "proxy": [
+      true,
+      [
+        "build",
+        null
+      ],
+      {
+        "scope": "6522af20bbc2"
+      }
+    ],
+    "ceph": {
+      "quic": 678,
+      "cli": {
+        "handler": 1446,
+        "tls": "fdaf2f44a281",
+        "probe": false,
+        "templates": null,
+        "storage": "nfs",
+        "bench": "8cf1bd1b21d8"
+      },
+      "tests": [
+        "bench",
+        true
+      ],
+      "offset": {
+        "buffer": false,
+        "role": "7054d6dceef3",
+        "stream": null,
+        "session": true
+      },
+      "canary": [
+        "b5d95c254664",
+        "lib",
+        true,
+        "6d620598d78f"
+      ],
+      "sandbox": {
+        "pod": null,
+        "rollback": null,
+        "dns": null,
+        "registry": 5640
+      }
+    }
+  },
+  "crypto": [
+    {
+      "kernel": 8145,
+      "vendor": null
+    },
+    {
+      "frontend": null,
+      "parser": {
+        "yaml": true,
+        "request": false,
+        "table": "9b0e1b33ed9f",
+        "node": false,
+        "schema": true,
+        "router": null
+      },
+      "row": {
+        "btree": null,
+        "frontend": "token",
+        "grpc": "0f3baa9ea04f",
+        "group": 2664
+      },
+      "subnet": {
+        "cgroups": true,
+        "worker": null,
+        "quic": "vendor",
+        "cluster": null,
+        "patch": false
+      },
+      "backend": {
+        "subnet": null,
+        "session": true
+      },
+      "offset": true
+    },
+    null,
+    {
+      "core": true,
+      "artifact": [
+        5975,
+        null,
+        "2bc3d8d1e0b0"
+      ]
+    }
+  ],
+  "oauth": {
+    "tcp": true,
+    "btree": [
+      {
+        "router": "65a72220d47c",
+        "helpers": null,
+        "table": null
+      },
+      {
+        "row": true
+      }
+    ]
+  }
+}

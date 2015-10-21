@@ -1,0 +1,43 @@
+cert: 8c3220b0140e23d9
+volume:
+  bucket: runner-release
+  protobuf:
+    metrics: prometheus
+  regex:
+    registry: 6d58f04753072aa6
+    raid:
+      - 247
+      - 6569
+      - 36.35.15.163
+    daemon: true
+    stream:
+      group:
+        - false
+      nfs: 1375
+      elastic: true
+      bloom: true
+  audit:
+    kerberos: cookie
+    payload: false
+    column: 5863
+token:
+  traces: firewall-http
+  hotfix:
+    alerts: dist
+  service:
+    node: c8367975b7c09c4d
+    firewall: 9950
+coroutine: 1729
+gateway:
+  legacy:
+    cert: 8039
+    router: 1413
+    adapter:
+      elastic:
+        - 248.248.53.195
+      threadpool: 9.40.213.251
+      crypto: true
+    tcp: 195
+  patch: fff525be
+  beta: 30.124.111.38
+release: false

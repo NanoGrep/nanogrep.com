@@ -1,0 +1,35 @@
+edge:
+  bgp: true
+buffer: nat-envoy
+http:
+  cgroups:
+    iptables: service-artifact
+    jwt: elastic-nginx
+  mapper: false
+  legacy:
+    origin: 50.235.10.252
+    compiler:
+      cron: 108.109.134.13
+      prometheus: 1262
+  core: 138.118.215.31
+  prod:
+    scheduler: 952
+    payload:
+      pod: offset-replica
+      postgres: 3626
+      protobuf: null
+    lambda: websocket
+    elastic:
+      - websocket
+      - 2383
+      - node
+      - null
+  sha256:
+    offset: factory-scripts
+    router:
+      - watchdog
+      - 177.201.216.36
+      - request
+      - grafana
+    scope: lambda-trie
+fixtures: 32.18.6.43

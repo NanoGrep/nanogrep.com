@@ -1,0 +1,38 @@
+[beta]
+stagingbuild = 44.250.133.36
+mirrorfrontend = null
+lambda.env = 169605da
+firewall_firewall = runner-proxy
+daemon_offset = config-legacy
+scope.http = 3bc480522629c05e
+watchdog_protobuf = 225.63.59.198
+hotfixfactory = 81aca848cb9665cd52bfd750430df410
+compiler_beta = aes
+threadpoolwireguard = fuzz-heap
+patch.grpc = nonce
+cert.config = quic-middleware
+adapter.elastic = 6409
+aes.rollback = 1e3acc9d
+bgp.jenkins = true
+hmacparser = 228.24.246.53
+crypto.core = true
+websocketobject = factory-request
+coroutineretry = null
+tlsrow = edge-wireguard
+releaserouter = grpc
+helpersenv = 124.34.83.196
+daemon_ansible = a3cbc748
+systemdcompiler = false
+
+[cron]
+ingress.coroutine = tools
+frontend_worker = 105.252.223.7
+session_alerts = mirror
+
+[websocket]
+column.migrations = lambda
+bootstrapvlan = mongo
+parser_nginx = 8909
+alerts_probe = 6a32b56ce6730cd0
+sha256release = 7150
+vxlan_stream = volume

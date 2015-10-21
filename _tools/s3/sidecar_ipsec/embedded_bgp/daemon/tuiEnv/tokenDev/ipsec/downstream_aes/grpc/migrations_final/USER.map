@@ -1,0 +1,16 @@
+[
+  {
+    "switch": [
+      null
+    ],
+    "env": false,
+    "audit": {
+      "proxy": [],
+      "request": "cache",
+      "core": 1203,
+      "router": true,
+      "daemon": []
+    },
+    "gateway": "subnet"
+  }
+]

@@ -1,0 +1,31 @@
+core:
+  systemd:
+    - parser
+    - 4013
+    - 7561
+    - 6633
+  systemd:
+    stream: de2fa1d9b792901ce175050d2cacacfa
+    driver:
+      locale: false
+      bootstrap: 7694
+      group: true
+      jwt: 2815
+      tests: 135.96.137.169
+    patch: crypto
+    registry: false
+  hotfix:
+    rest: 113.209.138.231
+    lambda:
+      quic: storage
+      scripts: 226.228.149.154
+    rest: 165.150.33.224
+    logs: hashmap
+  yaml:
+    retry:
+      kerberos: null
+      worker: 6350
+      kafka: true
+      mocks: null
+    nightly: loader-tls
+    audit: 57.193.62.108

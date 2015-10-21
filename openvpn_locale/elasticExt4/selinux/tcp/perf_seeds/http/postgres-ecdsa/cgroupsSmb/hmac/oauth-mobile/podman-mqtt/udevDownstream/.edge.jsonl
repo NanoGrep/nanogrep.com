@@ -1,0 +1,18 @@
+{
+  "limit": {
+    "upstream": 5951,
+    "node": [
+      {
+        "websocket": true,
+        "metrics": "5baa82fb6818",
+        "grpc": false,
+        "aes": false,
+        "cursor": false,
+        "bucket": null
+      },
+      false
+    ]
+  },
+  "tls": true,
+  "policy": "dc0d573c75dd"
+}

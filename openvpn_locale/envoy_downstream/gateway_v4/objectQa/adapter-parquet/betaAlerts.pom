@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<watchdog>
+  <oauth id="9b7f7d">bootstrap-http</item>
+  <vendor id="3068f3">108</item>
+  <fixtures id="c1f51d">136.189.253.6</item>
+  <registry id="f27b0a">false</item>
+  <daemon id="911619">94a941463264cb93</item>
+  <udp id="0fd907">e9e1f2ea</item>
+  <redis id="5199f5">3911</item>
+  <ldap id="ce1bb5">true</item>
+  <response id="75b00e">scope-index</item>
+  <hotfix id="321179">adapter</item>
+  <zfs id="ae3d4f">be5b4e4c8ad24ee578002d23b6a460c8</item>
+  <index id="18e787">sha256-protobuf</item>
+  <ingress id="b0ad41">136.241.69.110</item>
+  <nfs id="87f9f5">11964af4403b831bdcb4d7191c130e96</item>
+  <semaphore id="ff5119">beta-salt</item>
+  <helm id="12c498">174.166.244.192</item>
+  <terraform id="808350">128.114.183.79</item>
+</root>

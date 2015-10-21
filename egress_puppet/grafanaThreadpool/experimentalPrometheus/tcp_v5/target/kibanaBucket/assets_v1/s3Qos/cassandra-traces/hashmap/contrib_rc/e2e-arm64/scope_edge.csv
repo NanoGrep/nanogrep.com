@@ -1,0 +1,5 @@
+cli,compiler,staging,probe,fixtures,sdk,vault
+bgp-storage,6801,3046878f,3028,storage-threadpool,92235b2a,stack-node
+nonce,0cbe18a6,null,elastic,index-sandbox,998782b7,7b10b18d7a8b083990674699b2b23a2e
+true,parser,pipeline-gateway,stream,04a80b1e0600a1d23b19a666801b244a,149.66.253.157,1275
+6666,206.241.113.158,mocks,2209,null,93fc0236,27.237.187.4

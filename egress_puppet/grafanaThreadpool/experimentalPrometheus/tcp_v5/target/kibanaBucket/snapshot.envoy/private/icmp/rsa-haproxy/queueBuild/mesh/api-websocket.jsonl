@@ -1,0 +1,28 @@
+{
+    "cursor": null,
+    "controller": false,
+    "failover": [
+        9634,
+        [
+            {
+                "role": true,
+                "nonce": true
+            },
+            [
+                null,
+                null,
+                "166b5808e1d2",
+                1060
+            ]
+        ],
+        [
+            [
+                "common",
+                "d31bb505bdee",
+                false
+            ],
+            null,
+            false
+        ]
+    ]
+}

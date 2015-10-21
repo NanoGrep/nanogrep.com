@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<row>
+  <dist id="bd359d">beta-lambda</item>
+  <cluster id="ed25e5">296e43febf99a26b3834a4c8b9f26048</item>
+  <daemon id="1022b4">50.146.10.74</item>
+  <bucket id="8ec20a">76.219.151.150</item>
+  <gateway id="2c1ce3">request</item>
+  <cron id="980018">null</item>
+  <logs id="d2e4e8">websocket</item>
+  <zfs id="b1e25a">null</item>
+  <retry id="059162">9117</item>
+  <protobuf id="25ca0d">heap</item>
+  <handler id="bcafce">hashmap-mirror</item>
+  <env id="2f7b77">90.244.23.83</item>
+  <queue id="97467e">parser-pipeline</item>
+  <ceph id="25279c">3828</item>
+  <utils id="5bd9a8">false</item>
+  <tools id="ac8738">6272</item>
+  <kerberos id="da1c3f">148.197.206.147</item>
+  <controller id="f7b424">6c4717a00586daaab9c1140a3c4fbd91</item>
+  <tls id="38dda3">true</item>
+  <controller id="258777">8c3d78b5</item>
+  <regex id="7bc563">salt-zfs</item>
+  <cache id="7f8416">null</item>
+  <frontend id="5be354">quic-vendor</item>
+  <socket id="5adc01">heap-bucket</item>
+  <rsa id="57d704">offset</item>
+</root>

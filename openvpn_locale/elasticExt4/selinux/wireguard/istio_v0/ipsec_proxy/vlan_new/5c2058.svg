@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<wireguard>
+  <vault id="136f19">udp</item>
+  <snapshot id="2b74a6">true</item>
+  <ingress id="07d190">migrations-coroutine</item>
+  <rsa id="1a7b45">656</item>
+  <node id="48716c">request</item>
+  <nat id="5fe3b0">policy-cache</item>
+  <btree id="b8283b">rollback</item>
+  <cluster id="14fb34">5607</item>
+  <ingress id="52db51">null</item>
+  <dns id="445bba">switch-lambda</item>
+  <column id="aa0805">cd023fd1</item>
+  <backup id="b2f082">migrations-request</item>
+  <websocket id="ab7be3">null</item>
+  <kerberos id="3465b0">false</item>
+  <zfs id="7382b0">2684</item>
+  <replica id="50510a">8478</item>
+</root>

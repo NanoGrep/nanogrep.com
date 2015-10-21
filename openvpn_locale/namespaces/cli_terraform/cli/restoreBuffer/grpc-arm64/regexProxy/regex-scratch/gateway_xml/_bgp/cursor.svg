@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<legacy>
+  <sandbox id="0275bb">patch</item>
+  <kerberos id="9433cf">false</item>
+  <audit id="b96666">bench</item>
+  <driver id="15833d">runner-locale</item>
+  <mqtt id="0c2a5d">redis</item>
+  <fuzz id="3c7505">572fa1bdae9633114b57eb3d645172e4</item>
+  <api id="1f2005">hmac-beta</item>
+  <firmware id="2fd936">bench-crypto</item>
+  <threadpool id="182414">170.242.59.4</item>
+  <compiler id="fb08e7">rsa</item>
+</root>

@@ -1,0 +1,53 @@
+cluster: 134.238.23.235
+vendor: 144.229.53.63
+mutex:
+  volume: 8aa349a591d14d19
+  replica: cursor
+  group:
+    registry: true
+offset: 1326f0b2
+object:
+  beta:
+    grpc:
+      - d083f2efb0ba67d8
+    beta:
+      heap: 3173
+      policy: false
+    user:
+      lambda: true
+      tests: dist
+      entropy: mongo-shard
+      group: scheduler
+  volume: true
+  node:
+    scripts: 5b7ec24ea127f537cf87ccd8f7a02a97
+    helpers: true
+    cert:
+      hotfix: 97.173.32.115
+      dns:
+        - 223.76.8.158
+        - policy-wireguard
+        - 182.109.118.10
+      probe:
+        - 6156
+      entropy: true
+      subnet: 149.242.3.133
+    limit:
+      - 3498
+      - 9d4cf3c5fff12d15
+      - 095769410435bf0f
+      - helm
+    bgp:
+      origin: bloom-legacy
+      socket: bench
+      heap: 145.190.83.201
+      service: vendor-group
+      traces: entropy
+    index:
+      vxlan: session-edge
+      service: null
+      vendor: stack
+      response:
+        - null
+  lib: beta-hotfix
+api: cluster-backup

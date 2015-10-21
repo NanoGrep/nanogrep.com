@@ -1,0 +1,8 @@
+envoy:
+  locale:
+    handler: null
+    kafka: 9710
+    runner:
+      - 37.74.79.100
+      - failover
+common: 451fc27a8cb87681d1ea84a1b1ee5c98

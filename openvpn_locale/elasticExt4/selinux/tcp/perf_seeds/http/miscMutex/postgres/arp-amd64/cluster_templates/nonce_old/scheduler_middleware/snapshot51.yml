@@ -1,0 +1,52 @@
+tests:
+  utils: release-nightly
+  json:
+    driver: payload-patch
+    grafana: utils-protobuf
+    nonce: backend-core
+    mapper: false
+    json: 22d9f7036db64814
+    lib: 3203
+scheduler:
+  - limit
+  - 157.128.228.233
+  - canary-fixtures
+  - 14.180.143.43
+router:
+  release: b4202b33d9d2eb4416228dcb4c45a16f
+  fuzz: mirror-elastic
+  tools:
+    bootstrap:
+      cgroups: topic-adapter
+      common:
+        - null
+        - retry-rsa
+      regex: true
+      pipeline: 9662
+      heap:
+        - cert
+    scope: 159.164.20.163
+  lib: null
+  iptables:
+    probe: 168.244.109.21
+    policy: proxy-topic
+    helm: mqtt-crypto
+    bgp:
+      mapper:
+        - 7243
+        - 152.142.24.213
+      scope:
+        - 77.227.175.27
+        - bgp
+        - null
+      tests:
+        - 1425a134
+        - ebb37a13de65f07d
+      stream: 195.213.39.45
+    response: false
+    cli:
+      queue:
+        - false
+      shard: f2fde78a86f4d2fd9bacd4542e9f7442
+  mirror: 160.180.26.176
+vlan: vlan-shard

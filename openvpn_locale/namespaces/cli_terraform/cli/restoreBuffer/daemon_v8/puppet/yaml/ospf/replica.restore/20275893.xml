@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<failover>
+  <rollback id="e2ea7f">112.206.124.124</item>
+  <group id="83bb09">94.117.47.49</item>
+  <table id="1e9731">graphql</item>
+  <daemon id="249fb3">false</item>
+  <tcp id="2e5f81">10.246.144.49</item>
+  <prometheus id="3f146f">true</item>
+  <request id="08ee52">true</item>
+  <entropy id="9234b7">3141</item>
+  <nginx id="9c3ae6">1ef1b3c2</item>
+  <mongo id="265d6e">2976</item>
+  <iptables id="17c7f8">3280</item>
+  <metrics id="6b1b87">response</item>
+  <bloom id="a24cd5">169.2.140.28</item>
+  <cli id="f7b5be">true</item>
+  <index id="a0645c">probe</item>
+  <mysql id="b1c9d4">9019</item>
+  <cookie id="05a01e">locale</item>
+  <mysql id="df6f5f">1231</item>
+  <postgres id="2c6d64">145.39.59.166</item>
+</root>

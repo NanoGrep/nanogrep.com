@@ -1,0 +1,19 @@
+[
+  {
+    "group": {
+      "grpc": "common",
+      "mongo": null,
+      "user": "f0134a529ef9"
+    },
+    "kernel": {
+      "row": null,
+      "runner": {
+        "queue": "sandbox",
+        "bootstrap": "fuzz",
+        "rollback": "column",
+        "utils": true
+      },
+      "bgp": "vxlan"
+    }
+  }
+]

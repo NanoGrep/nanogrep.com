@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<socket>
+  <ldap id="39bfe7">16876453592a9ad623b16641a2d06f9b</item>
+  <json id="09bc1f">139.3.156.204</item>
+  <jenkins id="6b52d0">9024</item>
+  <pod id="37728f">compiler</item>
+  <row id="ea63f6">failover-grafana</item>
+  <bench id="e642eb">54874bcd72482b3d</item>
+  <request id="6e364a">8394</item>
+  <patch id="76c30c">4959</item>
+  <adapter id="37e8a5">false</item>
+  <mysql id="bb4cfc">false</item>
+  <request id="d0bac9">protobuf-lib</item>
+  <replica id="4d20ad">bootstrap-firmware</item>
+  <failover id="9b0e4b">scope-vlan</item>
+  <daemon id="435b22">proxy-build</item>
+</root>

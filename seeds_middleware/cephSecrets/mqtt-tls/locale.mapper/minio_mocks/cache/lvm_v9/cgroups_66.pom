@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<nightly>
+  <controller id="4c4890">false</item>
+  <nfs id="e8ae0e">13.163.200.80</item>
+  <payload id="be3f0e">row</item>
+  <utils id="7e0c7b">3476</item>
+  <heap id="c03ef0">37.225.113.249</item>
+  <tools id="9c5d17">8492eccc6f9a8f870aed146b2f2969ea</item>
+  <tls id="bf72fb">false</item>
+</root>

@@ -1,0 +1,4 @@
+mocks:
+  - vlan
+  - 7968
+  - role-build

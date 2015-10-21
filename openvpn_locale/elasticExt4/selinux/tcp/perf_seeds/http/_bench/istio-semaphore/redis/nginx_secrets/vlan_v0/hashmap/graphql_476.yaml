@@ -1,0 +1,54 @@
+hotfix: false
+build: true
+tests: false
+registry:
+  snapshot:
+    replica: 9610
+  iptables: 235.193.101.163
+  response: c212d2d3ab3a5b0c
+  cgroups: 59.113.183.157
+  mirror:
+    dns: adapter
+    json:
+      - b303a71c
+      - false
+    audit: 23cc7328b035477e
+    dist: bc249eae
+    traces: 5e8f00e1
+lexer:
+  assets:
+    request:
+      - 32d34d68008b8400ac0d6c92616cee90
+      - 241.125.83.105
+      - cron
+      - assets-crypto
+    socket:
+      - btree
+    yaml: false
+    response: 254.129.98.108
+    coroutine: kerberos
+  zfs:
+    storage: assets-dist
+    handler: 91419e7d
+    tests: 2865
+    assets: snapshot
+  worker:
+    bench: 9282158bdd8ec4fc
+    vendor:
+      - rest-token
+      - http
+    btree:
+      scheduler: f2e8ff3e
+      common: 3e692c3b
+      build:
+        - 3920
+        - 16.3.139.71
+        - 3277
+      service:
+        - 9b4eb1252b472770
+        - null
+  pipeline: null
+  ingress: true
+  sdk: stream-scheduler
+lexer:
+  - mutex-logs

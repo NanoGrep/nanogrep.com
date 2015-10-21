@@ -1,0 +1,14 @@
+{
+  "origin": {
+    "cursor": 5735,
+    "alerts": [
+      {
+        "firmware": "368dfdaeb325",
+        "watchdog": null,
+        "redis": true,
+        "origin": false,
+        "dhcp": "semaphore"
+      }
+    ]
+  }
+}

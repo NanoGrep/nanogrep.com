@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<nfs>
+  <frontend id="de7684">json-jwt</item>
+  <pipeline id="3ec4d0">3560</item>
+  <nginx id="f26c3d">102.81.243.161</item>
+</root>

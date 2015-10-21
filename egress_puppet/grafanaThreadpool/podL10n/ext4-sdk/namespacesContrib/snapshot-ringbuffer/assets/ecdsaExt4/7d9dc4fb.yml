@@ -1,0 +1,35 @@
+systemd: volume
+group:
+  sha256: websocket
+  cluster:
+    - factory
+    - buffer
+    - payload
+    - c0ba11b3735ed912dfd993036000612f
+  cli: backend
+rsa:
+  watchdog: false
+  origin:
+    cookie: beta-schema
+    core:
+      - null
+      - token-user
+      - cli
+      - beta
+    proxy:
+      cli: token
+      scope: 217.78.1.44
+    nfs:
+      nginx: tests
+      postgres:
+        - b382f359
+        - false
+      policy:
+        - f0464199e77c0da9
+      mirror: 3.1.51.178
+    session: null
+    dhcp:
+      - role-tenant
+  coroutine: 204.5.89.187
+  bgp: c20ac4bc50f23e9a201e5ccd39f4cdf9
+response: bench

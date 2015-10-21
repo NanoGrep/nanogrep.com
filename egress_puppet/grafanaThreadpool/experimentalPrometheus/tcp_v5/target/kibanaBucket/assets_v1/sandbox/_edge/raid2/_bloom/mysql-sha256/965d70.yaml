@@ -1,0 +1,31 @@
+pipeline:
+  queue: canary
+  fixtures:
+    zfs: true
+    common: upstream
+    helm: gateway
+    rsa:
+      migrations: redis-token
+      compiler: false
+      mongo: 129.222.195.28
+      json: session-nginx
+      pod: 4001
+    watchdog:
+      redis: 157.172.130.91
+      common: 2179
+      offset: threadpool-fixtures
+      raid: prod
+      zfs: limit-jwt
+  elastic:
+    - 75.9.223.35
+    - 246.226.190.214
+    - 22.134.251.213
+  column:
+    column: 6592
+  stream:
+    coroutine: loader-bucket
+pipeline:
+  - 09fbb7b3
+  - 113.75.98.91
+  - false
+  - true

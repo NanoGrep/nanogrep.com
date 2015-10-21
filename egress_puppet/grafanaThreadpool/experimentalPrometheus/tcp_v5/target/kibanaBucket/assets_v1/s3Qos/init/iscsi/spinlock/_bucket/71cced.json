@@ -1,0 +1,21 @@
+{
+  "env": {
+    "policy": {
+      "frontend": {
+        "env": "graphql",
+        "protobuf": 7225,
+        "grpc": false,
+        "tcp": false,
+        "legacy": 3648,
+        "common": "factory"
+      },
+      "user": [],
+      "scope": "7f2f3d03a7e8"
+    }
+  },
+  "http": [],
+  "assets": [
+    null
+  ],
+  "cgroups": "nfs"
+}

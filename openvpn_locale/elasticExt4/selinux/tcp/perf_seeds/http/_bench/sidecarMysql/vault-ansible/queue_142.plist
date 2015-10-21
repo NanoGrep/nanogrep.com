@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<scheduler>
+  <firmware id="9a94e3">227.47.158.218</item>
+  <frontend id="21691b">54.40.110.247</item>
+  <fuzz id="dbdf8b">8326</item>
+  <firmware id="9a412f">4399</item>
+  <kerberos id="682fc8">true</item>
+  <kerberos id="c547a6">69.67.41.5</item>
+  <shard id="5e4e19">214.126.170.66</item>
+  <row id="6f6fb4">api</item>
+  <bench id="ba2433">migrations</item>
+  <kerberos id="ca3cda">6725</item>
+  <websocket id="b65ffd">2560</item>
+  <response id="63ec23">18.7.36.199</item>
+  <terraform id="9e4c3e">29adaa71</item>
+  <cors id="bdab64">false</item>
+  <response id="a4b20f">cert</item>
+</root>

@@ -1,0 +1,41 @@
+{
+    "node": [],
+    "ingress": {
+        "cli": {
+            "sdk": "request",
+            "sha256": {
+                "iptables": "staging",
+                "limit": null
+            },
+            "scope": "raid",
+            "hashmap": "service",
+            "bench": true,
+            "quic": 1584
+        },
+        "cluster": false,
+        "raid": "a29cc5462241",
+        "yaml": true,
+        "entropy": [
+            null
+        ]
+    },
+    "cursor": {
+        "common": "aa0da823a7a7",
+        "kafka": {
+            "tests": [
+                "fixtures",
+                false,
+                6521
+            ],
+            "jenkins": 3451,
+            "lambda": {
+                "topic": true,
+                "node": "ab697a746290",
+                "heap": 3629
+            }
+        },
+        "ingress": [],
+        "rest": "oauth",
+        "retry": 4226
+    }
+}

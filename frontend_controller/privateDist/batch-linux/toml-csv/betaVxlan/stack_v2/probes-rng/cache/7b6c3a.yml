@@ -1,0 +1,28 @@
+row: ad2f347be5ff1f7d
+helm:
+  tools: 8137
+  gateway: 230.218.77.249
+  utils:
+    worker: 59.240.33.10
+  bucket: utils-request
+  compiler: 62.23.98.165
+  hmac:
+    - dfdf270daafe8d76
+ingress: true
+cookie:
+  sandbox: 6168
+  router: 92b5d64b
+  kafka: null
+  scope:
+    - api
+  ldap:
+    grpc:
+      postgres: ba5b09daa0b6ef5ce130374d7673bfcd
+      fixtures: true
+      btree: null
+    nfs: 6390
+  backup:
+    - wireguard-cors
+    - 3545db1c
+    - offset-entropy
+batch: cache-config

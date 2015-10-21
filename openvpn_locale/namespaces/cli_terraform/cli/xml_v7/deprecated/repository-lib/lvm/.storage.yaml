@@ -1,0 +1,86 @@
+payload:
+  loader:
+    watchdog: 15ce2d47
+    cli: trie-pipeline
+  redis:
+    cache: 4651
+    ansible: f6fd1479384fa903
+    graphql:
+      switch:
+        - redis-parser
+      lib: 128.19.15.15
+      jwt: redis
+      sha256: 8168
+      firewall: true
+    cookie: raid-cron
+    trie: a7d6bc92
+    lambda: 8461
+  rsa: tools-grafana
+  pod:
+    - 4961
+    - 7028eaec
+  rsa: 218.82.10.250
+  adapter:
+    - 195.108.8.27
+    - 101.87.190.186
+    - dns
+    - prometheus-bgp
+kernel:
+  parser:
+    firmware: ansible
+  nonce:
+    mqtt: failover-migrations
+  nightly: 51f623a072700409
+  tcp:
+    - role-tcp
+    - b29bb200
+    - f3db0a32
+    - 36.225.247.186
+  core:
+    nfs:
+      nfs: stack-edge
+      topic: 317
+      cache: true
+      jenkins: dist
+      salt: 227.231.247.123
+      dist: true
+session: null
+vendor: firmware
+env:
+  schema:
+    api:
+      tcp:
+        - c4f1b7e9
+        - offset
+        - 827
+        - 25.112.42.62
+      handler: bc9bb11e
+      group: 1256
+      parser: fixtures-scheduler
+      common: 433ee0d5
+      locale: 8.8.48.210
+    node: cgroups
+    batch: 229.221.166.101
+    switch:
+      compiler: 158.152.12.115
+    terraform: 66
+    patch:
+      - 74.109.206.176
+      - 6967
+      - false
+  object: true
+  bootstrap:
+    bucket: e14de927
+    common:
+      pipeline: 167.57.49.33
+      dns: proxy
+      cert: e8916243
+      retry: 417
+    role:
+      switch: 59.222.150.152
+      udp: false
+      grafana: 204.200.13.229
+      service: 2de78d490f5e6fcbf1ed3063a03be259
+      row: false
+      service: btree
+  helm: 11.35.190.83

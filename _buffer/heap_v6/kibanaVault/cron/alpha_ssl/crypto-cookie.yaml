@@ -1,0 +1,41 @@
+pipeline:
+  service:
+    - false
+    - 184.169.195.50
+    - 14645ff5
+    - true
+  node: driver
+  policy:
+    storage:
+      worker: service
+      sha256: 3b6f639da196e374fd934196ed14cdc7
+    postgres: 1d8eaa86
+    raid: 119b0c764826b2db
+    retry: null
+    patch: 32.130.216.114
+    kafka: 4828
+replica:
+  api:
+    sha256: false
+    prometheus: kernel
+    oauth: topic-worker
+    bootstrap: kerberos-locale
+    backup: true
+  helpers:
+    crypto:
+      - 218.233.233.24
+    proxy: router-zfs
+    compiler: bd028de080f2e5c4
+    heap: bloom
+  registry: 32.219.213.137
+  storage:
+    - zfs-subnet
+    - 29327beefa3d4de1
+    - 231.218.29.113
+ceph: false
+topic: hotfix-user
+logs: nonce
+service:
+  - 131.18.61.232
+  - mqtt-lexer
+  - 46becbfb

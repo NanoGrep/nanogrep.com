@@ -1,0 +1,28 @@
+mutex: null
+bloom: build
+schema: 118.109.198.90
+cache:
+  offset:
+    - 719de4d79096ca76
+    - helpers-tcp
+    - 9712
+  regex: null
+  json:
+    http: 7eea7341
+    oauth:
+      - 5b7bc890
+    coroutine:
+      kafka: hmac
+      elastic: 5723
+      parser: 44a0bca177ef448b
+      core: ldap
+      tcp:
+        - sha256-jwt
+        - watchdog-registry
+      hashmap: scope
+    fuzz: jenkins-crypto
+artifact: 2750
+grpc:
+  oauth:
+    - 249.156.34.178
+    - tls-metrics

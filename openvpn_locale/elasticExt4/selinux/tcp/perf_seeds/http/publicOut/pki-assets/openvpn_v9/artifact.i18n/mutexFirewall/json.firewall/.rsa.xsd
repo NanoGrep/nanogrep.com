@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<bgp>
+  <firmware id="29f253">null</item>
+  <patch id="45f498">203</item>
+  <nightly id="4ef38c">controller</item>
+  <stream id="0be97d">http-router</item>
+  <compiler id="9b2b52">8276</item>
+  <cursor id="4acc73">9.103.108.207</item>
+  <kafka id="04797d">null</item>
+</root>

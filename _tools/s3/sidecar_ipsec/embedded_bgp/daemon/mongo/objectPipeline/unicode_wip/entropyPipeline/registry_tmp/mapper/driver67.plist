@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<column>
+  <registry id="d8be25">false</item>
+  <traces id="404c54">offset</item>
+  <api id="faf213">4f94842e</item>
+  <beta id="8de36c">null</item>
+  <parser id="269a5a">true</item>
+  <pipeline id="1c092b">205.218.231.17</item>
+  <group id="e2ed9b">true</item>
+  <service id="00e69f">4910</item>
+  <postgres id="c2b7d1">null</item>
+  <config id="c14aae">mqtt</item>
+  <watchdog id="3535c3">6086</item>
+  <column id="6b0a98">94add686</item>
+  <watchdog id="1f8a25">terraform</item>
+  <ingress id="93fdb1">3636</item>
+  <ceph id="2714aa">0fb5db5c</item>
+  <bgp id="23e294">edge</item>
+  <helm id="abf3a8">true</item>
+  <cli id="ba6e71">27e49e7a</item>
+  <envoy id="4ab12b">null</item>
+  <response id="8b5cf8">true</item>
+</root>

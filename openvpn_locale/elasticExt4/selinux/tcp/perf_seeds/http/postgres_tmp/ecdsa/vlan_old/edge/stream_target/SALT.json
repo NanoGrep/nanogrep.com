@@ -1,0 +1,40 @@
+{
+  "http": {
+    "zfs": [
+      "proxy",
+      {
+        "locale": "239ce1f59e3d",
+        "column": false,
+        "token": false,
+        "backup": false,
+        "postgres": false
+      }
+    ],
+    "payload": {
+      "bgp": "5268e8078f52",
+      "cgroups": "9abf131d21b1",
+      "grpc": {
+        "mesh": false,
+        "coroutine": "1d202d00544f",
+        "gateway": "vlan"
+      }
+    },
+    "cli": {
+      "wireguard": [
+        false,
+        "daba271ede42"
+      ]
+    },
+    "mesh": [
+      [
+        "legacy"
+      ],
+      {
+        "tcp": "proxy",
+        "mesh": true,
+        "rest": 2690
+      },
+      false
+    ]
+  }
+}

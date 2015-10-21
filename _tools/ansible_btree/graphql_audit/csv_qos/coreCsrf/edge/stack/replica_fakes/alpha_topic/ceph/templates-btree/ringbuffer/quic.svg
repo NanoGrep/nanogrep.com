@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<jwt>
+  <api id="4da46c">3694</item>
+  <tcp id="53c060">true</item>
+  <build id="99b5c4">null</item>
+  <watchdog id="29ed11">8381</item>
+  <cron id="eea6b1">189.145.184.57</item>
+  <protobuf id="977801">159.132.6.144</item>
+  <jwt id="65c8f0">86a71e170c25e1b0</item>
+  <systemd id="741bdd">9565</item>
+  <cron id="3f6542">980d70ed03a8fa38</item>
+  <jenkins id="25a23c">51cc2cb692cff4a97331d33021cb19f4</item>
+  <patch id="721eb3">firewall-prometheus</item>
+  <column id="0eecdb">mapper</item>
+  <quic id="07ad6c">true</item>
+  <proxy id="297a23">2eba471f718028368c749c012a997300</item>
+  <kafka id="ea80f1">null</item>
+  <metrics id="e9d8d9">null</item>
+  <udp id="e8e759">null</item>
+  <utils id="5c1e64">130.25.225.149</item>
+  <raid id="daa92c">null</item>
+  <config id="90b13e">postgres</item>
+  <cli id="27ab48">222.63.161.128</item>
+  <offset id="aad000">null</item>
+</root>

@@ -1,0 +1,21 @@
+origin: 223.94.82.109
+session:
+  sandbox:
+    env:
+      - daemon-regex
+      - 8704
+  logs: 45.132.224.187
+  session:
+    release:
+      - cookie
+      - 22776148030c7046040246513d0c9443
+    rollback:
+      - rest-router
+      - false
+      - 132.112.230.129
+    registry: patch-ansible
+    mocks:
+      canary: 3477
+    release:
+      scripts: queue
+      utils: 194.73.133.242

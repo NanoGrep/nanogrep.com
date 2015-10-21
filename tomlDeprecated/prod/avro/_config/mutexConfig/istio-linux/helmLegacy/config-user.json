@@ -1,0 +1,27 @@
+{
+  "worker": [
+    {
+      "beta": 5648
+    },
+    {
+      "ldap": {
+        "queue": "graphql",
+        "kafka": "3a8199666384",
+        "lib": "e2982fcfafe2",
+        "shard": "config",
+        "oauth": false,
+        "rsa": false
+      },
+      "utils": null,
+      "lambda": "2ae50da95a57",
+      "backend": "bef6caded87c",
+      "group": {
+        "node": 9932,
+        "stream": "release",
+        "vault": false,
+        "router": "298b5c6c37c2",
+        "storage": true
+      }
+    }
+  ]
+}

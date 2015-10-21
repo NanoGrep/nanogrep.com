@@ -1,0 +1,69 @@
+staging: 209.41.181.217
+edge:
+  systemd:
+    common: 128.98.2.232
+    failover: 165.97.147.207
+    loader: false
+    rollback: 104.38.246.79
+  config:
+    - prod
+    - 69.114.122.67
+  factory: 247.187.236.10
+  mutex:
+    nonce: null
+    nonce: 90108a401f8bd610a46af1ab3f5f0a05
+  hashmap: worker-coroutine
+http:
+  udp:
+    mqtt:
+      - 9997
+      - terraform
+      - nightly
+    backup:
+      storage: null
+    mocks:
+      limit:
+        - assets
+        - 4970
+      mongo: false
+      templates: 4.41.69.218
+      hashmap: lexer
+      sha256: true
+      retry: stack-nat
+    wireguard:
+      controller: 0a8ba076
+      mutex: false
+      scheduler:
+        - dns-http
+        - 5479
+        - null
+        - null
+    yaml:
+      stream: null
+      lexer: prometheus-crypto
+      batch: 3296
+  cache:
+    config:
+      - mysql
+      - 4102
+      - 144.250.179.20
+    json:
+      - 1310
+      - null
+      - 4d33f8a44e91d799
+    gateway: 619dd38f
+  lambda: false
+  sdk: 41.122.81.119
+  artifact:
+    mesh: 8379
+    vault:
+      driver: 66.206.82.21
+      stream: 1681
+    proxy:
+      - object
+      - jenkins
+    hotfix: 2333d604
+    helm:
+      cors: true
+  salt: 254.139.250.156
+rest: false

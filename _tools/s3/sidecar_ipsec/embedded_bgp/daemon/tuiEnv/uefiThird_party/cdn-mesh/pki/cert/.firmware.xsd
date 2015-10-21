@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<jenkins>
+  <bgp id="98144f">true</item>
+  <mapper id="0aedb6">8741</item>
+  <dns id="f579ae">false</item>
+  <cookie id="969a0b">ingress-locale</item>
+  <vendor id="2a4ad4">staging-heap</item>
+  <request id="9ba15e">43.207.141.177</item>
+  <lexer id="beccec">215.246.241.229</item>
+  <ceph id="c8be2a">6305</item>
+  <prometheus id="153eca">threadpool</item>
+  <stack id="89743d">false</item>
+  <mapper id="c7c1d3">2803</item>
+  <artifact id="317d50">160.182.17.47</item>
+  <entropy id="9eee72">18af7b9bca8ddec9c6c03fc4f0ed8984</item>
+  <trie id="bd9302">false</item>
+  <worker id="490265">174.189.47.76</item>
+  <origin id="cdef74">57</item>
+  <ceph id="3757d8">9b95b711</item>
+  <bucket id="300ee2">nightly</item>
+  <env id="b2fb89">false</item>
+  <tests id="a420f7">a44fc2e3</item>
+  <grpc id="d684e3">null</item>
+</root>

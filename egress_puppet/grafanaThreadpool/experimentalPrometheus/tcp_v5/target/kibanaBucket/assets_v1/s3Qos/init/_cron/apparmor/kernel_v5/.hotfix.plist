@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<common>
+  <group id="453a79">canary</item>
+  <tests id="9778ad">gateway-request</item>
+  <tcp id="740aab">true</item>
+  <retry id="a24b28">cgroups</item>
+  <replica id="ea4249">driver</item>
+  <probe id="ffc152">scripts-response</item>
+  <kerberos id="843275">true</item>
+  <ingress id="6606f0">false</item>
+  <redis id="74ec37">8943</item>
+  <release id="2cba8e">true</item>
+  <adapter id="0172b6">failover-origin</item>
+  <cgroups id="b67f11">159.175.3.144</item>
+  <patch id="299ce1">38728b30</item>
+  <mesh id="c523ef">8d2cd97f5683b47ebdf5162a4c82cbf4</item>
+  <request id="f42441">fixtures-config</item>
+  <rest id="722d48">bgp-proxy</item>
+  <json id="b0c6aa">3.105.166.57</item>
+  <batch id="a71e66">true</item>
+  <buffer id="fb1151">7918</item>
+  <sdk id="0acd31">1606</item>
+  <artifact id="1d86cc">71e08def04c90a40443447e21d70947f</item>
+  <systemd id="d3dc3b">true</item>
+  <bench id="aed20d">975da21a413c78363f4eb86876e1dddd</item>
+  <helpers id="abf0b0">yaml-response</item>
+  <table id="db8b9c">sdk</item>
+</root>

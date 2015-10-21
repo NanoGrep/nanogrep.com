@@ -1,0 +1,18 @@
+{
+  "group": {
+    "nonce": {
+      "nat": [
+        8465,
+        1687
+      ],
+      "mutex": {
+        "sdk": null,
+        "bootstrap": true,
+        "nightly": null,
+        "terraform": false,
+        "grafana": "fbde84d110ec"
+      },
+      "cookie": []
+    }
+  }
+}

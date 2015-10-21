@@ -1,0 +1,14 @@
+vault,controller,env,jenkins,backend
+8432,3379,cgroups-batch,de421db798dc999e,22.37.59.196
+9303,913,core,5791,5448
+3825,controller,99d5799c2d4f3d04,stack,aes-controller
+9675,21b753e8ea13b614ec9f8f60d01be5d7,0ac823107b72b38ed00442961c1d0a1e,env-proxy,lib-probe
+bootstrap-policy,metrics,true,null,166.253.3.63
+jenkins-gateway,metrics,true,1313,b4d3344c11ad57ac
+true,dist,cli-cache,ca9fe9a2b293d4439dce51f721b7fee3,7f1f4514925c613b
+960,true,frontend-mongo,427,6057
+backend,35.178.252.220,rest-alerts,250.239.151.160,false
+fe8647ff86d5e3b6,157.175.76.217,true,jenkins-hashmap,group
+null,21.247.95.249,173.222.236.32,locale-env,6974
+hmac-envoy,8498,false,147.26.130.227,fuzz-request
+entropy,137.22.135.174,2d322ec3f93aa13f,patch-crypto,oauth-postgres

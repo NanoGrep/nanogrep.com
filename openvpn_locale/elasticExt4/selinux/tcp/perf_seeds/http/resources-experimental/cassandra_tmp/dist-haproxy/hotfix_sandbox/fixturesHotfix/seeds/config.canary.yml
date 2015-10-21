@@ -1,0 +1,21 @@
+cron: b5e46f1d
+vxlan:
+  prometheus: 166.105.74.125
+  nat: watchdog
+  legacy: true
+  core: true
+env: 153.13.19.209
+backend: mocks-stream
+frontend:
+  failover:
+    graphql: 5931
+  mesh:
+    - 2453
+    - 249.131.37.131
+    - locale
+  bootstrap: rsa
+  backend:
+    - true
+    - 50.34.83.194
+    - 233.183.36.135
+probe: controller

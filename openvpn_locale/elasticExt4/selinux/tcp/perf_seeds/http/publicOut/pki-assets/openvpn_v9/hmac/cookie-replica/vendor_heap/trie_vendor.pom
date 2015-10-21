@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<driver>
+  <socket id="4d7937">null</item>
+  <group id="329c24">semaphore</item>
+  <hmac id="a78719">23.129.195.133</item>
+  <fuzz id="9b18fb">websocket</item>
+  <vault id="044b9f">service</item>
+  <build id="993929">false</item>
+  <oauth id="edca2d">false</item>
+  <mongo id="3e3994">990</item>
+  <hotfix id="f3ebf1">4894c7772830b04e</item>
+  <tests id="593cfb">true</item>
+  <mutex id="f77e53">null</item>
+  <response id="ee7316">eddcf676bf40d3ea</item>
+  <controller id="72d534">rest</item>
+  <stack id="e668f3">9505</item>
+  <queue id="dd3176">null</item>
+  <coroutine id="28bd8d">cert-cert</item>
+  <salt id="0e12f9">bucket</item>
+  <replica id="973336">6892</item>
+  <sdk id="62c534">mesh</item>
+</root>

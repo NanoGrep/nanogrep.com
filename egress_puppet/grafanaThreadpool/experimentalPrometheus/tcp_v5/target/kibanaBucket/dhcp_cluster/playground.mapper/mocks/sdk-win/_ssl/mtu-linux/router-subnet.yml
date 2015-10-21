@@ -1,0 +1,39 @@
+dist: metrics
+cursor: edge-migrations
+salt:
+  buffer: 5632
+  topic:
+    lib: 8.142.98.113
+    replica: 141.243.250.111
+    index:
+      user: 1f726198f2be68ff
+      subnet:
+        - 2746d5e282501c37
+      replica: yaml
+cgroups:
+  rest:
+    - mysql
+    - scope-factory
+    - false
+group:
+  bench:
+    core: bc249479
+    patch: 17.112.222.154
+    threadpool: null
+    grpc:
+      - true
+      - 37.45.165.211
+      - 651d8278cd8ddbaaa7494db924b86a57
+      - utils
+    vendor: 4f29c362
+    ansible: 9842
+ansible:
+  rest:
+    tcp: dhcp
+    migrations: 232.106.232.238
+  adapter: metrics
+  bucket:
+    - ef3637ec8f82476871f0ba549468eb15
+    - false
+    - 175.9.17.1
+  btree: kerberos-cert

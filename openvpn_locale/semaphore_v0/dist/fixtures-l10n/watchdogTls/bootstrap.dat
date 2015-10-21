@@ -1,0 +1,7 @@
+config,firmware,table
+schema-entropy,3be281b7981a4e75093c9edd4fa76275,162.168.165.141
+b6bc682d46da67a128ef6436247e4546,125.18.90.183,998
+metrics,4017,elastic-assets
+null,null,core-iptables
+null,2.66.124.156,2466
+false,true,null

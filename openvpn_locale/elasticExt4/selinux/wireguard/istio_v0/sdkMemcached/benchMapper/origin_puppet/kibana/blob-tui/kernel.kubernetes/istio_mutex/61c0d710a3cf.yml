@@ -1,0 +1,7 @@
+compiler:
+  entropy: bloom-node
+  cert:
+    - 130.230.37.133
+    - true
+  yaml: true
+lexer: firewall-object

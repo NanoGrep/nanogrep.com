@@ -1,0 +1,23 @@
+staging: 133.205.181.182
+coroutine:
+  graphql:
+    cors: 161.70.70.133
+    lib:
+      - cursor-release
+      - compiler
+    factory: null
+    canary: fixtures-group
+    release: 38.162.17.254
+    payload: 7158
+  firewall:
+    mirror: 223.107.252.28
+  cors:
+    controller: 7765
+    column: 7b7cec0efd3c917d5edfa34798094367
+    cursor: 4943
+  regex: 8357
+  helm:
+    - null
+tenant:
+  websocket: null
+frontend: 958

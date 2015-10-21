@@ -1,0 +1,7 @@
+grafana:
+  cli:
+    user: 221.48.122.233
+    release: true
+  cors: 2760f0be0b512a36
+  crypto: false
+fixtures: 6578712a

@@ -1,0 +1,28 @@
+bootstrap: beta-fuzz
+prod: 6489
+cli:
+  helm:
+    snapshot: tools-core
+    column: 143.170.9.1
+    mapper:
+      - scripts-legacy
+    iptables:
+      - bf4c02ea26fcfc1a
+      - 1024
+      - 62b87ee3
+      - 233.249.60.102
+    cursor: 99.200.11.74
+    pipeline: 23.216.86.198
+  helm: cors-retry
+  middleware: false
+  socket: false
+  common:
+    dhcp:
+      grafana:
+        - f07c596a315e816f
+        - 42698762f7061560
+        - da0ab680507612a1
+      mesh: 6586
+      index: 2463
+ingress: 139.20.245.90
+table: true

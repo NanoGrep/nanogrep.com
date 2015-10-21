@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <mapper id="4d0527">pod</item>
+  <redis id="be193e">109.231.91.161</item>
+  <common id="51a080">backup-adapter</item>
+  <alerts id="11b49a">a6b58ec2aa353894ac45180023cf5c9c</item>
+</root>

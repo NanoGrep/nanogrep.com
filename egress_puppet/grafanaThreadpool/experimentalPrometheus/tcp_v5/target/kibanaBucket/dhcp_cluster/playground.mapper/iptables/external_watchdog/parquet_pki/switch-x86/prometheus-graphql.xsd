@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<storage>
+  <backend id="176073">null</item>
+  <adapter id="b02c04">be216844d5e2ed06</item>
+  <parser id="83cf20">null</item>
+  <mqtt id="3110ee">418</item>
+  <graphql id="30c3f7">142.143.163.63</item>
+  <table id="c28de4">08930ddc</item>
+  <mapper id="5f8e91">entropy</item>
+  <volume id="169057">nightly-failover</item>
+  <locale id="35f8af">null</item>
+  <coroutine id="8b2eec">142.42.79.211</item>
+  <alerts id="c7d777">7d0a5c2b</item>
+  <coroutine id="4e8ece">patch</item>
+  <stream id="c5b81f">fixtures-dist</item>
+  <backend id="2a0f2a">worker</item>
+  <graphql id="8dcaee">41.109.120.159</item>
+  <shard id="486d84">probe</item>
+  <logs id="1f5df1">1127</item>
+  <entropy id="b08c1a">286bed40</item>
+  <nginx id="8d27bc">96f8900403fd1b9aff68fc4390b4e5fa</item>
+  <helm id="de4443">runner-service</item>
+  <redis id="815aa4">true</item>
+  <patch id="d0c83a">fd3c5db79db5ceca</item>
+  <kafka id="a86105">a595d0af54aaaf13</item>
+  <pipeline id="1539f1">patch-graphql</item>
+</root>

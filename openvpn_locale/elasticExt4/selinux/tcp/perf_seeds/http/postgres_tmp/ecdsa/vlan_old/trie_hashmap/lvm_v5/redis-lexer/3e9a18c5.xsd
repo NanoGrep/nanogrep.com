@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<origin>
+  <topic id="70ea38">9082</item>
+  <batch id="1306fd">session</item>
+  <router id="de4275">true</item>
+  <mocks id="a1b084">126.36.176.167</item>
+  <vxlan id="571c68">8413</item>
+  <lib id="713c79">false</item>
+  <mongo id="c2248c">socket</item>
+  <grafana id="5c6cb9">offset</item>
+  <backup id="301fec">null</item>
+  <bgp id="b13415">8746</item>
+  <wireguard id="80c019">205.69.199.160</item>
+  <graphql id="27c699">zfs-adapter</item>
+  <dist id="eabd46">6963</item>
+  <lib id="d0f50c">http-vault</item>
+  <nginx id="76e784">226.30.180.94</item>
+  <fuzz id="6209df">origin-scheduler</item>
+</root>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<scheduler>
+  <ldap id="c1a244">worker</item>
+  <row id="1124fe">208.190.219.38</item>
+  <lexer id="af8a90">1422</item>
+  <stream id="e20ca7">6652</item>
+  <topic id="747328">migrations-nonce</item>
+  <utils id="190667">locale-artifact</item>
+  <origin id="b65645">false</item>
+  <common id="1eb39f">false</item>
+  <buffer id="b9b7f6">772</item>
+  <utils id="8c5c9d">197.160.93.6</item>
+  <cert id="a2d260">109.199.43.71</item>
+  <rest id="d46358">bucket-lib</item>
+  <replica id="eb17f7">true</item>
+  <offset id="8949c7">d66c82a6fa9bfb44b8423628ccb63bee</item>
+</root>

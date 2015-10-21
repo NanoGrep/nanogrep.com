@@ -1,0 +1,32 @@
+scope:
+  vxlan:
+    locale: false
+    sdk: true
+    role:
+      mysql: null
+      tcp:
+        - 52.245.86.165
+        - volume-service
+        - 24.169.183.90
+        - 89.31.96.193
+      mutex: tls
+      tcp: schema-rest
+      dist: null
+  sdk: 19b5861f009bb61c349b1e71573abceb
+  zfs: object-lambda
+  pod: 104.146.204.141
+  index:
+    mapper: helpers
+    kafka:
+      cache: null
+      build: null
+    pod:
+      websocket: true
+      btree: quic
+      tls:
+        - 26.195.116.43
+        - templates
+        - f7acadb87dd1d7f632a2d0d93ef2228a
+      scheduler: cd7f41c7b92356c076212ab8b64965f3
+    artifact: null
+    rollback: ingress

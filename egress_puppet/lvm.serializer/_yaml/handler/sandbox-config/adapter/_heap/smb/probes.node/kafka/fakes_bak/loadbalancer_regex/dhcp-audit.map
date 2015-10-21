@@ -1,0 +1,42 @@
+{
+  "backup": 7818,
+  "kernel": {
+    "backend": false,
+    "logs": null
+  },
+  "zfs": null,
+  "traces": {
+    "factory": true,
+    "sdk": false
+  },
+  "kerberos": {
+    "build": {
+      "zfs": "8ac4944fbcc1",
+      "driver": true
+    },
+    "pod": {
+      "response": {
+        "mapper": "a7c2069a4eea",
+        "staging": "e4971fc7e6b8",
+        "runner": "7ad8e57b4a81",
+        "vendor": true,
+        "proxy": "volume",
+        "rsa": "1424166d9a9e"
+      },
+      "mysql": "940a141aac60"
+    },
+    "prod": false
+  },
+  "buffer": {
+    "mocks": {
+      "lambda": [
+        null
+      ],
+      "group": {
+        "prod": null,
+        "gateway": 5197,
+        "queue": 8910
+      }
+    }
+  }
+}

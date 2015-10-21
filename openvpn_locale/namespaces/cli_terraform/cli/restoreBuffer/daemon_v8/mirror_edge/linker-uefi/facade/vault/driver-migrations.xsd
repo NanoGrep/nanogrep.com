@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<protobuf>
+  <hmac id="12cb00">72d4739d21d2cb40</item>
+  <tests id="56b6e9">8173</item>
+  <token id="6936cf">7398</item>
+  <watchdog id="f52aaa">3965</item>
+  <handler id="b78cff">274</item>
+  <prometheus id="922539">44.40.8.116</item>
+  <fuzz id="a1f395">68</item>
+  <elastic id="256d1f">136.161.43.227</item>
+  <storage id="a22abe">46.1.119.117</item>
+  <build id="18f3d3">d0870012</item>
+  <coroutine id="3c4f84">rollback</item>
+  <vault id="2b7f4e">vxlan-firewall</item>
+  <subnet id="606fd7">3411</item>
+  <bloom id="9a1e95">92070591</item>
+  <raid id="3f89cd">mongo</item>
+  <adapter id="effcdd">mirror-storage</item>
+  <buffer id="c70715">820e1aa4fedb569b</item>
+</root>

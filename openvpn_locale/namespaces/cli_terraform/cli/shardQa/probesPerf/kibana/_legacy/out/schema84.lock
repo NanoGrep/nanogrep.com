@@ -1,0 +1,29 @@
+[
+  "c2821e207c0c",
+  {
+    "cert": [
+      {
+        "parser": null,
+        "mysql": true
+      },
+      {
+        "mesh": false,
+        "payload": "mqtt",
+        "service": "prod",
+        "token": 233,
+        "switch": null,
+        "handler": "e0628fea97c0"
+      },
+      [
+        true,
+        null,
+        "3ee14c1d3b09"
+      ],
+      "9f0b432e0f31"
+    ],
+    "cgroups": [],
+    "snapshot": {
+      "grafana": true
+    }
+  }
+]

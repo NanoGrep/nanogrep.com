@@ -1,0 +1,7 @@
+{
+    "fuzz": "response",
+    "terraform": {
+        "tools": "39c74f8a57ef"
+    },
+    "mirror": false
+}

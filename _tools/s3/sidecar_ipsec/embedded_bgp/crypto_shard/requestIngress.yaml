@@ -1,0 +1,30 @@
+audit:
+  websocket:
+    env:
+      scripts:
+        - 2520
+        - 11.26.128.94
+        - patch
+        - cert-backend
+      storage: fixtures
+      semaphore: backup-elastic
+      salt: cgroups
+    core: true
+    service: kafka-parser
+    rest:
+      hotfix:
+        - alerts
+        - null
+      parser: compiler-staging
+      entropy: 93.245.86.32
+  kernel: 1735
+  kerberos: 9532
+zfs: 46.231.33.240
+bloom: null
+env:
+  row: f5c7b9d8
+  staging: 2a675464
+  table: websocket
+  ldap: 3801
+  mocks: rollback-prod
+  salt: factory-loader

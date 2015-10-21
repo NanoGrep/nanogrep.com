@@ -1,0 +1,46 @@
+[mongo]
+indexregex = 2703
+protobuflogs = 240.233.145.132
+cryptobtree = 106.130.153.214
+legacy.shard = 34
+firewall.postgres = prod-cgroups
+kernelrole = 4753
+yamltable = rest-entropy
+gateway_utils = 202.138.220.7
+config_lambda = sha256
+row_audit = 361fa5b9
+volume_rollback = d8eb4e4fdbbe9daec1af4af2b1ebd60f
+sdk.postgres = token-helpers
+hmac_frontend = false
+sandboxcolumn = coroutine
+grpcsnapshot = mapper-lexer
+batch.role = session-controller
+row_zfs = mesh-envoy
+grpc_gateway = 27d354d82a0efe3c
+threadpoolbtree = 3199
+requestsocket = 105.190.82.178
+watchdog_shard = 7462
+canary_postgres = 6222
+
+[column]
+cachebtree = 78.135.52.114
+mirror_fuzz = 9092
+payloadcontroller = bc901cce8fc89ba9bdd5d0f61c620d0d
+index_entropy = replica
+lib_rsa = 1470
+vlan.compiler = udp
+artifact_cgroups = index-volume
+graphqlgrpc = true
+cert.crypto = loader
+alerts.kafka = build-shard
+coroutine_beta = node-rsa
+zfsstack = cc57ab574d6bbf5ff187d2f8e46feb52
+batchvendor = 6499aef6cc40d743
+storage_cluster = null
+teststools = heap-backup
+templates.nginx = 5138
+utils.locale = 243.199.244.232
+metricsrelease = 9816
+raid.pod = 6d561667
+postgres_jenkins = canary-row
+subnet.helm = 9721

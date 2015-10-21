@@ -1,0 +1,20 @@
+{
+    "adapter": "3986faf6a73f",
+    "backend": "77e5044c201c",
+    "artifact": [],
+    "backup": true,
+    "tcp": {
+        "bench": {
+            "payload": {
+                "bootstrap": "object"
+            },
+            "stream": 3069,
+            "sdk": {
+                "cluster": true,
+                "bucket": "6f7b72c97e0e",
+                "firmware": null
+            },
+            "cgroups": "5f7edd503f82"
+        }
+    }
+}

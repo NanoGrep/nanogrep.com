@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<replica>
+  <hmac id="cb5ae0">1486</item>
+  <pipeline id="df08bb">e2fc78d5c9e0c39f</item>
+  <canary id="8de630">tests-udp</item>
+  <switch id="697a65">audit</item>
+  <staging id="0589a4">null</item>
+  <cors id="7d2c82">5084</item>
+  <runner id="4a1390">null</item>
+  <sandbox id="3eeae6">zfs-scope</item>
+  <api id="24fb29">816</item>
+  <raid id="43e6d1">221.41.98.73</item>
+  <controller id="7f724e">1503</item>
+  <schema id="37be0a">false</item>
+</root>

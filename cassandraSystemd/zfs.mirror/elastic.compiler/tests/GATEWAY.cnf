@@ -1,0 +1,106 @@
+[probe]
+protobuf.patch = 80
+assetskernel = 56bd0339
+build_shard = null
+origin.entropy = terraform-utils
+vault_buffer = 51b35976edcd5490
+entropy.parser = 1186
+legacy.ingress = cf50e0b6b453a20c56a3a9ea83de434e
+retry_legacy = true
+vxlanscheduler = null
+iptables.build = 1956
+socket.tcp = true
+payloadloader = entropy-fixtures
+nightlycookie = 8718
+corerow = null
+queue_raid = true
+policymysql = 5f27a0579eb764241095a74aaec5d727
+nodelib = 9067
+roleparser = object
+
+[release]
+routerfixtures = 253.63.219.129
+envrequest = 4571
+role_canary = 5960
+api_vxlan = 3484
+bucket.beta = 75.134.216.87
+pod_coroutine = 7725
+rollback_semaphore = 7437
+backuptenant = false
+helpers_sdk = 209.90.35.209
+topic.fuzz = mutex-systemd
+tests.scheduler = 162.204.16.111
+helpers.mocks = utils-nat
+bootstrapshard = 102.3.77.42
+redis.build = schema
+cli.ansible = 120.135.75.76
+alerts.udp = 6115
+firewall.policy = 1981
+httpudp = 33060633eebdd68d50b13506b3eee0f8
+tenanthashmap = loader-probe
+firmware_zfs = false
+tenant.prod = graphql
+tenant.config = common-adapter
+parserhelpers = mesh-sandbox
+ldapceph = 124.1.47.146
+podfactory = 46.101.122.59
+rediscompiler = 2336
+mysql_mqtt = 3800
+ceph.graphql = worker
+bootstrapmirror = 3d65473b
+
+[mqtt]
+kernel_terraform = mocks-ansible
+distldap = backup-redis
+shard.postgres = 143.192.183.203
+lambda.scheduler = true
+vxlan_response = 412
+cryptohmac = 8396
+nginxsdk = 92.198.204.243
+testsassets = 10.68.209.100
+graphql.semaphore = 308
+mysql.beta = 2838
+redis.threadpool = release
+edge_sdk = retry
+corebackup = 69.77.237.118
+salt_adapter = 39.83.254.145
+stack.controller = fixtures
+payload.rsa = 181.0.89.115
+websocket_prod = quic-wireguard
+kernel_buffer = row
+
+[release]
+env_rest = b6eafdcc
+switch.alerts = templates
+jsonvxlan = 242.77.79.119
+session_jwt = false
+patch_role = null
+canary_tcp = null
+core.staging = legacy
+dhcp.iptables = 146.167.115.47
+router_tcp = 061d2dd126464f24
+registrypatch = kernel
+metricsjson = 6090
+hashmap.bootstrap = f6c444d99893978a
+rsa.schema = false
+graphqlregex = null
+artifact_jwt = backup
+heap.runner = bench-assets
+gateway_nonce = redis
+schema.env = false
+ingress_ingress = c205f091de4d5e977c719459810ab4da
+requesttrie = 4563eeb383960f5f772b0cd447edca9a
+graphql_origin = 64.0.4.110
+proxy.mirror = null
+scripts.grpc = da33f0ce
+
+[pipeline]
+corsnat = 232.119.103.126
+prod_legacy = daemon-watchdog
+firmware_patch = locale
+topic.compiler = 48.175.139.23
+token_user = ceph-json
+scripts_build = 14.190.29.30
+bloomscripts = 128.35.44.207
+coroutine.scope = 6bbf775a
+limitrequest = 454

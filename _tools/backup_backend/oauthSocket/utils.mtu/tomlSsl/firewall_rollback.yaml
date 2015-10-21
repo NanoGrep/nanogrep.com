@@ -1,0 +1,4 @@
+core: jenkins-regex
+cache: false
+rsa: 1251
+registry: c471b2c4

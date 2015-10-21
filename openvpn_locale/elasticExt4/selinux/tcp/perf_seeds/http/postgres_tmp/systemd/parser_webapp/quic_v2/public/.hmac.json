@@ -1,0 +1,55 @@
+[
+  true,
+  {
+    "nginx": {
+      "elastic": {
+        "semaphore": null,
+        "volume": false,
+        "lambda": "websocket",
+        "sha256": "5b570efebd76"
+      },
+      "buffer": true
+    },
+    "mongo": {
+      "lambda": {
+        "pipeline": "2ecf6a404b18",
+        "staging": "12d120e6f713",
+        "heap": "migrations",
+        "shard": "01db1731b17c"
+      },
+      "parser": true,
+      "tcp": [
+        true,
+        "systemd"
+      ]
+    },
+    "lexer": {
+      "session": {
+        "build": false,
+        "env": null,
+        "nfs": 1290,
+        "json": 6212
+      },
+      "mqtt": [
+        null,
+        6750,
+        7128
+      ],
+      "protobuf": 5933
+    }
+  },
+  {
+    "tenant": {
+      "trie": [
+        false,
+        "grafana"
+      ],
+      "scheduler": "7161e14433a8",
+      "stack": {
+        "heap": "table"
+      },
+      "subnet": null
+    },
+    "dist": true
+  }
+]

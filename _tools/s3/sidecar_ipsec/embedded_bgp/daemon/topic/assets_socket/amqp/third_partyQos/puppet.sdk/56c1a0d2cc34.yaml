@@ -1,0 +1,13 @@
+lexer:
+  - worker
+  - bf48a9d3
+  - null
+sdk:
+  user: false
+  cli: vxlan
+  kafka: bgp
+  legacy: false
+  quic: node-queue
+  upstream: false
+cert: 2019
+heap: 6001

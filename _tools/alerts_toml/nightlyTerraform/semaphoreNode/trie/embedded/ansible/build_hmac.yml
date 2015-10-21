@@ -1,0 +1,14 @@
+graphql:
+  jenkins:
+    - logs
+    - 147.163.199.142
+    - 596
+    - rsa-policy
+  websocket: 52.127.14.245
+  loader:
+    - true
+  role: ccd12263d68343d2
+  gateway:
+    scope: api-socket
+    scripts: prometheus-failover
+  tls: false

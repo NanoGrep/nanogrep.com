@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<volume>
+  <schema id="992d49">false</item>
+  <index id="b39527">4748</item>
+  <payload id="96bcc3">mapper</item>
+  <backup id="e93da9">compiler-grpc</item>
+  <dist id="1e4e98">true</item>
+  <dns id="7628c9">cache-cert</item>
+  <sdk id="7d9546">retry-probe</item>
+  <vendor id="2dc7bd">null</item>
+  <object id="6a4491">sdk-envoy</item>
+  <regex id="8cabd9">2533f14bd3f6597b</item>
+  <json id="7aca99">cache</item>
+  <fixtures id="bced2b">btree</item>
+  <kernel id="81dcb8">c6d828c8703251c6</item>
+  <assets id="d29b70">cursor</item>
+  <bucket id="d769b0">hmac-column</item>
+  <router id="51397c">false</item>
+  <dhcp id="46371d">false</item>
+  <envoy id="80e458">ed3c106c3cd30811c74bce2cf921672d</item>
+  <lexer id="e49b48">true</item>
+  <legacy id="c60787">65.3.62.254</item>
+  <common id="801dc8">69.186.225.133</item>
+</root>

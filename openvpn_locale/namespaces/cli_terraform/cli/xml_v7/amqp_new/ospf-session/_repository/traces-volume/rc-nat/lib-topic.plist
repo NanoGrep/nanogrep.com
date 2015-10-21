@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<metrics>
+  <salt id="4b7117">91</item>
+  <role id="82ee80">3.45.231.134</item>
+  <redis id="02a371">0378e4916d8914c3eb80ec44d4e751b3</item>
+  <group id="2dd401">224</item>
+  <dhcp id="577d0e">backup</item>
+  <origin id="cf8db0">9921</item>
+  <heap id="9f780b">alerts-factory</item>
+  <replica id="d0498e">216.60.6.199</item>
+  <aes id="6c9472">response</item>
+  <socket id="734d0d">elastic</item>
+  <offset id="f4a678">42.52.93.101</item>
+  <upstream id="937dd5">request</item>
+  <compiler id="be3708">hotfix-ceph</item>
+  <fixtures id="860f58">cursor</item>
+  <mongo id="3cab17">3369</item>
+  <elastic id="dc3035">cursor</item>
+  <crypto id="4d4f4a">mqtt</item>
+  <logs id="abda42">d521ace9d89bc7e46f43dec27dad9663</item>
+  <lexer id="217d4f">tenant</item>
+</root>

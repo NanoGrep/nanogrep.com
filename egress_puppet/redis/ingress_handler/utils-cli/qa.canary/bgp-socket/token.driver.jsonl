@@ -1,0 +1,57 @@
+{
+  "replica": [
+    false,
+    "d51f280e8066",
+    {
+      "sdk": {
+        "kafka": 5154
+      },
+      "tcp": "a47f1d240abc",
+      "logs": {
+        "utils": false
+      },
+      "canary": {
+        "runner": "107e7df6ca8b",
+        "common": "nat",
+        "zfs": "5dfce781bceb"
+      }
+    },
+    {
+      "tcp": "token",
+      "parser": "ec30b34154f7"
+    }
+  ],
+  "cron": {
+    "prometheus": 5161,
+    "shard": null,
+    "audit": {
+      "helm": true,
+      "btree": {
+        "sandbox": false,
+        "switch": false,
+        "threadpool": "volume",
+        "redis": true
+      },
+      "mocks": {
+        "controller": false,
+        "lexer": false,
+        "patch": false,
+        "vault": 7022,
+        "backup": 3830,
+        "websocket": "release"
+      },
+      "worker": [
+        null
+      ],
+      "driver": {
+        "utils": "691924d27e69",
+        "audit": null,
+        "registry": false,
+        "policy": 7983,
+        "backend": null
+      }
+    }
+  },
+  "tcp": 2632,
+  "wireguard": 3254
+}

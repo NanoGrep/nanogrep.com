@@ -1,0 +1,11 @@
+pod:
+  - 9067
+  - 7289
+failover:
+  stream: 2660ddd3f8b12bb8
+  build:
+    buffer: 6801
+  proxy:
+    nginx: 8409
+  nonce: false
+handler: templates-ansible

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<legacy>
+  <env id="e33edf">null</item>
+  <redis id="4cb351">token</item>
+  <cursor id="77000f">mysql-jwt</item>
+  <firewall id="411eea">172.53.212.3</item>
+  <origin id="a42c32">batch</item>
+  <nat id="75e415">67c54e25d8f43500c29509d70f073e7d</item>
+  <scope id="189eea">false</item>
+</root>

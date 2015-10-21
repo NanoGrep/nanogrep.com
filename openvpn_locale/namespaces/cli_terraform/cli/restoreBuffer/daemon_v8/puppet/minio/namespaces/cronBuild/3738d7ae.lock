@@ -1,0 +1,104 @@
+{
+  "terraform": {
+    "adapter": {
+      "hmac": {
+        "sdk": 9968
+      },
+      "cookie": 9701
+    },
+    "http": {
+      "graphql": "3dabb366dafc",
+      "nfs": {
+        "bootstrap": "046ebf7548ea",
+        "iptables": "api"
+      }
+    },
+    "bootstrap": [
+      {
+        "shard": "shard",
+        "mesh": true,
+        "policy": true
+      },
+      "prometheus",
+      {
+        "nat": true,
+        "gateway": "933addc3a474",
+        "beta": null,
+        "adapter": 5341,
+        "handler": "2672b348c913"
+      },
+      false
+    ],
+    "hotfix": {
+      "fixtures": {
+        "switch": true,
+        "wireguard": "8cf242c12c1c",
+        "vendor": true,
+        "json": true
+      },
+      "salt": {
+        "trie": "mongo",
+        "cluster": "bucket",
+        "core": null
+      },
+      "tools": {
+        "legacy": null,
+        "scheduler": "5d5ab2d30e94"
+      },
+      "nfs": {
+        "patch": true,
+        "nginx": false
+      },
+      "failover": {
+        "mutex": false
+      },
+      "tests": [
+        "salt"
+      ]
+    }
+  },
+  "volume": [
+    {
+      "edge": [
+        1657,
+        false,
+        null,
+        "4d9a42d656e9"
+      ],
+      "jenkins": "oauth",
+      "kernel": true,
+      "fixtures": "0602b3d99b23",
+      "socket": "8c7658dcee7d"
+    },
+    {
+      "socket": {
+        "scripts": null,
+        "batch": false,
+        "offset": true,
+        "bloom": "mesh"
+      },
+      "coroutine": {
+        "kernel": false,
+        "socket": false,
+        "sdk": false,
+        "rollback": "token"
+      }
+    },
+    [
+      [
+        "c6f82725c669"
+      ],
+      {
+        "lib": true,
+        "jwt": true
+      },
+      "1b2a5c9a2ad2",
+      null
+    ]
+  ],
+  "scheduler": {
+    "postgres": {
+      "edge": "helm"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+parser: 6117
+core:
+  - 3022
+  - true
+  - 187.232.138.125
+grafana: response
+fixtures: controller-tcp

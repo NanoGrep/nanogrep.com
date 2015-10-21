@@ -1,0 +1,4 @@
+release: registry-retry
+gateway:
+  api: true
+http: vlan

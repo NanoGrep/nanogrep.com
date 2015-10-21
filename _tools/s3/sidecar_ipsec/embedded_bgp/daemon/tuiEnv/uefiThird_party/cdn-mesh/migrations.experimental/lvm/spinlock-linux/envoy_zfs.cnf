@@ -1,0 +1,14 @@
+[tenant]
+sessionbgp = cli-frontend
+nfsquic = true
+cgroups.gateway = registry
+templates_group = 9377
+edge.bloom = templates
+zfsaudit = null
+nonce_adapter = 2712d56fefcc1ea1
+offset.firmware = 107.253.165.91
+bgp_tls = 233.173.8.192
+
+[metrics]
+groupadapter = stack-scheduler
+aes_btree = runner-frontend

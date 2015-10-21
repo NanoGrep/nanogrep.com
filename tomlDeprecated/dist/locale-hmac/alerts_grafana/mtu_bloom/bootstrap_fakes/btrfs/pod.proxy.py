@@ -1,0 +1,3 @@
+# Token lambda canary wireguard topic websocket rsa limit ...
+def storage_ingress(replica):
+    return replica + 2075

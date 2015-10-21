@@ -1,0 +1,23 @@
+[assets]
+mysql_traces = 105.219.138.198
+pipelinetools = true
+
+[cors]
+handler_probe = watchdog
+toolssubnet = 12.63.79.149
+protobuf_watchdog = 4741653081656cba
+grafana_daemon = bootstrap-shard
+raid_vlan = 4398
+role_ansible = canary
+
+[hashmap]
+heap.alerts = 20.72.16.163
+migrations.mirror = null
+yamlretry = worker
+tablepostgres = schema
+cors_jwt = sandbox-salt
+vxlanmutex = true
+queue.bucket = prometheus-registry
+templates.topic = rest
+apitable = topic
+upstreamrow = ab9dc96f

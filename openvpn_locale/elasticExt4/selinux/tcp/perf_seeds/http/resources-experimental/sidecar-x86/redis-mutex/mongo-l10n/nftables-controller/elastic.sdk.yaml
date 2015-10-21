@@ -1,0 +1,43 @@
+vxlan: tenant-firewall
+aes: legacy-ldap
+vault:
+  response:
+    bgp:
+      bgp:
+        - 5263
+        - null
+        - 3735
+      mocks: 4380b7706e69a5a3
+    sandbox: 9621
+    templates:
+      bench: dns-bucket
+      lexer: frontend
+      object: mysql-lib
+    cli: trie
+    stack:
+      schema: baea4080c942826735fc26dea44599fe
+      metrics: ansible
+  bgp:
+    snapshot:
+      parser: true
+      driver: tools
+      scripts: false
+      queue:
+        - 4498
+        - null
+        - 6167
+      proxy: yaml
+    role: mqtt
+    ldap:
+      bgp: canary
+      switch: wireguard-column
+      http: bench-switch
+      config: websocket
+      loader: gateway
+  common: null
+hashmap:
+  probe:
+    - crypto
+    - 160.72.219.69
+  elastic: 144.221.51.14
+  snapshot: 245.229.202.146

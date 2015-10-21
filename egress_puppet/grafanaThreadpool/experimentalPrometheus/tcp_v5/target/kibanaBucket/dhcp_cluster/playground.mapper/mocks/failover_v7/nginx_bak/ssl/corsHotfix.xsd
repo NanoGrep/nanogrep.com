@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<controller>
+  <hotfix id="bcf1dd">lambda</item>
+  <kernel id="e8ee70">158.175.241.190</item>
+  <watchdog id="fed6bc">63.124.124.108</item>
+  <kafka id="d5781b">4ad3043d8a054d59</item>
+  <ingress id="f2c021">runner-zfs</item>
+  <ceph id="a1a8b9">oauth-assets</item>
+  <cookie id="17e120">231.230.1.79</item>
+  <firewall id="2bd0b0">345d3a2159b2fa0a</item>
+  <worker id="bc198b">1776</item>
+  <storage id="bb117f">48.208.95.107</item>
+  <legacy id="93865b">8612</item>
+  <ingress id="916950">d95df28c3b5aa0a332f508d42af37f7d</item>
+  <assets id="08ae78">locale-locale</item>
+  <release id="710dac">middleware-probe</item>
+  <policy id="a0338f">common-cron</item>
+  <worker id="9f4516">null</item>
+  <compiler id="45e999">false</item>
+  <scope id="f6f078">5928</item>
+  <mesh id="e6a191">nonce</item>
+  <compiler id="fecb70">7981</item>
+</root>

@@ -1,0 +1,10 @@
+mutex:
+  worker: true
+  queue:
+    kafka: terraform
+    batch: nonce-yaml
+  grpc:
+    - 166.118.46.45
+    - sandbox-scope
+    - true
+    - true

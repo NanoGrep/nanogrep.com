@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<threadpool>
+  <patch id="f19909">null</item>
+  <mongo id="11bb70">f364f1c56db96e5bdd095e9e7678636e</item>
+  <mutex id="5928b6">null</item>
+  <envoy id="5d6e7f">548192e425700808</item>
+  <nginx id="5fab1b">2124</item>
+  <bgp id="25cf77">b32c01d71f256a51</item>
+  <ceph id="542dba">134.250.11.44</item>
+  <stack id="51d3d2">rest-tcp</item>
+  <watchdog id="a78e53">middleware-buffer</item>
+  <controller id="a6cec5">120.34.105.206</item>
+  <vlan id="2ef951">ansible-policy</item>
+  <proxy id="8b9082">4707</item>
+  <tests id="613e78">e442d2ed2f6eefbf</item>
+  <tenant id="89dfa6">37.36.119.220</item>
+  <pod id="8a9aae">loader</item>
+  <dist id="4ddd49">grpc-api</item>
+  <gateway id="f5c79d">245.130.10.51</item>
+  <vxlan id="b36d0f">9.242.250.96</item>
+  <cron id="fb453a">false</item>
+</root>

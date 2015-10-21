@@ -1,0 +1,45 @@
+[firmware]
+salt.payload = false
+envoyvendor = 4499
+api.protobuf = staging
+limittable = 7470
+vlan.release = http-alerts
+upstream_tools = 83.244.126.71
+rowassets = null
+table.cookie = tests
+graphql.systemd = true
+redis.compiler = 8070c2e5
+templates.threadpool = 32.144.211.248
+kernel.firewall = 23.168.161.129
+subnet_bucket = backup-build
+firewallcgroups = true
+protobuf_gateway = 3696
+parser.switch = worker
+lambdaworker = ldap-edge
+core_daemon = proxy
+lib.pod = 169.197.199.87
+wireguard.edge = null
+auditsocket = 126.124.182.123
+
+[origin]
+routerlogs = 3118
+sdkprometheus = probe-role
+systemd.templates = 444
+vxlanstorage = 13.225.106.179
+driver.utils = dist
+nonce.bucket = 2267
+bloom.batch = 35.245.101.115
+jenkinsproxy = semaphore
+config.index = mqtt
+upstreamcrypto = registry
+configtemplates = topic
+hotfix_artifact = 91e59a64a563f3a7
+salt_bgp = null
+cgroups_policy = true
+bench.prod = true
+kafka_dhcp = 136.63.9.67
+migrations.bgp = null
+artifact_tests = 14fd6f09
+stack_redis = a797c805
+table.trie = failover
+nightlyobject = 177.106.172.35

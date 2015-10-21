@@ -1,0 +1,8 @@
+traces: queue-config
+mysql: null
+adapter:
+  compiler: false
+canary:
+  - vlan-aes
+  - cf106326a4c9716f3efa2dd07b758f54
+  - 5221

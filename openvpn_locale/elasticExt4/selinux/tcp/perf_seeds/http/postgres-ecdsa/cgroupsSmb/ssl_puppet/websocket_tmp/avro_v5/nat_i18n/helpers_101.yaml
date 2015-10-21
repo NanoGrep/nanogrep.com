@@ -1,0 +1,33 @@
+lambda:
+  - quic-scheduler
+  - db2db7e6
+  - 4904
+  - 252.3.179.41
+threadpool: 232.218.239.145
+cert:
+  protobuf: false
+  hmac:
+    socket: 86.27.192.171
+    quic: 392c5a563b9cba91fec33d9969715499
+    probe: utils-bloom
+    mirror: switch
+    row:
+      nfs: 128.132.57.192
+    pod:
+      - systemd
+      - null
+  service: topic-bloom
+vendor:
+  edge:
+    cookie:
+      - mqtt
+      - 5351
+    firewall: stream-wireguard
+    runner:
+      iptables: f6c80150709d4e59
+      canary: tools-kerberos
+    bench: d7298692f228a900f14002cd76387f21
+envoy:
+  - stack-rest
+  - 9337
+cache: shard-group

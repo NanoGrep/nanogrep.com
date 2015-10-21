@@ -1,0 +1,31 @@
+{
+    "cli": [
+        [],
+        {
+            "router": {
+                "release": 7769,
+                "bench": null,
+                "ceph": "b9c5b7e312eb",
+                "user": "173a3d97d622",
+                "alerts": "61c3f0c06829"
+            },
+            "lambda": {
+                "mutex": 2543,
+                "row": true,
+                "btree": "batch",
+                "postgres": null,
+                "kernel": false
+            }
+        },
+        [
+            {
+                "scope": "router",
+                "wireguard": "aa8405fe35c1",
+                "trie": "nat",
+                "token": false
+            },
+            false,
+            false
+        ]
+    ]
+}

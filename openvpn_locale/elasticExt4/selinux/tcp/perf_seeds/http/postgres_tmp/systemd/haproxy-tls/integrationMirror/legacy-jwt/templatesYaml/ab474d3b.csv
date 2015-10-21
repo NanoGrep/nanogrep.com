@@ -1,0 +1,6 @@
+http,mysql,release,nightly,nginx
+loader-response,null,true,129.165.50.133,8277
+false,mocks,3158,76368bd8,true
+true,40.214.213.193,a6eddb098711a217f266d2fd2976be98,null,true
+169.89.56.163,aa8cbc5c,iptables-tcp,snapshot-jenkins,true
+salt,44986b9a,4943,243.14.205.222,0cff00a7af0cd81d

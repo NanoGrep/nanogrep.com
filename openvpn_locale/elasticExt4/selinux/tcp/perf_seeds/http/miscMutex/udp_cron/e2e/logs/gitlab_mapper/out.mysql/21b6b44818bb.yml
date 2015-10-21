@@ -1,0 +1,24 @@
+edge: 13731a4b1e5bc3f61db419b205a01189
+ingress:
+  group: dns
+  crypto: driver-wireguard
+scope:
+  origin: dhcp-vendor
+  failover: false
+  helm: 86b09fe1c61fdc27
+  entropy:
+    pod: 179.45.123.94
+    yaml: runner-salt
+    scope: role-payload
+release: 27.9.28.225
+alerts: regex
+http:
+  object:
+    - true
+  legacy: 115.49.1.239
+  loader:
+    - vxlan-stream
+  legacy: 403664e2eaefb512
+  grpc:
+    factory: 82.115.191.4
+  cli: tls

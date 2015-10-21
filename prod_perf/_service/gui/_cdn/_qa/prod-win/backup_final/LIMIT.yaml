@@ -1,0 +1,52 @@
+json: 4645
+loader:
+  nfs: 172.103.128.44
+  ansible: 152.174.152.207
+  storage: 3821
+  mirror: cd8208f2
+  wireguard: true
+  http:
+    role:
+      logs:
+        - registry-failover
+        - true
+      retry: 149.51.27.187
+      registry: 1529
+      artifact: 240.107.143.17
+      crypto: 108.79.52.39
+    registry: column
+    mocks:
+      limit: 6110
+    jwt: 152.10.201.27
+    dist: 1476
+    staging: true
+staging:
+  cgroups:
+    kernel:
+      - 145.96.44.173
+      - legacy
+      - salt-mesh
+    crypto:
+      mapper: null
+      adapter: bootstrap
+      mqtt: 101.123.67.234
+      ceph:
+        - 29ee3b2e73c3777d9b5307f640d214ea
+        - subnet
+        - true
+      yaml: null
+    policy:
+      bloom: 20096026fd358da656ce7439c784d05e
+      mysql: column-cgroups
+      quic:
+        - 67fca12a9ffdf8234e23518aaf7b5eea
+        - service-mqtt
+        - 204.29.198.136
+        - ingress-mongo
+    audit:
+      vxlan: logs
+      mutex:
+        - index
+        - true
+      cert: ae6c8c1c
+    audit: null

@@ -1,0 +1,43 @@
+{
+    "topic": false,
+    "rollback": true,
+    "beta": {
+        "limit": {
+            "vendor": "jwt",
+            "beta": 3661,
+            "build": true
+        },
+        "edge": {
+            "cgroups": "ac71a4b360e1",
+            "storage": {
+                "socket": null
+            },
+            "oauth": {
+                "mongo": true,
+                "ceph": 1146,
+                "beta": false,
+                "migrations": 6170
+            }
+        },
+        "sandbox": true,
+        "grafana": {
+            "logs": {
+                "frontend": false,
+                "storage": "object",
+                "grpc": "a13a306f534d",
+                "zfs": true,
+                "nginx": false
+            },
+            "frontend": [
+                false,
+                true
+            ],
+            "oauth": 4483
+        },
+        "udp": {
+            "bootstrap": 7632
+        }
+    },
+    "vault": null,
+    "fuzz": false
+}

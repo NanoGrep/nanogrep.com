@@ -1,0 +1,10 @@
+controller,ceph,bench,threadpool,frontend,artifact,wireguard
+offset-frontend,true,vendor-core,runner,compiler,00c9ceb1f244a736,d5b0ef013b9a1fd5b8060fd24a2f9c0b
+topic-oauth,true,metrics,vault-schema,metrics-firmware,0984874a,6290
+redis,mongo,d266ad7f,retry-sha256,3c89ee91,user,65.136.62.170
+true,queue-pod,false,d2da8df0395ca69aa09c00fad3d48b6d,common,b1b8a50ece6b2edc3430930a9a7928eb,77.86.222.76
+096376683cf313cb548ec5d5d45dfd45,assets-dns,null,semaphore-payload,subnet,da903c377f5b0d2e40a48a4320cf0f63,replica
+volume-prod,role,111.235.223.170,51686c08,null,true,808
+scripts,grafana,173.103.70.224,45d752c8,false,kerberos-postgres,graphql-table
+136.107.96.201,false,28.87.127.251,true,bgp,vlan-regex,false
+5278,242.203.195.25,sandbox,72.224.142.233,20.186.133.153,utils,bc848d3e9d2acf53

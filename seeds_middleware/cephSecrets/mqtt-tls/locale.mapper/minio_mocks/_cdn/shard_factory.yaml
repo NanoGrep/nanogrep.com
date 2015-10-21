@@ -1,0 +1,60 @@
+semaphore:
+  mqtt: elastic
+  payload: legacy
+  driver: sdk-hmac
+  compiler:
+    tcp:
+      kerberos: tools-limit
+      nginx:
+        - false
+        - 6016
+        - 5442
+        - 5258d3cc805a100e
+      handler: null
+    factory: nfs
+    graphql: api
+  locale: 177.165.190.181
+  tcp: false
+tcp:
+  json: dist
+  templates: retry-fixtures
+  cert:
+    - 5b8f41052bf51109
+    - 212.23.96.75
+    - false
+entropy:
+  mapper:
+    vxlan:
+      stream: null
+      router: 158.49.96.116
+      backend: 89.172.80.175
+      jwt: 233.182.14.211
+    pod: parser-volume
+    replica: 6359
+    release: 9983
+    socket:
+      node: 3811
+      iptables: pod-topic
+      graphql: true
+      origin: 9808
+  stack:
+    traces:
+      - nat-storage
+      - true
+      - shard
+      - 129.68.191.184
+    mocks: f5ddb049
+  sandbox: 7723
+  batch:
+    schema: envoy
+    prometheus:
+      vxlan: 108371fd9fa25872
+    locale: sha256
+    aes:
+      - 7878
+      - true
+      - coroutine-gateway
+      - driver
+    envoy: 8fa3f4d3
+shard: null
+prometheus: compiler-legacy

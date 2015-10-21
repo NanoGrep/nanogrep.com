@@ -1,0 +1,4 @@
+prod: cookie-common
+core:
+  dns: vlan
+  lambda: nat

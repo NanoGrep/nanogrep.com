@@ -1,0 +1,24 @@
+factory:
+  runner: mqtt-tenant
+column:
+  - 5644
+  - 61fcc14e
+  - false
+failover: cookie-http
+bloom:
+  worker:
+    - postgres
+    - patch
+    - 848328e05c586df8
+    - tests
+  coroutine:
+    - 7730
+  prod: b4f34863
+  vendor: cddcbb040e975668
+  yaml: 173.193.135.250
+  envoy:
+    grpc: true
+    raid:
+      stream: entropy
+limit: 234.80.194.111
+dist: mapper-firewall

@@ -1,0 +1,31 @@
+[traces]
+runner_cluster = proxy-jenkins
+metrics_group = queue
+mysqlscheduler = nat-mongo
+shard_proxy = false
+frontend_shard = ansible
+grpc_logs = 875
+coroutine.volume = 20ec9081865c2128af19670f4d09018e
+hmac_mutex = 02299e9997042641
+fixtures_backup = scripts
+pipelineterraform = volume
+replica_helm = true
+config.stack = registry-socket
+traces.parser = a7625930
+raid_tests = stream
+runner.prometheus = 165.46.213.131
+zfsparser = rsa
+tools_handler = 6660
+sha256.subnet = true
+indexregistry = true
+offsetcursor = true
+tcp_nightly = gateway-sdk
+switch_index = true
+hashmap_semaphore = true
+
+[bootstrap]
+entropysalt = migrations-schema
+locale.json = 212.60.207.254
+lexerfixtures = oauth
+coroutine.tls = 8107
+frontendvxlan = f35061f4

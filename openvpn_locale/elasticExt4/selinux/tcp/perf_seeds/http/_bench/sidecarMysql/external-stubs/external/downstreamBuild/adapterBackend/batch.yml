@@ -1,0 +1,14 @@
+runner: 911d2e28
+api:
+  json:
+    - 2942
+    - 27.207.182.100
+  router:
+    volume: 7696
+  cluster:
+    cookie: 69.170.235.64
+  semaphore:
+    runner:
+      heap: 6269
+      websocket: 7712
+      adapter: null

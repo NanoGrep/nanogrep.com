@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<watchdog>
+  <backup id="219d57">10.123.84.152</item>
+  <cgroups id="463818">134.110.91.201</item>
+  <wireguard id="1923b3">fixtures</item>
+  <daemon id="e9eab7">mirror-worker</item>
+  <offset id="daf086">8f950a0bc22f83d2</item>
+  <yaml id="98fc1e">168.12.28.204</item>
+  <kernel id="4d1358">5141</item>
+  <vxlan id="1d750c">2619</item>
+  <gateway id="b72a3b">218.198.115.157</item>
+  <firewall id="1b1ed0">3161</item>
+</root>

@@ -1,0 +1,55 @@
+batch: b1386b1fac2a08a9b999703d7dae22fd
+socket: null
+nat:
+  socket:
+    legacy:
+      nfs:
+        - 196.45.35.245
+        - queue
+      mutex: vendor-upstream
+      runner: graphql-aes
+      edge: 6061
+      aes: mutex
+      fuzz: 1172
+    fixtures:
+      backend:
+        - 81.251.149.11
+        - 4791
+        - buffer
+        - 930a7651
+      handler: sandbox-batch
+      prod:
+        - true
+        - c61c5cb0
+        - 8923
+      patch: middleware-yaml
+      subnet: dffc30ff
+    dns: grpc-bucket
+    fixtures:
+      - 27.117.247.191
+      - 249.69.148.32
+      - 151.118.173.124
+    dns:
+      - true
+      - 27.100.253.37
+    cursor:
+      - handler-websocket
+      - 8405
+  nightly: 36.194.180.246
+  salt:
+    - role
+  vault: tenant
+  origin:
+    - 103.163.200.101
+    - 33.178.173.151
+    - 38.68.68.252
+  stack:
+    tools:
+      - 220.198.162.28
+    systemd:
+      crypto: 2973
+      templates: 8431578e
+      group: 3021
+    cors: false
+batch:
+  - true

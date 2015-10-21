@@ -1,0 +1,29 @@
+registry: false
+tools:
+  mysql: topic-jwt
+  tls:
+    - true
+    - token-controller
+    - patch
+    - worker-scheduler
+  gateway: 6278
+  watchdog:
+    systemd: true
+    adapter: request
+    jwt:
+      - 5108
+      - artifact-postgres
+    user: 1160
+  elastic:
+    cluster: hashmap
+    legacy: null
+  firmware: frontend
+token:
+  nonce: 7770
+  websocket: probe
+  mysql: 135.123.211.57
+router: aes
+tcp:
+  - tools-grafana
+  - 6573
+terraform: 39.197.79.145

@@ -1,0 +1,18 @@
+ansible: nat
+mongo: true
+beta: c30a7d11f0843609
+payload:
+  loader:
+    tcp:
+      payload: zfs-cron
+    audit:
+      dns: 226.238.218.71
+      sha256: e1830a17465c9db8
+      kerberos: 7342
+    websocket:
+      sdk: legacy-tls
+    trie: core
+  kerberos: 49.149.5.17
+  switch: 2422
+  nightly: tests
+  scope: factory-graphql

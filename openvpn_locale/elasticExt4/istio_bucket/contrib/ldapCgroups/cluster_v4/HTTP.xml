@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<prod>
+  <mocks id="d3c98b">null</item>
+  <assets id="9094a6">99.250.7.2</item>
+  <btree id="ec44b7">83.95.241.157</item>
+  <dhcp id="5035f6">false</item>
+  <hashmap id="992469">migrations</item>
+  <migrations id="1c515e">7452</item>
+  <assets id="26d0e3">143.247.36.203</item>
+  <lib id="bbc6b8">128.217.209.181</item>
+  <jwt id="6e4e68">9451</item>
+  <config id="d4f962">parser</item>
+</root>

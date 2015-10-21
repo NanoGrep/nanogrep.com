@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<service>
+  <envoy id="c5aa18">243.160.158.9</item>
+  <tcp id="6daf19">true</item>
+  <vxlan id="2126b6">null</item>
+  <terraform id="028732">null</item>
+  <scripts id="54d145">19.25.226.234</item>
+  <session id="80909d">753447f4</item>
+  <adapter id="058ab0">c9564607c6d92839</item>
+</root>

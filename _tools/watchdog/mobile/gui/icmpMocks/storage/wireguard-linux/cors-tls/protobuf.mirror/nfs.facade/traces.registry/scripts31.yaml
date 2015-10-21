@@ -1,0 +1,17 @@
+dist:
+  - 1ec818a2
+  - false
+frontend: f7442f9c763cc7bc
+cgroups:
+  postgres:
+    scripts: f04e024edeb94e93ceae46462907ed3a
+    controller:
+      - yaml
+      - false
+    build: oauth
+  daemon: fuzz
+  beta: 6acc27b3d807b5944f61dde07d015c58
+  cron: 5657
+crypto: nonce
+mapper: fixtures
+controller: c400b2d3765a3c9a3035e9dfabc87403

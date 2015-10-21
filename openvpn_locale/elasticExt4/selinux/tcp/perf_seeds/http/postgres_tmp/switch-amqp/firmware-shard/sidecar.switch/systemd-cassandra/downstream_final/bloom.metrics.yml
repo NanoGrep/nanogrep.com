@@ -1,0 +1,5 @@
+watchdog: stack
+nginx: tls-service
+object:
+  offset: true
+  upstream: 383

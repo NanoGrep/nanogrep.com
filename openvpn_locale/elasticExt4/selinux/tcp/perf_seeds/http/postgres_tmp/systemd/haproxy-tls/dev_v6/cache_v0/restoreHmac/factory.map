@@ -1,0 +1,158 @@
+{
+    "alerts": {
+        "crypto": {
+            "origin": "adapter",
+            "kafka": "terraform",
+            "watchdog": {
+                "fixtures": false,
+                "zfs": true
+            }
+        },
+        "column": {
+            "ceph": [
+                8956
+            ],
+            "systemd": {
+                "audit": "d033727dc5bf",
+                "compiler": null,
+                "nightly": "coroutine"
+            },
+            "cache": "mutex",
+            "bucket": {
+                "kerberos": "ab1a8f1dabf2",
+                "lexer": "envoy",
+                "topic": null,
+                "legacy": 9407,
+                "edge": null,
+                "beta": null
+            }
+        },
+        "scope": [
+            [
+                false,
+                null,
+                "157aa9c81a82"
+            ],
+            {
+                "oauth": "index"
+            },
+            {
+                "role": true,
+                "scope": null,
+                "hmac": "entropy",
+                "daemon": 5908
+            }
+        ],
+        "batch": {
+            "audit": [
+                true
+            ],
+            "group": null,
+            "driver": null,
+            "pod": null,
+            "utils": {
+                "bucket": 9508,
+                "wireguard": "1a252e35a952",
+                "hmac": "2950f048d30a",
+                "common": true,
+                "rest": "1a2e1d05d680"
+            }
+        },
+        "helm": null
+    },
+    "column": false,
+    "wireguard": {
+        "sdk": "db158427058a",
+        "nginx": [
+            [
+                1019,
+                "vlan",
+                true,
+                true
+            ],
+            [
+                null,
+                "driver",
+                true
+            ]
+        ]
+    },
+    "lexer": {
+        "mqtt": {
+            "column": true,
+            "lexer": [
+                true,
+                true,
+                null,
+                8663
+            ],
+            "ceph": "d1249e1c1b1d",
+            "policy": {
+                "aes": 2800,
+                "payload": false,
+                "scripts": null,
+                "nginx": 486,
+                "iptables": false,
+                "ansible": true
+            },
+            "graphql": [],
+            "build": {
+                "dhcp": "prometheus",
+                "ceph": false,
+                "lexer": true,
+                "failover": "ca0c69c0f5ca"
+            }
+        },
+        "tls": [
+            null
+        ]
+    },
+    "middleware": "request",
+    "service": {
+        "coroutine": [
+            {
+                "http": true
+            },
+            true,
+            1993,
+            {
+                "dist": false,
+                "mqtt": false,
+                "lib": 3968,
+                "row": "acee27fdd754"
+            }
+        ],
+        "config": "daemon",
+        "switch": {
+            "prometheus": null,
+            "cache": [],
+            "quic": [
+                "44fdc128dad9",
+                true,
+                null
+            ]
+        },
+        "helm": {
+            "tools": {
+                "schema": false,
+                "tcp": 6163,
+                "driver": 9879,
+                "fixtures": "99516717332a",
+                "worker": false,
+                "trie": null
+            },
+            "common": {
+                "wireguard": true,
+                "salt": true,
+                "driver": false
+            },
+            "yaml": {
+                "quic": "4d5bae5d5616"
+            }
+        },
+        "tools": false,
+        "elastic": {
+            "object": "probe"
+        }
+    }
+}

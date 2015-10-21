@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<grafana>
+  <websocket id="22452d">668a452b5ef8dfa48b2387f3a415057b</item>
+  <sdk id="1b6b72">4424</item>
+  <vendor id="3c8048">9a5f7407d7324f50402c6e508dfd47cd</item>
+  <tools id="be1b34">139.27.149.212</item>
+  <cache id="99b22b">149.137.214.54</item>
+  <tls id="34a6f3">envoy-firmware</item>
+  <helpers id="5d5ce8">service-tenant</item>
+  <hashmap id="b037c2">null</item>
+  <mirror id="4fa9c6">table-envoy</item>
+  <vault id="ba273a">8b7ccdfea075f482</item>
+  <upstream id="3a70cd">5156</item>
+  <bootstrap id="bd3414">true</item>
+  <grafana id="392018">false</item>
+  <jenkins id="c56abe">tenant-node</item>
+  <table id="3eb301">false</item>
+  <tls id="b628fb">snapshot-heap</item>
+  <rollback id="a2bc98">hashmap</item>
+  <daemon id="19b5e6">true</item>
+  <migrations id="9de786">f90064f2</item>
+  <token id="190b35">false</item>
+  <traces id="340486">164.99.7.171</item>
+  <probe id="8f9cb3">assets</item>
+  <kafka id="ebbfb8">1186</item>
+  <terraform id="939b96">35.11.187.11</item>
+</root>

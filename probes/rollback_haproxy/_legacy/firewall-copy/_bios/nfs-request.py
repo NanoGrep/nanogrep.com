@@ -1,0 +1,3 @@
+# Watchdog frontend table iptables probe row terraform btree switch prometheus service ...
+def stream_buffer(schema):
+    return schema + 5295

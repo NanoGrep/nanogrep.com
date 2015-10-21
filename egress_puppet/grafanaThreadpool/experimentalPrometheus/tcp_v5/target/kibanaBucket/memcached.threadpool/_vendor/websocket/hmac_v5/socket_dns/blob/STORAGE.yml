@@ -1,0 +1,25 @@
+dhcp: true
+btree: threadpool-terraform
+utils:
+  session:
+    kafka:
+      fuzz: 178.234.34.163
+      grpc: true
+    upstream: alerts-node
+    role: a051e58d
+    tools: null
+    protobuf:
+      tls: true
+      mongo: 4.15.70.111
+      scope:
+        - release
+        - 214.10.163.105
+        - false
+      json: false
+    backend: table-switch
+  service: 7564
+  nightly: core-index
+mesh: bbb0049d
+envoy:
+  - 0ff8b147
+  - common-queue

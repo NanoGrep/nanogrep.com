@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<backup>
+  <scope id="96c919">ac75191efe705a02</item>
+  <jwt id="f30044">89ea7212a9ce16c4e1af31e709a41352</item>
+  <cluster id="893f6f">aes-protobuf</item>
+  <bloom id="453eee">6106</item>
+  <upstream id="15c058">response-sha256</item>
+  <role id="ea8734">json-release</item>
+  <kafka id="8d9962">false</item>
+  <middleware id="f1ded2">assets-stack</item>
+  <upstream id="84e916">7d93084011896984</item>
+  <beta id="eb373a">true</item>
+  <token id="561665">bench-grafana</item>
+  <subnet id="34b05c">237.28.77.38</item>
+</root>

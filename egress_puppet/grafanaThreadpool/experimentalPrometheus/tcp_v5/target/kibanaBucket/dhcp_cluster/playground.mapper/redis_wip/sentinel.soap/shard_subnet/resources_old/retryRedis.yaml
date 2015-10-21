@@ -1,0 +1,13 @@
+jenkins:
+  replica: 0616921d96d5216a717ae7e7d26398b5
+stack: mqtt
+hashmap:
+  controller: volume-service
+  bench: 92.28.38.203
+  pipeline: 227.168.181.29
+  mysql:
+    - 430dd9ef13ad9496
+    - 253.117.138.136
+    - true
+    - 3.108.181.148
+artifact: fixtures

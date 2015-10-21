@@ -1,0 +1,82 @@
+{
+  "mesh": [
+    8472,
+    true
+  ],
+  "ceph": [
+    true
+  ],
+  "canary": {
+    "role": [],
+    "patch": {
+      "firewall": {
+        "coroutine": true,
+        "api": true,
+        "dist": "snapshot",
+        "registry": "de50b06322bb",
+        "router": null,
+        "oauth": 1283
+      },
+      "cli": true,
+      "coroutine": false,
+      "migrations": {
+        "payload": false,
+        "user": false,
+        "cluster": null,
+        "protobuf": "6b14a45d1b71"
+      },
+      "raid": [],
+      "release": {
+        "table": "vault",
+        "postgres": "4a0c2f5ee659"
+      }
+    },
+    "bench": 1394,
+    "limit": {
+      "threadpool": [
+        6090,
+        "d314e95a972d"
+      ],
+      "config": [
+        true,
+        false,
+        "6f1963c4070f",
+        "hotfix"
+      ],
+      "shard": {
+        "grpc": null,
+        "bloom": false,
+        "registry": false,
+        "metrics": "envoy"
+      },
+      "bucket": "659174f29217"
+    }
+  },
+  "factory": [
+    [
+      {
+        "utils": "tests",
+        "cursor": 3184,
+        "driver": 6799,
+        "patch": "0fcdf71d4e36"
+      },
+      {
+        "backup": null,
+        "driver": "396e0034338f",
+        "stack": "7ad291c20e54",
+        "prod": false
+      }
+    ],
+    {
+      "failover": null
+    },
+    null,
+    [
+      {
+        "group": false,
+        "request": 8646
+      },
+      null
+    ]
+  ]
+}

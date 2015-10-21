@@ -1,0 +1,18 @@
+gateway: dist-helm
+env:
+  env:
+    - legacy
+    - true
+    - 4574
+  worker:
+    - null
+    - fixtures
+    - api
+    - 169.143.39.182
+  terraform: 733f7e717a3f494022e09048d13de1c0
+  artifact: 2000
+  subnet:
+    - null
+    - 175.5.164.254
+    - tcp
+    - 225.92.251.207

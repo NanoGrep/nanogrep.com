@@ -1,0 +1,46 @@
+{
+  "cert": {
+    "row": "postgres",
+    "limit": [
+      4564,
+      {
+        "common": "b8d73a3037ff",
+        "legacy": true,
+        "batch": null,
+        "subnet": "origin",
+        "middleware": "4a67aad22efa",
+        "factory": false
+      }
+    ],
+    "beta": "16dce4fdfd9b",
+    "offset": null
+  },
+  "pod": {
+    "utils": [
+      {
+        "templates": false,
+        "metrics": "41f9e7e4e41b",
+        "ingress": null,
+        "volume": false
+      }
+    ],
+    "cgroups": 683
+  },
+  "probe": true,
+  "helpers": true,
+  "postgres": {
+    "ingress": null,
+    "cron": "envoy",
+    "aes": {
+      "sandbox": "threadpool",
+      "bucket": {
+        "threadpool": false
+      },
+      "scheduler": {
+        "udp": false,
+        "parser": "factory"
+      }
+    },
+    "policy": null
+  }
+}

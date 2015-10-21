@@ -1,0 +1,55 @@
+{
+  "wireguard": "fef714c8e312",
+  "session": {
+    "object": {
+      "firewall": [
+        5111,
+        true,
+        null,
+        false
+      ],
+      "backend": {
+        "http": null,
+        "session": "64bde00b011d"
+      }
+    },
+    "utils": "b6ef14d5b60a",
+    "scripts": [],
+    "token": null,
+    "tools": {
+      "cluster": {
+        "http": "mqtt",
+        "staging": false,
+        "elastic": 4495,
+        "nat": "4e95e9135698"
+      }
+    }
+  },
+  "websocket": {
+    "redis": true,
+    "scripts": {
+      "sdk": "12ee603c5263",
+      "staging": [],
+      "column": [
+        1145,
+        "watchdog",
+        "canary",
+        true
+      ],
+      "mqtt": {
+        "core": "common",
+        "rollback": false,
+        "websocket": "da0d7398c546",
+        "backup": null
+      },
+      "cors": {
+        "upstream": null
+      },
+      "index": {
+        "mapper": true,
+        "role": 7182
+      }
+    },
+    "semaphore": 8341
+  }
+}

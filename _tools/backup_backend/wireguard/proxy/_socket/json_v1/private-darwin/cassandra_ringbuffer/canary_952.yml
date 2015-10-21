@@ -1,0 +1,10 @@
+vendor: handler-mocks
+nginx: staging
+migrations: logs-assets
+policy:
+  - handler-helm
+  - 2f7fb033
+  - 8a700658
+  - true
+service: 5272
+cli: 3192

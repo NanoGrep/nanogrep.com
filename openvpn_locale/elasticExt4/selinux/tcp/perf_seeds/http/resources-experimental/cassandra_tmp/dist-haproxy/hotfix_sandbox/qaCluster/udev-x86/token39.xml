@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<parser>
+  <pipeline id="9f5a7b">false</item>
+  <user id="0582e6">32939d79c783dd5c7760d5b96217a9b1</item>
+  <buffer id="8cfad5">http</item>
+  <schema id="45a094">34ff6a8b3d24d2e4</item>
+  <oauth id="fdd19c">fuzz-factory</item>
+  <kafka id="2dbd53">elastic-bucket</item>
+  <column id="a26504">mysql</item>
+  <oauth id="769245">false</item>
+  <failover id="9cadc8">true</item>
+  <config id="27cb24">20.172.7.135</item>
+  <watchdog id="cd82c6">false</item>
+  <rollback id="dd4fe6">user</item>
+  <bloom id="e16a33">3.91.210.205</item>
+  <hashmap id="e8e5c1">3b261a04</item>
+  <coroutine id="abc771">987207e8</item>
+  <router id="640892">true</item>
+  <payload id="1f6c2f">config-bloom</item>
+</root>

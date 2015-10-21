@@ -1,0 +1,48 @@
+pod:
+  dhcp: 7137
+  scripts: 8354afc4651a5ddee3b0eaf2ea56c73c
+  failover: 409
+  cert: 82e9566adc8b45e31cc4a1eb3de8a44a
+  node:
+    volume: f5cf48df
+  traces:
+    vault:
+      - btree-daemon
+    factory: sdk
+    kafka: 6030
+    tenant: 7998
+tenant:
+  mysql:
+    pod: null
+    salt: 7790
+  switch: 834df0a7c2f0f4b4
+  lambda: false
+  scheduler:
+    worker: role
+    yaml:
+      switch: api
+    logs:
+      volume: token-firewall
+      tests:
+        - envoy-origin
+        - utils-http
+        - api-prometheus
+      service: response-helpers
+      terraform: 3132
+      response: 169.190.253.135
+    logs:
+      buffer: release-tcp
+      vlan:
+        - 2814
+        - 1872
+        - entropy-table
+      session: 116.197.209.35
+      watchdog: false
+      schema: true
+    systemd: 1059
+firmware: common
+retry: sdk
+sdk:
+  - row-runner
+  - cert
+firmware: nightly

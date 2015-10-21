@@ -1,0 +1,52 @@
+edge:
+  cli: 114.179.28.247
+  controller:
+    - true
+  sha256: ansible
+  semaphore: null
+  cors:
+    shard:
+      prod:
+        - templates
+        - nonce-core
+        - 178.248.187.236
+      metrics: middleware-nfs
+      dist:
+        - index
+        - worker-batch
+        - false
+      rsa: 708
+      watchdog: dist
+      token: core
+    object:
+      canary:
+        - 4094
+        - 2f45cb5beaac37ba
+      lib:
+        - 5311
+        - 139.141.213.92
+        - mirror
+      group: audit
+      mirror:
+        - 232.123.7.223
+        - 9337
+        - null
+    ingress:
+      - 97342aa0a3562dd011c04f5a73d2a6ba
+      - ee9432a203cb312ca97afc1dc75d0abe
+    frontend:
+      cluster: hashmap
+      user: nginx-trie
+      grafana: true
+      api: 1607
+    replica:
+      quic: false
+      object: 5291
+      coroutine: bgp-service
+      json: kernel
+    oauth:
+      hmac:
+        - 229.18.123.70
+        - 40c89b916a3ea1bd747a19bcce7b2adb
+        - legacy-release
+postgres: 34e5ca5a14e75acb451076923cd5ea9e

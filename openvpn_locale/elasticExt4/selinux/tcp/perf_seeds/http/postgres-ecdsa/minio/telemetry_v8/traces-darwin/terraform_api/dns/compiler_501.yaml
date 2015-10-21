@@ -1,0 +1,42 @@
+threadpool:
+  postgres:
+    - upstream
+    - 4844
+  scripts: true
+  nightly:
+    ldap: ansible
+    service: watchdog
+    postgres:
+      - 3719
+    entropy:
+      bootstrap: b3ba3e8715807e0f
+      bucket: fff81d745106a976
+      shard:
+        - 0843c598aa04f09e
+        - yaml-table
+      kerberos: queue
+    ingress: lexer
+cookie: ca5a4a1aacf7e7ce
+runner: graphql-response
+shard:
+  rest:
+    - true
+  row:
+    nonce:
+      batch: user-heap
+      backend: 5725
+      service: mongo
+      api: scope
+    middleware: parser-factory
+    artifact:
+      tenant: 44e0a26bd4436102f7e8d0fe669849ae
+      raid: 3869
+      policy: 9cba813fb6e0efa57c9373d3ed06aebe
+    scope: systemd
+    mysql: grpc
+  snapshot:
+    token: null
+    json: controller
+  iptables: 8.226.156.254
+  adapter: null
+subnet: 796c70ba6c18fe6316d2b8c504b69501

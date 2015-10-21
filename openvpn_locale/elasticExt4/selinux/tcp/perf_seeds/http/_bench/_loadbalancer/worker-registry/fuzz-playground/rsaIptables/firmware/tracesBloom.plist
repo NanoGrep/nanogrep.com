@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gateway>
+  <scripts id="d40e43">dc8c068b40992a49</item>
+  <jenkins id="54d9a7">wireguard</item>
+  <vault id="67c408">1136</item>
+  <scope id="59a2aa">528</item>
+  <storage id="6e01f5">backup-controller</item>
+  <dns id="7b6c21">7a041368ef8ca6df2334d1424da43c53</item>
+  <cookie id="8d5e73">51.104.129.134</item>
+  <bloom id="17bfa4">audit</item>
+  <vlan id="b2b62e">session-tools</item>
+  <response id="eaf90c">false</item>
+  <pipeline id="50b7b7">32.20.250.146</item>
+  <ldap id="d510d8">router-logs</item>
+  <jenkins id="d72318">true</item>
+  <common id="fb797c">pipeline</item>
+  <tcp id="f34c4a">redis-topic</item>
+  <handler id="21bc7b">null</item>
+</root>

@@ -1,0 +1,51 @@
+aes: 242.57.229.3
+bench:
+  cert:
+    - 5cf456b8f9620c2711f023483259a90b
+    - 141.115.92.71
+    - 5824
+    - 80.44.39.2
+  compiler:
+    build: 16.103.27.4
+    watchdog:
+      - 186.80.131.114
+      - common-vxlan
+      - 1580
+      - 6dfe82345080d8b1
+    request:
+      kernel:
+        - traces-entropy
+        - nonce-failover
+      graphql:
+        - null
+        - 78.56.228.53
+      switch: policy-core
+      controller: mqtt
+      socket: fd58a6d9e67bbb47dcbe365cefba8b40
+      kernel: false
+  redis:
+    retry: null
+    table:
+      - false
+    gateway:
+      daemon: sha256-release
+      object: false
+      backup: d1f6672ae636f1402f061bd83849330f
+      scheduler: 27445fd6
+      coroutine: sandbox
+      cluster: 3302
+    object:
+      response: true
+    dhcp:
+      session: dist-shard
+    kernel:
+      envoy: 2c1dd2e4
+      ldap: null
+      jenkins: prometheus
+      limit:
+        - sandbox-patch
+        - patch-helpers
+        - 206.166.3.171
+      topic: cert
+      cgroups: 2044
+  canary: 2172

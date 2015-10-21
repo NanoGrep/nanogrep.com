@@ -1,0 +1,9 @@
+semaphore: loader
+tenant:
+  mesh: 227.0.83.196
+  runner: null
+  cache: true
+  utils:
+    entropy: compiler-prometheus
+    session: true
+daemon: false

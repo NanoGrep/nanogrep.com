@@ -1,0 +1,20 @@
+socket: 7873
+lambda: 6813
+buffer: wireguard-templates
+migrations: beta
+payload:
+  http: offset
+  kafka: f5e76c825ac95c10fbff8acfaec6ab43
+  replica: 203.195.33.243
+  mirror:
+    runner:
+      bench: queue
+      loader: role-limit
+    bloom: probe-bucket
+    nat:
+      - udp-regex
+      - object-dns
+      - null
+      - 6.78.78.99
+  migrations: 0cce8150
+  socket: 2725

@@ -1,0 +1,60 @@
+router:
+  session:
+    daemon:
+      - config-vlan
+    replica:
+      jwt:
+        - cd36c3b3c9bc8daa
+      storage: tls
+      hotfix: true
+      release: 57.199.86.191
+      controller: 83.222.94.207
+      artifact: 30030fa3782e4b50
+  service: kafka-session
+  daemon:
+    bootstrap: 149.249.141.4
+    cursor:
+      factory: 105.116.172.148
+      sdk: 160.43.80.153
+      mesh: firewall-token
+      rest:
+        - 5153
+        - false
+        - 4841
+      jenkins: 245.246.171.232
+    mirror:
+      - null
+      - false
+      - cd70d7b9
+      - ansible-legacy
+    watchdog:
+      - false
+row: null
+gateway:
+  ldap:
+    frontend: null
+    iptables: envoy-scheduler
+    yaml:
+      - 2.32.249.179
+      - 2421
+      - token
+      - common-envoy
+  user: b5936ba8
+  column:
+    nfs: 214.222.15.196
+    raid: lambda
+    failover:
+      - 53f47d93
+      - true
+    vault: false
+    batch:
+      mesh:
+        - prod
+        - 3277265fb17d603943d5490a47c1b299
+      row: 6c770794d2b6ee678a9fc603aaa2741b
+      nonce: 159.96.41.191
+      ceph: true
+      oauth: 52.187.117.187
+      scheduler: kerberos-sha256
+  cookie: systemd
+sha256: 478

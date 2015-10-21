@@ -1,0 +1,38 @@
+staging:
+  - ee38e7e41cacb4ed3464b8094be957a8
+  - retry-fuzz
+  - cache
+  - 2.8.25.33
+utils: 7924
+pod: 216.83.139.134
+cache:
+  - 50.184.111.254
+  - 194.61.163.103
+  - null
+  - quic
+elastic:
+  beta: 2971
+  queue: e4b78283
+  mqtt: role
+  handler: 5941
+  switch:
+    kafka:
+      scripts: 41a48016
+      firewall: 186.181.101.135
+      tls: 639677c2de3b097546ed71fc91647534
+      mocks: backend
+      scripts: session-cookie
+      volume:
+        - 100.241.171.211
+    nginx:
+      grpc: table
+      regex: false
+      cookie:
+        - 29ad7e58fb5046a2563914c6937661e2
+        - 9012
+        - templates-frontend
+        - b0e1b417965b2841e3869ac399d54f69
+      nfs:
+        - snapshot-firewall
+  metrics: fuzz
+iptables: prod

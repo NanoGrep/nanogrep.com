@@ -1,0 +1,27 @@
+semaphore:
+  ingress: true
+  factory:
+    - b3d9d8f4949642de
+    - tcp
+    - legacy-http
+  column: 610
+  registry: 213.253.136.30
+  scheduler:
+    frontend:
+      tcp: true
+      json: scope-runner
+      daemon:
+        - 7312
+        - 1c8be9e7e729f8ce22b60dfd6b338c40
+        - 15.95.192.6
+        - nightly-hashmap
+    mocks:
+      mongo: btree
+      handler: pipeline-lib
+      vxlan: 4756
+      crypto: 2435
+    lexer: ldap
+    bench: hashmap
+    group: false
+pod: 65.112.7.52
+postgres: 249.126.186.241

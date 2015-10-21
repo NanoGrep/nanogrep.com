@@ -1,0 +1,86 @@
+dns:
+  cluster: f2c91c546b37fc4a
+  cron:
+    nfs:
+      pipeline: 87acd9e3b4ed203b3dfd841480fe2381
+      scheduler: protobuf-tests
+      bucket: 15df5f74cc5a1b30
+      service: jwt
+      retry: 65.205.67.194
+    traces:
+      - 8.107.170.98
+      - 1282827e6e75fd34933dfab35bced38e
+      - 7696
+      - 1865
+    cache: snapshot-mirror
+    request:
+      row: yaml
+    fixtures: 7412
+  subnet: null
+  terraform:
+    patch: fa79f431
+    fixtures: e1c2b3c0
+    beta: 8251
+    shard: 190.157.5.147
+    gateway: registry
+  volume:
+    nat:
+      - daemon-loader
+      - 5003
+      - 213
+    origin: daemon
+    tenant: 6a04706d04b4ff8c619b08ba136082d1
+    nginx: null
+    proxy: 359edc20
+    staging:
+      dhcp: compiler
+      build: 05ff30797148f150
+      bgp: mongo
+  systemd:
+    watchdog: true
+    adapter: 8163
+adapter: null
+nat:
+  bucket: true
+  lib:
+    cache: a9227989
+    cookie: 9.223.190.100
+    vxlan:
+      hashmap:
+        - 2680
+        - 3b28bd007b1a95d7
+    config:
+      lambda: 7134
+      bootstrap: true
+      tenant: true
+      zfs:
+        - 1845
+        - null
+        - 26cf664497ef77d7febe875c6578bce8
+        - response
+      envoy: true
+      mqtt: bloom
+    vxlan:
+      scope: protobuf-cookie
+  lexer: 240.224.16.150
+queue:
+  release:
+    entropy:
+      backend: 38.169.54.82
+      hashmap: traces
+    build: failover-lambda
+  pipeline: table-core
+  vendor: 0b412ba6b292a610
+  cache: 67.9.140.189
+  cache: 1299
+  trie:
+    hotfix:
+      storage: 154.35.33.4
+      hmac: cache-sdk
+      kafka: 191.3.130.164
+      terraform: fuzz-policy
+      limit: 4365
+    service: true
+    fuzz: 6.162.12.119
+table: 5.143.242.44
+shard: null

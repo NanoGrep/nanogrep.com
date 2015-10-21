@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<cluster>
+  <replica id="e9c0c8">4417</item>
+  <trie id="5abcda">20.218.173.176</item>
+  <vxlan id="dd3797">pod-crypto</item>
+  <scripts id="ce3836">true</item>
+  <vault id="2e7091">edge-udp</item>
+  <vendor id="a7df8f">sha256</item>
+  <assets id="b89cb0">tcp-helpers</item>
+  <scripts id="82118c">b975f23891e47486</item>
+  <rollback id="42b3c1">8946</item>
+  <rsa id="f6d3d9">semaphore-tests</item>
+  <coroutine id="b66823">112.166.142.199</item>
+  <object id="1a5ff8">1250</item>
+  <elastic id="2483b7">grpc</item>
+</root>

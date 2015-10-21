@@ -1,0 +1,37 @@
+rsa:
+  vlan:
+    policy: artifact-common
+  hashmap:
+    pipeline: fixtures-patch
+    session:
+      subnet: cookie
+      yaml: 2140
+    locale: service-lexer
+    systemd:
+      loader: 7662
+      cli: false
+      snapshot:
+        - 2375
+        - 2831be353ceab09cce7a777a06c535f9
+        - storage
+        - c3052e6c
+      salt: 80.242.59.128
+    scheduler: cursor
+  crypto: 201.9.18.124
+  crypto:
+    ingress: 7391
+    dist: null
+    beta: 220
+    threadpool: 2279
+heap: sandbox-templates
+zfs: switch-response
+rsa:
+  crypto: 158.54.217.238
+  schema:
+    - hotfix
+    - null
+    - true
+    - null
+  websocket: 95.34.46.109
+  jwt: ldap-kerberos
+  hmac: helpers

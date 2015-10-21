@@ -1,0 +1,14 @@
+{
+  "utils": {
+    "regex": false,
+    "frontend": {
+      "semaphore": [],
+      "threadpool": "9b06aa028721",
+      "yaml": [
+        7421
+      ]
+    },
+    "kerberos": 4760
+  },
+  "wireguard": null
+}

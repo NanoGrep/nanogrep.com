@@ -1,0 +1,52 @@
+{
+    "driver": {
+        "jwt": {
+            "env": {
+                "firewall": "e5cfa73937cf",
+                "failover": "7ed64d295449",
+                "request": "9ad3ad05728b"
+            },
+            "firmware": {
+                "subnet": "d326b74b22cf",
+                "assets": "parser",
+                "raid": "postgres",
+                "trie": "legacy",
+                "threadpool": true
+            },
+            "gateway": {
+                "origin": 6131
+            }
+        }
+    },
+    "jwt": false,
+    "bgp": [
+        {
+            "adapter": null,
+            "object": {
+                "mapper": "canary",
+                "rollback": "http",
+                "canary": true,
+                "service": true
+            },
+            "json": {
+                "hotfix": false,
+                "hmac": "5ecb599d0437",
+                "compiler": 5223
+            }
+        },
+        [
+            "json",
+            true,
+            [
+                2978,
+                "74a043a0ffb3",
+                5968
+            ],
+            {
+                "proxy": "envoy",
+                "column": null,
+                "wireguard": null
+            }
+        ]
+    ]
+}

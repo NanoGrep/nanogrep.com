@@ -1,0 +1,20 @@
+group: object
+fixtures: replica
+controller:
+  volume: heap
+  firewall:
+    mirror: 215.209.223.101
+    terraform: rsa-mqtt
+  tls:
+    - 186.151.212.4
+    - true
+    - 135.222.236.39
+    - mirror
+  cluster: terraform
+  migrations:
+    - 42.146.164.198
+    - 8078
+  vxlan: assets-traces
+cert:
+  - logs
+  - hashmap

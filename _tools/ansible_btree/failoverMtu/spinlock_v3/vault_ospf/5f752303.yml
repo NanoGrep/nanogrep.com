@@ -1,0 +1,27 @@
+utils:
+  wireguard: 3265
+  controller: true
+env: true
+utils: snapshot-vlan
+gateway:
+  ldap: nat-redis
+  role:
+    helpers:
+      - mapper
+      - queue
+      - 7478
+      - 8063
+  helm: false
+  index: systemd-threadpool
+  grafana:
+    - loader
+    - probe
+    - false
+controller:
+  cache: regex-bucket
+  edge: 149.160.176.170
+  vault:
+    helm: 3998
+  cors:
+    registry: 9607
+  tools: response-raid

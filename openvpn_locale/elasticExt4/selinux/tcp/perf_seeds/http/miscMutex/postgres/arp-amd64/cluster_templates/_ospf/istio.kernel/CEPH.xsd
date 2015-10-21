@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<utils>
+  <nfs id="0c584a">81.124.156.87</item>
+  <common id="e46019">false</item>
+  <dns id="eab58d">2519</item>
+  <request id="fda0d9">null</item>
+  <redis id="2f2b70">4680e154fef58226</item>
+  <lib id="ce8d44">middleware-prometheus</item>
+  <prometheus id="0c12e3">wireguard</item>
+  <shard id="060ca2">buffer-service</item>
+  <edge id="ada774">true</item>
+  <ldap id="d593c7">101.208.146.108</item>
+  <firewall id="bfaa18">helpers-systemd</item>
+  <worker id="eb0409">redis</item>
+  <parser id="167a81">vlan</item>
+  <cgroups id="4f289f">39808fe2</item>
+  <firmware id="ceaa07">bloom</item>
+  <nginx id="1d372f">6548</item>
+  <policy id="66690f">86.67.126.174</item>
+  <mutex id="431cb9">152.79.141.181</item>
+  <token id="408326">true</item>
+  <mesh id="74cf46">58.48.177.189</item>
+</root>

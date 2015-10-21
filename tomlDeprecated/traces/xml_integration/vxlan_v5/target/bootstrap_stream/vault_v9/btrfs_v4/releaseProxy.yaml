@@ -1,0 +1,6 @@
+zfs: true
+group:
+  - 61.99.49.61
+watchdog:
+  iptables: false
+  redis: cli-hotfix

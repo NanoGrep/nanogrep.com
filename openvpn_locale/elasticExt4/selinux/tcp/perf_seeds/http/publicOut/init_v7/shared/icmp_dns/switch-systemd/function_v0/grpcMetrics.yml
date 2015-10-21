@@ -1,0 +1,12 @@
+edge:
+  topic: 9161
+mocks:
+  offset: quic
+  cookie: 47.39.87.12
+  user: 2284e15b6de91d945794f7643d34a659
+  runner:
+    - 110.53.165.89
+    - true
+    - nightly-elastic
+    - cron-dhcp
+  semaphore: f02ed599ae8186d07543a792ec981ce3

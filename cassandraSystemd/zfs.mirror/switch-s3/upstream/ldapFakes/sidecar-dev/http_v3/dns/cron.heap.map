@@ -1,0 +1,36 @@
+{
+    "mocks": null,
+    "staging": {
+        "audit": [
+            {
+                "wireguard": "tenant",
+                "kerberos": "327bc8a1db76"
+            },
+            null
+        ],
+        "dhcp": {
+            "index": 9700,
+            "tls": "2d42c9242ee0"
+        }
+    },
+    "factory": 6536,
+    "ansible": {
+        "request": [
+            6327,
+            [
+                5740
+            ],
+            9089,
+            true
+        ]
+    },
+    "http": [
+        true,
+        4580,
+        {
+            "gateway": true
+        },
+        null
+    ],
+    "service": true
+}

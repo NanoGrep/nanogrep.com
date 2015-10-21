@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<prometheus>
+  <gateway id="86699b">true</item>
+  <rest id="dc0abf">3608</item>
+  <patch id="f99cc3">2fb03d27532b4b7d</item>
+  <release id="8049d8">queue-service</item>
+  <release id="b8a4fa">198.141.221.180</item>
+  <token id="02cc41">806b6523dea8cf0b</item>
+  <assets id="74952b">4709</item>
+  <iptables id="3e59fa">136.113.113.102</item>
+  <btree id="d816c7">true</item>
+  <mqtt id="feaa40">174.169.26.192</item>
+  <scope id="5931a0">171.63.117.130</item>
+  <buffer id="fa432b">jenkins</item>
+  <compiler id="27ac25">226.43.169.22</item>
+  <stack id="940c8e">terraform</item>
+  <snapshot id="eb469c">kernel-registry</item>
+  <firewall id="15bc56">8e3ec2815e896b2a208bf0c0af2e21e1</item>
+</root>

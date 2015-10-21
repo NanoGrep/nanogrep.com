@@ -1,0 +1,23 @@
+[
+  {
+    "cluster": false,
+    "zfs": {
+      "hashmap": null,
+      "mapper": null,
+      "stream": {
+        "json": true,
+        "nginx": "helm",
+        "kernel": 2338,
+        "cli": "cab562187db5",
+        "dns": "94e993eb69e9",
+        "systemd": true
+      },
+      "schema": {
+        "retry": null,
+        "raid": "ac1dfe50d544"
+      }
+    },
+    "yaml": "1a6eac03325b",
+    "traces": 4718
+  }
+]

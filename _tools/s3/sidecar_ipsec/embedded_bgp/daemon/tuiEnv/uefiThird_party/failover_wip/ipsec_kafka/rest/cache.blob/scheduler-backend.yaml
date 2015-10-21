@@ -1,0 +1,32 @@
+schema:
+  threadpool: 5645e91472b667c0caa1004278206669
+  schema:
+    - 177.177.49.37
+    - 7445
+    - loader-wireguard
+    - 2289
+  rest: true
+  entropy: vlan
+  daemon: 426ab28e52bc090e
+  cert:
+    - env
+    - 95ff4f3dbde7da26
+    - null
+fixtures:
+  lambda: proxy-protobuf
+  service:
+    rest: false
+  parser: registry
+  gateway: 227.161.114.111
+  storage:
+    offset:
+      - 5159
+      - request-ldap
+      - 56.38.62.39
+    bgp: mesh
+    mapper: 3.19.252.250
+    vxlan: gateway-helm
+buffer: worker-mapper
+prometheus: 191.114.80.11
+scheduler: 1189
+service: null

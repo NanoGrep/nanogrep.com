@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<jenkins>
+  <api id="3472fe">false</item>
+  <rsa id="44b291">bootstrap-cursor</item>
+  <worker id="44c98f">heap</item>
+  <user id="50a096">fixtures-rsa</item>
+  <grafana id="377492">null</item>
+  <cli id="5f3267">true</item>
+  <env id="5a7729">4a738361</item>
+</root>

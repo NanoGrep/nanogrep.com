@@ -1,0 +1,87 @@
+{
+  "sha256": {
+    "migrations": [
+      [
+        true,
+        false,
+        "99dc8a63a13c"
+      ],
+      [
+        7615,
+        4441,
+        false
+      ],
+      {
+        "mesh": false,
+        "queue": "terraform",
+        "assets": 7525,
+        "mutex": "grpc",
+        "hotfix": 518,
+        "retry": null
+      }
+    ],
+    "vxlan": [
+      {
+        "factory": "a2ab20397793",
+        "helm": true,
+        "buffer": false,
+        "row": 6328,
+        "vendor": "threadpool"
+      },
+      {
+        "firmware": true,
+        "failover": 6317
+      },
+      {
+        "oauth": null,
+        "service": null,
+        "tcp": "locale",
+        "bloom": false
+      },
+      null
+    ],
+    "failover": [
+      {
+        "buffer": "adapter",
+        "retry": false,
+        "user": true,
+        "fuzz": true,
+        "proxy": "proxy",
+        "vault": false
+      },
+      false
+    ],
+    "request": "c26ec4815b3c",
+    "backend": 959,
+    "firewall": false
+  },
+  "semaphore": [
+    [
+      true,
+      [
+        null,
+        true,
+        true
+      ]
+    ]
+  ],
+  "group": null,
+  "scheduler": "bloom",
+  "controller": {
+    "scripts": [
+      {
+        "systemd": false,
+        "websocket": "mapper",
+        "kafka": true,
+        "gateway": "build"
+      },
+      {
+        "retry": "cache",
+        "vendor": null,
+        "storage": "dhcp"
+      },
+      "1a82ee6b84bd"
+    ],
+    "rsa": "11d2eeab947a"
+  }
+}

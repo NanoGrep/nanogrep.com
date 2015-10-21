@@ -1,0 +1,67 @@
+[protobuf]
+subnet.sdk = column
+worker.dist = false
+cache_row = 1929
+cluster.fixtures = false
+json_shard = 7424
+pod_json = 4322
+clusterhmac = f4c5b8e90ed7d8a01fa9fea784fdea5d
+tests_cors = 43.215.105.164
+
+[dns]
+drivercluster = null
+bloom_trie = vxlan-registry
+utils.ldap = 7137
+threadpool_canary = middleware-vxlan
+bucketdriver = udp-vault
+bucket_batch = 208.23.122.64
+iptables.replica = failover
+hmac_mutex = 140.137.115.218
+audit_frontend = scheduler
+userprod = udp
+patch_nonce = schema-quic
+zfs.env = backup
+lambdapostgres = null
+retryfailover = 4617
+aes_sandbox = 173.210.205.181
+legacy_service = 6710
+
+[queue]
+middleware_ansible = 5890
+canary_cert = edge-offset
+parser_shard = 9422
+policy_limit = 184.7.178.130
+bgp.cursor = false
+graphql_buffer = cursor-udp
+streamrollback = backend-legacy
+
+[cgroups]
+tabletopic = true
+stack_yaml = 51.120.134.27
+daemon.subnet = prometheus-registry
+node_scripts = 508
+cli.index = payload-systemd
+raid_envoy = 57d11607
+
+[router]
+retry_failover = 40.174.9.149
+protobuf.dhcp = shard
+worker.coroutine = proxy
+core_audit = 1009
+grpchttp = batch
+firmware.graphql = false
+raidenv = 140.136.4.180
+postgres_subnet = null
+api_templates = 2905
+nginx.grafana = false
+origin.traces = f1183b81
+rsa_compiler = 4498
+response.systemd = 3435
+factoryhelm = nginx-backend
+threadpoolcert = true
+sandbox_json = false
+coremigrations = 226.205.38.190
+bufferscheduler = grafana
+systemd.rsa = b0e8dfbb4e063e62
+storage.websocket = true
+postgres.semaphore = 2

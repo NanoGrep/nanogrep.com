@@ -1,0 +1,54 @@
+[
+    {
+        "nightly": {
+            "prod": {
+                "crypto": true,
+                "mqtt": true,
+                "cursor": "compiler",
+                "helpers": "gateway",
+                "hashmap": "table",
+                "artifact": false
+            },
+            "registry": {
+                "utils": "4d5b6adf9cb3",
+                "nat": 5299,
+                "response": "session",
+                "mirror": false,
+                "cors": true,
+                "mysql": 8307
+            }
+        },
+        "row": false,
+        "column": [
+            {
+                "graphql": true,
+                "hmac": true,
+                "heap": null,
+                "envoy": null
+            },
+            [
+                false
+            ]
+        ],
+        "volume": [
+            {
+                "cert": false,
+                "factory": null,
+                "vxlan": null,
+                "mysql": 5793,
+                "cluster": true,
+                "daemon": false
+            },
+            null,
+            {
+                "traces": null,
+                "failover": "d58169258deb",
+                "config": null
+            },
+            1013
+        ],
+        "queue": "row",
+        "bgp": []
+    },
+    null
+]

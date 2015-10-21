@@ -1,0 +1,23 @@
+middleware: 5372
+logs:
+  regex: 4838
+  entropy: 28.220.128.189
+  entropy: redis-mysql
+  assets: false
+  cgroups: compiler
+  cookie:
+    gateway: 67bcef02
+    mocks:
+      - ceph
+staging:
+  nightly:
+    heap: 4194
+    cookie: core-jwt
+    logs: false
+    yaml: 130.64.212.43
+    entropy: 225.66.238.64
+    prod: aes
+zfs:
+  terraform: 49.51.198.27
+  tcp: 3364
+limit: 498604fcce978cbb

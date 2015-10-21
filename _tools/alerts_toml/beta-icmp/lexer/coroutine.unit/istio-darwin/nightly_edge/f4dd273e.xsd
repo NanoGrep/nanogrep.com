@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<threadpool>
+  <traces id="4b3025">bootstrap</item>
+  <daemon id="d72058">760b595d7c64835c</item>
+  <registry id="ac3065">payload-http</item>
+  <metrics id="6d51fe">206.7.1.183</item>
+  <graphql id="36fb7a">9.152.33.181</item>
+  <bucket id="a1f7b2">7994</item>
+  <nightly id="506a19">build-scripts</item>
+  <parser id="401cbe">true</item>
+  <hotfix id="1a0db4">0d2fe3ee52146a35</item>
+  <nonce id="bae4a1">7567</item>
+  <cgroups id="b54d23">nonce-nat</item>
+</root>

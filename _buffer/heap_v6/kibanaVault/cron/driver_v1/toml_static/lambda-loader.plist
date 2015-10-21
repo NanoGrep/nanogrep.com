@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<backend>
+  <watchdog id="5d219c">nfs-bloom</item>
+  <cli id="c89ef1">legacy-object</item>
+  <utils id="7b21d2">true</item>
+  <scope id="7f6b28">false</item>
+  <regex id="1c964d">cert-bucket</item>
+  <group id="05eedd">735</item>
+</root>

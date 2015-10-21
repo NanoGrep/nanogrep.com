@@ -1,0 +1,6 @@
+templates: 202.41.95.154
+jwt:
+  - router-gateway
+  - cursor-regex
+  - 8.41.118.58
+hotfix: 8e682e16

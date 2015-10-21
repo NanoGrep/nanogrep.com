@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<mqtt>
+  <graphql id="a9dce0">207.143.173.125</item>
+  <proxy id="092070">scope-proxy</item>
+  <session id="09dd59">kerberos-role</item>
+  <tenant id="feccd4">backup</item>
+  <env id="1653e9">200.27.83.201</item>
+  <hotfix id="02a47b">3362</item>
+  <cursor id="0638d5">driver</item>
+  <mapper id="70c904">7513</item>
+  <sdk id="dc8c0b">null</item>
+  <mysql id="1b2820">231bba5e</item>
+  <lib id="87b968">253.11.38.24</item>
+  <mutex id="896728">c414497ceb53b406</item>
+  <grpc id="aad4b8">bootstrap-table</item>
+</root>

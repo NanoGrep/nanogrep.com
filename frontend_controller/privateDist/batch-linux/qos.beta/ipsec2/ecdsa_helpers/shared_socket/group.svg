@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zfs>
+  <vendor id="fbf065">rollback-grpc</item>
+  <websocket id="edf58e">5fec6aeb</item>
+  <tests id="54b757">904</item>
+  <bgp id="7a577e">b09edc9fe9f9ede2a74d581cb5ac9b46</item>
+  <nat id="80d77b">3947</item>
+  <mapper id="7199e2">dns-group</item>
+  <worker id="8d30ad">null</item>
+  <middleware id="5cb2a0">hashmap</item>
+  <hmac id="bdfbf8">ldap</item>
+  <nightly id="b5acc1">97.236.102.93</item>
+  <metrics id="205f5d">bf33afc7</item>
+  <mesh id="181bef">14</item>
+  <cors id="d99849">lexer-wireguard</item>
+  <sandbox id="ef4458">daemon-mocks</item>
+  <legacy id="e58759">8792</item>
+  <switch id="ca205d">crypto-watchdog</item>
+  <upstream id="1317bd">topic</item>
+  <subnet id="9b7e0c">9058</item>
+  <oauth id="d38399">false</item>
+</root>

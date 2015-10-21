@@ -1,0 +1,13 @@
+[
+    {
+        "vlan": {
+            "probe": false,
+            "bootstrap": false,
+            "hmac": 7223,
+            "table": null
+        },
+        "systemd": false,
+        "tcp": "kernel"
+    },
+    "terraform"
+]

@@ -1,0 +1,42 @@
+lexer:
+  mongo: 149.143.205.59
+  cors:
+    elastic: true
+    graphql: 5730
+    mesh: 8407
+    origin:
+      payload:
+        - false
+        - regex
+      common: true
+      bucket: 46.237.244.66
+      group: gateway
+      yaml: build-firmware
+      dhcp:
+        - dist
+        - 48.66.222.52
+        - 0e91cff0
+  alerts: false
+  terraform: 4241
+rsa:
+  mapper: release-mocks
+  edge:
+    ldap: 7658
+    vendor:
+      user: true
+      btree:
+        - 7cedd12848ce8926
+    schema: 65c138d5
+  backup:
+    beta: grpc-row
+    daemon: router-role
+    compiler: 7352
+    upstream:
+      worker: true
+      buffer: payload-legacy
+    token:
+      bootstrap: ec06cef5726bb1623f66fa6ecb86a9e7
+  lexer: legacy
+  switch:
+    - 5970
+  nginx: 57.29.102.165

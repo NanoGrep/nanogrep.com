@@ -1,0 +1,57 @@
+[build]
+cursor.trie = 189.3.246.173
+yaml_lib = firmware-mesh
+aes.alerts = false
+dnsenv = json
+firewall.yaml = 39.10.202.52
+
+[patch]
+backend.ldap = 47445d40
+locale_origin = 2761
+artifact_mocks = bgp
+request.env = false
+workersubnet = c9349ad61203edf21cbbf582da6376f0
+envoy_backup = 128.148.12.174
+factory_backup = false
+mutex.audit = true
+udpsalt = fuzz
+
+[common]
+socket_http = tools
+originkafka = false
+trie_semaphore = 6625
+firmwarepod = null
+failover_role = true
+sha256queue = common-fixtures
+postgrescompiler = null
+benchstack = 72.115.220.23
+mongohotfix = gateway-index
+quic.canary = dc09419cca005610ef02eb1b11e65f7d
+session_adapter = rest-handler
+fuzzsystemd = probe
+entropy.kernel = true
+
+[config]
+env_cert = true
+rest.mocks = 61623c982516f6ef0cade42f978f8aae
+regexvxlan = ace3ee8c
+compilercommon = true
+lexer.retry = 7425
+migrations.cookie = alerts
+dhcp.cert = 156.4.162.6
+prometheus_tcp = metrics-hotfix
+fuzzstack = mesh-canary
+quic_offset = false
+response_mapper = 1101
+cookiemetrics = helm
+bgp_row = false
+logs.tools = pod-mirror
+object.systemd = replica
+artifact_proxy = a0258deb
+bucket_websocket = null
+upstream_bench = 2422
+
+[firewall]
+column_build = tls-tls
+node.worker = legacy-json
+session.node = 3643

@@ -1,0 +1,7 @@
+vendor:
+  kerberos: false
+  common:
+    release: proxy
+    user: upstream-grafana
+  yaml:
+    - 1c03bb78

@@ -1,0 +1,7 @@
+tenant: 1496
+index: mirror
+schema:
+  aes: false
+staging: hotfix-object
+postgres: release-frontend
+lexer: kerberos

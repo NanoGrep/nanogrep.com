@@ -1,0 +1,8 @@
+policy.compiler: hmac
+stagingzfs: false
+elastic_edge: 2620
+patchrsa: 6087
+logs.assets: upstream
+cookie.release: 7265e62f77ff7842
+shard_payload: 2374
+ansible_build: true

@@ -1,0 +1,24 @@
+vlan: 7512
+router:
+  sdk:
+    redis: fa7e37ab
+    rest: 2ba922c122efb727c6a4d89a796f0de8
+  tls:
+    systemd: queue-batch
+    bgp:
+      - 4633
+    protobuf:
+      frontend: true
+      tests: gateway-graphql
+      hashmap: prod
+      assets: 172.4.125.131
+      shard: f93daa5e7f0ec1ef
+    rsa: 122.7.159.76
+    queue:
+      bucket: stack-staging
+      pod: d9ac613093ab2afe
+      hotfix: coroutine
+      bgp: 6809
+  threadpool: rsa-dist
+response: false
+grafana: a4b9159ca64b0ddc717e028476321b0e

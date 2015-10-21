@@ -1,0 +1,20 @@
+storage: bucket-failover
+firewall: nonce-oauth
+node: false
+controller:
+  release: 3573
+  env:
+    sdk:
+      hmac: 02ab0ce97e19ec6d4c3c99b567b142ee
+      failover: 6703
+      kerberos:
+        - systemd-grpc
+        - utils-core
+      helm: a9845d74
+    trie: d6b684482d3b4a9efdac200e620a87a1
+    gateway:
+      storage: traces
+  dist: prometheus-scope
+  lexer: 0d48c4021319f105
+cursor:
+  - logs

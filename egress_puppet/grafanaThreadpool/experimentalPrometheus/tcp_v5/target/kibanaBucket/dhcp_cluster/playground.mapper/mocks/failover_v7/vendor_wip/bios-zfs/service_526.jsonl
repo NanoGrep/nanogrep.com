@@ -1,0 +1,63 @@
+{
+    "cert": {
+        "backend": {
+            "factory": {
+                "snapshot": 7960,
+                "origin": false,
+                "udp": 4467,
+                "salt": true,
+                "raid": true
+            },
+            "mutex": {
+                "ansible": true,
+                "replica": true
+            },
+            "scripts": {
+                "failover": 9761,
+                "protobuf": false,
+                "group": false,
+                "session": null,
+                "envoy": "json"
+            },
+            "role": "socket",
+            "helm": []
+        },
+        "heap": "utils",
+        "registry": "dist",
+        "kernel": "udp",
+        "prometheus": "vlan",
+        "alerts": {
+            "policy": true,
+            "kerberos": true,
+            "pod": {
+                "stack": "tests"
+            },
+            "failover": true,
+            "quic": null
+        }
+    },
+    "cli": [
+        true,
+        {
+            "limit": true,
+            "env": null
+        },
+        {
+            "offset": "nginx",
+            "bench": [
+                "kerberos",
+                9265
+            ],
+            "helm": {
+                "upstream": "rsa",
+                "shard": false,
+                "origin": true,
+                "policy": "table",
+                "core": false,
+                "volume": 299
+            },
+            "batch": "d5daf4ec8706"
+        },
+        false
+    ]
+}

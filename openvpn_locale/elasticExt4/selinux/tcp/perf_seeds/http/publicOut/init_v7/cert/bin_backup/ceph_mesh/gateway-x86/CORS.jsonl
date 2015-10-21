@@ -1,0 +1,46 @@
+[
+  {
+    "logs": {
+      "rollback": {
+        "migrations": null,
+        "entropy": "oauth",
+        "release": true
+      },
+      "upstream": {
+        "snapshot": 4201,
+        "volume": 4504,
+        "hashmap": null,
+        "quic": "ingress",
+        "zfs": "snapshot",
+        "table": true
+      }
+    },
+    "tools": [
+      [
+        null,
+        true
+      ],
+      [
+        9500,
+        8602
+      ],
+      []
+    ],
+    "registry": "templates",
+    "staging": {
+      "mesh": "9c28786005f6",
+      "policy": {
+        "driver": false,
+        "runner": true
+      }
+    }
+  },
+  {
+    "audit": {
+      "jwt": "e63431b513c6"
+    },
+    "redis": {
+      "beta": null
+    }
+  }
+]

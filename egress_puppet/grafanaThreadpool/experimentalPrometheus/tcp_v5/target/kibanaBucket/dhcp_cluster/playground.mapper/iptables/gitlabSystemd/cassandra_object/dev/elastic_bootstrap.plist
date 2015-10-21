@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<traces>
+  <storage id="78d794">697</item>
+  <redis id="a8a83c">false</item>
+  <cors id="b81087">deb89f09</item>
+  <node id="78c237">7252</item>
+  <pod id="e25b36">3f3a0046ca34e4fa</item>
+  <iptables id="bd3bb0">16.35.80.235</item>
+  <backup id="1860c5">runner</item>
+  <heap id="1aa6f9">mutex</item>
+  <semaphore id="154b24">dab5dd5b992399e1eac075ab62fe2f67</item>
+  <dns id="9ca48b">vxlan</item>
+  <utils id="648e17">false</item>
+  <router id="c51cb4">168.134.69.112</item>
+  <lambda id="ba4f26">87523e716324e7e2</item>
+  <subnet id="cc11e9">9a39622b60de0813de339e0993a61b33</item>
+  <cursor id="3fc8b4">3762</item>
+  <registry id="6b7256">zfs-middleware</item>
+  <bench id="467a6e">lexer-limit</item>
+  <pod id="3b571c">prod-cluster</item>
+  <rest id="971dce">60.65.20.220</item>
+  <hmac id="1e37ff">api-core</item>
+  <common id="8987d1">false</item>
+</root>

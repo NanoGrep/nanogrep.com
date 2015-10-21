@@ -1,0 +1,24 @@
+mysql: 139.211.192.215
+tcp: 4184
+storage:
+  middleware: beta
+  vlan:
+    tests: locale-pipeline
+    nginx:
+      compiler: prometheus-cron
+      retry: fuzz
+      mongo: node
+      threadpool: mapper
+      rollback: 232.43.77.102
+      gateway: 3467
+    tools:
+      assets: 206.167.201.24
+      token: null
+      mirror: 51.182.30.187
+  storage:
+    - 5935
+  response:
+    oauth:
+      registry: mesh-ingress
+      mesh: 779e37bf534921a8
+ansible: dhcp-mqtt

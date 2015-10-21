@@ -1,0 +1,28 @@
+jenkins: b1e54cda52e9efdfd1b67bb9f2d39229
+backend:
+  - jenkins-artifact
+  - 79e0d541
+index: vxlan
+runner:
+  api:
+    offset:
+      - dhcp-utils
+      - 178.97.157.113
+      - 3578
+    systemd: 201.103.93.65
+    core: false
+  user: tests
+router: tcp-cookie
+router:
+  prometheus:
+    mesh: 217.69.195.143
+    sha256:
+      gateway: worker
+      sandbox: 201.127.9.40
+      env: rsa
+      btree: 1368
+      schema: 20.79.203.241
+  node:
+    snapshot: 7420
+  socket: switch-snapshot
+  bucket: core-tools

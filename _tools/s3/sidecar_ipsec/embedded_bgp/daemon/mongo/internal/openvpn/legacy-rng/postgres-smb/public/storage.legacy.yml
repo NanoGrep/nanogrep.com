@@ -1,0 +1,54 @@
+mirror:
+  templates: 8ca39686
+  table:
+    artifact: 836
+    yaml: pod
+    failover: protobuf
+  registry: 4765
+  bgp:
+    bootstrap:
+      - nat
+      - 174.239.65.237
+      - subnet-compiler
+      - false
+  heap:
+    - wireguard
+    - 1697
+  factory:
+    iptables: false
+    request: 7770
+    helm: 5660
+    retry:
+      mesh: 47.159.64.36
+      driver: f2734af5
+      index:
+        - 50606430a5f26f3a6804d0224be1b6ac
+      stack: fd3c59d178757d6e
+    fixtures: 132.77.28.208
+graphql:
+  mocks: storage-jwt
+  coroutine: 9173
+  proxy:
+    controller: 8261
+    response:
+      vendor: 7765d11ed5b716c6
+      raid: 7146
+    websocket: 126.79.40.159
+    limit:
+      - 3a789eb5
+      - true
+    aes: elastic-rsa
+    env: probe-shard
+  mocks:
+    lambda:
+      buffer: snapshot
+      jenkins: true
+    token: 126.228.156.191
+  scope:
+    snapshot: 2177
+  sdk: 6784
+stream:
+  - 28.174.140.53
+  - 220.217.109.115
+  - null
+  - 3035

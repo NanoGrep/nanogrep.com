@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<node>
+  <volume id="ba1653">daemon</item>
+  <build id="5ada29">4946</item>
+  <ansible id="bda325">cluster-cluster</item>
+  <kernel id="5387b4">false</item>
+  <nightly id="e5f0ff">573</item>
+  <utils id="fabb94">23.223.91.252</item>
+  <mutex id="ed325b">firmware-assets</item>
+  <utils id="2f2359">false</item>
+  <rollback id="34dd25">a047d801</item>
+  <prometheus id="2d2019">false</item>
+  <edge id="33ce2f">true</item>
+  <stack id="ab0432">32204d843d731456</item>
+  <env id="daf6c6">7346</item>
+  <rsa id="9eb2d7">false</item>
+  <canary id="15db72">alerts-envoy</item>
+  <regex id="f16275">false</item>
+  <tls id="c141a4">schema-bootstrap</item>
+</root>

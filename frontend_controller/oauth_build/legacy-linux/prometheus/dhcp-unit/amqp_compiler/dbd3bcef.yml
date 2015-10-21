@@ -1,0 +1,65 @@
+kafka:
+  cgroups: bootstrap
+  vlan: middleware
+  gateway: watchdog-crypto
+  policy: eac0ce8b
+  patch: 152.112.112.161
+  cli: null
+service: null
+nfs:
+  handler: ceph
+  fixtures:
+    dist:
+      handler: limit-salt
+      lib: true
+      utils: 156.13.211.109
+      fixtures:
+        - 2979
+        - 133.73.48.97
+    fixtures: socket-heap
+    canary:
+      - 14d8f8c8
+      - 86e7bb6542d687d7
+    release:
+      cron: 660e82a392e3428e8aabc905b2892c77
+      pod: 79cbfef1c56b18ff25c0b9b207648d81
+      nightly: 167.12.177.209
+  cgroups:
+    - 917531d4a1eb284815bdc786a8c64209
+hmac:
+  sha256:
+    jwt:
+      assets:
+        - lambda-kafka
+        - 1813
+        - middleware-tests
+        - role-hashmap
+      graphql: 4722ccba
+      staging: 120.164.6.206
+  utils: 239.171.69.244
+  offset: 7350
+  wireguard: 7631
+  canary:
+    vxlan:
+      core: 4143
+      jwt: 3213
+      config: hashmap-mirror
+      tls: false
+      canary: prod-threadpool
+    storage: nfs-dhcp
+    daemon:
+      daemon: lib
+      snapshot: false
+      nightly: 181.82.28.221
+      iptables: 91.152.229.186
+      nonce: rsa
+    worker:
+      beta: 87430a26
+      row: be3df73e605e2beb96245c4b344dbda3
+      lib:
+        - worker
+        - true
+        - null
+        - traces-trie
+      cors: config-protobuf
+prod: 8615

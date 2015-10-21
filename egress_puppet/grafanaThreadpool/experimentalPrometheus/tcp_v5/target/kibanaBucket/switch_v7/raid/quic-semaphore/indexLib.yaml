@@ -1,0 +1,25 @@
+tls:
+  lib: null
+  payload:
+    - sandbox
+    - 6367
+    - null
+  registry: 6596
+  legacy: 9871
+  coroutine: false
+pod:
+  frontend: limit
+utils: cluster-kafka
+scope:
+  payload: 309b5695
+  salt: 174
+  column: bloom-logs
+  helpers:
+    vlan: 4019
+    regex:
+      socket:
+        - service-systemd
+        - 1328
+        - service
+table: stream
+dist: queue-logs

@@ -1,0 +1,9 @@
+{
+    "nginx": "failover",
+    "proxy": {
+        "heap": "env"
+    },
+    "oauth": null,
+    "traces": false,
+    "mocks": false
+}

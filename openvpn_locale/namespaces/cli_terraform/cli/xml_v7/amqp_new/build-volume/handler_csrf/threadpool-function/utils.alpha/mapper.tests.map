@@ -1,0 +1,32 @@
+{
+    "vlan": {
+        "origin": "49566e5c9fc4",
+        "lambda": {
+            "payload": {
+                "bgp": "e38c8b0fa1a4",
+                "ceph": false,
+                "request": null,
+                "scope": "snapshot"
+            }
+        },
+        "api": false,
+        "object": {
+            "quic": {
+                "sandbox": "f2ac6346b0d8"
+            },
+            "tcp": [
+                false,
+                "traces",
+                null
+            ],
+            "canary": {
+                "parser": "scripts",
+                "subnet": 344,
+                "heap": "b1aea0b63af3",
+                "protobuf": true,
+                "regex": "dist",
+                "systemd": false
+            }
+        }
+    }
+}

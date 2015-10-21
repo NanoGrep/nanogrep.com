@@ -1,0 +1,25 @@
+nightly: envoy
+controller: true
+ldap:
+  adapter: null
+  nightly:
+    - postgres-cron
+    - 2093
+    - worker-tools
+cron:
+  daemon: 37.141.173.225
+  vault:
+    helpers:
+      ceph: mongo-sandbox
+      vault: 41.67.171.53
+      prometheus: kernel-vlan
+      object: 9244
+      env: 145
+    canary: null
+    yaml: false
+    bloom: 3241
+    node:
+      rollback: dist
+      vxlan: zfs-node
+    nfs: 228.44.109.98
+audit: aes

@@ -1,0 +1,18 @@
+[volume]
+dhcpapi = ceph
+loader.common = 77.245.45.158
+rolerouter = aa5cc6039d200edb170d4d9ce6ffbccd
+aesoauth = utils-kerberos
+elasticansible = null
+usersemaphore = 3583
+metricsscope = kernel-scripts
+nightlymiddleware = trie-dist
+jenkins.response = quic-http
+
+[jwt]
+scheduler.metrics = 066fd6f3
+core.worker = tcp-lexer
+snapshot_scheduler = tenant
+clusterobject = false
+systemd_handler = false
+tenantjwt = 8026

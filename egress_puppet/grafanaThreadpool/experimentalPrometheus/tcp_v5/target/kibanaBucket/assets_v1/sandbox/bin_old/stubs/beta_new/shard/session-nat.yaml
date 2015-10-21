@@ -1,0 +1,23 @@
+sandbox: 9.168.215.8
+migrations:
+  replica: 5684
+  graphql: sdk-cursor
+  compiler: false
+  lambda: kafka
+  gateway: 101.230.147.224
+tools:
+  ceph: 21b9c35b
+  lib:
+    batch:
+      graphql: 81ce814fa52e1f503f2278d0035664bf
+      common:
+        - null
+        - false
+        - true
+      assets: false
+      gateway: 8eb10ac9a1a21180
+    json: mqtt
+    mapper: true
+    websocket: snapshot
+    daemon: 177.110.200.10
+  service: 80.119.238.182

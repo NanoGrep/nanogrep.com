@@ -1,0 +1,43 @@
+zfs:
+  prometheus:
+    release:
+      runner: 6dc1337afc340baf
+      schema: 45.95.8.196
+      redis: beta
+      failover: 20aa1e2c3f3b01b0
+      wireguard: 58.200.111.113
+    column:
+      pipeline:
+        - frontend
+        - 149.127.76.52
+        - false
+      firewall: 2713
+      runner: 70.191.112.146
+      queue: 61.129.84.118
+  storage: true
+  socket: ae3b7451
+  postgres:
+    offset: null
+    bucket:
+      sdk: object
+      ldap: udp-origin
+      hmac: table-cluster
+      origin: column-ldap
+      scheduler: 115.238.5.247
+    jwt: hmac-backup
+    parser: table
+    logs: null
+    bgp: scope-switch
+bench:
+  hashmap:
+    grafana: 2972
+    patch:
+      watchdog: false
+      tls: true
+  registry: true
+table: 8783
+sandbox: pod-mesh
+kerberos:
+  - queue-handler
+  - 1745
+fuzz: retry

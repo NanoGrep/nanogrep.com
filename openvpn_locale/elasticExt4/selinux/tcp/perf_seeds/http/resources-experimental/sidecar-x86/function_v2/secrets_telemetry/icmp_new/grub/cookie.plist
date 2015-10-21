@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ceph>
+  <service id="fe81c0">fd61d454</item>
+  <runner id="f1ca8e">146.59.62.203</item>
+  <scheduler id="cc957b">true</item>
+  <tcp id="aaf04a">rest-lambda</item>
+  <tcp id="0e86a9">logs</item>
+  <frontend id="4f33d1">6093</item>
+  <systemd id="72d233">67.20.207.227</item>
+  <quic id="5ca5b6">6191</item>
+  <socket id="07a010">false</item>
+  <origin id="d63b30">null</item>
+  <mirror id="928498">false</item>
+  <envoy id="369d4f">149.154.191.207</item>
+  <raid id="6c9473">fa4a706f</item>
+  <tls id="96132e">6783</item>
+  <shard id="25f6ff">36.125.125.4</item>
+  <websocket id="189a29">615</item>
+  <mysql id="d43f08">6da11a19c51c03b954f57825db2ab3e1</item>
+  <vxlan id="98dfee">6176</item>
+  <cache id="b3d21a">3748</item>
+  <snapshot id="6f7cb0">alerts-grpc</item>
+</root>

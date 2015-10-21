@@ -1,0 +1,11 @@
+parser:
+  cache: 12afeddfcb6c7bdd17c6f120bb081264
+  mirror:
+    buffer:
+      rollback: failover-coroutine
+      legacy:
+        - 142.113.229.75
+        - false
+        - 2190
+    backend: b5fe59253b3cedaf845b75b5d326032a
+grafana: envoy

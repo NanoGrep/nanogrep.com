@@ -1,0 +1,1 @@
+{"cluster": [false, [{"failover": "af1ef05d259a"}]], "metrics": [{"common": [null], "nfs": ["limit", 4284, 1484]}, {"worker": ["sha256", 4829, "40b9b9707266"]}], "heap": {"user": 6639}}

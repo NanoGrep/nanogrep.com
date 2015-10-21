@@ -1,0 +1,19 @@
+queue: driver
+mongo: audit-utils
+jenkins: bgp
+controller:
+  iptables:
+    kafka:
+      ingress: ca1b45cb49ad714daed3ad30fb14a7bb
+    kerberos:
+      protobuf:
+        - entropy
+        - false
+      hashmap: false
+      kerberos: core-heap
+      bucket: 24bcccbe8f31f5ae
+    bucket: 1147
+    firewall:
+      volume: 4382
+      compiler: 9451
+    common: 4895

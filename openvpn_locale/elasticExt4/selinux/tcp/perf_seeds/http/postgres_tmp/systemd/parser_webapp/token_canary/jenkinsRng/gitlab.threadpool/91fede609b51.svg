@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<sandbox>
+  <json id="53aaa2">socket</item>
+  <templates id="d2f8b1">false</item>
+  <oauth id="964827">sdk</item>
+  <systemd id="d4ce7f">170.92.174.79</item>
+  <raid id="753994">2332</item>
+  <canary id="c91ca7">3.170.56.207</item>
+  <scripts id="1e4a1a">70.18.252.54</item>
+  <prod id="045b8f">entropy-session</item>
+  <aes id="696bc2">86.208.252.72</item>
+  <probe id="b6231a">trie-kerberos</item>
+  <tls id="41ba32">5361</item>
+  <daemon id="112507">376325ae17bc199d6b94c9cbf2bc58d4</item>
+  <session id="c9bf3d">234.142.83.71</item>
+  <firmware id="680978">true</item>
+  <mutex id="5ef4db">71.231.78.174</item>
+  <payload id="bc936d">aes</item>
+  <upstream id="580916">staging-lib</item>
+</root>

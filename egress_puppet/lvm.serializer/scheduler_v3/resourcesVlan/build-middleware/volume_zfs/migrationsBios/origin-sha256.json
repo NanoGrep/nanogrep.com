@@ -1,0 +1,65 @@
+{
+    "watchdog": 9502,
+    "row": {
+        "grpc": false,
+        "redis": [
+            2389,
+            {
+                "fuzz": "jwt",
+                "backup": "vxlan",
+                "storage": false,
+                "canary": false,
+                "aes": null,
+                "envoy": "8f304b9526c5"
+            }
+        ],
+        "column": "635b900a97b1"
+    },
+    "raid": [
+        {
+            "loader": {
+                "pod": true,
+                "kernel": "tls",
+                "tenant": "cron"
+            },
+            "cursor": {
+                "policy": "c35bdd676fd2"
+            },
+            "stream": {
+                "kafka": true,
+                "semaphore": "build",
+                "alerts": null,
+                "regex": false,
+                "vlan": false,
+                "cert": true
+            },
+            "nightly": {
+                "offset": "bloom"
+            }
+        }
+    ],
+    "utils": [],
+    "request": {
+        "scope": false,
+        "pipeline": {
+            "grafana": null
+        },
+        "mutex": 4812,
+        "probe": [],
+        "batch": "cc89e42b1d9b",
+        "driver": {
+            "offset": {
+                "request": false,
+                "sdk": 3342
+            },
+            "jwt": "9bfa7946760a",
+            "coroutine": 6975,
+            "api": {
+                "salt": false
+            },
+            "retry": "68b8d2d6f79a",
+            "snapshot": "c76ef4bfa569"
+        }
+    },
+    "mongo": 6381
+}

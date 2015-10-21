@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<elastic>
+  <cgroups id="5497ac">node-bgp</item>
+  <factory id="61ca34">salt</item>
+  <proxy id="94ebe8">cluster-handler</item>
+  <middleware id="c0726d">225.17.83.175</item>
+  <rollback id="8a3cd5">queue</item>
+  <bucket id="ea54c9">sha256-sha256</item>
+  <salt id="634699">7.48.36.226</item>
+  <prod id="449bf3">5714</item>
+  <mapper id="a3d0a2">true</item>
+  <logs id="82fc16">request</item>
+  <cors id="2e77fc">tools-backup</item>
+  <postgres id="8fa680">cert-build</item>
+  <volume id="233621">9356</item>
+  <tcp id="8b8c34">false</item>
+  <mutex id="691786">108.224.154.238</item>
+  <session id="ddc1ea">2762</item>
+  <lambda id="c2c9b6">8345</item>
+  <payload id="25d2d9">postgres</item>
+  <runner id="8e086b">22b525fdd097e86bcda3eb6cf1525bde</item>
+</root>

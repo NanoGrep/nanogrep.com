@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<wireguard>
+  <cluster id="9861cb">true</item>
+  <patch id="bab5f6">243.71.120.101</item>
+  <session id="4f48ed">upstream</item>
+  <pipeline id="1dc7b3">jenkins-registry</item>
+  <logs id="23e31b">b3ba72c6</item>
+  <staging id="4361c9">1345</item>
+</root>

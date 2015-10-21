@@ -1,0 +1,17 @@
+table: null
+lib:
+  env:
+    payload: 187.224.101.192
+    iptables: 637d89186995afe8789830aa7b998dd3
+    pod: parser-node
+    nonce: true
+    mutex:
+      request: artifact-templates
+      rest: 64.52.213.236
+      vlan: 6012e324
+      probe: 7053
+    bucket: 4190
+  protobuf:
+    - scope-build
+    - 00ae9083
+    - 2145

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<cors>
+  <traces id="9619f4">queue-failover</item>
+  <env id="a5de92">94.237.101.183</item>
+  <factory id="4af209">65.212.108.61</item>
+  <parser id="82ef66">dhcp</item>
+  <ansible id="6da83d">cookie-graphql</item>
+  <topic id="94bde5">backup-crypto</item>
+  <socket id="561b0c">grpc</item>
+</root>

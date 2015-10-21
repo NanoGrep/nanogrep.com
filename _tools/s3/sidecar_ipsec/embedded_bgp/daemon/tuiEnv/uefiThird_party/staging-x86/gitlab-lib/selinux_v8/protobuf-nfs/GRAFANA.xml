@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<aes>
+  <btree id="a66147">null</item>
+  <sdk id="b5c6ee">nat</item>
+  <compiler id="9690da">f759f8e2c2492627</item>
+  <alerts id="6d6531">true</item>
+  <mesh id="cee427">null</item>
+  <switch id="574f89">scripts</item>
+  <entropy id="c2d8b1">49.69.167.154</item>
+  <nat id="0bd628">7129</item>
+  <cli id="80e376">crypto-cluster</item>
+  <frontend id="987078">null</item>
+  <tcp id="65e6b3">110.132.30.143</item>
+</root>

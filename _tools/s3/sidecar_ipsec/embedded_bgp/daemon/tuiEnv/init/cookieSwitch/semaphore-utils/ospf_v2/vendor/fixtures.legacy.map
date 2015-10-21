@@ -1,0 +1,28 @@
+[
+    "firewall",
+    [
+        "traces"
+    ],
+    false,
+    {
+        "dist": 9119,
+        "threadpool": {
+            "cert": "canary",
+            "terraform": "switch",
+            "jenkins": "74817ce75344"
+        },
+        "systemd": "afa54f44f489",
+        "frontend": false,
+        "mesh": [
+            true,
+            false,
+            {
+                "mongo": true,
+                "backend": true,
+                "failover": true,
+                "offset": "bff1cccee321",
+                "raid": "996cd8d036cb"
+            }
+        ]
+    }
+]

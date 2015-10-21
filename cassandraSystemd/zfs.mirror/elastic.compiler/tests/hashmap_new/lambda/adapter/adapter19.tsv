@@ -1,0 +1,5 @@
+shard,role,daemon,payload,lexer,cache,factory
+null,2949,canary-quic,6836,226.65.174.191,false,7bb1104b24495aba95ff639b821353e8
+9509,cookie,58.202.173.8,117.14.244.66,6275,false,1e628910c2190df91f12c0373c9eef10
+2dec3971c0301bad,role,vault,105.76.240.101,275bcddb98a7eb79,16.204.91.69,15.202.205.246
+templates-socket,nonce-mysql,shard-limit,e98bc0cad2dbb457,1944,35dc1e4374e8a5db,socket

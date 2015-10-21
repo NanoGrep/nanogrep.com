@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<sandbox>
+  <jwt id="ffc5a7">51.203.74.15</item>
+  <rsa id="26cb4c">false</item>
+  <offset id="d7b900">115.130.115.115</item>
+  <systemd id="fc5ac6">udp</item>
+  <token id="1c27b4">regex-sandbox</item>
+  <registry id="f5c316">false</item>
+  <service id="5acdb4">true</item>
+  <worker id="68772c">b5229f5d679f80ef0026ee9f46e28a0f</item>
+  <snapshot id="dd5189">lib</item>
+</root>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cookie>
+  <object id="d017bf">175.154.172.126</item>
+  <middleware id="ec8c8f">dfec3dba</item>
+  <group id="3a704c">false</item>
+  <token id="f7b494">8440</item>
+  <helpers id="d42e68">true</item>
+  <artifact id="d6eb94">182.92.205.78</item>
+  <heap id="f35fe3">false</item>
+  <gateway id="6363b4">nat</item>
+  <bucket id="ab7092">9107</item>
+  <compiler id="f08462">udp-migrations</item>
+  <loader id="17d9fe">jenkins-rest</item>
+  <mesh id="abbe2a">quic-vxlan</item>
+  <topic id="3ab51c">4def825738a127e37a2be68a02398ba9</item>
+  <jenkins id="a0c8fd">110.60.39.18</item>
+  <mirror id="b6c5a2">4.71.41.178</item>
+  <helpers id="014393">3542</item>
+  <stack id="4f14a6">0d4403d3f9b94c04</item>
+  <index id="e3e2bb">143.166.12.158</item>
+  <cursor id="f1d7c7">718f295a</item>
+  <mirror id="d482c1">failover-request</item>
+  <iptables id="1c38cc">false</item>
+  <node id="6525ec">1631</item>
+</root>

@@ -1,0 +1,17 @@
+kafka: api-mutex
+kafka: column-kafka
+registry:
+  grafana:
+    core:
+      backup: kafka
+      tools: 7386
+      failover: artifact-kernel
+      api: 189.249.91.32
+      registry: null
+      router: b24a254afce1fdbc
+  bgp: 7e09ff8c
+  patch: cli-cursor
+  entropy: false
+kernel: 133.143.22.103
+logs: tenant
+quic: 9d7ac046

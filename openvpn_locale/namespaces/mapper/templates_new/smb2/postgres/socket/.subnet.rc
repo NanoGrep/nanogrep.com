@@ -1,0 +1,7 @@
+switch_volume=edge
+config_adapter=true
+nodeelastic=41a0d508
+policy_locale=null
+common_lib=jenkins-aes
+objectprotobuf=216.31.235.215
+failoverhotfix=adapter-fuzz

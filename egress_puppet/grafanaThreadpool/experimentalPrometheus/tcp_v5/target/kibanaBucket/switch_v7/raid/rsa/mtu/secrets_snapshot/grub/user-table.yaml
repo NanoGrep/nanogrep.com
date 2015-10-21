@@ -1,0 +1,14 @@
+probe: nat-replica
+vendor: null
+column: tools
+assets:
+  locale: 125.115.87.199
+  nfs:
+    env: scripts-helpers
+    ingress: 9410
+    nightly:
+      topic: afcbd2264ad01ff736bbc023e87e4794
+      salt: prometheus-shard
+      loader: 2671
+      firmware: tools-crypto
+http: 3073

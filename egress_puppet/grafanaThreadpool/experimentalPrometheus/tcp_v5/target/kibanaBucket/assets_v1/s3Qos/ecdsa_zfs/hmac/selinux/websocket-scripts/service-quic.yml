@@ -1,0 +1,39 @@
+queue: 164.70.30.251
+failover:
+  json: f32adebf51afeac3
+  nat: sdk-vault
+  parser:
+    session: 4971
+    yaml: 6446
+    driver: 4479
+    cgroups: 4574
+    sandbox:
+      upstream: false
+      kernel:
+        - sdk-assets
+      fuzz: 184.210.90.228
+      stack: threadpool-backend
+    object:
+      probe: 6115
+  table:
+    frontend: 8304
+    upstream: templates
+    hotfix: 6f3b312961617d45
+    logs: mongo-subnet
+    envoy:
+      role: failover-firewall
+      salt:
+        - 50.198.148.100
+        - 12.29.1.222
+      elastic: false
+      column: 72f06d2d
+      mirror: patch-batch
+      mocks: node-runner
+    tenant: 170.70.89.148
+iptables:
+  - mesh
+  - traces-semaphore
+  - tools
+  - config-scripts
+udp: 182.2.106.66
+shard: 194.43.15.170

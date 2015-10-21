@@ -1,0 +1,15 @@
+ansible:
+  build: 62.161.104.175
+  salt: false
+  ingress: 241.221.248.244
+  locale:
+    - 53.72.59.198
+    - assets-nginx
+    - null
+    - true
+  bench: staging-ansible
+  sdk: false
+request:
+  - null
+  - null
+buffer: c1c51d95

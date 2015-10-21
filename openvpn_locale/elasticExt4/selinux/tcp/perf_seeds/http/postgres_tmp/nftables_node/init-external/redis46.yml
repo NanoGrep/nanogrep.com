@@ -1,0 +1,6 @@
+trie: scheduler
+cron:
+  nfs: 23.95.128.47
+  snapshot: grpc-request
+http: registry
+queue: 1782

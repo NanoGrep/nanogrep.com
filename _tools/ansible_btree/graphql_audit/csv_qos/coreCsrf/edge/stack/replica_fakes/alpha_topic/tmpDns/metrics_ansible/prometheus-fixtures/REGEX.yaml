@@ -1,0 +1,6 @@
+sandbox:
+  nat: mirror-payload
+  compiler: true
+  prometheus: 695d4bbd2cf800056d34befecfdd544f
+mirror: 109.70.73.158
+coroutine: true

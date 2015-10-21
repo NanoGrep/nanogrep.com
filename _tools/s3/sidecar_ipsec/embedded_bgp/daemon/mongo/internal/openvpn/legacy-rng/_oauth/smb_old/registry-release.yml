@@ -1,0 +1,41 @@
+lexer:
+  policy:
+    mqtt:
+      envoy:
+        - 9766
+        - metrics
+        - false
+      utils: 40.244.191.180
+      mutex: service-config
+      metrics: 1919
+      mapper: true
+  tenant: 241.41.111.195
+  mirror:
+    - hmac
+    - vlan
+    - 2f8c943fe3b2f3afc04274cb994ab446
+    - 5032
+  audit:
+    policy:
+      subnet: null
+    fuzz: udp
+    mutex:
+      postgres: 4246
+      logs: c757b3b4d6800561
+      loader: null
+service: 3da63d5169c139fabafc269bb4a5efc9
+topic: api
+elastic:
+  socket: 873ac322
+  dist: 163.77.127.84
+  redis:
+    - 135.117.148.187
+mirror:
+  vendor: 1479
+  topic: elastic-policy
+  prometheus: canary
+  fixtures:
+    - 861
+    - firmware-probe
+    - graphql
+  user: object-nfs

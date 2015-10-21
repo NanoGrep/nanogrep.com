@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<nginx>
+  <grafana id="b42aff">null</item>
+  <user id="53baf1">63cc2c5f8780504a</item>
+  <lexer id="39a038">f1903287</item>
+  <batch id="37c267">sdk</item>
+  <token id="56c34f">243.130.100.126</item>
+  <queue id="7bc99c">6807</item>
+  <buffer id="3398e1">5803</item>
+  <limit id="39090f">5.84.81.14</item>
+  <staging id="1c2327">snapshot-patch</item>
+  <pod id="ac108f">null</item>
+  <offset id="a40aac">core</item>
+  <utils id="c5f08b">87.150.12.141</item>
+  <factory id="4835d3">adapter-threadpool</item>
+  <watchdog id="cb0050">mocks-udp</item>
+  <utils id="44fb79">87a0c789c30508e3</item>
+  <sha256 id="9ee3bf">36e8a730</item>
+  <index id="0d3da0">02bcac25e0351bf4</item>
+  <nonce id="b06367">false</item>
+  <role id="e1f116">4021</item>
+  <mongo id="682a2f">42.162.74.69</item>
+  <compiler id="52f1b3">2dad37049f381d7b</item>
+  <graphql id="fb8731">142.46.210.195</item>
+  <volume id="9d35a3">3480</item>
+  <mutex id="dcdc78">patch-kerberos</item>
+</root>

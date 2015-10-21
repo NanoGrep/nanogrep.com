@@ -1,0 +1,30 @@
+legacy: 6248
+router: 8290
+response:
+  - 198c31ee
+  - true
+  - firmware
+  - 8365
+grafana: 199.87.233.81
+fixtures:
+  dist: 253.132.41.133
+  crypto:
+    runner: 178.118.63.64
+    policy: tcp-oauth
+    mqtt: e6897530d5802b6c
+    watchdog:
+      - 252.190.196.130
+      - service
+  entropy: 670
+  zfs: cookie
+  vault:
+    threadpool: 3276
+    token: 249.34.77.99
+    json: regex
+    vault:
+      - null
+      - 167.130.98.18
+      - 179.52.145.79
+      - 2619d4a4
+    topic: 44
+  backend: tests-retry

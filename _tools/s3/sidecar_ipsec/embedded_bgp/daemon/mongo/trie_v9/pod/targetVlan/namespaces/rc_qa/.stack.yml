@@ -1,0 +1,39 @@
+request:
+  templates:
+    - locale-nfs
+    - 692fa1ac
+    - 8ad09a8d09c279075d372ba948cc263d
+    - 126.184.86.154
+  helm:
+    ceph: 915748dc4351356a418138134ea7bbc0
+    utils: 136786bed7f279b7
+    replica:
+      - 7444
+      - 1bfac3e3
+      - router
+    legacy: 5942
+    protobuf:
+      fixtures: rollback
+      index: 5356
+      tools: subnet
+      scope: false
+    ldap: utils-runner
+  origin: false
+  index:
+    - 7419
+    - 230.130.241.45
+  service: true
+  frontend:
+    - 12.163.64.167
+    - migrations
+pipeline:
+  - 124.214.10.46
+  - 24f71fa99d382b66d3773f1abac8be57
+  - tenant-oauth
+  - 635
+sdk:
+  - 4811
+  - 3f928beb
+cluster: 9d41a0cc0e8d57ee6af314f24eb62b63
+registry: null
+loader: vxlan

@@ -1,0 +1,8 @@
+hmac: 4569
+kerberos:
+  - false
+  - 6808
+traces: 196.144.101.53
+probe:
+  - 7d7cb793
+  - 197.77.74.6

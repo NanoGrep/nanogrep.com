@@ -1,0 +1,17 @@
+prod:
+  driver: backend-envoy
+config:
+  locale: bloom
+  salt:
+    switch: 2600a9f1cb181e80
+    group: daemon
+    tests:
+      salt: 4592
+      vlan: false
+      mongo: jwt
+      tls: cron-jwt
+      middleware: 238.151.158.139
+      migrations: null
+    envoy: 66.10.213.172
+mqtt: 2543
+ceph: 78.37.77.186

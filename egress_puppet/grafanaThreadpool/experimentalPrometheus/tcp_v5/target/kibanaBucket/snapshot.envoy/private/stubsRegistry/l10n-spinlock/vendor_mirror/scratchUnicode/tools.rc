@@ -1,0 +1,80 @@
+[compiler]
+jenkinsfixtures = ccd9659bcfd83670fd0b20254ab338a3
+sandbox.raid = role
+migrations.storage = b00c51adf157c745780ba3f76f951511
+cgroupsquic = 128.80.177.6
+frontendartifact = null
+cgroups.beta = true
+offset_sha256 = null
+sha256.backup = 8781add7
+dnsbuffer = c31d074dced5cb9af5a7e191c3236248
+batch.cookie = bench-dist
+mocksbackend = 243.167.120.241
+kerberosproxy = factory
+jwtkafka = false
+logshotfix = vendor
+
+[vault]
+scheduler.tenant = failover
+staging.sandbox = prometheus
+mesh_origin = 0d814b8725327cfc87c4191b3e409f51
+jenkins.bench = 47.64.226.97
+cluster.legacy = true
+user_postgres = 4979
+dhcpcanary = response-pod
+nightly_proxy = d1113f3b
+tracescore = c613f6fe271dc291
+terraformcompiler = true
+config.oauth = cookie
+
+[hashmap]
+websocketjson = ceph-systemd
+kerberosapi = a1409624
+origin.request = fd19b4d4cf02702e
+cliprobe = 6789
+prometheusmesh = 163.217.245.13
+udp.salt = 4461
+storage_hashmap = 6673
+sessionraid = false
+factory.trie = patch
+registry.kernel = mqtt-firmware
+
+[dns]
+nightlyshard = 5336
+mutexrunner = 4868
+dhcp.rollback = 33.234.92.72
+mutex.templates = f1a569f61e0e3815
+cluster.canary = graphql
+utilsquic = 138.26.28.190
+cluster_daemon = 140.7.156.232
+salttenant = 3f12ba67e041a1e24edaf9c723e2fcc0
+snapshothelm = 37142d31ba365247a6a47dfc3d8e33df
+probe.runner = mysql-migrations
+core.mongo = 5f38c115fb0de06a123d2d83cbd27b4d
+replica.edge = adapter
+commonmiddleware = bloom-redis
+ingress_ingress = true
+
+[tcp]
+vxlan.role = 61
+vault_hmac = cdba9e2e
+btree_rollback = sdk-driver
+rollback_shard = 6686
+rsa_mesh = 134.180.120.132
+aes_templates = yaml
+clibtree = origin-registry
+postgrescompiler = worker-stack
+lexer.edge = handler
+bucketdaemon = 3c226aea1054f2c09494eb621cecbd7f
+redis.release = cgroups-loader
+cgroups_backend = 224.146.39.77
+backup.staging = cursor-origin
+sdkcli = backup
+hotfix.frontend = hashmap-ingress
+configprometheus = 727
+btree.lexer = 114.59.153.217
+rollback_cursor = null
+oauth.registry = 3480
+switch.offset = false
+batch_dhcp = 5115
+batch.tests = 25c9c3d797eee0293019536ead7ece4c

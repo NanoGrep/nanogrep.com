@@ -1,0 +1,29 @@
+{
+  "group": {
+    "templates": [
+      true
+    ],
+    "router": [
+      4117,
+      {
+        "factory": "jwt",
+        "payload": "hashmap",
+        "metrics": 3821
+      },
+      []
+    ],
+    "scheduler": {
+      "ingress": [
+        "backend",
+        true
+      ],
+      "artifact": [
+        "6ea367863122",
+        false
+      ]
+    },
+    "switch": [],
+    "aes": 4831
+  },
+  "helpers": 5872
+}

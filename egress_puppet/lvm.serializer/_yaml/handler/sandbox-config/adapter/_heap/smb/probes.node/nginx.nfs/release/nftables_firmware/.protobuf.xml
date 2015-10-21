@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<response>
+  <cgroups id="1c0f9e">false</item>
+  <entropy id="502068">null</item>
+  <assets id="086fa6">224.145.174.184</item>
+  <trie id="d24fce">true</item>
+  <websocket id="d991db">167.178.44.132</item>
+  <pod id="3f4103">volume-runner</item>
+  <graphql id="19cb2c">compiler-dhcp</item>
+  <replica id="dc654b">true</item>
+  <proxy id="f58738">scheduler</item>
+  <tcp id="821df4">3951</item>
+  <btree id="75a5c2">28.25.41.248</item>
+  <elastic id="14e3ef">iptables-ingress</item>
+  <heap id="1fc48f">9f9a2a2e669127ef</item>
+  <cgroups id="a7dd76">true</item>
+  <tools id="f56871">194.158.47.3</item>
+  <queue id="dc6e24">volume</item>
+  <user id="f324e3">5224</item>
+  <udp id="fbb847">fixtures</item>
+  <nat id="77a9a4">186.68.89.219</item>
+  <mysql id="ada8ea">4.208.18.206</item>
+  <entropy id="bf19c2">true</item>
+  <bootstrap id="ffaa1f">207.199.46.191</item>
+  <daemon id="cde313">false</item>
+</root>

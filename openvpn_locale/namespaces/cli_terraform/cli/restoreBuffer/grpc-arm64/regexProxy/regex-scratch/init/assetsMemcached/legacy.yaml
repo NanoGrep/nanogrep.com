@@ -1,0 +1,4 @@
+mesh: gateway-threadpool
+redis: 5650
+pipeline: 159.218.30.180
+regex: 8f086df39fda38daeb1b3f1b33b71540

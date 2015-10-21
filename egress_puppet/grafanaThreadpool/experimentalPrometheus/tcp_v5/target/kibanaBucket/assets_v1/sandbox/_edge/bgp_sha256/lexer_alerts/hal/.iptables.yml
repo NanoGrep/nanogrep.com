@@ -1,0 +1,81 @@
+failover:
+  tcp:
+    tcp: 2545
+    grafana: grafana-http
+  backup:
+    stream: false
+    policy: true
+    systemd:
+      ldap: true
+      helpers: true
+      hmac: da60a8b7834661dcda45aec3e2b173ea
+      parser: salt-request
+    ingress: 9234
+storage:
+  dist:
+    regex:
+      - true
+    heap: false
+    json: false
+    assets: 183.189.194.91
+    offset: ed3363bb4d0cf269
+    wireguard: null
+  sandbox:
+    pod:
+      daemon: jwt
+      audit: api-jenkins
+      factory:
+        - scheduler-failover
+        - false
+        - null
+        - 89.252.72.175
+      offset: kernel
+    kernel: null
+    tls: origin
+    alerts: gateway-protobuf
+    ansible:
+      payload:
+        - 54cd3c7431d90860
+        - true
+      kafka: 101.106.197.47
+      role: 8f45fc46d63e5c42
+  gateway:
+    schema:
+      - true
+    raid: failover
+  cron:
+    templates: sandbox-firmware
+    runner:
+      grafana: 1707023905f5bdaec4b9dd26ace0fec0
+      buffer:
+        - metrics-token
+        - false
+        - true
+session:
+  prod: sdk
+  cache:
+    - 106.36.31.215
+    - graphql
+    - release-loader
+    - envoy-bgp
+utils:
+  scope: true
+  failover:
+    ingress:
+      metrics: nat
+    build:
+      elastic:
+        - 241.41.74.79
+    user: 67.196.142.16
+    nonce:
+      kerberos:
+        - false
+        - json-column
+        - true
+        - metrics
+      hmac: 32.73.143.152
+      artifact: 240.66.249.49
+      pod: false
+      salt: null
+      traces: 6810
+    driver: 34.20.89.86

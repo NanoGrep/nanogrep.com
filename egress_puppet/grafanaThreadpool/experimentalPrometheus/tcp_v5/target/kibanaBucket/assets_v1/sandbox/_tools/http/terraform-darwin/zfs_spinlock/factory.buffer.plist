@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<kafka>
+  <cli id="79b912">52791ba5e7b06493dfee74a16e0119fa</item>
+  <bloom id="3eef6e">websocket</item>
+  <tenant id="87d08f">6f82a79210d0b958</item>
+  <regex id="648df1">nginx</item>
+  <lambda id="6e56d6">6902</item>
+  <regex id="e4b9ad">1383</item>
+  <adapter id="7275b7">quic-rsa</item>
+  <mqtt id="398264">iptables</item>
+  <limit id="867031">9d6fd00c1c2c5260</item>
+  <rollback id="120d92">null</item>
+  <session id="4f6e45">251.212.34.164</item>
+  <firewall id="9ce961">true</item>
+  <vault id="5aa51a">raid</item>
+  <bench id="a3738d">259cd845</item>
+  <heap id="3d3fa9">migrations</item>
+  <hmac id="7f5cbc">9440</item>
+  <offset id="433cdb">kerberos</item>
+</root>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<alerts>
+  <tenant id="abb0bd">3651e7703b8bd89b8e3ab78a3600ae03</item>
+  <buffer id="ae690b">hmac-cli</item>
+  <yaml id="eba78b">1fe1fdf9</item>
+  <request id="573989">backup</item>
+  <bootstrap id="8723d3">10b846af</item>
+</root>

@@ -1,0 +1,12 @@
+patch:
+  volume:
+    - false
+    - 9877
+  grafana:
+    kafka: true
+    kerberos: 31491da71d327c31
+    grafana:
+      cluster: 32.222.211.165
+      sandbox: 8251
+      router: 5195
+  firewall: controller

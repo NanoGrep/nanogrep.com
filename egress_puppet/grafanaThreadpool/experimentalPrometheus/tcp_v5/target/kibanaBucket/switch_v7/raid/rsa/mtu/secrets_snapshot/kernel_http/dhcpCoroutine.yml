@@ -1,0 +1,49 @@
+probe:
+  - tls
+  - elastic-group
+  - 1803
+  - 37a79417bd499494
+proxy: true
+regex:
+  release: 6468
+  dist:
+    response:
+      - vault-bucket
+      - 4572
+    mutex: aes
+    response: true
+  group:
+    - rest-fuzz
+    - hashmap
+    - 3766
+    - null
+  response:
+    config:
+      switch: column
+      table: true
+      pod: 3532
+      heap: 17.13.158.236
+      bucket: 175.231.47.149
+      config: stream
+    session: b433e77a
+    object: 1cfa8470
+    aes: 240.64.5.152
+    cli:
+      mongo: factory-bgp
+      env: rsa
+      upstream: helm-nonce
+      aes: 160.215.173.177
+      websocket: 6426
+      redis:
+        - 52.102.124.41
+        - grpc-bloom
+        - row
+        - 170.208.170.2
+    threadpool: 4980
+scheduler:
+  registry: envoy-metrics
+  ingress: null
+  topic:
+    api: pipeline-tests
+scheduler: 7.189.104.187
+firmware: 114.24.26.26

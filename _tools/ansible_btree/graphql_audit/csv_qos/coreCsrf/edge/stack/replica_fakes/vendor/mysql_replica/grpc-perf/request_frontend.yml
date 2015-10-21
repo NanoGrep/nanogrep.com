@@ -1,0 +1,5 @@
+sha256:
+  mocks: true
+  watchdog:
+    - null
+jenkins: 58.206.219.95

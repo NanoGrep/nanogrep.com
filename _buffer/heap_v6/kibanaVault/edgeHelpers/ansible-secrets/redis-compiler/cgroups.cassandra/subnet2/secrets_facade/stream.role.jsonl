@@ -1,0 +1,29 @@
+[
+  {
+    "controller": "e48f091c7fba"
+  },
+  {
+    "alerts": null,
+    "kerberos": "278a0123e704",
+    "jenkins": "cors",
+    "vxlan": [
+      {
+        "core": "replica",
+        "vxlan": 8247,
+        "payload": 6316,
+        "alerts": "64ac7faec9ad",
+        "grpc": "6263efe3ad74"
+      },
+      {
+        "buffer": null,
+        "router": "kafka",
+        "assets": false
+      }
+    ]
+  },
+  9324,
+  [
+    "068e3611a9a1",
+    "6a2a336b08a7"
+  ]
+]

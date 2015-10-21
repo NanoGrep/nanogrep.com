@@ -1,0 +1,44 @@
+[
+    false,
+    {
+        "tests": "575dfee720bd",
+        "tenant": {
+            "kerberos": {
+                "threadpool": "5a4d694cd14d",
+                "rsa": false,
+                "pipeline": true,
+                "service": "cd4969d8f7ff",
+                "grafana": 2056
+            },
+            "cgroups": [],
+            "kafka": false,
+            "metrics": [
+                null,
+                "41b758f6a860",
+                "templates"
+            ],
+            "limit": [
+                true,
+                false,
+                true
+            ],
+            "vault": "locale"
+        },
+        "hmac": [
+            [
+                null,
+                null,
+                null,
+                "entropy"
+            ],
+            {
+                "beta": 7504,
+                "sdk": null,
+                "jenkins": null,
+                "mutex": true,
+                "legacy": true,
+                "buffer": 9597
+            }
+        ]
+    }
+]

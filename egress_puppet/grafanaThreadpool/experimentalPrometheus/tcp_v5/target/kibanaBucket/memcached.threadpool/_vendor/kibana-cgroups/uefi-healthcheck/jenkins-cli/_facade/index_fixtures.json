@@ -1,0 +1,1 @@
+{"vendor": {"adapter": {"driver": [null, 8491]}, "token": "patch", "hashmap": null, "cursor": {"wireguard": {"limit": 9524, "hmac": 1961, "systemd": "0d0aaf63c7e9", "probe": 6128}, "utils": {"common": 4110, "lambda": "common"}, "compiler": {"bucket": null, "role": false, "group": null}}}, "json": true, "compiler": false, "systemd": "nginx"}

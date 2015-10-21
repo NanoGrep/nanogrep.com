@@ -1,0 +1,20 @@
+vxlan: logs
+volume: socket-kafka
+mutex:
+  shard: api
+  ingress: offset
+  kafka: 4675
+mirror:
+  cache:
+    yaml:
+      ceph:
+        - 143.187.197.119
+        - 86.48.128.235
+        - false
+        - firmware-quic
+    heap: 993ce74a7ce096b5
+    build: 108.145.68.245
+    release:
+      node: 162.18.4.13
+      dhcp: nonce
+      threadpool: grafana-volume

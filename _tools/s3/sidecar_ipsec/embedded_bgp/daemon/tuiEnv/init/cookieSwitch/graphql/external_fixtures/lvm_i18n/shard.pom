@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<object>
+  <frontend id="677b98">null</item>
+  <switch id="e50bdd">a1b12bc7543a4c0e</item>
+  <lexer id="f7efbb">95.21.192.98</item>
+  <yaml id="e0d8d7">udp-api</item>
+  <json id="12fdc1">aa681733a92584c7</item>
+  <prometheus id="bf68d5">udp</item>
+  <nginx id="0503a1">6c81ec61a02bda5ffd82ff3c543c5af6</item>
+  <pod id="b2da59">176.82.19.40</item>
+  <storage id="d0a80b">3154</item>
+  <nat id="7dffd8">a31a32e42922d73d</item>
+  <cache id="c53fbf">edge-wireguard</item>
+  <nginx id="4ff989">schema-staging</item>
+  <tls id="378cc0">3247</item>
+  <failover id="902c1b">mirror-firmware</item>
+  <http id="10eeb9">2dd2d761</item>
+</root>

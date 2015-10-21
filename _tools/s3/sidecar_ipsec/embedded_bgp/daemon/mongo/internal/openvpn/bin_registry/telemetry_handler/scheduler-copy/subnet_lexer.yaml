@@ -1,0 +1,6 @@
+audit: true
+alerts: 792910be
+prometheus: 9dda564e7707b93b
+mongo:
+  subnet: tools
+  response: proxy-service

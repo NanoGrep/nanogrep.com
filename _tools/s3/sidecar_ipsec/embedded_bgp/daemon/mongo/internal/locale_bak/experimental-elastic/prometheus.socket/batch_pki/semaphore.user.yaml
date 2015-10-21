@@ -1,0 +1,5 @@
+service: stream-sandbox
+shard:
+  - true
+  - 140.169.157.254
+  - policy-scripts

@@ -1,0 +1,22 @@
+rsa:
+  nfs:
+    oauth: 67.97.96.181
+    tls: true
+    jenkins:
+      cgroups: 106.25.140.89
+      ceph: 221.87.175.161
+      env: true
+      edge:
+        - 229.197.179.50
+  mutex:
+    column:
+      beta: ldap-row
+      nonce: 225.95.76.208
+      grpc: cli-failover
+  hotfix: 72.159.49.219
+api: 4822
+graphql:
+  proxy: 7424
+  hashmap: 142.122.150.230
+templates: 68.89.98.168
+queue: 414

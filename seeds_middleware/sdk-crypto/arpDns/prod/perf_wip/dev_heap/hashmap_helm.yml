@@ -1,0 +1,7 @@
+prod: true
+ansible: 32.178.151.207
+migrations: 4135
+legacy:
+  - helm-semaphore
+  - queue-templates
+  - failover

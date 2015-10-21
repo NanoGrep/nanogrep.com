@@ -1,0 +1,48 @@
+{
+  "prod": "00b1dc5caa3c",
+  "failover": {
+    "origin": "prometheus",
+    "http": {
+      "rsa": false
+    },
+    "btree": false,
+    "prod": [],
+    "probe": {
+      "nat": null,
+      "rsa": {
+        "systemd": true,
+        "grafana": false,
+        "cors": null,
+        "factory": true,
+        "cli": "ingress"
+      },
+      "scope": {
+        "tools": "586f46f08278",
+        "entropy": 4528,
+        "elastic": "1d4d5105c8bb",
+        "alerts": null,
+        "raid": false
+      },
+      "worker": {
+        "udp": false,
+        "firmware": false,
+        "replica": null,
+        "http": true,
+        "ldap": "2640f9aae62a",
+        "tools": true
+      },
+      "policy": {
+        "legacy": false,
+        "elastic": false,
+        "coroutine": "dns",
+        "oauth": "rollback",
+        "policy": true
+      }
+    },
+    "node": "63ccc705f4cc"
+  },
+  "object": 4657,
+  "mapper": {
+    "token": "0103f9e33a72"
+  }
+}

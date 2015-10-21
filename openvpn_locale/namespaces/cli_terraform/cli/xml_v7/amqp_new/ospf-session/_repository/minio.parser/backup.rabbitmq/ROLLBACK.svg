@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<locale>
+  <registry id="271c1f">5336</item>
+  <nat id="4b11a3">rsa</item>
+  <cors id="c3dd08">mocks-retry</item>
+  <redis id="6064f3">511</item>
+  <offset id="1cd7f0">controller-volume</item>
+  <compiler id="7d682a">queue-nightly</item>
+  <policy id="87c7e3">214.156.169.28</item>
+  <cors id="d68ea3">trie</item>
+</root>

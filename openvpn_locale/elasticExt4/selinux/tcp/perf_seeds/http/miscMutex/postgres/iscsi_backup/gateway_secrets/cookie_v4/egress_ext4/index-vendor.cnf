@@ -1,0 +1,67 @@
+[bgp]
+switch_canary = tenant-batch
+rest.volume = backend-lib
+backupdns = 15.15.48.42
+tests_assets = 106.219.170.22
+redis.metrics = salt-cluster
+bootstrap.mqtt = 37.145.208.180
+grafanaraid = 9f69777941adfcf5
+replica.bootstrap = 950
+jwtstorage = 703
+backend_user = tenant
+mutex.watchdog = 247.173.199.47
+kerberos.crypto = null
+cors_cache = canary-proxy
+corspod = 198.17.211.209
+nginx_policy = beta-quic
+fuzzedge = true
+beta_wireguard = 6596
+failoverlogs = env
+raidupstream = stream-pipeline
+raid.proxy = false
+resthelpers = true
+systemd_envoy = true
+stack.postgres = 127.166.244.97
+heap_mysql = 3.112.169.4
+nginxartifact = locale-firmware
+parser.lexer = 222.26.112.229
+response.audit = 6324
+
+[udp]
+mirrormongo = 4156
+trie.factory = 590
+lambda_fixtures = 33.37.203.102
+groupregex = 4596
+ansible_config = 7466
+cluster_raid = 157.80.108.134
+mockslib = c26f84d056568226
+registry_kernel = d2d37519bb219c5a
+middleware.sdk = 415
+alerts.kernel = zfs-registry
+buildlib = 60.11.33.143
+json.switch = false
+prometheus.bootstrap = probe
+mongo.semaphore = false
+kerberosgateway = 1290
+mockssession = false
+runnercgroups = 3171
+kerberos.hmac = null
+vendorgraphql = 8911
+rollback_utils = 3239
+grafana_dhcp = true
+
+[cli]
+fixturesstack = false
+pod.mapper = common-pod
+sandboxbucket = 4747a7c83150709a
+cache.raid = 3720
+request_release = 41eac982
+elastic.hashmap = b5263ef4fc629e35
+snapshot.oauth = vxlan
+quic_metrics = fixtures-session
+jwt.helm = ce04f4274d8c3c9c4f8d0b4617f17025
+clusterbgp = 5289
+podmocks = 8728
+loadervault = response-origin
+systemdwatchdog = 71.157.236.105
+fixtureshotfix = btree-terraform

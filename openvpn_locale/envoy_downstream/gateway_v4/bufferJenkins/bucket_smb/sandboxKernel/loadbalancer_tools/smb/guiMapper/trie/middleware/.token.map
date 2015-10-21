@@ -1,0 +1,111 @@
+[
+    {
+        "http": {
+            "mongo": null,
+            "retry": false,
+            "templates": {
+                "iptables": "f673515777ba",
+                "group": null,
+                "gateway": null,
+                "cors": false,
+                "release": null
+            },
+            "router": {
+                "service": 1692,
+                "stack": false,
+                "oauth": null,
+                "cors": false,
+                "fuzz": 4758,
+                "replica": "7357706f5cf6"
+            }
+        },
+        "prometheus": {
+            "crypto": {
+                "edge": "549ca29eafa9",
+                "vlan": true,
+                "utils": null,
+                "rollback": 7292,
+                "kafka": false
+            }
+        },
+        "watchdog": {
+            "audit": "69be0868b4c7",
+            "switch": [
+                null
+            ]
+        },
+        "stream": [
+            {
+                "protobuf": null,
+                "probe": false
+            }
+        ],
+        "firmware": {
+            "rest": {
+                "graphql": null
+            },
+            "env": true,
+            "firmware": 8473,
+            "scripts": "sandbox",
+            "object": [
+                true
+            ]
+        },
+        "kerberos": null
+    },
+    {
+        "jenkins": [
+            4832,
+            {
+                "nonce": "607d96d4c2eb",
+                "migrations": null,
+                "nat": null,
+                "mqtt": "2984aabe6ffb",
+                "hashmap": "979e4bb39846",
+                "nightly": 8620
+            },
+            [
+                true,
+                7702,
+                "2483dc408af1",
+                true
+            ]
+        ],
+        "vlan": {
+            "payload": {
+                "offset": "c4ba6564dd49"
+            },
+            "terraform": {
+                "bucket": "helpers",
+                "vendor": null
+            },
+            "prometheus": [],
+            "hashmap": [
+                "hotfix",
+                null
+            ],
+            "vendor": [
+                4579,
+                "retry",
+                "37d73a65c07e"
+            ]
+        },
+        "bucket": false,
+        "backend": {
+            "dns": {
+                "api": "4ec4973bb43c",
+                "driver": null,
+                "payload": "66af7f31b44b",
+                "cors": "49cbc1548a35",
+                "json": 1304
+            },
+            "service": {
+                "queue": false,
+                "oauth": "request"
+            },
+            "patch": null,
+            "handler": null
+        }
+    },
+    false
+]

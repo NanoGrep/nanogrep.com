@@ -1,0 +1,27 @@
+{
+    "wireguard": [
+        [
+            null
+        ],
+        {
+            "prod": {
+                "legacy": "167b68c0074a"
+            },
+            "templates": "api",
+            "terraform": true,
+            "cron": {
+                "common": "cli"
+            },
+            "mongo": false
+        },
+        {
+            "release": [],
+            "backup": true,
+            "subnet": false,
+            "env": {
+                "websocket": true,
+                "proxy": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+scope.grpc=semaphore
+registrystorage=80.177.174.254
+middleware.table=140.174.191.195
+firewall_build=965b5bb7
+meshlocale=fe6e9eea
+tls_failover=156.199.228.232
+websocketdaemon=122.21.123.78
+mongo_node=null
+hotfix_object=false
+hmac_alerts=4ed02181ca115cd8
+nonce_env=8686
+rollback.audit=vault
+stream.worker=33d878e4
+tcp_socket=true
+backupbeta=9308
+bloom.envoy=26.233.193.101
+tls_pipeline=4806

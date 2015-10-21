@@ -1,0 +1,131 @@
+{
+    "config": {
+        "entropy": {
+            "firmware": true
+        },
+        "cluster": {
+            "alerts": {
+                "node": "276dfe4efdc2",
+                "jenkins": 58,
+                "registry": 359,
+                "probe": "scope",
+                "fuzz": false
+            },
+            "fuzz": false,
+            "staging": [
+                "kerberos"
+            ],
+            "user": null,
+            "mapper": {
+                "failover": "15700a4b0e1c"
+            }
+        },
+        "hotfix": {
+            "ceph": {
+                "hmac": null
+            },
+            "switch": {
+                "yaml": false,
+                "cache": true
+            }
+        },
+        "utils": [],
+        "beta": "stack",
+        "tls": []
+    },
+    "token": [
+        {
+            "hashmap": [
+                true,
+                "c4b9d517bc46",
+                "efddbed5c0c6"
+            ],
+            "payload": {
+                "sha256": true,
+                "tls": null,
+                "http": false
+            },
+            "prod": {
+                "mysql": 400,
+                "graphql": null,
+                "json": true,
+                "runner": "coroutine",
+                "origin": null
+            },
+            "logs": [
+                false,
+                "alerts",
+                "56362e5771d8"
+            ],
+            "cookie": {
+                "tcp": 9769
+            },
+            "nightly": {
+                "middleware": "6dae874c8298"
+            }
+        }
+    ],
+    "assets": [
+        true,
+        {
+            "mocks": false,
+            "iptables": "cron",
+            "cron": [
+                606,
+                "volume",
+                "scope",
+                "mongo"
+            ]
+        }
+    ],
+    "registry": [
+        {
+            "entropy": [
+                "firmware"
+            ]
+        },
+        true
+    ],
+    "schema": {
+        "grpc": [
+            {
+                "artifact": "hotfix",
+                "cors": false,
+                "node": "dhcp",
+                "cursor": null
+            },
+            false,
+            null
+        ],
+        "grafana": {
+            "mutex": [],
+            "subnet": false,
+            "entropy": {
+                "tcp": "b48b40717946",
+                "response": false,
+                "lib": "c9ba9bdb74ac",
+                "failover": true
+            },
+            "backend": true,
+            "parser": {
+                "regex": true,
+                "prometheus": "2225b641f474",
+                "upstream": false
+            }
+        }
+    },
+    "loader": {
+        "kafka": {
+            "volume": false,
+            "tests": 8609,
+            "ingress": {
+                "dhcp": false,
+                "request": null,
+                "proxy": "133e2592c8ff",
+                "response": 3379,
+                "api": "user"
+            },
+            "snapshot": false
+        }
+    }
+}

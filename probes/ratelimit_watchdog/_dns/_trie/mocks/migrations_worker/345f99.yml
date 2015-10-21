@@ -1,0 +1,55 @@
+crypto:
+  router: 71.62.150.38
+  elastic:
+    - dhcp-protobuf
+    - a9fdc408
+    - rest-cgroups
+  bloom:
+    edge: 97
+  mysql:
+    - 307053a8e17fdb89
+    - rollback-beta
+    - 2107
+  vault:
+    - service
+    - batch-schema
+  group:
+    vlan:
+      - c8bf7f9efe63ab29
+      - 245.127.67.189
+      - true
+      - 7675
+nonce: 171.180.133.224
+legacy:
+  hashmap:
+    batch: a3832df43202c324916df57fb5a9348f
+    nginx:
+      - 3163
+      - table
+      - rsa
+    templates: 7690
+  mqtt: 2580
+  pipeline: 35.240.44.7
+  rsa:
+    token:
+      - 4797eb001d075e074af07f1f86afc613
+      - artifact
+    cli: hotfix-table
+mutex:
+  factory:
+    zfs: a5acf5ca932443b26ea97cf3f4626931
+  parser:
+    - null
+  lambda: backend-cgroups
+  alerts:
+    - 3322
+  driver: patch
+  rest:
+    bench: sha256-canary
+    quic: 4582
+    storage: envoy
+canary:
+  - 1314
+  - false
+  - 7868
+  - daemon

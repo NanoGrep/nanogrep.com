@@ -1,0 +1,9 @@
+cors: handler
+adapter: envoy
+mysql: 2d241d31
+alerts: redis
+artifact: 1c4d610c
+entropy:
+  - true
+  - ac20871a9391625f
+  - vxlan-graphql

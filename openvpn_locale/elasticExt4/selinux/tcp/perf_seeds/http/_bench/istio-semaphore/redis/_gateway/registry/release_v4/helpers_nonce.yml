@@ -1,0 +1,26 @@
+limit: 240.26.95.240
+artifact:
+  firewall:
+    upstream: cookie-role
+    mongo:
+      - 132.203.97.200
+      - rollback-config
+      - 5650
+      - rest
+    firewall:
+      daemon: true
+      object: 5a5fa04ea1f0be6181f614975d023dd0
+      cluster: frontend
+      buffer:
+        - 5fceee91751e6a60
+    offset: false
+mapper: build
+ansible: cert-ansible
+cursor:
+  cors: null
+  stack:
+    - stack-fuzz
+    - true
+    - 248.181.122.247
+    - 168.216.241.145
+watchdog: 70.100.252.78

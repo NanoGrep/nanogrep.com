@@ -1,0 +1,19 @@
+mesh: 30549c735a3d8dac
+kerberos:
+  rsa:
+    fixtures:
+      - graphql
+column:
+  - 7754
+  - 204
+  - 218.153.166.196
+  - mutex
+alerts: semaphore-sha256
+cache:
+  - 180.128.116.240
+  - 9fbbaec6724af8ba
+  - staging-controller
+  - snapshot
+mocks:
+  - 8c35f5ea267ccd7bd86a6646438ae4a5
+  - 34.6.157.59

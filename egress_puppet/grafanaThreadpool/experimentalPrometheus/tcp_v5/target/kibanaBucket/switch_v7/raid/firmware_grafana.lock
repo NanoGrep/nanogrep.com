@@ -1,0 +1,22 @@
+{
+  "core": null,
+  "envoy": {
+    "cluster": "4459199c1717",
+    "staging": {
+      "dns": false,
+      "salt": [
+        "1e291bba5c72",
+        "110a202fb160"
+      ],
+      "pipeline": null,
+      "token": "sha256",
+      "utils": true,
+      "cli": 8302
+    }
+  },
+  "beta": [
+    true,
+    "00e38f0103d0"
+  ],
+  "controller": "703d8e94b200"
+}

@@ -1,0 +1,31 @@
+helm:
+  - 4241
+  - yaml
+logs:
+  service:
+    hmac: true
+    cors:
+      cookie: 78.172.18.97
+      trie: b847044510fd5382
+    fixtures:
+      config:
+        - 3777
+        - true
+      lambda: 1134
+      utils: 97.139.193.232
+    coroutine: env-common
+  shard: 9597
+  api: request-vxlan
+  cli:
+    shard: 107.156.154.94
+    probe: tests
+  protobuf:
+    role:
+      - d73e0a18
+      - 4150
+      - vendor
+      - 7e80cf9587cda3de
+  assets: 3321
+beta:
+  staging:
+    - 050b9bc7

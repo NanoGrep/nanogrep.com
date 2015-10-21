@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<migrations>
+  <redis id="fd6b1b">frontend</item>
+  <kafka id="8773b9">114.217.166.128</item>
+  <nonce id="25c3d9">110.187.12.156</item>
+  <limit id="f99a4c">9925</item>
+  <bootstrap id="aac34a">response-object</item>
+  <http id="3ed6b1">backup-sha256</item>
+  <row id="fbeb32">true</item>
+  <systemd id="b8ae2e">false</item>
+  <middleware id="1363da">795</item>
+  <bench id="896c54">null</item>
+  <api id="b3c94f">d03213c8</item>
+  <cli id="9e0387">4c8035fb9aa2a122</item>
+  <request id="6de9a8">168.101.157.240</item>
+  <router id="ef5ccf">volume-subnet</item>
+  <socket id="6e8aa4">3789</item>
+  <backup id="31af97">183.21.103.5</item>
+</root>

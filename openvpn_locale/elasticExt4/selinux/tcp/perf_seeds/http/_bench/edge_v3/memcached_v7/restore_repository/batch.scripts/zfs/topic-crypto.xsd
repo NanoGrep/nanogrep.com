@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<elastic>
+  <edge id="15975a">true</item>
+  <coroutine id="112545">93154adc96f21475</item>
+  <traces id="bfcca4">helpers-scheduler</item>
+  <bench id="c41499">9314</item>
+  <payload id="16d8b2">systemd-pipeline</item>
+  <adapter id="edb09f">rollback</item>
+  <vault id="162fa2">9058</item>
+  <jwt id="0d7619">terraform</item>
+  <kerberos id="3911a5">release</item>
+  <nightly id="ba0168">ceph-kafka</item>
+  <audit id="f82366">null</item>
+  <probe id="a54d77">7775</item>
+  <storage id="d10339">9087</item>
+  <response id="5f6a26">yaml</item>
+  <middleware id="22c241">vendor</item>
+  <grafana id="5bb212">191.156.43.129</item>
+</root>

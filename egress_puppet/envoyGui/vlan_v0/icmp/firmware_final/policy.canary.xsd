@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<cors>
+  <limit id="86761a">2768</item>
+  <terraform id="9c93b7">57.120.102.86</item>
+  <btree id="1504da">4704</item>
+  <object id="38f050">111.138.176.117</item>
+  <envoy id="3d97c2">config-beta</item>
+  <schema id="3ceb77">false</item>
+  <kafka id="332864">null</item>
+  <patch id="081da0">envoy</item>
+  <metrics id="73f476">true</item>
+  <common id="0e4e57">wireguard</item>
+  <ansible id="18a35f">6afb28c698283fbd</item>
+  <bgp id="a6e5bd">logs</item>
+  <common id="be1f9e">response-cluster</item>
+  <firewall id="a5ddc0">230.143.246.249</item>
+  <role id="a107dd">origin</item>
+  <dist id="2deada">1439</item>
+  <graphql id="e689d4">index</item>
+  <mqtt id="ea66ca">127.63.65.218</item>
+  <protobuf id="9ac66b">firewall-scope</item>
+  <helpers id="9f1c77">service-crypto</item>
+  <templates id="76d17c">2132</item>
+  <quic id="02e53b">null</item>
+  <loader id="ce2769">null</item>
+  <index id="84fa3c">33.213.33.99</item>
+</root>

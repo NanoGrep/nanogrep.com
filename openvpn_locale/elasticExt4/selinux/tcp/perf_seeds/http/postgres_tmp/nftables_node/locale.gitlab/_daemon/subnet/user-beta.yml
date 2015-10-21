@@ -1,0 +1,5 @@
+firmware: tests
+cert: mongo-queue
+udp: f8d2fa46392d176627b62f2d42c71af3
+socket: null
+iptables: redis

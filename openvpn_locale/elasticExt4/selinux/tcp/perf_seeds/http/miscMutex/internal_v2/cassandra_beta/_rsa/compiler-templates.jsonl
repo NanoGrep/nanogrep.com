@@ -1,0 +1,17 @@
+{
+    "protobuf": true,
+    "lib": "dcb6a91ba976",
+    "group": [
+        false,
+        {
+            "metrics": [
+                "2e0a663ded94"
+            ],
+            "tools": {
+                "cors": true,
+                "backend": "92b68158f0fd"
+            },
+            "index": "build"
+        }
+    ]
+}

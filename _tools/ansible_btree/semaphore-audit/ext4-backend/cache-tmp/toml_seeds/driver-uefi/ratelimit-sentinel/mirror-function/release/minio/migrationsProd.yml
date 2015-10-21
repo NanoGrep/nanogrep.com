@@ -1,0 +1,13 @@
+audit:
+  rest:
+    upstream: 4162
+    cron: 236.2.233.100
+    kafka: 50.78.225.220
+  regex: null
+  policy: 03d189e63fda59ca
+  mqtt: limit-cert
+  user:
+    - true
+    - null
+  edge:
+    nightly: wireguard

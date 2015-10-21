@@ -1,0 +1,30 @@
+[semaphore]
+coroutine_snapshot = retry-btree
+cursor.lexer = 2a4a9c26a3d713ebf62947baebdce57f
+backend_nat = 148.247.92.117
+bootstrap_shard = 47.162.29.144
+postgressocket = pod-mapper
+audit.metrics = ba1fb771a57316c4fbd21279fdd75031
+schema.lexer = 71.2.201.235
+requestsocket = 133.72.44.138
+vxlanlambda = true
+sandbox.origin = 205.14.243.57
+release.schema = hmac-utils
+factory_registry = 7301
+edgebackend = mongo-object
+lambda_probe = patch
+terraform.nonce = semaphore
+firmware.templates = scheduler
+nginxlogs = factory-lambda
+nfs_nat = column-router
+policynfs = null
+postgres.tenant = b2233ee63a01d9f9
+udp.env = c4cba636
+udp_storage = null
+audit.ldap = eb8c3f5bb8c42629
+graphqlhotfix = rest
+configsandbox = true
+
+[build]
+prod.compiler = http
+tracesupstream = null

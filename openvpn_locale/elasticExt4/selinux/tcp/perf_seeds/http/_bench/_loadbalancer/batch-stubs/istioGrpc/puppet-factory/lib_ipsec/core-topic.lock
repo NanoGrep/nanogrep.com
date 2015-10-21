@@ -1,0 +1,37 @@
+[
+  [
+    [
+      [],
+      true,
+      true,
+      null
+    ],
+    true,
+    {
+      "jwt": [
+        "1b3e5c37b647",
+        "btree",
+        true,
+        "42bb7ee34648"
+      ],
+      "pod": {
+        "stack": 5159,
+        "lambda": false,
+        "lib": true
+      },
+      "scope": [
+        null
+      ],
+      "cert": {
+        "bootstrap": "973740471de8",
+        "ansible": "traces",
+        "payload": "43cc7d7f8a0e",
+        "controller": false,
+        "postgres": 6253
+      },
+      "mesh": true
+    }
+  ],
+  "websocket",
+  "nat"
+]

@@ -1,0 +1,37 @@
+{
+    "ansible": {
+        "jwt": false,
+        "dist": [
+            {
+                "mutex": "545c9e90494a",
+                "fixtures": 9457,
+                "env": true,
+                "sdk": "worker",
+                "cursor": 7971,
+                "wireguard": false
+            },
+            [
+                "a1bf280f4b66"
+            ],
+            null,
+            [
+                "router"
+            ]
+        ],
+        "user": {
+            "nat": {
+                "bucket": "loader"
+            },
+            "socket": null,
+            "driver": null,
+            "rollback": {
+                "row": null
+            },
+            "vault": null,
+            "tls": false
+        },
+        "env": null,
+        "locale": null,
+        "router": []
+    }
+}

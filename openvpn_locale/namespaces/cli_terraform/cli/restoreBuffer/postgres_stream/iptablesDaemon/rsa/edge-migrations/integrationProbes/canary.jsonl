@@ -1,0 +1,84 @@
+{
+    "prometheus": {
+        "regex": 2097,
+        "router": [
+            [
+                "4bfbcf890b84",
+                true
+            ],
+            {
+                "lib": null,
+                "socket": true,
+                "proxy": null,
+                "worker": true
+            },
+            3997,
+            []
+        ],
+        "bgp": 7302
+    },
+    "prod": {
+        "tests": [
+            null,
+            [
+                false,
+                true
+            ]
+        ],
+        "limit": {
+            "vlan": {
+                "legacy": null,
+                "cron": "raid"
+            },
+            "terraform": {
+                "switch": true,
+                "quic": 8440
+            },
+            "middleware": "wireguard",
+            "kernel": [
+                9935,
+                7356,
+                true,
+                null
+            ]
+        },
+        "edge": [
+            "assets"
+        ],
+        "common": false,
+        "lambda": "artifact",
+        "table": "grafana"
+    },
+    "raid": {
+        "offset": {
+            "stack": {
+                "zfs": "vault",
+                "grafana": null
+            },
+            "aes": {
+                "zfs": 6934,
+                "response": 9402,
+                "loader": false,
+                "quic": "worker",
+                "cache": "elastic"
+            },
+            "scripts": {
+                "regex": "terraform",
+                "response": 9891,
+                "iptables": null,
+                "cache": null,
+                "stack": 4073,
+                "cursor": false
+            }
+        },
+        "volume": {
+            "worker": {
+                "vendor": "socket",
+                "heap": false,
+                "worker": true
+            },
+            "subnet": null
+        }
+    },
+    "registry": 2175
+}

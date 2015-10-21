@@ -1,0 +1,61 @@
+{
+  "oauth": {
+    "origin": "53c898e2cb3e",
+    "nfs": [
+      [
+        true,
+        "staging",
+        "edge",
+        null
+      ]
+    ]
+  },
+  "mqtt": {
+    "common": {
+      "api": [
+        null,
+        158,
+        false
+      ],
+      "response": true,
+      "middleware": {
+        "vault": "probe",
+        "api": false,
+        "nightly": true,
+        "mirror": false,
+        "assets": "cluster",
+        "dist": true
+      },
+      "frontend": {
+        "origin": 5647,
+        "nginx": 5320,
+        "worker": false,
+        "table": "stack",
+        "row": 8102,
+        "object": "sha256"
+      },
+      "kernel": {
+        "nfs": true,
+        "queue": 1817
+      },
+      "stack": 8263
+    },
+    "storage": {
+      "release": true,
+      "driver": {
+        "policy": null,
+        "crypto": false,
+        "vault": false,
+        "systemd": false,
+        "retry": true
+      }
+    },
+    "traces": [
+      "22196f157034"
+    ],
+    "nonce": 1165,
+    "envoy": {
+      "storage": false
+    }
+  }
+}

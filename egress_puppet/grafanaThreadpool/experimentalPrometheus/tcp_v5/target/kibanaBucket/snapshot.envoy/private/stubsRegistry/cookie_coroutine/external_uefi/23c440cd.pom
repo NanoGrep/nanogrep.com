@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<cache>
+  <offset id="998017">dist-probe</item>
+  <artifact id="57eabc">controller</item>
+  <logs id="2a13a8">5201</item>
+  <kerberos id="e42829">03f1da37</item>
+  <compiler id="ecdada">null</item>
+  <user id="a9f291">cluster</item>
+  <aes id="63fd5c">6772</item>
+  <adapter id="3e5d99">nat-bloom</item>
+  <config id="6e5807">yaml</item>
+</root>

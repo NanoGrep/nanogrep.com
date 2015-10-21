@@ -1,0 +1,18 @@
+mapper:
+  bench: false
+config:
+  salt: watchdog
+  cgroups:
+    ingress: 991
+    row: mutex-patch
+    btree: 8389
+  scripts:
+    yaml:
+      - 9334
+      - kerberos
+      - 9771
+    user: d4404dbc467137923b81e3b6db739d77
+    iptables: cookie-sdk
+    request: null
+service: hotfix-common
+backup: 3138

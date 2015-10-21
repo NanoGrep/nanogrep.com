@@ -1,0 +1,29 @@
+[
+    [
+        "4bf0ec7ac5fc",
+        "batch",
+        {
+            "replica": false,
+            "assets": 6034
+        },
+        {
+            "mapper": 4847,
+            "audit": {
+                "kafka": "hashmap",
+                "alerts": "c6dcdf01c07b"
+            },
+            "scheduler": {
+                "session": "http",
+                "pod": 3348
+            },
+            "vendor": [],
+            "node": {
+                "stream": "metrics",
+                "ldap": "helm",
+                "grpc": "af231c18f583",
+                "frontend": "lib",
+                "entropy": null
+            }
+        }
+    ]
+]

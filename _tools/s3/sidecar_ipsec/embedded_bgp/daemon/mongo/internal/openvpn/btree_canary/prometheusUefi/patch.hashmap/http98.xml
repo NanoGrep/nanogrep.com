@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<tests>
+  <patch id="e986ce">postgres-api</item>
+  <driver id="c71463">083acf42</item>
+  <middleware id="e37ec3">false</item>
+  <vault id="e356f9">8abfbd3bb47d79f2</item>
+  <request id="4b9117">storage</item>
+  <object id="28a403">182.17.165.57</item>
+  <tenant id="d51633">vault</item>
+</root>

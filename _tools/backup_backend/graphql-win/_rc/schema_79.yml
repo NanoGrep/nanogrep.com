@@ -1,0 +1,26 @@
+dhcp: 196.249.207.74
+dist:
+  sha256: runner
+  postgres: null
+  grpc:
+    nightly: 5.84.57.165
+    scripts:
+      - 19.235.104.218
+  patch:
+    lib: 3.156.69.69
+    vault: null
+    stream:
+      api:
+        - 107.178.47.213
+        - 0fcdd758adb81d90
+        - common
+      beta: null
+      oauth: cursor-hmac
+    kafka:
+      volume: storage
+      role: utils
+      stack:
+        - 1156
+        - backend
+  tenant: true
+raid: runner

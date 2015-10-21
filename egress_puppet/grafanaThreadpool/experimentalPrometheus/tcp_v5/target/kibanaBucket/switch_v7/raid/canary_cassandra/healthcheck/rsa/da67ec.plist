@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<cache>
+  <artifact id="e6e538">false</item>
+  <queue id="c05b51">5187</item>
+  <metrics id="7f05f6">9f297b17f5a6a11ea9382eb6e070e0e5</item>
+  <tenant id="1f7014">5184</item>
+  <gateway id="70dd41">null</item>
+  <controller id="521e0c">null</item>
+  <heap id="132cfc">false</item>
+  <bootstrap id="14140a">failover</item>
+  <quic id="9ac4dc">dist</item>
+  <failover id="38f899">false</item>
+  <scheduler id="24c361">vxlan</item>
+  <group id="f3be51">false</item>
+  <middleware id="7ef49c">true</item>
+  <btree id="2a7a4b">d8fc6ea5</item>
+  <tools id="6a97ac">true</item>
+  <hotfix id="2b9a31">limit-firewall</item>
+</root>

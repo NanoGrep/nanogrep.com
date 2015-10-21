@@ -1,0 +1,29 @@
+envoy: locale
+grpc:
+  schema:
+    lexer: 934b6c03f97509b2ac54703eb05a73d3
+    mutex:
+      gateway: ingress
+      aes: 9959
+      traces: 7082
+      kafka:
+        - 87.49.174.91
+        - 3daae775
+        - postgres
+        - cursor-vendor
+    daemon: 6767
+    request: 1.56.25.127
+lib: 3327
+bloom:
+  legacy: 8186bd90
+  hotfix: null
+  proxy: table
+templates: migrations
+probe:
+  elastic: 254.111.10.28
+  backup:
+    fixtures:
+      mirror: 5.211.238.100
+    vendor: false
+    compiler: 4347
+  mocks: 9878

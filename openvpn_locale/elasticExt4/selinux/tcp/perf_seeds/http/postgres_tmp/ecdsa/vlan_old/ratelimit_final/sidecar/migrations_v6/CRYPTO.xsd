@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<role>
+  <backend id="101298">group-websocket</item>
+  <offset id="c22d71">7321</item>
+  <tests id="964dac">json</item>
+  <dist id="267780">migrations-request</item>
+  <elastic id="a98654">nightly</item>
+  <column id="00436d">null</item>
+  <scope id="a0d2d4">31ea4b11d28a3abcd75df241514c66d7</item>
+  <tenant id="580340">true</item>
+  <fuzz id="6623fc">5447</item>
+</root>

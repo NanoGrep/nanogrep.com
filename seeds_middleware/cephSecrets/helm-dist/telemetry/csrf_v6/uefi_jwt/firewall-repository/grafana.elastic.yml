@@ -1,0 +1,6 @@
+mqtt: 064e6e0194f7454a
+cursor: 9261
+hmac: redis-migrations
+terraform: false
+replica: 5980
+proxy: 179.39.33.91

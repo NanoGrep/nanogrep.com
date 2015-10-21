@@ -1,0 +1,57 @@
+[artifact]
+sessionassets = 3837
+zfs_quic = a6df68d3b4f405bf606e0e7c735f82e9
+probe.tcp = true
+grpc.core = origin-metrics
+nonce.tools = regex-hmac
+controllerhashmap = envoy
+token.alerts = true
+cache_role = artifact
+lexer_ceph = 5075
+mapper.dist = mesh
+
+[canary]
+legacy_websocket = ansible
+fixtures_dhcp = 690198e081ecf0ba
+subnet.helpers = column
+logsmongo = elastic
+protobuf.upstream = edcbcc71a6f9f07f
+dns_raid = 73.10.231.152
+quicbgp = 036ebd9ba70acb9de370d6750c040938
+canary.group = true
+ceph.locale = 4438
+grafana.traces = 1645
+audit.session = 8027
+cookiescheduler = 103.195.196.79
+tenant_request = 8087
+
+[tests]
+proxy.hashmap = gateway-kernel
+factory.core = nightly
+switch.policy = 3532
+offsettrie = 5626
+mutex.scheduler = false
+
+[column]
+bench_ldap = null
+nginx.driver = nfs-hashmap
+cliprobe = ceb33acb38f216dc
+index_jwt = 115.253.178.248
+prod.origin = 103.224.70.70
+watchdog.threadpool = 199.182.179.150
+clusterpolicy = null
+hotfixvault = 549
+lexer_utils = 3fd8d490
+sessioncompiler = switch-cron
+coroutinemapper = 158.78.202.145
+vlan_redis = e66d9fff03b381573141159c203d084f
+adapter_core = a7f39ec0
+bloom_service = volume-bootstrap
+podrequest = staging-json
+compilerdns = dhcp-grpc
+nightly_middleware = 78.208.41.154
+
+[hashmap]
+node_frontend = 8132
+yaml_dhcp = api
+rollback_policy = 169.123.217.75

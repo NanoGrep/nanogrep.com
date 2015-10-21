@@ -1,0 +1,38 @@
+{
+    "gateway": {
+        "backend": [
+            {
+                "limit": "879e5f1a40d9"
+            },
+            null,
+            [
+                "e386dc1fb747"
+            ],
+            true
+        ],
+        "limit": {
+            "shard": "9ded1b8fe5f0",
+            "service": [
+                false
+            ],
+            "daemon": 9696,
+            "kernel": null,
+            "kerberos": {
+                "bucket": true,
+                "dns": "patch",
+                "utils": 4547,
+                "firmware": 4867
+            },
+            "cookie": {
+                "grpc": null,
+                "iptables": true,
+                "tools": null
+            }
+        },
+        "wireguard": null,
+        "adapter": {
+            "sha256": "cgroups",
+            "firmware": null
+        }
+    }
+}

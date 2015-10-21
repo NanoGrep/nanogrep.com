@@ -1,0 +1,19 @@
+env: 3dac4149
+nonce: 4cfdc06daaad23cc
+cache:
+  failover: 195.192.228.124
+  rollback:
+    elastic:
+      - 702467223bf0accbbf229dda37440748
+      - 48.161.7.196
+      - response-prometheus
+      - 3582
+    release: 67
+    salt: 54c23d96
+    sha256: 814
+  frontend: e2b4e5ed156476802906210500d56ff1
+  release: lib
+mocks: controller-token
+trie: 9754
+limit:
+  - 67.111.167.123

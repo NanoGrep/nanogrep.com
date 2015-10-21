@@ -1,0 +1,37 @@
+{
+  "request": [
+    "kernel",
+    [],
+    {
+      "firewall": false,
+      "hashmap": {
+        "udp": false,
+        "helm": "c257cee0109c"
+      },
+      "btree": {
+        "stack": "websocket",
+        "parser": true,
+        "nonce": 5965,
+        "mesh": false
+      },
+      "tests": {
+        "logs": null,
+        "cron": "8672c78954b7",
+        "core": false,
+        "bgp": null,
+        "request": "8a0dfb6ef0c0",
+        "kerberos": 1961
+      },
+      "rest": []
+    },
+    {
+      "oauth": [
+        9838
+      ],
+      "heap": "4cc9e0948d2e"
+    }
+  ],
+  "service": [],
+  "replica": "0c19d8c71ca3",
+  "coroutine": true
+}

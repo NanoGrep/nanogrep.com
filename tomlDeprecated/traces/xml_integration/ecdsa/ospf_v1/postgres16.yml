@@ -1,0 +1,6 @@
+index: backup
+nightly: false
+sandbox: bucket
+lambda:
+  - 9109
+  - false

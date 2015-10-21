@@ -1,0 +1,14 @@
+build:
+  dns:
+    tenant: cursor
+    request: 03b3c602bb817226
+    schema:
+      ingress: false
+      templates: 0ec9205a210c90d61ae592b0533df303
+      cli: 12df0f9db422f0b8
+      topic: 183.12.11.226
+      http:
+        - audit-storage
+    snapshot: cgroups
+  cookie: cgroups
+policy: service

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<oauth>
+  <helm id="a51cdb">79.230.84.37</item>
+  <core id="b4367e">registry-policy</item>
+  <zfs id="746a34">05f6a611</item>
+  <vxlan id="5c7b2e">4e704941873462d5138e76e4abcc2ed7</item>
+  <tcp id="824daf">false</item>
+  <rest id="52bcc2">adapter</item>
+  <stack id="730562">cca332e821a3f77a</item>
+  <raid id="30c870">cluster-limit</item>
+  <mysql id="3222af">token-storage</item>
+  <backup id="b6f5b3">3012a948</item>
+</root>

@@ -1,0 +1,17 @@
+dhcp:
+  - fuzz
+  - 8442
+socket:
+  common: 21.147.119.197
+  response: prod
+  sha256: 17f6f4a317726a522f53acc5f68ce4a2
+  cli: rest
+  grpc: frontend
+  storage:
+    ceph: false
+cluster:
+  - 171.149.237.135
+  - bloom-protobuf
+  - driver-dhcp
+  - cache-bench
+websocket: null

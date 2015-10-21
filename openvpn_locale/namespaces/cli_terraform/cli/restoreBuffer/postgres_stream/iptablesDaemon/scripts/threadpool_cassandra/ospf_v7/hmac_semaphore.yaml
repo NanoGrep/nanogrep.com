@@ -1,0 +1,13 @@
+canary:
+  offset: 97.89.109.213
+  redis: 5036
+  release: http-dns
+  cors: 23fe60a177182fe96835176be0b3bfcb
+bootstrap: 5034
+loader:
+  envoy: null
+  scope: 149.198.18.74
+  rest:
+    - 4501c134b53d521b
+    - null
+aes: 56.129.103.99

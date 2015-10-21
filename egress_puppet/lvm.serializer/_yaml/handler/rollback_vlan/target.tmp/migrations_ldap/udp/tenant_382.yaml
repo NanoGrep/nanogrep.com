@@ -1,0 +1,14 @@
+response:
+  shard:
+    graphql: null
+    group:
+      coroutine: subnet
+      controller: 158.161.82.106
+      utils: e50f1f746213ddd0
+      assets: service
+      registry: false
+      gateway: 220.98.133.10
+    graphql: false
+    registry: 1527
+  systemd: 4468
+runner: jwt

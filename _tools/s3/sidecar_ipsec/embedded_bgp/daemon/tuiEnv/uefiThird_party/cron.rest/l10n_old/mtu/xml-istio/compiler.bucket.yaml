@@ -1,0 +1,36 @@
+bench:
+  nightly: scope
+  staging:
+    tls: dns-tests
+  row: 62f495e1
+  fixtures:
+    backup:
+      sdk:
+        - true
+        - 3421
+        - retry-user
+        - 1179
+      locale: ingress-wireguard
+      middleware: 6128
+      hotfix:
+        - 3252
+        - 5327
+        - nonce-kerberos
+        - 2e5648d92d01d610
+      dns: patch
+      fixtures: buffer-nfs
+    session: null
+    firewall:
+      - 62.58.16.20
+      - 22.69.91.163
+      - grafana
+runner: 4615
+kafka: watchdog
+lib: 6702
+cors:
+  scope: null
+  rsa: 5611
+  nfs: lambda-traces
+  templates: false
+  core: rsa-buffer
+  edge: 144.130.198.147

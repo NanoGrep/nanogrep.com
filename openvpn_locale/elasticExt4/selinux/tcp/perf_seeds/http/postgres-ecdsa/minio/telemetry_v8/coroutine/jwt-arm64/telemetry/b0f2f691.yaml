@@ -1,0 +1,13 @@
+elastic:
+  migrations: null
+  graphql: canary-edge
+  envoy:
+    logs: stream
+    token: true
+    response: 191.229.105.161
+    lambda:
+      - beta-elastic
+      - false
+      - crypto-cache
+aes: 72401583afe5bd35
+kerberos: 8111

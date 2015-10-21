@@ -1,0 +1,14 @@
+{
+  "snapshot": 4652,
+  "assets": "ecf76e079a30",
+  "backup": {
+    "kerberos": "mocks"
+  },
+  "websocket": [
+    {
+      "raid": "dfb4d5d969fb",
+      "volume": "probe"
+    }
+  ],
+  "ceph": null
+}

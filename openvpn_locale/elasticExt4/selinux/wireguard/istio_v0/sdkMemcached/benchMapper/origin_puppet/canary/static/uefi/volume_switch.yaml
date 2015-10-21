@@ -1,0 +1,8 @@
+mqtt: jenkins-user
+loader:
+  - 104.95.247.1
+  - edge-mesh
+  - a911f28ba42d0792
+  - switch
+semaphore: object-scope
+websocket: ba7f9734

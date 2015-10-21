@@ -1,0 +1,58 @@
+{
+    "vault": {
+        "topic": {
+            "handler": "bf9e46ac7dc9",
+            "proxy": 6815,
+            "rsa": false
+        }
+    },
+    "mongo": "2bb0fc0e96bc",
+    "cache": {
+        "bench": true,
+        "yaml": "pod",
+        "canary": "shard"
+    },
+    "entropy": false,
+    "dns": {
+        "mesh": [
+            false,
+            true
+        ],
+        "crypto": {
+            "yaml": [
+                "72effed0275c"
+            ],
+            "scope": 9370,
+            "artifact": [
+                "release"
+            ],
+            "regex": "factory"
+        },
+        "legacy": {
+            "vendor": 8257,
+            "graphql": [
+                "legacy",
+                7212
+            ],
+            "grafana": [],
+            "zfs": [
+                "graphql"
+            ],
+            "compiler": {
+                "switch": false,
+                "mapper": "factory",
+                "batch": false,
+                "ldap": "4b42b0af6572"
+            },
+            "protobuf": []
+        }
+    },
+    "controller": {
+        "vxlan": [
+            "driver",
+            {
+                "salt": "helm"
+            }
+        ]
+    }
+}

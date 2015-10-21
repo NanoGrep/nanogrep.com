@@ -1,0 +1,52 @@
+daemon: null
+role:
+  index: watchdog-fixtures
+  aes:
+    object: 71
+    table: 102.97.142.17
+    storage:
+      websocket: 5198
+    nfs:
+      limit:
+        - 33.57.64.160
+        - 48ec9b315def8967b537810fc3f46e22
+        - 0746aa5c342fb4e1
+        - true
+      rollback: null
+      coroutine: salt
+      mutex: 8a2cb08a7cd167f6ac42ed3d0872ad68
+    subnet:
+      metrics: 6022
+      alerts: true
+  mongo: false
+  pipeline:
+    rest:
+      kernel: graphql-limit
+      kerberos: e49f1da8
+      ceph: true
+      threadpool:
+        - 8227
+      beta: true
+    cli:
+      bench:
+        - prod-tls
+        - false
+        - 170.254.145.56
+        - false
+      jwt: 78b4e6277b4f42f9
+      cron:
+        - iptables-dist
+      worker: cursor
+      helpers: false
+      cert: 119.11.197.186
+    middleware: false
+    limit: b95660d3
+  middleware: response-vxlan
+table:
+  - null
+  - null
+  - false
+locale:
+  - 6197
+  - object-tls
+  - origin

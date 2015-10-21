@@ -1,0 +1,29 @@
+{
+  "batch": [
+    {
+      "batch": {
+        "coroutine": "7652ed10e942",
+        "rsa": true,
+        "pipeline": "cron",
+        "firewall": 5170,
+        "frontend": "alerts"
+      },
+      "prometheus": [
+        "8b7f638d4a7e",
+        7033,
+        true
+      ]
+    },
+    {
+      "grpc": {
+        "user": false,
+        "config": true,
+        "mqtt": null,
+        "bucket": false,
+        "metrics": "a71943a3a72c"
+      },
+      "mqtt": null
+    },
+    false
+  ]
+}

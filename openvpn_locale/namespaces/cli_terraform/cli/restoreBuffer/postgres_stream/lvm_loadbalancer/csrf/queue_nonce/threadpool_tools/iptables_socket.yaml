@@ -1,0 +1,7 @@
+compiler:
+  - threadpool
+patch:
+  - parser-frontend
+  - grafana-schema
+  - a6684c68
+  - rsa-traces

@@ -1,0 +1,9 @@
+schema:
+  - session
+  - terraform-service
+  - metrics
+runner: 148.206.7.53
+build:
+  nightly: c6cc87837bd059ade6aebf8bd06bd91f
+  websocket: 2014
+  socket: 7fe83a8359a964923df8da475bce9a28

@@ -1,0 +1,11 @@
+stack: c256472739708a4ff72add6baed7da90
+daemon:
+  salt:
+    - null
+    - d3e452dd5f693a1b162d57a706c004b0
+    - table
+  canary:
+    - 247.64.75.213
+  systemd: true
+  pod:
+    mongo: 62.106.122.12

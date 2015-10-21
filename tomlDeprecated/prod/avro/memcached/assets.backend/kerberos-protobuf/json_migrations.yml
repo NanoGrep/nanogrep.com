@@ -1,0 +1,20 @@
+build:
+  logs: false
+  env: true
+  nightly:
+    hmac: helpers-iptables
+    replica: null
+    threadpool:
+      envoy: dhcp
+      raid: rsa
+    stream:
+      build: 38.212.62.161
+    vendor: snapshot-sandbox
+  envoy: 4224
+  queue: http
+index:
+  - 28db0e8a890af2c5
+vlan:
+  group: 0f6f28129e9d7123612ba0ce0ed0dfbd
+token: 5f095ee7eb167a848a6a21ee99c4a7d2
+row: 6539

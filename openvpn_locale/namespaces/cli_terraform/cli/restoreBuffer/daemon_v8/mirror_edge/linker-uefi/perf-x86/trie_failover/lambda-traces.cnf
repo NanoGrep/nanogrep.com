@@ -1,0 +1,23 @@
+[parser]
+tenant.fuzz = null
+mongoparser = gateway-fixtures
+rest_buffer = 349f5866
+proxypostgres = e608e7a8
+dns.scope = 8675
+backupcert = 3aa103e7090045c4370d433634b6fc52
+loader.firmware = worker
+legacycommon = topic
+clustergroup = metrics-systemd
+prometheus_hotfix = 134.92.186.72
+payload_fixtures = firmware
+upstream.cookie = a27695df8dec64c2a44c91a9743926b9
+handler_staging = cache-sdk
+session_driver = true
+auditrunner = env-bgp
+websocket.ingress = 125.218.102.91
+cluster.vlan = parser
+storage_buffer = true
+scheduler_node = f95fbf75
+backup_mesh = 10.70.201.82
+redisgrafana = 700e5a7c62f26aeb
+release_subnet = null

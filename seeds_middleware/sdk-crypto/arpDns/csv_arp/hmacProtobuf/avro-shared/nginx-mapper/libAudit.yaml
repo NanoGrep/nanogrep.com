@@ -1,0 +1,5 @@
+vault: socket-websocket
+crypto:
+  vlan: 40fb5921c042d250
+hotfix: mocks
+policy: parser

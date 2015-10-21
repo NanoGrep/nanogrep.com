@@ -1,0 +1,23 @@
+[
+  {
+    "cors": "168c936d57de",
+    "entropy": 9676,
+    "zfs": 5913,
+    "buffer": "83526bfd42ae",
+    "cluster": 6222,
+    "watchdog": false
+  },
+  [
+    "scheduler",
+    false,
+    {
+      "firewall": {
+        "oauth": "1f0ca578c3a4",
+        "shard": null,
+        "trie": null
+      },
+      "replica": "rest"
+    },
+    "7344d5efe1d3"
+  ]
+]

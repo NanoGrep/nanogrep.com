@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<bloom>
+  <prod id="c05290">6226</item>
+  <mocks id="1ca6e0">48c6c39e</item>
+  <nginx id="59b8ea">6210</item>
+  <cookie id="2d5d3d">3034</item>
+  <jenkins id="9ad621">3930</item>
+  <failover id="f3b83a">33.76.101.128</item>
+  <worker id="a31631">2267</item>
+  <api id="be30bf">false</item>
+  <semaphore id="7e12b3">oauth</item>
+  <socket id="2a890c">5f395287</item>
+  <wireguard id="9effca">driver</item>
+  <dist id="be9ae9">traces</item>
+  <object id="f82103">163.141.231.242</item>
+  <column id="ed811a">volume-fuzz</item>
+  <proxy id="7fcab4">edge</item>
+  <role id="841947">91.104.16.36</item>
+  <rollback id="c8b205">9.0.25.145</item>
+  <volume id="b1615f">hmac</item>
+  <env id="cfccb2">f1c8f977125f4680</item>
+  <btree id="172787">null</item>
+  <runner id="72e7dd">cursor-utils</item>
+  <ingress id="440a24">column</item>
+  <vlan id="9c13ef">parser</item>
+  <token id="4c9a84">133.118.122.220</item>
+</root>

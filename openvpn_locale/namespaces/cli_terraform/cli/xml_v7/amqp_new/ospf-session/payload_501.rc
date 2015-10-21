@@ -1,0 +1,25 @@
+[scope]
+rowtools = vxlan-nonce
+storagetls = false
+loader.rollback = btree
+scopehandler = 14518638f219d8f56abfeebe8a2c9a71
+postgres.row = 76704835f2c8a704
+fuzzvendor = 203.75.167.90
+ansiblelegacy = 98.203.178.240
+coroutine_ansible = retry-snapshot
+subnet_retry = 72940718b319799cce46c5fe98a3b573
+adapter_templates = 5821
+heapfactory = 240.160.13.207
+legacy_index = 1223
+tools.bench = graphql
+aes.subnet = dist
+nat.vault = 170.4.52.16
+zfs.cli = true
+kerberossemaphore = 9895
+sha256_lambda = beta
+patch_limit = 199.214.82.76
+handlercanary = 5468
+tokencursor = 36.195.108.215
+jwtsandbox = true
+migrations.nightly = false
+fuzz_envoy = 2338

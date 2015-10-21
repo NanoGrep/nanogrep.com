@@ -1,0 +1,42 @@
+vault: 3006
+driver:
+  hashmap:
+    dhcp: crypto
+    topic:
+      upstream: lexer-bootstrap
+      dns:
+        - true
+        - offset-switch
+      aes: api
+      gateway: 6449
+      envoy: e83bdd60
+  tenant: 5832
+  proxy: 9f16504b
+  factory: 3656
+dns: 0799c5c9
+worker:
+  - 18.252.11.236
+  - true
+  - volume-watchdog
+  - 82.27.234.149
+helm:
+  storage:
+    - false
+    - null
+    - null
+    - 9471
+  runner: dns
+  snapshot: http-handler
+  crypto: mesh-buffer
+  firmware:
+    ingress:
+      fixtures:
+        - 4b0a084821d44aed7123dbcc6ca9ae0f
+        - true
+      cluster: release-scripts
+    ingress:
+      - release
+      - null
+      - 212.203.29.241
+      - 6951
+  bootstrap: trie-hotfix

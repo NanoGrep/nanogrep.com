@@ -1,0 +1,14 @@
+buffer: 4057
+bootstrap: 2781
+envoy:
+  core: 1119
+  common: 4e592eefffda8d13
+  loader:
+    canary: b7702475ad4658da
+    middleware: 238.231.191.223
+    bloom:
+      - watchdog
+      - 51.57.20.235
+      - 234.144.102.58
+retry: 991
+firewall: ece2fc31b7e4c7377d78cb21fbb8da24

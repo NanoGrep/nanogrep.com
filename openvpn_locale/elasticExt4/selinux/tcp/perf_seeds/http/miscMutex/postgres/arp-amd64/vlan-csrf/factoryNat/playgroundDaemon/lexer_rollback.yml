@@ -1,0 +1,15 @@
+daemon: 2964
+crypto: true
+graphql:
+  env: mapper-templates
+  token:
+    subnet: 86.245.247.98
+    helm: 75
+    scripts:
+      - 119.160.93.162
+      - bootstrap-fixtures
+      - pod
+  nginx:
+    - role
+    - 140.95.102.189
+  systemd: true

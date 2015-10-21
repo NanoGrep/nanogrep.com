@@ -1,0 +1,48 @@
+topic: 04db4b0c9bae69930d343e919fa3e192
+loader:
+  runner:
+    cookie:
+      build: vxlan-helpers
+      scripts: d452b9739166d904
+      mqtt:
+        - 4c0baef8
+        - 45630c79801f70dc7165321eebfd44f1
+        - audit
+        - null
+    kafka:
+      vault: api
+      crypto: fuzz-metrics
+    zfs: 51.152.148.51
+    cluster: rsa
+    helm: true
+  sandbox: 5490
+  wireguard:
+    - cgroups-release
+    - 48.126.81.246
+  mapper: 69.20.3.86
+origin:
+  beta: middleware-entropy
+  cache:
+    traces: traces-ansible
+    rest: 4539
+    bloom:
+      ldap: 33.210.219.247
+      rollback: 0872d47b
+      sdk: false
+    threadpool:
+      zfs: false
+      utils: audit-volume
+      helm: acffe3c3
+      prod: 5433
+      build:
+        - user
+        - hotfix
+      topic: null
+    prometheus: false
+  cert:
+    bench:
+      - 6189
+    token: probe-legacy
+  ldap: true
+  raid: upstream-storage
+mesh: f78338d4f68f6b06

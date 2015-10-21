@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<snapshot>
+  <cgroups id="01e0ef">kerberos</item>
+  <cert id="aa63a4">3440</item>
+  <http id="dfc525">lambda</item>
+  <nginx id="b2c49e">fixtures-ldap</item>
+  <helpers id="23ba73">144.253.228.242</item>
+  <group id="04b5df">8730</item>
+  <probe id="d2664f">mongo</item>
+  <cors id="86fcf5">schema</item>
+  <bootstrap id="7568af">109.251.37.231</item>
+  <worker id="19d7df">1413</item>
+  <helm id="e25e17">mutex-patch</item>
+  <watchdog id="9f251b">15e771ea9805e8e2</item>
+  <yaml id="bb81ad">false</item>
+  <storage id="2fd124">true</item>
+  <proxy id="0fdc3d">false</item>
+  <firewall id="90d9c9">envoy</item>
+  <fixtures id="43b50e">9053</item>
+  <mocks id="da0bad">cron-kerberos</item>
+</root>

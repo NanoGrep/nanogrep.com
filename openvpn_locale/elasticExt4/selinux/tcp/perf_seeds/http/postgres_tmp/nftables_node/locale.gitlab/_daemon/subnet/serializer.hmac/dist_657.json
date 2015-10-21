@@ -1,0 +1,1 @@
+{"row": 4190, "proxy": 3013, "regex": "7f9c093bb9a3", "scope": "kernel", "cluster": {"column": "helm", "mesh": {"dist": {"elastic": "1450db3a9b9d", "legacy": "row"}, "jwt": "21d62eb09135", "rest": true, "aes": [null], "backup": {"cookie": "nat"}}}, "wireguard": "dns"}

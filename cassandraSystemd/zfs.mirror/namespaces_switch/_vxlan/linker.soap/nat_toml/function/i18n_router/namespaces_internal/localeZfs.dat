@@ -1,0 +1,15 @@
+origin,rollback,semaphore,session
+mutex-sandbox,7fa31cd812c3e0a04dd26878131a74d5,true,failover
+nonce,6590051e1fb7549a,75ce2c5c66220497,regex
+fixtures-payload,fe41b013,true,true
+watchdog-yaml,4204,response,47.41.81.233
+87.49.111.12,yaml,9647,null
+82,false,19d22e7d,7673
+assets,b8f5fd7f2e68e1c2f8fc9c89a23a4248,cron-cookie,9c01e80297075386
+node-batch,96.247.149.47,true,f371e6e77cf5e5f60f89b91e2ad11ed9
+198.156.61.246,4360,mirror-canary,wireguard-beta
+fa4175924dbe43c1,role-cookie,true,9f08aa6c60c0ee64
+null,false,mocks-staging,rsa
+49fd12d9,e419d360,aes-entropy,mapper-replica
+bootstrap-hotfix,40.144.116.34,1112,3407
+ff72e03292eef51f3b5a5d39d319a9ec,bgp,5.164.96.54,4601

@@ -1,0 +1,24 @@
+bucket: sha256-stack
+staging:
+  threadpool: false
+  cookie: session-tools
+  grafana:
+    regex: false
+    api: 186.122.171.117
+  cgroups:
+    nginx:
+      cache: trie
+    tls: coroutine-topic
+    legacy: 6a2d1a29d22bbd98
+    nightly:
+      policy: 42e2af69a33b16ac
+      hmac: 8767
+      gateway: 151.170.109.83
+    middleware: e82a3c61
+  request:
+    - e5cdd3dbed6f0d39
+    - 8a41e7434a7f69f0
+    - 753
+    - null
+offset: mirror-assets
+sandbox: true

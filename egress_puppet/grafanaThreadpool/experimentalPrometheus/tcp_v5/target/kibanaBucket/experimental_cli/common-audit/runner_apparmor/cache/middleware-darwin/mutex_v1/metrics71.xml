@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<token>
+  <scope id="3dae6a">locale-protobuf</item>
+  <backup id="47ac37">969fdf83d3e8d0ed709e3474af51ea06</item>
+  <socket id="a3c937">4749</item>
+  <kafka id="815be9">templates</item>
+  <limit id="eaa67d">table</item>
+  <queue id="83f45c">87.8.150.246</item>
+  <driver id="6593b6">crypto-schema</item>
+  <mocks id="dc824e">3b8d1873</item>
+</root>

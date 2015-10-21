@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<index>
+  <firmware id="947727">252.29.143.119</item>
+  <storage id="4f3907">2693</item>
+  <compiler id="8feae6">e9d22a46</item>
+  <dhcp id="5d646d">quic-buffer</item>
+  <zfs id="b0bfe3">805e25e500ea51ce00b2fd37ff8c4dfe</item>
+  <crypto id="db1314">21f89e9f2a39329cc39b41dcabc6bae3</item>
+</root>

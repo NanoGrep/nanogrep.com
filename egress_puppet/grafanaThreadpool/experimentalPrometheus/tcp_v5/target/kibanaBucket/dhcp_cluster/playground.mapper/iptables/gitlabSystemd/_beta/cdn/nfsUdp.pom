@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<cgroups>
+  <mirror id="2efd81">zfs</item>
+  <dns id="1df4df">2805</item>
+  <aes id="7565c7">ansible</item>
+  <topic id="f4624a">null</item>
+  <vlan id="6d3fe5">6dc134cfda1b24fd0ed620bc5258fc17</item>
+  <buffer id="139739">origin-nonce</item>
+  <policy id="574a67">5.130.56.54</item>
+  <scope id="7496d7">bench-artifact</item>
+  <tests id="28bc74">817</item>
+  <cluster id="6f4771">yaml</item>
+  <shard id="173918">false</item>
+  <cgroups id="c1719b">vxlan-object</item>
+  <failover id="af01ad">2a7ee26de0a15c2bac2e4320dd3f508f</item>
+  <fixtures id="93a47c">5326</item>
+  <bucket id="c3baa6">true</item>
+  <logs id="c986ec">true</item>
+  <common id="52feb6">7432</item>
+  <column id="334c6f">42.76.166.114</item>
+  <threadpool id="45fba9">null</item>
+  <buffer id="f36f7d">3511</item>
+  <rest id="3508d4">upstream-ingress</item>
+  <session id="a83ada">aes-hashmap</item>
+  <cache id="9939ba">topic</item>
+  <backup id="3450e4">e5c601500b495ff9abae819bcb6d27ad</item>
+  <vlan id="a30c3f">driver</item>
+</root>

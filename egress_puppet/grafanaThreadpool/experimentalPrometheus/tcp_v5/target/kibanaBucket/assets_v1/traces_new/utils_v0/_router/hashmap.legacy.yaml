@@ -1,0 +1,70 @@
+index: offset-prod
+gateway: null
+bucket:
+  helm:
+    - wireguard-object
+    - mongo
+  locale: 3281
+  sandbox:
+    http: oauth-upstream
+    lib:
+      artifact: null
+      firmware:
+        - false
+        - 138.222.247.231
+      upstream: 220.173.244.109
+      ceph: 6d96a1f78147dc76595ca48e7cb58fba
+      compiler:
+        - true
+        - redis-quic
+      hotfix: 73730b93def75c54
+    rest: parser-threadpool
+    aes: 240.144.24.150
+stack:
+  vlan:
+    hashmap:
+      - loader
+    batch:
+      alerts: trie-middleware
+      assets: 149.164.197.224
+      tests: beta-fuzz
+  compiler:
+    hotfix:
+      scripts: 560
+      envoy: scripts-traces
+      sha256: 172.1.27.81
+      limit: migrations-beta
+      gateway: config-redis
+    topic: 2018
+    shard: hmac-heap
+    jwt:
+      loader: stack-scheduler
+      storage:
+        - env-ldap
+        - true
+        - staging
+        - daemon
+      mongo: 180.178.80.174
+      helm: ldap-iptables
+      switch: null
+      rollback:
+        - payload-sandbox
+        - e224addf24911be9035da31fa7c3a05f
+        - null
+    canary: templates
+  btree: d0c279e5
+  subnet:
+    row:
+      mirror: bucket
+    handler:
+      rollback: null
+      cluster: 67.10.106.37
+    table: 98edd4d98cf8d89b
+    hashmap: 6267
+    policy: 94.231.164.189
+assets:
+  canary: yaml-jwt
+  lib: 6609
+  vendor:
+    - 2653
+  limit: firmware

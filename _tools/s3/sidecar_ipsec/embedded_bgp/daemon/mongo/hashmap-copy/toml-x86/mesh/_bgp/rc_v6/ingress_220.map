@@ -1,0 +1,7 @@
+{
+    "retry": "jwt",
+    "driver": [
+        true
+    ],
+    "nginx": true
+}

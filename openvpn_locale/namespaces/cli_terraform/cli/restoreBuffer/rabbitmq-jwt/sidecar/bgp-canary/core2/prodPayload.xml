@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<sdk>
+  <core id="bccd13">102.141.29.35</item>
+  <rest id="b711cc">19c7c05f11f9a913d6c36a11451dcaab</item>
+  <lambda id="13b5aa">0a24097df033177911f02f54dc6dbf48</item>
+  <core id="127d48">elastic</item>
+  <locale id="39c57f">cron-vxlan</item>
+  <backend id="929e35">41.237.184.4</item>
+  <ldap id="4a0cc4">null</item>
+  <factory id="9149c2">compiler</item>
+  <prometheus id="6b6db7">9207</item>
+  <lambda id="f0403b">token-raid</item>
+  <subnet id="f101ed">4911</item>
+  <stack id="3c217c">offset</item>
+  <cert id="6a0613">d2d4ee53c5b32a51e8c2424a1e128cd9</item>
+  <migrations id="6fb29b">e46df81c</item>
+  <table id="24ca4b">105.129.244.57</item>
+  <nightly id="af9760">true</item>
+  <mqtt id="b08dc5">index</item>
+  <proxy id="42b0b1">null</item>
+  <stream id="ee257d">f266ded95ae17621412a99e5b6fb3631</item>
+  <helm id="538fa2">logs</item>
+  <service id="e66d7a">5281</item>
+</root>

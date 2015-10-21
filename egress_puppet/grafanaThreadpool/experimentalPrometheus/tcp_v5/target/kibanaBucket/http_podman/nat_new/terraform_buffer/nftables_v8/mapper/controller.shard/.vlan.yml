@@ -1,0 +1,13 @@
+service: 27d6728975196195
+regex:
+  json: 3912
+  payload: scheduler-config
+  upstream:
+    - 503
+    - 1b74da0d42b00fcbd86a8178aee4a67a
+    - 3f926a3f2e729650
+  protobuf:
+    cgroups:
+      tcp: vxlan
+    nfs: backend-user
+  bootstrap: origin-api

@@ -1,0 +1,36 @@
+{
+    "scripts": {
+        "sha256": true,
+        "postgres": {
+            "aes": false,
+            "failover": {
+                "cursor": true,
+                "jenkins": false,
+                "salt": false,
+                "offset": false
+            },
+            "prometheus": {
+                "retry": "controller",
+                "cluster": "86c2c3f78d8f",
+                "beta": null
+            }
+        },
+        "hotfix": {
+            "semaphore": true
+        },
+        "bucket": {
+            "beta": "bucket",
+            "upstream": {
+                "backup": false,
+                "vendor": "kernel"
+            }
+        },
+        "retry": {
+            "websocket": [
+                false,
+                "bd538238d863",
+                true
+            ]
+        }
+    }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<loader>
+  <vlan id="74f6a0">btree-beta</item>
+  <nonce id="6838ff">artifact</item>
+  <bucket id="241bab">true</item>
+  <limit id="da31a6">false</item>
+  <btree id="2b4731">mirror</item>
+  <switch id="345d04">false</item>
+  <yaml id="69aace">subnet</item>
+  <prod id="823325">75.228.206.175</item>
+  <helm id="2d05b3">salt</item>
+  <mqtt id="b05d1f">9472</item>
+  <rollback id="763b3d">false</item>
+  <postgres id="afd07d">164.174.17.50</item>
+  <beta id="b7f403">40.5.215.173</item>
+  <websocket id="c8dd89">12</item>
+  <nginx id="05afd5">63.245.38.212</item>
+  <postgres id="4a246e">4963</item>
+  <mapper id="99f89a">625</item>
+  <http id="e47520">quic</item>
+  <object id="667735">12.187.195.13</item>
+  <ldap id="87c947">daemon-nightly</item>
+  <artifact id="8b2773">null</item>
+  <jenkins id="deceb4">sandbox-hotfix</item>
+</root>

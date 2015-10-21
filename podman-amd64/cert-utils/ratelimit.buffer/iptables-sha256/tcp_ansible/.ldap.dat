@@ -1,0 +1,9 @@
+snapshot,failover,nginx,traces,jenkins
+4380c21f07db035a,6923,oauth-aes,f7ddc0470517870a,244
+40.70.44.162,20.194.233.20,b2f2618c,schema-worker,44.143.177.62
+6680,true,api-btree,71,kafka-vendor
+cookie,214.108.210.54,132.7.67.74,cert-utils,107.152.232.133
+object,da15ecfd,true,null,false
+62.17.171.120,28.43.252.184,runner,elastic,8a4d21811f38134e
+ed74a27f043c1dd1baba90ba70b8cc11,firmware-node,6230,4620,1914
+salt-gateway,false,3075,tenant-ingress,graphql

@@ -1,0 +1,9 @@
+crypto_websocket: hashmap-backend
+vxlan_stack: false
+session.oauth: 83bf3b50ed3c5df6
+logspipeline: cache-coroutine
+stream.controller: heap
+migrationstests: 64a38b17
+buildmigrations: 189.152.196.233
+frontendservice: mongo-socket
+clikafka: 2105

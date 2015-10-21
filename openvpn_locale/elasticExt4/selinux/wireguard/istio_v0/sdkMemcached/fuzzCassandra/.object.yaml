@@ -1,0 +1,27 @@
+proxy:
+  mongo: salt
+  stream: lexer
+  firmware:
+    metrics: 2534
+    rest:
+      - firmware-proxy
+      - null
+      - 2467
+    entropy:
+      rsa: tls-snapshot
+      runner:
+        - metrics
+        - nightly-role
+        - true
+        - shard-session
+      vendor: cert
+      kafka: 7431
+  sandbox:
+    - false
+    - 15be03bf75136d174a39012eb8a701a2
+    - 87.56.157.62
+  templates: true
+  redis: 175.198.125.62
+object: 240.125.6.154
+udp: 98.53.111.187
+dns: 254.197.169.157

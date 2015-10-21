@@ -1,0 +1,11 @@
+nginx,aes,raid,nightly,metrics
+true,false,scheduler,2e9ea8c4e97e2e461081b38b980d5093,snapshot-common
+150.16.136.183,122.74.28.153,ldap-dist,prod,793
+4c8f935a54624f16010678eeb4e275a7,request-grafana,8ed7aa6b1d28dd18,668a05a9,raid-bucket
+1ea9e12b,mocks,aes,true,postgres
+raid-crypto,9580,629f763ca02e24b7,1682,212.8.247.165
+953,5217,postgres-cluster,locale,firmware
+24.158.142.87,dd7520eeaa80b939,70c30a6ab21cc114,7127,1528
+214.222.54.237,false,false,batch,false
+63.192.231.87,7a0072e68d3973a2c8379aa39e16718e,32.65.172.52,9f634486,cors-cache
+45.89.207.164,3348,c2590ad3,snapshot,null

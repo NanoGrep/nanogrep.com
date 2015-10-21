@@ -1,0 +1,6 @@
+salt: 7e8ad4b0
+kernel: controller-postgres
+ansible:
+  - null
+  - firewall-tcp
+  - c381eca5084ea972

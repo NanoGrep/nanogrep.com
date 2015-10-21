@@ -1,0 +1,7 @@
+session: 149da3f68f19e9596117424348bfff66
+crypto: hmac-json
+jenkins: 252.116.173.253
+sandbox:
+  upstream: cert-utils
+subnet: 5971
+parser: null

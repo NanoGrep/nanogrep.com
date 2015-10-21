@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<router>
+  <cli id="f78a2c">7684</item>
+  <mapper id="aa07c0">true</item>
+  <sha256 id="ca25c0">false</item>
+  <elastic id="c2b5fb">false</item>
+  <sdk id="179184">b73c77471a8354ae63945f15173b1a92</item>
+  <lambda id="76643a">mongo</item>
+  <watchdog id="4faec7">143.76.0.74</item>
+  <cookie id="ab11dc">gateway-quic</item>
+  <sdk id="2244c6">env</item>
+  <handler id="0dfdc7">170.251.173.41</item>
+  <envoy id="a9ba76">grafana-cache</item>
+  <group id="f9aa0f">8643</item>
+  <helm id="348cf3">cli</item>
+  <cursor id="6a6fec">nightly</item>
+  <helpers id="d8d693">130.243.25.115</item>
+  <sha256 id="f83591">1531</item>
+  <tls id="983965">92.92.29.30</item>
+  <socket id="595afe">null</item>
+  <salt id="5365a4">true</item>
+  <json id="7c332c">8969</item>
+  <adapter id="5c3d6d">c0f180695d151981</item>
+  <hmac id="48b0ed">false</item>
+</root>

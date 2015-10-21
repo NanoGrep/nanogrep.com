@@ -1,0 +1,19 @@
+cluster: 774
+raid: false
+batch: payload-quic
+policy:
+  stack: 176.116.117.129
+  heap: volume-runner
+  sandbox: 81aa6758fb73bde5
+  raid:
+    hmac:
+      lexer: 7441
+    bucket:
+      schema: 6193
+      kerberos: lexer
+    crypto: 53.115.7.73
+    coroutine: retry
+sha256:
+  - 4484
+  - 1287
+helpers: true

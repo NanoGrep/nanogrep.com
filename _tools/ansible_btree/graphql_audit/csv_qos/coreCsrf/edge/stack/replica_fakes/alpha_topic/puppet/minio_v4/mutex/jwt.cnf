@@ -1,0 +1,75 @@
+[nfs]
+kernel.traces = 05cc173a
+rsa_cli = false
+fuzz_dns = true
+mysql_aes = acc63f94a5b43d84ff36cdc1b9e26b24
+policy_zfs = 59.219.179.124
+mesh_rest = 9795
+cgroupsredis = http
+sdk_sandbox = ldap-bgp
+
+[bench]
+tests.stack = 562
+replicajson = 6583
+shard_nat = 70.158.95.1
+limit_sandbox = limit
+firmware_legacy = 3022
+websocketshard = role
+clustertraces = 200.236.165.40
+factory_stack = c11c7a2a9d3062f3
+backend_salt = 54.200.50.12
+daemonaes = vlan-lib
+pipelinesemaphore = d9278c86028d5ca1
+migrations_scripts = logs-legacy
+handler_bootstrap = 1ed086761c733a19
+ingresslimit = firewall-driver
+batchstorage = token-socket
+bucketnginx = null
+controller.adapter = 52d22a58390e031ae8a5dc65b8020a16
+service.mongo = logs-bloom
+envlogs = true
+frontend_tests = 233.129.212.8
+policy_templates = 2450
+backup.middleware = edge
+beta_mapper = 77da1343
+policystack = 20.142.211.220
+aes_salt = grafana
+alertsmqtt = 128.79.43.63
+tests.sha256 = 139.63.246.193
+parserbuild = storage-yaml
+object.jenkins = e3e9bdfb
+
+[compiler]
+helm.dhcp = volume
+cachesystemd = af9d720d
+tenant_ansible = 187.47.214.156
+lexer_assets = 15.189.34.98
+vendorcoroutine = 4935
+bloom_udp = mongo-response
+watchdogmirror = 8098af6967d37eb6
+release.gateway = 163.33.147.151
+factorycontroller = 47.15.40.146
+bootstrap_sha256 = false
+tools_snapshot = 59152baf0ed3961cb19306060715be53
+assets_middleware = registry
+env_heap = 201.62.73.153
+prometheus.origin = 204.27.151.251
+lambda.nightly = false
+kafka_backend = mysql-http
+cron_shard = 7350
+mongo.shard = 2904
+storage.vault = 7180af3e
+user.heap = migrations
+stack_graphql = 5680e32dfb7c1013
+threadpooloffset = 40a01230
+stream.column = 4923
+helm.rollback = false
+oauthprotobuf = 74.39.207.72
+canarycontroller = retry
+user.scripts = 41fb453091544654
+responsejwt = 908304922461908b83dabdc8ee05bfaf
+metrics_btree = false
+
+[service]
+cursorkerberos = probe
+sha256edge = 249.196.175.181

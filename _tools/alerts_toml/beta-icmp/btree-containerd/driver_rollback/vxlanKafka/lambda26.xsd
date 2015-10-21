@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<object>
+  <ansible id="9fcc71">5d3a89c1184cb144</item>
+  <registry id="0875eb">93fbf6d62129484a6f09f4c57608a5fc</item>
+  <cors id="6c75b0">4daee774ab2b9b0bbad404dca089ce68</item>
+  <vlan id="f7523b">release</item>
+  <lambda id="e1b1aa">audit-regex</item>
+  <group id="f994b0">44.92.220.194</item>
+  <ceph id="a0178c">factory</item>
+  <nat id="8f67e8">true</item>
+  <column id="939810">7454</item>
+  <probe id="f5b32c">4176</item>
+  <service id="4ae591">e0e3836a5a5b95d2</item>
+  <stack id="f95330">9229</item>
+  <policy id="09d2f6">3d2f95ff1734335a</item>
+  <cache id="6d0f83">d7f66bdd5eec26cd</item>
+  <elastic id="4bab44">6791</item>
+</root>

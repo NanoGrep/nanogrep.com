@@ -1,0 +1,23 @@
+storage: null
+prometheus:
+  nginx:
+    batch: true
+    failover:
+      edge: 9320
+      shard: kerberos
+      upstream:
+        - migrations
+        - false
+        - cf230e10539be57899f68d4ad64e1a14
+        - e79fa140b78636c8
+      jenkins: null
+      udp:
+        - 192.176.250.142
+      controller: semaphore
+    redis: 765a84b4
+    wireguard:
+      - bdd4294b0fe84106
+      - e0b875bc
+      - 200.62.178.136
+      - null
+backend: quic

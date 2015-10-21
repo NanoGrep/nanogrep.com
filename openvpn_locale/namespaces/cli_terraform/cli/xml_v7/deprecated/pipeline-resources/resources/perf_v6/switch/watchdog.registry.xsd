@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<vendor>
+  <mutex id="60444f">8914290f94d56c62</item>
+  <response id="b87a9f">101.171.176.71</item>
+  <locale id="dc5c84">index-mysql</item>
+  <assets id="c3064e">6997</item>
+  <upstream id="22b99a">null</item>
+  <upstream id="407cc5">regex-metrics</item>
+  <canary id="298206">bloom-nightly</item>
+  <bgp id="ae4c77">41bd8ad2ee2d354bcec25f4ffc8087f4</item>
+  <json id="5b2442">3996</item>
+  <nonce id="1c5ea6">84118b2736d869cb</item>
+  <artifact id="1ff91b">4977</item>
+  <canary id="54eb36">middleware-edge</item>
+  <vlan id="8f11ea">5996</item>
+  <hashmap id="536536">env</item>
+  <parser id="c944f7">224.28.134.159</item>
+  <mapper id="a7b93e">60.118.211.238</item>
+</root>

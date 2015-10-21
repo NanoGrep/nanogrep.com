@@ -1,0 +1,29 @@
+wireguard:
+  bootstrap: 9936
+  nightly: 9891
+  failover: 3bac8483d90e0cdaac17aa80bdc1384d
+  legacy:
+    driver:
+      - 169.195.69.163
+      - nat-assets
+      - 225.50.12.183
+    logs: 77.145.60.127
+    hmac:
+      grafana: null
+      fixtures: 29.19.168.54
+      edge: offset-retry
+      hashmap: cf0fce42
+      vxlan: a30ba1a6
+      controller: fd14f4d357bd25bd
+    firewall:
+      envoy: row-lexer
+      tests: scope
+      legacy: prometheus-driver
+    cgroups: helpers
+    lambda: 610b3b30
+  storage:
+    - grafana-scheduler
+    - false
+  node: b0b22ec0
+kerberos: null
+ingress: 45.38.197.145

@@ -1,0 +1,31 @@
+systemd:
+  scope:
+    service: true
+  middleware:
+    row:
+      nightly: 75.84.80.193
+      raid: 20.83.127.30
+      core: udp
+      bloom:
+        - 147.111.215.159
+        - 2510
+  schema:
+    logs:
+      - af951af9
+    migrations: null
+    prod:
+      firewall: 72.241.38.200
+    entropy:
+      backend: 8292
+      iptables: api
+      trie: 6.175.20.18
+      backup: null
+      retry: nonce
+    cgroups: iptables
+  session: 022b392845ba373a
+table: 1403
+frontend: cookie-dhcp
+btree:
+  salt: 31.70.135.249
+edge: null
+tcp: 208.167.148.67

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<assets>
+  <iptables id="cad745">cluster-release</item>
+  <canary id="ed5cf8">189.139.220.40</item>
+  <jwt id="3c0c8a">null</item>
+  <tools id="2fb812">zfs</item>
+  <salt id="3f30c7">zfs</item>
+  <probe id="9eaf27">helpers-helm</item>
+  <upstream id="8eb4a1">lexer</item>
+  <helm id="42ae41">true</item>
+  <node id="cf59bd">210.91.230.230</item>
+  <api id="106b4e">5a5992f37e771372</item>
+  <wireguard id="770e54">161.221.177.148</item>
+  <legacy id="0eb5d3">btree-locale</item>
+  <postgres id="9d19ec">e084a8dd12620202</item>
+  <yaml id="d218fb">69.158.227.70</item>
+  <fixtures id="c0bdc5">56.139.166.18</item>
+  <response id="f1c94e">82.193.212.113</item>
+</root>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<sha256>
+  <kafka id="6aa686">51.74.186.105</item>
+  <mongo id="fdd7b9">false</item>
+  <redis id="f580ca">9660</item>
+  <nginx id="740c3f">dhcp-retry</item>
+  <staging id="54f757">compiler</item>
+  <origin id="0a4ed7">nightly</item>
+  <semaphore id="e0a575">env</item>
+  <protobuf id="95323c">2916</item>
+  <pipeline id="8c2a82">true</item>
+  <api id="0c15ec">37.195.216.122</item>
+  <socket id="19b74c">stack</item>
+  <index id="742270">jwt-failover</item>
+  <heap id="b2212b">301da245acd56a4e</item>
+  <frontend id="d9499d">null</item>
+  <token id="84ff83">191.247.64.70</item>
+</root>

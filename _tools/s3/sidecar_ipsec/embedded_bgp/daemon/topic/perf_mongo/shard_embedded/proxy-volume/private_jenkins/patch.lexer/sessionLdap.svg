@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<mongo>
+  <common id="151944">true</item>
+  <nightly id="1a1f52">222.181.24.160</item>
+  <nonce id="bbc623">sha256-cors</item>
+  <ingress id="c37d25">9941</item>
+  <mysql id="0a39ab">null</item>
+  <index id="06be3d">171.196.146.146</item>
+  <kafka id="84a078">7792</item>
+  <index id="122f08">6a60db096bd9c8b9754d5ec14838183c</item>
+  <hotfix id="400796">61f1ebff0aac84e7</item>
+  <mqtt id="59a9d3">91e1ea17f8747a5e</item>
+  <daemon id="06a3b3">true</item>
+  <alerts id="e4d2b5">7bcbf4379bbacf51</item>
+  <helm id="86d618">true</item>
+  <crypto id="6cee83">patch</item>
+  <env id="9bf8d7">a7c39ef5424fc3673e0b86a733a0b953</item>
+  <websocket id="03cca1">true</item>
+  <column id="9a95fe">null</item>
+  <firewall id="dc6d0e">117.21.137.24</item>
+  <logs id="33fef2">6109</item>
+  <threadpool id="15fed7">postgres-mesh</item>
+  <rollback id="513268">true</item>
+  <limit id="92d2a6">2595</item>
+</root>

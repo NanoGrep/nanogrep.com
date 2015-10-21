@@ -1,0 +1,36 @@
+mocks:
+  cron: 560
+  queue:
+    snapshot: vxlan-ldap
+  regex: 8028
+factory: mocks-bench
+parser: a90ba67a23238682990d0ac972608e6d
+session:
+  backend:
+    hmac:
+      handler: 137.134.128.178
+      group: zfs-backend
+    btree:
+      driver: rest-salt
+    ceph: hmac-cli
+    probe: 9079
+    user: 5e8251b4fae384d2
+  cron: 19c62b7f0112bf496732fadd09c4445b
+  retry: 234.108.41.158
+  router: 5775
+  ldap:
+    nginx:
+      aes: 1911
+      stream: vault-regex
+      grpc: 6141
+  storage:
+    raid: false
+    volume: batch
+    nightly:
+      table: 6518d42fbe04f1e2
+      probe:
+        - beta
+        - 172.182.235.196
+        - null
+lambda: b1b5d7b362d40ef1208a332dbf4a6331
+middleware: 23fac600

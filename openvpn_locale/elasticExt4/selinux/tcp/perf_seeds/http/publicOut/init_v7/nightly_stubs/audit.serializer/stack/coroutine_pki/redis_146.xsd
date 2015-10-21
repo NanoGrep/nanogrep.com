@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<worker>
+  <role id="0fbd4d">role-service</item>
+  <sha256 id="c1b663">mapper-bench</item>
+  <websocket id="3049e4">null</item>
+  <build id="27d3f1">166.170.15.97</item>
+  <compiler id="dbf457">11</item>
+  <mesh id="09a4fe">cron</item>
+  <envoy id="1977c3">2704e2a5</item>
+  <bench id="0ced8d">raid-retry</item>
+  <lib id="a9772d">da3e3fba</item>
+  <crypto id="f15907">jenkins-config</item>
+  <payload id="578163">58c4f8ea4612e909e5b95c8eda65e38c</item>
+  <backend id="62e411">236.2.97.101</item>
+  <schema id="78147e">true</item>
+  <middleware id="2e6bdd">null</item>
+  <udp id="ae62a9">replica</item>
+  <user id="574243">vendor</item>
+  <switch id="92f412">219</item>
+  <release id="bbcba7">true</item>
+  <sdk id="b08aca">5843</item>
+  <semaphore id="8a0166">131.57.160.54</item>
+  <backup id="897d07">pipeline-regex</item>
+  <adapter id="fa3ba8">97.228.36.187</item>
+  <grafana id="16c862">object-api</item>
+</root>

@@ -1,0 +1,17 @@
+api: 3560756d
+proxy: b0650e0a9480384b
+kafka: socket-adapter
+redis: 3668
+redis: templates-jwt
+jenkins:
+  tests: 560caa96b452c00fb119ff275a144cbd
+  tools:
+    bootstrap: json
+    dhcp:
+      sdk: bloom
+    cache:
+      replica: 5116
+      probe: cgroups-limit
+      replica: 4970
+      tools: mutex-btree
+  cron: dfc9a597

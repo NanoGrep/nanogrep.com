@@ -1,0 +1,59 @@
+[router]
+lexersalt = 429
+tracesalerts = nat-daemon
+dns_limit = 23.106.217.103
+mocks.token = 3298
+rest.firewall = false
+dist_sdk = dist
+rsa.pod = canary-ceph
+rolescheduler = 195.20.106.223
+jwt.vlan = 243.59.114.59
+bench.dns = a6daafe771bbff34b1b0ff2c87f11418
+canary_bucket = 9977a0bc
+firmware_common = true
+regex.yaml = http
+storage_logs = null
+topic.locale = canary
+mutex_tests = 109.214.171.108
+envoy.config = 7849
+scopetopic = router-crypto
+failover.btree = 4879
+templates.tls = de347791eba43006
+workercontroller = vxlan-helm
+
+[crypto]
+tracesservice = 123.96.31.104
+gateway.middleware = mapper-adapter
+audit_locale = stream
+tenantswitch = true
+utilstcp = 53.36.229.173
+switch_ingress = payload
+dhcp_protobuf = c90f52bb292e0f9d7bb3204265475cd9
+coroutine.queue = snapshot
+cookie.raid = 687a924cf30ec28cace62fa337ee5c08
+websocketupstream = patch-semaphore
+snapshotcolumn = 1c89a7a47762edab6a08086db70fad5b
+
+[bloom]
+terraform.replica = cursor
+utils_offset = udp-nfs
+mqtt.hotfix = 641
+buffer_fuzz = ea94bbbb16fe19ee
+
+[sandbox]
+oauth.daemon = upstream
+shard_mqtt = 142.93.169.3
+stack.storage = ebda54a81aa6c77de524949111fae0c7
+rollback_cron = 4686
+handlernightly = e06639af3f3dff2973f7ed59f0fa739b
+factoryworker = 4358
+betacron = artifact-alerts
+sessionkafka = 5972
+bench_helm = 3267
+pipeline_lexer = upstream
+shard.elastic = true
+requesttests = db4909a00f509c7d4110f23bcafaf19c
+index.volume = false
+lib_semaphore = 34.123.131.164
+storageraid = 77.118.60.41
+prodnginx = 056021bc

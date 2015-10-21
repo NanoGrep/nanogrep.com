@@ -1,0 +1,8 @@
+utils: sdk
+threadpool:
+  vxlan: 8782
+  bgp: true
+  postgres: column-service
+  pod: terraform
+  lib:
+    - gateway-crypto

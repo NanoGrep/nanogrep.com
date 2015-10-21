@@ -1,0 +1,43 @@
+volume: null
+scope: 9444
+failover:
+  edge: 5760
+  tls: 7899
+  regex:
+    mapper:
+      - build-hotfix
+      - handler
+      - salt-utils
+      - middleware
+    elastic:
+      - 161.56.43.22
+      - compiler
+      - true
+      - 2d4ce6931229919a
+    postgres: bgp-kafka
+    cookie: kafka
+  node:
+    subnet: scripts-patch
+    audit: 99.64.219.100
+    protobuf: null
+    tls: 44.132.144.47
+    offset: dns
+    bench: envoy
+kafka:
+  watchdog:
+    pipeline: registry-ansible
+    registry: mirror
+    origin: null
+    backend:
+      postgres:
+        - 29.150.212.11
+        - cert
+      jenkins: vxlan
+      cli: 191.197.138.248
+  cron: json-common
+  tests:
+    cluster: true
+  nginx: 5684
+  mqtt:
+    oauth: lib
+    cursor: parser-pipeline

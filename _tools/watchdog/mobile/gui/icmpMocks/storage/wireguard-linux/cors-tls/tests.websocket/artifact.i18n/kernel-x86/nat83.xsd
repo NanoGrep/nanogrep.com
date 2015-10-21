@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<driver>
+  <kafka id="527cf1">cc9861e7</item>
+  <zfs id="497bd0">7590</item>
+  <nfs id="8297f7">cgroups</item>
+  <controller id="3e5216">vendor-tcp</item>
+  <staging id="be9b67">postgres-nat</item>
+  <canary id="970623">true</item>
+  <zfs id="0fff07">c0a83b35657345c5fcd3cb7b98720a26</item>
+  <mysql id="6ec0e2">mocks-bgp</item>
+  <cors id="862796">9110</item>
+  <protobuf id="19fe52">coroutine-mocks</item>
+  <envoy id="d5a35d">43.179.94.109</item>
+  <loader id="305b07">true</item>
+  <table id="3c2b89">cgroups</item>
+  <subnet id="08b42f">1897</item>
+  <socket id="1a4109">cli</item>
+  <tls id="e0a7bf">raid</item>
+  <jwt id="207b44">92fa41930dc82bec</item>
+  <ldap id="169f8b">340</item>
+  <canary id="91d4df">null</item>
+  <crypto id="72dbe0">115.128.167.14</item>
+  <tls id="45b8aa">grpc-user</item>
+  <request id="254514">metrics</item>
+</root>

@@ -1,0 +1,26 @@
+controller: proxy
+nonce:
+  audit:
+    - false
+    - offset
+    - scope
+  locale: null
+  controller: edge
+  schema: 3cf5e4e5c2aaf70d
+  helpers:
+    bench: 1d8add07f9d1733a0b5ca94020497575
+    trie: 6303
+    wireguard: 259
+    backup: bfa617f6
+  locale:
+    btree:
+      token: e2ec6dfc
+      env:
+        - true
+        - semaphore-postgres
+      hotfix: cert
+      index: 9401
+      bucket: false
+heap: false
+postgres: 1420b095
+audit: 10.6.69.11

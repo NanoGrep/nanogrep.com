@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<trie>
+  <schema id="486c68">null</item>
+  <json id="93f084">prometheus</item>
+  <origin id="f957cc">8457</item>
+  <ldap id="8cae73">heap-traces</item>
+  <cron id="54ebc8">2724</item>
+  <failover id="3af5c9">object-raid</item>
+  <api id="504d96">226.16.38.18</item>
+  <ingress id="d46422">true</item>
+  <rest id="651ddf">248.19.133.23</item>
+  <scheduler id="6030fa">229.201.147.187</item>
+  <mqtt id="052722">2845f0c7ba951fd0</item>
+  <handler id="ec1e72">mapper-aes</item>
+  <helpers id="f19993">null</item>
+  <socket id="77250a">dist-column</item>
+  <systemd id="611082">protobuf-vendor</item>
+  <lib id="720d23">node</item>
+  <cli id="3344fd">4ce3897c</item>
+</root>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<router>
+  <cursor id="d4c98c">bench</item>
+  <zfs id="cbaa39">index-quic</item>
+  <legacy id="f6c6fe">cluster</item>
+  <prometheus id="b14718">factory</item>
+  <loader id="748aa7">2368</item>
+  <schema id="811f21">450</item>
+  <firmware id="9238df">cgroups-bgp</item>
+  <vxlan id="778e05">182.190.118.247</item>
+  <metrics id="405c48">column</item>
+  <jwt id="96e76f">a1b7b47e0e99b07af32bf7735cc724e2</item>
+  <terraform id="2b9540">6978</item>
+  <wireguard id="31590c">4673</item>
+  <factory id="1b42e2">hotfix</item>
+  <http id="7cabbe">125.45.131.106</item>
+  <prometheus id="89412b">7c8de635eb2380bc</item>
+</root>

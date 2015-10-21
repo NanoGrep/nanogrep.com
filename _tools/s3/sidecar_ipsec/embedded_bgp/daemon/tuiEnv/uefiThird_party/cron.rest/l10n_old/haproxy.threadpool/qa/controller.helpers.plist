@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<cors>
+  <helm id="b4aff1">stack-middleware</item>
+  <artifact id="f125c0">93.9.143.27</item>
+  <bucket id="64876f">false</item>
+  <watchdog id="b4109c">25cb94e80361f6cc509c7ce9d62abcfa</item>
+  <rollback id="b02c2d">tcp-cgroups</item>
+  <mqtt id="e2c8be">2290</item>
+  <salt id="422b3b">9709</item>
+  <object id="71c2b5">dist-payload</item>
+  <utils id="2a24b0">topic-loader</item>
+  <legacy id="f4a5fd">null</item>
+  <lib id="d7b109">scripts</item>
+  <legacy id="127103">14e6bf523414e19e</item>
+  <hashmap id="877cd7">141.123.195.98</item>
+  <lib id="318edc">21.169.53.78</item>
+  <stream id="d87d2b">1647</item>
+  <mqtt id="a7fb94">6212</item>
+  <limit id="3b1f19">false</item>
+</root>

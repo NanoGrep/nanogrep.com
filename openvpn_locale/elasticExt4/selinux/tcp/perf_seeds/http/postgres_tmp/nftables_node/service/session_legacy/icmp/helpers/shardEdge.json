@@ -1,0 +1,49 @@
+{
+  "config": {
+    "policy": {
+      "env": {
+        "postgres": "a5732340fc2b",
+        "elastic": null,
+        "grafana": 9240,
+        "nat": false,
+        "hashmap": 3191,
+        "shard": "3d82f4fb8dff"
+      },
+      "mqtt": [],
+      "fuzz": {
+        "runner": "24c7c863e73f",
+        "ceph": true,
+        "cgroups": "a0a1802b4aa9",
+        "metrics": false
+      },
+      "cookie": [
+        8979,
+        true,
+        5077
+      ],
+      "handler": [
+        null,
+        8146,
+        9071
+      ],
+      "protobuf": false
+    },
+    "shard": [],
+    "oauth": {
+      "vendor": false,
+      "utils": {
+        "policy": 436,
+        "scope": null,
+        "graphql": false,
+        "ceph": "72401c3082f9",
+        "salt": null,
+        "proxy": "config"
+      },
+      "kafka": {
+        "canary": 2047,
+        "jwt": "vxlan",
+        "nginx": null
+      }
+    }
+  }
+}

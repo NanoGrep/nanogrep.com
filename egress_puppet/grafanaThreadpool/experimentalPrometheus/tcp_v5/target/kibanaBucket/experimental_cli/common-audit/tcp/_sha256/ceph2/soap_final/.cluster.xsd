@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<mongo>
+  <middleware id="fd062b">51.124.33.198</item>
+  <backup id="e384d4">websocket-ingress</item>
+  <pod id="42e9f6">switch</item>
+  <nat id="6fb838">4366</item>
+  <oauth id="ae9ec9">true</item>
+  <json id="247746">94e36aae1e1a9513</item>
+  <service id="0c03d4">cron</item>
+  <role id="26a008">189.177.37.186</item>
+  <sdk id="27d080">stream</item>
+  <legacy id="ca6fb1">null</item>
+  <scope id="bfa370">common</item>
+  <salt id="1f5de0">178.252.232.217</item>
+  <ingress id="6bccfb">nfs-request</item>
+</root>

@@ -1,0 +1,12 @@
+mapper,object,heap,zfs,udp,buffer
+user,true,236.202.113.83,229.157.194.123,prometheus-artifact,2902694ae98375ffe40e11428d17721b
+false,cors,2643,240.9.95.8,artifact,mapper
+group-rollback,false,163.143.204.202,postgres-lambda,82.139.103.116,218.202.214.222
+204.166.0.18,true,oauth,139.238.166.253,a57b41b9ec8eb4b01842c3116532ca35,hashmap-object
+null,133.16.21.11,698aea326dd213ff,177.199.128.112,false,98.29.173.69
+backup-vault,response,4779e8b6,42.97.182.130,hotfix,proxy-socket
+b40e12241a6f0d8b0cdaea2f3eac041c,true,kernel,25.215.80.170,cert,logs-mysql
+true,null,9a04089a,true,true,e360e18eb99b9823300f64e64aa08ed8
+gateway-compiler,true,storage-release,false,4ab5ed297d41c878ef9189bbbbd6c396,6af3adbc0427b07c
+29.142.216.5,firewall-env,build,153.151.67.223,6462,cluster-kerberos
+metrics,failover,true,806d61f0,dns-bootstrap,1651

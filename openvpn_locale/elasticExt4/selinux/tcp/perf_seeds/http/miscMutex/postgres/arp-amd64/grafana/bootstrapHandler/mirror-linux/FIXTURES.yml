@@ -1,0 +1,21 @@
+rsa: true
+wireguard:
+  locale: null
+  terraform:
+    entropy: 5290
+    socket: 471
+    snapshot:
+      entropy: 0116e319
+      backend: false
+  vlan:
+    nonce: 218.229.242.80
+  websocket:
+    mesh:
+      tests: salt-object
+      table:
+        - kernel
+        - utils-semaphore
+        - null
+        - node
+      common: 136.142.134.74
+    alerts: false

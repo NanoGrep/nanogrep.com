@@ -1,0 +1,18 @@
+bgp: 227.42.223.195
+ceph: 3681
+kernel:
+  daemon: 9750
+  coroutine:
+    daemon: stack
+    canary: a71b53f19d4b1e54cb3935feb97d1399
+    dist: cli-subnet
+    coroutine: false
+    firewall: 7eaf4993
+    proxy: alerts-heap
+  wireguard: 8353
+  templates:
+    schema: 22.74.201.58
+    patch: protobuf-request
+    canary: true
+yaml: null
+worker: 77.157.204.220

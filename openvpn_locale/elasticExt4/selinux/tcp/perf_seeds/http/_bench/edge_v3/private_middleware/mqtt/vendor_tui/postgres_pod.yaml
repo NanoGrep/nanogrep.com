@@ -1,0 +1,63 @@
+storage:
+  scripts:
+    user: 109.192.26.37
+    btree:
+      env: 92.247.234.207
+      vault:
+        - 542ff926f7cab92f041571b3b5d13eae
+        - 97.20.189.212
+    handler:
+      - raid-mongo
+      - 3263
+    node: 182.149.246.172
+    cors: traces
+  dhcp: dhcp-hmac
+  aes: nightly-canary
+queue:
+  crypto:
+    kerberos:
+      heap: dhcp-lexer
+      scripts: mesh
+      nonce: role
+      helm: 6375
+      api: null
+    cgroups: 33.131.115.226
+    dhcp:
+      hashmap: volume-cursor
+      vendor: a6e5bc104618442f
+      trie: 161.65.220.8
+    traces:
+      - null
+      - yaml
+      - raid-entropy
+      - scripts
+  switch: 110
+  token: 0d16ded9d8082bb8e251b2f6729e1d73
+  prometheus: null
+yaml:
+  migrations:
+    - mesh-scripts
+    - kerberos-redis
+    - b2e37706
+  queue: 2845
+  schema:
+    wireguard: group
+    iptables:
+      - false
+      - e515396c1084eb66
+      - 897affe6577ec348
+      - 147.115.131.215
+    wireguard: false
+    entropy: 4a59ab68264363718fcad12032c14df1
+    bloom:
+      ansible:
+        - lambda-queue
+        - policy
+        - a6bb8f6e0cd5b831
+      json: 4899
+      jenkins: storage
+      ceph: release-lexer
+    rsa: 6789
+  api: 71384f89dba7a3066677834598e1c3c0
+btree: elastic-mqtt
+ldap: true

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bench>
+  <cgroups id="f8c8e5">3ee02b303a8787eb</item>
+  <gateway id="0c0a8a">hmac</item>
+  <tls id="704df9">sdk-kafka</item>
+  <edge id="40a2d3">2114</item>
+  <vault id="ced76f">salt-request</item>
+  <session id="f269f9">3070</item>
+  <utils id="f24f50">205.151.227.48</item>
+  <runner id="38ba22">true</item>
+  <metrics id="97e758">switch-cron</item>
+  <ceph id="6d6c47">dist-threadpool</item>
+  <object id="dd9ef1">kafka</item>
+  <replica id="00e4ba">54.124.254.191</item>
+  <dhcp id="d02c37">user-systemd</item>
+</root>

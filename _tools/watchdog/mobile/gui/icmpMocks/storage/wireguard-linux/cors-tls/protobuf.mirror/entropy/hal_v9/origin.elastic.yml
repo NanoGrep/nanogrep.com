@@ -1,0 +1,3 @@
+sandbox: token
+storage: true
+worker: shard-bucket

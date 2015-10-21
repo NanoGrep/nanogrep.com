@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<controller>
+  <fixtures id="27ddab">patch-coroutine</item>
+  <group id="533492">101.249.181.138</item>
+  <regex id="d1940d">tenant-build</item>
+  <wireguard id="157fd8">ceph-rsa</item>
+  <vlan id="12741a">4923</item>
+  <switch id="d23e78">6001</item>
+  <helpers id="290236">false</item>
+  <gateway id="1ab2c3">378</item>
+  <cache id="d35b27">user-regex</item>
+  <udp id="1d2370">websocket-node</item>
+  <hashmap id="5c865a">systemd-hmac</item>
+  <iptables id="3222ae">null</item>
+  <crypto id="00f748">d73829fc5b2e8273</item>
+  <release id="efe3d0">208.7.119.36</item>
+  <semaphore id="de4e18">60.180.34.131</item>
+</root>

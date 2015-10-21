@@ -1,0 +1,13 @@
+worker:
+  hashmap:
+    - coroutine
+    - metrics
+    - null
+    - 3590
+  factory:
+    mutex: true
+    logs: jenkins
+  shard: cache-middleware
+  coroutine:
+    frontend: true
+    daemon: null

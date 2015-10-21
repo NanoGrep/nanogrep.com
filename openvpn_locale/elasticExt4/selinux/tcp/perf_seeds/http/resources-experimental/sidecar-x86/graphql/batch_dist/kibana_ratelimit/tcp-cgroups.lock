@@ -1,0 +1,29 @@
+[
+  122,
+  {
+    "mapper": [
+      "1f2cfc8eca41"
+    ],
+    "locale": {
+      "semaphore": [],
+      "http": {
+        "registry": null
+      },
+      "trie": {
+        "bench": false,
+        "common": null,
+        "mocks": true,
+        "fuzz": null
+      },
+      "middleware": {
+        "bench": "4d4d2938a5a1"
+      },
+      "lib": {
+        "sdk": null,
+        "driver": false,
+        "role": "vendor"
+      },
+      "tcp": null
+    }
+  }
+]

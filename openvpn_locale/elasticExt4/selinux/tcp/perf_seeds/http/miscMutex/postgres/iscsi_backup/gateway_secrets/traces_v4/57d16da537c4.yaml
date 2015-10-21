@@ -1,0 +1,9 @@
+tcp:
+  dns: 1151
+  audit: vlan
+  sha256:
+    metrics:
+      snapshot: queue-postgres
+      fixtures: regex-origin
+      kafka: legacy
+frontend: de5f30f3

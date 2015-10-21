@@ -1,0 +1,32 @@
+graphql:
+  wireguard:
+    - bgp-cluster
+    - true
+    - 1495
+  cert: lambda-core
+  migrations:
+    json: 581
+    vendor:
+      stream: 2535
+      router: 201.199.76.44
+      wireguard: null
+      mirror: 7303
+      scope: false
+    gateway: e6bcc0fd
+    canary: 190.28.147.194
+    nat: 3701
+  release:
+    daemon: 9394
+  nfs: backend-mqtt
+  iptables:
+    jenkins: false
+    ingress:
+      beta: 2936
+    cgroups:
+      - 1830
+      - 56b4e30e8b814f97
+    coroutine:
+      semaphore: false
+      cache: null
+      scope: regex-user
+      vault: 770d98e796eccc90

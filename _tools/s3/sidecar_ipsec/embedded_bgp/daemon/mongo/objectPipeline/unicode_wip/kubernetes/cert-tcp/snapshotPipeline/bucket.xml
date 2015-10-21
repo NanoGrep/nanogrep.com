@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<table>
+  <queue id="7150a9">backup</item>
+  <systemd id="4e4228">true</item>
+  <entropy id="2a1a2c">fuzz-nightly</item>
+</root>

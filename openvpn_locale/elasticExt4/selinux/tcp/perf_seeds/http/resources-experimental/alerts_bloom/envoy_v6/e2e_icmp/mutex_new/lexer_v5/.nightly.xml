@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+  <pipeline id="a2e0f4">cli</item>
+  <response id="504486">7578</item>
+  <offset id="20a6ad">true</item>
+  <zfs id="acf375">compiler-shard</item>
+  <switch id="c48eda">170.193.207.205</item>
+  <backend id="ec99b4">false</item>
+  <buffer id="b2b9e4">topic</item>
+  <helm id="f66309">proxy</item>
+  <patch id="b47be8">iptables-backend</item>
+  <templates id="d92e11">9400</item>
+  <mysql id="ab8fee">208.142.90.212</item>
+  <watchdog id="b89e1a">9037</item>
+  <utils id="3757dc">117.107.176.137</item>
+  <zfs id="cbc8a6">regex</item>
+</root>

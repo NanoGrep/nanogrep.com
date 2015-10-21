@@ -1,0 +1,17 @@
+[storage]
+vxlan.prod = e6a7b5334d396de1c0ebf3f648d78ca5
+prodsubnet = null
+hashmaplambda = trie-limit
+oauthvault = null
+node_dhcp = true
+raid_dist = node
+vault_user = 113.50.77.22
+
+[response]
+bootstrap_kerberos = 171.135.18.84
+group_canary = assets-nfs
+origin.limit = true
+prod.cgroups = 173.82.35.35
+tenant_artifact = cors-backend
+probe_udp = 167e466d
+yaml.envoy = 160.17.96.41

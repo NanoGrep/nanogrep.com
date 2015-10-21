@@ -1,0 +1,39 @@
+[
+    {
+        "middleware": "780feeceec9f",
+        "schema": {
+            "column": false
+        },
+        "threadpool": true,
+        "grafana": {
+            "hmac": {
+                "firmware": false
+            },
+            "nfs": {
+                "raid": "450bb40f0184",
+                "parser": 5830,
+                "jwt": "a8b206ffff1d",
+                "role": true,
+                "lexer": "service",
+                "btree": "446f5fad4d21"
+            },
+            "templates": {
+                "coroutine": null,
+                "nginx": "cbcd2d264197",
+                "session": "bloom",
+                "token": "18ab9c2c15f3"
+            }
+        },
+        "tests": {
+            "utils": 1523,
+            "socket": null,
+            "vxlan": {
+                "batch": 5203,
+                "nightly": "4bf18a5e2b80",
+                "driver": true,
+                "topic": 598,
+                "trie": "vendor"
+            }
+        }
+    }
+]

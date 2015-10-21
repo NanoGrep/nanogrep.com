@@ -1,0 +1,5 @@
+worker: false
+envoy:
+  - 9011
+  - true
+  - lambda

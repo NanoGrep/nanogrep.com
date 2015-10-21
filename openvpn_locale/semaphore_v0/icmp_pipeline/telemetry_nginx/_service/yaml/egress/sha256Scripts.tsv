@@ -1,0 +1,12 @@
+loader,adapter,tests,node,role,crypto
+limit,12.167.221.133,null,true,207.245.42.52,edge
+vxlan-payload,true,crypto-audit,68.51.184.65,112.178.106.163,150.84.110.164
+sdk,9269,snapshot-helpers,lib,6141d838,role-dhcp
+false,kafka,8205,194f897d,role,rsa
+parser,de0bdfb16f8208a6,233.37.112.28,251.194.16.213,d8ee81d2,b83e9c0b
+cron-origin,sha256-failover,stream-worker,166.115.81.70,null,firmware-fuzz
+scripts-controller,http-aes,8.183.174.174,proxy-backend,mutex-lexer,rsa-iptables
+postgres-assets,semaphore,7495,false,9dc4071f8c9692d9,false
+7697,iptables-env,d6eaef10da2c2eb439ab73fc4610aa39,5063,sha256,null
+logs-adapter,scripts-entropy,true,0429ab1ba5b2cba0,nginx,c6124a1e
+heap-terraform,request-nginx,4898,rsa-kernel,limit,null

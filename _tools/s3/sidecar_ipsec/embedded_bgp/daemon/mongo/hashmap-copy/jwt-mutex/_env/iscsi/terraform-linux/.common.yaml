@@ -1,0 +1,9 @@
+snapshot: false
+terraform:
+  mutex: 194.53.170.9
+controller:
+  - 1526
+  - 87.230.219.45
+  - oauth
+build: 69.145.211.225
+hashmap: 7e0c8d401e3007a4

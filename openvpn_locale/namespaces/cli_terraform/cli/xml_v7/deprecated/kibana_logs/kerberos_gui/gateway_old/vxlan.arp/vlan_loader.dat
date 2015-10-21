@@ -1,0 +1,7 @@
+locale,legacy,worker,object,driver,grpc
+ingress-semaphore,kerberos,false,6371,172.96.190.137,cli-migrations
+token-bootstrap,60.58.165.248,abb5a42e,729fa49cde78fe4815398bad2fd069a8,proxy,cache-socket
+true,4ea150c5,dns-traces,a9d9b4dcb007e1c6660e428ba3e5dc7b,handler-role,152.68.59.92
+23.142.40.83,e21391d7,4ffca1bba38252f4,true,lib,buffer
+2753,182.194.214.151,1848,677f518fe1d0a4a6,70b45fbfe2a17f31da43811d8150b1ec,6019
+true,true,247.181.223.181,threadpool-api,firewall-loader,rest-sha256

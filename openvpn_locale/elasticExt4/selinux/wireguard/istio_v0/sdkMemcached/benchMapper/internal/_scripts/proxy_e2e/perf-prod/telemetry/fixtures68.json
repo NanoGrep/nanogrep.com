@@ -1,0 +1,31 @@
+[
+    [
+        [
+            "jenkins",
+            {
+                "cgroups": false,
+                "policy": "column",
+                "beta": false,
+                "nat": null,
+                "frontend": 893
+            },
+            "tools"
+        ],
+        "topic",
+        null
+    ],
+    [
+        "helpers",
+        5659
+    ],
+    {
+        "shard": false,
+        "hotfix": {
+            "table": {
+                "sandbox": false,
+                "controller": true,
+                "fuzz": "d3aed5ddf340"
+            }
+        }
+    }
+]

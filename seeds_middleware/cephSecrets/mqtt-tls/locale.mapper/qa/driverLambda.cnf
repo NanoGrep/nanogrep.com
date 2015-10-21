@@ -1,0 +1,26 @@
+[oauth]
+migrationscache = crypto
+apinat = cursor-topic
+aesnginx = true
+saltkernel = wireguard
+volume_worker = terraform
+kafkakafka = zfs-ansible
+gatewayretry = request-entropy
+regex.topic = yaml-websocket
+column_prometheus = 69.202.225.250
+driver.grafana = mongo
+prod.vxlan = 224.58.162.31
+logs_cors = tests
+semaphorereplica = false
+buffer.release = 134.180.241.165
+hmac_migrations = loader
+parservlan = true
+heapindex = 7307
+upstreamiptables = 65a1d968bcad5f7fe91f5b74c05b7129
+queueapi = false
+migrationsterraform = 17e6d1e59b57f148
+tests.ingress = policy
+http.group = 8657
+subnetmesh = 5906
+envoymocks = patch-locale
+mongolambda = gateway

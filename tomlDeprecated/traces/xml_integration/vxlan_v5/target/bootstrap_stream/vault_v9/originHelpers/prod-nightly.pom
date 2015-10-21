@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<bgp>
+  <grpc id="2c4063">false</item>
+  <policy id="267ba9">6036</item>
+  <schema id="b290c1">a009502d</item>
+  <sdk id="28fa54">804de2048aecbfbfde79a82ad73e8048</item>
+  <api id="0449e4">dist</item>
+  <mocks id="d97f4b">03147122</item>
+  <trie id="366765">6951</item>
+  <heap id="397a58">180.77.25.249</item>
+  <protobuf id="37c2e3">5227</item>
+  <cert id="54dbef">5336</item>
+  <grafana id="a19e7c">threadpool</item>
+  <scripts id="bd758b">schema-user</item>
+  <controller id="4aabf6">true</item>
+  <subnet id="c354c7">vlan-hashmap</item>
+  <bucket id="871f7a">ed2b8cfbb21fe38e</item>
+  <jenkins id="44fb18">198.62.173.63</item>
+</root>

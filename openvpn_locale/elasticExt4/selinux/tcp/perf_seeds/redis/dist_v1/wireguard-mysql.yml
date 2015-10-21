@@ -1,0 +1,33 @@
+driver:
+  upstream:
+    - b39d0146
+    - helm
+    - null
+    - 8174
+  dhcp:
+    entropy: false
+    cgroups: 136.198.78.251
+    topic: b2ae765d
+    audit: 5865
+    quic:
+      locale:
+        - jwt
+    heap: null
+  row: 6df923ac4c9d74cb
+mqtt: 203
+token: config
+grpc: null
+snapshot:
+  stack: driver-btree
+  gateway: cli-watchdog
+  logs: cgroups-aes
+  salt: migrations
+  failover:
+    lib:
+      rsa:
+        - cgroups
+        - 9069
+        - 123.75.101.1
+      trie: crypto
+  cron: 0bbf64231b98494a5a652ae08b8239d0
+row: 9e07bcab

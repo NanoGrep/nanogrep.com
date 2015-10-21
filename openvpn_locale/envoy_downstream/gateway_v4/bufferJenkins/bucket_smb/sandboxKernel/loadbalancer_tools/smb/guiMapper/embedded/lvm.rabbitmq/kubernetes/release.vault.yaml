@@ -1,0 +1,13 @@
+assets:
+  registry:
+    jwt: 148dedf460f178bf006c623903312257
+    systemd: metrics
+config: legacy-topic
+mocks: vxlan-legacy
+vxlan: false
+stack:
+  - dns-backup
+  - kerberos
+  - 201.30.5.165
+backup:
+  - cert-adapter

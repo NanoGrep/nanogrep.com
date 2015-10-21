@@ -1,0 +1,8 @@
+nat:
+  graphql:
+    failover: true
+    request:
+      ansible: stream
+      regex: protobuf
+      rollback: lambda
+    helpers: 236.171.203.249

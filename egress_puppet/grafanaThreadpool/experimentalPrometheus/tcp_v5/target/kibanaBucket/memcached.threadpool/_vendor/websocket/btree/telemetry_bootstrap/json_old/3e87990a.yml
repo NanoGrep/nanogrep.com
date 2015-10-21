@@ -1,0 +1,35 @@
+ceph: yaml
+aes:
+  nat:
+    pipeline:
+      config: false
+      gateway:
+        - null
+        - 2228
+        - f08dcf580e21ff0f92c8921d1fe1b872
+        - null
+      graphql: cursor
+      vendor: aes
+    cache:
+      vlan: 39a78fa1644432fbb9b870b4a9d20675
+      edge: 31.196.166.206
+      middleware: 4995
+      fixtures: object
+      audit:
+        - 8316
+        - core
+        - null
+      cert: 103.81.240.192
+    dist:
+      cgroups: mutex
+      probe:
+        - e1ca9f3f
+      frontend: 126.90.193.248
+      payload: true
+      token: false
+    bloom: 8761
+    daemon: true
+  prod: trie
+  runner:
+    - 9517
+  policy: socket

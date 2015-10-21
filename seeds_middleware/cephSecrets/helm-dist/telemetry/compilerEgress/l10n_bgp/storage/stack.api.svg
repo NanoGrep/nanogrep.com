@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<prod>
+  <config id="930490">grafana</item>
+  <registry id="4b3386">8.29.190.67</item>
+  <table id="d1041c">cookie-offset</item>
+  <schema id="83f507">limit</item>
+  <utils id="bb3d29">schema-shard</item>
+  <metrics id="e194ab">envoy</item>
+  <backup id="d42166">column-proxy</item>
+</root>

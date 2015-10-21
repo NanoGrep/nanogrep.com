@@ -1,0 +1,18 @@
+{
+    "cluster": {
+        "helm": {
+            "cli": {
+                "tools": "a3cdcc593071"
+            },
+            "kernel": "82e2a407b687",
+            "factory": {
+                "backend": null
+            },
+            "grpc": "envoy"
+        },
+        "volume": true,
+        "locale": true,
+        "kerberos": null,
+        "replica": "salt"
+    }
+}

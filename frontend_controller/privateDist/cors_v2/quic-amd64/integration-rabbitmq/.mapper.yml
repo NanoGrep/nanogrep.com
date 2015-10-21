@@ -1,0 +1,33 @@
+object: c2d3b8ff38a497b1ccb8d33f33613fac
+node:
+  - 41
+  - rsa
+tcp: 642b1b42
+systemd:
+  http: 535e58b15650b4ba09537c3e370a52e0
+  logs:
+    token: 7452307792419865bebc8caf83c05b50
+    helpers:
+      - 896cb4fc
+      - 7aece640d607dc87
+      - null
+      - 3bf32f4b
+    cors: cgroups
+    router:
+      api: 33.9.23.123
+      jwt: 3789ee2f31e4254a3fa14efdd16782fd
+      vendor: vault-nfs
+      pod:
+        - 253.166.254.117
+        - locale-raid
+        - 5ffa4cc4
+        - b194b9abe9727bbb
+    socket: 6094
+    topic:
+      switch: rollback
+      protobuf: null
+      fuzz: 4446
+      parser: firewall-gateway
+      api: 3180
+  iptables: audit
+terraform: cluster-daemon

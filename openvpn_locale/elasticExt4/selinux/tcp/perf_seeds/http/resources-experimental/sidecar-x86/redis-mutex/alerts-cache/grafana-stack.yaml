@@ -1,0 +1,6 @@
+beta:
+  adapter:
+    - release
+    - 8017
+    - parser-group
+release: 1549

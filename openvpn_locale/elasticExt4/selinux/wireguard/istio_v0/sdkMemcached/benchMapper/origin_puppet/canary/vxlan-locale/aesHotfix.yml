@@ -1,0 +1,27 @@
+snapshot: backend-cgroups
+hotfix:
+  row: switch-schema
+  traces: null
+  http:
+    replica: hotfix
+    build:
+      scheduler: 2109
+      bench:
+        - 6ad6cd87d256b519
+        - 7397
+      proxy: entropy
+      nat: true
+      sandbox: response-regex
+      tenant: null
+    failover:
+      cgroups:
+        - 64.116.135.210
+        - 60.141.53.169
+      hashmap: false
+      edge: limit
+  redis: ingress
+  policy: index-nginx
+mocks:
+  frontend: 8728
+jenkins: a0d5c6f3bd9e44fd
+vxlan: http-group

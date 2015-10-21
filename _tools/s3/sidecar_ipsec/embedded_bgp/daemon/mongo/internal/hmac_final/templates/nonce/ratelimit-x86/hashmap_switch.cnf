@@ -1,0 +1,100 @@
+[hotfix]
+graphql.envoy = entropy
+index.table = true
+pod.artifact = 106.234.54.160
+adapter_audit = true
+logsscope = false
+migrations_node = offset
+responsedriver = mysql-ingress
+mutexterraform = prometheus
+middlewareadapter = 1682
+prometheus.offset = config-bgp
+artifact_postgres = true
+schema_quic = 21.127.202.69
+patch_graphql = postgres-tenant
+env_index = 107.130.190.119
+fuzz_hashmap = 5497
+storagepostgres = 52d3a671be4e1912
+scripts_cursor = snapshot
+iptables_staging = null
+jenkinshotfix = 561b521f4ed213b60e4596bb061d20aa
+common_registry = 89.50.198.60
+pod.ldap = 83.52.18.45
+pipelinetests = 181.61.71.10
+
+[session]
+semaphore_worker = crypto
+kerberos_core = ingress-service
+artifact.ceph = null
+jenkinspostgres = 108.99.196.217
+json.assets = edfc6f13
+offsetparser = 6234
+bucket.node = 1b0597534615ec6922b04d593f4b90cd
+origin.ceph = 8315
+cluster.firmware = null
+hmacfirmware = templates-ldap
+tls.ldap = 9893
+scope.vault = 239.243.119.115
+protobuf_driver = runner
+aes.logs = 130.130.86.145
+
+[request]
+tracesvendor = null
+envbtree = 2136
+role.mysql = 67.226.8.169
+hashmap.kernel = dns
+distvxlan = stack
+prod_parser = 206.4.90.183
+dist_hashmap = false
+index_threadpool = true
+templates_utils = 26f4f47bbe25958e
+mutex_tls = 212a31eca1a5981f
+
+[yaml]
+grpcstaging = 3836
+terraform.grafana = null
+quic_rest = 102.230.164.205
+tracesredis = common
+grafana.btree = 58fcdff08aefc1eeed41313c9dee5bab
+bootstrap_row = false
+rsa.scripts = null
+tokencontroller = null
+dnsbackend = watchdog
+shardingress = lib
+mockscors = 3360e46c
+object_ansible = f13f9204824fa677
+logssemaphore = 74cbbbc7b361f730
+corstraces = 129.243.194.240
+hotfix_payload = 45.94.77.13
+canary.metrics = 627
+bloom_pipeline = router-factory
+heapcolumn = shard-watchdog
+group_dist = 37.128.173.151
+heap_vxlan = 1044
+vault.ingress = null
+requestdaemon = 9732
+retry.elastic = 421
+
+[subnet]
+subnetrouter = false
+pipelineretry = nat-loader
+prometheus.hotfix = cgroups-volume
+handler_offset = false
+stack_nat = iptables-proxy
+prometheusbootstrap = semaphore
+nightly.zfs = 79.241.175.196
+kernel.pipeline = 8.199.134.221
+yamlnode = null
+tests.gateway = false
+yamlkafka = true
+routerfixtures = 3530
+tenant.tools = parser-stack
+session.fixtures = 61ecaaf9bf6a61c9
+heapsubnet = nightly
+json_migrations = 5269
+rollbacktopic = backend-cgroups
+table.firmware = audit
+hotfix.iptables = driver
+dns_fixtures = 9233
+tlsrouter = true
+udp.lambda = watchdog

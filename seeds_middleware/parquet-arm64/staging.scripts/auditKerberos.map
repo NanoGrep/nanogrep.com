@@ -1,0 +1,40 @@
+{
+    "tools": {
+        "offset": "e29c5fe4cdc7",
+        "backup": [
+            {
+                "pod": "364a0c02f68c",
+                "lambda": true,
+                "quic": null,
+                "service": false,
+                "cookie": false,
+                "env": null
+            }
+        ],
+        "prod": false,
+        "sha256": []
+    },
+    "cron": {
+        "driver": "4b22272fb51e",
+        "env": {
+            "bgp": {
+                "redis": false,
+                "trie": "watchdog"
+            },
+            "threadpool": {
+                "salt": false,
+                "edge": "471e2298c536",
+                "dist": "73de774062e0",
+                "scripts": true
+            },
+            "nfs": {
+                "cluster": "b467b3fb2d01",
+                "tls": null,
+                "retry": "row",
+                "request": true,
+                "driver": 2909,
+                "firewall": false
+            }
+        }
+    }
+}

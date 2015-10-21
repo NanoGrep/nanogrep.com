@@ -1,0 +1,11 @@
+lexer:
+  tcp: 1620
+factory: entropy-ldap
+edge: cache-envoy
+rest: prometheus-coroutine
+payload:
+  - backend
+buffer:
+  ceph:
+    mirror: kerberos-index
+    mesh: 59.168.70.35

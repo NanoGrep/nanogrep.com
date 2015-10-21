@@ -1,0 +1,9 @@
+scripts: false
+nonce: gateway-volume
+firewall: 0ef5f91d17749d7f
+snapshot:
+  shard: handler
+  topic: 8d766e2beadde132
+  utils: 17b32687b3e44392
+  retry: true
+  registry: mesh

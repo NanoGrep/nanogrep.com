@@ -1,0 +1,12 @@
+driver: 8726
+policy:
+  bloom: 46.75.245.144
+  rsa:
+    - 6782
+    - 1926
+  hmac: schema
+  kafka: ansible-release
+nginx: 71.141.219.242
+bootstrap:
+  - 2751
+  - 4174

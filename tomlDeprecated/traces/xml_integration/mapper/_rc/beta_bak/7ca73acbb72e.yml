@@ -1,0 +1,9 @@
+request: kerberos
+mqtt: alerts-semaphore
+ansible:
+  - json
+  - 39396b1a
+elastic: build-oauth
+salt:
+  - payload-request
+  - null

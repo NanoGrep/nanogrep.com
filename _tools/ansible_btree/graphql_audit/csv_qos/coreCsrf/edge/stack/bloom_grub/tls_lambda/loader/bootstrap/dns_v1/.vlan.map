@@ -1,0 +1,35 @@
+{
+  "mapper": {
+    "alerts": false
+  },
+  "mirror": false,
+  "fixtures": {
+    "regex": true,
+    "rollback": true,
+    "volume": {
+      "trie": [
+        true,
+        false,
+        "df5efae92925",
+        "0948bf7e754f"
+      ]
+    },
+    "schema": "retry",
+    "entropy": {
+      "salt": {
+        "firewall": true,
+        "bucket": false,
+        "volume": true
+      },
+      "edge": false,
+      "cursor": "nat",
+      "firewall": [
+        "2d19041903b7",
+        "34a0aa2e5d30",
+        null,
+        "hotfix"
+      ],
+      "object": 2057
+    }
+  }
+}

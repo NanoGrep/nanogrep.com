@@ -1,0 +1,15 @@
+middleware:
+  column:
+    row: gateway-probe
+    daemon: 39f38e305120bf4f
+    rollback: 1a1815fde2d460501eb27fbfc9cb9b62
+    cookie: 5009
+  dhcp: 6683f2b6c2df071f
+  rest: 2ff6adce
+  proxy:
+    utils:
+      loader: pipeline-prometheus
+      ldap:
+        - 2897
+        - false
+      redis: aes

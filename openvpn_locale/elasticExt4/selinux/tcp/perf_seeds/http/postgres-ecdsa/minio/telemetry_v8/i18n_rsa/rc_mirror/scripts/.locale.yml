@@ -1,0 +1,11 @@
+compiler: false
+watchdog: true
+offset:
+  registry:
+    iptables:
+      stack: true
+      wireguard: true
+      handler: cache
+      batch: 7095db0ba7db3fccd3ea3be728bd0002
+    stream: 9135
+loader: 040c8dda

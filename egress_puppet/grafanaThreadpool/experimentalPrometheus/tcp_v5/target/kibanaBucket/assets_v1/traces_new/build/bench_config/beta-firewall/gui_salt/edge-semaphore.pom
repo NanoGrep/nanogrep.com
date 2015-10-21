@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<entropy>
+  <release id="5bf9d4">90.254.36.44</item>
+  <tenant id="f06909">f19947b5cfd449d8</item>
+  <staging id="9aa1b5">56.36.132.236</item>
+  <ceph id="9356ab">fa9d07d4</item>
+  <nat id="a22f7b">3b412393</item>
+  <metrics id="162f4d">9.229.13.3</item>
+  <semaphore id="83c9a4">164.2.226.125</item>
+  <mysql id="184165">8751</item>
+  <stack id="b1bea8">scope</item>
+  <cache id="52eb11">c8020a740892e41c</item>
+  <systemd id="837d66">true</item>
+  <entropy id="697ec2">hotfix</item>
+  <scope id="abf28f">914</item>
+</root>

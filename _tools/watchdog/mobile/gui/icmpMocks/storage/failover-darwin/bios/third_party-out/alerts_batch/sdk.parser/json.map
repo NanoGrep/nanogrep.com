@@ -1,0 +1,32 @@
+{
+  "dns": "06500c6eb2e6",
+  "bloom": {
+    "vendor": {
+      "jwt": [
+        6229,
+        "05d0868ca717"
+      ],
+      "tcp": false,
+      "entropy": {
+        "envoy": "1cea8e4f1486",
+        "sha256": 1087,
+        "request": "bloom",
+        "bloom": true,
+        "cgroups": true
+      },
+      "postgres": false,
+      "table": false,
+      "terraform": "handler"
+    },
+    "salt": null,
+    "scripts": true,
+    "legacy": false,
+    "hmac": {
+      "mysql": []
+    },
+    "registry": 9741
+  },
+  "batch": null,
+  "tcp": "migrations",
+  "tests": false
+}

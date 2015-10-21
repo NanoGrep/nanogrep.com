@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<grafana>
+  <cli id="8f9c14">raid-hmac</item>
+  <batch id="8d51ca">2012</item>
+  <lambda id="80a490">null</item>
+  <index id="ab049d">80d615cd</item>
+  <tests id="b6ee11">null</item>
+  <frontend id="d01e62">80.105.100.181</item>
+  <vendor id="64b931">origin-audit</item>
+  <column id="8b41a0">table-prometheus</item>
+  <daemon id="adf31e">json-staging</item>
+  <switch id="f7d1c8">7930</item>
+  <prod id="03aab1">139.79.129.83</item>
+  <bgp id="914724">3.81.250.139</item>
+  <vendor id="ffd93e">7490e0c5</item>
+  <migrations id="bc906e">2565</item>
+</root>

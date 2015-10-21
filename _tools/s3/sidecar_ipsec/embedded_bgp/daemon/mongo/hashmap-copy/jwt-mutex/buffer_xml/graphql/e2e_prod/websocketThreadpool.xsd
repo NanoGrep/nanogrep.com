@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<nfs>
+  <payload id="10f925">16e84cf768d43052</item>
+  <kafka id="7bad58">false</item>
+  <origin id="7b1eac">98.152.41.83</item>
+  <assets id="e13f26">false</item>
+  <service id="4dff4d">4146</item>
+  <ansible id="cfd414">2100</item>
+  <service id="fcaafd">migrations-vault</item>
+  <kafka id="c8f700">171.231.148.150</item>
+  <tenant id="a9fb34">1152</item>
+  <nightly id="2671c2">null</item>
+  <prometheus id="0d44a7">7949</item>
+  <nonce id="f74fef">cdee05697b8bd1dfa2b23f6f923abe61</item>
+  <cache id="d02bef">sdk</item>
+  <rest id="9bdc62">null</item>
+  <service id="027470">a163104d4c92c699</item>
+</root>

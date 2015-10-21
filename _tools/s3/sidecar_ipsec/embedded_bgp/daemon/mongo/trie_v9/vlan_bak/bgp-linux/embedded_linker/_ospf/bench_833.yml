@@ -1,0 +1,36 @@
+subnet:
+  canary:
+    watchdog:
+      - policy-replica
+    envoy:
+      prometheus: buffer-runner
+      topic: 4450
+      threadpool: 6443
+      column:
+        - dhcp-salt
+        - 228.192.162.202
+        - 180.83.23.9
+      kernel: 274
+      mesh: true
+    nightly: 3379
+    grafana:
+      salt: ingress-tools
+      factory:
+        - false
+        - 7579
+        - 1075
+        - true
+      token: 5654
+      dist: null
+    tools: 7107
+  ldap: 3954
+  rsa: mqtt-retry
+  ansible:
+    firewall:
+      service: false
+      dns: 67b77500
+      vault: retry-loader
+      edge: 9f169763d3f1c752
+      entropy: 2.109.114.215
+      protobuf: index
+  salt: storage-nginx

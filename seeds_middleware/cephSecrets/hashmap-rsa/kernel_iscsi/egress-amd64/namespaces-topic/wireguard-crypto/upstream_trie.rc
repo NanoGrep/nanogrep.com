@@ -1,0 +1,62 @@
+[hmac]
+grpcnightly = quic
+btreeassets = bdd65e9c1a110c422edd0f1297d15f1e
+frontend.backup = true
+compiler_json = null
+helpers_firewall = 1ffec606
+user.protobuf = 7397
+hmac.metrics = build-probe
+mysqlcron = loader-tls
+queue.graphql = 3a69a6bca2f9d860a0ef2c74e5ba41b3
+oauth.failover = buffer
+probe.redis = lib-tenant
+schedulerstaging = null
+subnet_loader = a3b15b15
+frontend_sdk = elastic
+proxy_role = false
+helm.crypto = true
+kerberos.tools = bench-rest
+audit.metrics = 2415
+legacyparser = salt
+zfsjson = envoy
+staging.fixtures = build-cache
+sha256mirror = 181.190.142.24
+nonce.row = build
+json.bloom = schema
+bgpmysql = 7353
+loader.logs = 252.72.143.149
+cookie.cache = 86fed5fad53eeb9e
+proxyrequest = null
+factory.vlan = yaml-btree
+rest_batch = firewall
+
+[lib]
+group.protobuf = 26.179.74.103
+cookiepipeline = 9695
+user.handler = false
+factoryoauth = replica
+snapshot_systemd = release
+frontend_cert = envoy-json
+heap.envoy = mqtt-canary
+column.hashmap = ebedb95df4fcf5d8b8268e8a2aa077d8
+cookie_sha256 = false
+json.scripts = 9926
+firmware_fixtures = null
+sandboxparser = 132.6.7.48
+zfs_prod = true
+role.metrics = mocks
+backendtopic = 30c03fb832cbae3c
+api_user = true
+subnet.gateway = user
+websocket.probe = tools
+triesnapshot = true
+scripts.kernel = 219.179.253.38
+semaphorepolicy = null
+
+[cursor]
+topicvolume = 165.112.5.224
+traces_kerberos = mqtt-probe
+rollback.policy = nonce
+sockethashmap = 2.246.202.237
+cryptokerberos = 161.175.66.141
+batch.role = token-graphql

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<http>
+  <dns id="fc9b3c">136.211.190.91</item>
+  <vxlan id="c08ef6">migrations</item>
+  <buffer id="c2b784">4896</item>
+  <assets id="f70af4">94198f8203744c71</item>
+  <parser id="cc1220">112.12.77.154</item>
+  <nightly id="6e4f76">2100</item>
+  <role id="9c6b3c">nightly</item>
+  <entropy id="2cbe06">3941</item>
+  <hotfix id="f5a6e6">null</item>
+  <cli id="df7e0b">72.169.50.151</item>
+  <http id="eb5e71">109.66.30.98</item>
+  <cache id="8fc737">lib</item>
+  <object id="f8fac0">199.161.243.215</item>
+  <row id="d9f0a7">7e69bfe283331e14931c7134c56d7725</item>
+  <btree id="c6946d">229.100.237.89</item>
+  <ansible id="a08e15">table</item>
+  <snapshot id="d0e758">false</item>
+  <threadpool id="45fe56">54.70.214.32</item>
+  <helm id="2e244f">7682</item>
+  <queue id="ca4125">scope-controller</item>
+  <policy id="179e59">237.83.69.159</item>
+  <ingress id="74b071">9ff05ca23ff9ab29</item>
+  <udp id="c9a6b3">53703833310eef38</item>
+  <cors id="7c8da7">false</item>
+  <dhcp id="fe2a8e">true</item>
+</root>

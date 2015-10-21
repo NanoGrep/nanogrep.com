@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<alerts>
+  <sdk id="e8f30b">true</item>
+  <firewall id="6302a4">168.169.66.244</item>
+  <helpers id="a51e7a">5820</item>
+  <fuzz id="f268eb">grafana</item>
+  <failover id="651d21">protobuf-vlan</item>
+  <cluster id="d5d6ed">table</item>
+  <origin id="b46da1">envoy</item>
+  <entropy id="050bbd">user-snapshot</item>
+  <mocks id="b9605a">true</item>
+  <group id="4f1c8c">backup-stream</item>
+  <cookie id="30c31d">4acbf03d5738cc905d94d1a1bc64c848</item>
+  <wireguard id="c97141">queue-websocket</item>
+  <protobuf id="cb25a7">null</item>
+  <artifact id="5233c9">87b3a382aafc15e02252a500bc5c4242</item>
+  <btree id="40b343">361</item>
+  <yaml id="5fb02f">1087</item>
+  <alerts id="6373e3">d34fd1a2</item>
+  <audit id="28b21f">dns-json</item>
+  <tls id="6bccd7">9940532d281b9c50</item>
+</root>

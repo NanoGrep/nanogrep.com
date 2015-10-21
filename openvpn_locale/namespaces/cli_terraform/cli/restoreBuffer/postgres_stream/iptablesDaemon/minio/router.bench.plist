@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<queue>
+  <snapshot id="2e9ead">traces-rest</item>
+  <zfs id="a03071">180.216.245.16</item>
+  <cache id="0870d8">3325</item>
+  <helm id="233904">6835</item>
+  <oauth id="4b7602">224.24.51.39</item>
+  <runner id="723461">null</item>
+  <schema id="8e82b6">snapshot-socket</item>
+  <audit id="9137ce">false</item>
+  <mysql id="c867cd">jenkins-yaml</item>
+  <crypto id="c1408f">251</item>
+  <bloom id="f54e75">5f79e31b</item>
+  <scope id="743f2e">6905</item>
+  <worker id="c8cbd9">919</item>
+  <middleware id="07b787">bgp-jwt</item>
+  <wireguard id="58705b">tenant-mocks</item>
+  <vault id="9cf0aa">04fdb0ff</item>
+  <limit id="7d8a95">50.82.194.107</item>
+</root>

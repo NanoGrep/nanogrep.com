@@ -1,0 +1,42 @@
+{
+  "batch": [
+    {
+      "nonce": "crypto",
+      "kerberos": [
+        "5bf900142f99",
+        "cert"
+      ],
+      "kafka": true
+    },
+    {
+      "adapter": true,
+      "offset": {
+        "ceph": "cluster",
+        "mocks": false,
+        "quic": null,
+        "cron": null,
+        "audit": "3a7e22b1d22a"
+      },
+      "sha256": [
+        3014,
+        true,
+        "2405e214a7be",
+        false
+      ],
+      "artifact": {
+        "hashmap": null,
+        "staging": null,
+        "cors": true,
+        "controller": 6724
+      },
+      "cert": [
+        "nat",
+        false,
+        "cc310232a622",
+        6948
+      ]
+    }
+  ],
+  "sha256": "failover",
+  "aes": "coroutine"
+}

@@ -1,0 +1,51 @@
+{
+  "logs": [
+    null,
+    [
+      null,
+      null
+    ],
+    true
+  ],
+  "oauth": true,
+  "cert": false,
+  "common": [
+    {
+      "patch": {
+        "beta": false,
+        "sdk": 2322,
+        "audit": "limit"
+      },
+      "nonce": {
+        "oauth": false,
+        "rollback": "staging",
+        "pod": false,
+        "btree": null
+      }
+    },
+    {
+      "json": {
+        "service": 235,
+        "ansible": true,
+        "payload": "mqtt"
+      },
+      "zfs": 1894,
+      "helm": {
+        "runner": true,
+        "oauth": null
+      },
+      "metrics": {
+        "node": false,
+        "ingress": "3e423f8f3f13",
+        "helm": "fixtures",
+        "probe": "2765704bc921"
+      },
+      "tcp": {
+        "kernel": null
+      },
+      "rsa": true
+    }
+  ],
+  "token": [],
+  "policy": false
+}

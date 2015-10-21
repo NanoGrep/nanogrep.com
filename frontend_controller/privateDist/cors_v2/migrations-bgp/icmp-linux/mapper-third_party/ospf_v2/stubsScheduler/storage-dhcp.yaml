@@ -1,0 +1,47 @@
+grafana: 69.94.163.180
+semaphore:
+  topic: false
+  router: null
+  schema: mesh
+  router:
+    kernel:
+      prod:
+        - 378
+        - 6371
+        - 4026
+        - f4232ae701229d7a
+      http: b2330f329c9ee3dc
+      cron: 490
+      helpers: session
+      upstream: object
+      fuzz:
+        - 1003
+        - null
+        - 21.194.41.128
+    token: d567a6f1e9d7a39c
+    templates: 218.122.168.118
+  bucket:
+    parser: 45.11.244.133
+    logs:
+      json: edge-schema
+      backup:
+        - null
+      tools: 151.18.191.93
+      queue: e25fb49dd9165d65
+      tcp:
+        - false
+        - false
+        - vxlan-vxlan
+      dhcp:
+        - bench-nat
+        - 4098
+        - 126.254.0.228
+    backend: 99a315fc87d6de77228ebbeedd19837d
+    graphql:
+      bgp: 5721
+      nonce:
+        - cors
+        - 814f74e6ff06aaf2e47e60ae044275af
+    scope: false
+    websocket: 166.78.135.107
+batch: 149806f2

@@ -1,0 +1,14 @@
+dist: false
+helm:
+  helm: buffer
+  entropy: queue-frontend
+  threadpool: driver-scheduler
+  dns:
+    - 08a299aebeeb32efc08f2b20c1e52495
+    - 7129
+    - 205.150.98.44
+  vxlan: true
+bloom: true
+trie: 15fcaa22
+nfs: 1980
+prometheus: 39.177.66.246

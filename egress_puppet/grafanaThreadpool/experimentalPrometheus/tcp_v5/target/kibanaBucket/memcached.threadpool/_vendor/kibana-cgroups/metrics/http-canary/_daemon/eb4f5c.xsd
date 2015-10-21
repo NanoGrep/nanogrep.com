@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<cluster>
+  <retry id="539c45">socket</item>
+  <middleware id="bcb15d">false</item>
+  <middleware id="710658">origin-socket</item>
+  <ldap id="1f7392">532739bc</item>
+  <mocks id="eb1923">null</item>
+  <locale id="fa3048">loader</item>
+  <tcp id="a3a032">180.208.92.25</item>
+  <cron id="12bf6e">true</item>
+  <lambda id="177619">1f5e6431</item>
+  <tls id="8138cc">null</item>
+  <alerts id="1b795e">logs</item>
+  <entropy id="3d9aa1">true</item>
+  <release id="60bfb4">a87d3e3c</item>
+  <cluster id="73a491">dhcp</item>
+  <systemd id="a47b42">cli</item>
+  <driver id="ad8e48">113.38.249.131</item>
+  <cert id="2d434d">510</item>
+</root>

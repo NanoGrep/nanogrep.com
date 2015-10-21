@@ -1,0 +1,25 @@
+btree: 180.10.38.175
+subnet:
+  group: aes
+  fixtures:
+    batch: true
+    table:
+      retry: helpers-subnet
+      mirror: f92dafb6
+      helpers: 181e846d4b7eb5babe926387da7d9698
+      config: 3706
+    ceph:
+      replica:
+        - 160.72.247.38
+        - 141.215.179.112
+      jwt: request-vlan
+      prod:
+        - 6891
+        - null
+      cursor: 49e5afe6
+      probe: 3714
+      gateway: mapper-prometheus
+    nfs: true
+  scheduler: false
+  grafana: 6bc0a436
+  tests: 29.58.201.211

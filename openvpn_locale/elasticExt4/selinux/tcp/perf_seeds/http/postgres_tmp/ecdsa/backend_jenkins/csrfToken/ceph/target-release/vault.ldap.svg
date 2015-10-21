@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<mongo>
+  <bloom id="2a47e7">mysql</item>
+  <firewall id="1b02a8">logs-request</item>
+  <build id="79c6a3">true</item>
+  <yaml id="5fb9de">5e2ec0bfa134521e</item>
+  <handler id="e84ccd">entropy-middleware</item>
+  <bgp id="80b190">mapper</item>
+  <artifact id="7267f5">hotfix</item>
+  <patch id="9b107b">356</item>
+</root>

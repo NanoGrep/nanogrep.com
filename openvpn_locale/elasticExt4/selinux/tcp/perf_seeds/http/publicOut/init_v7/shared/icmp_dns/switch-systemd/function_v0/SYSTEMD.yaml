@@ -1,0 +1,47 @@
+session: request-frontend
+switch:
+  vlan: tests
+  sha256: 174.162.197.183
+  mesh:
+    - 249.252.12.114
+    - 19220e52
+    - 8cd025a13691e2c3c1de5706a0ffa2af
+    - request
+  release: 5396
+  kerberos:
+    - mirror-dns
+    - env
+patch:
+  pod:
+    queue: 9809
+    canary:
+      - null
+      - 6.222.187.134
+      - row
+      - null
+    edge:
+      cursor: 9149
+      sdk: 54.166.156.68
+      iptables:
+        - false
+        - 3173
+        - 2769
+      staging: fc57b3084cf6518f
+      shard: 3312
+      stream: ce64bad195718e95a795e1a5de0fc717
+    adapter: 6531f1c63f8bbadb97ada8df4cf3cc2b
+  metrics:
+    gateway: 6567
+  registry:
+    mirror: worker-ansible
+    tools: true
+    row: c2c16d8f
+    nfs: nonce
+    mirror: null
+    middleware:
+      yaml: 144.186.125.56
+  common: 28.22.14.244
+nat:
+  - null
+  - 1a531d4f
+  - 250e9d6c

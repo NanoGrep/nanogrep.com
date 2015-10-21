@@ -1,0 +1,53 @@
+adapter:
+  probe:
+    bucket: 42.99.154.157
+    adapter:
+      worker: 1afb0bb5
+      core: buffer-release
+      aes: 77.231.82.246
+      nonce: 993fe7b6b577398f56d6cb3093f3bca6
+      scheduler: 3907
+    ingress: a03256f39744ab82d580fd6dd9876f5d
+    legacy: true
+    crypto: 1e995e9c
+  build: scripts
+  dist: api-build
+  stack: a0a18ced8ad3923c12b3c9f831b4abe4
+policy:
+  sdk:
+    prometheus:
+      mysql: false
+      quic: 143789c7ebd957ed
+      scope: c77dd29715d26a108de28dc664650063
+      batch: 41.152.72.146
+    batch:
+      salt: 220.163.165.224
+      frontend:
+        - null
+        - true
+        - 7764
+        - true
+      backend: wireguard
+      switch: hmac-shard
+      firewall: origin
+    utils:
+      vault: c8b9117fe36b6ef2a1ce5425036f733d
+      yaml: 119.47.252.50
+      coroutine: trie-mesh
+      grafana: 8134
+      beta: fuzz-volume
+      snapshot: null
+    alerts:
+      release:
+        - pipeline-daemon
+        - 3473
+      origin: true
+      cron: 1250
+      gateway: 26086ac22f4c51dac8f657081a6eb2ca
+      bench: response
+    bgp:
+      mongo: 1da50659
+      ingress: coroutine
+      tls: 826
+      cursor: scripts
+  cron: iptables

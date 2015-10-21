@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<build>
+  <cron id="b59c23">tls</item>
+  <legacy id="1e9092">fixtures-lib</item>
+  <dns id="5ee4f4">249.53.219.33</item>
+  <buffer id="266050">null</item>
+  <cookie id="9cf136">6.232.252.165</item>
+  <bloom id="5cebd0">120.164.206.128</item>
+  <ldap id="d1bc14">true</item>
+  <firewall id="89df87">null</item>
+  <config id="1db669">probe-alerts</item>
+  <patch id="aecccc">controller</item>
+  <envoy id="5d5875">cluster</item>
+  <cache id="6baf8f">helm-policy</item>
+  <logs id="0c41d4">4451</item>
+  <cors id="0835c0">7531</item>
+  <mesh id="22b504">56.254.62.181</item>
+  <rest id="196efc">true</item>
+  <bgp id="978f9f">false</item>
+  <origin id="0f1fca">traces-role</item>
+  <user id="68d470">774a7227</item>
+  <bench id="a0d6c9">cursor-origin</item>
+  <scripts id="33e093">false</item>
+  <hotfix id="7c761b">435</item>
+</root>

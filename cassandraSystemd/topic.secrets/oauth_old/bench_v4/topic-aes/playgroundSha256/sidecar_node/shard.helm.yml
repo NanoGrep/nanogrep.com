@@ -1,0 +1,61 @@
+failover:
+  vault:
+    prod: null
+    compiler: middleware
+    watchdog:
+      switch: terraform
+      grafana: 173.105.98.48
+      nat: prod
+      parser: null
+      websocket: helm
+    lambda: 208
+    dhcp:
+      aes: 29.87.158.41
+      column:
+        - 68.45.30.174
+      lambda: threadpool
+      table:
+        - 224.126.75.53
+        - 00b31db39dca4112
+      envoy: 7064
+group: systemd-topic
+prod:
+  router:
+    bloom: 627
+    topic:
+      - 4d5334a2386214b1
+      - 99.23.18.68
+      - 186.183.245.222
+  hotfix:
+    wireguard: false
+    snapshot: 8304
+    logs:
+      tests:
+        - 240.16.34.96
+      replica:
+        - envoy-vlan
+        - redis-cgroups
+        - false
+      websocket: 4712
+      buffer: kafka
+      terraform:
+        - 136.189.169.127
+        - 13.236.151.14
+  loader:
+    failover: cli
+    proxy:
+      cgroups:
+        - 325cd93c
+      mutex: 3238
+    rest:
+      raid: release
+      snapshot: 6218
+      entropy:
+        - 179.187.216.53
+      registry: upstream
+      row: bucket-response
+    semaphore:
+      request: object
+      socket: 9328
+      failover: dd19114c
+      hashmap: true

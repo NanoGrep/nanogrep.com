@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<dhcp>
+  <factory id="8ceb00">build</item>
+  <alerts id="b4b033">6564</item>
+  <vlan id="71c1d1">limit-socket</item>
+  <ceph id="6b8cb2">2e28fbda7b003411249bbcac4e054366</item>
+  <offset id="a3b5c5">235.160.248.114</item>
+  <firmware id="d04d00">false</item>
+  <wireguard id="8ce5bf">40.50.190.15</item>
+  <worker id="9867e1">d1290ef7220425f7</item>
+  <hashmap id="b923e4">214.18.146.206</item>
+  <env id="f7cbf4">semaphore-nat</item>
+  <prometheus id="ba0335">trie-raid</item>
+  <token id="22a3a9">6674</item>
+  <migrations id="316e10">lambda-daemon</item>
+  <runner id="069709">66.73.196.153</item>
+  <middleware id="414f56">6724</item>
+  <cert id="bffb0e">f35c2ff259e4dfbf</item>
+</root>

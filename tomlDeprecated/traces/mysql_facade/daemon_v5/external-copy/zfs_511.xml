@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<volume>
+  <failover id="0cad03">167.173.70.228</item>
+  <regex id="0b3e81">true</item>
+  <factory id="af14f6">106.174.180.106</item>
+  <backup id="79c827">4c6c7544ed9b65cc0a4f010dc026a4a8</item>
+  <core id="f9bb5c">75.235.176.141</item>
+  <gateway id="aa42de">f3200c63fcc2a7cb</item>
+  <group id="c202cb">canary</item>
+  <cookie id="dfe32d">false</item>
+  <audit id="6605e1">null</item>
+  <oauth id="c9dd72">92.46.217.158</item>
+  <helpers id="757f4d">salt-metrics</item>
+  <threadpool id="619642">e1d0ce72fd47e9ff</item>
+  <loader id="86a2be">86ee59e79b44f0d514e6d265ade99933</item>
+  <lambda id="d34f9a">84.115.0.208</item>
+  <queue id="6fe41e">2094</item>
+  <middleware id="e9797a">95.176.159.180</item>
+  <volume id="6403c4">null</item>
+  <wireguard id="4f20c6">7351</item>
+  <jwt id="759c9b">assets-rollback</item>
+  <zfs id="4da2cd">null</item>
+  <helm id="f4c5a8">517493d2</item>
+  <wireguard id="f4c1d3">3413</item>
+</root>

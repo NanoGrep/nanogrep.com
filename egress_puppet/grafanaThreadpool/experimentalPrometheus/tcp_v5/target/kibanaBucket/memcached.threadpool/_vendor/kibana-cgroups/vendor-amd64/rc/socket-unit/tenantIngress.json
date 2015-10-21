@@ -1,0 +1,20 @@
+[
+    {
+        "upstream": {
+            "logs": {
+                "probe": "vault",
+                "iptables": 5406,
+                "mocks": 9539,
+                "snapshot": "nginx",
+                "nfs": true,
+                "dist": 5129
+            },
+            "entropy": "backup",
+            "rest": {
+                "coroutine": "cluster"
+            }
+        },
+        "ansible": true,
+        "daemon": []
+    }
+]

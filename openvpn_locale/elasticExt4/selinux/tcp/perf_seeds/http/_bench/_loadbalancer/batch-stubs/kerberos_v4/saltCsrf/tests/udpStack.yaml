@@ -1,0 +1,47 @@
+probe:
+  lambda:
+    prometheus: token
+    shard: 6459
+    raid: 2.97.143.57
+  hashmap: 9138
+  stack: index
+  config: ldap-kafka
+  request: 83dd68249b043aac
+  firewall: core-row
+fixtures: mqtt-probe
+grpc: 166.127.249.39
+config:
+  ceph:
+    raid:
+      dns: adapter
+      alerts:
+        - null
+      zfs: true
+      beta: 9ed5cbbb
+      tools: udp
+      offset:
+        - d0b8a7a69d3c6603
+        - 3418
+        - iptables-grafana
+        - buffer
+    trie: nfs
+  backend: upstream
+  table:
+    - 62.189.105.170
+    - coroutine
+  storage:
+    prometheus: 134.140.61.139
+    sdk:
+      group: a349e38a4df6fe0d
+      mongo: 4992
+    nginx: frontend
+    migrations:
+      gateway: 5c9a3937
+    vxlan:
+      hashmap: 16.6.129.29
+      user: null
+      loader: 6564ddfa
+      scope: 3935
+      core: 6664
+      bgp: null
+websocket: traces-grafana

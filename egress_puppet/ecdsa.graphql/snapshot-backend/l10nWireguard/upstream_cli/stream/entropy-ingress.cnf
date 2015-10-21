@@ -1,0 +1,50 @@
+[canary]
+upstream.queue = false
+cli.fixtures = 68.182.217.60
+queuecgroups = 60d4efaad2d4ab3f83fba996de448d30
+hotfix.backend = 9833
+failovergateway = null
+replicaqueue = yaml
+
+[mongo]
+threadpool_beta = 116.84.202.56
+benchelastic = 34.64.141.90
+tableobject = null
+probe.compiler = 1a1e6aaa4195c949
+loader_sha256 = firewall-bloom
+stack.rsa = 8786
+fixtures.middleware = response-jenkins
+grpc.stack = 1009
+
+[queue]
+upstreamsemaphore = tests
+mesh_crypto = vxlan
+kernelmongo = 431
+batch.traces = 6395abfeff17dbb4
+indexsocket = lib-graphql
+row.rollback = 2318
+traces.legacy = schema
+clibgp = ed393a5b666e26ac02de3ca7dbed43f6
+router_buffer = beta
+subnet.table = udp
+utils.vlan = 64.143.24.125
+bloom.protobuf = storage-token
+
+[worker]
+coroutine_bucket = 8f835894
+grafanabloom = 249
+rollback_beta = 89.250.49.20
+frontendvolume = firmware
+bootstrapmysql = hmac
+service_hotfix = null
+proxy.sandbox = lib-canary
+dist.terraform = rollback
+request_lib = frontend-cors
+salt_loader = 26.252.101.104
+mirrorindex = 1733
+nightlyelastic = 74.59.1.109
+grpcsdk = 37.200.94.152
+dhcp_object = false
+compiler.dns = 116.48.138.104
+runnerrollback = 39.13.139.28
+upstream.dhcp = crypto

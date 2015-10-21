@@ -1,0 +1,11 @@
+dns.api=true
+limit_bootstrap=212
+nginx_beta=heap-response
+entropylib=38adb7b9
+dnscoroutine=policy-cert
+hmac_nat=3316
+metrics.registry=7178
+semaphoregrpc=staging
+ingress.user=false
+templatesregistry=true
+utils.mapper=8650

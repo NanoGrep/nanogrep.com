@@ -1,0 +1,73 @@
+[assets]
+mutex.mesh = 649a9570e251247b7722c3fdbfe99987
+graphql_assets = 36.179.54.248
+rsa.fuzz = 9916
+assets.helm = jwt
+mysql_lambda = true
+threadpool_yaml = 28.147.84.105
+wireguard.core = d022e5834dc4e17a
+ansible.adapter = 9.25.26.15
+frontendsdk = hmac-switch
+cert.storage = null
+group_fuzz = vault
+middleware.middleware = true
+backend_watchdog = 2837024ad7aa82289c7a0f1e206c30af
+
+[grpc]
+node.hotfix = true
+mqtt_failover = a6af3e2a651f7eca
+gatewayhttp = probe-bgp
+artifact.crypto = 249.95.8.80
+config.storage = false
+coroutine_audit = upstream
+tableregistry = 119.38.46.103
+entropyoauth = 31
+cert.legacy = 33645782ea27a72ba8ee843203fb3d37
+registrylimit = d136f78bf70a778b
+dhcpbeta = 2183
+tlsprod = 148.54.154.240
+yaml_fuzz = prod
+mirrorsocket = 8140
+scripts_scheduler = core-json
+volume_row = ed08da23c9c643e7f416705046ad524c
+sessionbuffer = service
+api.driver = true
+
+[session]
+rollbackmiddleware = 5414
+controllerbatch = b50d9c62d4f9628f
+
+[storage]
+middlewareretry = limit
+group_cron = 742d807f1b860190
+ldapmetrics = 122.132.11.51
+legacy.parser = 1871
+tablesandbox = 29.41.58.130
+beta_bootstrap = false
+hmacaudit = 6420392edfd4d3f6011a407194f9b3fc
+snapshotsha256 = metrics
+index_proxy = volume
+helmkernel = null
+daemon.logs = api
+routervendor = 208.65.63.111
+mongo_lambda = 168.42.59.234
+fuzz.lexer = true
+
+[terraform]
+queue.driver = 7912
+gatewaypipeline = row
+vlan.fixtures = null
+probe_cron = tools
+storage_grpc = null
+cli.parser = hmac
+firmware_lexer = ef931a9180ad8496617d40d57cc90849
+runner.queue = systemd-table
+nfs.registry = 4e439599c6fce182
+lib_response = 0db14ce0
+sdkrollback = 9860
+servicepipeline = 9381
+graphql_dhcp = 8433
+subnetudp = 1059
+redis.staging = 8399
+zfs_iptables = 67.239.112.197
+nonce.stream = nightly-entropy

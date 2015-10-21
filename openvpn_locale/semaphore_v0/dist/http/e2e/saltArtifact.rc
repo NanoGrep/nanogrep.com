@@ -1,0 +1,43 @@
+[build]
+vlan_legacy = 015f6144
+tests_jwt = 132.195.240.99
+coroutine_vendor = driver
+backend.policy = 80.233.97.116
+parser.dhcp = df48e18a69fa6644
+build.parser = 61a8c181
+rest.ingress = 9832
+bootstrap.parser = 195.139.180.37
+core_table = 7477
+terraformfirmware = mapper-watchdog
+policycache = cgroups-sandbox
+user_firmware = 3765
+handlerhelpers = 75.54.119.22
+limit_retry = raid
+cert.udp = scope-rollback
+fixtures.grafana = metrics
+vxlan.build = cache
+firmware_tcp = threadpool-elastic
+env.cache = bench
+threadpoolbloom = 353
+config.kernel = jenkins-regex
+bootstrapstaging = ldap-mapper
+
+[logs]
+bootstrap.jenkins = 44.120.12.11
+queue_hmac = 9edc5665
+grafana.grpc = a0577ccd
+bootstrapservice = 9b0427d7
+alertsretry = cert
+middlewarebloom = caf0941315a6340a46dca43b63441ec4
+grpc.sdk = crypto
+aes.vendor = 9599
+origin_cli = false
+tls_systemd = raid
+yaml.tenant = lib
+canaryfixtures = sha256-locale
+
+[lexer]
+rsaregex = null
+envoy_firewall = 4405
+dist_user = null
+logs.nonce = false

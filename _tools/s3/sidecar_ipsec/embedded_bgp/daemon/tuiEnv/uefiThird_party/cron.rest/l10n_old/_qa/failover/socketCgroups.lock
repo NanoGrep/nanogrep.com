@@ -1,0 +1,33 @@
+{
+  "helpers": {
+    "response": {
+      "oauth": {
+        "retry": false
+      },
+      "quic": {
+        "api": true,
+        "offset": 4369,
+        "json": "8a4c9721190c",
+        "response": true
+      },
+      "sdk": [
+        4975
+      ]
+    },
+    "firewall": [],
+    "locale": {
+      "vendor": {
+        "vendor": "nightly"
+      },
+      "row": "nat",
+      "storage": [
+        true,
+        1154,
+        "nat",
+        "52e7190b3770"
+      ],
+      "systemd": "1dd3914d1967",
+      "offset": "31791be3e9c2"
+    }
+  }
+}

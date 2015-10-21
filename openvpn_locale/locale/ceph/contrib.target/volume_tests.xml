@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<compiler>
+  <wireguard id="d4d513">lexer-service</item>
+  <protobuf id="345890">null</item>
+  <api id="c822a4">probe</item>
+  <service id="5a4753">null</item>
+  <cli id="89ddea">beta-origin</item>
+  <patch id="93f7f8">009bba9e6e6f8b3a1d0dc07dcaf12ce4</item>
+  <shard id="3f6b00">4012</item>
+  <mocks id="eeceda">9118</item>
+  <vxlan id="af41b4">45d25d4f</item>
+</root>

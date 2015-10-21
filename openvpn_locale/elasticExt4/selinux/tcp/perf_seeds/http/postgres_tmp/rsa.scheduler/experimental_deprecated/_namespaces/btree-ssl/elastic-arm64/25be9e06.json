@@ -1,0 +1,25 @@
+[
+  {
+    "column": true,
+    "subnet": {
+      "offset": {
+        "jenkins": 6137,
+        "rest": false
+      },
+      "firmware": 9716,
+      "object": true,
+      "nonce": {
+        "grpc": "57f76f819f3f",
+        "graphql": "db4c444bd14f",
+        "lambda": true,
+        "tcp": "tools",
+        "frontend": 4373
+      },
+      "hmac": "c77e31bf7ee9"
+    },
+    "raid": null,
+    "middleware": "runner",
+    "rsa": false
+  },
+  9275
+]

@@ -1,0 +1,27 @@
+[
+    [
+        null,
+        true
+    ],
+    null,
+    {
+        "jwt": null,
+        "scope": true,
+        "group": "5215ea43fe4f",
+        "locale": {
+            "hmac": 5208,
+            "legacy": [
+                null,
+                null,
+                645,
+                "7f51f4e09651"
+            ],
+            "mocks": {
+                "subnet": true,
+                "node": 3068,
+                "regex": 8608
+            }
+        }
+    },
+    "0bea1fd7399f"
+]

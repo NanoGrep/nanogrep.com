@@ -1,0 +1,97 @@
+{
+  "aes": {
+    "response": {
+      "cookie": null,
+      "parser": {
+        "jwt": null
+      },
+      "role": "daemon",
+      "lambda": {
+        "gateway": "377878a762b0",
+        "loader": true,
+        "sdk": false
+      },
+      "alerts": [
+        true,
+        null,
+        "236675d1fe66"
+      ]
+    },
+    "alerts": {
+      "replica": [
+        true,
+        5766
+      ],
+      "response": "oauth",
+      "rollback": [
+        "jenkins",
+        null
+      ],
+      "iptables": true,
+      "vendor": null
+    },
+    "cron": {
+      "locale": {
+        "ceph": "staging",
+        "fixtures": "postgres"
+      },
+      "rollback": "dd79737d4a19",
+      "kafka": [
+        "d207961d9768",
+        true
+      ]
+    },
+    "cursor": [
+      {
+        "ingress": "81b1ee0abccd"
+      }
+    ],
+    "build": {
+      "snapshot": {
+        "helm": 1477,
+        "rsa": null,
+        "schema": null,
+        "mysql": true,
+        "dns": null,
+        "frontend": "62e7e06c6dd4"
+      },
+      "templates": 3177,
+      "cgroups": null,
+      "role": {
+        "iptables": 2039,
+        "nginx": "343eec7aecb3",
+        "object": null,
+        "json": "158a0215ef53"
+      },
+      "nginx": {
+        "compiler": 8274,
+        "sandbox": false,
+        "vault": null,
+        "templates": 8065,
+        "socket": "9bfa0232adcd"
+      }
+    },
+    "helm": {
+      "assets": null,
+      "backup": 6900,
+      "threadpool": true,
+      "pipeline": {
+        "mocks": "4f387503fb4b",
+        "kafka": true,
+        "snapshot": "retry",
+        "probe": null,
+        "row": "1a9ec97731b5",
+        "logs": true
+      },
+      "patch": [
+        true,
+        true
+      ],
+      "vault": 1594
+    }
+  },
+  "nginx": true,
+  "ceph": "cff48a7d9b3f",
+  "coroutine": false,
+  "traces": "33d21e013a87"
+}

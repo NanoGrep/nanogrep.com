@@ -1,0 +1,60 @@
+semaphore: hotfix-buffer
+jenkins:
+  - null
+  - bootstrap-release
+  - yaml-vlan
+  - 71f766ae
+table:
+  scheduler:
+    runner:
+      http:
+        - d0a7ef138e4babea7371eb091d07fe0e
+        - volume
+        - 63.103.53.182
+        - 3776
+      prod:
+        - 183.122.205.75
+    protobuf: bede5b47
+    entropy:
+      nginx: controller-snapshot
+      nat: shard-gateway
+      switch: true
+      nonce: beta
+      router: ansible-threadpool
+    backend:
+      scope: 02f14910d96689fa
+      helm: 4963df0f
+      mutex: artifact
+      yaml: 4ce108e6
+      handler: 104.248.8.31
+    cgroups: mongo-gateway
+  alerts:
+    socket:
+      probe: 6526
+      storage: null
+    vxlan: null
+    bucket:
+      adapter: null
+      metrics: 7218acbc99c3fa3b
+      aes: ca738f7eec027730
+      index: 1713
+    tenant:
+      pod: false
+      release: true
+      factory: 0d841149
+      traces: 2472
+      udp: 95a7fb38
+      cursor: 9006
+  firewall:
+    - probe
+postgres:
+  - false
+  - mysql
+  - 174.103.5.21
+  - 8b04e153b1b13a68
+sdk: ec21843ddae9fd0ab4900e5ef4d17cdc
+switch:
+  quic:
+    nginx: router-metrics
+    entropy: 681
+    rollback: 160.147.253.210

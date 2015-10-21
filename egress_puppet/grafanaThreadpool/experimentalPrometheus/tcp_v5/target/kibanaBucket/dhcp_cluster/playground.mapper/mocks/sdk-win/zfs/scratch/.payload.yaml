@@ -1,0 +1,23 @@
+nginx: 180.142.2.213
+backend:
+  graphql: 68615d10aa2986d168972756be2cd649
+  node: 96.177.242.127
+  helm: tls
+  btree:
+    session:
+      - 159.216.177.187
+      - null
+      - raid-table
+      - f91a75af
+    mutex: false
+    sandbox: 2022
+    core: 42.29.213.248
+    coroutine:
+      tcp: alerts-stream
+      middleware: null
+      cli: 62.1.126.66
+      stream: 3460
+cgroups: false
+kernel: 98621a05be9ca2039fae64331a0a6b6f
+nginx: true
+router: 7697

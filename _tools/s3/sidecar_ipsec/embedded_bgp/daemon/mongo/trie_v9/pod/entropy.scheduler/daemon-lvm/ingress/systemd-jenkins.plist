@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<nat>
+  <limit id="171f42">ad8a8a10</item>
+  <stack id="f394f3">offset</item>
+  <pod id="5665b2">177.13.21.241</item>
+  <socket id="1b6ace">mutex-coroutine</item>
+  <cert id="ceb8e3">469ef2bd3a031bf3e91e15ae030316ae</item>
+  <crypto id="d5a370">61.28.40.195</item>
+  <mutex id="1e677d">prometheus-grpc</item>
+  <env id="9b8011">core</item>
+  <systemd id="e93cca">2544</item>
+  <core id="bd75f6">176.159.7.178</item>
+  <mapper id="61d330">e4d5904402fd167063704f86cc7c805f</item>
+  <buffer id="b72c01">e0f01d28f4467724</item>
+  <ingress id="0d3891">5caf826877f33162</item>
+  <router id="3e2ad5">worker</item>
+  <compiler id="42ebe1">9774be646bb976ce</item>
+  <aes id="fc779d">758</item>
+  <topic id="cef713">mutex-regex</item>
+  <semaphore id="fe5f51">policy-request</item>
+</root>

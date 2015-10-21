@@ -1,0 +1,93 @@
+{
+    "cluster": {
+        "stack": [
+            {
+                "user": "mesh",
+                "terraform": false,
+                "templates": false
+            },
+            [
+                true
+            ],
+            true,
+            "3dfa96a06cfc"
+        ],
+        "terraform": [
+            false,
+            null,
+            false,
+            {
+                "fuzz": "postgres",
+                "scheduler": false,
+                "rest": "subnet",
+                "node": "193d9035bcd7",
+                "cert": 5070,
+                "buffer": true
+            }
+        ]
+    },
+    "http": {
+        "locale": {
+            "sha256": {
+                "jenkins": true,
+                "probe": true
+            },
+            "vlan": true
+        },
+        "metrics": {
+            "response": "d5995228a443"
+        }
+    },
+    "audit": {
+        "hashmap": null,
+        "rollback": {
+            "cluster": {
+                "dist": true,
+                "compiler": null,
+                "schema": null,
+                "sdk": false,
+                "helm": null,
+                "envoy": "14c5c93f9d28"
+            },
+            "elastic": "d8fa8c7ee8df",
+            "daemon": 5996
+        },
+        "grafana": true,
+        "sha256": [
+            4500,
+            false,
+            {
+                "policy": false,
+                "tcp": "loader",
+                "cors": false,
+                "lambda": 4392
+            }
+        ]
+    },
+    "build": {
+        "gateway": {
+            "terraform": {
+                "policy": "1adfe48ba60a",
+                "templates": true,
+                "table": null,
+                "frontend": false,
+                "nonce": true,
+                "rest": "c11c17f41316"
+            },
+            "watchdog": {
+                "core": "replica",
+                "backup": "cgroups",
+                "cursor": "413c79724f00",
+                "dns": "ea93b40b18af",
+                "topic": null
+            },
+            "staging": {
+                "vxlan": null,
+                "adapter": "0b920ce0d4e5",
+                "grafana": null,
+                "dist": true,
+                "lexer": false
+            }
+        }
+    }
+}

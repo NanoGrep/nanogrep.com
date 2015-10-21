@@ -1,0 +1,21 @@
+yaml:
+  edge: alerts
+  compiler: 7134
+  staging:
+    cert: 0cd7675447e0a761d3e6d160476c62e7
+    firmware:
+      sha256: policy
+      bgp: 1145
+      daemon: false
+      websocket: null
+      mongo: prometheus-compiler
+    grpc:
+      - scripts-scheduler
+    compiler:
+      semaphore: build-logs
+      mqtt: 162.48.102.150
+    mysql: ef99cb7cbab79790
+  token: 1778
+offset:
+  - false
+  - 65941e59

@@ -1,0 +1,10 @@
+switch: true
+metrics: null
+ansible: graphql
+tests: coroutine
+core:
+  tools: 227.50.173.49
+env:
+  index: 1a9e4a02d0d27bdcfa9122869f61c0a0
+  cert: middleware
+  cors: 6317

@@ -1,0 +1,37 @@
+hotfix:
+  limit: 2822
+  vendor: 5ca25d6e86ab38ffc22020c9511b32f8
+  scripts:
+    quic: 5a39abb1b3ce0fbc
+    cookie:
+      response: 8458
+    pipeline: 115.144.126.1
+    lambda: null
+    crypto: 702a6aedbca95058e28105b02fbdc2d0
+  service:
+    router:
+      - 192.72.116.144
+      - 3.51.51.40
+  semaphore: true
+  nat: env
+bloom:
+  protobuf: 8cb872141ffc91dca18b7fe5f31a0ffe
+  edge:
+    kerberos: prod
+    jwt: frontend
+    stream: helm-backup
+    cookie:
+      release: schema-request
+      backup:
+        - 93.195.32.28
+        - 7289
+        - cert
+        - null
+      mesh:
+        - false
+        - null
+        - 2991f5ae94115a48
+        - 213.136.90.140
+      runner: 2f23a2e1
+  websocket: core
+scheduler: null

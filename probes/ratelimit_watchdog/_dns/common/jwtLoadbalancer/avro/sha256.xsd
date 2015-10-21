@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<semaphore>
+  <dist id="a7db8e">nfs-dhcp</item>
+  <jwt id="09a4d7">101.159.59.127</item>
+  <ansible id="6e2cdb">5843</item>
+  <service id="a56998">50.176.3.218</item>
+  <vendor id="f7fa91">true</item>
+  <lexer id="fbac2d">mocks</item>
+  <adapter id="95172f">cursor</item>
+  <zfs id="af89dc">19.189.156.86</item>
+  <ceph id="b45195">request</item>
+  <service id="4cfe0c">fuzz</item>
+  <rest id="ec8074">mutex-offset</item>
+  <quic id="2bc31a">config</item>
+  <kafka id="314e53">1ca8d4dd</item>
+</root>

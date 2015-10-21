@@ -1,0 +1,12 @@
+{
+    "limit": 9836,
+    "ldap": {
+        "templates": null,
+        "schema": {
+            "scheduler": {
+                "yaml": true
+            }
+        },
+        "mqtt": true
+    }
+}

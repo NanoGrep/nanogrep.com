@@ -1,0 +1,28 @@
+staging:
+  - beta
+iptables:
+  prod: null
+  mysql: false
+  index: 2218b1123219b169b080cd45eaff633e
+  salt:
+    table: 20b212eb96712ca2
+    zfs: 7577
+    dist:
+      tenant: null
+      worker: switch
+    tenant: column
+    controller:
+      lexer: kernel-mirror
+      compiler: row-helpers
+  raid: false
+  probe: 87a644358102fc91
+wireguard: 24e4c642
+audit:
+  ansible: 679dc64d
+  coroutine: f2924258
+  yaml:
+    - 3418
+  aes: 577
+  postgres: false
+bgp:
+  - 6265

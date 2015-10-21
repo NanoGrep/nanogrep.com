@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<cgroups>
+  <tests id="b4bf80">templates-switch</item>
+  <cluster id="314d12">07b00a8a</item>
+  <backup id="14f676">22.201.138.194</item>
+  <backup id="9591a8">dns</item>
+  <http id="a7787f">100.74.217.6</item>
+  <proxy id="b26a80">197.50.31.190</item>
+  <elastic id="3be1df">1728</item>
+  <logs id="82967a">dist</item>
+  <dist id="9b26b5">eca90d315a54d0acfee52435f6da97f2</item>
+  <bench id="c14f64">244.59.197.242</item>
+  <registry id="9c35dd">false</item>
+  <table id="a4d805">null</item>
+  <gateway id="aa3a4e">null</item>
+  <mutex id="2d6af8">null</item>
+</root>

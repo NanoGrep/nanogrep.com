@@ -1,0 +1,44 @@
+{
+  "trie": 9321,
+  "http": {
+    "socket": {
+      "driver": [
+        false,
+        null,
+        "topic",
+        "mapper"
+      ],
+      "buffer": [
+        false
+      ],
+      "firewall": null,
+      "helm": 8289,
+      "tcp": "mapper"
+    },
+    "payload": {
+      "service": [
+        "76e3b18273cc",
+        2197,
+        "c672b9593d21",
+        "93980e80e918"
+      ]
+    },
+    "service": true,
+    "metrics": "trie",
+    "proxy": {
+      "offset": "4b1089f79fa9",
+      "response": "volume",
+      "edge": "jwt",
+      "crypto": [],
+      "handler": true,
+      "salt": {
+        "user": false,
+        "fuzz": null,
+        "ansible": false,
+        "bucket": true,
+        "entropy": "3c32d5801708",
+        "storage": false
+      }
+    }
+  }
+}

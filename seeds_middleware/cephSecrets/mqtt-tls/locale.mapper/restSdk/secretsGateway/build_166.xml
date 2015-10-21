@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<origin>
+  <legacy id="f98bda">5329</item>
+  <prometheus id="70ac04">58aaa3e0</item>
+  <utils id="1b659b">41.124.226.118</item>
+  <vault id="0ddd6a">9616</item>
+  <policy id="fedba7">1313</item>
+  <tests id="2f0b4c">198.160.152.240</item>
+  <mapper id="a8d05e">6865</item>
+  <mapper id="619e51">6947</item>
+  <prod id="db9e67">aes-row</item>
+  <jwt id="c0a00b">91.1.180.193</item>
+  <failover id="257e41">parser</item>
+  <rsa id="695814">pod-pipeline</item>
+  <btree id="5e676e">44.232.163.145</item>
+  <dns id="ec67f7">abaf0450</item>
+  <mocks id="254ad1">null</item>
+  <grafana id="d860aa">controller</item>
+</root>

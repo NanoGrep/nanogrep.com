@@ -1,0 +1,48 @@
+[
+  {
+    "mapper": [
+      {
+        "policy": true,
+        "hotfix": null
+      }
+    ],
+    "bench": {
+      "threadpool": false,
+      "offset": "35190eee744a",
+      "bench": {
+        "parser": 4948,
+        "backup": "8161c5c0ae2f",
+        "quic": "efdfec51f53b"
+      }
+    },
+    "failover": {
+      "staging": {
+        "service": "6717700ad311",
+        "config": 9923
+      },
+      "mutex": {
+        "cli": null,
+        "volume": null,
+        "bgp": true,
+        "cors": false,
+        "cache": 9758
+      }
+    },
+    "migrations": [
+      {
+        "cluster": 7732,
+        "nightly": true,
+        "lambda": "ebf8b9dc43c7",
+        "staging": null,
+        "node": "canary",
+        "rsa": true
+      },
+      {
+        "json": true,
+        "postgres": "prod",
+        "cgroups": "salt",
+        "threadpool": true
+      }
+    ]
+  }
+]

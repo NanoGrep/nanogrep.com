@@ -1,0 +1,70 @@
+vxlan:
+  runner: patch
+  handler: 57f5fd976262f69fb8fc0ff48941eac5
+  heap: mesh-cluster
+  legacy: 7983
+  router:
+    runner:
+      edge:
+        - vlan-kernel
+        - 6459
+        - 201.156.181.105
+      crypto: vault
+      hashmap: yaml-regex
+      buffer: false
+    edge: grafana
+    protobuf: hotfix-oauth
+    grafana: coroutine
+    kerberos:
+      locale: false
+    nfs: fac99b33fba02229c0c1df2c5b12f28a
+backup:
+  dhcp:
+    handler: tls
+    ingress:
+      cgroups: null
+    router: role-mesh
+  dhcp:
+    mesh: 1813
+    kafka: 23be6059
+    batch: volume
+    middleware: null
+    compiler: factory
+    kerberos:
+      firewall: trie
+      group: 36a78b0d
+      middleware:
+        - 3042efea
+        - quic
+        - 8748
+      proxy: 5741
+      mongo:
+        - 173.76.241.100
+        - 3734
+        - quic-cursor
+        - 169.17.81.241
+      edge: 57.45.4.171
+firewall:
+  nfs:
+    coroutine: http
+    beta: 5715
+    schema:
+      yaml: false
+      tenant: elastic
+      entropy: 101.65.25.13
+      parser: helm
+      object: cf37e4ac
+  mutex: 1162
+  object: salt
+  table:
+    - coroutine
+  bloom: 19.250.240.63
+  pipeline:
+    - ba5911fe8114435fcaa2f691b756f058
+    - queue-sandbox
+    - false
+    - d643621b2c9194f68993abed19c2ae64
+pipeline:
+  - false
+  - semaphore
+  - 6092

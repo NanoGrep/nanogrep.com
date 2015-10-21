@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<stream>
+  <backup id="a50818">81.187.213.35</item>
+  <firmware id="ca47b0">true</item>
+  <policy id="b90d10">9aa1178aef502c4a</item>
+  <legacy id="0bf49a">40.156.41.151</item>
+  <templates id="7830df">119.106.134.166</item>
+  <api id="510cc5">d2fc7194c7380ce76eaa3ba95269e96d</item>
+  <subnet id="c51993">false</item>
+  <index id="59d648">105.61.136.194</item>
+  <cert id="24e005">staging-registry</item>
+  <lexer id="5f4541">row-backup</item>
+  <wireguard id="c6ba41">194.166.151.107</item>
+  <dhcp id="b0b6d8">5c03b1b8</item>
+  <websocket id="5a2369">true</item>
+  <upstream id="81cf0b">127.221.66.206</item>
+  <bench id="1d4466">1867</item>
+  <retry id="8dc7eb">tls</item>
+  <upstream id="f4fec1">false</item>
+  <config id="b8eafe">null</item>
+  <http id="24922b">9cbe0957</item>
+  <tenant id="d6cd62">cookie</item>
+  <mesh id="2b9b89">true</item>
+  <offset id="3df168">edge-nonce</item>
+</root>

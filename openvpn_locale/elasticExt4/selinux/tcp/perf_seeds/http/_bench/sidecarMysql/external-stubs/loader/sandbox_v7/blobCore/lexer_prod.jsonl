@@ -1,0 +1,20 @@
+{
+  "registry": null,
+  "firewall": [
+    {
+      "schema": 476,
+      "offset": 6209
+    },
+    false,
+    false,
+    {
+      "storage": "b0451cee1004",
+      "dist": false,
+      "router": {
+        "terraform": true,
+        "adapter": 9458
+      }
+    }
+  ],
+  "runner": true
+}

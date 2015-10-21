@@ -1,0 +1,4 @@
+compiler: 2207
+raid: mqtt-helm
+firmware:
+  - 5af1a05f

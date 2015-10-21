@@ -1,0 +1,40 @@
+firewall: 1591
+bloom:
+  - true
+  - 1970
+  - 758bc1ab
+  - 1013
+stack:
+  cli:
+    canary: 3245e6df306dfd77af05823c6fae8c54
+    ceph: ec8b2f1127dfcae5
+    dist: wireguard
+    beta:
+      bootstrap:
+        - 5651
+        - rest
+        - router
+      jwt: factory
+      origin:
+        - ldap
+        - null
+        - null
+        - nat-cursor
+      upstream: 37.209.167.245
+      env: null
+    envoy:
+      - runner-stack
+      - 3.25.29.31
+      - object
+    token:
+      ceph: salt-rest
+      backend: true
+      cors:
+        - nonce-router
+        - true
+        - ldap-crypto
+  alerts: 7527
+rsa:
+  hashmap: artifact-socket
+  helpers: 165.21.105.79
+wireguard: 6972

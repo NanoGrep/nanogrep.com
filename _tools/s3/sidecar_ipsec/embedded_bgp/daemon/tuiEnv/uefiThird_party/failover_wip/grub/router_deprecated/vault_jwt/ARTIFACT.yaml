@@ -1,0 +1,15 @@
+user: 7776
+http:
+  ceph: parser-protobuf
+  oauth: 9208
+  index: 9683
+  oauth:
+    btree:
+      dns: postgres-firewall
+      sandbox: 1abb4401b4009a9f
+      kafka: 8227
+  mapper:
+    - e37af6ace444f530
+    - policy-tests
+  api: bootstrap
+lib: ddcfddf5f4133e4c

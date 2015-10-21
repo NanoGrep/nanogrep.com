@@ -1,0 +1,11 @@
+jwt,traces,object,pipeline,jenkins
+false,d300cab2b917905206a0641153396345,207db5084fb3163846e2ea501ed0d878,cors,false
+vendor,7104,buffer,socket-pod,200.33.48.110
+null,null,false,logs,api-ansible
+service,9a00d267,true,envoy,true
+false,true,null,true,true
+0d782b8fec93ae4b,sandbox-dns,582074723f4019bf8db8b47c14c7b842,f89345fe,146.0.99.31
+false,75.105.29.100,true,mirror-driver,00df95ad5d12701d
+8929,sandbox-wireguard,null,false,249.179.57.78
+135.211.74.5,253.226.193.227,retry-kafka,true,999
+6660,mysql,true,204.49.159.177,745

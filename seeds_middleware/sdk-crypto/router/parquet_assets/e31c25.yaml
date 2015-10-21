@@ -1,0 +1,27 @@
+backend:
+  sdk: protobuf-driver
+  replica:
+    hmac:
+      - true
+      - alerts-btree
+  node:
+    controller:
+      postgres: zfs-sha256
+      canary: b1ef1e0a
+      handler: 189.205.68.189
+      payload: true
+      helpers: 9021
+      cli: true
+    cookie: f9ecc0177df5bc152e406aa4c2e6fc93
+    backend: fuzz-postgres
+    registry:
+      cron: bd1769b2
+    raid:
+      config: 8947
+      worker: 93.5.143.218
+      api: 1746
+      stack: dns-ansible
+    aes: queue-backend
+json:
+  - bucket-rollback
+ansible: 9b8b5f9d

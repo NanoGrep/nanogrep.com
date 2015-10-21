@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<iptables>
+  <snapshot id="180e7c">127.233.76.12</item>
+  <nonce id="0b2bbd">61.71.122.229</item>
+  <metrics id="99c040">audit-request</item>
+  <adapter id="10f53d">false</item>
+  <middleware id="e5a7ba">92.180.44.247</item>
+  <replica id="097fcf">1b7b7e69ca3422404fa4306e20023f84</item>
+  <trie id="1d5bd5">69.67.151.72</item>
+</root>

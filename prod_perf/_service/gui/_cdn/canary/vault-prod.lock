@@ -1,0 +1,27 @@
+{
+  "redis": {
+    "raid": [],
+    "quic": [
+      [
+        9989
+      ],
+      {
+        "vendor": false,
+        "backend": 3497,
+        "bucket": null,
+        "rest": "hashmap",
+        "bloom": "factory"
+      },
+      [
+        true,
+        "20cbbe9df171",
+        null,
+        false
+      ],
+      "fae4a7c743e4"
+    ]
+  },
+  "nightly": {
+    "postgres": true
+  }
+}

@@ -1,0 +1,7 @@
+cookie: true
+mongo:
+  fixtures: 105.32.233.52
+  beta:
+    index:
+      - 6245
+      - ff2c304f251f59a5

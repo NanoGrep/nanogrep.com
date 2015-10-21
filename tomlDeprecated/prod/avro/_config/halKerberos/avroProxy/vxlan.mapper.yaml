@@ -1,0 +1,62 @@
+rest:
+  cli: null
+  offset:
+    subnet: 1601
+    jwt: vxlan-factory
+    controller:
+      cgroups:
+        - gateway
+        - null
+    sandbox: 40.73.237.67
+    payload:
+      probe: 2324
+      tenant: fixtures
+    edge:
+      - 34.96.87.227
+lexer:
+  hmac:
+    websocket: storage-cli
+    locale: ingress
+    hashmap:
+      templates: 137e5dc2bf8b50ae00e74df94cfe8669
+      watchdog: 144.230.208.248
+      coroutine: true
+      router: scripts
+      group: nightly
+    hashmap:
+      scripts: c728be6d72b56987dad82e8f3d8ab80f
+      semaphore: salt-dist
+      dhcp: 1ad895d140a7118413ad714c448ac1ae
+      helpers: 4665
+      oauth: da7c5723
+    rest:
+      iptables: f76c4a76fab24dd2
+    cursor:
+      crypto: 57.3.126.210
+      worker: 164.154.177.111
+      switch: rollback
+      vxlan: request-redis
+      retry: true
+      systemd: index-driver
+  hmac: 232c16dca391e323
+  policy:
+    column: false
+    jenkins:
+      - 53.208.187.116
+      - false
+      - 202.144.92.219
+      - null
+    quic: 6e4111e806e58bb2b195a777cdb2f9a9
+    jwt:
+      frontend: offset-handler
+  graphql:
+    - adapter
+    - 169.38.44.212
+    - cluster
+  replica: 7207
+  stream: false
+tenant: rest
+ingress:
+  - nonce
+  - true
+  - 8348

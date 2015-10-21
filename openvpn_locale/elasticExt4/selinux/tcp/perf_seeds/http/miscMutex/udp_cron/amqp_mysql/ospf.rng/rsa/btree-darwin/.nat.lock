@@ -1,0 +1,30 @@
+{
+    "loader": [],
+    "user": true,
+    "watchdog": [
+        null,
+        {
+            "dist": true
+        },
+        {
+            "dist": [
+                "cache",
+                true
+            ],
+            "column": {
+                "fuzz": true,
+                "handler": false,
+                "frontend": "50d02b17d0ca",
+                "hotfix": null,
+                "queue": null
+            },
+            "dhcp": [
+                false
+            ],
+            "bootstrap": "ceph",
+            "vxlan": "loader"
+        },
+        "f8e7c71e8f1e"
+    ],
+    "env": false
+}

@@ -1,0 +1,4 @@
+snapshot: a4c1ce53
+request:
+  - handler-tenant
+probe: socket

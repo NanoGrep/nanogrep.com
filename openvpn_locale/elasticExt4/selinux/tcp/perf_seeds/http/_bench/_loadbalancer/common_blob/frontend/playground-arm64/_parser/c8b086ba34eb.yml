@@ -1,0 +1,14 @@
+nat:
+  object: policy
+  origin: false
+  hmac: 9180
+  cluster: true
+salt:
+  redis: hotfix
+  frontend: socket-registry
+  vxlan: subnet
+  volume: daemon-prometheus
+  gateway: upstream-http
+session: raid
+registry: 42213344
+mocks: 1bfd580d

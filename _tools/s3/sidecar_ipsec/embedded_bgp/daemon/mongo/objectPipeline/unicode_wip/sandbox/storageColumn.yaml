@@ -1,0 +1,11 @@
+patch: mongo
+logs: 68.28.195.243
+loader: bloom-bloom
+worker: 5626
+worker:
+  group: mirror
+  cors: false
+  session:
+    - 1808
+    - false
+  ldap: mutex

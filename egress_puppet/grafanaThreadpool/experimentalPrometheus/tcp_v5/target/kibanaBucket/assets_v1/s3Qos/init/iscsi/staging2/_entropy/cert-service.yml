@@ -1,0 +1,21 @@
+row: 2771
+sandbox: 116.97.57.58
+proxy: 89.64.232.168
+group:
+  driver: f803d7ea613c18be626feef3382b41a1
+  group: false
+  pod: vault
+  quic: 205.95.0.209
+  backup: 82ae50baabc9c38a14c3a6b83d615b69
+jenkins:
+  mutex: 9c4c1b7b814576bb64d6d1f2e99d517c
+  frontend:
+    buffer: f5ed25e4a5e8d186
+    proxy:
+      - 070595472b2f1fc9
+      - 7653
+      - 234.238.249.58
+    sdk: 9b42de1845f97ed0
+    cluster: true
+  patch: false
+gateway: 8458

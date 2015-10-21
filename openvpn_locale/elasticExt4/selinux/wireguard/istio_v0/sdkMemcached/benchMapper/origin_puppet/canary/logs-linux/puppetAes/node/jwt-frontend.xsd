@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<upstream>
+  <bucket id="28b9f3">btree</item>
+  <vendor id="7dac3f">3997</item>
+  <hotfix id="5fe280">common</item>
+  <offset id="72a375">null</item>
+  <locale id="fe1b4e">2939bb6c</item>
+  <logs id="10478f">pod</item>
+  <ansible id="af614e">core</item>
+  <queue id="1a471b">tools</item>
+  <registry id="2b7d63">adapter-router</item>
+  <middleware id="2f613c">306ff3f824837bc1</item>
+  <grpc id="0180cf">1511</item>
+  <mirror id="b641ed">sdk-nfs</item>
+  <salt id="381b57">57dac4943f16acc6440a7a73b5994810</item>
+  <storage id="2b38b6">0faae58462efeb64d9a9801fa113e34e</item>
+  <cluster id="a53b27">f469d2bb31195fc2</item>
+  <middleware id="a97e0c">bench-watchdog</item>
+  <vlan id="242213">7cf62d96a43fa7a2</item>
+  <cron id="cec595">218.60.42.28</item>
+  <user id="3bab87">true</item>
+  <legacy id="a91229">1096</item>
+  <switch id="fbb61c">bench-nginx</item>
+  <fixtures id="83abe0">null</item>
+  <scripts id="aabb9c">5276</item>
+  <storage id="0d4e15">2544</item>
+  <scope id="f875c7">envoy-edge</item>
+</root>

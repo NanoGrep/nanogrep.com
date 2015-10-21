@@ -1,0 +1,36 @@
+canary: 31.23.100.195
+scope:
+  alerts:
+    subnet: 94c701db39acfec8
+    mapper: 9757
+    build: 133.157.237.200
+    threadpool:
+      - true
+      - cli-trie
+  envoy:
+    traces:
+      websocket: build
+    compiler:
+      - 224.109.247.241
+      - core
+      - 38.104.177.158
+      - 3784
+    backup:
+      - patch
+  ceph:
+    kafka: group-worker
+    schema:
+      node: 2621
+    bgp:
+      elastic: false
+      btree:
+        - table-api
+      templates: 194.25.40.193
+      json: scope
+      firewall: true
+      helpers: 79.192.234.54
+    index: lexer-elastic
+    traces: firmware-origin
+  stream: postgres-compiler
+  udp: hotfix-parser
+lexer: null

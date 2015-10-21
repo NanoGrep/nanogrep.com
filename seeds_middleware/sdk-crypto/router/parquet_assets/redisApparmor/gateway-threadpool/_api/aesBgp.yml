@@ -1,0 +1,16 @@
+postgres:
+  nginx: core-iptables
+  json: sdk
+  nginx:
+    schema: factory
+    protobuf: yaml-backup
+    backup: null
+    mirror: false
+    snapshot:
+      tcp: 1226
+      queue: true
+      sandbox: 5d4d342324b67699
+    artifact: vxlan-upstream
+  redis: cfc9904e
+postgres: 162.177.106.225
+oauth: true

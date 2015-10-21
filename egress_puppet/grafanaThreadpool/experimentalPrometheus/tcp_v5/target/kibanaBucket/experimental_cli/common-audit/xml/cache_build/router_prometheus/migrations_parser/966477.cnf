@@ -1,0 +1,27 @@
+[sandbox]
+handler_alerts = true
+common.loader = 3478
+crypto.cursor = fuzz
+saltschema = 06a9fd32aca75783
+mirrorvlan = false
+hmac.driver = aa5acb22ac5e14f662eb0cc4cad79b1a
+
+[object]
+certsdk = 3124
+edgecache = 191.152.232.86
+lambda_rollback = true
+stagingregex = wireguard
+websocket.object = 21.58.14.19
+proxycert = false
+batch.dhcp = 0ee13596
+salt_graphql = router-beta
+
+[sandbox]
+vlan_payload = rsa-gateway
+coroutine_scope = false
+topic_kernel = 6114
+fixtures_bootstrap = table
+quic_firewall = user-user
+shardudp = b9286ba6c91646aa2f69fc7656b9ea3a
+hmac.buffer = mirror
+rest_fixtures = 10.182.249.62

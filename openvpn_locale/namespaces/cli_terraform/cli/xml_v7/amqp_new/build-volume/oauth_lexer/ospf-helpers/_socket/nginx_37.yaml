@@ -1,0 +1,3 @@
+service: token-table
+worker: false
+mqtt: true

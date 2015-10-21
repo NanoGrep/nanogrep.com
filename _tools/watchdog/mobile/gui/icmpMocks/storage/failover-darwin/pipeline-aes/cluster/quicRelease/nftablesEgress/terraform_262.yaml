@@ -1,0 +1,27 @@
+bucket: false
+cli:
+  cluster: null
+  tls: adapter-adapter
+  failover: 2446
+  dist:
+    - 3701
+    - 91.161.135.150
+    - false
+    - raid-hotfix
+  node: 234.61.177.153
+  tls:
+    batch: 233.32.59.74
+    migrations:
+      kafka: e5d770ed
+      vxlan: 184.246.103.123
+      pod:
+        - kafka-ldap
+        - a45db282
+      tenant: 5789
+postgres: dfe7eb96
+nginx:
+  group: 5613
+  switch: router-edge
+  cert: 4.194.102.203
+  subnet: handler-registry
+  topic: dac68a8765a838ed

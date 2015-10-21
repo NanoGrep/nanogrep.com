@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<registry>
+  <worker id="2233b1">189.62.162.13</item>
+  <origin id="3ef182">null</item>
+  <compiler id="24d8cc">cursor</item>
+  <grpc id="be0760">null</item>
+  <ingress id="83d2b6">6352</item>
+  <lexer id="3468f1">true</item>
+  <storage id="af3750">9526</item>
+  <mutex id="db83fb">core-volume</item>
+</root>

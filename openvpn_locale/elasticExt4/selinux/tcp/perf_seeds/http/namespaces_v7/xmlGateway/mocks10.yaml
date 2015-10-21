@@ -1,0 +1,35 @@
+yaml:
+  tcp: false
+  cursor: 8309
+  firewall: true
+  frontend: b3ec59b6e18fc73f
+  rsa:
+    logs:
+      - 146.253.108.232
+      - metrics
+    protobuf: dist
+    env: 7568
+    mocks:
+      - 151.192.239.213
+      - false
+      - stream-patch
+    mutex:
+      udp: stack
+      trie:
+        - null
+        - adapter-jwt
+  token:
+    grpc:
+      regex: salt
+    service: build-user
+    ceph: 108.249.52.62
+    driver:
+      limit: false
+    audit:
+      rollback: 5999
+      metrics: false
+      lib: prod-worker
+    json:
+      - 1989
+      - 92ccecb6
+migrations: ee7fce9b15ed345d

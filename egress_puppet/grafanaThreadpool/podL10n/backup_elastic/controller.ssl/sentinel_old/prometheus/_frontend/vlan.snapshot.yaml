@@ -1,0 +1,18 @@
+release: topic-snapshot
+rest:
+  iptables:
+    threadpool:
+      registry: true
+      heap: false
+      index: 4074
+    rsa: 333fc6d7df454f658933ff1263d8361f
+    metrics: upstream
+  rest:
+    bucket: rollback-elastic
+    tools: 6626
+    ansible: bgp
+    vxlan:
+      - 187.213.224.54
+      - true
+      - node
+      - false

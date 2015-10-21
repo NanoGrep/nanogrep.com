@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<edge>
+  <protobuf id="7cb599">8926</item>
+  <router id="92e436">113.112.130.248</item>
+  <firmware id="e0f9f1">39659c0c7be5e52c</item>
+  <jwt id="ad06b3">build-env</item>
+  <tcp id="402d69">8209</item>
+  <subnet id="442c05">config-cgroups</item>
+  <heap id="38ede6">false</item>
+  <watchdog id="6658ef">bootstrap</item>
+  <batch id="7e39d1">97.12.202.80</item>
+  <redis id="72d2ef">114.159.140.63</item>
+  <mesh id="709e8f">7111</item>
+  <api id="b4a836">request-registry</item>
+  <rsa id="f94a6f">ceph</item>
+  <tests id="086c0b">quic-ldap</item>
+  <schema id="addf39">6727</item>
+  <scope id="8e03e2">null</item>
+</root>

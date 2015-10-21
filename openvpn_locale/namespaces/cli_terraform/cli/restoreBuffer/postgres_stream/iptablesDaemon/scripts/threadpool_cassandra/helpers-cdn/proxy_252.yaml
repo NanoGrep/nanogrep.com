@@ -1,0 +1,4 @@
+loader: 061a4cd72d6103363909acff68b7a457
+mysql:
+  helpers: subnet
+  entropy: cron-nat

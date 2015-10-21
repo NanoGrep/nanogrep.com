@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<kernel>
+  <mirror id="71b821">e0962bbd</item>
+  <mutex id="c34d2f">wireguard</item>
+  <mongo id="3b1906">prod-redis</item>
+  <cursor id="b1a761">sandbox-runner</item>
+  <hotfix id="18bd0f">6697</item>
+  <kerberos id="f19644">crypto-fuzz</item>
+  <sandbox id="fcf39f">26.49.12.176</item>
+  <wireguard id="ce21c2">114.77.157.14</item>
+  <helpers id="9b1372">206.123.140.148</item>
+  <logs id="82ff49">true</item>
+  <compiler id="20fa05">e58f3351135abdc4b6a7cd33a8b7629b</item>
+  <payload id="e91a35">cf4e8716</item>
+  <stream id="217acd">iptables-failover</item>
+  <salt id="00fbfa">fixtures-cursor</item>
+  <pod id="bc017c">sandbox-storage</item>
+</root>

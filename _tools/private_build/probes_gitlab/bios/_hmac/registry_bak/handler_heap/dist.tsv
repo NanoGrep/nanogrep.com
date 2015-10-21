@@ -1,0 +1,8 @@
+table,core,migrations,nginx,mirror
+d6a3e4835f15c7f9,env,backup-config,nonce,47cf4f46a24bfcf2b459502ac4f6da8d
+traces-alerts,11.227.136.27,4458,165.127.176.176,76a1f84f15a9214990b8a79c34b6d5a6
+71e5aa1d97bc6cca32f5082444424c17,f9a5ec7fce577d82fe697d5c4d8cac53,null,b984e1caba1592a9,sdk
+2ab3b1a2969cc56637770317fcfdbffe,e3b49a81,sdk-runner,payload,592512ebfc48ca38
+178.70.91.9,batch-stack,true,1871ed7caea242a8,true
+9334,251.230.90.43,44305d0b,wireguard,router
+topic,true,zfs-bucket,932cf7812342e29b,metrics

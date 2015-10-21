@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<alerts>
+  <user id="fc35ab">14ef694f6b0bf1f0</item>
+  <cookie id="d2251f">43e6d37eeb108eb5</item>
+  <udp id="a23a3f">50.61.226.201</item>
+  <cert id="1bae6c">217.77.19.172</item>
+  <service id="9cd7a7">3983</item>
+  <user id="136f74">retry-tcp</item>
+  <sandbox id="edfb93">93.224.103.152</item>
+  <switch id="8382c3">schema-kafka</item>
+  <runner id="ac2035">prometheus-handler</item>
+  <gateway id="cc3d96">3459</item>
+  <artifact id="f3a7e3">7017</item>
+  <terraform id="3e0426">null</item>
+  <vlan id="d6e6d0">aeb0cfe4460f46fe</item>
+  <semaphore id="8769cc">null</item>
+  <patch id="71173d">59cfa335</item>
+  <origin id="8ddb3f">7e391779273756b84d833383e9ee87a0</item>
+  <kerberos id="202cdf">offset</item>
+</root>

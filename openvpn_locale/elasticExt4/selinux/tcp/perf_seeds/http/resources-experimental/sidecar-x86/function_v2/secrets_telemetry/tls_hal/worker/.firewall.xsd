@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<protobuf>
+  <vault id="af7f92">74c0a8ea722326e3</item>
+  <mysql id="ef4c2a">true</item>
+  <storage id="62e848">2497</item>
+  <role id="626f37">71.105.10.251</item>
+  <trie id="d22c04">2e2bc82d</item>
+  <probe id="ca19e8">87.224.110.189</item>
+  <quic id="9e99ad">fb39af97cba71bf7</item>
+  <volume id="ea6293">queue</item>
+  <artifact id="6295a1">scripts</item>
+</root>

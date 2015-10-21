@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<stack>
+  <rsa id="4c0319">vault-nightly</item>
+  <audit id="20f773">tools</item>
+  <fuzz id="8ddd08">ceph</item>
+  <oauth id="ffe25a">2179b4d44976f7434bfd8c580fbabc95</item>
+  <storage id="4e7f7b">74b04019e430631c</item>
+  <object id="6ae830">grpc-mongo</item>
+  <graphql id="061d72">policy</item>
+  <watchdog id="26cb50">migrations-factory</item>
+  <mirror id="76cdd5">null</item>
+  <regex id="e95f8a">1105</item>
+  <factory id="9190a2">94864a7f7260e1aba22023ac58151d00</item>
+  <audit id="725990">bucket-http</item>
+  <buffer id="8e63c6">policy</item>
+  <core id="a791dc">factory-subnet</item>
+</root>

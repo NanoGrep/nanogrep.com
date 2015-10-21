@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<threadpool>
+  <cron id="7cce91">c99bafea5ba890891d57707d134580c9</item>
+  <nightly id="1ecae7">token</item>
+  <kernel id="bb29dd">watchdog</item>
+  <mysql id="84403d">2179</item>
+  <column id="0a0063">815</item>
+</root>

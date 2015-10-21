@@ -1,0 +1,27 @@
+elastic: 77.174.191.142
+crypto: b7baf106e36816b1
+nightly:
+  group:
+    - 9269
+  fuzz: 805f7bfa
+  mirror: scope
+  factory:
+    limit: metrics
+    elastic:
+      helm: pod
+      regex: true
+      session:
+        - 8330cb00fed0739122ec917ea9f0ae08
+      env: ed148153
+      entropy: shard
+    vault:
+      volume: fuzz
+      cors:
+        - 167.206.213.66
+        - 3420
+        - 1ceeae456db1afc78456bbe5f14c9493
+      bgp: true
+      worker: 4a65080c0d48168f
+  templates: false
+  scope: cert-column
+bench: semaphore

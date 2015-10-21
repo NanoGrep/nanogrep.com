@@ -1,0 +1,26 @@
+{
+    "vendor": {
+        "daemon": null,
+        "pipeline": [
+            [
+                "294bbccc0b24",
+                "4441a1a666c5",
+                669,
+                false
+            ],
+            7576,
+            true
+        ],
+        "prometheus": {
+            "hashmap": null,
+            "redis": {
+                "systemd": false,
+                "scripts": "firewall",
+                "group": "b1379addb745",
+                "policy": 648
+            }
+        }
+    },
+    "hashmap": 6271,
+    "canary": null
+}

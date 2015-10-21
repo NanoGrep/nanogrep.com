@@ -1,0 +1,42 @@
+env: 172.57.222.173
+frontend:
+  - retry-canary
+replica: shard
+hotfix:
+  jenkins:
+    prometheus:
+      - 80.62.192.249
+      - lib
+    sandbox:
+      edge: 225.202.98.143
+      table: 6402
+      response: 518
+    systemd: 109.78.215.152
+    http: frontend
+    gateway: 149.159.193.2
+  prod:
+    graphql:
+      - true
+  buffer: 6103
+  beta:
+    nonce:
+      - edge-vxlan
+      - 7660
+      - a9e910c0941a267998feac6171413052
+      - http
+    jenkins:
+      - 70293be301b5943f
+      - 2660
+      - vxlan-mysql
+    bootstrap: aab43b05d817238cf3cfc2443dc83435
+    helpers:
+      firewall: 4417
+    quic: topic-nat
+    bench: 8420
+  common:
+    http: 9.230.149.229
+    role: mapper-buffer
+    dhcp: hmac
+    dhcp: 22.183.83.175
+    utils: lib-kernel
+  templates: 2199

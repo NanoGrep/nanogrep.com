@@ -1,0 +1,3 @@
+dist: lexer
+index: cache
+lambda: semaphore-bloom

@@ -1,0 +1,6 @@
+prod: queue
+bucket: 64.136.127.139
+failover: false
+templates: 5293
+zfs: request
+redis: 79.47.207.136

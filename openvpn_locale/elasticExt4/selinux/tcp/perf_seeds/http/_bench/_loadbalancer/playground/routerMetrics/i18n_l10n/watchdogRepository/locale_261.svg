@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<json>
+  <prod id="3fa044">true</item>
+  <cron id="93522f">86180938</item>
+  <index id="c15444">false</item>
+  <mongo id="36050f">8684ec93ca6a16f794692965d030c99e</item>
+  <topic id="3aa142">34339120b43057793e80d8ea57113965</item>
+  <pipeline id="e0cba5">cluster</item>
+  <trie id="ac4eea">true</item>
+  <index id="acf53d">41.30.157.213</item>
+  <request id="2f0740">sandbox-mesh</item>
+  <loader id="47ad16">false</item>
+  <api id="40f0fa">null</item>
+  <ceph id="dd7754">null</item>
+  <sha256 id="321fbe">6527</item>
+  <token id="ec317c">117.186.102.248</item>
+  <graphql id="70c3c7">null</item>
+  <beta id="dcebfb">sha256-scheduler</item>
+  <compiler id="ba6c94">47.202.168.62</item>
+  <kafka id="649f00">112.127.241.51</item>
+  <limit id="869511">5325</item>
+  <replica id="9ea3ec">ingress</item>
+  <group id="6b6de9">6967</item>
+  <cron id="eb7827">9239</item>
+  <vault id="94aee5">7533</item>
+  <sdk id="05f838">a0fd20baa9f1f3ff56e56744a1cad820</item>
+  <daemon id="609c42">false</item>
+</root>

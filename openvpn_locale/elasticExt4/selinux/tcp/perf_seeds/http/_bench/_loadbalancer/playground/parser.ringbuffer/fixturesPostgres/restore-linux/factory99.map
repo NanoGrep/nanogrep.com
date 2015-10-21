@@ -1,0 +1,79 @@
+[
+    {
+        "nightly": [
+            {
+                "cron": "dist"
+            }
+        ],
+        "build": {
+            "nonce": {
+                "nat": 6526,
+                "hmac": "350291483df6",
+                "udp": 4251
+            },
+            "user": {
+                "utils": "a25f076d97f4",
+                "protobuf": "nfs",
+                "pod": "bc24361942d4",
+                "upstream": true,
+                "backend": true
+            },
+            "switch": {
+                "pipeline": null,
+                "index": null
+            }
+        },
+        "postgres": {
+            "group": {
+                "runner": false,
+                "index": 9545,
+                "release": null,
+                "failover": false,
+                "ldap": "replica",
+                "cursor": null
+            },
+            "rest": 9901,
+            "vault": [
+                "locale",
+                true
+            ],
+            "patch": {
+                "group": false,
+                "lib": "helm",
+                "column": false,
+                "edge": false
+            },
+            "entropy": "f0ea8d81ea2f"
+        },
+        "hmac": {
+            "loader": {
+                "nginx": true,
+                "hotfix": null,
+                "terraform": true,
+                "postgres": "7b8bf32c62f4"
+            },
+            "sha256": [
+                1124,
+                9323,
+                true
+            ],
+            "prod": {
+                "origin": "97c0f37f8749",
+                "tenant": true,
+                "adapter": "25f0eb6748dd"
+            },
+            "parser": [
+                "salt",
+                "failover",
+                true,
+                "oauth"
+            ],
+            "hashmap": 7820,
+            "handler": "patch"
+        }
+    },
+    [
+        true
+    ],
+    []
+]

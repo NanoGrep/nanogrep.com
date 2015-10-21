@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<pipeline>
+  <sandbox id="cc8931">2c089603</item>
+  <column id="9f771a">postgres</item>
+  <factory id="c98a5c">true</item>
+  <switch id="7ff1f7">true</item>
+  <scheduler id="a579dd">scheduler</item>
+  <fuzz id="e68903">cookie</item>
+  <fixtures id="8f2d89">1a36fd358f2f0d6b</item>
+  <firmware id="a89e2a">151.171.211.71</item>
+  <row id="91fced">fuzz</item>
+  <role id="d0b899">terraform-replica</item>
+</root>

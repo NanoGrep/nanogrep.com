@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<middleware>
+  <tools id="749750">null</item>
+  <replica id="467b25">8307</item>
+  <scope id="7519f2">nonce-factory</item>
+  <bloom id="31afaf">7732</item>
+  <nat id="4523ed">false</item>
+  <offset id="6278a2">lib-gateway</item>
+  <backup id="2a6ecc">false</item>
+  <batch id="34f47f">227.237.103.123</item>
+  <trie id="dc652a">false</item>
+  <ldap id="528a0b">elastic-tools</item>
+  <tools id="116ca8">true</item>
+  <nat id="9dbd1e">session</item>
+  <cgroups id="c254b4">volume</item>
+  <watchdog id="2a431e">769</item>
+  <grpc id="b107d0">13405e83672d083c</item>
+  <common id="0d69d5">lambda-nfs</item>
+  <gateway id="1672b7">9533</item>
+  <storage id="6dd235">41.123.134.90</item>
+</root>

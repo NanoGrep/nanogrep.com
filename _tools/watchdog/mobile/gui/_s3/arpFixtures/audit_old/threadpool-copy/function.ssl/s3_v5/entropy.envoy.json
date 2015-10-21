@@ -1,0 +1,13 @@
+{
+    "grafana": 1310,
+    "jenkins": {
+        "snapshot": {
+            "patch": [
+                null
+            ],
+            "envoy": {
+                "kafka": "a31e521b501c"
+            }
+        }
+    }
+}

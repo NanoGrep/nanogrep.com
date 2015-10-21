@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<mesh>
+  <nat id="f799a0">fixtures-ansible</item>
+  <request id="f5b6c6">8991</item>
+  <quic id="b8a47a">dist-staging</item>
+  <rest id="231903">schema</item>
+  <common id="22968d">rollback-kerberos</item>
+  <proxy id="142a8c">migrations-dist</item>
+  <bucket id="aaab81">false</item>
+  <btree id="fcb644">false</item>
+  <heap id="471d24">zfs</item>
+  <fuzz id="246782">22019add</item>
+  <protobuf id="8da96d">iptables</item>
+  <loader id="6607f6">6c93ed51cea72e9d</item>
+  <mongo id="303fe0">c212d3791e1ffd810b3362f8e64f7cfa</item>
+  <response id="c5ff86">6786</item>
+  <lambda id="2e491c">2251</item>
+  <semaphore id="5ab683">queue</item>
+  <btree id="975931">59.39.61.212</item>
+  <pipeline id="cd879f">beta-iptables</item>
+  <parser id="f19b12">37.17.219.254</item>
+  <watchdog id="d8636e">true</item>
+  <origin id="09e832">bootstrap</item>
+  <firewall id="3c36f4">8159</item>
+  <ansible id="847805">9d6c060e</item>
+  <lib id="3ab6a4">salt-mongo</item>
+</root>

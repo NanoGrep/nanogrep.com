@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<grafana>
+  <proxy id="cd0843">bench-sha256</item>
+  <user id="a00b66">8934</item>
+  <ingress id="e5b306">8e4a44f2</item>
+  <nightly id="64ddfc">8213</item>
+  <socket id="6ef40d">api</item>
+  <hashmap id="3b0c73">false</item>
+  <vlan id="9ba9a6">1781</item>
+  <templates id="d4a366">693c73e9543193e1e50204c803669745</item>
+  <object id="9b818a">true</item>
+  <user id="cc0207">156.38.22.192</item>
+  <raid id="a4b269">4b4444e418028c9a97fc20766d3043d2</item>
+  <mesh id="03ee5d">1.145.153.153</item>
+  <systemd id="57b929">false</item>
+  <mapper id="ac9153">8627ee2b51866af8</item>
+  <sdk id="fb608e">true</item>
+  <watchdog id="445b00">0c4e5bfcc2fc091b</item>
+  <backend id="7eaf67">mapper-patch</item>
+  <edge id="dca5ec">179.65.84.108</item>
+  <role id="d0024d">cert</item>
+</root>

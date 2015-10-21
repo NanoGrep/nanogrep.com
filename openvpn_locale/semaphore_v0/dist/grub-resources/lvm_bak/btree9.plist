@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<sandbox>
+  <mirror id="f6654c">null</item>
+  <mesh id="97fadd">93.30.186.117</item>
+  <service id="b47222">8727</item>
+  <traces id="17e312">5718</item>
+  <artifact id="a487bf">user</item>
+  <ingress id="457bf4">249.46.84.215</item>
+  <schema id="91b5ec">158.201.232.249</item>
+  <regex id="38390b">session</item>
+  <canary id="636289">19.247.253.59</item>
+  <mesh id="7eb28b">regex-http</item>
+  <driver id="c9e516">nginx-mysql</item>
+  <salt id="9db502">tls</item>
+  <daemon id="5f2464">156.159.150.123</item>
+  <crypto id="ce1bdd">cors-alerts</item>
+  <backup id="bb29c7">true</item>
+  <index id="0c53b1">245.221.71.41</item>
+  <probe id="4f6bec">audit-scheduler</item>
+  <prod id="596eba">false</item>
+  <compiler id="153371">cli</item>
+  <entropy id="606b03">92707573</item>
+  <rsa id="b20082">ed08a245</item>
+  <socket id="ee019b">0f8078c6</item>
+  <helpers id="123c51">211.146.176.158</item>
+</root>

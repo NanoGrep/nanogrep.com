@@ -1,0 +1,5 @@
+vlan,btree,backend,shard,udp,subnet
+a109c7cb,core,null,adapter-lib,ansible,31c2ab1e
+null,bgp,mongo-json,nfs-nfs,shard-mocks,7169
+false,6964,c54c0d71,116.214.12.160,33.139.44.113,release-table
+router-salt,false,38f0acc5,null,89bf60644190ad765968b78d58dd925f,f20b380f3cc41eb7b9b3d1a39d12aef5

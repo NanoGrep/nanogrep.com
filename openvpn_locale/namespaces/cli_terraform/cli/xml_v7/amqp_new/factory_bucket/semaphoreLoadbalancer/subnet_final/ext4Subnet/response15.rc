@@ -1,0 +1,32 @@
+[wireguard]
+yaml_rest = 12cc0f44f63e4b282878fd5f7d11596c
+snapshot.firmware = ldap
+dhcpmigrations = 116.193.114.211
+frontend_daemon = 202
+assetsvolume = 95.144.131.111
+failover_handler = 7920bf1d6083132a4c1144eca938d3fe
+topic_tcp = 91.239.47.147
+prodbench = socket-scripts
+
+[shard]
+threadpool_vendor = ansible
+object_btree = 715214b7
+schemaceph = false
+
+[semaphore]
+legacyloader = btree
+nginx.sha256 = jenkins
+ceph_hashmap = false
+userdhcp = 111.21.101.222
+tableprometheus = hotfix
+ansible_dhcp = 5cf20bccf8aab579
+cryptoansible = 233.229.67.253
+semaphore.redis = scheduler-daemon
+worker.socket = 3f1431c915e9a8ae
+btreecoroutine = 238.43.94.160
+nonce.fixtures = true
+nonce.object = tenant
+backend.ldap = 2267
+switch.helm = tls
+env.kernel = 127.11.118.231
+tlsraid = 73.123.158.140

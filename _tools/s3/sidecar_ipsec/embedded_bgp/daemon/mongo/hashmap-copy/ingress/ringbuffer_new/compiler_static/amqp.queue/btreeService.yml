@@ -1,0 +1,25 @@
+rollback: lambda-bench
+salt:
+  elastic:
+    - backend
+    - mysql
+    - scope-jwt
+    - 4334
+  index: ingress-role
+  threadpool:
+    vendor: 837
+    sdk: 233.183.62.123
+    assets: 239.238.200.11
+    response: 194.42.37.244
+    api:
+      kafka: 58a8ffe9b106a774
+      raid: false
+      mongo: 77.179.105.75
+      lambda: d6e6a58ae9a1e67f30eabf751c5eb1cb
+      nightly: nginx-quic
+      audit: utils
+    zfs: bloom-tools
+  crypto: 6053
+grafana: 139.53.68.74
+volume: 75.98.240.248
+cli: patch-cert

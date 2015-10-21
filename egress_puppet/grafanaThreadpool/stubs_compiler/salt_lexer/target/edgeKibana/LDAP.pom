@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<postgres>
+  <jwt id="fa6712">vendor-retry</item>
+  <backend id="cf7bbe">32.6.36.126</item>
+  <mongo id="4e0332">volume-worker</item>
+  <logs id="ae511e">prometheus-stream</item>
+  <kafka id="4bcc4e">true</item>
+  <heap id="e1e100">null</item>
+  <controller id="f8181a">34.200.130.117</item>
+  <nonce id="05bdcb">eb909c9736ae4f30d400b6ae8113a35c</item>
+  <tls id="36c22c">826608d97467f145</item>
+  <traces id="7ae44e">group</item>
+  <shard id="a70fb9">3073</item>
+  <alerts id="3eabeb">audit-policy</item>
+  <nfs id="03f311">9403</item>
+  <helpers id="8c027e">267</item>
+  <nat id="5f4ef9">235.179.187.198</item>
+  <driver id="87bd4a">579c2211</item>
+  <bootstrap id="7b67c9">2b8409c28724167b509349d1aabb4f31</item>
+  <build id="89a465">zfs</item>
+  <mesh id="8b09b0">1120</item>
+  <raid id="cb5f99">backup</item>
+  <firmware id="232607">middleware-beta</item>
+  <udp id="469dc2">router-daemon</item>
+  <migrations id="046c01">config</item>
+</root>

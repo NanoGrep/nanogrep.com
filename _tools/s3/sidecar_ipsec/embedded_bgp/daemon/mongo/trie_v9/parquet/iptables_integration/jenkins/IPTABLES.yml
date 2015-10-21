@@ -1,0 +1,30 @@
+mesh:
+  mysql: 97.175.92.75
+  lexer:
+    bucket: 6987
+    beta: true
+    payload: table
+    systemd:
+      factory: batch-nat
+    factory: e711b0d7b772750e
+    helpers:
+      common: bucket
+      vendor: 50.174.106.37
+      migrations: shard
+      worker: fbacef658d1037ea
+      btree: legacy
+      adapter: 732f6b95be753076213ec7447fdf28ad
+  templates:
+    crypto: false
+    vault: nat-mysql
+    sdk:
+      release: 2807
+      stream:
+        - false
+        - ldap
+        - mapper-cluster
+  role: jwt-crypto
+  artifact:
+    node: 5.94.86.114
+  helm: 81.62.56.190
+semaphore: 2fcebc1f2dd70d95ecc66d5372be5819

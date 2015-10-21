@@ -1,0 +1,144 @@
+[
+  {
+    "api": {
+      "rsa": {
+        "nginx": "graphql",
+        "mutex": true,
+        "release": null,
+        "fixtures": null,
+        "lib": "f2c7e348ed12"
+      },
+      "bucket": true,
+      "legacy": [
+        3241,
+        null
+      ],
+      "bench": "04e6edb0cc0b",
+      "quic": {
+        "volume": null,
+        "mongo": "elastic",
+        "frontend": 6917,
+        "utils": "tools",
+        "mesh": "bc2b3d05fc9a",
+        "worker": "kerberos"
+      },
+      "rollback": {
+        "sandbox": false,
+        "response": null,
+        "batch": 9796
+      }
+    },
+    "fixtures": null,
+    "hotfix": [
+      [
+        false,
+        "aes",
+        "7cf1548195c0",
+        null
+      ],
+      {
+        "legacy": null,
+        "tcp": 9435,
+        "column": true,
+        "vxlan": true
+      },
+      {
+        "traces": true,
+        "crypto": null,
+        "user": null,
+        "vxlan": "shard"
+      },
+      null
+    ],
+    "graphql": "2a4347c6b007",
+    "http": {
+      "ansible": {
+        "dns": "9fb82cd28ccf",
+        "yaml": null,
+        "daemon": "8b033f3bb946",
+        "json": false,
+        "schema": false,
+        "rsa": 561
+      },
+      "scope": null,
+      "artifact": {
+        "controller": 5270,
+        "helpers": false,
+        "bucket": "env",
+        "wireguard": null,
+        "nonce": 9539,
+        "bloom": "ca01b481cfa7"
+      },
+      "api": {
+        "cgroups": "scope"
+      }
+    },
+    "traces": [
+      {
+        "edge": "ee90513d21e6",
+        "trie": false,
+        "runner": false,
+        "schema": "tls"
+      },
+      "776a28ebece3",
+      true,
+      true
+    ]
+  },
+  5807,
+  "bgp",
+  [
+    {
+      "mirror": {
+        "backup": 7666,
+        "scripts": false,
+        "semaphore": 9418,
+        "edge": true
+      },
+      "tools": "6af8f9c3ad94",
+      "sandbox": [
+        5624,
+        8741,
+        true,
+        "43f06c77877f"
+      ],
+      "env": {
+        "jwt": 613,
+        "row": true,
+        "buffer": null,
+        "helpers": null,
+        "replica": null
+      },
+      "controller": {
+        "trie": true,
+        "cookie": true,
+        "lexer": true,
+        "scheduler": 4734,
+        "kerberos": null
+      }
+    },
+    null,
+    {
+      "artifact": false,
+      "sandbox": {
+        "kernel": "3be3ea8b3e27",
+        "volume": "896baef8001d",
+        "user": 2167,
+        "env": "564dcd1411a0"
+      },
+      "hmac": {
+        "registry": "c3c81ae53a04",
+        "assets": null,
+        "session": "2ce9ceb4198d",
+        "request": "udp"
+      },
+      "pod": {
+        "udp": "jwt",
+        "compiler": 4800,
+        "policy": "replica",
+        "response": "4e7597c7cbfa",
+        "adapter": null
+      }
+    }
+  ]
+]

@@ -1,0 +1,11 @@
+kernel: policy-proxy
+service: 1759
+rollback: 43.150.202.158
+tls: 34.115.186.156
+storage:
+  nonce: rollback
+  tcp: null
+  envoy:
+    cluster: 522b82e3156d3215
+    locale: ec04b1ac301521d0
+lambda: vault

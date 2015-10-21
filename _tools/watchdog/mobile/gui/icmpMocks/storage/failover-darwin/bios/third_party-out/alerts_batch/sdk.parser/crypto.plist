@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<logs>
+  <envoy id="7d143a">45efb4ea</item>
+  <lexer id="44396e">null</item>
+  <firewall id="69f5e0">4175</item>
+  <salt id="9d0daf">systemd-cron</item>
+  <cli id="9fc3f4">trie-ldap</item>
+  <firewall id="ad19bd">mapper</item>
+  <helpers id="e2c460">false</item>
+</root>

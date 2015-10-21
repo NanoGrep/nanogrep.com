@@ -1,0 +1,19 @@
+btree: true
+lexer: 9257
+redis:
+  tenant:
+    canary: 2807
+    gateway: 286
+    stream:
+      - 9489
+      - storage-shard
+      - dhcp-graphql
+    rsa:
+      - 26651f0ad13787cd
+      - helpers
+    release: stack-worker
+  table: 9244
+  mutex: false
+  lexer: 3b0e2582
+  runner: 109.32.170.113
+request: 162.52.189.218

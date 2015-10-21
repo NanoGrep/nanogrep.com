@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<tests>
+  <backup id="9d8486">lexer</item>
+  <api id="fc2834">bgp-crypto</item>
+  <role id="2a98f4">firmware-index</item>
+  <rsa id="c5e2f3">daemon</item>
+  <vendor id="6cab83">tools</item>
+  <subnet id="183df2">null</item>
+  <zfs id="d18652">d6906e86002baf4afe00566f3144d8f3</item>
+  <mirror id="346325">null</item>
+  <rest id="02ccb8">e7e78d991e8d1bc4fd79d2d8b34a63be</item>
+  <http id="637e0c">21ad8a9aba7bdb8c</item>
+  <payload id="7154b1">ff95f3aa7d07e7d7e77738a297d600ff</item>
+  <worker id="249168">8124</item>
+  <cli id="ab2f7f">false</item>
+</root>

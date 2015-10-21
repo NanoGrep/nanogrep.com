@@ -1,0 +1,93 @@
+{
+  "trie": {
+    "snapshot": {
+      "frontend": true,
+      "factory": 8037,
+      "release": {
+        "nfs": false,
+        "limit": null,
+        "kafka": 3131,
+        "mesh": 7473,
+        "traces": 5283,
+        "stack": 1340
+      },
+      "tenant": "stack",
+      "vault": "ce6322c5266f",
+      "cors": "index"
+    },
+    "shard": [
+      []
+    ],
+    "canary": [
+      "c98908c73cda",
+      "core"
+    ],
+    "nfs": [
+      "ca34a378ff2d",
+      [
+        null
+      ]
+    ],
+    "threadpool": {
+      "proxy": null,
+      "mocks": {
+        "templates": "bgp"
+      },
+      "volume": {
+        "raid": null,
+        "table": true,
+        "snapshot": null,
+        "cert": "mesh",
+        "canary": "helm"
+      },
+      "coroutine": null
+    }
+  },
+  "dns": {
+    "grafana": {
+      "semaphore": {
+        "graphql": null,
+        "migrations": 4602,
+        "common": true,
+        "storage": "1e206af76d18",
+        "cgroups": true
+      }
+    },
+    "response": [
+      {
+        "alerts": 8067,
+        "scope": null,
+        "bloom": false
+      },
+      {
+        "api": 9452,
+        "firewall": true,
+        "driver": null,
+        "router": 3283,
+        "heap": false
+      }
+    ],
+    "release": {
+      "backend": 7324
+    },
+    "middleware": "d1ce2bec776f",
+    "mirror": {
+      "salt": {
+        "stream": "c674ed83c7c5",
+        "build": true,
+        "mesh": true,
+        "offset": 6446,
+        "driver": "9425806397c4"
+      },
+      "entropy": true,
+      "storage": {
+        "router": "udp"
+      },
+      "helm": "72c58fe6ec27",
+      "zfs": {
+        "subnet": false,
+        "probe": "semaphore"
+      }
+    }
+  }
+}

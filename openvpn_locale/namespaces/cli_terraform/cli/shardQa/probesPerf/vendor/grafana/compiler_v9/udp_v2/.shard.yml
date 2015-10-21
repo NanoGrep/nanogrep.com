@@ -1,0 +1,5 @@
+traces: true
+jenkins:
+  - 643
+  - true
+  - jenkins

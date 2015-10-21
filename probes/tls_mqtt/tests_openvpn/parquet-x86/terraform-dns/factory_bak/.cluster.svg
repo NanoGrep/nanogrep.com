@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<udp>
+  <locale id="a8a702">build</item>
+  <iptables id="e448a5">6783</item>
+  <nat id="ea7787">vxlan-rsa</item>
+  <protobuf id="0f774f">165.56.7.64</item>
+  <aes id="d4470b">true</item>
+  <canary id="3657d9">4fbafcc6</item>
+  <assets id="a20f83">954</item>
+  <request id="9b6396">cluster</item>
+  <utils id="dd764d">volume</item>
+  <policy id="d8c87d">30.136.113.150</item>
+  <utils id="db4e2b">false</item>
+  <origin id="d898d2">84.159.205.227</item>
+  <payload id="e34d6e">221.215.195.225</item>
+</root>

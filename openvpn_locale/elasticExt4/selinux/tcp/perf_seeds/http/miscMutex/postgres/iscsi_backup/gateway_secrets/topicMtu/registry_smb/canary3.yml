@@ -1,0 +1,27 @@
+oauth:
+  origin:
+    - 4566
+    - false
+  jwt: c717b40f8d9f0a19f390135ad977cea5
+tls: false
+role:
+  cache: 3964
+  regex:
+    websocket:
+      raid: da89a4736544e1a1
+      hotfix: 1ea22ba40bd604f7
+      origin:
+        - false
+        - 1204
+        - 7ad3cfb236e49190a059019b4aa78764
+        - dhcp-prod
+    proxy:
+      controller: c7152e2b448e2b9f
+      core: hashmap-switch
+      cookie: b24c1ffb164613c7
+      hmac: true
+      helm: 166.93.5.197
+      node: oauth-prod
+  grpc: null
+  scope: rsa
+  retry: 115.184.43.95

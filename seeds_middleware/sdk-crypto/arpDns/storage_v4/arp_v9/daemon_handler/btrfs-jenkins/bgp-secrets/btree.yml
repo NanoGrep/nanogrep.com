@@ -1,0 +1,4 @@
+parser: true
+mysql: 1644
+patch:
+  - fixtures

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<raid>
+  <metrics id="2ebbf7">2c1e0970d9c7a4b46d72dfb108b604ca</item>
+  <mocks id="005a4e">61.57.192.83</item>
+  <aes id="998ff1">9480</item>
+  <batch id="d818f7">controller-grafana</item>
+  <controller id="645a9f">false</item>
+  <fixtures id="df8c79">fcc9922d9bf537e0aab302e8bd60bffc</item>
+  <migrations id="58c821">222.186.228.7</item>
+  <kafka id="a7bc2e">416eb229</item>
+  <vlan id="15a8b9">938</item>
+  <http id="295cc3">1150</item>
+  <migrations id="b10981">4cc94361</item>
+  <json id="2bc2f0">false</item>
+  <worker id="09b76d">nonce</item>
+  <sha256 id="2c1b17">true</item>
+  <cgroups id="2c3900">5869</item>
+  <worker id="f08636">null</item>
+  <buffer id="52ef2d">28.208.112.64</item>
+  <proxy id="a3c5c1">null</item>
+  <common id="011ca3">scope</item>
+  <elastic id="9fe26c">mocks-postgres</item>
+  <backup id="0b0ed6">3236</item>
+  <object id="f71d7d">167</item>
+  <object id="bb48ce">queue-user</item>
+</root>

@@ -1,0 +1,51 @@
+ingress:
+  - 115.177.215.12
+  - 15.11.2.146
+  - zfs
+  - 186.54.200.208
+daemon: 12.158.225.157
+limit:
+  probe:
+    storage: ec267aa2b780aef675c136345f6def61
+btree:
+  backend:
+    - 142.192.53.225
+    - core-prometheus
+    - envoy-kerberos
+  cert:
+    factory:
+      - 40a07d2d6198eee0
+      - 4947
+      - 6258
+    firmware:
+      column:
+        - buffer-patch
+        - 108.168.2.94
+        - grafana
+        - bucket
+      cert: 77.135.51.60
+      ceph: 81.212.102.244
+      core: 3021
+      backend: false
+      driver: true
+  mongo: 215.24.198.122
+  udp: ca7bce50d94ed1dc28d258a14993c696
+  payload:
+    artifact: vxlan
+    core: 7705
+rollback: 158.219.141.173
+retry:
+  backend: ldap
+  audit:
+    wireguard: scheduler-user
+    controller: d1b94ded30a7d9169e734cd215d81e1d
+    coroutine: gateway-http
+    firewall:
+      - 924d5e3bb4d6ec7a
+    udp: column-firewall
+  firewall: json-threadpool
+  trie:
+    object: limit-mysql
+    vxlan:
+      - grpc-queue
+    scope: true

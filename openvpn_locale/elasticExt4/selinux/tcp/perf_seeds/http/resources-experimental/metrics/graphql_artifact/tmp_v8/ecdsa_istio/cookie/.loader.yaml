@@ -1,0 +1,30 @@
+scheduler: 166.146.5.179
+hashmap: 6a06240a
+pod:
+  - true
+  - 2836
+audit:
+  schema: true
+  pod: jenkins
+  compiler:
+    firewall: 8075
+    scheduler:
+      cookie:
+        - config-registry
+      failover:
+        - volume
+      session: scripts
+      heap:
+        - 1419
+        - 92aed23337dbe6bc
+        - stack
+      shard: graphql
+      pipeline:
+        - shard
+  helpers: rsa-batch
+  registry:
+    - 200.216.195.99
+    - 4999
+    - middleware
+    - release-request
+factory: hotfix-firewall

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<cli>
+  <graphql id="b64f9c">policy</item>
+  <user id="fd6c16">df5b3e1b3707ad2b</item>
+  <role id="0413e6">206.130.77.225</item>
+  <nightly id="967a17">95f7d178</item>
+  <group id="0c80ff">248.20.248.245</item>
+  <hotfix id="2e1afb">ansible-tenant</item>
+  <payload id="4f29ce">lexer-cgroups</item>
+  <controller id="d75193">handler-legacy</item>
+  <ingress id="d05e6b">true</item>
+  <group id="aa8df8">build-subnet</item>
+  <watchdog id="58c713">scripts-hashmap</item>
+  <ansible id="8bc418">38.113.22.127</item>
+  <oauth id="0387f3">3b756091</item>
+  <sdk id="bec83b">48b66e83d7b0c225</item>
+  <nightly id="b39023">7960</item>
+  <snapshot id="a6c807">8409</item>
+  <shard id="9b2795">80.69.243.242</item>
+  <config id="676aa7">4050</item>
+  <tests id="507e14">null</item>
+  <compiler id="c6100d">mapper-cluster</item>
+  <mesh id="b1b941">true</item>
+  <trie id="09676b">5342</item>
+  <ldap id="837e5f">90287ebebf58ae18</item>
+  <systemd id="28f4a0">211.230.148.139</item>
+</root>

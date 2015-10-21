@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<envoy>
+  <frontend id="b39ce4">row-sdk</item>
+  <migrations id="deac3e">eb9e7044d0cd68fbefe44ab4776a1d34</item>
+  <mocks id="e04d6a">e83dee2d</item>
+  <upstream id="98abc5">38.189.116.234</item>
+  <vault id="dfbe4f">2830</item>
+  <tcp id="f67b0e">95.93.22.163</item>
+  <service id="3180f5">rest</item>
+  <mongo id="6c5deb">cron</item>
+  <replica id="bcb9a2">5f93ddd12f15acaaf717f9a47e5f7e14</item>
+  <jenkins id="e7d918">e6ce374207440ad1cd4fa8127415be30</item>
+  <nat id="15950b">bccfe09d</item>
+  <udp id="74fbd8">alerts-backend</item>
+  <cli id="eb6d74">cors</item>
+  <router id="771c0f">bloom</item>
+  <salt id="2bdcff">false</item>
+  <sandbox id="a9021f">false</item>
+  <service id="3f2754">7247</item>
+  <cluster id="ebe34f">196.98.235.78</item>
+  <heap id="08d9e3">4900</item>
+  <role id="d65772">546</item>
+  <coroutine id="114b80">5681</item>
+  <semaphore id="c239a9">5134</item>
+</root>

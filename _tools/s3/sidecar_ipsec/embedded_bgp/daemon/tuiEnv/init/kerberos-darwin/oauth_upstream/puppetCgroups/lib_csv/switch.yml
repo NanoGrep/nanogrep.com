@@ -1,0 +1,32 @@
+build: null
+tools: 6163
+prometheus: 6078
+nat:
+  controller:
+    node:
+      - 92.105.144.80
+      - 7575
+      - failover-request
+  release:
+    failover:
+      regex:
+        - 205.15.200.135
+      role:
+        - helm-rest
+        - tools-firewall
+      envoy: true
+    driver: 44.117.91.214
+    prod: null
+    coroutine: 216.91.63.251
+    stream:
+      dhcp: rsa-fixtures
+      trie:
+        - frontend-origin
+        - 78.103.150.211
+        - 0db027c540e9e995
+        - artifact
+      envoy: true
+      sdk: policy-rollback
+      lambda: stack-bootstrap
+      oauth: 29.70.186.175
+  offset: aa7605fa6e20ade37e136ba9afbb5408

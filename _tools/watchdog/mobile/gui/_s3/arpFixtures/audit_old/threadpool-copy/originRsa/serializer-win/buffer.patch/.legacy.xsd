@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<scheduler>
+  <factory id="fd78a7">1042</item>
+  <pod id="c4eacf">86a3ad6994b5b120</item>
+  <scripts id="5f9bc5">false</item>
+  <policy id="410da8">0ad8219caa249b66c8a74a7ca7cbfabc</item>
+  <bgp id="286807">prometheus</item>
+  <proxy id="0334af">false</item>
+  <worker id="293fb5">73.109.227.27</item>
+  <snapshot id="35f23c">9181</item>
+  <adapter id="17c48e">102.198.100.164</item>
+  <iptables id="23110f">100.33.72.79</item>
+  <cron id="3e26a3">197.87.206.162</item>
+  <cache id="f0afc0">156.21.93.3</item>
+  <rollback id="d199ad">false</item>
+  <batch id="efd05c">false</item>
+  <controller id="cf6e16">971</item>
+  <http id="b8ede1">225.202.68.216</item>
+  <buffer id="963716">3367</item>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<vlan>
+  <adapter id="46cf35">true</item>
+  <zfs id="d1ec17">f4d2f3ef534cf56220b3820334266f27</item>
+  <policy id="421f92">6521</item>
+  <elastic id="c4b2b2">1047</item>
+  <bench id="338974">213.225.129.17</item>
+  <tests id="01f7d2">false</item>
+  <crypto id="ba79fb">null</item>
+  <dhcp id="f21b29">5c7cfde9</item>
+  <cgroups id="c5a41c">4f2eb41e445aa7573d980710bebea10d</item>
+  <tls id="2ac5ff">true</item>
+  <yaml id="49aaff">false</item>
+  <alerts id="d61b23">bucket</item>
+</root>

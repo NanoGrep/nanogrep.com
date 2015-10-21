@@ -1,0 +1,29 @@
+kafka:
+  role:
+    topic: iptables-cursor
+    regex:
+      migrations: 9305
+      switch: middleware-retry
+      edge: switch-backup
+      bench: 51595118
+      helm: 139.251.201.132
+      systemd: null
+  group:
+    coroutine: null
+    prod: volume
+    scope:
+      kafka: 70bf3a713822e42a6efcb6d570b76a6c
+      backend: 176.175.213.34
+      threadpool: 126.103.150.147
+      graphql: mqtt
+      loader: wireguard-cgroups
+      cluster: false
+  systemd: 778d2b877438419ee57fba3fd2583afe
+templates: 8386
+storage:
+  dist: assets
+  snapshot: 44.195.48.47
+  artifact: replica
+json: bloom
+cache: 194.54.249.99
+tools: traces-vlan

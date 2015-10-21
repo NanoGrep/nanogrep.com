@@ -1,0 +1,11 @@
+elastic:
+  common: 254.142.3.161
+  gateway:
+    - false
+    - token-replica
+    - false
+    - 202.53.111.20
+  vxlan: alerts
+  runner:
+    - vxlan
+    - true

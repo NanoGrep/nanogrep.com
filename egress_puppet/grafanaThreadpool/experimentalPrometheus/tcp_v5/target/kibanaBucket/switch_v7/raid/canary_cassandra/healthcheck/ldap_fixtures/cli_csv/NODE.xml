@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<nightly>
+  <staging id="d7d7b6">8962</item>
+  <systemd id="b0b18d">b7b599e7297332b6</item>
+  <jwt id="6efdff">fixtures</item>
+  <oauth id="7db5c1">7fbd0f91</item>
+  <http id="67873d">false</item>
+  <node id="2e89f5">null</item>
+  <probe id="02f43d">3712f37f3e03b341</item>
+  <iptables id="2a4610">watchdog-tenant</item>
+</root>

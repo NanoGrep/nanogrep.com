@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<core>
+  <artifact id="2925b0">5499</item>
+  <retry id="2df01b">e28a53b5</item>
+  <table id="c7e259">41416702391cd5ef59ac182ef239112d</item>
+  <kernel id="5929c6">2176</item>
+  <elastic id="646b31">cors</item>
+  <volume id="681596">json-policy</item>
+  <origin id="babdb3">7541</item>
+  <watchdog id="fca07c">877b31c2</item>
+  <utils id="eb62af">request-pipeline</item>
+</root>

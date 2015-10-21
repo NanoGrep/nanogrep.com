@@ -1,0 +1,6 @@
+ingress: 35.173.173.200
+rest: 4422
+helpers:
+  jenkins: null
+cluster: 133.77.66.233
+upstream: mocks-compiler

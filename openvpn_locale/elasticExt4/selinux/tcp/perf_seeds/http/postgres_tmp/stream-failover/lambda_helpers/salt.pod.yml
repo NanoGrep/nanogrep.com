@@ -1,0 +1,46 @@
+frontend:
+  router:
+    vendor:
+      edge:
+        - 5729
+        - dhcp
+      token:
+        - 5611
+        - false
+        - 080aa8e9e4ff20ae
+      protobuf: entropy-semaphore
+      loader: adapter-firewall
+      fuzz: 6dfee2d1
+      hotfix: a2fdbbe5fcda4730
+    stack: false
+    pod: 4127757b
+    config:
+      mocks: 170.178.174.241
+      lib: cb9136f1
+    parser:
+      hmac: 627
+      salt: null
+      cert:
+        - mirror
+        - 1020
+  backend: firewall
+  graphql:
+    logs: backup-parser
+    mqtt: 5756
+    cookie:
+      nginx: cookie
+    udp:
+      mutex: service
+      mocks:
+        - 60bd0693e90a51ec
+        - cdd247c7fd0cd3d8
+        - 5.134.235.64
+      daemon: true
+      handler:
+        - c6b3d5f5
+        - 136.103.0.97
+      entropy: kafka
+bench: beta
+cli:
+  - 7e09375c
+  - 1315

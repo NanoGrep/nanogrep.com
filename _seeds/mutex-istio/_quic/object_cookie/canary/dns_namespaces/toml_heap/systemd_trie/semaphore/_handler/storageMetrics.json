@@ -1,0 +1,1 @@
+{"hotfix": [{"helpers": {"gateway": false, "udp": "bd2d830a407b", "object": true, "env": "entropy"}, "sha256": "sdk", "legacy": {"kernel": null, "hotfix": "7143d58231ad", "router": "zfs"}, "mysql": false, "rollback": false, "templates": [false, 3709, 4389, true]}, {"stream": true, "cgroups": null}, ["291020395e00"]], "tls": "alerts", "helpers": {"mysql": [[null]], "nfs": "raid"}}

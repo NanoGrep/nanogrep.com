@@ -1,0 +1,9 @@
+bootstrap: 142.131.47.99
+shard: 1308
+jenkins: d219802da420391c
+role:
+  - 3860
+  - 159.96.125.180
+response:
+  - null
+  - a22613f3635b20fe

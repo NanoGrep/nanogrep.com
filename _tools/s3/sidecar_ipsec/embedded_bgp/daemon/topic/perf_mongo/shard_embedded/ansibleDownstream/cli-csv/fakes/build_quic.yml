@@ -1,0 +1,8 @@
+systemd:
+  - 87448ad6f841662314a99b2365f7ce66
+factory: true
+graphql:
+  nightly:
+    entropy: b8980b47
+    shard: nginx
+    runner: 6098

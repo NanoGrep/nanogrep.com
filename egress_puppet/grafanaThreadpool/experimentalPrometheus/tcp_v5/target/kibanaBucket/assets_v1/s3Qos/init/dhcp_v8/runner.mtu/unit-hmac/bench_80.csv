@@ -1,0 +1,8 @@
+grafana,failover,threadpool
+failover-staging,mongo,true
+44.225.146.252,true,volume-kernel
+1708,57.7.129.146,39.124.177.160
+grafana-kafka,e7e045218b0d4167c0634460f26abdc6,908d8d7b243c9e31e6a9e63414c4752b
+237.204.207.8,coroutine,firmware
+174.198.244.198,4724,fc67171e
+envoy,24.153.77.190,role-backend

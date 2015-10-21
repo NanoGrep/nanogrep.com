@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<vault>
+  <subnet id="c9e579">fixtures</item>
+  <mongo id="732a37">true</item>
+  <locale id="3b40b4">true</item>
+  <traces id="b4beb8">false</item>
+  <sandbox id="3f53c7">4.50.92.214</item>
+  <tcp id="28d653">391</item>
+  <trie id="87d669">true</item>
+  <mirror id="7da480">145.146.32.137</item>
+  <metrics id="a4c8f7">31f871731232b52749b7b3105c8e1a13</item>
+  <handler id="ff9cd7">policy-schema</item>
+  <prod id="2de9ea">watchdog-websocket</item>
+  <scripts id="e4a573">110299f0bffb3f22</item>
+  <systemd id="5bff9f">6.98.208.159</item>
+  <grpc id="79680e">group</item>
+  <cli id="e080dd">gateway</item>
+  <lexer id="e47efd">c41aa11536c76728</item>
+  <cors id="c82e95">4e6362d695748425ef898d6d7eb41353</item>
+  <router id="24b3e1">null</item>
+  <grafana id="d8ad0f">7023</item>
+  <alerts id="d3f425">topic</item>
+  <env id="9d99e3">28.140.14.82</item>
+</root>

@@ -1,0 +1,20 @@
+[service]
+dns_shard = false
+graphql.bucket = adapter
+scheduler_bgp = null
+common_crypto = patch
+grafana_payload = false
+token.user = 7705
+fuzzrequest = 5622
+proxy.socket = 2275
+sha256.alerts = 5131
+controller_nonce = 74.244.162.116
+quiclexer = 6519
+originmongo = envoy-middleware
+frontendcrypto = grpc-cache
+natrelease = false
+column_mysql = cert-graphql
+probe.patch = 9262
+service.beta = config
+queue_socket = true
+objectsandbox = zfs-row

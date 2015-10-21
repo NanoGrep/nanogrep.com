@@ -1,0 +1,11 @@
+gateway:
+  dns: 170.189.1.77
+  rollback: 5038
+  nonce:
+    cron: 7823ec09981dbdb7
+    api: false
+topic:
+  - 95.64.220.253
+pipeline: 7268
+hotfix: 4706
+volume: envoy

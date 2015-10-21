@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dist>
+  <subnet id="079e41">compiler-stack</item>
+  <pipeline id="a15f9d">prod</item>
+  <topic id="a6327b">snapshot-redis</item>
+  <cli id="25bacd">true</item>
+  <middleware id="93ec72">9813</item>
+  <schema id="95b690">0580e192bba80a11defe3682cb3ea079</item>
+  <policy id="9cbeb4">5729</item>
+  <rsa id="0b449c">6777</item>
+  <node id="e01f87">dns</item>
+  <salt id="27d989">request-frontend</item>
+  <service id="b56cb5">ef0fb4f08c3337ade113b5c26d524545</item>
+  <tls id="69e534">69.254.100.180</item>
+</root>

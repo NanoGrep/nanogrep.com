@@ -1,0 +1,26 @@
+[queue]
+lambda_mirror = systemd
+middlewareraid = 151.57.57.157
+subnet_bgp = 9464
+origin.firewall = c1a40637ebdb89a0
+replica.ldap = lambda-bgp
+index.schema = 1203
+bootstrap.migrations = 43.178.102.208
+adapter_grpc = null
+zfsbucket = 2463
+legacy.origin = false
+retry.alerts = beta
+grouppipeline = true
+kernellogs = 116.94.165.46
+socket.staging = 5963
+common.mirror = e909386b
+retrynonce = 0ec10b3c2f6c613b
+scheduler.scheduler = 4736
+assets.env = false
+api.column = pod-wireguard
+cli.cli = null
+cors_subnet = 37dc4949f90e9846
+
+[cursor]
+btree_storage = compiler-row
+assets.systemd = null

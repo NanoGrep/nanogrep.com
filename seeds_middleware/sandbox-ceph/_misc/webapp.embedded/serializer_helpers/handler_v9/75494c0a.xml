@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<http>
+  <schema id="d39e78">btree</item>
+  <nfs id="a3bc8e">252.195.68.21</item>
+  <rollback id="7fa25c">26.10.63.76</item>
+  <adapter id="4c3ad6">75.114.174.198</item>
+  <nightly id="3be04f">245.30.177.119</item>
+  <protobuf id="3dcc80">241.254.180.228</item>
+  <firmware id="ff7aa2">common-hotfix</item>
+  <btree id="806ec4">89.57.69.192</item>
+  <graphql id="67f87f">true</item>
+  <postgres id="e10905">1c5f996434a909ffae4584427ecbeda5</item>
+  <protobuf id="342bbf">f14dfbfa1146bceb</item>
+  <buffer id="d45e92">75.97.17.75</item>
+  <ldap id="912c30">regex-oauth</item>
+  <mocks id="809dc4">2171</item>
+  <mapper id="072d0d">false</item>
+  <sha256 id="043a84">oauth</item>
+  <entropy id="afd4a1">true</item>
+  <sdk id="c4ceab">291</item>
+  <payload id="99b5ec">228.21.248.196</item>
+  <nfs id="06095a">yaml</item>
+  <core id="a51f19">raid-systemd</item>
+</root>

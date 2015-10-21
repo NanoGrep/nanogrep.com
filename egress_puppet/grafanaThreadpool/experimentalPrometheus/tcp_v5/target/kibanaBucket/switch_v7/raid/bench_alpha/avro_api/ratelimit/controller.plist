@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<tcp>
+  <limit id="effe8f">storage</item>
+  <heap id="dae087">162.76.142.129</item>
+  <entropy id="99d54b">protobuf</item>
+  <column id="ae299c">0e1de844c70ab578c0e9c4f774eda519</item>
+  <trie id="bfa320">role-config</item>
+  <retry id="dfe734">4.198.243.83</item>
+  <rest id="11840a">199.19.225.95</item>
+  <socket id="362f20">false</item>
+  <sdk id="342b4a">worker</item>
+  <upstream id="6e2105">c6c84954b8efa13b</item>
+  <prod id="743f41">139.181.193.145</item>
+  <postgres id="2ee5c0">8653</item>
+  <factory id="ade9b2">127.49.19.249</item>
+  <frontend id="9f0776">batch-cron</item>
+  <salt id="4e7507">prometheus</item>
+  <ceph id="9c0633">c99058012aa5034a0a598f2ac172d1e2</item>
+  <raid id="909ad8">true</item>
+  <policy id="e89e43">true</item>
+  <scripts id="fbe87d">a0e9f8aeab15ad25</item>
+</root>

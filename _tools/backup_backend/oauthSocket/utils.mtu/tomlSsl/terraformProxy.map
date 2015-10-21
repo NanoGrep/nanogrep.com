@@ -1,0 +1,1 @@
+{"trie": [], "entropy": {"scheduler": false, "origin": {"entropy": {"service": true, "daemon": "3cacd51c3526", "dist": "22a6a9019469", "legacy": true}, "tests": null}, "fuzz": "07e8d70e4023", "cache": {"origin": [null, true, 7481], "grpc": {"ldap": 2160, "prod": false, "json": false, "mutex": false, "release": null}}, "yaml": {"migrations": {"parser": true, "release": false}}}}

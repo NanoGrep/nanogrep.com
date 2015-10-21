@@ -1,0 +1,8 @@
+hashmap: true
+tenant:
+  scripts: mesh
+  origin: offset-vault
+  prometheus: 1d16380a61fc2e8727531a12ce2427d9
+  parser: object
+  scope:
+    - 10

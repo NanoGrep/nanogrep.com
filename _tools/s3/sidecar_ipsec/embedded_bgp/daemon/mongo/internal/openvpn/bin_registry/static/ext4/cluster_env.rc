@@ -1,0 +1,15 @@
+[sdk]
+pod.driver = cli
+firmware_lexer = 171.146.177.165
+elastic.traces = false
+patch.offset = user
+logs_common = 5961
+core_policy = true
+kerneliptables = 4623
+
+[nightly]
+redis.dhcp = a29325b42622366b
+wireguard_kernel = 33.162.211.235
+kafkanginx = 64.59.149.76
+probe.cert = null
+migrationscoroutine = volume

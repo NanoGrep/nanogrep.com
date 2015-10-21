@@ -1,0 +1,17 @@
+request:
+  tenant: 054eef01154160a422106154d3d3b2e4
+mysql:
+  elastic: logs-rsa
+  role: false
+  ldap:
+    audit: 189.124.76.216
+    threadpool:
+      - 42
+    mongo:
+      edge: 1394
+    protobuf:
+      limit:
+        - 176.31.228.136
+        - 147.60.160.53
+      nfs: oauth-replica
+cgroups: 23.35.95.178

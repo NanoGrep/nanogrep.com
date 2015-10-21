@@ -1,0 +1,34 @@
+rsa:
+  btree: 8953
+  dns:
+    ceph: 5e784256
+    bucket:
+      quic:
+        - 221.47.171.178
+        - terraform-volume
+      bootstrap:
+        - 4314
+        - 3398
+      snapshot: 8bc9e0b01bd7db8b538b26317c83c16c
+      controller:
+        - metrics
+        - 5446
+        - 809a6e73
+      build: kafka-kafka
+    nfs: 12.14.205.125
+  sha256: 94.41.140.93
+  switch: 6426
+  bootstrap: 44cb73ff39562073
+  scope: 9728
+rest: gateway
+switch:
+  ingress: cors-dist
+  btree:
+    staging: 157.41.192.174
+  nightly:
+    bucket:
+      controller: snapshot
+      frontend: regex-protobuf
+    helpers: null
+subnet: b6ea29c6ce60471c
+probe: false

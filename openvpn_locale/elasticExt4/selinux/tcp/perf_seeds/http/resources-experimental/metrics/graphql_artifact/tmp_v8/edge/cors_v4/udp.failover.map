@@ -1,0 +1,77 @@
+[
+  {
+    "zfs": [
+      {
+        "schema": null
+      }
+    ]
+  },
+  {
+    "router": {
+      "mutex": {
+        "sandbox": "d51a9a286d63",
+        "mocks": 5451,
+        "cluster": null
+      },
+      "socket": [
+        "tools",
+        9604
+      ],
+      "canary": {
+        "column": "1e3c8bd12da8",
+        "request": false,
+        "tenant": null,
+        "helm": null,
+        "subnet": "76a3679b17dd"
+      },
+      "trie": "0b6476cef078",
+      "oauth": {
+        "switch": null,
+        "jenkins": "c427042ab648"
+      }
+    },
+    "frontend": {
+      "mysql": {
+        "aes": null,
+        "json": null,
+        "column": "nfs"
+      },
+      "gateway": {
+        "group": true,
+        "quic": "4da1c4cea031",
+        "bench": 3018,
+        "grpc": "dc5f338da925"
+      },
+      "mocks": [
+        null,
+        "15ae6a91b503"
+      ],
+      "canary": "patch",
+      "ldap": [
+        "origin",
+        "router",
+        "f5b34d68cfa5",
+        null
+      ]
+    },
+    "snapshot": {
+      "elastic": {
+        "fuzz": 3095
+      },
+      "offset": [],
+      "lexer": [
+        3572,
+        "cf8025e3e44e"
+      ],
+      "cert": {
+        "mirror": false,
+        "service": 339,
+        "shard": "cookie",
+        "nat": "object",
+        "staging": false
+      },
+      "scheduler": "4579b6ca4680",
+      "cors": false
+    }
+  }
+]

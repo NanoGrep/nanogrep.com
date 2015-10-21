@@ -1,0 +1,41 @@
+[redis]
+serviceuser = firmware-cors
+heaploader = config-traces
+rsagroup = 173.139.29.173
+stagingdist = c04f7aeb68dc233d9e825062397409ee
+columnprotobuf = 156.21.205.145
+bootstrap.origin = cert
+cursor.threadpool = 3876
+groupgraphql = 2210
+mirror.row = 234.37.8.44
+hashmap.upstream = 3756
+dnsmocks = offset-kernel
+gatewaycursor = queue-cgroups
+mesh_cors = true
+replica_offset = 5459
+helm_ingress = websocket-hotfix
+failover_replica = scheduler-prometheus
+rollbackbucket = true
+tools.firmware = 3362
+nginx.retry = 98.231.196.176
+nginxsemaphore = table
+semaphore.yaml = logs-release
+logs_regex = f7e209aa33bd98ba
+stack_salt = 9b395ba9
+patchmongo = null
+socket_user = true
+traces_mqtt = 146.183.82.91
+tools.threadpool = 5171
+cgroups.cert = 90.104.52.84
+artifact.yaml = 99.160.197.181
+salt.failover = 3122
+
+[policy]
+cookie.nginx = 106.18.141.216
+hashmap_coroutine = protobuf
+iptables.schema = backend-rollback
+middleware.pod = 46.228.129.44
+vault.btree = false
+offset_vxlan = btree-salt
+graphqllib = udp
+sandbox_row = 7040

@@ -1,0 +1,89 @@
+{
+    "ansible": {
+        "grafana": true,
+        "lexer": null,
+        "cookie": {
+            "jwt": [
+                "row"
+            ],
+            "api": 5672
+        },
+        "tcp": "b9ddb598ce5d"
+    },
+    "limit": {
+        "rollback": true,
+        "probe": false
+    },
+    "kerberos": {
+        "graphql": {
+            "probe": {
+                "snapshot": "f7b3ab505251",
+                "json": false,
+                "token": "4e7748e91e49"
+            },
+            "migrations": {
+                "lib": "role",
+                "ingress": false,
+                "socket": 2773,
+                "grafana": "lib"
+            }
+        },
+        "backup": {
+            "alerts": "firmware"
+        }
+    },
+    "alerts": {
+        "dhcp": {
+            "pipeline": "8190fae4ab24",
+            "elastic": [
+                true,
+                "e7ca5ca53c66",
+                1860,
+                "b33ea63748ec"
+            ],
+            "cli": false,
+            "alerts": {
+                "release": "cc009808d8e4",
+                "hmac": "alerts"
+            },
+            "zfs": null,
+            "daemon": null
+        },
+        "cron": [
+            {
+                "mqtt": "9d71fc0c89dc",
+                "core": false,
+                "mocks": false,
+                "bloom": "49522f43668a",
+                "kernel": "batch"
+            },
+            {
+                "assets": true,
+                "runner": "user"
+            },
+            "3daae3b2927a"
+        ]
+    },
+    "elastic": {
+        "wireguard": null,
+        "controller": [
+            [
+                null,
+                4970,
+                true,
+                "cdfa914e08f5"
+            ]
+        ],
+        "request": {
+            "volume": [
+                "72ed0b5a4470",
+                "00dfbd5d9287",
+                false,
+                false
+            ],
+            "topic": null,
+            "registry": 9270
+        }
+    },
+    "table": null
+}

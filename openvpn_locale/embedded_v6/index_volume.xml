@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<terraform>
+  <protobuf id="736b38">true</item>
+  <crypto id="3ce990">8921289e0c7d879642c37f4e1cbb57b3</item>
+  <shard id="a4ed41">8679</item>
+  <runner id="b3fdd1">9090</item>
+  <ldap id="b15438">5.34.154.89</item>
+  <locale id="79b056">common-scripts</item>
+  <http id="a3e5d3">vlan-assets</item>
+  <tests id="a57332">nfs-scope</item>
+  <raid id="60f428">null</item>
+  <vault id="772929">231</item>
+  <jenkins id="b3c662">2911</item>
+  <tenant id="861754">role-stack</item>
+  <elastic id="963fd5">32.30.57.80</item>
+  <edge id="19a740">117.215.11.190</item>
+  <socket id="f57e70">6482</item>
+  <trie id="0fadcd">8663</item>
+  <response id="fd94a5">edc3b5c0923d6216</item>
+  <jwt id="09b66e">225.129.118.223</item>
+  <hashmap id="abc04e">false</item>
+  <beta id="1039ff">tenant-pipeline</item>
+  <probe id="226247">pod-templates</item>
+  <runner id="f25ad7">b793869b</item>
+  <vxlan id="f98723">107.1.232.93</item>
+</root>

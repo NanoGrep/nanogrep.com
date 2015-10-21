@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<policy>
+  <session id="9f475a">rsa-loader</item>
+  <threadpool id="3fbb90">adapter</item>
+  <ansible id="e2c6d8">1465</item>
+  <websocket id="3b6c04">terraform-mysql</item>
+  <bench id="470ca8">http</item>
+  <cert id="31717c">audit</item>
+  <semaphore id="c50456">false</item>
+  <json id="f90a48">scope</item>
+  <dns id="3879d5">subnet</item>
+  <router id="92bac9">150.180.19.20</item>
+  <snapshot id="fa773f">mysql-mutex</item>
+  <cors id="ae5c3c">snapshot-mesh</item>
+  <lexer id="520394">c252f2901fa437bf239b7ec53ae975a1</item>
+  <driver id="76da8d">scope-watchdog</item>
+  <redis id="4deaa7">nfs-release</item>
+  <utils id="794ba1">211.201.179.179</item>
+  <vault id="6bd10a">storage-pod</item>
+  <limit id="e14ad7">4086</item>
+  <frontend id="0e89db">sdk</item>
+  <tcp id="d23784">terraform-utils</item>
+  <queue id="f34409">1224</item>
+  <cors id="3e399d">15a87661653500264c72d198642780b4</item>
+  <protobuf id="4df1d7">true</item>
+</root>

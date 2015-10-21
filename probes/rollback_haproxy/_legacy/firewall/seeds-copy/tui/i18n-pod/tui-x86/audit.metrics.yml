@@ -1,0 +1,32 @@
+nightly: regex-column
+session: 37.64.232.193
+heap:
+  bgp: fuzz
+  volume:
+    shard: 1649
+    canary:
+      common:
+        - true
+        - fuzz-watchdog
+      firewall: daemon-mongo
+      utils: 5845
+      shard: trie-release
+    audit: false
+    buffer: bloom
+  loader: 4e3c66dd
+firmware: 5451
+btree:
+  crypto:
+    limit: 198.41.222.27
+    cert: legacy-replica
+    mapper:
+      - batch
+      - 9348
+      - 7215
+      - 219c3adb
+  zfs: registry
+  index: 245.94.103.223
+  pipeline: fe4c730bbe6db0ad
+  staging:
+    role: migrations
+  cache: 33.133.250.127

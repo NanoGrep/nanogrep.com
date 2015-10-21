@@ -1,0 +1,14 @@
+[
+    null,
+    4535,
+    "8a193669b971",
+    {
+        "nonce": [],
+        "websocket": {
+            "patch": {
+                "cursor": true,
+                "udp": "cae1231d5e48"
+            }
+        }
+    }
+]

@@ -1,0 +1,13 @@
+dist: 4164798d1297efd0731ab29a2d662cc5
+api: null
+gateway: ingress
+user:
+  proxy:
+    service: 9df6e67e3c8dab77f944ef1010e5fadf
+  upstream: 197.129.0.206
+  service:
+    socket: 241.203.245.225
+    hmac: 59474cc3a505b715d1de733e76a5b312
+    registry: 58.83.42.57
+    runner: proxy-schema
+config: 8481

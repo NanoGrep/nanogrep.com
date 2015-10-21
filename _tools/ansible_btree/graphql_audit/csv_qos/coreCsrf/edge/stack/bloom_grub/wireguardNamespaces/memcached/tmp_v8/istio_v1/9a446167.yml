@@ -1,0 +1,30 @@
+crypto:
+  - true
+core:
+  - true
+shard: 97fb0743
+regex:
+  handler:
+    - 53c2df9d4fb14c8281b43c018fcf6d21
+  grpc:
+    - 246.238.80.130
+    - 6543
+    - storage
+  lambda: failover
+  trie: semaphore
+  kernel: 42.208.190.47
+  kernel:
+    regex:
+      aes: 135.133.231.214
+      node: edge-hashmap
+      jenkins: a10e749c
+      elastic: 218.226.75.111
+    prod: 105.13.174.190
+    sha256:
+      - 128.110.198.58
+    switch: 2534
+    rsa:
+      - ec46b7f2
+    scripts:
+      - templates
+      - null

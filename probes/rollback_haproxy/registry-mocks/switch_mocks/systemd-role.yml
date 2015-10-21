@@ -1,0 +1,33 @@
+nightly: mutex
+ceph: templates
+limit:
+  prod: 86.125.22.122
+  group:
+    - 1694
+    - 158.40.202.154
+  nightly: middleware
+  prometheus: parser
+  dhcp: 102.117.157.10
+postgres:
+  heap: 1050
+  traces:
+    quic: 141.253.200.126
+    helpers: 5727
+    nginx: 2197
+    cgroups:
+      stream: 3066
+  ldap: 5624
+  api: 323
+  loader:
+    legacy: true
+    object:
+      beta: 516afb18f39d44024fb212533cfeef2d
+      adapter: 144.149.207.131
+      payload: 108.136.77.201
+      socket: 231.200.27.16
+    json: true
+    alerts: 6707
+    utils:
+      - artifact-parser
+      - 48393f28
+    fuzz: 149.7.69.36

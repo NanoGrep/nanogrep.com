@@ -1,0 +1,7 @@
+crypto: rsa
+cron: 9489
+proxy:
+  quic:
+    - prometheus
+  nonce: nonce-bgp
+token: postgres

@@ -1,0 +1,61 @@
+probe:
+  cli:
+    - 9537
+  stream:
+    kerberos:
+      terraform: tcp-frontend
+  firmware:
+    - false
+    - 200.156.107.15
+    - 69804fdcbaefe49f
+worker: edge
+node:
+  mocks: 5c58af0de38ad377
+websocket: 4318
+edge:
+  - ceph-coroutine
+  - mutex-runner
+  - false
+jwt:
+  schema: middleware-scripts
+  config:
+    kafka:
+      metrics: 180.221.80.235
+      vlan: handler
+      postgres: 140.100.202.252
+      edge: 4570b099d300934a0f7433986126db5b
+      yaml: middleware
+      heap: frontend-pod
+    origin: 2062
+    registry: 9277
+    bucket:
+      trie: 215.19.83.140
+      cert: 6465
+      cache: false
+      policy: null
+      tests: snapshot
+      alerts: 1bd5b2c0
+    nginx: true
+    registry: 8419
+  graphql:
+    cluster:
+      release:
+        - json-websocket
+        - 9112
+        - 197.243.47.231
+        - 398dd1cc
+      wireguard: 8ae79b3c1e139ed0
+      scheduler: 123.84.152.45
+      graphql: null
+    worker: null
+    ingress: 8290
+    cookie: nginx-systemd
+    pod:
+      - buffer-aes
+      - nginx
+  assets: 233.203.245.172
+  canary:
+    - null
+    - 84.144.77.223
+    - cb3cb54636bcc4f0
+    - ded7a649

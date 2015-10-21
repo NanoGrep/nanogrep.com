@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<object>
+  <helpers id="118016">63.95.165.127</item>
+  <rest id="60df8e">ansible-service</item>
+  <oauth id="1b106f">dist-cors</item>
+  <utils id="020616">vlan</item>
+  <audit id="672f90">patch</item>
+  <kafka id="dd4672">8774</item>
+  <bootstrap id="4c80ad">045fa74598dd9b45</item>
+  <socket id="e3a436">cron</item>
+</root>

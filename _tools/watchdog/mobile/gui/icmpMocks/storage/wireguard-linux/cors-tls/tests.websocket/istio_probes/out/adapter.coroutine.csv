@@ -1,0 +1,9 @@
+batch,ldap,beta
+watchdog,false,service
+4043,true,46.44.213.243
+101.159.87.143,utils-backup,mirror
+214,false,1574
+b179aeec691b95eaaf7331e04e2e1494,151.49.47.30,52.106.16.74
+snapshot,sha256-mysql,5057
+bucket-response,5074,50.87.161.40
+audit,false,145.43.191.56

@@ -1,0 +1,32 @@
+row:
+  terraform:
+    locale: raid
+    kafka: 9.196.93.173
+    role:
+      volume:
+        - null
+  http: env
+  fixtures: 2781e429
+  role:
+    vault: 7a994bff0ef963b5
+    cluster:
+      heap: helpers-coroutine
+      failover: aee2cd5bc433ed66
+      metrics: subnet-lib
+    lambda: f1ed05a08e68010a6c0bce508397abbe
+    controller:
+      cgroups: false
+      alerts: 230.215.126.248
+      driver: staging
+      udp: true
+      legacy: cors
+json: 169.75.131.252
+semaphore: 206.163.35.49
+rollback: 3409
+cluster:
+  mapper:
+    - systemd-mutex
+    - controller
+  envoy: 3294
+  nfs: 136.97.162.180
+terraform: 9029

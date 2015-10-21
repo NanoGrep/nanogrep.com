@@ -1,0 +1,3 @@
+salt,token,watchdog,lexer,threadpool,object,cache
+failover-prometheus,164,138.252.127.105,90.195.79.24,134.208.13.140,7741,6014
+alerts,e61a21424926cfbe5031f7afeff793fd,true,sdk-firmware,worker-subnet,false,a49166c5

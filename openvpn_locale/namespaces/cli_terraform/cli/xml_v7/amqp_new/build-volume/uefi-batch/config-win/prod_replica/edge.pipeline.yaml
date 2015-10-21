@@ -1,0 +1,42 @@
+loader: 9178
+helm:
+  kernel: 3797
+  jenkins: 635ab5029dd7924b4315999bf52c076c
+  websocket: graphql-ingress
+ingress: 2.91.53.71
+handler: 2.36.32.144
+retry:
+  envoy: lambda
+  helm:
+    queue:
+      sdk: 1639d4ec36de2c6dbd81ae814297a82a
+      ingress: 148.147.45.214
+      node:
+        - true
+        - registry
+        - 73.142.30.137
+        - terraform-stream
+      bootstrap: limit
+      sdk: mutex
+    daemon: staging-kernel
+  proxy:
+    vxlan: true
+    daemon:
+      retry:
+        - false
+        - scripts-lambda
+        - config
+        - false
+      upstream: origin-lib
+      offset:
+        - 7540
+        - factory
+        - 93e5ea0e
+      json: coroutine-mesh
+      jwt:
+        - mutex
+        - vendor-bucket
+      proxy: sandbox
+    grpc: 73.21.233.103
+    nightly: 546f4e6f6b363b50
+  loader: null

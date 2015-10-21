@@ -1,0 +1,51 @@
+switch:
+  cors:
+    - fuzz-hashmap
+    - salt
+  canary:
+    nat: 6ae6ae57
+    aes:
+      api: c92b028f
+      stack: null
+      daemon: 37c8ef9e59453edad471ec3fd9425de6
+      dist:
+        - edge-metrics
+        - cli-probe
+        - firewall-quic
+  shard: 253.16.5.182
+  helm:
+    traces:
+      bloom: cgroups-nginx
+      registry: gateway
+      frontend: prometheus-mocks
+      ceph: 9.44.81.66
+      buffer: vendor-hashmap
+      grpc: tests
+    bootstrap:
+      index: a63ccda67cf580ba
+      vendor: bench-bootstrap
+      json: null
+      nonce:
+        - 8.215.153.108
+        - fixtures
+      upstream: payload
+      edge:
+        - lambda
+        - 16e7672e
+        - false
+    postgres:
+      registry: null
+      lib: 217.244.236.14
+    lambda: 4873
+    terraform: false
+    ldap: response-build
+staging: c02c32662b7995168dc64f95981a2e45
+elastic: false
+kafka: cli-sandbox
+offset:
+  protobuf: a07089df
+  graphql:
+    - 6997
+    - 335a3136
+  adapter:
+    prod: origin

@@ -1,0 +1,31 @@
+mqtt: 4846
+response:
+  pod: 5729
+  fuzz:
+    release: 914cf783c5367cad
+    watchdog:
+      ldap: null
+      role: lambda
+      sandbox: 9846
+      elastic: mysql
+      cli: logs
+      common:
+        - false
+    alerts: cursor
+  artifact:
+    audit: vxlan
+    node: 144.254.1.98
+    frontend: 2062
+    mysql: 6798
+    trie:
+      nfs: 139ea4013a34dc5e
+      config: 102.166.80.249
+      jenkins: c581fc5b863e91aabdc120b143894f33
+      utils: 3175
+      firmware: terraform
+      graphql: locale-mocks
+  payload: json-rest
+dist: cert
+logs: origin
+dhcp: true
+cgroups: e5fbfa41939173e33c8b28af380f6626

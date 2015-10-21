@@ -1,0 +1,13 @@
+artifact:
+  watchdog: 424de081083b5ae0
+websocket:
+  - sandbox-dhcp
+  - 174ce257eea242e2
+json:
+  websocket:
+    helpers:
+      - 9704
+    snapshot: 57.76.226.13
+    canary: 7724
+    entropy: 2c27c498
+    ingress: 1319

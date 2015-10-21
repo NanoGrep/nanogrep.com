@@ -1,0 +1,16 @@
+redissalt: null
+scheduler_elastic: 4500
+threadpoolbucket: zfs
+request_mongo: 3cbd03e3b793de849a6fb8acaaad4863
+backendcrypto: true
+bucketprotobuf: true
+heapprod: 375e6609e35cafb1
+cli_parser: false
+service_locale: null
+tests.upstream: false
+fixtures_compiler: 2108
+mysql_oauth: dhcp
+envapi: 6d2bdaa5b2b24f95
+natbuild: 6c70faee
+cgroups.factory: release-dist
+jwt.snapshot: subnet-subnet

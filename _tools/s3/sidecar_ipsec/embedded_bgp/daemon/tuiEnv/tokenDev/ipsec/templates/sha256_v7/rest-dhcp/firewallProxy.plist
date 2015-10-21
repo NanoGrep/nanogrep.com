@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<tenant>
+  <buffer id="aebd21">heap-handler</item>
+  <lib id="6165ab">182</item>
+  <parser id="876244">9048</item>
+  <sha256 id="477d80">5747</item>
+  <parser id="da92aa">artifact-iptables</item>
+  <vxlan id="67360e">sdk</item>
+  <middleware id="2db2ab">quic</item>
+  <mocks id="4b71ab">true</item>
+  <mqtt id="3782a5">23d4351497604dcb3d39868e993c9697</item>
+  <session id="aa13bf">false</item>
+  <worker id="cd4fc4">true</item>
+  <bloom id="1f22b0">null</item>
+</root>

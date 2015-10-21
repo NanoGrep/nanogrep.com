@@ -1,0 +1,6 @@
+[rsa]
+token.switch = nat
+helmredis = 5364
+service_storage = stream-dist
+cors_postgres = 8b8c7e8a143a1c5e
+nginx.kernel = assets

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<stack>
+  <tests id="f74537">1712</item>
+  <prometheus id="5183ae">9.109.18.207</item>
+  <crypto id="589320">8.59.76.170</item>
+  <sdk id="61d933">iptables</item>
+  <backup id="bc9b33">true</item>
+  <vault id="41e96d">yaml</item>
+  <zfs id="d6d50a">compiler-backend</item>
+  <postgres id="06b8a4">6771</item>
+  <protobuf id="790fb0">null</item>
+  <sha256 id="16b50d">edffd293a02d471d28ea84ad974c8378</item>
+  <nat id="6bcae1">token-json</item>
+  <crypto id="2c24c4">7153</item>
+  <rsa id="2b7e17">logs</item>
+  <vlan id="4c08c8">c595eeb18dc63eba</item>
+  <lambda id="5c360d">247.203.122.160</item>
+</root>

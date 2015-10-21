@@ -1,0 +1,8 @@
+cursor:
+  rsa: 8360
+  salt: 7699b15c4922eb30db8b6b3c5e9a9e86
+  mapper:
+    ingress: column
+  bench: b1f66e41ae232e4c
+  dist: 118.127.94.125
+helm: 2464

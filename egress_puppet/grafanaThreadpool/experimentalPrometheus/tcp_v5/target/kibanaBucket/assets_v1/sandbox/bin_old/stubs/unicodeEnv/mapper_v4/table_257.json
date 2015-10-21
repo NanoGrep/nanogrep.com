@@ -1,0 +1,1 @@
+{"nfs": null, "dist": {"controller": {"mocks": [false], "vendor": [null, "cert"]}, "sha256": ["metrics", {"ldap": 2891, "vendor": false, "semaphore": 8241, "payload": 78, "mutex": null, "row": false}, ["tcp", 1996, false, 3748], {"failover": "offset", "nfs": "1dbf07effafb", "cgroups": "bea2ca8d4b66", "retry": "3651f0dd016c"}], "cursor": true, "factory": 8463}}

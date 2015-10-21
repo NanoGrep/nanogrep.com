@@ -1,0 +1,26 @@
+{
+  "middleware": [
+    {
+      "mapper": {
+        "volume": "legacy",
+        "driver": "17ffcf8edf64",
+        "token": 9416,
+        "storage": true,
+        "kafka": false,
+        "ceph": "a73e1e3ebe43"
+      },
+      "migrations": {
+        "semaphore": false,
+        "core": 4050,
+        "controller": true,
+        "build": "cron",
+        "session": null,
+        "dhcp": null
+      },
+      "salt": "1b66d9215eee"
+    }
+  ],
+  "registry": "4434c31aa61c",
+  "backend": "tests",
+  "tls": null
+}

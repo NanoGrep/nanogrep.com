@@ -1,0 +1,25 @@
+cors:
+  - 57fded56
+  - 1504
+  - 2093
+  - 33c3dd4a
+lexer:
+  bloom: 35.163.191.202
+  firmware:
+    grafana: buffer
+    alerts: kafka-scope
+    threadpool: locale-entropy
+    bootstrap:
+      - 7537
+      - 58.75.40.29
+      - 370b821c
+      - 2000
+    registry: true
+    assets: 904d4eae
+  templates: zfs
+  logs: 8002
+  worker:
+    - 67848acd
+btree: runner
+mesh:
+  json: 74.172.230.44

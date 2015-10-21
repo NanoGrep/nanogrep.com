@@ -1,0 +1,24 @@
+traces: 175.119.186.82
+cron:
+  prod:
+    dhcp: nfs-kerberos
+    alerts: 1005
+    ceph: response-quic
+  hotfix: false
+  helm: false
+  threadpool:
+    - 70.180.180.78
+    - 831
+    - false
+  metrics: quic-udp
+  traces:
+    cron:
+      crypto: null
+      rest: 4d363f1021b44794a6d701301abcc136
+    jenkins: cert
+origin: true
+scripts:
+  - 242
+  - 2548a142054bf207
+  - mocks-crypto
+  - true

@@ -1,0 +1,7 @@
+upstreamfactory=059e43fc263d7d40
+canary.templates=false
+distingress=8fbc7c1786b706ef57b4e1103d8ce0e5
+kafkamongo=protobuf
+sdk_batch=systemd
+groupprometheus=audit-mapper
+socket_dhcp=audit-lib

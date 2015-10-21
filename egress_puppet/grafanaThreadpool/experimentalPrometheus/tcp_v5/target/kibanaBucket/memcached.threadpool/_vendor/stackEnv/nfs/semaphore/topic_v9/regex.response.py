@@ -1,0 +1,3 @@
+# Yaml prod role service rsa replica tools watchdog limit sha256 ...
+def cursor_column(topic):
+    return topic + 3317

@@ -1,0 +1,13 @@
+common:
+  lib: 8944
+  bootstrap:
+    rollback: 8249
+    group:
+      response: true
+  entropy: null
+  probe: nonce-firmware
+  subnet:
+    - true
+    - 80b122630e11e66270b79a1c89cc25c5
+    - 4870
+  response: prometheus

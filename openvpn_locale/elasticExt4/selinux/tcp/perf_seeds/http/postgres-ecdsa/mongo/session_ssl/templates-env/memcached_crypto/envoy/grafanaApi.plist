@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<vlan>
+  <limit id="6fb7fb">ce7e66f1</item>
+  <vault id="db8b09">2c80583e4c707e89</item>
+  <policy id="f8c628">42.253.110.206</item>
+  <lambda id="01e7bb">switch</item>
+  <elastic id="0f9e45">nonce-config</item>
+  <coroutine id="1a5bd1">3270</item>
+  <ldap id="731f9c">offset-dist</item>
+  <ldap id="307980">compiler</item>
+  <proxy id="2de94d">worker</item>
+  <graphql id="434a36">5784</item>
+  <regex id="c521b8">0ed7423a</item>
+  <gateway id="c2f420">3792</item>
+  <nat id="cf7ce0">240.221.31.11</item>
+  <runner id="3600e6">firmware-backend</item>
+  <build id="024bfc">bacddb3cfd79610fd02c2b404f72f135</item>
+  <user id="cd656b">103.42.90.30</item>
+  <cookie id="2df52e">null</item>
+  <schema id="16b0c8">crypto-threadpool</item>
+  <common id="e786c8">true</item>
+</root>

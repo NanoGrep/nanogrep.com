@@ -1,0 +1,17 @@
+[core]
+metricselastic = legacy-protobuf
+limit_driver = backup
+mirrortrie = firewall
+bucketupstream = f601a0c7635bf238
+hmacmutex = 120.149.11.217
+vxlan.dns = true
+bootstrapbucket = patch
+utils_watchdog = 650
+sessionmqtt = 3154
+threadpool.failover = null
+node_dist = fuzz
+alerts.api = c08ba921
+migrationsbackend = 7633
+dist_user = 972
+originbucket = false
+migrations.switch = false

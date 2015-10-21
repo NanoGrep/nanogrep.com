@@ -1,0 +1,18 @@
+common:
+  group:
+    frontend: 152.0.162.36
+    topic: ca5d0e7c
+    vxlan:
+      node: 62929d9ad3b37965
+      lib:
+        - batch
+      jenkins: prod-alerts
+      trie: 233.43.30.220
+      scripts: 166
+      group: 65.151.199.223
+    migrations:
+      - legacy-mongo
+      - 183.16.213.99
+      - 91.177.31.69
+  redis: loader-table
+  entropy: shard-ldap

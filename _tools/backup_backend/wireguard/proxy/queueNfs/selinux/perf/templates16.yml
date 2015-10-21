@@ -1,0 +1,25 @@
+group: 247.169.172.167
+role: 1808
+heap:
+  mesh: stack
+  cli:
+    grafana:
+      buffer:
+        - fixtures-session
+        - 8a69fb2a73a6a8e0
+      mirror:
+        - 36d09809
+        - 867
+      cluster:
+        - cursor
+        - 6581
+      systemd: response-entropy
+      scope: 178.48.251.15
+  yaml: 004ffaca
+  bucket:
+    - 276fba30b5154ff1fbd59e715b377bdc
+    - replica-object
+  controller: af199293bc3bb6e342f0d7c845db9683
+mutex:
+  bench: 67.178.0.193
+  runner: router-core

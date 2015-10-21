@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<node>
+  <worker id="f3010b">common-graphql</item>
+  <udp id="d2e26a">6766</item>
+  <mirror id="79e3cd">8.76.211.2</item>
+  <frontend id="c8b140">ce1c311c</item>
+  <mutex id="737614">242.236.175.247</item>
+  <firewall id="d54d6b">7654</item>
+  <dist id="1a6a19">8969</item>
+  <envoy id="7de5fe">systemd</item>
+  <worker id="c2ad2c">rest</item>
+</root>

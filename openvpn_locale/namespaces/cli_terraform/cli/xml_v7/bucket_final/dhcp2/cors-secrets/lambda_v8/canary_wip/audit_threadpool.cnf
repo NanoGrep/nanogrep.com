@@ -1,0 +1,5 @@
+worker.pod: false
+workeraes: 69ae8b7a
+threadpool_proxy: artifact-dist
+podnginx: tenant-mocks
+logscursor: firewall

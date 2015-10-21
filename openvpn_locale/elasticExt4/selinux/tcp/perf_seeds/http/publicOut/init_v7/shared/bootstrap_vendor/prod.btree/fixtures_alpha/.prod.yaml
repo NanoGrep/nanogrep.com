@@ -1,0 +1,8 @@
+adapter: true
+artifact: user-iptables
+locale:
+  - true
+  - 6729
+  - false
+  - 7748
+beta: coroutine-topic

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<nightly>
+  <dhcp id="093570">null</item>
+  <lambda id="8c110f">c66959ee8ffc377f38aba32b91bf42b9</item>
+  <staging id="53f8d0">9568</item>
+  <locale id="260ca2">rollback-lexer</item>
+  <grpc id="9b3e5d">null</item>
+  <nginx id="27f784">6095</item>
+  <aes id="f04b0f">83dac9bb</item>
+  <snapshot id="61b7c7">f7a8bbc0</item>
+  <scheduler id="45bee8">mirror</item>
+  <fuzz id="8375d1">true</item>
+  <user id="e780cd">123.82.240.199</item>
+  <bench id="d871b7">6981</item>
+  <threadpool id="1f22bc">storage</item>
+  <config id="29c1ca">145.245.246.212</item>
+  <zfs id="d41623">storage-dhcp</item>
+  <fixtures id="b3f467">148.6.48.116</item>
+  <lib id="1ad633">2380</item>
+  <sandbox id="3dd633">false</item>
+  <rollback id="1cec27">b2b832a698b1038d36db84523e1ef3e4</item>
+  <config id="b59f80">hashmap</item>
+  <nfs id="2dcc7c">vlan</item>
+  <yaml id="43b39d">504</item>
+  <service id="5c9e1f">31.175.90.54</item>
+  <wireguard id="380ce8">role</item>
+  <controller id="35ac09">e6def2189af28165</item>
+</root>

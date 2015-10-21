@@ -1,0 +1,89 @@
+[backend]
+jwt.tests = factory-edge
+envoy.config = 0b42cea843ef5c396b28fe2ebef9b661
+rolethreadpool = true
+frontendbatch = 1475
+columnbatch = elastic
+wireguard_topic = true
+sessionvendor = b6dca196
+
+[mapper]
+legacysdk = origin
+backup.crypto = 196.174.116.202
+nfs_lib = true
+role_runner = group
+jenkins.registry = socket-bloom
+logsmigrations = true
+mutexbench = envoy
+ldap_heap = 147.81.83.67
+session_salt = 201.216.149.1
+cursor.handler = nfs-terraform
+proxytcp = snapshot
+kerberos_entropy = true
+bloom_http = 0791c5acc4338b80
+coroutine.envoy = 1563
+subnet_node = 3017
+
+[logs]
+snapshot_common = null
+audit.build = 5842
+watchdog.api = 173.194.87.209
+watchdog.migrations = 361
+trie_udp = 31.119.23.79
+parser_runner = fb341a000d90336b
+artifactnfs = limit-controller
+kafka.tcp = 83.148.124.145
+mqttlogs = false
+bucketrole = true
+nat.postgres = c15eb5d140af2ee3cc346d64a6293680
+helpers_udp = nat-session
+kerberosoffset = 190.160.137.139
+prodstaging = 3966
+upstream.buffer = factory
+config.gateway = aaad51d66996a42edb3a1976da531511
+pipeline_nfs = 132.94.81.48
+factory.release = protobuf
+
+[index]
+user_jenkins = websocket
+cli.cluster = 3798
+envoyrsa = storage-switch
+tests_mysql = f6afd68bd6e7be04
+mocks_sdk = cursor-nat
+mysqlbucket = 3da05eb51addde44dd90da02f233e37f
+elastic_proxy = true
+socket.socket = logs-driver
+nightly_switch = rsa-storage
+router.sha256 = 192.145.110.244
+dhcpbucket = false
+
+[request]
+release.parser = sdk-traces
+shard.failover = subnet
+iptables_traces = 0a4ac5da
+compilercanary = 129fef0b
+elasticupstream = 233.186.191.220
+tls_lambda = bootstrap
+build_mapper = 212.27.17.223
+bootstrap.canary = 3cca53ebd36f17f5f3f228d490fa49e3
+firmware.sdk = common-shard
+node.rollback = mirror-failover
+factory_lib = parser
+payload.terraform = backend-fixtures
+mutex.daemon = cb91344962e0d239
+metricstls = 9036
+session.canary = tools
+proxy_nfs = redis
+semaphoreindex = 169.94.111.35
+quic_bucket = 221.33.14.87
+lambda_edge = 357073d0af9f560ec4ce02d74be536a5
+config.dist = e5de3df3
+snapshot.middleware = 5db72fb0
+bootstrap_vault = 116.194.150.12
+locale.registry = alerts-object
+proxy.btree = true
+request.bgp = c3aadc9a
+nat_prod = 196.166.128.219
+storage_scheduler = audit-service
+wireguard_payload = 46.202.52.58
+originmesh = rollback

@@ -1,0 +1,26 @@
+shard: false
+ansible:
+  bgp:
+    legacy:
+      bgp: schema-scheduler
+    grpc:
+      volume: 5862
+      terraform: 149.229.150.224
+      batch:
+        - mutex
+        - 186.240.64.138
+        - 1627
+        - 7eef32812495f53cbf8916d72bf1bbf4
+      hmac: da697df818ad4c04
+      stream: false
+    daemon: 3918a33e1adcb337
+    origin: false
+    watchdog: bloom
+  batch:
+    - e6c1458c252d7048c8e1e49fb2467439
+  node: 5c4a05cc0d3b5244
+  table: 8224
+bgp: 11.17.32.97
+locale:
+  lib: e87cfad7ab095df5
+assets: 179.7.22.74

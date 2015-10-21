@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<stream>
+  <helpers id="30467e">node</item>
+  <failover id="015e30">ingress</item>
+  <build id="eaaf51">mapper</item>
+  <upstream id="4b6740">rest-limit</item>
+  <hotfix id="baf0e2">vlan-ansible</item>
+  <vault id="afad3a">socket</item>
+  <locale id="cdcac4">9567</item>
+  <stream id="1eff4b">39.230.190.34</item>
+  <object id="a31a4a">cron-fuzz</item>
+  <audit id="445e9d">common</item>
+  <alerts id="b7424c">381</item>
+</root>

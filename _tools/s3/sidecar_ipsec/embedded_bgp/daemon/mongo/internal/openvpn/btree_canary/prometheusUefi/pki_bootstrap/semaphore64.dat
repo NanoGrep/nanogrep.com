@@ -1,0 +1,16 @@
+worker,regex,vendor,handler,row,daemon,schema
+7092aa64644193d3,cursor-bgp,d47104d7908ee1fc18f7ec203ab16fb1,udp,238.220.30.60,98.245.86.77,9918
+5661,staging-aes,user-redis,false,bench,true,141.139.137.108
+role,pipeline,38.214.36.175,e523d606c10b4b6f,false,134.248.213.97,0921134ecbc72fbe
+false,1390,1408a30d52d2b7d7,f4c31cdfc67e0d58,9598,batch,true
+6981,92.134.196.117,1570,release-semaphore,vault-pipeline,ceph-volume,driver-fixtures
+kernel,proxy,2711,table-tcp,9134,3539,8994
+932,9501,ceph,9030,53.133.178.254,ansible,95.173.78.186
+119.102.14.31,147.69.243.2,false,f60b7af8f514132cfba1143da7ce9157,214.211.24.36,8335,cd5419f20aaf1fd3acb0f25f2117461e
+true,helpers,20e32344febc28126eacdf0956ac3b29,null,4250,3fbecfe7209d7e19ec8bd8dd674e7ee1,bee87c66
+216.174.157.37,dhcp,42c8e0df,true,6384,5315aa61,mapper-mesh
+228.166.89.184,1598,e8e1b84b58fa24f7,7281,wireguard-hashmap,false,8b023135e9ae895ae44425f518e1832a
+3976,1.51.10.147,true,ceph,false,false,60d31786b2eb6d4d
+4795,f6999ba9,25.201.210.60,vlan-failover,eae3dd7abdb8d36be745f01d5debf648,loader,2512
+cache,102.239.160.105,bf3aeae39d64f0f9,f4e6eefbe3790eff5614b8f27d18c08a,251.220.151.194,tls-probe,7892
+249.205.192.236,frontend-templates,8660,artifact-request,null,bloom,request

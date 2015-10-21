@@ -1,0 +1,20 @@
+failover:
+  - storage
+tests: null
+http:
+  - firewall
+  - bootstrap-traces
+  - 207.156.110.64
+firmware:
+  audit:
+    cors: udp-templates
+    mqtt: vxlan
+  hashmap:
+    proxy: 222.79.171.123
+    queue: traces-semaphore
+    coroutine: 2721
+  loader: 3613
+  service: c41505979b913513efb06ad931021d58
+  firewall: regex
+  schema: failover
+scope: volume-websocket

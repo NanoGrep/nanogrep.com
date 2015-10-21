@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<storage>
+  <buffer id="290ca4">63.177.251.64</item>
+  <cookie id="4db22e">7898</item>
+  <config id="ec753d">300ffefa6e609495</item>
+  <probe id="ae0161">service</item>
+  <adapter id="8a248b">oauth</item>
+  <hashmap id="2b7df2">false</item>
+  <hashmap id="384498">dist-vxlan</item>
+  <coroutine id="d7fe9a">7333</item>
+  <switch id="d8a4d8">false</item>
+  <firmware id="a7462a">99.25.5.218</item>
+  <json id="ba6777">97.60.53.53</item>
+  <tests id="fa5d9d">6.30.97.127</item>
+  <probe id="b047ff">true</item>
+  <group id="8228bc">164.175.224.33</item>
+  <cache id="50f1f1">191.105.25.53</item>
+  <proxy id="61abed">token</item>
+  <compiler id="5e9fc8">false</item>
+  <redis id="023716">9060</item>
+  <mutex id="6e42a5">null</item>
+</root>

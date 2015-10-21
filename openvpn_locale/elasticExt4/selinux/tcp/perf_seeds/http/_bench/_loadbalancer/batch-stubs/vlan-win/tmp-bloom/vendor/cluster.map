@@ -1,0 +1,20 @@
+[
+    {
+        "storage": {
+            "rollback": true,
+            "env": true,
+            "hotfix": {
+                "queue": "f1710e9772e2",
+                "object": "snapshot"
+            },
+            "cookie": {
+                "scope": 1952,
+                "bootstrap": true
+            },
+            "column": {
+                "http": 4128
+            },
+            "hashmap": "83f8752e1901"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+pipeline:
+  migrations:
+    backup: helpers
+    grafana: null
+    alerts:
+      role: 193.25.40.118
+      iptables: 3fbca15ddc6dd0ed
+      metrics: compiler-role
+      worker: dhcp-zfs
+      nightly: 5953
+      mirror: 22.22.206.235
+    group:
+      fixtures: false
+    ldap:
+      lib: null
+      cluster: loader
+      rsa: retry
+      entropy: backend
+      vlan: null
+    role:
+      - 1058
+      - d9014cb914f41c8d3aa27699b30a22d9
+      - pipeline-mirror
+      - hashmap
+  threadpool: pod-threadpool
+  crypto:
+    raid: grpc-compiler
+    response: 9303
+    scripts: dist-cors
+    origin:
+      role: tls-common

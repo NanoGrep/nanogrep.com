@@ -1,0 +1,35 @@
+tcp:
+  buffer: 130.179.91.216
+  prod: b4a658c6
+dist:
+  common:
+    response: limit-service
+    oauth:
+      quic: hotfix-row
+      vlan:
+        - true
+        - 173.169.87.182
+        - 149.194.140.173
+        - 129cce31
+      nginx: false
+  scope: f131d09e98247219
+  batch: kafka-upstream
+  hashmap:
+    ingress: 920
+    config: stack-scheduler
+    assets: semaphore
+    object: rsa
+  firewall:
+    - null
+    - 7040
+helpers:
+  cli: runner
+  failover:
+    nfs:
+      helm: cb8126f60e1cf43c
+      topic: false
+      upstream: 186.3.250.251
+      upstream: 7251
+      cookie: 8236
+      service: threadpool
+  audit: 142.174.216.184

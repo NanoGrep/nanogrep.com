@@ -1,0 +1,26 @@
+config: 2141
+scheduler:
+  - true
+  - subnet
+gateway:
+  backend: backend-middleware
+  group: offset-patch
+  registry: 9212
+  traces: watchdog
+  snapshot:
+    bootstrap:
+      bloom: a601dbe3f1a30b6620efc630877a833d
+      origin: adapter-api
+      topic: hmac-registry
+      policy: 2145
+      grpc: 067535ad4dc4d93c59b9f445ec684ad8
+      cluster: b3f6167f
+    topic:
+      terraform: 151.231.225.92
+      bench: 3e2e997230cd10786e3f2342fd42ad64
+      prometheus: 1057
+  vxlan: 8135
+vlan:
+  - lambda
+  - 7982
+dhcp: 1871

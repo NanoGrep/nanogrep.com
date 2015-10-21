@@ -1,0 +1,62 @@
+{
+    "payload": false,
+    "audit": {
+        "proxy": {
+            "common": 238,
+            "grpc": [
+                "5bccf84ae092",
+                false
+            ],
+            "hotfix": {
+                "mongo": true,
+                "group": "f251badc2d4d",
+                "cluster": true
+            },
+            "nonce": {
+                "grpc": "1fd648a977ab",
+                "row": "ac5081276b91"
+            }
+        },
+        "artifact": true
+    },
+    "service": [
+        {
+            "heap": "e517e170b62e",
+            "hotfix": {
+                "origin": 4446,
+                "threadpool": null,
+                "upstream": "audit",
+                "oauth": "160aea3e5486",
+                "vendor": true
+            },
+            "offset": [
+                null,
+                true,
+                "d5ff537c6c9f",
+                3681
+            ],
+            "threadpool": {
+                "salt": "eeec9ae989f9",
+                "kerberos": "9b5601035373"
+            },
+            "lexer": [],
+            "replica": {
+                "graphql": null
+            }
+        },
+        {
+            "rest": 6795
+        },
+        {
+            "config": {
+                "websocket": null,
+                "snapshot": "a678c3ae3d67",
+                "canary": null,
+                "mirror": 9967,
+                "vault": 4006
+            },
+            "policy": []
+        }
+    ],
+    "adapter": true
+}

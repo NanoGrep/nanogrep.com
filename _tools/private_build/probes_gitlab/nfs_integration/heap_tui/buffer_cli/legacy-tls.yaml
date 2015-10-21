@@ -1,0 +1,5 @@
+nginx:
+  cors: 42.17.59.192
+  prod:
+    - entropy-helm
+udp: 187.124.113.68

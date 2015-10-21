@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<controller>
+  <threadpool id="97fa38">5178</item>
+  <entropy id="744f1d">mongo</item>
+  <metrics id="b4a095">fixtures</item>
+  <batch id="240ca5">2604</item>
+  <vault id="dee87f">219.222.26.60</item>
+  <jwt id="5ee1d4">mutex-storage</item>
+  <aes id="636358">251.29.27.183</item>
+  <elastic id="80dc5d">6651515e374e40ec</item>
+</root>

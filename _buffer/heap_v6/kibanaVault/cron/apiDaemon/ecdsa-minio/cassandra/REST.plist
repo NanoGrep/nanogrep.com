@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<socket>
+  <object id="82cca8">true</item>
+  <sdk id="eff66b">release-grpc</item>
+  <watchdog id="2ae7da">33.149.192.35</item>
+  <socket id="68b052">7366</item>
+  <daemon id="029629">31.114.250.103</item>
+  <index id="24aac1">scope</item>
+  <volume id="2109e4">2.147.36.114</item>
+  <postgres id="b1cb64">fa2e1a0e</item>
+  <service id="41ef07">1711</item>
+  <watchdog id="c1443b">config-templates</item>
+  <group id="6503c5">9967</item>
+  <prometheus id="71049d">utils-parser</item>
+  <legacy id="260e95">mocks-compiler</item>
+  <socket id="717c89">false</item>
+</root>

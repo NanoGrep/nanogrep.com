@@ -1,0 +1,7 @@
+artifact: bgp
+cron: 122.44.9.3
+tenant:
+  - 8036278afd49446c9c290c02ef5416c3
+  - true
+  - 3111
+crypto: limit-udp

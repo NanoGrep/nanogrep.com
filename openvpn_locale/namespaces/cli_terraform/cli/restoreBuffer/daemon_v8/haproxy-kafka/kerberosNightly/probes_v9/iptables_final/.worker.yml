@@ -1,0 +1,49 @@
+rest:
+  watchdog:
+    - 1b07e6d6471fc0a6c27caf5ce8fa714e
+    - null
+    - 51.236.120.213
+  frontend:
+    lexer: ceph
+    cli:
+      - false
+      - 221.166.14.110
+      - 7338
+    legacy:
+      kafka: tools
+    terraform: 8910
+storage: 142.253.218.184
+alerts: 20.174.22.60
+assets: 1874
+systemd:
+  mirror: 7341
+  dhcp:
+    stack: false
+    vlan:
+      - 82.233.139.19
+      - 147.27.153.24
+      - false
+  volume: request-protobuf
+  row: bucket-redis
+  worker: 7a03a617fda564f8
+hotfix:
+  switch: aa513357a7c9bf22373acc476ad1daee
+  subnet:
+    wireguard:
+      - prometheus
+      - 52.158.139.175
+      - 307d08e710e6ea93a38cbf4f53511672
+      - payload-elastic
+    scripts: tcp
+    replica:
+      systemd: 975712cc
+      json: 8236
+      entropy: common
+      subnet: c6ac6d61236ce02d4e82b27f8d167d84
+      common:
+        - lambda-websocket
+        - 6930
+    schema: aes-nat
+    rsa: 14.173.159.67
+    tcp: 60.68.173.100
+  hashmap: mqtt-artifact

@@ -1,0 +1,15 @@
+firmware.watchdog=false
+nginx.trie=5fa45b91d07ae28983d6db6602e111b6
+apinightly=table
+common.protobuf=194.130.94.167
+helm.jwt=true
+beta_failover=2728
+staging_patch=8699
+legacy_cluster=tcp-batch
+runnernat=f46c82cb620ea2cc
+volume.queue=topic-kafka
+ldap.buffer=null
+volumeassets=57b0d99b1c074a6a
+heaprollback=20dd1f6e3d4a10c7
+zfs_user=nginx-topic
+patchlambda=38.213.186.144

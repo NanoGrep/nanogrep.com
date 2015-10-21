@@ -1,0 +1,46 @@
+cors: cache-websocket
+socket:
+  - rsa-vendor
+  - legacy
+  - buffer-bucket
+prod: 9014
+proxy: mqtt-lexer
+response:
+  offset: dd095c15
+  upstream: switch-mysql
+  payload: helm-pipeline
+  cert:
+    api:
+      mqtt:
+        - bloom
+        - 7005
+      common: 49d353018670ce19
+      iptables: f0414bd5092486c394da8a0a9c80a12d
+    iptables: cron-yaml
+    grafana: factory
+    stack: 4680
+  rollback: hashmap-helpers
+raid:
+  ldap:
+    schema:
+      - b489a93a40a501f7
+      - http
+    audit:
+      - env-replica
+      - fd9c1a01
+    release: 0701e401
+  vlan:
+    - false
+    - 134de40bce4e7b3e
+    - metrics
+  schema:
+    schema:
+      scheduler: retry-volume
+      elastic: socket
+      prod: nginx-helm
+      scripts: true
+      prometheus: elastic-tcp
+    driver:
+      row: 1566
+      canary: 180.220.141.210
+      postgres: 3292

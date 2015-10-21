@@ -1,0 +1,15 @@
+failover,raid
+d29d73a222daa218c91da7fc6dc65316,895d151faf910ec90437074fdc49e53e
+c70fa7263ebe1672633f1f5cdd1ffa19,21.97.2.241
+kerberos-firewall,980cf8f2
+61ddb5febbbb25a18f220401cfea5952,140.205.64.26
+f927ded46aa1d3f7008d4c31199c2d6d,4463
+63e0f63e,af64d26b2e33654be5d7712e4289927e
+125.141.62.234,threadpool
+826f4426,middleware
+mongo,224.105.227.186
+b6a798f47a6240caa244fb3eeefe5b93,tests-vendor
+703a3ef4a7c9bd5c08c61ab2fb01f515,policy
+5244,object
+entropy-sha256,ca74281053683f18
+gateway,dns-object

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<graphql>
+  <nat id="b34a6b">19ef4aa1b6267611</item>
+  <session id="0f4cca">41.62.39.211</item>
+  <offset id="a64e8d">false</item>
+  <prod id="f915ef">8a874f99e4a8cf14</item>
+  <mysql id="5cd07f">27.104.243.37</item>
+  <payload id="d05324">3514</item>
+  <cli id="44e263">1525</item>
+  <dist id="0b3274">true</item>
+  <postgres id="8d4c0a">policy-cookie</item>
+  <utils id="8178b7">3299</item>
+  <artifact id="500ba3">46.14.110.48</item>
+  <yaml id="0fdfe9">true</item>
+  <pod id="f956b3">cursor</item>
+  <scheduler id="ba98d9">true</item>
+</root>

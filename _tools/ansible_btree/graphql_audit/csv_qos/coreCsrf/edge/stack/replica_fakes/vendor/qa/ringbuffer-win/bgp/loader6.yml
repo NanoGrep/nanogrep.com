@@ -1,0 +1,29 @@
+rollback: vault
+proxy: switch
+canary:
+  user:
+    fixtures: 6149
+    index: 58.120.87.8
+    btree:
+      - 30.98.119.10
+    token: daafe451edd37242
+    canary: 8195
+  parser: 148.113.158.124
+  buffer: 107.137.207.237
+  middleware:
+    dns: nonce
+    role: 8247
+    cors: true
+    tls: ced5fb65
+    runner:
+      - null
+      - jenkins-btree
+      - 91ba8ad1
+    oauth:
+      bloom: 0212e2e75b8405e1d07f8f1abf0fe778
+      scripts: 157.214.136.10
+beta: 254.169.210.90
+firmware:
+  - 112.3.170.22
+  - false
+ldap: 3196

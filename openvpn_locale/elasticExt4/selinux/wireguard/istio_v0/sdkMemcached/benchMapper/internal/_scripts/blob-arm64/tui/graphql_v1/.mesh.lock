@@ -1,0 +1,35 @@
+[
+    null,
+    "watchdog",
+    false,
+    [
+        {
+            "traces": false
+        },
+        {
+            "token": {
+                "graphql": null,
+                "mqtt": true,
+                "switch": true,
+                "stack": true,
+                "semaphore": 141,
+                "mutex": true
+            },
+            "mesh": []
+        },
+        "migrations",
+        {
+            "buffer": true,
+            "mesh": {
+                "http": "7135c68bdc7e"
+            },
+            "nightly": {
+                "backup": 9645,
+                "graphql": false,
+                "queue": null,
+                "origin": true,
+                "dhcp": 2258
+            }
+        }
+    ]
+]

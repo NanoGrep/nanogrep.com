@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<terraform>
+  <cron id="6bb495">2c505a44</item>
+  <backup id="343a7e">b744135c</item>
+  <iptables id="f83837">elastic</item>
+  <hmac id="ec247d">ceph-backend</item>
+</root>

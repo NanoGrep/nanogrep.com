@@ -1,0 +1,36 @@
+batch:
+  - http
+  - 808efa4ea87148b8
+terraform: false
+graphql: schema
+sandbox: 5286
+tcp: false
+templates:
+  mongo: null
+  nat:
+    jenkins:
+      - lib
+      - utils-env
+      - raid-policy
+    tenant: mocks
+    tcp: user
+    cgroups:
+      terraform: adb1f211b22fd3b5c7d07b42fbcfc4e7
+      pod: traces-beta
+    limit:
+      config: ingress
+      http: 16.209.246.78
+      locale: limit-tools
+    yaml: token-lambda
+  scope: false
+  response: false
+  semaphore:
+    grpc: 6742
+    redis: kerberos
+    build:
+      - true
+      - 230.31.90.130
+    storage:
+      mysql: 7578
+    redis: stack-index
+  btree: 6489

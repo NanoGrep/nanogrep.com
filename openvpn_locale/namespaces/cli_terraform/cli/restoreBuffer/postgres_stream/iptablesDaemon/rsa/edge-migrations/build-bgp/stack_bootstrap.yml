@@ -1,0 +1,71 @@
+sandbox: 9419
+role:
+  offset: dd64f5db
+  buffer: null
+  kafka:
+    grpc: null
+    fixtures:
+      user: trie-request
+      websocket: false
+      proxy: 65.203.108.211
+      mongo:
+        - user
+        - 47.18.128.65
+        - 7d562fc6726edc49
+        - hashmap-migrations
+      config: true
+      fixtures: 7871
+    session:
+      backup: false
+    mesh:
+      - 232ff166
+      - 1291
+    elastic: nginx
+    middleware: 251.8.135.33
+  grafana:
+    - false
+    - 5605
+    - null
+  nightly:
+    fixtures: handler-payload
+    snapshot:
+      - 214.4.23.207
+      - jwt-salt
+    hashmap: 6110
+    legacy:
+      jwt: 2314c0af024f79fccd0d7ee66600b2e5
+      kernel: 94.49.81.124
+      runner: 3206
+      rollback: artifact
+      assets: 205.92.24.230
+    rsa:
+      - controller
+      - user
+subnet: 2964
+parser: terraform
+rollback:
+  jenkins:
+    tls: switch-canary
+    scripts: beta
+  upstream:
+    service: staging
+    buffer: null
+    postgres:
+      cluster:
+        - true
+        - vlan
+        - vxlan
+      http: bench
+    request:
+      raid: api
+      failover:
+        - true
+        - kerberos-regex
+        - null
+        - 1b4a430aaad9e51e
+      sandbox: udp
+  watchdog: btree-envoy
+  dns: a817f2a7d4f43aca
+  aes: wireguard-snapshot
+cors:
+  env: 227

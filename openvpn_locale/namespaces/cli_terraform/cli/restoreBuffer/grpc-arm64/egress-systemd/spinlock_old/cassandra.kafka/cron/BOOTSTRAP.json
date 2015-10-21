@@ -1,0 +1,63 @@
+{
+    "sdk": "quic",
+    "helpers": {
+        "iptables": {
+            "iptables": false,
+            "object": {
+                "grpc": "de92493f565d",
+                "bench": "46e9a7c92eef",
+                "metrics": false
+            },
+            "user": {
+                "envoy": "policy",
+                "rest": 1650,
+                "batch": 9673
+            },
+            "replica": true
+        },
+        "worker": {
+            "rest": [
+                true,
+                true,
+                null
+            ]
+        },
+        "mongo": {
+            "node": {
+                "cgroups": null,
+                "common": "202a698b1f57",
+                "runner": false,
+                "btree": null,
+                "session": false
+            },
+            "lexer": "replica",
+            "cron": {
+                "cache": 7084,
+                "vendor": 3336,
+                "tools": 3726,
+                "nightly": "5b7dc7dd933f",
+                "middleware": true,
+                "envoy": null
+            }
+        },
+        "node": "3b766cc61df8",
+        "edge": true
+    },
+    "vlan": {
+        "btree": "row",
+        "cli": "fdf5846654ed",
+        "release": {
+            "alerts": "sdk",
+            "traces": {
+                "controller": 6323,
+                "fixtures": "aeb8a35b0ba8",
+                "heap": true
+            },
+            "templates": "57f1254370ca"
+        }
+    },
+    "semaphore": null,
+    "terraform": [
+        "batch"
+    ]
+}

@@ -1,0 +1,51 @@
+[
+  false,
+  9292,
+  {
+    "lambda": {
+      "legacy": {
+        "offset": false,
+        "semaphore": "lexer",
+        "batch": null
+      },
+      "stack": {
+        "buffer": "a4df40ef33c6",
+        "cgroups": true,
+        "sha256": false,
+        "adapter": null
+      },
+      "switch": false
+    }
+  },
+  {
+    "logs": "cgroups",
+    "kerberos": [
+      {
+        "shard": null,
+        "volume": "bd0b3d42e280"
+      }
+    ],
+    "rest": {
+      "oauth": {
+        "hmac": "1fc529bfbd8f"
+      },
+      "rest": {
+        "zfs": true,
+        "traces": "pipeline",
+        "sha256": "prod",
+        "postgres": false
+      },
+      "retry": false,
+      "audit": {
+        "pipeline": "60598eeec6dc",
+        "config": true,
+        "btree": false,
+        "logs": "bbcb46976d91",
+        "offset": false
+      },
+      "driver": null
+    },
+    "semaphore": "7236ae4f2c6f",
+    "handler": []
+  }
+]

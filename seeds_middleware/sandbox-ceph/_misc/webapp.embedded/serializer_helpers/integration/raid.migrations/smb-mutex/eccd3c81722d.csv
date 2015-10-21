@@ -1,0 +1,5 @@
+failover,redis,mqtt
+rsa-btree,8256,frontend
+241.210.16.190,null,7042
+null,vendor-cookie,3840
+cert,true,replica

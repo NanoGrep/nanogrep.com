@@ -1,0 +1,30 @@
+legacy: proxy-upstream
+helm: token-config
+terraform: 57f48db2
+helpers:
+  traces: 126.78.175.143
+  assets:
+    parser:
+      audit:
+        - factory
+      schema: kafka-ingress
+      locale: 166.254.243.8
+      postgres: release
+      adapter: 165.212.105.171
+      retry: 1447
+    threadpool:
+      prod: 41101d70
+      threadpool: backup-firmware
+      prometheus: 2689
+    role: row-graphql
+shard:
+  - oauth
+grafana:
+  factory: 6d35a3ed801de1f2
+  jwt: 8065
+  salt:
+    - hashmap
+    - 228.250.28.182
+    - false
+    - staging
+  cookie: true

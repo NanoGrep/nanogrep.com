@@ -1,0 +1,53 @@
+jwt:
+  utils:
+    - 6099
+    - false
+patch:
+  snapshot: ce74ea69843dd740
+  yaml: fuzz-traces
+  lexer: websocket-redis
+  nonce: user
+backend:
+  migrations: 194.209.164.38
+  scripts:
+    row:
+      heap: true
+      kafka: 149e765dcd36362c
+    vxlan:
+      backend:
+        - lexer-switch
+      metrics: beta-volume
+      offset: offset-upstream
+      nginx: 2548
+      sandbox:
+        - service-threadpool
+      scripts: 02082fba6864dfe5
+    postgres: 4bcf8421
+    adapter: 161.34.73.104
+    lambda: 157.64.170.169
+    bgp: false
+shard:
+  protobuf: 9782
+  dns:
+    middleware: 5803
+    pipeline:
+      failover: alerts
+    artifact:
+      common: 1098
+      json: false
+      scripts:
+        - backend
+    request:
+      salt: 154.203.150.238
+      snapshot: 203.229.241.246
+      pipeline: worker
+  aes: null
+  socket: loader-bootstrap
+  upstream: 64.82.245.47
+  registry:
+    - 134.51.218.225
+    - true
+    - firewall-lib
+quic:
+  - threadpool
+  - vxlan

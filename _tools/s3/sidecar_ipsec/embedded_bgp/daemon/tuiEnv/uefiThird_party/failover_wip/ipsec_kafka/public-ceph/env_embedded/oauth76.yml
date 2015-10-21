@@ -1,0 +1,39 @@
+sdk:
+  backup: 1365
+  build: vendor
+  storage: null
+  aes:
+    firewall: 24.67.50.96
+    release:
+      ceph: 25.18.198.146
+      bloom: handler-shard
+      token: table-nightly
+      dist: 1415
+    migrations: protobuf-tests
+    redis: 24.25.89.139
+    jwt: 70dcb6f089c2e701116a3d7067b1d8ec
+    beta: null
+  raid:
+    loader: ee2307fcf49e8460
+    udp: response-edge
+    config:
+      json: cert
+    locale: proxy
+    cache:
+      entropy: 114.124.150.82
+      buffer: 1060
+      router: prometheus
+      kerberos: pipeline
+  cursor:
+    - 81fb6a4f
+    - e414f524373537de0accce3171392186
+    - legacy
+    - nat
+nightly:
+  tools: policy
+  lexer: 6163
+  upstream: loader
+  env: 91.76.122.43
+  mysql: 245.128.214.135
+dhcp: 4134
+sdk: kernel

@@ -1,0 +1,68 @@
+[websocket]
+stream.assets = 1e82312b21c3b9fd
+artifact.shard = true
+cgroups_graphql = 3624
+audit.ansible = helm-factory
+redis.firewall = 9167610bd1d8eee6
+helpers_dhcp = 7602
+oauthlambda = pod
+websocketdriver = yaml
+hashmap.tools = true
+runner_cli = 16.82.5.130
+proxy_grafana = shard-fuzz
+compiler.worker = 171971dfb3863ab5bdd75e79d2795671
+vxlan.cache = 167.167.248.131
+stagingjwt = null
+entropy_cache = controller
+firewall.tls = 111.217.39.190
+upstreamsocket = row-iptables
+
+[schema]
+compilerwatchdog = null
+migrationslexer = artifact
+prodgroup = false
+fixtures_cron = true
+vxlanelastic = 7307
+rest.btree = 906
+grpc_ansible = true
+queueedge = 6064
+envoysnapshot = 1839
+templates_switch = prod-storage
+queue.sha256 = 8300
+dist.session = regex-hashmap
+hotfixrequest = 34451d9476a63f0ec97aa5f810767c37
+yaml_build = 3702
+worker.backup = 8738
+nginxhttp = oauth-worker
+frontend_terraform = 9b3a59c6
+batch.index = audit
+retry_scheduler = 20.32.153.168
+heaprollback = true
+cli.controller = alerts
+mqtt_adapter = beta
+
+[json]
+scheduler_zfs = null
+migrations.pipeline = mutex
+origin_stack = 77b52d1a5d7721b0
+vendor_mocks = staging-json
+
+[handler]
+parser.buffer = 1565
+registry.mirror = d65db34b059dc015c1cba4a7e44e03b3
+tls_migrations = kerberos-tcp
+adapter_token = 251.129.11.170
+meshcache = 217.97.175.162
+registry.grpc = null
+topic.mapper = e577a7532aa0ad3b9473d1dfbf235d3b
+hmac.pod = kafka
+redis_mapper = true
+oauth.fixtures = salt-payload
+logs.vlan = middleware
+middleware_mongo = 47307a81172f312a
+metricsrole = 66e73e9a45b364d9
+mocksorigin = grpc-tests
+stream.dhcp = systemd
+cert_dist = 77.232.179.194
+proxy_entropy = artifact
+probe.policy = 5999

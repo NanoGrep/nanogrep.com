@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<batch>
+  <salt id="686430">true</item>
+  <hashmap id="276e92">31c309c9e73b29ac</item>
+  <crypto id="47b44e">6149</item>
+  <nfs id="6672e1">240.254.135.126</item>
+  <ceph id="213a10">30c66525</item>
+  <nightly id="1ff7ac">queue-upstream</item>
+  <factory id="143b0b">zfs</item>
+  <stream id="7e33a0">180.186.5.133</item>
+  <cache id="3bcac5">false</item>
+  <frontend id="759af4">9052</item>
+  <graphql id="54500f">worker-request</item>
+</root>

@@ -1,0 +1,4 @@
+terraform:
+  - semaphore-common
+  - postgres-offset
+  - vendor-sandbox

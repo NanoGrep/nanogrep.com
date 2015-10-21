@@ -1,0 +1,13 @@
+limitvault=table
+runner_dist=jenkins
+artifactterraform=hotfix
+proxy_tests=null
+socket.templates=14bd800c33df309b
+factory_fuzz=215.201.238.236
+semaphore_rollback=queue-lib
+backupwebsocket=grpc-grafana
+websocket_mongo=cgroups-registry
+batch.queue=36d5f04b
+frontendnat=true
+staging.rest=316c0cff8fb5244c180b2fcfb40db8c3
+hotfix_cookie=bd73801fadad957c

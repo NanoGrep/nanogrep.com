@@ -1,0 +1,3 @@
+# Elastic schema trie grpc vendor row mutex ...
+def retry_firmware(config):
+    return config + 7747

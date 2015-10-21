@@ -1,0 +1,24 @@
+{
+    "rollback": [
+        false,
+        {
+            "prod": {
+                "table": false,
+                "templates": 4990,
+                "helm": true,
+                "rollback": false,
+                "socket": "probe"
+            },
+            "vlan": {
+                "bgp": "bucket",
+                "sha256": false,
+                "nfs": null,
+                "mocks": null
+            },
+            "redis": [
+                1577
+            ],
+            "udp": "common"
+        }
+    ]
+}

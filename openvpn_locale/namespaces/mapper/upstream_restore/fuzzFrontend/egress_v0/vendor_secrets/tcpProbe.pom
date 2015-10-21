@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<edge>
+  <node id="79a32e">fuzz</item>
+  <proxy id="ee1c3b">214.101.78.20</item>
+  <tenant id="3e4660">3a3ac8c6</item>
+  <config id="d79959">upstream-threadpool</item>
+  <pipeline id="a9fcae">common</item>
+  <ingress id="305c19">api-switch</item>
+  <vault id="d91722">column</item>
+  <backend id="a10708">bucket</item>
+  <threadpool id="9dd601">grpc</item>
+</root>

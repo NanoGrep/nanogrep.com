@@ -1,0 +1,18 @@
+payload: 5783
+stack: mirror
+response:
+  jenkins: cache
+  core: null
+  mapper: hmac-scope
+  terraform:
+    locale:
+      - false
+      - 46.31.9.62
+      - 5ba6cabd95d6b2dd3ef22fed7949a470
+    core: null
+    kerberos:
+      - 46.217.103.106
+      - 6ccfc5038f14d6004b8170234d113358
+      - hotfix-regex
+      - de0d1b0b5bc9776c7691f4b48c1c763e
+    api: 124.57.170.69

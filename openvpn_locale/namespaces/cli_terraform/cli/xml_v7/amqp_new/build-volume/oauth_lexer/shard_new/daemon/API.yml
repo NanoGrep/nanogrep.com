@@ -1,0 +1,76 @@
+mocks:
+  ingress:
+    index:
+      role: true
+      mirror: cors-api
+      redis: 9f668f59
+    cron: mongo
+    controller:
+      lambda: quic
+      bloom: 9f62d6a3dec1ab7af76bd2b4a05633a2
+      parser:
+        - null
+        - 716
+        - 9.33.228.220
+      adapter: storage
+      batch: 240.189.107.179
+      traces: schema
+    pod: 23.39.116.134
+    request: 137.64.234.243
+    payload:
+      dns: locale
+      cache:
+        - null
+        - true
+        - a57bf8050a7d9f91
+        - fc62e315
+      retry: 186.254.116.104
+      ingress: envoy-graphql
+      env: true
+      stack: 189.190.46.168
+  backup:
+    upstream:
+      origin: nightly-grpc
+      legacy: 9417
+      yaml: true
+      switch:
+        - session-artifact
+        - true
+        - true
+      token: mongo-offset
+      mapper: 9395
+    upstream:
+      origin: 202
+      json:
+        - 8926
+        - backup-fixtures
+        - fcb503ca9a3fb78216de6c346fe0f4ec
+        - 334442e4508d31d6
+      utils: 57.46.248.138
+      watchdog: 9134
+      patch:
+        - 237.37.242.67
+        - driver-lib
+  iptables:
+    middleware:
+      dist: hashmap-utils
+    backend:
+      iptables: null
+      regex: vxlan-factory
+      cli: 865424a4
+  elastic: 124.58.111.92
+  stream: fuzz
+  udp:
+    dist: null
+    prometheus: 156.197.51.231
+    cors:
+      cors: 225.224.122.22
+      mqtt: 50.148.14.200
+      adapter:
+        - rollback
+        - env
+      prometheus: null
+      trie: b3e3d44732c5f82c7f4120d0d4dfd09f
+helm: null
+payload: 63.122.200.7
+request: false

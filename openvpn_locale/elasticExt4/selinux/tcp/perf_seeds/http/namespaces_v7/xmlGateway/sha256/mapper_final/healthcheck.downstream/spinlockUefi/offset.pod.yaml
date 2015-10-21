@@ -1,0 +1,33 @@
+dns:
+  sha256: btree-switch
+  frontend:
+    migrations:
+      origin: 2971
+    kerberos:
+      terraform: e79d2e0f61af02bf9684219e09aab18c
+      utils: 4910
+      volume: topic
+      terraform: 77.124.60.56
+      dhcp: metrics-audit
+  hmac:
+    mongo:
+      - 2297
+      - 98.175.191.24
+      - 7579
+    stack: mirror-worker
+    kafka: 012437caa2f59936
+    audit: 2fc19a8a
+  shard:
+    bench:
+      driver: null
+    cors:
+      proxy: 176.68.147.244
+      postgres:
+        - 48.73.59.100
+    cors:
+      elastic: crypto
+      beta: iptables-metrics
+      traces: 4e8c537a4b202a44
+      group: 69.24.160.20
+    tests: 8095
+    trie: false

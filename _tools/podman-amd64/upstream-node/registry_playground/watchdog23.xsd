@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<patch>
+  <tools id="011c31">872cfbd11037bbd8</item>
+  <wireguard id="5a4e37">7114</item>
+  <mqtt id="c7e1e6">false</item>
+  <trie id="c5bb47">c13d49c924e9f08049f07e01b1693477</item>
+</root>

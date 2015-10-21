@@ -1,0 +1,5 @@
+redis:
+  failover: null
+  buffer: 0a765d1c
+node:
+  mongo: 80.141.97.47

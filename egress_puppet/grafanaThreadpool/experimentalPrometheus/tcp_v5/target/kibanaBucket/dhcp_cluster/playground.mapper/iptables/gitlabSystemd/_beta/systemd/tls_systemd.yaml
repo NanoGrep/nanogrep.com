@@ -1,0 +1,47 @@
+quic: response
+bgp: 6a5b81a7
+nightly:
+  terraform:
+    vlan: 191.46.250.123
+    nfs:
+      prometheus:
+        - eaf79db668324fb20d692ab4bf201876
+      release: 223.75.110.240
+      quic: true
+      templates: 152.137.101.205
+      raid: service-nginx
+      offset: mapper-tls
+    bootstrap: false
+    row:
+      bootstrap: true
+      env: a29de3bc613afbc36f243338438f2751
+    artifact:
+      adapter: locale-retry
+      ldap: controller-offset
+      jenkins: 1910
+      kafka: backend-request
+      router: pod
+      entropy: null
+    cache:
+      - true
+      - false
+  iptables:
+    - 77.22.191.166
+    - 779ac3f9ef6ad931
+legacy:
+  utils:
+    - 6741
+    - rest-cookie
+    - 9624
+    - 8405
+  mysql: null
+  vlan:
+    helm:
+      frontend: mocks-terraform
+    mutex:
+      - b657158b8cf3014867430001abb34625
+      - tenant
+    staging:
+      shard: a75f77ba
+      scope: null
+token: firmware

@@ -1,0 +1,10 @@
+[cache]
+ansiblesandbox = null
+cert_cache = 69.116.126.221
+postgrestable = 4916
+loader_hmac = 2808c20e8cdaf1d0
+registry_factory = 107.130.247.184
+loader_build = policy-firewall
+semaphoretests = 3641
+dhcp_shard = staging-shard
+audit.yaml = rest

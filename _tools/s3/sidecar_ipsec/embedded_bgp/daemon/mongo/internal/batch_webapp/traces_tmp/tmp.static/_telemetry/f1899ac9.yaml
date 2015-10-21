@@ -1,0 +1,44 @@
+scheduler: 8018
+build: false
+locale:
+  tcp:
+    switch: 9597
+    rsa: 73.228.221.223
+    patch: scope
+    shard: 34.39.60.38
+    stack:
+      batch: false
+      pod: 89.11.71.8
+      mirror: metrics
+    cron:
+      - false
+      - 56.65.43.49
+      - true
+  policy: 75.52.43.157
+  metrics:
+    hotfix: firewall
+    edge:
+      raid: ansible-middleware
+      gateway: 9a3ef8fd
+      payload: 65.84.220.66
+      alerts: 9446
+    mongo:
+      registry:
+        - core-runner
+      driver: 71.174.71.91
+      api: tenant-mongo
+      bench: frontend
+      volume: 7b54d6d2
+    oauth:
+      mocks:
+        - nightly
+        - nat
+        - role-table
+      group: batch-websocket
+      storage: 7278
+      rsa: null
+      session: true
+      dns: 23.13.151.123
+    nightly:
+      - 9743
+  vault: 40ade80a1f722c966ba6b10b95d23571

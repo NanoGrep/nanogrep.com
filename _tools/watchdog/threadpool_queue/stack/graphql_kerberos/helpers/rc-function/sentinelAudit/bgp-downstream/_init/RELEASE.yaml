@@ -1,0 +1,53 @@
+mutex:
+  - 2566
+  - zfs
+  - null
+mqtt: a3a0034c
+mesh:
+  quic: acc2b4b9
+  gateway:
+    - 147.192.169.116
+    - gateway-zfs
+    - snapshot-nat
+  migrations: 238.236.84.114
+  yaml:
+    adapter: bgp
+    cursor:
+      adapter: null
+      firewall: tools-socket
+      cache: offset
+  service:
+    logs:
+      postgres:
+        - true
+        - true
+        - regex
+      ansible:
+        - canary-vault
+      response: 30.182.36.116
+      legacy: 4258
+    heap: middleware-locale
+    bloom: false
+    quic:
+      watchdog: scope
+    cookie:
+      crypto: dist-bloom
+      volume:
+        - proxy
+      vlan: false
+  helpers:
+    limit:
+      crypto: iptables
+      cursor:
+        - 107.113.211.169
+      canary: 5916
+      tenant: 49f06630f69b32a20af9e21143754e41
+      payload: 6325
+    group: hotfix-jwt
+    nightly: null
+    lib: lexer
+    node:
+      semaphore: nightly
+    iptables: 237.245.209.225
+snapshot: 1209
+dns: 364d3f9b4ca06fae3294d54b6adf3a03

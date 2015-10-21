@@ -1,0 +1,9 @@
+helpers.bootstrap: 16.125.245.204
+failover_mqtt: false
+sandbox_metrics: 179.218.3.40
+adapter_driver: tls-kerberos
+queue.backup: graphql
+stack_replica: graphql-cookie
+middlewareelastic: true
+tls_coroutine: ceph
+quic.replica: rest-daemon

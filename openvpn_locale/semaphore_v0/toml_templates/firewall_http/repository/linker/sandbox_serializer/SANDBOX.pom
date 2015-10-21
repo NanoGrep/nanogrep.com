@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<grpc>
+  <bloom id="6db773">true</item>
+  <semaphore id="9e3b20">198.16.213.252</item>
+  <firmware id="43ed79">d649ac7a0b2af651</item>
+  <aes id="e80a97">true</item>
+  <release id="bea0bb">562</item>
+  <bgp id="6c1318">false</item>
+  <lexer id="d5d6cc">3831</item>
+  <scheduler id="82746e">3165</item>
+  <common id="202f41">backup</item>
+  <user id="954b42">9666</item>
+  <tools id="07d530">3316</item>
+</root>

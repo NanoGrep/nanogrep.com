@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<vxlan>
+  <rest id="c7af36">false</item>
+  <core id="0d1104">669b39af182b33338270be8cc7958dd2</item>
+  <staging id="0f1a09">82e6eff08979da71</item>
+  <salt id="dbf19f">7e0f8942</item>
+  <daemon id="d2ccb6">3664</item>
+  <snapshot id="bc69b6">162.118.164.113</item>
+  <gateway id="bc06dc">415c4a7c</item>
+  <prometheus id="f9cb9b">yaml</item>
+  <artifact id="503440">grpc-handler</item>
+  <artifact id="3e26ab">migrations-replica</item>
+  <trie id="119d15">cors-daemon</item>
+  <proxy id="7d62d2">sandbox</item>
+  <legacy id="cf3ac1">null</item>
+  <beta id="b3dc5b">build-metrics</item>
+  <cors id="fee150">3940</item>
+</root>

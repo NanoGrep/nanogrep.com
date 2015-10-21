@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<alerts>
+  <jenkins id="7da7ed">jenkins-shard</item>
+  <failover id="90937e">1147103c732dbd2a</item>
+  <tls id="681bc3">upstream-limit</item>
+  <bootstrap id="9a5228">proxy</item>
+  <replica id="a51969">183.227.186.72</item>
+  <batch id="d4b415">34bd7c42</item>
+</root>

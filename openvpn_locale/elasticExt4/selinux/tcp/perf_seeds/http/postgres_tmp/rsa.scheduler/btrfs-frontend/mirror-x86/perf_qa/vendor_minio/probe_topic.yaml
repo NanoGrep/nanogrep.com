@@ -1,0 +1,4 @@
+backup: 6975
+policy: false
+ceph:
+  - true

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<firmware>
+  <lambda id="f054d5">null</item>
+  <jwt id="2a9e8c">volume</item>
+  <ldap id="25c5da">4.16.3.218</item>
+  <terraform id="618ec1">false</item>
+  <helpers id="46152c">null</item>
+  <fuzz id="22b27c">hmac-scheduler</item>
+  <wireguard id="19b6d2">98f1cde6fe4cf629</item>
+  <tests id="2ed7e3">graphql-graphql</item>
+  <bgp id="706ead">5109</item>
+  <elastic id="d5ac75">4189</item>
+</root>

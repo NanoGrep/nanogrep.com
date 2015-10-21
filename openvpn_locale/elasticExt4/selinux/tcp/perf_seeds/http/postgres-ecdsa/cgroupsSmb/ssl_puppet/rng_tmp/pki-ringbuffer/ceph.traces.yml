@@ -1,0 +1,24 @@
+tls:
+  jenkins:
+    offset: 30.144.248.161
+  common: websocket-metrics
+  migrations:
+    cron:
+      ceph:
+        - f2745c377f2c9caf
+        - ansible
+        - config-group
+        - 9972
+      bench: driver
+      nfs: 5a3170d7
+    zfs:
+      scheduler: 8.98.141.200
+      response: 242.11.67.169
+  rsa: ba47a0dd3a5c8b9190674522d64367fb
+  frontend: vxlan-ansible
+  aes: 4da1153c58629728113ed67aa593f8a6
+registry: 196.236.71.222
+tests: true
+bgp: ee9ca76ea0de09f8a28933d900ef6fbd
+firewall: 547
+token: true

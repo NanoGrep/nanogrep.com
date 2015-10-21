@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<hashmap>
+  <compiler id="0dd03f">102.133.39.156</item>
+  <semaphore id="1ccb87">4338</item>
+  <vendor id="3b1924">true</item>
+  <shard id="1e34f8">tls-vlan</item>
+  <hotfix id="274256">replica-object</item>
+  <registry id="4e26fe">1d458336804b3d96f0324b7a04c44043</item>
+  <upstream id="15d431">1769</item>
+  <watchdog id="e06cbf">3ee5c01c71f8b3de1fc7fb57d0fc3835</item>
+</root>

@@ -1,0 +1,20 @@
+{
+  "bench": "mocks",
+  "column": [
+    true,
+    {
+      "vlan": {
+        "traces": "cedf7c5e4205",
+        "build": "fa217fc2f0ac",
+        "controller": 8416
+      },
+      "runner": {
+        "sdk": true,
+        "subnet": "coroutine",
+        "daemon": true
+      }
+    },
+    false,
+    false
+  ]
+}

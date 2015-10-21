@@ -1,0 +1,15 @@
+core: vxlan
+registry:
+  release:
+    replica:
+      - 2657
+      - 3313
+      - 175.13.100.249
+      - websocket
+    scripts:
+      nonce: 5611
+      index: cursor
+      node: 5ec76541e79c4782
+      quic: tenant-regex
+    quic: 2138
+  rollback: 254.191.207.98

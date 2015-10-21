@@ -1,0 +1,13 @@
+watchdog: storage
+vxlan:
+  - 4786
+buffer:
+  cgroups:
+    worker:
+      - true
+      - 4.252.142.22
+      - nonce-node
+    buffer: prometheus
+    iptables: 13b24786865ecf75b22e82690a751e14
+  scheduler: df7ca95b86349f59
+  switch: zfs-tests

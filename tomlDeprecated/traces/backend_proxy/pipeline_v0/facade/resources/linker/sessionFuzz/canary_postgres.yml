@@ -1,0 +1,19 @@
+volume:
+  canary: 235.213.136.51
+  mirror:
+    kafka:
+      cookie: f6661c1691ef9b74
+      storage: false
+    migrations: a193cc4c
+    raid:
+      terraform: 3245
+      offset:
+        - a482c17007874af7c6e45d0c13f26b7c
+    scheduler:
+      kafka: 3879
+      registry: f7521239c237c59de79ae4f53512ac94
+  bgp: 9005
+  ceph: 3840
+  sdk:
+    offset: 243.73.18.170
+firmware: null

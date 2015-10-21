@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<user>
+  <adapter id="976d4c">sandbox</item>
+  <btree id="19e819">compiler-node</item>
+  <adapter id="d2f067">163.215.0.154</item>
+  <hashmap id="fc921a">false</item>
+  <systemd id="da78cd">true</item>
+  <sandbox id="baf8f9">compiler</item>
+  <cookie id="b4920c">cluster-iptables</item>
+  <beta id="78049f">pod-lambda</item>
+  <mongo id="92ce14">168.190.105.135</item>
+  <raid id="327ad0">3415a3c9f7cd8c2ae531206e71b80bd9</item>
+  <parser id="a303d8">9c73c4d6984d16ea</item>
+  <utils id="028ef3">69.159.86.231</item>
+  <crypto id="b43f39">299a1b67ecbedf45294e6bb6ca57e6be</item>
+  <redis id="51965b">120.13.98.215</item>
+  <templates id="f69dfa">node-service</item>
+  <core id="bef4e5">aaf244065a3296cd7deb4e5935d78d63</item>
+  <oauth id="4007f0">819</item>
+  <controller id="639227">mapper-proxy</item>
+  <group id="b29108">true</item>
+  <vlan id="c535a1">false</item>
+  <fixtures id="d3d243">133.35.92.104</item>
+  <btree id="bb9cfc">218.176.95.25</item>
+</root>

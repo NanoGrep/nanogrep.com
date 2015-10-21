@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<udp>
+  <envoy id="c8d501">4635</item>
+  <tls id="9c4b14">hashmap</item>
+  <response id="f16f8c">rest-bootstrap</item>
+  <socket id="0dd0af">992</item>
+  <mqtt id="083574">systemd-beta</item>
+  <api id="70fcb7">7aa8fca7239df91e79fb8d2c25cdcae4</item>
+  <stack id="feddf9">dist</item>
+  <switch id="7f931b">utils</item>
+  <stack id="e20349">mongo-service</item>
+  <btree id="ef7e87">6097</item>
+  <migrations id="9d998e">0f9b0d1b</item>
+  <factory id="1a8b67">21da5293</item>
+  <nfs id="a47fe9">daemon</item>
+</root>

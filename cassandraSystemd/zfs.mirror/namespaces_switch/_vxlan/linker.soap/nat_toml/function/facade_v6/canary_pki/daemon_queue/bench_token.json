@@ -1,0 +1,133 @@
+{
+  "kerberos": {
+    "ceph": [
+      {
+        "canary": "6d945972a740",
+        "btree": "nginx",
+        "schema": null,
+        "parser": 4534,
+        "mysql": null,
+        "legacy": null
+      },
+      {
+        "schema": false,
+        "cursor": "object",
+        "terraform": "heap",
+        "env": null
+      },
+      3842,
+      true
+    ],
+    "salt": false
+  },
+  "socket": {
+    "redis": "7ecd6c74382a",
+    "request": {
+      "hashmap": {
+        "worker": "nginx",
+        "threadpool": false,
+        "templates": 2361,
+        "node": true
+      },
+      "shard": false,
+      "vault": [
+        false,
+        9583
+      ],
+      "env": null,
+      "driver": false
+    },
+    "grafana": [
+      {
+        "mesh": null,
+        "metrics": 5332,
+        "templates": false,
+        "backend": 456,
+        "schema": "015abff057d4"
+      },
+      [
+        true,
+        "stream",
+        null,
+        true
+      ]
+    ],
+    "storage": [
+      [
+        false,
+        "token",
+        1624
+      ]
+    ],
+    "probe": [
+      {
+        "origin": "301cf86a8b27",
+        "aes": null,
+        "session": "c96324e8010d"
+      },
+      [
+        "a069220f77cb"
+      ],
+      "aes"
+    ]
+  },
+  "tools": "cron",
+  "staging": {
+    "coroutine": true,
+    "jenkins": {
+      "cli": "7c3c9d994678",
+      "fixtures": true,
+      "canary": {
+        "switch": "228cd39d1ca2",
+        "zfs": false
+      },
+      "systemd": 9572,
+      "elastic": {
+        "queue": null
+      },
+      "trie": {
+        "row": 1343,
+        "cluster": "48710a3a0579",
+        "backend": true,
+        "cert": false,
+        "cache": false,
+        "queue": true
+      }
+    },
+    "kerberos": {
+      "limit": {
+        "frontend": false,
+        "schema": false,
+        "traces": false
+      },
+      "kerberos": []
+    },
+    "buffer": {
+      "mirror": {
+        "dns": "raid",
+        "build": true,
+        "mysql": null,
+        "lambda": "76d80d141e95",
+        "nightly": true,
+        "rollback": null
+      },
+      "terraform": {
+        "watchdog": false,
+        "snapshot": false,
+        "sandbox": false,
+        "prometheus": 9895,
+        "config": 6661,
+        "jenkins": 2129
+      },
+      "registry": {
+        "nat": null,
+        "cursor": "5217561bc0df",
+        "vxlan": null,
+        "templates": false,
+        "snapshot": null
+      }
+    },
+    "registry": "0a8750c34cc1"
+  },
+  "raid": "grafana"
+}

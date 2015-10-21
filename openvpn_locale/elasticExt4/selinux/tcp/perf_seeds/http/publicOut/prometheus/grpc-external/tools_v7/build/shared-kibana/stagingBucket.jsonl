@@ -1,0 +1,61 @@
+[
+    {
+        "audit": {
+            "logs": "user",
+            "gateway": 6995,
+            "hotfix": [
+                null,
+                "991f59a8ea98",
+                null,
+                "11f533d796df"
+            ]
+        }
+    },
+    "efce1e05cd8b",
+    {
+        "bucket": {
+            "mongo": {
+                "scope": false,
+                "cookie": "6b5460f3151b",
+                "bucket": null,
+                "prod": 234,
+                "table": true,
+                "mapper": true
+            },
+            "factory": null,
+            "staging": {
+                "rollback": true,
+                "origin": true,
+                "socket": false
+            },
+            "grpc": 2582,
+            "firewall": {
+                "jwt": 942,
+                "response": false,
+                "threadpool": true,
+                "nat": "failover",
+                "adapter": 7917,
+                "proxy": null
+            }
+        },
+        "mutex": [
+            {
+                "sandbox": false,
+                "rsa": true,
+                "request": null,
+                "vxlan": false
+            },
+            [
+                true,
+                true,
+                "origin"
+            ],
+            "75ee414a45d4",
+            {
+                "payload": 6036,
+                "storage": true,
+                "udp": false
+            }
+        ]
+    }
+]

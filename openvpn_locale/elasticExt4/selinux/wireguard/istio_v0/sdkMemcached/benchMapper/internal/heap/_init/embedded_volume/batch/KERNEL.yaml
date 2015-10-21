@@ -1,0 +1,21 @@
+cache:
+  beta:
+    replica: 6902
+  logs:
+    salt: mysql
+    bgp:
+      hotfix:
+        - a7c4c21a215b6381
+        - 0bcecaca
+    coroutine:
+      threadpool: pipeline
+      scope: 95.45.30.190
+      migrations: cbc4a07d3f16e5350709b62bf2084256
+      loader: ac97c846adc56df4
+      mysql: 7625
+    cgroups: lambda
+    scripts: 37d34511
+    vxlan:
+      - policy-hashmap
+  redis: fixtures
+threadpool: semaphore

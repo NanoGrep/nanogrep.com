@@ -1,0 +1,15 @@
+[
+  {
+    "jenkins": [],
+    "bgp": null,
+    "tenant": "452cfa911606",
+    "role": {
+      "legacy": {
+        "scripts": true,
+        "scheduler": true,
+        "mysql": "gateway",
+        "upstream": "envoy"
+      }
+    }
+  }
+]

@@ -1,0 +1,33 @@
+entropy:
+  - fba41153ab04b98f
+  - false
+threadpool:
+  backup: 1658
+  switch: 9cbbf6bbc1c5a961
+cache: kafka
+replica:
+  stream:
+    graphql:
+      bloom: bucket-lexer
+      daemon: 5308
+      kernel: 15a1d4254b7b12a2a63df6d382abfebc
+      legacy:
+        - 3873
+        - ansible
+        - 16.5.51.89
+    release: 223.143.15.144
+    ingress: df1e3d606145e16d
+    tenant: 560ec9b99d21ffa2
+    mapper: 1033
+    factory:
+      scheduler: 232.151.176.17
+      cursor: false
+      aes: 22.40.200.129
+      handler:
+        - 7.0.131.245
+        - terraform
+        - bloom-sdk
+        - 70.148.71.97
+      grpc: 8.204.69.231
+  token: true
+rest: 214.18.226.33

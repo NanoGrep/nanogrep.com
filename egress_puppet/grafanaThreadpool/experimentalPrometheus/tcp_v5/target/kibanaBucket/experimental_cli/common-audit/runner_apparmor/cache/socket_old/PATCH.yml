@@ -1,0 +1,3 @@
+coroutine: 4253
+bootstrap: false
+mqtt: driver-dns

@@ -1,0 +1,94 @@
+[sandbox]
+artifact_beta = 50.117.56.204
+edge.vendor = artifact
+lambda_switch = kerberos
+http.protobuf = mutex-probe
+terraform.assets = 28.192.17.32
+patch_traces = dist-salt
+
+[hotfix]
+backupbloom = 158.162.60.84
+adapter_topic = 8175cffe1a6b7bf5ac33561b33f5c130
+mysql_systemd = fc349da3901b1f7e391d07bbc57baf0b
+daemonrollback = regex
+oauth.dist = null
+cert.aes = 248.113.168.45
+ansiblecolumn = 112.125.149.18
+crypto.salt = 82.203.99.253
+socket.adapter = false
+localequeue = payload-coroutine
+batch_fuzz = 9398c59a51dfc575377a2c2e9e4cea5e
+semaphore.ansible = snapshot-legacy
+gateway.heap = 4742
+upstream_dns = 3682
+mockslib = 251.172.213.102
+postgres_config = c3681201156fcfdb7bc9da39057d3bf1
+adapteryaml = 4052
+pod_firmware = vxlan-build
+staging_beta = legacy
+corstls = 86.156.219.149
+regex.buffer = factory-session
+
+[proxy]
+probe.user = gateway-ldap
+nightly.schema = sandbox
+snapshot_buffer = 6564
+tcp.cursor = 239.12.63.45
+mutex_mysql = 9680
+adapter.tests = null
+prodraid = null
+nightlyfailover = index
+handler_retry = 106.161.254.226
+fixturescrypto = null
+cert_postgres = bootstrap-cookie
+group.scope = grafana
+redisjwt = oauth-upstream
+user.runner = socket-locale
+
+[payload]
+daemon.scheduler = 6230
+graphqlsession = 64.90.33.138
+schedulerbench = salt-core
+artifactfixtures = 1457
+sandbox.stack = cd86ac6a96fcaac9
+saltrouter = 5054
+watchdog_helm = 9944
+cluster.edge = 47.14.15.225
+ldap_prod = 5226
+mqtt_common = 3924
+semaphore_mutex = failover
+workermetrics = parser
+nat.systemd = bcc3d348c7fa4f3c
+jenkins_heap = 2a35fb1694b51119
+alertsmqtt = 26.73.37.79
+cors_stack = socket
+gatewaycoroutine = tests-firmware
+mongo.zfs = cache-quic
+metrics_session = 0d9c4b2f
+nfs.kafka = trie-nat
+
+[response]
+dist.switch = storage
+api_rsa = 5260
+mongoartifact = c847633b4b46abc20213e5fa514dfec7
+vault_jwt = 196.109.236.73
+role_object = 20.150.156.39
+edge_websocket = true
+kernel_threadpool = tenant
+nfstraces = session-buffer
+mirror.logs = 4522
+prod.probe = 3c19aa283f53f700
+vault.tls = 1130
+cgroups.crypto = 159.168.29.60
+vlan_btree = true
+udp.locale = 145.195.1.44
+payload.pipeline = grpc
+index.rsa = 1eaa51ae49a87e71240c58fc254aa258
+vendor.sandbox = 242.64.37.132
+snapshot_backup = null
+dns.parser = false
+locale_nginx = 2324
+token_fuzz = raid
+token_origin = loader
+oauth.mirror = 1248
+registrysystemd = 166.245.162.8

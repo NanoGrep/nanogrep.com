@@ -1,0 +1,64 @@
+{
+  "mutex": {
+    "retry": {
+      "cookie": [
+        null
+      ],
+      "ansible": false,
+      "dhcp": {
+        "mesh": 5962,
+        "storage": true,
+        "jenkins": true,
+        "backup": false,
+        "hotfix": "b0ae683a92eb",
+        "graphql": false
+      },
+      "user": {
+        "schema": "95df8c39f9ec",
+        "router": false,
+        "protobuf": false,
+        "edge": null,
+        "kernel": false,
+        "factory": "protobuf"
+      },
+      "traces": [
+        9709,
+        null
+      ],
+      "raid": false
+    },
+    "buffer": {
+      "websocket": [
+        "cookie",
+        4360,
+        "payload"
+      ],
+      "entropy": null,
+      "tcp": {
+        "pipeline": true,
+        "systemd": "env",
+        "cgroups": null
+      },
+      "crypto": {
+        "mutex": "table",
+        "prometheus": "dhcp",
+        "assets": false,
+        "dist": true,
+        "vault": "row"
+      }
+    },
+    "kafka": null,
+    "release": [
+      {
+        "router": null,
+        "staging": null,
+        "adapter": null
+      }
+    ]
+  },
+  "metrics": {
+    "row": [],
+    "helm": "b03c59fcf9fa"
+  },
+  "lambda": "row"
+}

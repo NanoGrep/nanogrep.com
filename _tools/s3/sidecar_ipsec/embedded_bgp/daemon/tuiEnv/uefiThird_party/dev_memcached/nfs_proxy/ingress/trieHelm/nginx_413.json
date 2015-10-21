@@ -1,0 +1,75 @@
+{
+    "release": null,
+    "replica": {
+        "beta": {
+            "group": {
+                "build": "upstream",
+                "fuzz": null
+            },
+            "systemd": [
+                5068,
+                5757,
+                "quic",
+                714
+            ],
+            "scripts": 9473,
+            "nightly": false,
+            "shard": {
+                "crypto": false,
+                "mongo": "mongo",
+                "templates": false,
+                "index": true
+            }
+        },
+        "request": {
+            "patch": [
+                false,
+                "systemd"
+            ]
+        },
+        "handler": {
+            "loader": {
+                "udp": 2349,
+                "bloom": "41650e8d9769"
+            },
+            "dhcp": {
+                "elastic": true,
+                "runner": null,
+                "parser": 4595,
+                "probe": null
+            },
+            "middleware": [
+                true,
+                "proxy",
+                7276,
+                true
+            ],
+            "cookie": {
+                "build": false,
+                "ceph": 265
+            }
+        },
+        "vendor": {
+            "graphql": 4098,
+            "mapper": false,
+            "crypto": "bucket",
+            "limit": [
+                false,
+                false,
+                "batch"
+            ],
+            "storage": null,
+            "release": []
+        }
+    },
+    "dns": {
+        "hotfix": false,
+        "cgroups": "0746f7344ffb",
+        "retry": [
+            {
+                "scripts": "f9cc384a6ee1"
+            }
+        ],
+        "cli": 7904
+    }
+}

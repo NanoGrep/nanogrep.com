@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<jwt>
+  <pod id="b58e71">93f2d847d202f99f9d21f87dacc1e4f6</item>
+  <kerberos id="baf67c">4233</item>
+  <traces id="01ea8d">200</item>
+  <elastic id="65cb39">109.84.222.42</item>
+  <frontend id="43080a">nginx-graphql</item>
+  <tcp id="378670">7d401a4bb79aeb6f2f4ebee941cd503a</item>
+  <storage id="402833">true</item>
+  <elastic id="b56043">176</item>
+  <bgp id="eb8a68">true</item>
+  <fixtures id="a90080">13b823a07bf2ce865bbe4d9ee190ef32</item>
+  <subnet id="0371ff">53f606d5f774957c61e24c40e1b7b901</item>
+  <role id="befed6">93f0eedc9f3f8253</item>
+  <subnet id="1eac19">release</item>
+  <node id="5c3bf5">146210e61af968f9</item>
+  <cli id="870292">180.120.140.46</item>
+  <policy id="9492ea">patch</item>
+  <sha256 id="fd13ec">9042</item>
+  <raid id="fea81c">salt</item>
+  <cgroups id="4a086e">1980</item>
+  <buffer id="7f7c7b">true</item>
+  <registry id="cb53db">queue-nat</item>
+</root>

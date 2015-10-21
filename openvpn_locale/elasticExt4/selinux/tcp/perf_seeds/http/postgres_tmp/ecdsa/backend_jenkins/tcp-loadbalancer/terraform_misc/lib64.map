@@ -1,0 +1,28 @@
+{
+  "grpc": 7699,
+  "protobuf": false,
+  "trie": {
+    "templates": {
+      "metrics": false,
+      "sdk": {
+        "api": 4107,
+        "bootstrap": false,
+        "mocks": "716716112fd0",
+        "cluster": "column",
+        "sha256": false
+      }
+    },
+    "aes": {
+      "mapper": 7953,
+      "dns": true,
+      "regex": {
+        "heap": null,
+        "staging": true,
+        "schema": "14026dce77a6",
+        "cli": true
+      }
+    }
+  },
+  "bucket": "postgres",
+  "shard": "scheduler"
+}

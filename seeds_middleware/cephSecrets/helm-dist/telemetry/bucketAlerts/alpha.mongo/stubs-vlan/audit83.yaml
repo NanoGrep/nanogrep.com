@@ -1,0 +1,13 @@
+ldap:
+  - 2017
+  - c76e84070c5ba20f5fb0b1b5138a03e3
+  - 62.80.180.107
+aes:
+  watchdog: 2115
+firmware:
+  ceph:
+    dist: lexer
+    queue: 211.98.215.241
+    nfs: 93.210.175.138
+    stream: null
+  tools: true

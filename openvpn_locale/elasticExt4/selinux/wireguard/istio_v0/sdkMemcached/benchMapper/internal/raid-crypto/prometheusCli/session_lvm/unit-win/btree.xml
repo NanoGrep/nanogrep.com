@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<hmac>
+  <vault id="1d6e4b">group</item>
+  <pipeline id="cf9146">true</item>
+  <kafka id="d01c5e">946f9c13ec264bb84e9ebe6ce250f6ba</item>
+  <migrations id="2eba95">8784</item>
+  <lambda id="d4f521">8749</item>
+  <token id="943275">true</item>
+  <bgp id="915e97">47.142.140.60</item>
+  <trie id="c32486">null</item>
+  <alerts id="106897">null</item>
+  <rsa id="1995a5">214.49.96.90</item>
+</root>

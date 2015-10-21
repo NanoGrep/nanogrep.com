@@ -1,0 +1,15 @@
+stream: terraform-cookie
+rest:
+  - true
+raid: 3019
+storage:
+  semaphore: e74b1193
+  middleware: 7b2594d2
+mongo:
+  canary: 7615
+  ingress:
+    - logs-http
+    - 9524
+    - 429c9bfb
+  hotfix: cron-locale
+cron: scope-audit

@@ -1,0 +1,36 @@
+[
+    {
+        "json": 4050,
+        "vendor": "handler",
+        "hmac": {
+            "hmac": [
+                false,
+                8296
+            ],
+            "migrations": [
+                6798,
+                false,
+                null,
+                "179f251a0795"
+            ]
+        },
+        "sandbox": {
+            "runner": {
+                "tests": null,
+                "heap": 6993,
+                "redis": false,
+                "semaphore": false,
+                "switch": "locale"
+            },
+            "fixtures": {
+                "semaphore": 2641,
+                "registry": "retry",
+                "nat": "66f2ac4246b1",
+                "tls": "compiler",
+                "cursor": false
+            },
+            "dns": "mirror",
+            "snapshot": false
+        }
+    }
+]

@@ -1,0 +1,18 @@
+stack:
+  bucket: 204.229.80.193
+  grpc: 125.22.12.105
+  cgroups: mapper-tools
+  driver: false
+  controller: mocks-storage
+  vendor:
+    templates: config
+    grafana:
+      - 326d8ee6d4278c7c
+      - 5921
+      - 1ef1b572
+      - kernel
+    audit: lambda
+bucket: null
+vault: 733
+cron: vault-adapter
+helm: 183.181.199.91

@@ -1,0 +1,78 @@
+[
+    {
+        "tests": {
+            "scope": [
+                "worker",
+                6412,
+                true,
+                "fuzz"
+            ],
+            "buffer": null
+        },
+        "compiler": {
+            "utils": 4909,
+            "stack": null,
+            "scope": [
+                true,
+                "73839090c643",
+                null,
+                "patch"
+            ],
+            "protobuf": 4457,
+            "firmware": {
+                "jwt": "bgp",
+                "wireguard": "btree",
+                "kernel": "9fa4505cca80"
+            }
+        },
+        "release": {
+            "aes": {
+                "nat": false,
+                "group": "936c29b7e9c7",
+                "probe": 2919,
+                "rollback": null,
+                "backup": null
+            },
+            "postgres": {
+                "shard": 6408,
+                "yaml": null,
+                "rollback": null,
+                "probe": null,
+                "traces": 7601
+            },
+            "jenkins": {
+                "beta": "edc482bb890f",
+                "udp": "fcf516d1d381",
+                "audit": "policy",
+                "scope": "backup",
+                "legacy": true
+            },
+            "mirror": {
+                "kafka": null,
+                "bootstrap": "007b26e39ba6",
+                "regex": 8076,
+                "replica": "f51f31cc04d1",
+                "firewall": "iptables",
+                "cors": "rollback"
+            },
+            "systemd": "5e8e8ab9f5d1",
+            "elastic": "table"
+        },
+        "object": "041cb4332a07",
+        "audit": [
+            {
+                "prod": false,
+                "udp": "b60dca6ea6b6",
+                "role": false,
+                "regex": false
+            },
+            {
+                "session": "ceph",
+                "rsa": null,
+                "semaphore": "firewall",
+                "grpc": true
+            },
+            false
+        ]
+    }
+]

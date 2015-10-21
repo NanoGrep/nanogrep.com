@@ -1,0 +1,25 @@
+raid: false
+stack: envoy
+kafka: 9677
+service: 190.21.89.156
+prod:
+  fuzz:
+    scope: session
+    hotfix:
+      - sha256
+      - 28.43.195.43
+    semaphore:
+      - true
+      - null
+      - null
+    retry: vendor
+    lib: 30
+    kernel:
+      compiler: postgres
+      request:
+        - dist
+        - false
+        - 19d65171deb7103cf3f1c46d7b006372
+        - 6526
+      worker: nfs-lambda
+parser: 6b31fc38fc5423d54e1f04379c1cb1ae

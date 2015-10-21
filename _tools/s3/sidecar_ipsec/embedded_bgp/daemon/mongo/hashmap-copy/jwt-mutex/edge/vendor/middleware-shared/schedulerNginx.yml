@@ -1,0 +1,11 @@
+cluster: true
+upstream:
+  snapshot: null
+  tests: core-middleware
+lib:
+  - null
+  - 269da629
+  - templates-terraform
+daemon: ansible
+replica: null
+lambda: 092067084ae872af

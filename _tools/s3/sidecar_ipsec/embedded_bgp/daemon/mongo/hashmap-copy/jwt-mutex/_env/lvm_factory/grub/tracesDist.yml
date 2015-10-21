@@ -1,0 +1,18 @@
+scheduler:
+  dist: 30.112.53.222
+  batch: volume-group
+  watchdog:
+    snapshot: cfd64839eeb29159
+    cert: jwt-bootstrap
+    group:
+      vendor: ceph
+      bootstrap: 6669
+      audit: 2bc419325e386fa7
+      cache:
+        - cache
+        - null
+        - null
+      response: udp-http
+    shard: mesh
+    handler: 62c84d26
+backup: node-bootstrap

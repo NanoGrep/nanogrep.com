@@ -1,0 +1,73 @@
+[btree]
+nonce.http = null
+fixtures_loader = 9491
+rsa_service = 8c475f5a06d9b0e5
+firewall.probe = tests
+queue_elastic = 7129
+bucket.buffer = null
+
+[factory]
+cgroups_rollback = true
+ingressedge = 1498
+patchhmac = false
+vendorsnapshot = 28.43.27.17
+kernel.logs = 230.11.150.17
+terraform_fuzz = 900
+cursor.ldap = 4ee703413f74f2a9
+oauth_hashmap = 227.194.91.65
+subnet_tools = 138.46.31.106
+lambdacontroller = 137.4.101.1
+
+[cursor]
+kernel.pod = 4607
+cert_origin = http
+config_vendor = null
+tests_lib = 226.249.62.145
+session.tests = backup-mocks
+jenkins_patch = sha256
+upstreamretry = 4c6751d425780c5f
+graphql.firmware = node
+cephparser = offset
+btree_hotfix = true
+raid_oauth = 2063
+cli_canary = 8b0e5f97c195fb9ce3424a838ad26eca
+response.mqtt = 8.57.132.220
+utilsobject = 86.78.236.84
+vendor.parser = group
+upstream_nfs = false
+queue_nginx = elastic-systemd
+mapperworker = 42f0de8287ebde8c
+rollback_storage = release-gateway
+helm_column = null
+gatewaynightly = null
+hashmapmigrations = true
+mqttcommon = hashmap
+
+[shard]
+lib.kerberos = vendor
+factory_subnet = socket-firmware
+lexer.edge = 142.205.169.215
+cursor.hashmap = 209.109.59.6
+parserrelease = 58fe835fc281b0a6
+loader_frontend = false
+sessionjson = 2094
+mutexcoroutine = api
+envoypolicy = 7672
+tlspayload = 74.217.221.82
+ingressreplica = role-metrics
+router.aes = 134
+heapnat = false
+backend_request = 173.162.195.26
+rsa.artifact = group
+firmware_coroutine = 62.147.193.151
+heaprunner = cursor
+postgres.json = limit-switch
+snapshot.object = traces
+response_sdk = 918
+lib.rest = 222.119.125.238
+vault_watchdog = 631
+lambdascope = regex-cgroups
+traces.firmware = null
+proxyoffset = true
+scope.router = 599b8c3dadc8218a
+edgeterraform = 231.162.171.9

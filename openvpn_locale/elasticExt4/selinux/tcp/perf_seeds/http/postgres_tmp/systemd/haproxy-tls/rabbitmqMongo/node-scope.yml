@@ -1,0 +1,7 @@
+adapter:
+  grpc: false
+  worker:
+    elastic:
+      redis: true
+    udp:
+      vxlan: zfs-dns

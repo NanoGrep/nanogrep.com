@@ -1,0 +1,26 @@
+{
+  "cursor": "session",
+  "firmware": {
+    "bgp": {
+      "api": {
+        "nfs": 297,
+        "column": 7689,
+        "snapshot": "8fc6130b3d63",
+        "cors": 2009
+      },
+      "cache": {
+        "payload": 5417,
+        "json": 8153,
+        "helm": null,
+        "terraform": true,
+        "service": "topic",
+        "raid": "405ec4c48987"
+      },
+      "switch": {
+        "mongo": true,
+        "nginx": null,
+        "mesh": false
+      }
+    }
+  }
+}

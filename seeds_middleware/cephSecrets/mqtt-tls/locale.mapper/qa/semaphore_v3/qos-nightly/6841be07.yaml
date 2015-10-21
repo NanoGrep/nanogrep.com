@@ -1,0 +1,11 @@
+replica: nonce
+lexer:
+  service:
+    - 07c0e645
+    - cluster-locale
+  core:
+    storage:
+      - 3783
+      - false
+mongo: false
+mapper: 1491

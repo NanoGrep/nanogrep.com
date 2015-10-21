@@ -1,0 +1,16 @@
+redis: 160.194.34.169
+buffer: traces
+heap: alerts
+dist:
+  parser: false
+  coroutine:
+    patch: nginx-entropy
+    kerberos: tls-rollback
+    nonce: 86.21.163.246
+    mysql: 218.133.59.98
+  tests: regex-vault
+  mongo: true
+  semaphore:
+    alerts: ab92b7fae211ec16bc7352bf24398f83
+    hmac: patch
+  patch: 180.45.104.93

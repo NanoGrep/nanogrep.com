@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<prod>
+  <helm id="3fe272">rollback-pipeline</item>
+  <nginx id="2c2236">true</item>
+  <prod id="9bf65b">40.43.228.87</item>
+  <switch id="2d901f">prod</item>
+  <udp id="5804de">trie-ceph</item>
+  <env id="6893e5">69.80.169.211</item>
+  <ceph id="368fac">cursor-loader</item>
+  <user id="3be4bc">heap-schema</item>
+  <websocket id="3b3a60">74.100.174.29</item>
+  <ansible id="d9de03">92.59.95.20</item>
+  <regex id="c9d344">false</item>
+  <storage id="f2f1ca">scripts-pipeline</item>
+  <subnet id="1060ca">null</item>
+  <helm id="b111c3">rest-rollback</item>
+  <column id="22eb02">867</item>
+  <firewall id="144b84">91.217.191.232</item>
+  <cookie id="1b35de">73.125.15.133</item>
+  <scripts id="10bb02">124dbe3d217e52cc</item>
+  <sha256 id="6f2fdc">76abec9bcc9611df2bedd25a956c5142</item>
+  <coroutine id="d090b9">b2a32c7e84f4dd99</item>
+  <terraform id="92a31b">3500d074a7389c59</item>
+</root>

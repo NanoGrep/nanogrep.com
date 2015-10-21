@@ -1,0 +1,39 @@
+envoy: 5b54daa0847c5c32dfcfcbe629a4291c
+cron: false
+role:
+  tls:
+    stack:
+      - raid-adapter
+    sdk: true
+    storage:
+      failover: iptables
+      upstream: null
+    graphql:
+      ceph: vault
+      udp:
+        - 0116e958
+        - null
+      sha256: null
+      payload: alerts
+      build: rest-envoy
+  iptables: false
+  prod: raid
+  queue:
+    scope: semaphore
+    edge:
+      - 6410060244e8071f14b9db8d72606645
+    utils: 3020
+    ingress: 59802475
+    envoy: 80.169.214.76
+    index:
+      cert: release-redis
+      subnet: true
+      grafana:
+        - 126.170.57.56
+      bgp: cookie
+      row: core-service
+      raid: 1f29a8db20729d98405a8a10d4d620aa
+handler:
+  - 8303
+wireguard: 2e92beb9477f9bc9
+udp: 234.142.190.134

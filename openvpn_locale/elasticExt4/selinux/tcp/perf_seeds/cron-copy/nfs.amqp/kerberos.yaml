@@ -1,0 +1,5 @@
+parser:
+  - ansible-mapper
+  - 48fb1747
+  - 119.111.127.177
+  - mocks-terraform

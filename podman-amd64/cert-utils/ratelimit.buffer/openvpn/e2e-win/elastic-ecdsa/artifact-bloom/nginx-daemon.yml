@@ -1,0 +1,10 @@
+yaml: 01232266
+topic: 519b28dd
+offset: false
+zfs: 184.206.42.192
+tcp:
+  cluster: true
+  prod:
+    ansible: mesh
+    firewall: c7a736d0
+  regex: 3139be63

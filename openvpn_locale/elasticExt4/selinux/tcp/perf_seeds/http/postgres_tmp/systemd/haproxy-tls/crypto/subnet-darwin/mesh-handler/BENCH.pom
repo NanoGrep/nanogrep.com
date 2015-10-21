@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<cache>
+  <origin id="e3b5aa">cluster</item>
+  <watchdog id="bca77d">86.75.68.161</item>
+  <btree id="fd01c8">vendor-buffer</item>
+  <semaphore id="4d1e7c">aaa79c83574a521f6dd43f66e268f83a</item>
+  <ceph id="a3ab72">6299</item>
+  <rollback id="ca9b3b">28dbc860d1ef306e</item>
+  <volume id="a05edf">82.98.65.43</item>
+  <raid id="11c69c">69.215.128.39</item>
+  <quic id="be211a">zfs</item>
+  <router id="74b197">true</item>
+</root>

@@ -1,0 +1,32 @@
+tenant: null
+legacy:
+  mysql:
+    - 6487
+    - 3f0b6607b3ba948f
+metrics:
+  topic: runner
+  metrics:
+    registry:
+      - 510
+      - 2d729b61281822a8
+      - 9420
+      - 10eec7ef819e4431
+    failover:
+      schema: 158.162.244.62
+      tls: entropy
+      ansible: 215.224.133.177
+      cert:
+        - assets
+        - mutex-cors
+        - fec4ad81442928cd
+      envoy: 218.75.41.95
+  trie: sandbox
+  vendor: 7738
+  pipeline:
+    config: 191.217.118.192
+    bench:
+      - 5b0ef0f04df2a3e49514f68216b8fb3a
+      - compiler-retry
+  metrics: 2498
+backend: true
+vendor: 236.210.245.116

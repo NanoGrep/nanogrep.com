@@ -1,0 +1,33 @@
+compiler:
+  - 202.76.253.77
+  - 1012
+  - cache
+schema: false
+raid:
+  prometheus:
+    cookie:
+      oauth: b2505fc66ffb0cf4
+      cert: 126.35.126.27
+    nfs:
+      terraform:
+        - true
+        - iptables-cron
+        - 174.194.65.180
+        - true
+      iptables: 222.69.197.122
+      fuzz:
+        - true
+        - 57da0e03b96bf89d
+      lib: c748c67c51bdbcfc
+      storage: jwt-helm
+      policy: scripts
+    cursor: redis
+    core: response-cache
+mongo: 9234
+proxy: 182.30.251.101
+bloom:
+  redis: replica
+  payload: true
+  tcp:
+    - 8970
+    - 197.199.34.194

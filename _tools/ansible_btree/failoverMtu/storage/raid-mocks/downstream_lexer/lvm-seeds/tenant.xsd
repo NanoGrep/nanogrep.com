@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<traces>
+  <session id="81b093">service-cookie</item>
+  <user id="10ad93">false</item>
+  <helm id="cf2c44">null</item>
+  <kerberos id="257b1e">vault-mesh</item>
+  <artifact id="c80f42">753420c713f41a3b5ad756feca431d82</item>
+  <ldap id="72411f">242.221.202.225</item>
+  <rollback id="427e78">108.227.7.14</item>
+  <hotfix id="ef9064">crypto</item>
+  <switch id="7e7e78">true</item>
+  <ansible id="edb56e">true</item>
+  <bgp id="1cbc10">5916</item>
+  <nat id="2a178d">158.220.154.202</item>
+  <wireguard id="39da60">null</item>
+  <ceph id="bb87ea">false</item>
+</root>

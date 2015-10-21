@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<vxlan>
+  <backend id="be58d2">111403e1</item>
+  <compiler id="1e587e">null</item>
+  <kerberos id="0d781d">169.228.66.115</item>
+  <cookie id="6a4229">c83b587e242ce7c152b83f372d94a7aa</item>
+  <zfs id="958b56">111.190.128.148</item>
+  <bootstrap id="760033">iptables-common</item>
+  <migrations id="a68eb7">patch-templates</item>
+  <traces id="f32462">4050</item>
+  <user id="9fb101">225d0e5a136e54a983e77d3201cf68bb</item>
+  <runner id="eae803">8009</item>
+  <adapter id="92b72c">1864</item>
+  <subnet id="281b05">4ed6d4f3</item>
+  <hashmap id="47632f">prometheus-edge</item>
+  <migrations id="299d77">helm-prod</item>
+  <bloom id="a65ad2">30.208.183.167</item>
+  <session id="2f9d47">null</item>
+  <nightly id="95cc9a">a6812ff96a7b64a6fba107f7227eb844</item>
+  <yaml id="a2b0e5">legacy</item>
+  <policy id="840c0e">180.116.43.22</item>
+  <ingress id="d20fb3">5076</item>
+  <nginx id="a68b2d">nightly</item>
+</root>

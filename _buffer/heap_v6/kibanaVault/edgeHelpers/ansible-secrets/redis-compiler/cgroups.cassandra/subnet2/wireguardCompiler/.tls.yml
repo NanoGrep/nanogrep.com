@@ -1,0 +1,14 @@
+metrics:
+  bootstrap: 238.129.39.223
+  templates:
+    - 8614
+    - entropy
+    - 202.210.42.218
+  mongo: switch
+  failover: 195.230.219.214
+  user: 732
+audit: 66.58.90.80
+alerts:
+  - iptables-backup
+  - true
+  - 6702

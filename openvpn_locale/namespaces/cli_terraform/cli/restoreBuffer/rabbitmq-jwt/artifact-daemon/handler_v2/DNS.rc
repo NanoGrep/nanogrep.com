@@ -1,0 +1,12 @@
+[envoy]
+scope.artifact = firewall-fixtures
+tools_stack = service
+nightly_bench = 60.103.154.72
+bufferthreadpool = 687
+tenant_api = nginx-nginx
+router_driver = kernel-response
+kernel_gateway = null
+edgeresponse = role
+entropy.mysql = 112.130.90.199
+quic.bucket = a7118f5614c613aad957402e23c92bfc
+btree_assets = 6604

@@ -1,0 +1,28 @@
+legacy: true
+topic: 037a660d1c76c15e
+beta:
+  role:
+    nfs: 37729b4696639746e8d11542fddd7dd9
+    tenant: templates
+    ceph:
+      oauth: null
+      cron: null
+      session: 4186
+      runner: true
+    quic: 184.225.174.175
+    compiler:
+      - 621
+    watchdog: watchdog
+  vlan:
+    - 202.128.102.223
+    - object-build
+    - true
+  adapter: response-mapper
+  envoy:
+    - 3721
+  volume: null
+  core:
+    - b5c97a9c
+    - 227.77.22.252
+    - 57079590
+    - 6156

@@ -1,0 +1,6 @@
+column: stream-jwt
+fixtures: firewall-sha256
+cli: 1606
+nginx:
+  cgroups:
+    entropy: 110.191.104.20

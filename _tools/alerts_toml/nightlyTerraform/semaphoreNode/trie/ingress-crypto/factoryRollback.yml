@@ -1,0 +1,69 @@
+protobuf:
+  cert:
+    fixtures: 348
+    shard: object
+    nonce: policy
+    token:
+      nginx: 5169
+      mutex: 9ec63b771dbdfc2a238e0532db2a5cc4
+      graphql: false
+  grpc:
+    yaml:
+      cluster: true
+      tests: 9182f00a
+    semaphore: loader-aes
+    rsa:
+      hotfix: 37.231.32.136
+      heap: null
+  mongo:
+    bloom:
+      nginx: hotfix-env
+    batch:
+      probe: 221.49.89.173
+      upstream:
+        - null
+        - 165.46.122.189
+        - 528ead543a7b29e1512b8660d022d2c8
+      adapter: 443
+      pipeline:
+        - 6975
+        - null
+    mongo:
+      - true
+      - true
+      - 81.227.68.242
+      - switch
+    storage: 3.82.238.189
+    handler: 206.182.238.107
+    templates: column-policy
+  upstream: 41de09f80e65d13a14718e6ceadfefa7
+  response:
+    column:
+      cluster: 4960
+      policy: 2.223.242.94
+      lexer:
+        - 9346
+        - nat
+      postgres: 541
+      threadpool: 679
+    volume: batch
+    worker: 4be514c3
+    api: 32.45.200.240
+    vendor: 174.34.66.163
+    service: 1287
+  systemd: payload-sdk
+cron: jenkins-middleware
+gateway: null
+volume:
+  - ingress
+  - limit-group
+  - 200.144.169.153
+aes:
+  backend:
+    crypto: 4b3957d1d2def01944536d84a319b667
+  controller: semaphore
+  bootstrap:
+    - 266
+    - 51c440e1c2c34b3c
+    - mutex
+    - 9599

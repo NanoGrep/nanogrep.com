@@ -1,0 +1,11 @@
+loader: bucket-cert
+cron:
+  - 9058
+  - e4fd27784acecef7
+wireguard:
+  tcp:
+    - topic-prometheus
+    - index-offset
+    - audit-ceph
+    - abd80bd2e807e336
+batch: 253.19.195.197

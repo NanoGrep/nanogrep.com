@@ -1,0 +1,36 @@
+tools: router
+artifact:
+  core:
+    cors: 212.133.183.232
+    tls:
+      - 110.226.142.194
+      - true
+    ceph:
+      - null
+      - 5d43de21
+      - 156.177.73.30
+    retry: false
+    cursor:
+      - 42.43.23.204
+    crypto: hmac-salt
+  backup: 973
+  edge:
+    tools:
+      schema: 19.64.214.213
+      hmac: yaml-stream
+      nat: 4397
+    dist: 33f6c4af
+    protobuf: 7345
+  dhcp: bootstrap-postgres
+  json:
+    - null
+terraform:
+  - firmware-cert
+  - false
+  - 961fed81
+heap: null
+gateway: sandbox
+mesh:
+  - 748
+  - 120.16.142.129
+  - tcp-hashmap

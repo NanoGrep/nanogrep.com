@@ -1,0 +1,17 @@
+{
+  "row": [
+    [
+      "controller",
+      {
+        "failover": "5d32180b69ac",
+        "schema": "http",
+        "kafka": true,
+        "offset": "4190b8210e7e",
+        "lambda": true
+      }
+    ],
+    "1df6af52e6c0"
+  ],
+  "canary": false,
+  "wireguard": true
+}

@@ -1,0 +1,8 @@
+upstream: false
+logs: 2f3002954a182e7247906ecf007e073c
+scripts:
+  elastic: 73.246.117.193
+  dist: systemd
+cursor: false
+alerts: tcp-udp
+sdk: 105

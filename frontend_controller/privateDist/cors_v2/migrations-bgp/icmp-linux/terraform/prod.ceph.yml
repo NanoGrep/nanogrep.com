@@ -1,0 +1,7 @@
+storage: 190.219.62.200
+kafka:
+  vlan: false
+  common:
+    ingress: switch-patch
+    env: policy
+    hmac: 213.132.199.132

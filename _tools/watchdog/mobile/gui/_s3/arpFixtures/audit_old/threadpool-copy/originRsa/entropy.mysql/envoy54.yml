@@ -1,0 +1,37 @@
+cli: false
+cursor: null
+iptables:
+  compiler:
+    - policy
+    - 418225a9
+    - 94.180.145.216
+  regex: 7846
+  tls: null
+  frontend:
+    adapter:
+      env: loader
+      zfs: 8fe23128
+      beta: 4405
+      node: router-cors
+      jenkins: false
+  oauth:
+    tls: audit-upstream
+    stream: true
+    service: 7366
+    sha256: true
+    sdk: json-mongo
+    artifact: 252.136.57.103
+  zfs:
+    policy:
+      factory: terraform-migrations
+      backup: nfs
+    legacy: 24.145.38.214
+    vendor: false
+    migrations: true
+    regex: 144.154.175.132
+    firmware:
+      - dab2a446
+      - mirror
+payload: cookie
+middleware: session-graphql
+beta: 53b72043c65c58fe219332f3874d0c36

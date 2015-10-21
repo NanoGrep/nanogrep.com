@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bench>
+  <bench id="0ea0fc">upstream</item>
+  <scope id="b684f2">73.118.180.221</item>
+  <table id="5694a5">813</item>
+  <json id="06ee34">7387</item>
+  <offset id="9eff3c">81c0478f</item>
+  <env id="962f2c">vxlan</item>
+  <ingress id="456edb">probe-column</item>
+  <backend id="181e26">parser-release</item>
+  <legacy id="32ea0c">3208</item>
+  <terraform id="de77d6">watchdog</item>
+  <rest id="44baeb">4357</item>
+  <config id="9b56df">true</item>
+</root>

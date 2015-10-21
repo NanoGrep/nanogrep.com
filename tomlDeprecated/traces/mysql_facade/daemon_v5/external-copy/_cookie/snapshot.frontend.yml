@@ -1,0 +1,46 @@
+rsa:
+  assets: handler-offset
+  kernel:
+    locale:
+      - true
+    group: factory-pod
+    replica:
+      jwt:
+        - 2444
+        - 160.65.57.180
+        - api
+      cursor: 1742
+    lexer:
+      locale:
+        - c532f625e2135c6e2a1fea01aa98a918
+        - true
+        - bench
+      crypto: terraform
+    firewall:
+      request: 113.194.22.238
+  graphql: beta
+  assets: 53.132.79.180
+table:
+  core:
+    - 45c020c7b08e157b
+    - b8e1af71cb2f12bee8fce7741dda447d
+    - 107.235.38.46
+    - staging-index
+  retry: 43.64.201.22
+  cert:
+    bloom: 36.81.46.105
+    stack:
+      - cli
+      - false
+  oauth:
+    bloom: false
+    rsa:
+      scripts: f6c9d9ebf130a021f76cae297125d5a8
+      crypto: false
+      envoy: 33afdfbe7d9c98109a680f392282d097
+      cors: policy
+      ceph: true
+      offset: 6c46bb254243c405
+table:
+  grafana: false
+zfs: ccc4f58eaaad849bd14b37bf3ef4872c

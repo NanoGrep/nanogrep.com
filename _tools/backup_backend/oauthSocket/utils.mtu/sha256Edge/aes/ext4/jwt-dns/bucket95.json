@@ -1,0 +1,51 @@
+{
+    "limit": [
+        {
+            "controller": [
+                5706,
+                3391,
+                "firewall",
+                false
+            ],
+            "jenkins": {
+                "service": null,
+                "patch": false,
+                "proxy": "120e3ea03dfc",
+                "redis": 2249
+            },
+            "locale": "logs",
+            "api": true,
+            "protobuf": true,
+            "cors": {
+                "cert": "bfda182a2c02",
+                "tcp": true,
+                "frontend": false,
+                "tests": "firmware",
+                "dhcp": "firewall"
+            }
+        },
+        false,
+        "semaphore"
+    ],
+    "build": "tenant",
+    "stream": "registry",
+    "lexer": {
+        "frontend": {
+            "protobuf": {
+                "protobuf": "21021cb6fdde"
+            },
+            "cli": {
+                "policy": null,
+                "websocket": 3151
+            },
+            "cert": 9648,
+            "response": {
+                "nginx": "b68a5b8fa24d"
+            }
+        },
+        "mirror": true,
+        "lexer": true,
+        "firmware": true
+    },
+    "sdk": false
+}

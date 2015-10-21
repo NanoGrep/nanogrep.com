@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<cli>
+  <schema id="820f1b">134.245.29.184</item>
+  <coroutine id="446048">null</item>
+  <cookie id="8125ab">32.127.14.217</item>
+  <row id="e5ecc4">932d8ee90156c930957f61c53e0bc8fd</item>
+  <legacy id="7bf779">4676</item>
+  <parser id="48684f">9245</item>
+  <quic id="c1eca7">18e24d1f</item>
+  <helm id="2a420e">locale-rest</item>
+  <core id="87667f">97166a3b4b8fe956</item>
+  <hmac id="32eb26">6117</item>
+  <assets id="bf3e21">4227</item>
+  <utils id="05a3be">firmware</item>
+  <http id="7ad3ff">hashmap-tcp</item>
+  <lexer id="5a998e">61.230.13.146</item>
+  <compiler id="a7b91c">vxlan</item>
+</root>

@@ -1,0 +1,91 @@
+{
+  "postgres": false,
+  "staging": "ff6a1e4a2f47",
+  "nightly": 7704,
+  "bucket": [
+    {
+      "bench": {
+        "batch": true,
+        "postgres": true,
+        "nightly": true
+      },
+      "nat": {
+        "mocks": null,
+        "rsa": null,
+        "dist": true,
+        "assets": true,
+        "backup": true
+      }
+    },
+    {
+      "zfs": "0fd9dc3de487",
+      "mongo": [],
+      "registry": {
+        "storage": 9727,
+        "parser": false,
+        "role": true,
+        "stack": "31718111a909"
+      },
+      "tls": [
+        false,
+        2871,
+        "probe",
+        "3d23b5f09265"
+      ],
+      "firmware": [],
+      "http": {
+        "tools": null,
+        "upstream": false,
+        "user": 3666,
+        "buffer": "mysql"
+      }
+    },
+    {
+      "buffer": [
+        8126
+      ],
+      "scheduler": 8950
+    },
+    "rest"
+  ],
+  "tests": {
+    "table": {
+      "backup": 4826,
+      "prod": {
+        "retry": "cluster",
+        "object": null
+      },
+      "elastic": [
+        "alerts",
+        "adapter",
+        "4fadba0aa33b"
+      ],
+      "switch": [
+        false
+      ],
+      "vxlan": [
+        true
+      ],
+      "common": {
+        "driver": "4ccbd265bc30",
+        "ldap": false,
+        "lexer": "semaphore",
+        "envoy": null
+      }
+    },
+    "object": {
+      "sdk": {
+        "cookie": "2d022fcc9c7c",
+        "sdk": true
+      },
+      "stack": false
+    },
+    "subnet": {
+      "postgres": true,
+      "terraform": {
+        "payload": null
+      }
+    },
+    "firmware": null
+  }
+}

@@ -1,0 +1,11 @@
+bloom:
+  - c46d3100ef6c748b83576fd21ebad3fe
+  - 1519
+  - null
+mapper: 6928
+batch:
+  - 2636
+switch:
+  - 159.32.143.102
+  - f01bb20a0dc75c68b7cc3a815a3c649b
+  - graphql

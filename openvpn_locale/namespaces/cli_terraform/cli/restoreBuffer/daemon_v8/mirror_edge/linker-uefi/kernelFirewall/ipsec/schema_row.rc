@@ -1,0 +1,8 @@
+mirrornightly: 5617d4ceeeade240596eb2c1fafa3c81
+parsertemplates: 179.80.141.219
+volume_pod: 705
+restcluster: 134.237.16.45
+ldapceph: probe-mqtt
+sdkorigin: 8024
+schema.mesh: edge-retry
+handlerudp: true

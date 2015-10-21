@@ -1,0 +1,15 @@
+{
+    "dns": "46598e626eed",
+    "protobuf": {
+        "canary": true,
+        "cluster": [
+            6375
+        ],
+        "rsa": "api"
+    },
+    "volume": {
+        "nightly": {
+            "fixtures": 7826
+        }
+    }
+}

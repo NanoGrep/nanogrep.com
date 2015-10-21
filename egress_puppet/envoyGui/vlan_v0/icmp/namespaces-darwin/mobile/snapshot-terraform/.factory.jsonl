@@ -1,0 +1,67 @@
+{
+    "threadpool": {
+        "vendor": {
+            "lib": "318319b544d1",
+            "nat": {
+                "audit": "417115826df6",
+                "json": "75d6a950dc18",
+                "tests": true,
+                "mutex": 9378,
+                "compiler": null
+            },
+            "tcp": [],
+            "artifact": {
+                "terraform": false,
+                "snapshot": "driver",
+                "crypto": false,
+                "adapter": false,
+                "user": true
+            }
+        },
+        "retry": [
+            {
+                "volume": "6ff9ed2afd77",
+                "scripts": null,
+                "row": 6952,
+                "mapper": false
+            },
+            "nat",
+            false,
+            1898
+        ],
+        "proxy": {
+            "release": "7f73709b28f1",
+            "tenant": {
+                "schema": null,
+                "kerberos": null,
+                "pipeline": 4793,
+                "rsa": "6f0c773571fc",
+                "buffer": "432d7a83b128"
+            },
+            "jwt": null
+        },
+        "gateway": true,
+        "queue": [],
+        "grpc": {
+            "assets": {
+                "middleware": "97c371bee1d6",
+                "compiler": 2874
+            },
+            "core": {
+                "vendor": 917,
+                "heap": false,
+                "hmac": true,
+                "legacy": "f5a8f96600d6",
+                "adapter": true,
+                "kafka": "01b81b47a1a7"
+            },
+            "router": {
+                "failover": false,
+                "grafana": null,
+                "tls": "329a3bb6af30",
+                "bgp": null,
+                "socket": false
+            }
+        }
+    }
+}

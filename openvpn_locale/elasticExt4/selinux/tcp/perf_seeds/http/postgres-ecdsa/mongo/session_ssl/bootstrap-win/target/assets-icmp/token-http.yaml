@@ -1,0 +1,26 @@
+vxlan: false
+stream: 82.24.154.94
+socket:
+  cron: protobuf-hmac
+runner:
+  nightly:
+    mutex:
+      runner: 6e40a78a8fc99402
+      websocket: 108.97.44.144
+      column:
+        - prod
+        - policy
+        - 2131
+        - protobuf-cors
+    kerberos: retry
+  ldap:
+    watchdog:
+      socket: true
+      audit: socket-threadpool
+      tests: null
+      nightly: 5074
+      origin: row-backend
+      udp: 244.117.140.42
+    lib: 58.110.26.108
+    firewall: 51207995
+    cron: 7512

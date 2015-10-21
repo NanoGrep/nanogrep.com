@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<volume>
+  <switch id="fe17c4">123.43.45.31</item>
+  <build id="cf6f5e">false</item>
+  <column id="cb540a">frontend</item>
+  <firewall id="a73a65">136.236.5.168</item>
+  <watchdog id="637867">0a3f6593</item>
+  <nginx id="fcf02c">false</item>
+  <ldap id="8aca22">null</item>
+  <bench id="f1b74c">false</item>
+  <yaml id="f3d2f2">cert-protobuf</item>
+  <snapshot id="f68ae7">btree</item>
+  <vlan id="c5a339">9753</item>
+  <elastic id="a319e2">17.183.197.50</item>
+  <fuzz id="3000be">oauth</item>
+  <backend id="05f650">null</item>
+  <dist id="53f0a0">189.7.182.103</item>
+</root>

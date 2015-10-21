@@ -1,0 +1,73 @@
+[
+  {
+    "request": {
+      "bootstrap": true,
+      "dns": {
+        "grafana": false,
+        "artifact": "940213724016",
+        "env": null,
+        "socket": false,
+        "prod": null,
+        "pod": "1419a04fe6f4"
+      },
+      "limit": null,
+      "redis": {
+        "middleware": 5181,
+        "proxy": false,
+        "sha256": 6195,
+        "threadpool": false,
+        "mesh": "switch",
+        "jwt": 9741
+      }
+    },
+    "prod": "terraform"
+  },
+  {
+    "stack": {
+      "cookie": true,
+      "audit": true,
+      "failover": "e82861d123fb",
+      "sdk": "82248daa54d3",
+      "fuzz": {
+        "mysql": null,
+        "tcp": "release",
+        "tenant": null
+      }
+    },
+    "prod": 9003,
+    "fixtures": "46d7c81ae634",
+    "watchdog": {
+      "audit": "locale",
+      "vxlan": {
+        "mocks": "rest",
+        "bloom": 9152,
+        "object": "f2a27ae846ee"
+      },
+      "user": {
+        "firewall": null,
+        "kernel": true,
+        "snapshot": "81f1af5b27d4",
+        "helpers": "dc54ac043ec6",
+        "audit": "jwt"
+      }
+    },
+    "session": [
+      "ed4f112af7da",
+      null
+    ]
+  },
+  {
+    "request": {
+      "scheduler": "watchdog",
+      "build": "lib",
+      "scripts": true,
+      "switch": {
+        "upstream": "router"
+      },
+      "sdk": true,
+      "bgp": null
+    },
+    "lexer": null
+  },
+  "token"
+]

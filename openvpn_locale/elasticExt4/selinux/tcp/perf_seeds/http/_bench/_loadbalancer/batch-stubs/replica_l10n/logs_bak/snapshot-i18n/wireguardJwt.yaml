@@ -1,0 +1,33 @@
+kernel: 6e2d024cd6cc6f7b2ba82f04b9e3a942
+fixtures:
+  mongo:
+    kafka: e67eaf99dec7bc61
+    systemd: scheduler
+    cache: false
+  proxy: 8c800b9e
+  heap: d420f765
+  limit: 247.11.225.252
+  lib: rest
+  salt:
+    - salt-grpc
+failover:
+  prometheus: true
+  dist:
+    aes:
+      replica: trie
+      traces: a4c6225a23abf2ec
+      logs: 205.136.177.212
+      edge: false
+      vault: yaml
+    cron: scripts
+    ansible: false
+    core:
+      - false
+      - middleware-payload
+      - null
+    cluster: 161.252.115.160
+  fixtures: middleware-table
+  compiler: 47e5abe34ab02efe
+handler:
+  - e9540eaca6334f39cf37bd560f86d2f7
+regex: true

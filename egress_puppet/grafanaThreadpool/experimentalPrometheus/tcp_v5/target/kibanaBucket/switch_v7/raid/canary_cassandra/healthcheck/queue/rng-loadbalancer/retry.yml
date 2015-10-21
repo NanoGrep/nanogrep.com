@@ -1,0 +1,10 @@
+sdk: coroutine-scripts
+cgroups:
+  - false
+  - alerts
+  - bd89956a8f11e2a79b4289816e84d46e
+  - 193.196.225.124
+nightly:
+  - 2908
+ceph:
+  jwt: lexer-kerberos

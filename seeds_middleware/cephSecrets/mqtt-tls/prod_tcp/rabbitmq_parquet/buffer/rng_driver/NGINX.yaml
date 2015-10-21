@@ -1,0 +1,7 @@
+release:
+  crypto: session-ldap
+  helpers: mysql-utils
+  alerts: false
+  probe: 246.158.226.194
+  batch:
+    - lib

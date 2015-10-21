@@ -1,0 +1,8 @@
+firmware: caf05b60
+audit: envoy-backend
+bgp: 48.138.104.226
+topic:
+  - dns
+  - retry-queue
+  - grpc
+grafana: 5224

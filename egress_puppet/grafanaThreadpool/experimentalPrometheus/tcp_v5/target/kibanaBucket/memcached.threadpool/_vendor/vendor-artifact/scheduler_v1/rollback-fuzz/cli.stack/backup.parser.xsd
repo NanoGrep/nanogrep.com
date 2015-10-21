@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<dns>
+  <driver id="a019c7">69.83.251.6</item>
+  <group id="45a7dc">709</item>
+  <crypto id="6fc3ac">false</item>
+  <batch id="4b5a1c">d7fa9673</item>
+  <stack id="bfc09b">206.10.232.132</item>
+  <jenkins id="f9d116">8ccae054964f91a6fedacd042948fc39</item>
+  <mirror id="99cc1a">yaml</item>
+  <edge id="936208">policy</item>
+  <storage id="1409b8">true</item>
+  <envoy id="f511ea">null</item>
+  <salt id="5969ee">true</item>
+  <cron id="3eecf2">grpc</item>
+  <envoy id="927f82">6be7924d41e36144</item>
+</root>

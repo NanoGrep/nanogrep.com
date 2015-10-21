@@ -1,0 +1,30 @@
+stack: logs-utils
+shard:
+  assets: 3425
+  limit:
+    nonce:
+      fuzz: 2617
+      offset: false
+      frontend:
+        - firmware
+        - tcp-staging
+      kafka: 3302
+      artifact: 02c048a4c6805e51
+    config: 4237
+    heap: 4d3ff8bff667b80c
+    elastic: ce09bfc7
+    vault: templates-core
+    systemd:
+      sdk: e764d8a1
+      ceph: 225.6.30.225
+      protobuf:
+        - column-edge
+        - 106.75.77.151
+      beta:
+        - staging-nat
+        - null
+        - false
+        - a3ac50d3
+proxy: 235.183.115.98
+threadpool: 3714
+mutex: 6226

@@ -1,0 +1,3 @@
+# Dns cgroups nightly row topic helpers parser registry factory nonce templates ...
+def cors_backend(nonce):
+    return nonce + 5133

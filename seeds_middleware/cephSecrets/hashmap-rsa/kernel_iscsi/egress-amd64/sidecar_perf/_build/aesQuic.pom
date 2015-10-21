@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<response>
+  <firmware id="5164c8">compiler</item>
+  <pod id="7bf9d7">64.251.15.130</item>
+  <stream id="20ae99">config-zfs</item>
+  <failover id="d71e86">null</item>
+  <subnet id="d50c71">692</item>
+  <redis id="9be048">hashmap</item>
+  <templates id="ab1d09">null</item>
+  <replica id="e27da5">false</item>
+  <volume id="c4c9d4">1645</item>
+  <router id="2abada">84c2f69c3a653fd2</item>
+  <bucket id="f57e2a">mysql-socket</item>
+  <daemon id="11f7e3">api</item>
+  <dns id="2f8f32">false</item>
+  <group id="122d68">3c90bcc287edc321</item>
+  <proxy id="530f56">kernel-vendor</item>
+  <bench id="b9aaa6">e2f8217960eacdf57e376a1e1aadf3a2</item>
+  <env id="2f9963">125.109.233.39</item>
+  <bloom id="95774b">111.160.26.47</item>
+  <lib id="a9931e">e8e66aaa93848ab330e3bfb3f3cc87ba</item>
+  <loader id="248c21">cors-aes</item>
+  <session id="b449d8">6ffe0e649fdce038</item>
+</root>

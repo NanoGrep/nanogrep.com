@@ -1,0 +1,15 @@
+failover:
+  - 104.86.96.179
+  - origin-kernel
+  - cors-object
+parser: false
+fuzz:
+  watchdog: router-switch
+kerberos:
+  user: 8395
+middleware: 65.200.92.50
+mutex:
+  - true
+  - controller
+  - 1931
+  - 8.214.229.9

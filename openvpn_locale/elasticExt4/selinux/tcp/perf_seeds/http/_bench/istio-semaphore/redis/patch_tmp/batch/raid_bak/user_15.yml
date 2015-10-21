@@ -1,0 +1,9 @@
+registry: mqtt
+schema: lambda
+locale: 23.24.187.209
+bucket:
+  handler: zfs
+  driver: row-trie
+  hmac: 3aa26114d69ceea758967f2afc9822d4
+  helpers: b15161dd
+  loader: afbf6e22

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<envoy>
+  <offset id="5ffab7">snapshot-wireguard</item>
+  <sdk id="5adc1f">true</item>
+  <dhcp id="a5cd07">true</item>
+  <alerts id="360e8e">9014</item>
+  <canary id="bf28b1">d9fb420e</item>
+  <vendor id="32bbe9">jenkins</item>
+  <origin id="f2d3dc">null</item>
+  <oauth id="18e423">bbb16e19</item>
+  <cookie id="3b98e1">1929</item>
+  <canary id="c3fe12">7577</item>
+  <build id="46d41b">ff220fe68d743e5632cd8b952a0dbfdf</item>
+  <user id="bb0ead">null</item>
+</root>

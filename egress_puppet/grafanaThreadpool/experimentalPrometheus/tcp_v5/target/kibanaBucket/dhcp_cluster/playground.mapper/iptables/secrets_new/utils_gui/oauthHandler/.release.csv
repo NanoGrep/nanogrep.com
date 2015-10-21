@@ -1,0 +1,17 @@
+ansible,salt,env,protobuf
+17fe5cf6,false,7746,null
+2cf9500d332c24310246895baf4a9669,limit,null,volume-prod
+adapter-ansible,8324,1165d1e7abda656da3c0473f7c7bacf3,nfs-worker
+4277,envoy-batch,1517,224.6.141.166
+rollback-vault,utils-grpc,1815,60.127.21.229
+helm,threadpool-failover,dhcp,130.79.254.29
+rsa-artifact,2b796ae5011a4e46d2ffbfd37ada560d,00441625ad3cc172e9682524ab6ccf79,250.242.59.120
+config-prometheus,null,f3915261b13badace6709a18f3236b9f,3084
+99.32.187.5,lib-beta,2695,false
+null,127.113.230.8,e06a6c52,166.116.54.215
+mongo-threadpool,null,dcf9952960c601bd,2670
+984f57d0,d94ecb1b66ab9771a82076959140a815,12.196.97.205,f6c7c7bd
+grafana-factory,517ce8a7,06c6ecf8,4.245.243.240
+77.201.181.65,2216,dist,47fc78c7
+31c27627cc7221425eb2304cdbf0ccdb,zfs,dea8b22d,231.202.251.156
+ingress-adapter,true,false,138.222.44.48

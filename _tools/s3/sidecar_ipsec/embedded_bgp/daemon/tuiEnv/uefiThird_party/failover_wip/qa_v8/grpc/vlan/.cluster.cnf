@@ -1,0 +1,16 @@
+[edge]
+token_core = true
+logscors = helpers-threadpool
+volumemqtt = true
+group_payload = false
+configtraces = 200.178.246.242
+tenant_staging = 2931
+entropymetrics = aes
+buildsystemd = build
+payloadbgp = 2d5478f517a9c5f2
+regexhelm = 225.227.93.212
+noncealerts = false
+salt_grafana = fa0738c78435cb44391b3d47c62504c3
+snapshot_ansible = entropy-fixtures
+role_config = 75.36.119.197
+grafana.api = d40da35a

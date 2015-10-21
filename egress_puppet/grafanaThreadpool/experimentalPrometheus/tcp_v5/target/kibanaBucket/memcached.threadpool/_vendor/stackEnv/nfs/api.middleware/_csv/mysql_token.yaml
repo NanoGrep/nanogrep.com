@@ -1,0 +1,14 @@
+factory: 3594
+raid:
+  - kafka-vlan
+  - 3449
+  - redis
+buffer:
+  - rest-subnet
+  - 7716
+vlan:
+  shard:
+    registry: false
+    redis: 0a9bd126b9b0c4f3
+    tenant:
+      - mocks-retry

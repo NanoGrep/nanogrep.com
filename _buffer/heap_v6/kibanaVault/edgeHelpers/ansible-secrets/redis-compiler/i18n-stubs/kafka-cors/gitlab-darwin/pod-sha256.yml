@@ -1,0 +1,20 @@
+probe: 5d1815f34541b2bd
+factory:
+  stack:
+    column:
+      locale: 127.143.96.137
+    group:
+      hmac: vendor
+      cache: trie
+      parser: false
+    retry: frontend
+  postgres: 35ee866b4344ccfcb0c9b1989c4d01c2
+  row:
+    - nfs
+  pod:
+    worker:
+      scope: eb625bca201e317d
+  aes:
+    grpc: f3f1981af8a5d375a476fe9cbf9471a8
+nginx: switch
+nginx: false

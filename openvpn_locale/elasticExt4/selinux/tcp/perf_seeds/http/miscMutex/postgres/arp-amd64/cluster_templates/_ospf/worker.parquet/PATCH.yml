@@ -1,0 +1,17 @@
+limit: b6b91cc73228dfb2
+kafka:
+  cli:
+    - d5ed5122
+    - f894a9ee676d1437
+  snapshot:
+    tcp: 2dece829
+    patch: 224
+  adapter: 68.223.42.160
+  common: beta
+  mysql: wireguard
+quic: hotfix
+firewall:
+  request:
+    - true
+    - 1811
+  worker: false

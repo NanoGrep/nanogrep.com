@@ -1,0 +1,48 @@
+{
+    "entropy": true,
+    "role": {
+        "raid": 7742,
+        "nginx": {
+            "quic": [
+                1171,
+                null
+            ],
+            "assets": {
+                "fixtures": "9b9f7f268350",
+                "json": "cb213a94b2b1",
+                "mapper": true
+            }
+        }
+    },
+    "config": {
+        "scope": {
+            "cert": {
+                "oauth": "bench",
+                "canary": null,
+                "policy": 2837,
+                "schema": 731,
+                "compiler": false
+            }
+        },
+        "salt": null,
+        "gateway": {
+            "salt": {
+                "snapshot": 1166,
+                "iptables": false,
+                "group": "668b52b33e02",
+                "dns": "ed5e68e5782a",
+                "aes": "build"
+            },
+            "limit": true,
+            "utils": true,
+            "tools": {
+                "hotfix": "rest",
+                "proxy": null,
+                "zfs": "5a465a0b7029",
+                "ceph": true,
+                "scope": false,
+                "heap": "1547aba09011"
+            }
+        }
+    }
+}

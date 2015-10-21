@@ -1,0 +1,4 @@
+raidsdk: 5702
+releasecron: rsa
+watchdogfirmware: vendor-raid
+benchrest: true

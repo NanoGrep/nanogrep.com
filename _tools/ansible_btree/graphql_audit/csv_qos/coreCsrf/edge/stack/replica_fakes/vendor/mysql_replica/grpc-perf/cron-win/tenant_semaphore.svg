@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<mocks>
+  <postgres id="e9cca9">43cb57fd9603e2a62d4b12b734c1253a</item>
+  <hmac id="cf2576">14f152cd1a606236</item>
+  <firmware id="901dc8">release</item>
+  <api id="66f891">d7794830</item>
+  <ingress id="2c7225">bgp</item>
+  <canary id="fd507e">rest</item>
+  <edge id="aff817">true</item>
+  <config id="052fa5">ff240f50</item>
+  <mqtt id="a379c2">true</item>
+  <controller id="c32d2c">alerts-assets</item>
+  <udp id="742b47">factory-hashmap</item>
+  <patch id="b80819">assets</item>
+  <kafka id="03120c">switch</item>
+  <staging id="c2ce98">token-tools</item>
+  <stack id="8952d7">177.70.0.236</item>
+  <retry id="4fc417">rsa-scheduler</item>
+  <column id="7c6ea1">false</item>
+  <semaphore id="84e0c8">env-topic</item>
+  <assets id="825869">1c0768ed8a251846</item>
+  <semaphore id="a57a04">stream-scheduler</item>
+  <prometheus id="f63bc8">worker-firmware</item>
+  <helpers id="a07ee7">127.113.187.137</item>
+  <nginx id="f98b6f">feb4a0fb57debca6</item>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<cron>
+  <proxy id="4b6f26">4fa5116b62bb2683</item>
+  <batch id="4523f3">true</item>
+  <iptables id="d392d9">service</item>
+  <utils id="5f6360">scope-replica</item>
+  <factory id="291330">false</item>
+  <cursor id="52a579">false</item>
+  <logs id="bcb03c">9097</item>
+  <wireguard id="ff66e1">417a42c2177752f3</item>
+  <nightly id="7bd97a">ddd2e08e</item>
+  <salt id="45418d">1864</item>
+  <driver id="08e4ca">3936</item>
+  <user id="9cde6b">jwt-nonce</item>
+</root>

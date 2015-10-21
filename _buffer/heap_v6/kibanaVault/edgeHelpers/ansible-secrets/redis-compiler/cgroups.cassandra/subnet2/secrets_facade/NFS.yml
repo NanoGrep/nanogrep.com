@@ -1,0 +1,28 @@
+wireguard: dfd483f7
+udp:
+  grafana: true
+  response: null
+  cors: snapshot
+  payload: 10.16.253.19
+  cluster: 166.169.3.203
+  bench: true
+nat: null
+token:
+  node:
+    grafana: 1533
+  postgres:
+    cache: false
+    hmac: 90.128.201.64
+    storage:
+      utils: 80d2a0b0686da6c026c8e68fbbb64980
+      alerts: envoy
+      jwt: true
+      backend:
+        - 1411
+        - false
+        - 35.82.204.39
+        - 276
+      snapshot: null
+      wireguard: true
+    vlan: true
+    gateway: tools

@@ -1,0 +1,7 @@
+hotfix:
+  staging: pod
+  cluster: queue
+sha256:
+  - 95.198.7.209
+compiler:
+  migrations: 152.25.31.51

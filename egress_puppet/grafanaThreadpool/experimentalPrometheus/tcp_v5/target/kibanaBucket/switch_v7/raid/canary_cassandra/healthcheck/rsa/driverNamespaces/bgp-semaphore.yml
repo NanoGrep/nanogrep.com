@@ -1,0 +1,2 @@
+common: false
+protobuf: metrics-grpc

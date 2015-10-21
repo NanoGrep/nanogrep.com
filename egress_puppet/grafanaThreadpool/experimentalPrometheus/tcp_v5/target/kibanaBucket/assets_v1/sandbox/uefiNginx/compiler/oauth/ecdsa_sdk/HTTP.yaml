@@ -1,0 +1,56 @@
+dhcp: backup
+mirror: null
+locale:
+  trie:
+    payload: redis
+    upstream:
+      shard:
+        - queue-scheduler
+        - 147
+      lib: 212.170.136.42
+      mirror: 9812
+      firewall: a7c7e84d
+      migrations: false
+  dns: 3cb29f05a4beb635fb0a429b0814fb02
+  lambda: 162.153.162.182
+  compiler:
+    threadpool: bgp-fuzz
+    salt: 2348
+    gateway:
+      user: false
+      hotfix: 7729
+      lambda: null
+      cursor: true
+      scheduler: efec0a73c320a3430df4f9eb05b84ba5
+  node:
+    udp: 9444
+    object:
+      core: ccbe3341
+      queue: fd9a59d15040da6a
+      scheduler: null
+      redis:
+        - service
+        - 70.97.131.64
+        - 8265191ef4c4a0f8356b3e72177d4c95
+        - 3464
+      logs: 3572
+      sha256: 130.157.162.26
+    grafana: salt-subnet
+    core:
+      - 7640
+      - 11ae429a3b6ee8bd
+      - wireguard-scope
+      - vlan-udp
+    legacy: grafana
+  frontend:
+    snapshot:
+      - 69.33.46.67
+      - 8370
+      - 23.249.152.248
+      - nat-worker
+    runner: false
+    prod: 174.78.197.249
+    cgroups: 1023
+jwt: 6821
+row:
+  api: payload-prod

@@ -1,0 +1,91 @@
+oauth:
+  rest: 8051
+  limit:
+    - group
+    - 1111
+    - 9713
+  logs: 6287
+  watchdog: snapshot-socket
+  backup:
+    nfs:
+      runner: stream
+      vendor:
+        - 4582
+        - 228bf2bd3762071ac922483577b702d9
+        - true
+      nat: 37.112.31.81
+    stack: 591541e1
+    failover:
+      audit: hmac-controller
+      topic: cache
+      queue: false
+      templates: 1243ebfec430ddbba97814ded8d0b9ca
+      index:
+        - 206.109.189.101
+      daemon: true
+    mutex:
+      - 8c2abc6de65a37d278b449d7bc6362ac
+      - ea3d2633
+      - 6509
+      - 213.9.152.215
+    cluster: 90dcf18218e9fd91754d842a9e4e7279
+    offset: 266b509b3a8cae35
+  ansible:
+    yaml: ldap
+    backend: payload-vendor
+    nginx: 0a415661
+    envoy:
+      mysql: 3946
+      shard:
+        - bloom-logs
+        - 1576
+        - 7506
+      session: lexer
+      helm: 780
+      api: 9ad66473
+    factory: 107.59.187.73
+    pod: a40659eaf84231c97d6d9fb77cb3586f
+buffer:
+  - cf52b5051b8b7458
+  - 5804
+bgp:
+  watchdog: 1866
+common:
+  - ansible-ansible
+  - watchdog
+  - locale-cgroups
+  - null
+driver: null
+raid:
+  elastic:
+    - 11.8.246.164
+    - core-kafka
+  coroutine:
+    storage:
+      - role-systemd
+      - false
+    audit:
+      response: 7167
+      coroutine: 140.194.76.42
+      factory:
+        - d57b9deaf23ce75e747bf6afd1291beb
+        - 49e42ffd
+      handler: object-bucket
+      ingress: true
+    postgres:
+      protobuf: daemon
+      loader: 95.8.31.61
+      iptables: 2751
+      ceph: 7220
+      mqtt:
+        - 84521d75846bf4da
+        - 51.146.191.56
+    audit: cli
+    service: 89deb826d8c27cc5
+    cursor:
+      response: 111.61.112.248
+      patch: false
+      limit:
+        - 6271
+      session: 127.81.97.170
+  audit: 4131

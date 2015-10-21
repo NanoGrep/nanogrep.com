@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<middleware>
+  <fixtures id="ba025a">mysql-ldap</item>
+  <mapper id="fcfc7e">false</item>
+  <systemd id="d8e24f">470</item>
+  <bgp id="45ddff">false</item>
+  <staging id="ccc697">false</item>
+  <nonce id="4edd34">true</item>
+  <shard id="d1c3d1">78.227.186.30</item>
+  <alerts id="863cb5">59.58.130.16</item>
+  <scope id="7d43e5">7964</item>
+  <offset id="0fa14d">8477</item>
+  <audit id="1ce9fe">26.157.116.136</item>
+  <kafka id="a2b0c0">driver</item>
+  <staging id="0cef26">6248</item>
+  <snapshot id="ff9891">json-lexer</item>
+  <worker id="4039f7">user</item>
+</root>

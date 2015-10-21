@@ -1,0 +1,4 @@
+schema: locale
+backup: nonce-mysql
+storage: 7309
+payload: bench-vlan

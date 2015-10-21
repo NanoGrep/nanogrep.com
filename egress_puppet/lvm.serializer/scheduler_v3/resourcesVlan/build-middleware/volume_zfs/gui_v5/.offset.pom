@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <udp id="6813bb">5715</item>
+  <compiler id="fc9a75">service-cors</item>
+  <nonce id="d5ff08">trie</item>
+  <nfs id="48bcaa">ingress</item>
+  <tools id="035ee8">api</item>
+  <mocks id="097a42">b9d92ea33dd7a42150d2d386df844307</item>
+  <nightly id="6d619a">null</item>
+  <elastic id="5e8905">242.245.152.38</item>
+  <oauth id="fe4fbd">2cf4fdfcb0524a06</item>
+</root>

@@ -1,0 +1,55 @@
+postgres: d131530d38a6973d
+mocks: lib-trie
+middleware:
+  token: 4911
+  object:
+    bgp:
+      - 56.60.202.6
+      - 6b7580cc036cbd31
+    wireguard: 14.106.123.204
+    kernel: 6f693aa53eebb670c9af63b235798a20
+  nginx: 47.175.120.112
+  nfs:
+    request:
+      quic: 2204
+      fixtures:
+        - 58
+        - f6befecb7303c605
+        - false
+        - 449031c6
+      vendor: runner
+      stack: 6927
+    redis:
+      scripts:
+        - mutex-limit
+        - rsa-oauth
+        - 4e59b8cc1dae762c2f9aaada2c1b1845
+    cookie: 122.94.75.239
+    daemon:
+      - http
+      - c53176cc
+      - bucket
+      - 179.147.7.83
+  payload: false
+  pod:
+    migrations: true
+    lib: 9119
+    redis:
+      - 176.215.64.69
+      - 5f2bea71893e03f7e45afb268c65c71d
+      - false
+pod:
+  hotfix:
+    prod: 146.39.144.91
+    cert: websocket
+    kerberos:
+      dist: nightly-cors
+    nat: true
+    ingress: 25a3e214
+  json:
+    semaphore: c389c2ddf9ba1cb8213bfb0f83731ad3
+    pod: mesh-queue
+    alerts: row-node
+    response: 5715
+parser: false
+buffer: redis

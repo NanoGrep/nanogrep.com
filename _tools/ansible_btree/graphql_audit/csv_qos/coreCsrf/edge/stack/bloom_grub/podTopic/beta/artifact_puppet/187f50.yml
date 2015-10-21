@@ -1,0 +1,11 @@
+cursor:
+  raid: kerberos
+  runner:
+    - a22e9a68c946d10d7613106b5ce8e495
+    - null
+    - false
+    - 9431
+  core: 103.133.163.119
+  redis:
+    scheduler: null
+    systemd: beta-driver

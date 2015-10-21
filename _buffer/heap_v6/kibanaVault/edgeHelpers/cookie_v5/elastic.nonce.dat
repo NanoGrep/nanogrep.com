@@ -1,0 +1,17 @@
+switch,user,legacy,cursor,socket
+4394,offset,mapper,null,compiler-graphql
+worker,lambda-scripts,mirror,150.66.191.241,mutex
+false,zfs-entropy,ecf05cbd,false,ingress-core
+crypto-watchdog,acbec166973af7cc,198.165.247.68,config,830
+3117,6269,aaca81389694e6e5c70e94d770b00f8b,lib-jenkins,deb294ce
+runner-migrations,9fc7fbc23936f8d9,sandbox,router,quic
+9411,1057,2104,tenant-protobuf,vlan-redis
+39.166.2.138,failover-firewall,lib,mongo,b011f4b6bd782444
+4a92ad17ba33b40c3333ae810b29c6c0,1791,19ecf799,staging-locale,vendor-helm
+mqtt,mapper-api,null,e9fd4fe03a5ec9b5,null
+fafbeefe,1005,1013,5673,helm
+6973,yaml,179.132.244.187,7786,mocks-replica
+b71281dcb57da16c,60.170.11.75,8aae86c6d16f4c3c76204acc47bff02c,null,e0dac187
+loader,firmware-lib,102.160.176.93,null,41.154.228.42
+1252,cookie,vxlan-locale,false,scripts
+0edf8cbf9d26c2a70ba7b34535d096a1,180.178.89.157,1826,f4e43577,false

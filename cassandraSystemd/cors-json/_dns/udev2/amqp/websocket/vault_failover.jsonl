@@ -1,0 +1,24 @@
+{
+    "row": [
+        [
+            2767,
+            [
+                "72c41516d225",
+                null,
+                "replica"
+            ],
+            {
+                "crypto": null,
+                "hashmap": "b742ab623dc1"
+            },
+            {
+                "mocks": true,
+                "kafka": "watchdog",
+                "driver": 4686,
+                "aes": "e1198ae7ed51",
+                "regex": true
+            }
+        ],
+        true
+    ]
+}

@@ -1,0 +1,18 @@
+[
+  [
+    {
+      "scripts": {
+        "probe": true
+      },
+      "mysql": "failover",
+      "loader": false,
+      "kerberos": [
+        null
+      ],
+      "semaphore": {
+        "nfs": "60fc08f7ecfc",
+        "vault": "yaml"
+      }
+    }
+  ]
+]

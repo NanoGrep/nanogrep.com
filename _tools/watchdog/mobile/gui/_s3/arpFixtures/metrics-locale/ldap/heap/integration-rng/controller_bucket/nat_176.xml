@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<lambda>
+  <registry id="10249e">lambda</item>
+  <envoy id="9a9f05">oauth</item>
+  <table id="6020a6">heap-migrations</item>
+  <elastic id="3cdc12">9407</item>
+  <bucket id="ee231e">null</item>
+  <scope id="ff6e45">9273fcb0b97f0d6e</item>
+  <prod id="358b36">9082</item>
+  <staging id="1a1923">5afee7c11267eaea</item>
+  <mocks id="d3fbd7">controller-envoy</item>
+  <api id="878184">214.240.184.84</item>
+  <lexer id="41ebb4">null</item>
+</root>

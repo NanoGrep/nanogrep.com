@@ -1,0 +1,30 @@
+[
+    {
+        "mirror": {
+            "pipeline": [
+                true,
+                20
+            ],
+            "release": true,
+            "postgres": {
+                "row": false,
+                "bench": false
+            },
+            "failover": null,
+            "common": null
+        },
+        "adapter": false
+    },
+    {
+        "offset": [
+            {
+                "runner": true,
+                "parser": "origin",
+                "utils": 5337
+            }
+        ],
+        "cert": true,
+        "json": null
+    },
+    "prod"
+]

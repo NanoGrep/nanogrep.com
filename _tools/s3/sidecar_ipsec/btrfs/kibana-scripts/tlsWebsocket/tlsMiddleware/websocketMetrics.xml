@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bgp>
+  <staging id="b52759">7034</item>
+  <rsa id="a9cd8b">lexer</item>
+  <aes id="78f968">null</item>
+  <middleware id="8b06c5">false</item>
+  <assets id="17e321">8062</item>
+  <nonce id="d98379">vlan-graphql</item>
+  <stack id="27577f">config</item>
+  <subnet id="ef2c80">d8165e2cdec98bc3</item>
+  <mqtt id="93f079">true</item>
+  <cache id="4ccf60">218.15.172.211</item>
+  <helpers id="e8a4b2">kernel-lambda</item>
+  <table id="7a086c">oauth-hmac</item>
+</root>

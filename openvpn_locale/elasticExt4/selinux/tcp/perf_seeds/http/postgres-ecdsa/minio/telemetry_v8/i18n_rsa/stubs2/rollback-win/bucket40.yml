@@ -1,0 +1,30 @@
+jwt:
+  ingress:
+    release: 6f56521ce168dd81
+    oauth: 8758
+    jenkins:
+      - object-mocks
+      - threadpool-regex
+      - 7db1c1f6
+    mocks:
+      sdk: null
+  lexer:
+    audit:
+      - beta
+      - f1414a19c3c7f93c6c11dbb9a6cb3ecf
+      - 17c40039c2a627caf5c98afbd9867497
+    loader:
+      probe: 1608
+      mapper: 176.22.197.253
+      limit: 3716
+    sandbox: 43.61.123.180
+    logs:
+      mysql: edge-worker
+      protobuf: tcp
+      cursor: null
+      nonce: build
+      sha256:
+        - null
+        - nat-tests
+        - 246493f8f01a8b3b0745ef716e486bc1
+    nat: bucket

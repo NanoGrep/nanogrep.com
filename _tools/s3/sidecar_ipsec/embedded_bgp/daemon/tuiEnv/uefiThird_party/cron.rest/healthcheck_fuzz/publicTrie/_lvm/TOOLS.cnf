@@ -1,0 +1,44 @@
+[daemon]
+cron.firewall = 4173
+row_salt = 60.53.9.222
+patchsystemd = 8135
+mutex.scripts = 1181
+elastic_socket = 5964
+replicascheduler = scope-bloom
+bench.kafka = a8d5157249e18fceb4198b54f1bf5e8f
+trie_factory = 145.45.83.241
+scopetcp = false
+mutex_http = nightly
+json_core = 58298aed9bf6dd38d4744f5ed7d56b38
+prometheus.offset = heap-elastic
+cron.lib = replica
+
+[cluster]
+btreetraces = migrations
+backendbtree = 230.57.201.137
+migrations_wireguard = 8612
+envgateway = null
+edgecompiler = 67.145.127.21
+canary.kernel = null
+origin_topic = 9976b0e4bdbf6713
+lexer.lexer = 186.82.206.37
+semaphore.json = 790bba18
+mqtt_vault = 108f7e3e
+releaseapi = ea1126b4
+bench_bloom = vault-api
+volume_graphql = systemd-http
+bloom_mqtt = traces
+registrygrpc = true
+session.assets = 30353499
+parser.helpers = rsa
+handlerpostgres = false
+quic_backend = 4453
+storage_graphql = 1130
+column.metrics = scheduler
+proxy.tools = 7779
+tests.websocket = 7611
+upstream.snapshot = e2a66423
+object.runner = 921c28da573b2b3f6130baa58a15ea16
+traces_traces = 247.166.98.32
+ceph.vxlan = 6b22e664befa9dabd8b545214410b762
+snapshot_cron = 1891

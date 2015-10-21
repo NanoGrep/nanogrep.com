@@ -1,0 +1,21 @@
+{
+  "fuzz": null,
+  "core": "2b4390d6f9fa",
+  "backend": [
+    {
+      "tls": [],
+      "gateway": {
+        "switch": null,
+        "scheduler": true
+      },
+      "rest": {
+        "dist": "wireguard",
+        "semaphore": null,
+        "column": "51a8f7ac3eda",
+        "terraform": 5814,
+        "probe": "a973e6934a74",
+        "mesh": "jenkins"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<sdk>
+  <policy id="7fb498">controller</item>
+  <oauth id="cc197f">31.198.5.7</item>
+  <udp id="f6105d">websocket-jwt</item>
+  <config id="40ad49">socket</item>
+  <artifact id="eba649">fa511efecf3b40af</item>
+  <aes id="c64389">0b28449ef1830ab6</item>
+  <jenkins id="4bc4df">rollback</item>
+  <topic id="9d016b">kerberos</item>
+  <mirror id="50c91b">1818</item>
+  <regex id="390bf6">protobuf-watchdog</item>
+  <replica id="a6141b">158.165.150.235</item>
+  <traces id="707b69">true</item>
+  <btree id="752c7f">build-lambda</item>
+  <raid id="f8cc52">5a450ece</item>
+</root>

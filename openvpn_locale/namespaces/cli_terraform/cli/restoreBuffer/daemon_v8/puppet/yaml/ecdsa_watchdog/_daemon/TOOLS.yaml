@@ -1,0 +1,4 @@
+mirror:
+  http: bgp-dns
+  replica: 8472e127368b56e7
+user: 3dedbb920b25e4c4dc431fe152797a1b

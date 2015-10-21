@@ -1,0 +1,47 @@
+utils:
+  prometheus:
+    edge: switch-watchdog
+    utils:
+      - postgres-heap
+      - false
+      - raid-json
+    daemon:
+      payload: 142.198.162.154
+    stream:
+      socket: nat
+      bgp:
+        - 7773
+        - 775e6f6ff1fef62c07ac3e15dab25162
+        - 117.96.42.72
+      cors: 9780
+      migrations: frontend-legacy
+      entropy: b0e549e8dfa1799a
+    ansible: 231.207.90.157
+    ansible: jwt-router
+  beta: null
+  ingress: redis
+sha256:
+  locale: 4381
+  stream:
+    - 3a1f7d0381928ec505695c76efd35ed1
+    - false
+  templates: 8112
+  hotfix:
+    vault: 3993
+    graphql:
+      - ansible-mutex
+      - legacy
+      - dhcp
+    storage: driver
+    adapter:
+      - api-cache
+      - migrations-common
+      - null
+    env: 122.124.3.61
+bootstrap: true
+jenkins: jenkins-legacy
+mutex:
+  - 235.66.31.51
+  - f8e7eb51bd3ab45e
+  - bucket-cors
+policy: 57.144.57.250

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<salt>
+  <nonce id="b5be7d">true</item>
+  <jwt id="6a77fc">e6d47ca9f12e3073</item>
+  <batch id="0dcd4a">59.90.116.241</item>
+  <scope id="89495c">helpers-shard</item>
+  <salt id="3d9edb">daaab93b5e25f618</item>
+  <utils id="ddd325">scheduler-mesh</item>
+  <object id="c2e438">shard-nat</item>
+  <mutex id="c44ad5">8d002481bac43b0dd9177d5d091c0cdc</item>
+  <iptables id="828e0e">mqtt-cookie</item>
+  <limit id="c2a4cc">2277</item>
+  <parser id="4b921f">backup-redis</item>
+  <router id="da8609">b3b8678e1192770acf61e7eeb52fcf1d</item>
+</root>

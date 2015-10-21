@@ -1,0 +1,10 @@
+sdk: staging-envoy
+salt:
+  - 246.174.74.239
+  - 5331
+firewall: dist
+ldap:
+  - true
+  - 5030
+  - 06b3f442
+  - build-backup

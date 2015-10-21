@@ -1,0 +1,29 @@
+http: 149.97.80.87
+nfs:
+  shard: 8102
+api:
+  redis: true
+  topic: 5068
+  mocks: ingress
+  subnet: 242.111.39.194
+watchdog: firewall
+core:
+  ansible:
+    - nfs-bloom
+    - 8327
+    - 3de0635963961ed5b5e643c44b6b3aeb
+  udp:
+    snapshot: 364ee807ce1c5f47d798601f1970c938
+    sha256:
+      udp: threadpool
+      row:
+        - migrations-vlan
+        - 141.150.68.199
+        - null
+      grafana: null
+      group: true
+    alerts: btree-firewall
+  raid: topic-object
+  edge: udp-factory
+  driver: mesh-hashmap
+locale: node

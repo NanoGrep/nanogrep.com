@@ -1,0 +1,12 @@
+payload: 43.110.61.237
+ceph:
+  - 2d24cb14
+parser:
+  - 19.226.98.110
+  - true
+  - true
+cgroups: 7084
+frontend:
+  - ef900f4e
+  - 5316899cb7ee094b
+  - 1223

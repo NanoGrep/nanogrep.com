@@ -1,0 +1,38 @@
+offset:
+  topic: btree
+  factory:
+    subnet: proxy
+    aes: aadbcefd3fa341c1da67671b969a7f37
+    daemon:
+      - 210.148.33.146
+      - 6896
+      - rollback-router
+  hotfix: fuzz-nginx
+  table:
+    dns:
+      cron: loader-tenant
+      nightly:
+        - raid-lambda
+        - 207.113.58.36
+      lib: null
+      lambda:
+        - 4603
+        - 4.87.140.161
+        - 4468
+      kerberos: 3cab6c6ab41458a7
+      mongo: nfs-factory
+    raid: daemon-trie
+    request:
+      - 3334
+      - true
+      - 7375
+    wireguard: 8031aac4e05c8e22
+    mqtt: 139.0.189.226
+upstream: ecaa3f0ab91d739322e4e930e98acf2b
+group:
+  api: session
+  cookie: 134.104.158.97
+  common: 082c48dd524683984c706b6c786668b0
+edge: null
+vxlan: false
+salt: 211.197.42.136

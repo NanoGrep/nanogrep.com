@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<hmac>
+  <entropy id="c1492b">140.200.104.125</item>
+  <bucket id="b1ffb1">null</item>
+  <router id="fe77e1">false</item>
+  <cli id="0a5ad9">1ca2636a8faa0e79b5d314418ce8fda6</item>
+  <rollback id="8e5ad9">true</item>
+  <policy id="d33b51">true</item>
+  <udp id="d35fcc">elastic-templates</item>
+  <postgres id="223489">service-lexer</item>
+  <row id="100a1e">163.25.250.125</item>
+  <json id="a96452">46.226.167.57</item>
+</root>

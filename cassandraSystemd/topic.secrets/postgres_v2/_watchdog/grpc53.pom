@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<mapper>
+  <registry id="8fe759">a591b753</item>
+  <json id="277ad7">scheduler</item>
+  <quic id="300f0c">false</item>
+  <worker id="ba9058">stream</item>
+  <hmac id="6d19af">135.240.124.69</item>
+  <nginx id="66dcb1">bench</item>
+  <jenkins id="dc694d">false</item>
+  <prometheus id="46b099">firmware</item>
+  <vendor id="939448">dns</item>
+  <mysql id="e49a8e">kafka-cluster</item>
+  <cursor id="8a1b35">ldap</item>
+  <sdk id="80bdc7">180.218.36.231</item>
+  <mutex id="1ebaa0">79.199.10.70</item>
+  <iptables id="7c1d9e">e9c2eb14adc280ca</item>
+  <snapshot id="b2bdb2">traces</item>
+  <btree id="db8356">middleware</item>
+  <rsa id="95439f">135.170.8.100</item>
+  <cache id="aac1ec">4801</item>
+  <role id="21da80">0c1bb406671c6024</item>
+  <queue id="796ef5">d39efdb37dc5f9472699ec0aed1ae627</item>
+  <router id="8c049c">true</item>
+  <vlan id="4fe6f1">queue</item>
+  <topic id="b3a718">mapper</item>
+</root>

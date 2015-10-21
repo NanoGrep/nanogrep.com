@@ -1,0 +1,5 @@
+loader:
+  - tls-cgroups
+  - 82.166.165.72
+  - 7b6aa99abc49c2151d8b38d62bc8ba34
+logs: logs-frontend

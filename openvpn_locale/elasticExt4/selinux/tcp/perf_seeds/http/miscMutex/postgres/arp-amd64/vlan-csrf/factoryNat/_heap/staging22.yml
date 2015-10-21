@@ -1,0 +1,73 @@
+logs: null
+cgroups:
+  - 266b4835
+  - 5084
+  - 93.113.65.54
+service:
+  bootstrap: true
+  session: null
+  user:
+    firmware:
+      - 18.62.209.28
+    dhcp: 224.1.65.128
+    nightly: bloom-cert
+    rsa: true
+    scope:
+      user: 807048017de98169d0c08c4b93ef511d
+      compiler: false
+      upstream: storage-audit
+      kafka: 63fde67d6744a32a238f382c5e7b3978
+      origin: 9294
+      router: 1340
+  vlan: 65835f7f
+  offset: true
+  crypto: cd0750b9075aeb0c
+lib:
+  nightly:
+    logs:
+      env: pipeline-response
+      salt: 5.146.205.135
+      scripts: 107.240.96.10
+      lambda:
+        - 24.57.48.119
+        - tools-upstream
+        - env-backup
+    pod:
+      scope: 6156
+      common: da56c12d
+    raid:
+      schema: false
+      cursor: null
+      scheduler: redis-cgroups
+      sha256: staging
+      beta: 63ab903d6ce93049831a59e91be6b54c
+      nfs: 221.127.99.68
+    trie: frontend-sha256
+    release: worker-dhcp
+    fixtures: 4033
+  subnet: postgres-build
+  replica:
+    cgroups:
+      nat: 5244
+      proxy: 6bec0e2e
+      patch: wireguard-sha256
+      bloom: backup-object
+    hotfix:
+      snapshot:
+        - 42.22.36.127
+        - false
+        - ceph-gateway
+        - driver-locale
+      upstream: true
+    yaml: 2589
+    column:
+      oauth: 3387
+      topic: ca3540203691f1ecc13c5609d7e42dfc
+      heap: cc3ebe54
+      sandbox: 4807
+      dist: 918bd5969a17bd968272331e84935891
+      aes: false
+    driver: false
+    gateway: true
+  regex: index-proxy
+  rollback: a1c5b568

@@ -1,0 +1,6 @@
+dist: storage
+envoy:
+  - 7011f6c1200efaca24b084c690bfa61d
+  - 229.239.11.42
+buffer: 7010
+batch: backend-protobuf

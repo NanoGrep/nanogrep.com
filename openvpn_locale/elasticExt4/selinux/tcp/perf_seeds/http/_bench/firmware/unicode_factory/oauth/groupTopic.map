@@ -1,0 +1,55 @@
+{
+    "fixtures": [
+        [
+            453,
+            [],
+            6232
+        ],
+        {
+            "table": {
+                "ceph": "token",
+                "volume": true,
+                "node": false
+            },
+            "middleware": {
+                "btree": "mongo",
+                "entropy": false,
+                "iptables": 2247
+            },
+            "firewall": null
+        }
+    ],
+    "fuzz": 7825,
+    "pipeline": {
+        "artifact": "controller"
+    },
+    "prod": {
+        "trie": [
+            {
+                "router": "067ed4d137b3",
+                "aes": null
+            },
+            false,
+            false
+        ]
+    },
+    "queue": {
+        "cors": [
+            false,
+            [
+                null,
+                "791aff615f2d"
+            ]
+        ],
+        "alerts": [
+            [
+                "03f5218a440f"
+            ],
+            [],
+            true
+        ],
+        "semaphore": {
+            "trie": "e1281ca060bf"
+        }
+    }
+}

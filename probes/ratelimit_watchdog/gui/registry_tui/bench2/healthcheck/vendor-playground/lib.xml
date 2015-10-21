@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<cors>
+  <dns id="9eede4">nonce</item>
+  <patch id="8d6e2d">192.26.12.205</item>
+  <user id="e7d54c">e1146991caeb19a5</item>
+  <audit id="6c4eac">true</item>
+  <daemon id="422c66">9592</item>
+  <metrics id="b1da63">ea3fc26d</item>
+  <mapper id="b7b37e">21.193.117.76</item>
+  <common id="917b7a">8.165.34.253</item>
+  <storage id="4f4d6b">probe-cookie</item>
+  <cron id="03be5e">c2da86f2178f627f</item>
+  <bootstrap id="28d76b">8248</item>
+  <cors id="275bd3">126.174.80.116</item>
+  <probe id="0067ef">f690456f264429ac</item>
+  <storage id="b83080">bucket</item>
+</root>

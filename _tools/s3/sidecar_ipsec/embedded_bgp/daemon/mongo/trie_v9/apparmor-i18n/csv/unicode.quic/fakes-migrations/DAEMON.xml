@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<btree>
+  <replica id="2ef4ed">171.125.196.43</item>
+  <tls id="974a60">helm</item>
+  <scripts id="05b112">true</item>
+  <jwt id="29c871">locale-legacy</item>
+  <hashmap id="449343">a0e11c24</item>
+  <mysql id="c44b66">209.179.237.180</item>
+  <artifact id="75ab48">crypto</item>
+  <subnet id="0099b4">207.2.12.236</item>
+  <jenkins id="54aa6d">7965</item>
+  <envoy id="96e49c">true</item>
+  <registry id="c23bcf">7877</item>
+  <patch id="83c6fa">hashmap-firewall</item>
+  <table id="0f69fe">5837</item>
+  <middleware id="8efd9b">tls-snapshot</item>
+  <controller id="0da678">false</item>
+  <role id="351afa">tests-scheduler</item>
+  <json id="0d6d54">true</item>
+  <mutex id="403e27">6381</item>
+  <grafana id="dd6ab3">scope</item>
+  <dist id="aa454d">null</item>
+  <backend id="6274e5">140.146.73.134</item>
+  <crypto id="5cfd57">null</item>
+  <backup id="d7c1c3">68387303</item>
+</root>

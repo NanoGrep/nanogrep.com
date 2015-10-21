@@ -1,0 +1,16 @@
+cgroups: 52935e2b818a9cf9
+replica:
+  prod:
+    queue:
+      - core-logs
+      - 4616
+      - vxlan-alerts
+      - 2.226.149.44
+  nonce: null
+  graphql: 452
+  threadpool: yaml
+  bucket: false
+mysql:
+  tools: shard-core
+oauth: 9364
+stream: 2e1937b3

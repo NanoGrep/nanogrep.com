@@ -1,0 +1,14 @@
+logs: config
+aes:
+  - null
+  - udp-traces
+  - token
+queue: a563cd8b022c2277
+middleware: templates-beta
+group:
+  grpc:
+    - false
+    - http
+  user: sdk-batch
+  registry: ceph
+  nightly: metrics

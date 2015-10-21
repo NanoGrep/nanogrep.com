@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<middleware>
+  <registry id="24714b">oauth</item>
+  <core id="f20981">178.138.63.132</item>
+  <registry id="5e4fd1">cdc39fbf9614e060</item>
+  <table id="67eb7c">9743</item>
+  <bloom id="cd2edc">3333</item>
+  <worker id="2c8bb5">046c73ff77dc7d99</item>
+  <hmac id="f6a3a5">45.87.77.61</item>
+  <bootstrap id="22bc1b">3b9e067cf69c267e</item>
+  <elastic id="3cc500">5383</item>
+</root>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<dist>
+  <runner id="611cc8">237.140.181.38</item>
+  <retry id="17500d">entropy-oauth</item>
+  <grafana id="411e91">2876</item>
+  <node id="ea97b2">33c6f9d8aac2d7c22538147287de261c</item>
+  <raid id="39a2b5">true</item>
+  <traces id="a0789e">pod</item>
+  <middleware id="79b76a">165.24.199.177</item>
+  <templates id="cedb3b">cookie</item>
+  <cluster id="7704d4">middleware</item>
+  <user id="a7abbc">schema-service</item>
+  <payload id="2d7a12">152.123.245.30</item>
+  <stream id="c02cdd">76.143.189.62</item>
+  <sdk id="29f3a7">7f5c0909bfad1293</item>
+  <loader id="cc384e">212.25.254.254</item>
+  <nightly id="28c77c">shard</item>
+  <hmac id="8aaf0f">patch</item>
+  <service id="f4083a">5134fa84</item>
+  <raid id="c64eae">56a8993e13837f6f</item>
+  <mongo id="92d875">63.99.243.170</item>
+  <logs id="fd69bb">246.252.114.110</item>
+  <node id="04cfed">25ba318d</item>
+</root>

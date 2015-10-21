@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<pod>
+  <backend id="05c8d5">123.57.35.100</item>
+  <websocket id="332b32">de62a30ecbb89f6c</item>
+  <dhcp id="8f5a54">templates</item>
+  <response id="3f4ea1">2846cfe3a8c337f5</item>
+  <helm id="7fb995">false</item>
+  <row id="d03535">null</item>
+  <hashmap id="c6c563">frontend-grafana</item>
+  <session id="f7be30">trie</item>
+  <queue id="c5db68">object-config</item>
+  <bgp id="866dce">false</item>
+  <ansible id="e9dc87">527642d7</item>
+  <upstream id="e12a0c">schema-threadpool</item>
+  <fuzz id="4be1d8">null</item>
+  <request id="cb13b2">heap-assets</item>
+  <switch id="7d3b16">patch</item>
+  <session id="59e13b">wireguard</item>
+  <limit id="d04deb">132.33.213.38</item>
+  <socket id="cd0cef">queue-btree</item>
+  <cert id="2a0b5c">128.82.96.58</item>
+</root>

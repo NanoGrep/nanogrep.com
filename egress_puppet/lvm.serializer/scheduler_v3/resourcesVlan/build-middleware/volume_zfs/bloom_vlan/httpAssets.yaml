@@ -1,0 +1,4 @@
+edge: 6286
+systemd: null
+failover: true
+systemd: raid

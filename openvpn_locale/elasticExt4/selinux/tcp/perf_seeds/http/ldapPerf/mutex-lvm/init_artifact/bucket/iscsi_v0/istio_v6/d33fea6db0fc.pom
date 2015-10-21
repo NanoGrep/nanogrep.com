@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<iptables>
+  <fixtures id="8edc4c">191.251.59.54</item>
+  <threadpool id="6df518">64.72.46.136</item>
+  <mesh id="b22126">rollback-staging</item>
+  <fuzz id="84dd59">83f5fbe0</item>
+  <mesh id="65b625">scheduler-logs</item>
+  <nonce id="1c9162">bench</item>
+  <cluster id="afbaae">7254</item>
+  <helm id="7b8c0d">batch-rsa</item>
+  <snapshot id="9d983d">node-retry</item>
+  <scope id="532006">stream</item>
+  <mqtt id="53e923">e4e8047df8f780b9</item>
+  <oauth id="2ebb4b">jenkins</item>
+  <node id="b65640">vxlan-cgroups</item>
+  <rollback id="e6f983">backend</item>
+  <oauth id="9425ea">sha256</item>
+  <api id="08b6d9">9541</item>
+  <column id="f3943d">47.130.113.153</item>
+  <release id="847080">index</item>
+  <sandbox id="678607">false</item>
+  <kafka id="c8e602">vendor-parser</item>
+  <kernel id="43f2e2">122.234.133.117</item>
+  <queue id="7bf7e1">elastic</item>
+  <volume id="3a3cb6">76.173.201.5</item>
+  <tls id="d981bc">69d98d2b</item>
+</root>

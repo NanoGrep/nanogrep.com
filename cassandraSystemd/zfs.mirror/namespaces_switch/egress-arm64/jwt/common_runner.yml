@@ -1,0 +1,13 @@
+topic:
+  token: 1a3f27fd2ef6e5f0
+  salt: 482ea20c130320c3
+  watchdog:
+    nat: loader-tools
+    ingress:
+      trie: rest
+      bgp:
+        - proxy
+        - 2387
+        - backup-vendor
+crypto: 7296
+cgroups: null

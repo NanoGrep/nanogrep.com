@@ -1,0 +1,33 @@
+node: 186.78.231.226
+systemd: 398153ded7053b52b90453086d8a8d80
+topic: fuzz-firmware
+socket:
+  lib: retry
+  nightly:
+    kerberos: true
+  nginx: lib-wireguard
+  jwt: ldap-helpers
+  ansible:
+    legacy: 5227
+    rollback:
+      alerts: fuzz
+    sha256:
+      firewall:
+        - 1.11.61.1
+        - factory
+      udp: vlan-mirror
+      lambda: coroutine
+      json: 254.59.42.126
+      nat: 2187
+    salt:
+      buffer: 244.208.137.46
+      grafana: 4392
+      sandbox: 163.249.11.202
+      scripts: terraform
+      salt: null
+      mapper: true
+    router: policy-prod
+    tests: null
+  kernel: 108
+nfs: false
+stack: null

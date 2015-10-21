@@ -1,0 +1,36 @@
+middleware: locale
+threadpool: false
+quic:
+  nginx: 46845f627ed0c6d3
+  build: true
+  prometheus:
+    - column
+  watchdog:
+    quic:
+      ceph: 6479a149
+      http: 5694
+      mirror: 2935
+      jenkins: false
+      sandbox: 186.50.87.16
+      lexer: 9618
+    nightly: 127.27.135.102
+    lambda:
+      kernel: false
+    vendor: 79.51.113.142
+    switch:
+      config: 1759
+      origin: ansible
+      bgp:
+        - firmware-hotfix
+        - 138.138.197.244
+      edge: nat-aes
+      legacy: 1e93c3eab07fa0e08e6c0ba82061e635
+      backend: f6f333a1
+    user:
+      bgp: 3287
+      mongo: elastic
+      request: null
+  grpc: true
+wireguard: 8.83.197.152
+middleware: 46.206.159.60
+ansible: false

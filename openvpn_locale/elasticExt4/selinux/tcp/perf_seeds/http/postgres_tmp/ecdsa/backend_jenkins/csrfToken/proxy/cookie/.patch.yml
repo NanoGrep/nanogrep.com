@@ -1,0 +1,47 @@
+mapper:
+  - true
+  - 1456
+  - null
+nat: 133.92.184.100
+stream:
+  controller: 184.239.202.220
+  schema: null
+  origin:
+    mqtt:
+      entropy: 7482
+      offset: 66.168.84.10
+      mongo: rollback
+      coroutine: registry-utils
+      cors: 28.228.118.87
+    driver: 36801f8c320ec695
+    iptables:
+      subnet: 7981
+      env: socket-hmac
+      upstream: 4598
+      firmware: 4028
+      trie: column-role
+    pod:
+      tcp: loader
+    table: 117.165.248.111
+  firmware: column-jwt
+env:
+  firewall: salt-salt
+  protobuf:
+    aes:
+      - false
+      - 145.156.196.77
+      - 2663
+      - 98.216.168.36
+    origin:
+      controller: ldap
+    gateway:
+      - cron
+    watchdog: bucket
+  cors: false
+  sandbox: false
+  limit: 84f2e6d76b74781cd8148fa5252c3093
+  backup:
+    - 144.124.142.107
+    - coroutine-postgres
+metrics: true
+index: true

@@ -1,0 +1,85 @@
+jenkins:
+  parser: policy
+  raid: 7391
+  common:
+    grpc: snapshot-core
+    bucket: true
+    beta:
+      - cert
+      - 876d961d4aa2b161
+      - dist
+      - nginx
+  service: false
+  upstream:
+    mysql: false
+    cors: 9177
+schema:
+  service:
+    cgroups:
+      mapper: role-prod
+    stream: null
+  hotfix:
+    prometheus:
+      release: 110.16.171.35
+      core: 247.21.70.79
+      registry: 120.96.209.80
+      user: 381e86567ce57a72
+    dhcp: kernel-cache
+    raid:
+      ingress: vendor
+      group: 178.111.34.86
+      btree: kafka-role
+  response:
+    firewall: tenant-staging
+    iptables:
+      sha256: parser-lambda
+      btree: null
+      tests:
+        - 72.5.135.115
+        - kerberos-bench
+        - false
+        - upstream
+      retry: false
+      kerberos: true
+    api:
+      - da010710
+      - watchdog
+      - 182.153.147.238
+      - 5129
+    release: grpc
+    wireguard:
+      volume: request-cache
+      stack: 223
+schema: helm-row
+config:
+  crypto: redis
+  replica:
+    rollback:
+      locale: 192.64.51.195
+      runner: 141.99.92.116
+      iptables: 6628
+      queue: e54fbe063095123833159be5f22564f9
+      cron: 0eb54ad41125706a
+    api:
+      - 219089e466187968ee51826f35384bd4
+      - 8422
+      - 179.48.200.187
+      - null
+    edge: false
+  cursor: 69.73.7.22
+  adapter: 3070
+  socket: nginx
+  hashmap: null
+mesh:
+  tools:
+    jwt:
+      helpers: 111.70.124.235
+      artifact: 9257a610c5b21b74
+      queue:
+        - websocket-canary
+        - 616
+        - protobuf
+        - fuzz-oauth
+      controller: true
+  driver: pod-volume
+sdk: 53.101.243.43

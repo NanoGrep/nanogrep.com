@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<nightly>
+  <node id="f37510">49.19.99.68</item>
+  <table id="96abfb">utils-legacy</item>
+  <response id="c842c8">legacy</item>
+  <policy id="6e5f47">1160</item>
+  <table id="0d9592">semaphore-vxlan</item>
+  <kernel id="87f07b">worker-daemon</item>
+  <cluster id="0acf15">2.214.184.196</item>
+  <fixtures id="c7ec29">ca23abc8</item>
+  <proxy id="6f95cb">c3a20c60815ebf95</item>
+  <socket id="5f9263">null</item>
+  <mongo id="267282">jenkins</item>
+  <vxlan id="3f70ea">218.237.114.98</item>
+  <nonce id="c007f5">mapper</item>
+</root>

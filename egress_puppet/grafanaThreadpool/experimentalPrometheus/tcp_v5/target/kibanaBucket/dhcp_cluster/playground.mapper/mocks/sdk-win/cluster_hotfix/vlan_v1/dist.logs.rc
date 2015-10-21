@@ -1,0 +1,50 @@
+[cli]
+adapter.sandbox = 5805
+responsecolumn = utils-row
+vlan.watchdog = lib-ansible
+policy_kafka = tls
+bootstrap.kafka = 237.70.30.213
+restcompiler = null
+index.cache = 234.230.250.131
+switch_salt = 8b43d34649c8124e
+patch_kernel = null
+driver_lexer = 6892
+logs.mirror = 6840
+helpers_bloom = 6.34.52.129
+aes_jenkins = batch
+nodesdk = 68
+user.column = true
+nat.mirror = policy-protobuf
+terraform_group = 194.197.57.161
+node.adapter = column
+bgp_router = 9c82f6ad
+cgroupsentropy = compiler-release
+
+[audit]
+fuzznfs = 210.122.89.160
+nat_prod = volume
+edge_edge = 2120
+mapper.lib = 3d1f5402
+corsdaemon = cli-legacy
+ansible_adapter = 7619
+hotfix_rest = 134.44.239.36
+api.payload = 123.77.154.240
+fixtures.release = 232.194.168.92
+scope_ldap = b737c8c3
+grpcstorage = 5444
+loadertrie = e2174d81d499dc06
+
+[artifact]
+queue_cgroups = proxy-token
+hashmapaes = fcb7a07a61a23d283c3344e78af532fe
+ingress_cookie = f84e66acf386630a26913bc83198662c
+parser.envoy = 211.75.228.25
+lambdadriver = a297a53fd8e877faf5c68e5267596d66
+
+[ingress]
+frontend.audit = 68.215.3.7
+user.yaml = null
+mysql_node = origin-nonce
+mocksudp = 2646
+runner_hashmap = 182.44.90.39
+scope_tenant = true

@@ -1,0 +1,50 @@
+kafka: dhcp
+lexer:
+  helpers:
+    mqtt: 189.125.52.37
+    heap:
+      rollback: false
+    storage: 6937
+    env: terraform
+    fuzz:
+      nonce:
+        - 1511
+        - mongo
+  hmac:
+    - alerts-limit
+    - iptables
+  stream:
+    - build-switch
+    - c82ca6070034b131302897ce6f2141ed
+    - storage
+    - false
+  bench: 196.76.183.164
+volume:
+  fuzz: adapter
+bench: 0cf512541241dc9e
+cert:
+  build: 4.246.149.7
+  topic:
+    - sdk-mapper
+    - 74d21eb6466f1341
+    - 4089
+    - grafana-helm
+  nonce: 4f73c8e233d326e99af32289d3fbe891
+  parser:
+    zfs: 23.63.98.142
+    prod: 66822ff9e56dc013
+    session: 9021
+    redis: hotfix-helpers
+  cron:
+    table: 9607511c54ad0c29
+    backend: false
+    dns: 205.54.173.13
+    artifact: 79.61.69.176
+  driver: 198.142.253.9
+redis:
+  artifact: 4372ee63
+  stream: 4187
+  bucket: 699a3e65260a6cbf
+  frontend: 110.220.125.60
+  tests: 41a500dbbdd579a7f96a4c34fbd2a227
+  controller: 2191

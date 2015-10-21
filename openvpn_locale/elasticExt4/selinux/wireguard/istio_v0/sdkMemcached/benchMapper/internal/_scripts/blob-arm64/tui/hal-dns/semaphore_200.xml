@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<pod>
+  <raid id="5040ce">false</item>
+  <coroutine id="979a6b">postgres</item>
+  <vendor id="ad927a">190.77.94.170</item>
+  <group id="9db6ed">143.58.250.151</item>
+  <index id="1a6068">8032</item>
+  <frontend id="30834b">lambda-btree</item>
+  <vault id="b69164">lib</item>
+  <protobuf id="0c52f5">vlan-beta</item>
+  <factory id="101337">null</item>
+  <release id="f94dba">registry-index</item>
+  <worker id="0abbd5">nonce</item>
+  <registry id="1424b5">638d5abb7862b770</item>
+  <controller id="cc0f11">switch-pod</item>
+  <fixtures id="4d2d71">false</item>
+  <row id="262cf6">mysql</item>
+  <topic id="83847f">7546</item>
+  <beta id="3c1241">token-bootstrap</item>
+  <artifact id="17dcff">migrations-tests</item>
+  <lambda id="b9d3bc">139.225.59.11</item>
+  <dns id="24fced">router-registry</item>
+  <tls id="15d9e7">d24376cec433912326dc5e6b7ba3d93c</item>
+  <loader id="f73e4e">9273adee5941e94ec6d8f980736616df</item>
+  <backup id="f71824">127.156.227.92</item>
+</root>

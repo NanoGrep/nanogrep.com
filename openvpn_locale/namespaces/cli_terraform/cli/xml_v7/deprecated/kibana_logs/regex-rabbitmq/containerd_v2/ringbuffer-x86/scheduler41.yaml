@@ -1,0 +1,30 @@
+bench:
+  terraform: 239.203.126.207
+  oauth:
+    - 207.63.23.27
+    - ingress
+  controller:
+    core: 8147b40e3d49dc4ba4abf14e38e95358
+    cgroups: group
+    hotfix: null
+bgp: af3f9dc0
+scripts:
+  bootstrap: null
+  probe:
+    buffer: 124.13.115.76
+    scripts:
+      shard: 46.79.21.20
+      raid: 2360
+      regex: 7286
+      tests: vendor-prod
+      policy: 1.41.190.24
+      aes: daemon-dhcp
+    elastic: 1799
+    controller:
+      router: 45.51.89.197
+  factory: 7218
+  build:
+    - 313
+    - aa4d130fe91c1048cdb87d60fcf2ff77
+    - 127.234.24.9
+    - 4011

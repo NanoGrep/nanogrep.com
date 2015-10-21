@@ -1,0 +1,39 @@
+[
+  {
+    "udp": "failover",
+    "runner": {
+      "hotfix": {
+        "api": 1020,
+        "token": 1137
+      },
+      "cron": "c21ffa5826ba"
+    },
+    "mapper": {
+      "rest": false,
+      "mapper": {
+        "locale": "tenant",
+        "envoy": "tests",
+        "lib": null
+      },
+      "edge": {
+        "user": "cache"
+      },
+      "driver": true,
+      "watchdog": [
+        true,
+        "3f980cd4aa77",
+        false,
+        false
+      ],
+      "config": false
+    },
+    "schema": {
+      "vxlan": [
+        true,
+        6993,
+        "batch",
+        false
+      ]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+{
+    "cert": 9004,
+    "ceph": "coroutine",
+    "kafka": [
+        {
+            "templates": null,
+            "jenkins": null,
+            "index": false
+        },
+        {
+            "elastic": {
+                "tls": false
+            },
+            "http": [
+                "redis",
+                null,
+                "e9caaacb893f"
+            ]
+        },
+        {
+            "cursor": "97b0a8649713",
+            "nat": [
+                false,
+                null,
+                null,
+                "951adb74e844"
+            ],
+            "tests": 6122,
+            "mapper": {
+                "scheduler": null,
+                "vlan": "4f9bfa15d4d9",
+                "registry": true,
+                "regex": 5133,
+                "kernel": 1423,
+                "hashmap": "storage"
+            },
+            "firmware": {
+                "hmac": true,
+                "retry": true,
+                "cluster": true,
+                "failover": 6153,
+                "bloom": false
+            }
+        },
+        true
+    ]
+}

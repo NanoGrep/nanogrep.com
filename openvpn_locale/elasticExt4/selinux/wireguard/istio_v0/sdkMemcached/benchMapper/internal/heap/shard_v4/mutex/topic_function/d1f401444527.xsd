@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<vault>
+  <common id="b0f2d1">gateway-bgp</item>
+  <mongo id="598ae9">e0b53a0c</item>
+  <helpers id="0b80db">3c64b520b91b927eb6bc72d9609b614f</item>
+  <semaphore id="822d72">oauth</item>
+</root>

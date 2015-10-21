@@ -1,0 +1,20 @@
+mirror:
+  nfs: token
+  index:
+    - 6459
+    - 44a1e4ce
+    - 5447
+    - bgp
+  beta:
+    - 7396
+    - salt-user
+    - null
+  build: 78.173.135.118
+  backup:
+    firmware:
+      - null
+    locale: 202.197.69.22
+    redis: 209.40.25.56
+origin:
+  core: true
+factory: index

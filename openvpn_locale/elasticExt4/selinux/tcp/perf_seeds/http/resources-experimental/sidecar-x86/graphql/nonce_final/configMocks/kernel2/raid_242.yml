@@ -1,0 +1,14 @@
+daemon:
+  retry: payload
+  cgroups:
+    templates: 137.119.2.2
+    cli:
+      - nginx-kernel
+      - 96.63.31.83
+      - 250.233.192.37
+      - 7092
+  pipeline:
+    router: 9fddbdba
+queue: 9287
+shard:
+  backup: 1633

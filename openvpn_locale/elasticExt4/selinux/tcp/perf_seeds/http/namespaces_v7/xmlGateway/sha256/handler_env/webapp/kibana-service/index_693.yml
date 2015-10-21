@@ -1,0 +1,26 @@
+shard: scheduler
+loader: templates-daemon
+firmware: column
+schema:
+  socket:
+    - group
+    - 820cdeace63d5875e687591027bbf2c6
+    - 202.178.108.78
+  offset:
+    vault: false
+    response:
+      registry:
+        - 3106
+        - vendor
+    legacy: 4580
+  grpc: true
+  firewall:
+    index: 27.243.237.90
+    rollback: 8690
+    fuzz:
+      - cert-legacy
+      - b7073479f8dc93e5
+  vxlan: bloom
+  backend: rest
+coroutine: mapper-patch
+proxy: 799bb61d342140a2

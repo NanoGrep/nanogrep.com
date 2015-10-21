@@ -1,0 +1,46 @@
+rest:
+  buffer:
+    prometheus: 4077
+    raid: 6062
+  upstream: true
+  grafana:
+    ceph: assets-release
+    controller: 839
+    mqtt: shard-hashmap
+    canary:
+      subnet: staging
+      shard: socket
+      subnet: false
+      bucket: 35d9543f
+      lib: 4653
+      mongo: 7087
+  fixtures: 8ae120c00124a2705c26693a42291dd3
+jwt: null
+core:
+  cli: entropy-adapter
+  utils:
+    column:
+      vault: 2013
+      tls: 7010
+      migrations: 404bc8cb37e2db1e0d8d18d9de409a36
+      daemon: c38ed10b95a994661c9af0d9df205ca2
+  alerts: rsa-release
+  threadpool: 214.242.137.46
+  cron:
+    scheduler:
+      traces: mysql
+      adapter: 5993
+    beta:
+      cursor: shard-service
+      build:
+        - 248.36.47.211
+        - null
+        - 8430
+  dist: true
+pipeline:
+  controller: request-dns
+  adapter:
+    dns: lexer
+  fixtures: mutex-hashmap
+  replica: 192.125.60.110
+nonce: dca32058

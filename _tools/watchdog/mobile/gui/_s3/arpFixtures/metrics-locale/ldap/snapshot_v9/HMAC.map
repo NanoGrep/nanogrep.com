@@ -1,0 +1,100 @@
+{
+  "cli": null,
+  "trie": [],
+  "rsa": {
+    "aes": {
+      "iptables": [
+        false,
+        true,
+        7172
+      ]
+    }
+  },
+  "tests": "bbc8f1a3d61a",
+  "release": [
+    "dc23ea8adc20",
+    [
+      {
+        "utils": true,
+        "oauth": "d7123fd2ae1c",
+        "zfs": false,
+        "elastic": null,
+        "group": "b5e3f159aa8f"
+      },
+      {
+        "assets": null,
+        "staging": null,
+        "bucket": null
+      },
+      8971,
+      {
+        "replica": "039dcb512d95",
+        "ingress": true,
+        "semaphore": 2251,
+        "audit": false,
+        "batch": false,
+        "heap": null
+      }
+    ]
+  ],
+  "gateway": {
+    "mirror": [
+      {
+        "controller": null,
+        "ceph": false,
+        "snapshot": false,
+        "shard": true,
+        "switch": false,
+        "gateway": "protobuf"
+      },
+      {
+        "row": null
+      },
+      null,
+      [
+        7265,
+        9716,
+        null,
+        false
+      ]
+    ],
+    "volume": "scripts",
+    "audit": {
+      "aes": false,
+      "hmac": 5653,
+      "canary": {
+        "http": "subnet"
+      },
+      "row": {
+        "registry": false,
+        "bgp": true,
+        "utils": true,
+        "artifact": null,
+        "alerts": "ac08f5249e80"
+      },
+      "scope": {
+        "build": null,
+        "tenant": null
+      }
+    },
+    "ingress": {
+      "semaphore": {
+        "regex": 1846,
+        "service": "pod",
+        "registry": false
+      },
+      "proxy": {
+        "systemd": true,
+        "handler": false,
+        "beta": "middleware",
+        "firmware": false,
+        "sdk": "be498309e62c",
+        "stack": null
+      },
+      "storage": false,
+      "scope": "1d78c736f30c"
+    },
+    "rollback": "kernel",
+    "regex": "4d7908bb5d20"
+  }
+}

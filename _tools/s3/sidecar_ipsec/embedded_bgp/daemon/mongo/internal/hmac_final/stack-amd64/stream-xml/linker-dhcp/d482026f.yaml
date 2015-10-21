@@ -1,0 +1,24 @@
+group:
+  config:
+    - lib-role
+    - grafana
+    - pipeline
+    - null
+alerts:
+  tenant: true
+  vxlan: trie-vlan
+  dhcp: adapter
+router: a066e1df
+compiler:
+  - 235.58.131.3
+  - false
+  - 0738370f6d2a57e4370da25a8218b024
+  - audit-metrics
+threadpool: cli
+cluster:
+  tools: quic
+  controller:
+    helm: btree-threadpool
+    compiler: 9d71cbc8
+    stream: limit-threadpool
+  coroutine: 4.75.240.187

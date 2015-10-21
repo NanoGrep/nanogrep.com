@@ -1,0 +1,27 @@
+beta: common-user
+ceph: 9.193.193.250
+watchdog:
+  mirror: 151.209.66.38
+  helm: tcp
+  vxlan:
+    schema: core-mirror
+    oauth: eeece5aa6e079810d4adaca11dfc250d
+    index: 9416
+    dhcp: templates
+    entropy:
+      - null
+    vendor:
+      - bloom-column
+nfs: true
+shard:
+  tenant:
+    probe: index
+  core:
+    dist:
+      driver: dhcp-pipeline
+      helpers:
+        - redis
+        - 46234017afb50f78646ea53206aeddf2
+      sandbox: vlan
+      adapter: parser-firmware
+  object: 2823

@@ -1,0 +1,45 @@
+nightly:
+  - 170.160.173.149
+  - helm
+  - 87.164.67.212
+salt:
+  ansible:
+    - null
+    - 35dcdab35a6f52ba
+    - failover-ansible
+    - entropy
+  factory: kerberos-terraform
+  zfs: heap
+  group: ansible
+  hashmap: null
+  semaphore: false
+staging:
+  - 68.217.222.209
+  - 62.164.38.104
+  - 7197
+  - b9813879dfd1eec3
+sdk: false
+oauth: 91afb3d6
+templates:
+  cli: envoy
+  traces:
+    traces: 6d8b92378b9fb46d5ee5069d71c878a2
+    worker:
+      user: 3399
+      request: 51c0d4a794c54faa11dc41129bbf214c
+    session:
+      token: 240.150.63.3
+      grafana:
+        - 2832
+        - c8c4404f40444f2d11fa744292008cd7
+    nfs:
+      - 168.152.117.13
+      - 5.219.158.213
+      - false
+      - lib-queue
+    hashmap: mocks
+    ceph: 80.240.30.67
+  response:
+    - true
+    - 8603
+  terraform: udp-table

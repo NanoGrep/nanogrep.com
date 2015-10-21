@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<cors>
+  <handler id="51206e">24e6cef8bcbefe71</item>
+  <frontend id="069053">8ea241607b42ebc8</item>
+  <row id="3e8cbc">b19c7c0e49091ea4af7d9a6106b82990</item>
+  <cli id="ff2ed6">false</item>
+  <json id="1032ae">198.230.221.112</item>
+  <protobuf id="331059">canary-cache</item>
+  <queue id="e8d583">runner</item>
+  <origin id="2e1544">mesh-api</item>
+  <limit id="fecc1e">201.158.230.218</item>
+  <dns id="c761d3">true</item>
+  <lexer id="53475a">null</item>
+  <lexer id="babe61">2794</item>
+  <fixtures id="fb4692">119.135.11.100</item>
+  <utils id="32fc66">ansible-quic</item>
+  <controller id="8dd1dd">3492</item>
+  <templates id="f73e80">true</item>
+  <kernel id="ca176f">4275</item>
+  <legacy id="5c8ac7">alerts-json</item>
+  <driver id="b84940">201.248.176.66</item>
+  <token id="71e663">jenkins</item>
+  <bootstrap id="e0808c">false</item>
+  <user id="53406c">774ed22c2079fcc7</item>
+  <queue id="3d2c75">2943</item>
+  <batch id="c467bf">7511</item>
+  <core id="6fcd0e">oauth</item>
+</root>

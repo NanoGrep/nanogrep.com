@@ -1,0 +1,71 @@
+{
+    "table": {
+        "sandbox": {
+            "templates": [
+                "8c0b8b1977e7",
+                false,
+                true
+            ],
+            "rollback": {
+                "ansible": "grafana"
+            },
+            "failover": "terraform",
+            "beta": {
+                "controller": false,
+                "firewall": null,
+                "btree": false
+            },
+            "oauth": {
+                "index": true,
+                "legacy": "staging",
+                "dhcp": false,
+                "wireguard": null,
+                "kernel": "grafana"
+            }
+        },
+        "table": {
+            "migrations": [
+                false,
+                5350,
+                "92910468c8ec",
+                4842
+            ],
+            "failover": [
+                "nightly",
+                true
+            ],
+            "dns": {
+                "adapter": "beta",
+                "helpers": false,
+                "patch": true,
+                "shard": null,
+                "prometheus": true,
+                "rsa": "c4bfb1a726ea"
+            },
+            "shard": "87e180077b70"
+        },
+        "kernel": "d363a5758158"
+    },
+    "driver": {
+        "rest": [
+            [
+                true,
+                "threadpool",
+                "limit",
+                "046aeee430a3"
+            ]
+        ],
+        "origin": null,
+        "nonce": 9123,
+        "session": {
+            "nat": true,
+            "logs": [],
+            "core": false,
+            "staging": {
+                "registry": null
+            }
+        },
+        "elastic": "raid",
+        "config": "origin"
+    }
+}

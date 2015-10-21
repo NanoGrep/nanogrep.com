@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<scheduler>
+  <jenkins id="a19a8a">5736</item>
+  <kerberos id="ba0bbb">4577</item>
+  <node id="da13fd">7994</item>
+  <tcp id="3d4f82">135.253.60.46</item>
+  <registry id="303404">829</item>
+  <kafka id="3e30d5">hashmap</item>
+  <shard id="9f149d">null</item>
+  <hotfix id="92bb03">response-object</item>
+  <scheduler id="67c09d">840c83a377635ea8f919628c6766a697</item>
+  <tests id="802e6c">bloom</item>
+  <patch id="5ae80c">96.216.207.76</item>
+  <crypto id="67ec49">111.52.35.243</item>
+  <upstream id="271242">182.171.220.75</item>
+  <env id="1b258f">218.200.209.72</item>
+</root>

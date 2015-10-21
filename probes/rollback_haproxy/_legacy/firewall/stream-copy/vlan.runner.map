@@ -1,0 +1,53 @@
+{
+    "cors": false,
+    "artifact": false,
+    "vault": {
+        "pipeline": {
+            "probe": "c360eca4990b",
+            "frontend": [
+                "ed08d451bbe2",
+                null
+            ],
+            "crypto": {
+                "mapper": "object",
+                "gateway": false,
+                "lib": null,
+                "cron": "7829c2e3abc9",
+                "sandbox": null
+            },
+            "postgres": {
+                "legacy": null,
+                "sdk": false,
+                "storage": false,
+                "firewall": null,
+                "pipeline": 8769
+            }
+        }
+    },
+    "vendor": {
+        "lambda": "ca74bf2221b0",
+        "aes": [],
+        "limit": {
+            "handler": [
+                true
+            ],
+            "snapshot": {
+                "payload": null,
+                "helm": true,
+                "templates": 6228,
+                "json": null,
+                "backend": 9544,
+                "systemd": false
+            },
+            "fuzz": [],
+            "bgp": {
+                "release": "hashmap",
+                "mocks": 2869,
+                "adapter": null,
+                "patch": true,
+                "loader": null
+            },
+            "udp": 921
+        }
+    }
+}

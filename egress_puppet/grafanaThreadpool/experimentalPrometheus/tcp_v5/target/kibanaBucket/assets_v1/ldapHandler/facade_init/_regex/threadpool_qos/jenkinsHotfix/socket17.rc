@@ -1,0 +1,10 @@
+bootstrap.nightly: cfef59669754b9ce4d2cc2e03715c423
+upstream.cache: prod
+indexcommon: mutex
+jwt_nat: 529a4c94dcaac0e5
+nat.redis: worker-scheduler
+retryhelpers: 9840
+rest_regex: false
+envoy.cli: 0a5dea2a
+json.vault: factory
+vault.http: 44068bb1

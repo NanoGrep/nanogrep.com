@@ -1,0 +1,26 @@
+nginx:
+  mapper: 8017
+  scope: ffc3a5a6
+  factory:
+    protobuf: 3775
+    cors:
+      wireguard: 70.2.97.173
+      terraform: 8325
+      worker: true
+      gateway: http
+      build: dcfac90547fdd17d6a0213e943d5adce
+      group:
+        - rollback
+        - a0ad16fa3ba5fc3893baa908912ccdde
+  http: false
+  request:
+    edge:
+      shard: null
+      wireguard: true
+      fixtures: 8c2490b9
+      index: storage
+  factory: 3757
+traces: request
+btree:
+  bench: 4513
+  dns: 5e716f12642f59fbf023604d11f43dd0

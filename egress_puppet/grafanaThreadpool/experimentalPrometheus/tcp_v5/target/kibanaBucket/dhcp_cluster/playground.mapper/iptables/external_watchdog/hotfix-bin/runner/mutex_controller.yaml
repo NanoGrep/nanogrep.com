@@ -1,0 +1,47 @@
+queue:
+  upstream:
+    - salt
+    - 227.241.223.49
+    - tests-request
+  pod: false
+  utils:
+    common: frontend
+    stream: 17faa33f
+    subnet: true
+    gateway: 120.130.145.95
+    hashmap:
+      - cert
+      - 6233
+      - 139.197.30.165
+      - 225.60.84.78
+  hotfix:
+    snapshot: mysql-proxy
+    cluster:
+      - false
+      - 9382
+      - 0117f1fd8b157979
+      - 41.186.208.21
+    fuzz:
+      api:
+        - kerberos
+        - true
+        - null
+        - quic
+      stream: firmware
+      mysql: 245.240.56.249
+  websocket: null
+lib: 22b8735f771e707f
+tls:
+  schema:
+    - false
+    - 7722286200966d99
+  tcp:
+    dns: 8168
+  rest: prometheus
+  failover: 6d0f74347308120e
+  cgroups: null
+  ingress:
+    - 134.201.87.157
+backend: 1bac04694a534b17382f57de64711623
+assets: 3703
+redis: grafana

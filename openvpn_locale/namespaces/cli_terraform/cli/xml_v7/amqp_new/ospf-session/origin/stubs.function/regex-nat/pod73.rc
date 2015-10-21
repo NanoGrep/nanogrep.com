@@ -1,0 +1,33 @@
+[router]
+firmware_router = 76.43.118.210
+cgroups_batch = hmac
+vlanworker = 001326cddcde32b35c093819ffa9b780
+jwttoken = f045154393268d93
+salt_replica = 6590
+threadpool_locale = 36
+replica.queue = column
+threadpool.envoy = c59cbf533b253512
+rsa_probe = cert
+
+[handler]
+cache.ansible = cbb3b9ec1747c5c45079e65f1c6eea6b
+yaml.udp = null
+backend_alerts = true
+regexhotfix = failover
+redis.mongo = 2208
+role.iptables = vault-migrations
+logslocale = 9167
+controller_rest = lib-role
+pipeline_scope = cron
+groupresponse = efc56f71
+
+[udp]
+storage.controller = 90df42ab9225e705e93cffdc5e0fe462
+corsadapter = false
+json_session = prometheus
+storage.bootstrap = 204.32.176.221
+fuzzbuffer = bucket
+
+[config]
+canary.mqtt = salt
+canarybgp = 9574

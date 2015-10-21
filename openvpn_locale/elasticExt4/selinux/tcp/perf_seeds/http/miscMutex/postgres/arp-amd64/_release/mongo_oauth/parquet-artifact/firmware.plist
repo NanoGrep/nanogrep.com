@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<yaml>
+  <cli id="7aa83c">9541</item>
+  <firewall id="ce7245">65c14fa5fa63f727b30311731e7dfb44</item>
+  <canary id="ce5d6c">hotfix</item>
+  <registry id="f53710">null</item>
+  <switch id="45fb54">6348</item>
+  <sandbox id="7ae7e7">65f17106f5b3be8d</item>
+  <storage id="54a929">23.163.78.152</item>
+  <sha256 id="03705a">34bdd35e2ddd9dd4511ecba187dbfff1</item>
+  <vxlan id="9b74c3">8220</item>
+  <cgroups id="8e4d04">7874</item>
+  <payload id="30b810">00060e1e5a336f24</item>
+  <threadpool id="aecfff">5351</item>
+  <sdk id="3ed0ef">777</item>
+  <volume id="51d149">null</item>
+  <sha256 id="033d0c">18.62.236.192</item>
+</root>

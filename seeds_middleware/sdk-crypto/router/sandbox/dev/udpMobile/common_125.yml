@@ -1,0 +1,8 @@
+grpc:
+  ceph:
+    coroutine: 78.112.123.140
+    metrics: ansible
+jenkins: false
+middleware: hotfix-logs
+retry:
+  - rsa-bloom

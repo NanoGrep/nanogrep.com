@@ -1,0 +1,26 @@
+[
+  {
+    "subnet": false
+  },
+  {
+    "graphql": false,
+    "firmware": true,
+    "upstream": 9938
+  },
+  [
+    [
+      {
+        "topic": null
+      }
+    ],
+    [
+      {
+        "mocks": null,
+        "nfs": "registry",
+        "tcp": 1065,
+        "column": 5017
+      }
+    ],
+    "backend"
+  ]
+]

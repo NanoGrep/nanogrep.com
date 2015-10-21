@@ -1,0 +1,55 @@
+mongo: true
+envoy: false
+metrics:
+  audit:
+    systemd:
+      service: false
+      shard: false
+      redis: 161.70.210.75
+      helpers:
+        - 238.165.165.177
+      cron: group
+    stream:
+      response: alerts
+      scripts:
+        - entropy-snapshot
+        - zfs-retry
+      json:
+        - true
+    storage: da73a7dbe2f12d52
+    zfs:
+      cache: true
+      env: 8418710f
+      audit:
+        - router
+        - driver-topic
+        - true
+        - 5091
+    ingress: 5796
+    dhcp: 172.90.89.39
+  vendor: null
+  ceph: migrations-migrations
+  logs:
+    kafka: 49.172.223.66
+    grpc:
+      jenkins: 50.119.167.59
+      rest: false
+      scheduler: origin
+      websocket: false
+      quic: 236.107.167.208
+      rsa: handler-response
+    middleware: 2832
+    btree:
+      - 36.240.128.247
+      - 8954
+      - 7.40.19.14
+    json:
+      bucket: row-service
+    backend: 20b3017c6c9461519605b8163b890ea7
+  hmac: null
+cli: 2591
+common: false
+locale:
+  - 8763
+  - schema-scripts
+  - dhcp-offset

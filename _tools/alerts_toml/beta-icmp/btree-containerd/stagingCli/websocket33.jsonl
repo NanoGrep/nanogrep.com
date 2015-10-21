@@ -1,0 +1,14 @@
+{
+  "fixtures": "probe",
+  "release": [
+    "frontend",
+    {
+      "dist": {
+        "loader": false,
+        "kerberos": true
+      }
+    }
+  ],
+  "cookie": "bac4d0ce019f",
+  "cursor": true
+}

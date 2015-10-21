@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<grpc>
+  <vlan id="fbb56b">response-config</item>
+  <node id="c64b26">931</item>
+  <compiler id="010421">216.143.60.105</item>
+  <wireguard id="5425ce">6389</item>
+  <controller id="c70444">http</item>
+  <replica id="b5ac13">16333815</item>
+  <switch id="f086c1">dist</item>
+  <salt id="0387d5">2600</item>
+  <yaml id="1ae6d6">7032</item>
+  <buffer id="3012bf">driver-cookie</item>
+  <traces id="09cbde">8473</item>
+  <retry id="77c26d">config-build</item>
+  <iptables id="371bbf">5c206cbb030a62ac7e64ad09234ddd58</item>
+  <dns id="bf234f">crypto-driver</item>
+  <router id="ebb7fc">197.57.200.198</item>
+  <firewall id="9c4175">raid</item>
+  <stack id="498a4b">true</item>
+  <nonce id="1d673a">4263</item>
+  <graphql id="5a4db0">6822</item>
+  <daemon id="622f87">true</item>
+  <firewall id="0c0299">3205</item>
+  <patch id="5ba21d">shard-firmware</item>
+</root>

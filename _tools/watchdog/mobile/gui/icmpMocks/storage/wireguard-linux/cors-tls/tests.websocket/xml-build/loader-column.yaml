@@ -1,0 +1,22 @@
+retry:
+  bucket:
+    - null
+    - buffer-tcp
+  parser: null
+  policy: 9116
+  parser:
+    dns: null
+    redis:
+      driver: true
+      cursor:
+        - 2918cd3e
+        - handler
+    mesh: sha256
+  scope: ceph
+  elastic: 180.193.244.76
+mongo:
+  - 4ff76c34b5bf405b
+factory:
+  bgp: backend
+  batch: cba92ed44be91dd3
+  policy: null

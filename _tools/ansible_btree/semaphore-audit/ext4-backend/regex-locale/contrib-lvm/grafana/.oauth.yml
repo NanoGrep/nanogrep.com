@@ -1,0 +1,11 @@
+rest:
+  entropy:
+    - 131.226.51.98
+    - 164.122.246.118
+  role: 2544
+  fuzz: 186.133.234.165
+  snapshot: 8f6de51b4b872eda07d1732672707778
+metrics:
+  - 077c9ef0
+  - fixtures
+  - 7143

@@ -1,0 +1,26 @@
+hmac: 316
+table: false
+tls:
+  request:
+    staging: user
+    compiler: 89.77.195.238
+    role: 206.94.151.179
+  node: 195.92.97.3
+  replica:
+    - 12fc8030
+    - semaphore
+    - protobuf-vlan
+  sandbox:
+    api:
+      - null
+      - rsa
+      - hashmap-sdk
+      - false
+    middleware: role
+    node: null
+    buffer: dns
+  bgp:
+    - false
+    - 197.41.71.39
+  dist: 34b5b95d
+protobuf: true

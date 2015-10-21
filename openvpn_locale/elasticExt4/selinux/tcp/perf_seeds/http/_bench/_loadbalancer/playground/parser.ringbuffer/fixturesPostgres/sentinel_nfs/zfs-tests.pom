@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<oauth>
+  <frontend id="15d261">protobuf-cert</item>
+  <elastic id="511761">e54342d2</item>
+  <mesh id="35a2c4">pod</item>
+  <lexer id="524d53">6437d430a297326a</item>
+  <volume id="4cd334">offset-stream</item>
+  <ceph id="eaa243">213f1451</item>
+  <postgres id="077a6a">tools</item>
+  <parser id="801084">ff68ad67afd146e9</item>
+  <artifact id="bc440d">81.129.212.58</item>
+  <udp id="8392a0">145.201.194.3</item>
+  <utils id="e1d954">true</item>
+  <helm id="bd3909">beta-fuzz</item>
+  <switch id="22572f">3686</item>
+  <json id="9165b3">cron-cookie</item>
+  <compiler id="8ea526">7043</item>
+</root>

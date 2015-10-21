@@ -1,0 +1,96 @@
+prod: false
+retry: false
+grpc: a38e2de6
+config:
+  vendor: true
+  watchdog:
+    middleware: sandbox-aes
+    response:
+      trie: raid-middleware
+      mutex: 28bab65c
+      compiler: 8980
+      rest: helpers-lib
+      lib: 254.125.94.134
+      semaphore:
+        - 5918
+        - token-dhcp
+        - 25acca0ef4330f98
+    lambda: null
+    ingress:
+      tools: 8779e736cd714292
+      origin:
+        - 114.5.141.215
+        - 154.253.186.127
+      tcp: common-topic
+    prod:
+      json: templates-mysql
+      btree: 17.48.74.190
+      cli:
+        - switch-runner
+        - cgroups-handler
+        - 8271
+      limit: 7050
+      mutex: true
+  prod: 727ab91dc27d9e3d4c72d1d2c8e002ba
+  tcp:
+    prometheus: eddc6979359cc204d9f2a2ab564fd95a
+    hotfix:
+      migrations: 9b0c8e3a0bb7234c321163f9de66746c
+      role: 4115
+      templates: false
+      cgroups: raid
+      vendor: 146.200.222.27
+      nightly:
+        - 3740
+        - true
+    templates: 3780
+    pipeline:
+      crypto: null
+      bootstrap: 211.86.60.128
+    mysql:
+      daemon: vault-build
+    grafana:
+      graphql: 6403
+      role: daemon
+  vlan:
+    group:
+      - templates-response
+    locale:
+      bucket: null
+  systemd: graphql
+nightly:
+  volume:
+    - false
+    - true
+    - schema-iptables
+    - 2427
+  nginx:
+    hotfix: false
+    yaml: migrations-tenant
+    tcp:
+      coroutine: 9446
+      node:
+        - false
+      queue:
+        - topic
+        - 126.97.123.179
+    index: scripts
+    nfs: 146.104.234.4
+  request:
+    - 9256
+    - 6684
+    - cors
+    - snapshot-elastic
+  limit:
+    backup:
+      helm: retry-grpc
+      stack: d1c8b298
+      replica:
+        - 53.52.136.34
+      json:
+        - 5690
+        - false
+        - false
+    oauth: helpers
+  object: kernel-ansible
+api: 184.148.11.58

@@ -1,0 +1,97 @@
+scope:
+  tests:
+    - node-cli
+  core: locale
+  snapshot:
+    driver:
+      frontend:
+        - cli
+        - 53.180.138.132
+        - group-gateway
+      crypto: false
+    audit: 6833
+  traces: table-replica
+cache:
+  frontend: controller
+  coroutine: api-api
+  nightly:
+    wireguard:
+      prometheus:
+        - true
+        - 215.18.108.46
+        - 2140
+        - null
+    compiler: 11.239.87.251
+    mapper: rollback
+    group: lambda-ingress
+    backup: locale-retry
+    scope:
+      - subnet
+      - 232.211.216.33
+      - config
+      - 142.161.104.21
+  snapshot:
+    - 5491
+    - 227.95.250.216
+    - true
+    - 7949
+object: eb3662564109b3d8
+websocket:
+  dist: 7547
+  alerts: null
+  bench:
+    dns:
+      mqtt: true
+      staging: 19.115.187.194
+    object: 6a6bec8e79173a4092f751c97844757d
+    ceph: 90845343b73929d3
+    switch:
+      - null
+      - btree-mongo
+      - sdk-adapter
+  group: 3805
+runner:
+  offset:
+    - 4.67.144.196
+  backend:
+    common: 8691
+    mutex: 171.254.204.82
+    traces: null
+    dist: true
+  hashmap:
+    lambda: false
+    hmac: true
+  snapshot: 1721
+  bucket: 691756e0d2f92bf3
+  systemd: 170.136.152.71
+middleware:
+  iptables:
+    common: 9369
+    probe:
+      snapshot: 65020a644b71ab7653c048623e6d89e5
+    api: btree-session
+    entropy: 7.246.157.111
+    trie: 390acfef
+  aes:
+    staging: false
+    templates:
+      - null
+      - 113.165.190.51
+    tls: 2.254.209.133
+  ansible:
+    rollback: tls
+  json: 104.20.6.92
+  offset: 8b666ed0f7f81c40
+  rollback:
+    tests:
+      - 246.169.70.67
+      - 4cc4bb2c40820c46459c0e27ba066771
+      - json-buffer
+      - true
+    cluster:
+      volume: jwt-mqtt
+      btree: metrics-ingress
+      row: 4f7c0a5e28cf3257d4e8f3a8d6eb4643
+    hotfix: heap-replica
+    threadpool:
+      tcp: fee4c4973c5b92035da0e24405bd0525

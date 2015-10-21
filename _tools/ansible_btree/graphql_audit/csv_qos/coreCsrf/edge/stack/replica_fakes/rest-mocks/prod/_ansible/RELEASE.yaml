@@ -1,0 +1,30 @@
+policy: 58.202.63.24
+rsa: terraform-driver
+build:
+  nfs: hmac
+  stack: handler-fixtures
+  envoy: 9747
+  pipeline:
+    tests: 2484
+    volume:
+      pipeline: 1ec49b89c04ee3bf
+      upstream: topic-kernel
+      mysql: 108.81.235.221
+    worker: fixtures-buffer
+    watchdog: 186100cdf51dcb4e
+    table:
+      release: 666281d8b5d71644
+      kernel: 62.139.164.245
+      switch: fd609ce2fd9cb384
+      postgres: 3092
+      audit: 060683f5
+    postgres:
+      - ldap-ceph
+      - true
+      - null
+      - false
+  hotfix: tenant
+  rsa:
+    - hotfix
+    - 112.41.215.105
+    - 5220

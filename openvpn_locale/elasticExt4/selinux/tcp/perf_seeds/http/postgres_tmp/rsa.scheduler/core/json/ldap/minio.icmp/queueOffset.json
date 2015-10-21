@@ -1,0 +1,45 @@
+{
+    "json": true,
+    "scripts": 7569,
+    "bootstrap": {
+        "cookie": "5c7c8a30b62d",
+        "frontend": [],
+        "daemon": false,
+        "node": {
+            "cluster": {
+                "ingress": false
+            },
+            "rollback": {
+                "mqtt": false,
+                "token": 2876
+            }
+        }
+    },
+    "fixtures": [
+        false,
+        "oauth",
+        [
+            true,
+            [
+                "2d4444ab14da",
+                null,
+                2335
+            ],
+            false,
+            {
+                "artifact": "d5c0048ad5c0",
+                "kernel": "07b6846bbb73",
+                "response": false,
+                "policy": "lib"
+            }
+        ],
+        [
+            [
+                "cluster",
+                "1c8f944c5023"
+            ]
+        ]
+    ],
+    "zfs": false,
+    "jenkins": null
+}

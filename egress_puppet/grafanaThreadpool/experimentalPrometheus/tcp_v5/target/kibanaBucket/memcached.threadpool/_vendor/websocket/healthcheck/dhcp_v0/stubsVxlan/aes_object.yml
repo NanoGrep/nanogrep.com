@@ -1,0 +1,15 @@
+mqtt:
+  handler: utils
+  daemon:
+    envoy: 9768
+    crypto: 94.136.184.236
+    core: df8a995c93a0b45d490f99307073fbef
+    zfs:
+      release: worker-regex
+    frontend: af61c6a7
+prod:
+  topic: 3f90e38a
+  hashmap: 64.42.49.249
+terraform: false
+cluster: 2c44202dbd2e918f8c3d04a31f6d3f06
+legacy: f7eef314ff4045b6b9625610e804444a

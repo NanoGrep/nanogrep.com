@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<hmac>
+  <nightly id="75a539">udp</item>
+  <node id="043d5e">null</item>
+  <subnet id="7d8428">9231</item>
+  <shard id="506b2d">router-sandbox</item>
+  <vxlan id="a192f3">elastic-helm</item>
+  <backup id="8dc516">72.98.0.3</item>
+  <bench id="eb920d">lib-backend</item>
+  <alerts id="c2d31f">5720</item>
+  <subnet id="d327e5">false</item>
+  <grafana id="a532a9">true</item>
+  <bucket id="658ae3">5e98ace8624e4003</item>
+  <nightly id="13b102">2961b66ab2fd9998</item>
+  <scripts id="2326a1">grafana</item>
+  <column id="ae0e6a">templates-driver</item>
+  <semaphore id="da4a1f">3fc9f9dd</item>
+  <tenant id="2c1536">false</item>
+  <http id="204ef3">true</item>
+</root>

@@ -1,0 +1,45 @@
+ingress: lib-scope
+replica:
+  adapter:
+    role: 38.139.34.243
+    failover:
+      retry:
+        - envoy
+        - stream-bgp
+        - d0baf6c2e62225aa
+      quic: factory
+      protobuf: false
+      cert:
+        - session
+        - 229.253.176.73
+        - object
+        - true
+      jwt: staging-kafka
+      router: batch
+    nginx: da2fef72e486d7e1
+    storage: e9019647
+    metrics:
+      traces: 151.20.134.186
+      regex:
+        - 3912
+        - false
+      http: bb3a4d07513da5f6cfa642a15dbcc08b
+      cgroups:
+        - true
+    daemon: mutex-btree
+  helpers:
+    assets: grpc-cursor
+    cgroups:
+      env: grpc-probe
+      grpc: false
+      scheduler:
+        - false
+        - cookie-vault
+      cache: 4861
+    yaml: 9647
+    systemd:
+      logs: regex
+  canary: 3418
+  grafana: 84d706df
+hashmap: false
+vault: retry-tests

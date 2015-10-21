@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<api>
+  <failover id="e4ee72">null</item>
+  <staging id="4338ac">a6ccf7578eaf08b1cfcb6c0e7e0b5b49</item>
+  <mongo id="6d500b">1441</item>
+  <cookie id="ad8952">null</item>
+  <vlan id="47fff2">c6f74442</item>
+  <jenkins id="1d0c08">null</item>
+  <vault id="13e12d">c47c2dcb</item>
+  <bootstrap id="2132d7">3065</item>
+</root>

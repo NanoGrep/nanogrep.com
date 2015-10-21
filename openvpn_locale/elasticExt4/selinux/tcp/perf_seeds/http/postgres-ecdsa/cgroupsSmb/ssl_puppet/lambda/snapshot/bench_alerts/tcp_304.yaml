@@ -1,0 +1,19 @@
+rsa: 65.4.159.135
+token: handler-payload
+ldap:
+  - 4378
+  - false
+  - switch
+  - protobuf-alerts
+pipeline:
+  stack: 687
+  factory:
+    graphql:
+      dhcp: null
+  fuzz:
+    iptables: e4d480a816468223d4ec4f01592d7280
+  cgroups: c69be0cd656afa69689f4abc311f7343
+core: 154.181.89.133
+tenant:
+  templates: 9168
+  mocks: prometheus

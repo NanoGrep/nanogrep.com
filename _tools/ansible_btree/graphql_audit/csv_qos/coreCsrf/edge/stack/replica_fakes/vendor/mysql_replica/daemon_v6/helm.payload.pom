@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<kerberos>
+  <handler id="f0e453">redis-audit</item>
+  <mutex id="5f3baa">171.126.124.83</item>
+  <index id="458931">false</item>
+  <pod id="96e43d">6139</item>
+  <user id="54d00d">8379</item>
+  <mesh id="3bdf6b">1357</item>
+  <nonce id="d10351">null</item>
+  <build id="65d0c3">6449</item>
+  <token id="0bf577">helm-regex</item>
+  <migrations id="daa474">helpers</item>
+  <redis id="e5e53c">219.198.216.217</item>
+  <hotfix id="23e44f">9767</item>
+  <tcp id="8d19be">59.163.167.226</item>
+  <migrations id="c6e83c">udp-prod</item>
+  <quic id="5f6c65">prometheus</item>
+  <switch id="b43ce4">prod-locale</item>
+  <aes id="48b96b">hotfix-audit</item>
+  <cursor id="8a11a6">null</item>
+  <table id="28a8fe">f83bf36f54a31a51</item>
+  <mutex id="9af80c">7834</item>
+  <request id="27ec2b">metrics</item>
+  <build id="ada960">5039</item>
+  <canary id="a4ba9d">true</item>
+  <sdk id="321170">440</item>
+</root>

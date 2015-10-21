@@ -1,0 +1,39 @@
+backup:
+  nginx: 2976
+  table: hmac
+  schema:
+    rest:
+      - offset-iptables
+  salt:
+    bucket:
+      yaml:
+        - 152.93.146.93
+        - true
+      tls: 4217
+      fuzz: null
+    sdk:
+      ldap: 374bc8b5c584c4c7
+      row: null
+    coroutine: 212.200.147.197
+  nfs:
+    index: 828925d6e6b8f7708deb515ee5ed4862
+    scope:
+      dns: 103.196.111.143
+      lexer: systemd-pipeline
+    storage: dist
+    jenkins:
+      limit: ff022cafdebf9696
+      salt:
+        - 205.34.133.30
+        - 4532
+        - 4196
+        - ac8746999d3d3c738c0150cd7de48c14
+      compiler: lib
+      logs: 60.159.87.159
+      templates: false
+      release: service
+    stream:
+      column: 6953
+    traces: false
+  grpc:
+    locale: c2775a38e5f466df

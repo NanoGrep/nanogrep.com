@@ -1,0 +1,18 @@
+{
+    "lib": [
+        null,
+        [
+            {
+                "nightly": true
+            },
+            {
+                "probe": "protobuf",
+                "assets": 878,
+                "mocks": "5da7118d60ed",
+                "nginx": 510
+            }
+        ],
+        null,
+        null
+    ]
+}

@@ -1,0 +1,12 @@
+ldap:
+  patch:
+    - null
+    - udp-tests
+    - null
+  cors:
+    - 2000
+  cookie: false
+  pipeline: cgroups
+  core: firmware-ingress
+  scripts: ldap
+mutex: null

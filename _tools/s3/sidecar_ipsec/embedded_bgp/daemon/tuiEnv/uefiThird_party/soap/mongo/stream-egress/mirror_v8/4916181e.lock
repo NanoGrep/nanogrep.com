@@ -1,0 +1,10 @@
+{
+  "bucket": null,
+  "offset": "69e3af2d4d5d",
+  "probe": {
+    "mongo": false,
+    "raid": "6d0f407e18b3"
+  },
+  "mesh": 1979,
+  "cluster": []
+}

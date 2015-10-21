@@ -1,0 +1,71 @@
+probe:
+  rest: false
+  salt: 7846
+  limit: api
+backend:
+  zfs: 9789
+  topic: backup
+  salt:
+    jenkins:
+      - true
+      - null
+      - 1.105.61.127
+    mysql:
+      - false
+      - 663fbab172de375dd7a64a971ca64ff8
+      - false
+      - worker
+    nginx:
+      - 1479
+      - 92.16.68.198
+      - 3973
+    fixtures: scope-staging
+  mqtt:
+    parser:
+      scope: btree-buffer
+      mirror: column-registry
+      row: e684419aefbd67d0eda956de522987f1
+      tenant:
+        - 1f2e4ec6741a614e
+        - 83.57.217.248
+        - jenkins
+        - entropy-service
+      topic: 8240
+      tools: 1772
+    json: api-audit
+    audit: tests
+    fixtures: pod-registry
+  crypto: true
+  frontend:
+    failover:
+      - 841579fc
+      - build
+    helm:
+      bgp: loader-jwt
+      migrations: true
+      iptables: cors
+      replica: 4316
+      scheduler: 4205
+    envoy:
+      pod: 9191
+      patch: kerberos
+      audit:
+        - common-buffer
+        - 747c06dd6238ea4d732fcbe410328b40
+        - true
+        - 2571
+      http: index
+      prometheus: cgroups
+      pipeline: 4373
+    driver: payload-staging
+hashmap: 143.237.246.182
+vlan:
+  controller:
+    - 4870
+    - 69
+    - 7936
+    - d1d62fb7b5f611c24fd09dbe92713daf
+  ldap: backup
+retry:
+  - stack
+replica: kafka

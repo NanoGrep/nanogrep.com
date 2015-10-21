@@ -1,0 +1,46 @@
+cluster: 131.6.216.136
+templates:
+  queue:
+    raid:
+      crypto: 57.159.90.195
+      lexer: 169.177.74.221
+    tests:
+      dhcp:
+        - wireguard-cert
+        - 5245
+        - 3316
+      scripts:
+        - false
+      http: env-rest
+      scheduler: true
+      scripts: 70.53.1.65
+  proxy:
+    cron:
+      crypto:
+        - e375c1bd738f20a0
+        - cgroups-socket
+        - ea25da2d1a544dcfdcdf600cb3f80e57
+      daemon: false
+      scope: 3334
+      heap: metrics
+      adapter: migrations-adapter
+    logs: 204.199.201.213
+    postgres: 209.65.40.237
+    firmware:
+      mocks: 60f0d343
+  cookie:
+    cgroups: true
+    firmware: false
+    column: kerberos
+    controller:
+      stack: worker
+      row: ceph-helpers
+      api: 236.36.36.252
+      zfs: false
+    pipeline: factory-coroutine
+  threadpool: 98.114.135.118
+  policy:
+    - nonce-tools
+    - driver
+    - null
+crypto: frontend

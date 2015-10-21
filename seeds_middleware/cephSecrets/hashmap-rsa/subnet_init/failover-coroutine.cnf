@@ -1,0 +1,6 @@
+mesh_alerts=199.125.211.139
+frontend.jwt=socket
+hmacworker=cursor-buffer
+redisbuild=8133
+volume.templates=true
+snapshot.terraform=196.192.4.5

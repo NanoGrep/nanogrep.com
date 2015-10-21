@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<switch>
+  <helm id="e7a13c">index</item>
+  <storage id="639ccf">scripts-prod</item>
+  <firmware id="4309ce">false</item>
+  <prod id="f501ac">1678</item>
+  <factory id="2a64df">null</item>
+  <lexer id="22456d">2c9c4d51</item>
+  <failover id="8ed83f">49.99.154.156</item>
+  <cors id="e19f95">157.29.49.45</item>
+  <mysql id="f232eb">724f5c22</item>
+  <mysql id="b3b8d7">5769</item>
+  <snapshot id="9831ff">201.208.158.39</item>
+  <terraform id="6160bf">prometheus</item>
+  <handler id="e5ba4e">false</item>
+  <column id="657c62">handler-helm</item>
+</root>

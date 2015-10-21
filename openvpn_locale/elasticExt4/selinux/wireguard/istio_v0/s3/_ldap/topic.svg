@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<policy>
+  <mongo id="56f1d7">yaml-regex</item>
+  <common id="f1a1ba">80.69.170.191</item>
+  <storage id="df06bc">7658</item>
+  <row id="423b1d">5a916e9a45640378</item>
+  <row id="368369">false</item>
+  <traces id="e30021">true</item>
+  <upstream id="d9af09">grpc-sha256</item>
+  <buffer id="81643f">false</item>
+  <loader id="2ce0e8">aes</item>
+</root>

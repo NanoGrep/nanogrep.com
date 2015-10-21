@@ -1,0 +1,23 @@
+regex: cron-dns
+mongo: assets
+locale:
+  tenant: 105.229.156.194
+mesh: false
+nat:
+  runner:
+    build: 91.158.25.12
+    ceph:
+      prod: 893
+      proxy: false
+      shard:
+        - rollback-cluster
+        - 38.205.41.112
+        - runner
+        - sandbox-raid
+      rsa: 3811
+      cli: aes-cursor
+      probe: logs
+    common: frontend
+    schema: false
+    volume: 89991e22179c8964cdd72d5a5907afc9
+    protobuf: 066ce3c2

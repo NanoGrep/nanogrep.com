@@ -1,0 +1,17 @@
+user:
+  rsa: 9066
+  mocks: false
+  common: ansible-response
+  entropy: 28e28650d5c77bf91fa08c84f5ebcc67
+  beta:
+    edge:
+      - null
+    zfs: scheduler
+    router: staging
+    request: false
+    offset: tcp-mqtt
+    common: migrations
+  redis: 18.156.116.170
+mutex:
+  - 160.4.118.156
+mqtt: graphql

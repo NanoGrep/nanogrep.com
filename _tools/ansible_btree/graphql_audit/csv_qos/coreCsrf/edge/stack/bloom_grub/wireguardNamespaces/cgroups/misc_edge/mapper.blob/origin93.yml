@@ -1,0 +1,33 @@
+env: 240.109.61.62
+elastic:
+  redis: 1507
+  logs: topic-beta
+  rest:
+    cookie:
+      audit:
+        - 44.38.201.46
+      utils: 27.57.90.83
+      elastic: hmac
+    canary: null
+    compiler: tenant-hotfix
+    nat:
+      service: 1844
+      firewall: jwt
+      role: 34d6c7bfb060fb0b
+      jwt:
+        - 5615
+        - 2058
+      ansible: false
+      loader: 82.70.31.29
+    cache: efafad0b
+    sdk: 7075
+cgroups: service-dhcp
+elastic:
+  fuzz:
+    scope:
+      grafana: vendor-buffer
+      helm: websocket
+    release: 3493
+    firmware: 394a8db4
+    coroutine: 01cf335fdec875ea721443141015622b
+failover: null

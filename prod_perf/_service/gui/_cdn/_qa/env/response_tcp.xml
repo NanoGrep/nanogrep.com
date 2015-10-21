@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<nfs>
+  <assets id="d34fd1">false</item>
+  <socket id="b406c2">tools-entropy</item>
+  <cache id="f3faac">true</item>
+  <websocket id="09b0a8">payload-ceph</item>
+  <daemon id="9adcd7">tenant</item>
+  <volume id="cab03e">group-switch</item>
+  <iptables id="9df70e">d9149a13c5e640245a12cd7a9fb6b782</item>
+  <subnet id="f670d5">null</item>
+  <ldap id="54c3df">9701</item>
+  <metrics id="d3418e">4949</item>
+  <nfs id="91681e">payload</item>
+  <tenant id="fda74e">loader-quic</item>
+  <cron id="9de750">947da717</item>
+  <semaphore id="424279">135.235.179.244</item>
+  <cron id="b8d56d">null</item>
+  <socket id="8a6cc9">false</item>
+  <backup id="ab8ec8">62.186.17.110</item>
+  <kernel id="69b566">mocks</item>
+  <origin id="3c4df2">raid-mongo</item>
+  <salt id="e31618">61.206.63.139</item>
+</root>

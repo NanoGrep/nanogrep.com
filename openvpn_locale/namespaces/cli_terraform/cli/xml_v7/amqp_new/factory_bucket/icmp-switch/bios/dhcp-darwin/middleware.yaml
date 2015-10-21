@@ -1,0 +1,22 @@
+hmac:
+  api:
+    coroutine: 190.205.225.15
+    daemon:
+      - 140.211.57.114
+      - true
+    legacy: 9661
+    tests:
+      vxlan: a84d793bc15ddee3
+      cron: null
+      yaml: 57931f4f996c6dfe02c894c4263faf9f
+      helm: 20c017183cd99fbd
+      assets: shard-tls
+    edge: null
+  postgres: 6425
+  wireguard:
+    - 3369
+    - 173ba30657eed627
+legacy:
+  nfs: 8358
+  replica: socket-prod
+trie: driver-index

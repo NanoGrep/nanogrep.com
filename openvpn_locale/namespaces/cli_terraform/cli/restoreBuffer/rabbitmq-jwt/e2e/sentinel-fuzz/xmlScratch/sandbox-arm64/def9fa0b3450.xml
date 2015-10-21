@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<protobuf>
+  <snapshot id="d420b8">semaphore-salt</item>
+  <common id="cf34c7">161.247.118.18</item>
+  <subnet id="1d166d">4f9a7a2d0682d963</item>
+  <buffer id="82b797">null</item>
+  <lexer id="41b105">2230</item>
+  <proxy id="c66673">174.57.57.199</item>
+  <mirror id="5a407d">crypto</item>
+  <wireguard id="77dd9f">gateway</item>
+  <bench id="ca771d">3059</item>
+  <token id="6006a4">44.71.153.246</item>
+  <index id="89d06a">c2b9dccdcd81da00f18b54d2bc7e920e</item>
+  <payload id="287b3f">false</item>
+</root>

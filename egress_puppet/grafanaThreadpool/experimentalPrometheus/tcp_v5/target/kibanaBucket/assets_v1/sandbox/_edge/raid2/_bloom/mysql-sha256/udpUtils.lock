@@ -1,0 +1,38 @@
+{
+    "batch": true,
+    "rollback": 5629,
+    "hotfix": {
+        "yaml": null,
+        "node": 8968,
+        "cookie": "bf5044ba9d64",
+        "tenant": true,
+        "traces": {
+            "pod": "22d0d1d299e3",
+            "ansible": [
+                "legacy"
+            ],
+            "mesh": "957ff19e78ff",
+            "parser": {
+                "offset": false,
+                "semaphore": false,
+                "redis": false
+            }
+        },
+        "core": {
+            "mapper": {
+                "zfs": true,
+                "driver": "b1e6a56b1cf0",
+                "sha256": 825,
+                "templates": "sha256"
+            },
+            "cron": {
+                "limit": null,
+                "mapper": false,
+                "traces": false,
+                "jenkins": "c72a7b6954f0",
+                "controller": true
+            },
+            "prod": "8d5b403a3645"
+        }
+    }
+}

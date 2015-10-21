@@ -1,0 +1,25 @@
+mocks: 2748
+protobuf:
+  tcp: mutex
+  storage:
+    config:
+      volume: driver-stream
+      retry: 6a7b60f1
+      gateway: 104.111.217.33
+    coroutine:
+      - d832c7bcd6924df6
+      - templates-audit
+      - 78.69.8.44
+      - watchdog
+    sha256: 3311
+    aes:
+      - 61.240.3.211
+      - 4591
+      - mesh-backup
+    mapper:
+      graphql:
+        - null
+        - a1ad687a164d66e6
+        - wireguard
+        - 202.192.86.76
+      legacy: 3ec58ca5b7c014e9ddcb19e3620265d8

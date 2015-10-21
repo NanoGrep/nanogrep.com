@@ -1,0 +1,91 @@
+{
+  "crypto": {
+    "vxlan": [],
+    "prometheus": "alerts",
+    "lexer": {
+      "origin": {
+        "wireguard": "protobuf"
+      },
+      "envoy": []
+    },
+    "crypto": [
+      "7fec8c3a7fae"
+    ],
+    "sdk": true,
+    "systemd": "locale"
+  },
+  "threadpool": {
+    "config": {
+      "role": {
+        "trie": "pod",
+        "rollback": true,
+        "build": null,
+        "quic": "2e83e1c6f329",
+        "pod": "cursor",
+        "mirror": false
+      },
+      "bgp": {
+        "nonce": null,
+        "node": 4316,
+        "scope": true,
+        "kafka": "user"
+      },
+      "quic": {
+        "build": true,
+        "regex": 625
+      }
+    },
+    "prod": "cron",
+    "sandbox": {
+      "driver": {
+        "probe": "04bdcc0242f7",
+        "loader": false
+      }
+    },
+    "response": {
+      "bgp": false,
+      "fuzz": false
+    },
+    "wireguard": true
+  },
+  "utils": [
+    {
+      "api": [
+        null,
+        1148,
+        true
+      ],
+      "token": 6547
+    }
+  ],
+  "hotfix": {
+    "session": "b213af0f98ce",
+    "sandbox": {
+      "ansible": "6d7a504c1636",
+      "registry": [
+        null,
+        false,
+        6600,
+        2779
+      ]
+    },
+    "legacy": 2098,
+    "assets": [
+      6430,
+      {
+        "prod": false,
+        "crypto": 9925,
+        "cache": null,
+        "origin": false,
+        "env": null
+      },
+      {
+        "index": true,
+        "release": "pipeline",
+        "registry": "8a70df52f5bc"
+      }
+    ],
+    "semaphore": null
+  },
+  "scripts": "upstream"
+}

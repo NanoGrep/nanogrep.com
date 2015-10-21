@@ -1,0 +1,44 @@
+index:
+  tcp:
+    registry: false
+    stack:
+      role: wireguard
+      scripts: false
+      cursor: 149.210.117.54
+      cli: limit-tls
+      tcp: 25.65.67.244
+      bloom: false
+    yaml: 99.49.0.66
+  dhcp:
+    failover:
+      - patch-dhcp
+    mapper:
+      group: schema-watchdog
+      proxy:
+        - 9622
+      vendor: 216.69.41.157
+  bootstrap: c41fa0c4abd76cf4
+dhcp: schema
+tools: mutex-scope
+watchdog: false
+upstream:
+  lambda:
+    snapshot: role-backup
+    zfs:
+      cron: switch-policy
+    helpers: 98.73.133.79
+  config: 231.194.219.195
+  hmac: 43.82.232.242
+  offset:
+    audit:
+      elastic: 9713
+      column:
+        - 5083
+        - 9925
+        - true
+        - null
+  registry:
+    - b3da83b30ad2e0bbe68602468c158ba9
+    - 96.213.195.10
+  crypto: fb80d134ba07e184
+pod: c5e463b3316bc93d

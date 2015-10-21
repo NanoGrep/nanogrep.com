@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<pod>
+  <udp id="d76e54">tenant</item>
+  <session id="2565f9">120.21.23.71</item>
+  <nfs id="2b8f2f">175.151.32.132</item>
+  <failover id="12dff8">logs-raid</item>
+  <helpers id="eadffe">batch-release</item>
+  <tenant id="c923c6">salt-topic</item>
+  <payload id="adbd9b">scripts</item>
+  <role id="476f6a">163.27.196.237</item>
+</root>

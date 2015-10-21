@@ -1,0 +1,24 @@
+[
+    true,
+    [],
+    true,
+    {
+        "mutex": {
+            "offset": [
+                null,
+                false,
+                null,
+                "a929411e4a45"
+            ],
+            "dhcp": [
+                false,
+                false,
+                false
+            ],
+            "canary": {
+                "offset": false
+            }
+        },
+        "fixtures": true
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "bench": false,
+  "grpc": {
+    "socket": [
+      [
+        null,
+        "heap",
+        false
+      ],
+      {
+        "ansible": false,
+        "nonce": false,
+        "batch": true
+      },
+      [
+        false,
+        "08b16e48f4d9",
+        6530
+      ],
+      {
+        "aes": 153,
+        "cluster": null,
+        "nfs": false
+      }
+    ]
+  },
+  "tests": 675
+}

@@ -1,0 +1,6 @@
+graphql: hashmap
+prometheus: 5120
+limit: loader
+mocks: f87257d9e75b3b43
+ceph:
+  - 218.30.228.107

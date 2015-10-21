@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<mysql>
+  <gateway id="df6590">051ce5f3</item>
+  <mapper id="ca099e">24.58.220.115</item>
+  <controller id="da8fc2">vxlan</item>
+  <crypto id="3c5e7d">179.225.15.53</item>
+  <limit id="b83a62">policy-mutex</item>
+  <config id="053e6a">true</item>
+  <yaml id="401961">3f80e4c75283579e9abebe5c9c79f479</item>
+  <prod id="8719b6">factory</item>
+  <mirror id="2acd3c">4840</item>
+  <backup id="174605">false</item>
+  <backend id="256f3c">d04ab8961ed0c71f</item>
+  <salt id="d36643">registry-locale</item>
+  <api id="005cab">hotfix-envoy</item>
+  <canary id="298710">c39da170</item>
+  <loader id="f2b209">8780</item>
+  <switch id="dc0e60">9196</item>
+  <hashmap id="0ae447">101.250.18.211</item>
+  <request id="64161d">1330</item>
+  <bgp id="27b0af">8e08c2a1315fc2e1</item>
+  <proxy id="ba7905">false</item>
+  <hmac id="a5d26e">453</item>
+  <proxy id="d5b5ec">9637</item>
+</root>

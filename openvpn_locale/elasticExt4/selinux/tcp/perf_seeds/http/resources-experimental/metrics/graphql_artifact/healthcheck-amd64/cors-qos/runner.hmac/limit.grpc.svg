@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<cgroups>
+  <core id="b87418">650d112b52cb9404</item>
+  <staging id="57796c">release-bgp</item>
+  <bloom id="38c4a1">redis</item>
+  <heap id="7f0fce">7922</item>
+  <gateway id="d39920">hashmap</item>
+  <heap id="8667d5">volume</item>
+  <vendor id="486147">cron</item>
+  <backend id="96069c">cee1636b9082f50d0dde5fc42d6a7387</item>
+  <mysql id="1c6e9d">policy-queue</item>
+  <frontend id="e8414c">180.148.86.201</item>
+  <bench id="7960a6">cluster-tls</item>
+  <metrics id="0b8995">172.69.180.79</item>
+  <helm id="94d6cd">96f50ddf1bc0c92c1d41cfd350a922ca</item>
+  <logs id="b56c1b">iptables</item>
+  <nat id="f7b5a4">95f6571c</item>
+  <lambda id="5dea2f">77.99.44.37</item>
+</root>

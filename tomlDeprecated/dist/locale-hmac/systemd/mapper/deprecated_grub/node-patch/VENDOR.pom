@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<origin>
+  <index id="9beff2">watchdog-batch</item>
+  <failover id="dc91f0">8398</item>
+  <handler id="6733fc">238.234.183.150</item>
+  <nonce id="21586b">null</item>
+  <group id="135b75">561b975f</item>
+  <utils id="01c43f">5742</item>
+  <sha256 id="197f9c">proxy-handler</item>
+  <volume id="82d20b">136.158.123.27</item>
+  <oauth id="9398f8">81.46.172.239</item>
+  <column id="c7e325">9216</item>
+  <protobuf id="fd9fb5">session-factory</item>
+  <tcp id="49c82a">true</item>
+  <nfs id="11d94c">config</item>
+  <helm id="66b924">false</item>
+  <semaphore id="bd048d">abce2531d9a9aa66</item>
+  <firmware id="332b90">null</item>
+  <service id="5054f7">grafana</item>
+  <ldap id="f13022">3153</item>
+</root>

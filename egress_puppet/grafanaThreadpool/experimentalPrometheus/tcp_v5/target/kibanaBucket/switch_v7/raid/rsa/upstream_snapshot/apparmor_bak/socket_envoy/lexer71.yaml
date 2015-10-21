@@ -1,0 +1,8 @@
+hmac: false
+pod: mysql-mocks
+parser: 235.192.61.214
+row:
+  - jenkins
+  - 791
+  - elastic
+replica: lexer-scope

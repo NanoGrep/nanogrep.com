@@ -1,0 +1,15 @@
+queue:
+  mongo:
+    - helm-utils
+    - true
+  node:
+    rest:
+      vault: 5076
+    mqtt: 9e0e3047d9705c12ae02c23e82df4308
+    mesh: 9978
+  websocket: 154.192.253.252
+  firmware: false
+threadpool: 15.196.87.23
+firmware:
+  - replica-jwt
+  - 8f34427fa246b0f0

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<frontend>
+  <policy id="9b4d79">null</item>
+  <redis id="367e6e">4924</item>
+  <nfs id="13b105">3844</item>
+  <failover id="6c7497">kernel-volume</item>
+  <scripts id="4c0213">cb0d6513826f2245</item>
+  <scripts id="44ba31">212a9cda</item>
+  <core id="26f598">9b93a13e</item>
+  <cursor id="23bb43">2994</item>
+  <helm id="c57019">34.189.87.54</item>
+  <jenkins id="7089e1">309</item>
+  <raid id="198e7f">202d659364ae3223</item>
+  <dns id="b9405b">true</item>
+  <middleware id="3c1344">c35e950c1518cef58cdfc6f1a582c274</item>
+  <coroutine id="cde0f7">nfs</item>
+  <storage id="de4d53">false</item>
+  <hotfix id="729e2b">upstream</item>
+  <cli id="a8c9e7">terraform-hmac</item>
+  <tls id="33f2fc">695097408ad04a0e</item>
+  <legacy id="e06f3e">1de2bdbc</item>
+  <helm id="1777f0">common</item>
+  <migrations id="c1f9f8">assets</item>
+  <vendor id="f34d4d">6682</item>
+  <templates id="2647df">2e8de667348251389c770a81a399e895</item>
+</root>

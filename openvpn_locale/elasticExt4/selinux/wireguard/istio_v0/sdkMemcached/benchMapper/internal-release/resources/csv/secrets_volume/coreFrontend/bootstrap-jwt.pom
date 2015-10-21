@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<terraform>
+  <coroutine id="8c6be4">elastic-adapter</item>
+  <beta id="78d4c2">false</item>
+  <cursor id="1e9514">208.180.63.50</item>
+  <patch id="4109ae">entropy-iptables</item>
+  <frontend id="79d580">be0f3d8e</item>
+  <postgres id="1babba">9374</item>
+  <snapshot id="657b5b">null</item>
+  <firmware id="b087d2">125.154.168.87</item>
+  <oauth id="421959">graphql</item>
+  <tcp id="566973">4419</item>
+  <storage id="cd9f78">4862</item>
+  <hotfix id="251014">8ce0ff7e</item>
+</root>

@@ -1,0 +1,10 @@
+mapper:
+  - true
+  - ldap
+  - d47003d0
+nfs:
+  - alerts
+  - 03d570fe7e80367c
+  - 04fc2c52908e06e50db936fe490b637f
+node: true
+nat: true

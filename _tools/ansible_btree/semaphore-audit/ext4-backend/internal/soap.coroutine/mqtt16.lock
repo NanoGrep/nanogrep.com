@@ -1,0 +1,33 @@
+{
+    "retry": [
+        {
+            "release": false,
+            "bucket": [],
+            "bench": 9142,
+            "coroutine": null
+        },
+        {
+            "worker": [
+                false
+            ]
+        },
+        {
+            "alerts": [
+                "fb5b5b5a7d6d",
+                "grpc",
+                false,
+                true
+            ],
+            "upstream": [],
+            "staging": "queue"
+        }
+    ],
+    "helpers": [],
+    "buffer": {
+        "beta": "threadpool",
+        "iptables": 6814
+    },
+    "pipeline": "pod",
+    "stream": null,
+    "cron": true
+}

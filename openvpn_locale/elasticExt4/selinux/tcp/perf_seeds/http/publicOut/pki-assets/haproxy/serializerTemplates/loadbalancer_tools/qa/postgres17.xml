@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<dns>
+  <table id="22e67c">cluster</item>
+  <nginx id="2b9733">topic</item>
+  <alerts id="9bf652">daemon</item>
+  <nightly id="35e282">96.178.159.65</item>
+  <stream id="6662e7">10136482</item>
+  <protobuf id="839218">ingress-tools</item>
+  <request id="cea4da">compiler</item>
+  <utils id="47a34e">cert-node</item>
+  <cache id="acc14f">190.252.102.30</item>
+  <scope id="6c579b">true</item>
+  <entropy id="80c18b">cursor-dist</item>
+  <token id="57eb1f">false</item>
+  <switch id="966f2b">null</item>
+  <metrics id="54d4ee">d90849a844b7ee8c82e974efbf141ed3</item>
+  <backend id="31e7d5">2ec6eed48e6b94fdf38fe84561961199</item>
+</root>

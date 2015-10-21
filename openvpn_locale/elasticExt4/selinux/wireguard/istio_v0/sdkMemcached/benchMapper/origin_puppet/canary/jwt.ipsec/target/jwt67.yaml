@@ -1,0 +1,19 @@
+scheduler:
+  switch:
+    index: pipeline
+    kerberos: dns
+    audit: c9767b8a
+    service:
+      kafka: null
+      ldap: lib-socket
+    policy: nightly-graphql
+subnet:
+  storage:
+    heap: http-hashmap
+    http:
+      tools: 207.15.21.83
+    cache: patch
+  systemd:
+    mutex: oauth-vxlan
+    scripts:
+      - terraform

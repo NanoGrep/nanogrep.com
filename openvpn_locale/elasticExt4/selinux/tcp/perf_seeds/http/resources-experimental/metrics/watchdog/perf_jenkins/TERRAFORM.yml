@@ -1,0 +1,33 @@
+canary:
+  mysql:
+    - 3f1294d949d00bbc
+    - 5199
+    - 234.26.189.17
+  user:
+    udp: vault
+    ceph: 16d21934a01b04c36299cfba798dc462
+    traces: 1c8c05d97296632521679b649075ef23
+    row:
+      dns: 189.179.97.186
+    offset:
+      driver: false
+      canary: hashmap-grafana
+      replica: 229.40.4.111
+      scope: vendor
+    proxy: false
+  scope:
+    - 691656e65382d94f
+    - beta
+  postgres: 7f03d5eba25f5a168a340eee54dbdc63
+  role: 2982
+sandbox:
+  role:
+    rest: false
+    kerberos: true
+    vendor:
+      - 3915
+      - 25.80.236.41
+    rollback: 52fa7903dbf6c13cec25d2be3947e715
+    btree: assets
+mocks: 5723
+tools: 9521

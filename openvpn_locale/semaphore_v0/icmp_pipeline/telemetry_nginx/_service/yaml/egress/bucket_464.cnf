@@ -1,0 +1,71 @@
+[service]
+request_semaphore = false
+json.response = f4607fa257830fde0eb30b5eeb4ae447
+salt_yaml = null
+commonbackup = grafana-yaml
+mapper.yaml = 136.225.93.240
+object_middleware = worker
+json.queue = policy-user
+logs_canary = 72.246.251.218
+rollback_mocks = cgroups-regex
+batch.jwt = 6978
+mysql.quic = 0a2aa9c4
+prometheus_upstream = wireguard-pod
+cert_group = backend
+watchdog.fuzz = dc4aec82
+aes_scheduler = 191.18.39.66
+scheduler_threadpool = null
+kafkatraces = threadpool
+ingress_terraform = 7346
+backupfixtures = 69fd1f1a39873c00
+mocks_cgroups = mirror
+lambda_mirror = zfs-metrics
+cron_threadpool = 154.179.33.187
+regex.ldap = daemon-response
+
+[templates]
+corsscheduler = loader
+parserutils = true
+ingress.failover = 4777
+logs.table = 235.56.10.152
+buildsdk = 8f0d8395e081f238a799f3864a6033df
+scope_grafana = canary
+fixtures_trie = stream-request
+group.vendor = 44fb5f7c7baf611bcb651e68c0bbedb2
+batch_driver = null
+role_scripts = true
+systemd.systemd = locale-mirror
+retry.tenant = 89c0ad795774ebd4
+gateway_artifact = controller
+assetscanary = 5658
+legacy_vendor = assets-scripts
+semaphoreprod = 78.80.46.201
+vlan_backend = mirror-hmac
+queue.service = 8904
+offset_rollback = a0165bd914578216
+jsonstack = elastic
+dhcputils = locale
+jwtvxlan = null
+cluster.rest = audit
+driverconfig = false
+postgreswebsocket = true
+tenant.rsa = false
+limit_crypto = 4b7af4b2e3b72d5e
+
+[build]
+trie_handler = 58.76.234.39
+mapperrest = 8.195.141.199
+testscommon = 168.30.110.143
+cookie_traces = nfs
+limit_http = vault
+redis.node = assets
+mesh_canary = 141.92.179.14
+common_storage = wireguard-canary
+helpers_terraform = 47.211.80.206
+queue_batch = 5682
+env.canary = 9.239.153.230
+cursor_queue = 5072
+
+[jwt]
+core.oauth = 58b72abfa2cef1a6
+factory.tcp = frontend

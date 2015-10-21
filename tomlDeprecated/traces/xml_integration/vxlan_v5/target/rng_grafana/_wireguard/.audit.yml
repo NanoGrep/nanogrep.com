@@ -1,0 +1,18 @@
+canary: 220
+assets: 58.215.142.187
+websocket: false
+legacy:
+  assets:
+    - 6899
+    - 4590
+redis:
+  - nfs
+  - sdk
+cluster:
+  handler: 1994
+  volume:
+    - ba29f1bc79fdb8f39052677caea96c3f
+    - 4247
+    - 58.19.32.200
+  sandbox: 289eaf59
+  factory: service

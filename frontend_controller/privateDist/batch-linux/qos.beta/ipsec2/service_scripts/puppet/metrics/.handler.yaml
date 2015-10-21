@@ -1,0 +1,17 @@
+handler: locale-object
+traces: 9228
+tenant:
+  terraform:
+    - false
+    - volume
+    - patch
+  table: 189.122.132.93
+config: bench
+kernel:
+  response:
+    - mirror-grpc
+  audit: 1404
+coroutine:
+  - logs
+  - 3248
+  - raid-rest

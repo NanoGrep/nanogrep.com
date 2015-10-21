@@ -1,0 +1,80 @@
+{
+  "backup": {
+    "firewall": {
+      "loader": 4349
+    },
+    "shard": [
+      8682,
+      [
+        3019,
+        true,
+        true
+      ]
+    ],
+    "probe": [
+      {
+        "crypto": "9351b9dee5cf",
+        "sandbox": 3746,
+        "cookie": "4c8bfc9ec3b9",
+        "mutex": null
+      },
+      {
+        "cookie": null,
+        "common": 7308,
+        "dns": null,
+        "grafana": false,
+        "policy": true,
+        "shard": 153
+      }
+    ],
+    "bloom": "entropy",
+    "dhcp": {
+      "firewall": {
+        "upstream": 9756,
+        "mysql": true,
+        "scripts": 6335,
+        "sdk": "d456a2bce6b9"
+      },
+      "tls": [
+        null,
+        6526,
+        null
+      ],
+      "token": {
+        "dist": 2
+      },
+      "backend": "storage"
+    }
+  },
+  "mysql": false,
+  "snapshot": false,
+  "proxy": {
+    "tools": {
+      "salt": "16c3a10dda46"
+    },
+    "staging": 7097,
+    "cors": {
+      "backup": {
+        "ceph": "hotfix"
+      },
+      "snapshot": {
+        "controller": "1ae04aa1e7ff",
+        "nightly": 6317,
+        "traces": "297d4917ef0a",
+        "envoy": true,
+        "logs": true,
+        "origin": "jwt"
+      },
+      "retry": "74450f65b786",
+      "mirror": {
+        "snapshot": null
+      },
+      "ingress": "helm"
+    }
+  },
+  "utils": {
+    "jwt": false,
+    "dhcp": null
+  },
+  "row": true
+}

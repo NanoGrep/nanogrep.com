@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<firewall>
+  <json id="fd1848">buffer-nginx</item>
+  <nginx id="f52810">bd91a77872e79310</item>
+  <switch id="15b621">247.102.116.7</item>
+  <mapper id="45139e">threadpool-offset</item>
+  <hashmap id="dd6f2a">195.170.222.132</item>
+  <runner id="5ff9ba">false</item>
+  <helm id="be24e0">storage-topic</item>
+  <envoy id="93279b">d5ae04afe31f33c1cc1b4407fa0720d2</item>
+  <token id="9a307e">8.143.27.117</item>
+  <assets id="4fde57">false</item>
+  <release id="019fb1">true</item>
+  <btree id="c3edbb">fa54dce6</item>
+  <templates id="a67bd0">token-backend</item>
+  <nat id="0262f7">220.139.149.81</item>
+  <kafka id="4ca4f7">true</item>
+  <scripts id="6bf3d0">172.238.224.172</item>
+  <release id="051c01">build</item>
+  <hotfix id="53065c">f83acfcb54e98a5711b0aae8db54b251</item>
+  <firmware id="1e7042">true</item>
+  <firewall id="c97793">config</item>
+  <tests id="275a05">5972</item>
+  <env id="e6998f">5c6734f8ac34b1b1c5aac2c1cf9d22bb</item>
+  <grafana id="433177">213.229.169.248</item>
+</root>

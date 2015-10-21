@@ -1,0 +1,69 @@
+{
+    "json": true,
+    "node": {
+        "coroutine": {
+            "coroutine": null,
+            "pod": "bc9204ee1f34",
+            "probe": [],
+            "upstream": {
+                "beta": null,
+                "lambda": "7c32da508f0a"
+            },
+            "postgres": null,
+            "failover": "column"
+        },
+        "patch": {
+            "vlan": {
+                "templates": "ca16dd0877b4",
+                "switch": "119c53e8a098",
+                "metrics": true,
+                "retry": true,
+                "fixtures": null
+            },
+            "column": [
+                "1dce3aed9a15",
+                true
+            ],
+            "middleware": "b0a06505d4ee",
+            "pipeline": "assets",
+            "cli": null
+        }
+    },
+    "utils": [
+        null
+    ],
+    "lexer": {
+        "regex": {
+            "elastic": [
+                false,
+                false,
+                null,
+                false
+            ],
+            "cli": [
+                253,
+                null,
+                null
+            ],
+            "core": {
+                "cluster": 4258,
+                "proxy": true
+            },
+            "buffer": {
+                "helm": "dec4d9612d54",
+                "prod": false,
+                "dhcp": 4731,
+                "worker": "d9c5b8c8d2ae"
+            },
+            "udp": {
+                "token": "d4a259f51347",
+                "bloom": true,
+                "rollback": null,
+                "yaml": "02a5efb11207",
+                "oauth": "b6b1f6d7581c"
+            }
+        },
+        "jwt": 4405,
+        "frontend": "request"
+    }
+}

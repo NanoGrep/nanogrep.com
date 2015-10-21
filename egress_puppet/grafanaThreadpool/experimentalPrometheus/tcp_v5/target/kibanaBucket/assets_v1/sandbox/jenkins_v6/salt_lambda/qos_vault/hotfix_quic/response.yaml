@@ -1,0 +1,8 @@
+mongo:
+  - 19377c54
+  - 1330
+  - compiler
+  - false
+kerberos:
+  - helm-nat
+  - bd4890a4

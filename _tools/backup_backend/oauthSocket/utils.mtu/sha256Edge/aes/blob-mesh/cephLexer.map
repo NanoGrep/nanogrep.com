@@ -1,0 +1,18 @@
+{
+    "canary": {
+        "backup": {
+            "tls": false,
+            "coroutine": 8005,
+            "core": "671ad7ba3743",
+            "api": false
+        },
+        "lexer": [],
+        "audit": {
+            "ansible": false,
+            "switch": false
+        },
+        "quic": true,
+        "mocks": []
+    },
+    "release": []
+}

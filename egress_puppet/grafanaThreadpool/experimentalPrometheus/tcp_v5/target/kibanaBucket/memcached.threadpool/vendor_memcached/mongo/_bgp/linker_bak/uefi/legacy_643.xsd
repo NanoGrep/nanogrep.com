@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<release>
+  <service id="dbe781">service-loader</item>
+  <zfs id="90ecc3">fe3d1db65fef47503493b94f5bf0bcb9</item>
+  <pod id="420c7b">b9e6526d</item>
+  <core id="7cb8f3">3466ce4e</item>
+  <offset id="45c739">trie</item>
+  <vendor id="032dc5">a57ac5fb64c60a10</item>
+  <salt id="f707f9">180.53.34.173</item>
+  <btree id="f5d17c">false</item>
+  <lambda id="4010a1">139.165.74.245</item>
+  <lexer id="60f02c">false</item>
+  <systemd id="b245e4">postgres</item>
+  <nightly id="994207">19494f02</item>
+  <assets id="489d04">21.49.207.118</item>
+</root>

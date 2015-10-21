@@ -1,0 +1,32 @@
+hotfix:
+  cookie: payload
+  cookie:
+    driver: d7124318
+    threadpool: audit-audit
+    hashmap:
+      - 9.146.57.160
+      - vxlan
+    prod:
+      - 45.217.22.133
+      - a308cb45b5ecff8f
+      - vxlan
+    kernel: 153.163.102.71
+  gateway:
+    vxlan: terraform
+    bench: udp
+    adapter: 9125
+    tenant: 6383
+    yaml: 199.142.18.7
+yaml:
+  bucket: eeec572ade00cab8
+  response: false
+  ldap: 231.61.201.172
+  lib: 82.138.73.104
+  scripts:
+    - 17d4b19bd5c5af0af8f23e0f51f58f2d
+  fixtures: policy
+cert:
+  coroutine: bootstrap
+  parser: true
+  locale: null
+sdk: true

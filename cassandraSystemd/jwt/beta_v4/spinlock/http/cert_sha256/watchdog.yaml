@@ -1,0 +1,37 @@
+grpc:
+  - tcp-cookie
+registry: 1d9575e2907e1687
+patch: handler
+middleware:
+  frontend:
+    - dns
+  vendor:
+    mesh: true
+  migrations:
+    router:
+      retry: 197.23.147.154
+      queue: 5070
+      frontend: null
+      mqtt: false
+    lexer: true
+    backend:
+      registry: 3639
+      redis: dns-column
+      limit: 49.226.170.161
+      env:
+        - 5631
+        - 172.97.32.107
+        - migrations
+      frontend: 2498
+    stream: 18240d04
+    artifact:
+      cli: ldap-kernel
+  index:
+    - 05dac5a6
+    - null
+    - 1056
+    - registry
+  lambda: null
+  fixtures: false
+kernel: kerberos
+vlan: 718

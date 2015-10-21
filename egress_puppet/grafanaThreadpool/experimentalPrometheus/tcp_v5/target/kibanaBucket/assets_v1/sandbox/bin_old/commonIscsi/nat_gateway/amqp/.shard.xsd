@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<nightly>
+  <column id="f83a8c">9111</item>
+  <raid id="37fd3a">true</item>
+  <assets id="dcfba0">23a4316b1f302a8630345134fbef3cf7</item>
+  <sdk id="6271ac">3150</item>
+  <request id="57e4d2">145.39.169.78</item>
+  <mutex id="872a0a">2086</item>
+  <nat id="577f09">3383</item>
+  <backend id="4cdb4a">7569</item>
+  <cookie id="9c0025">volume-payload</item>
+  <entropy id="69f592">1993</item>
+  <dns id="57ff29">true</item>
+  <backup id="11873e">false</item>
+  <regex id="0b712c">189.213.243.25</item>
+</root>

@@ -1,0 +1,6 @@
+node: true
+payload: false
+udp: 4911
+tcp: 89.8.230.178
+offset: metrics
+column: 3503

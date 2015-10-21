@@ -1,0 +1,8 @@
+quic:
+  pipeline: nightly
+  aes: udp
+  vxlan: 2687
+router: true
+retry: false
+middleware: sdk
+config: 697

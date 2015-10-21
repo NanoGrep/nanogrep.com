@@ -1,0 +1,89 @@
+{
+  "dist": {
+    "hmac": true,
+    "locale": null,
+    "core": {
+      "policy": {
+        "batch": "395a923301c6"
+      },
+      "tenant": "lexer",
+      "zfs": {
+        "hmac": "40cdf2bece6d",
+        "build": 5867
+      },
+      "nginx": [
+        "mapper",
+        false,
+        "tls"
+      ],
+      "storage": {
+        "websocket": "vendor",
+        "topic": false
+      }
+    },
+    "grpc": {
+      "replica": false,
+      "rsa": [],
+      "upstream": {
+        "driver": 8437,
+        "snapshot": "factory",
+        "tools": null,
+        "pipeline": true,
+        "origin": false
+      },
+      "heap": {
+        "stream": "audit",
+        "entropy": false,
+        "cache": null,
+        "table": 2062
+      }
+    },
+    "cluster": "object",
+    "firewall": {
+      "locale": false,
+      "volume": {
+        "regex": null,
+        "elastic": false,
+        "canary": 2673,
+        "systemd": true
+      }
+    }
+  },
+  "nfs": [
+    "kernel",
+    {
+      "rest": {
+        "loader": null,
+        "prometheus": 7303,
+        "response": false,
+        "cursor": null,
+        "cron": "graphql"
+      },
+      "stream": false,
+      "env": "migrations",
+      "hotfix": "2cb94d6c32f0",
+      "ldap": "bgp",
+      "heap": {
+        "utils": true,
+        "locale": 4180,
+        "config": true,
+        "logs": true,
+        "beta": "driver",
+        "fixtures": false
+      }
+    },
+    7515
+  ],
+  "aes": [
+    {
+      "rsa": null,
+      "postgres": false,
+      "snapshot": [
+        null,
+        "sdk",
+        true,
+        "policy"
+      ]
+    }
+  ]
+}

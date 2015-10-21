@@ -1,0 +1,36 @@
+{
+  "mocks": {
+    "nonce": null,
+    "ceph": [
+      [
+        1544,
+        false,
+        "1b87f7d5bf01"
+      ],
+      9033,
+      null
+    ],
+    "ldap": true,
+    "quic": {
+      "vlan": {
+        "beta": 817
+      },
+      "service": {
+        "rest": "40d9430047fd",
+        "env": true,
+        "topic": "465da67d9c02",
+        "rsa": false,
+        "mesh": "audit",
+        "origin": 80
+      },
+      "utils": {
+        "semaphore": "ef6f5792e320",
+        "response": "hotfix",
+        "probe": 251
+      }
+    },
+    "mysql": {
+      "user": 2506
+    }
+  }
+}

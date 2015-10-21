@@ -1,0 +1,54 @@
+cluster:
+  router:
+    - null
+    - upstream-rollback
+    - true
+  canary: bucket
+cache:
+  zfs:
+    topic:
+      systemd: table-worker
+      graphql: 6075
+      switch: mutex
+    oauth: true
+    threadpool: nonce
+    factory:
+      - bench
+  stream: lexer-staging
+  scope:
+    storage:
+      service:
+        - dist
+        - 51a14708
+        - 2432
+        - 8931
+      rsa:
+        - 1e950bce7378af1c6ae7d54a56e93c5d
+        - 05e1ca1794774816
+        - limit
+        - bench
+      dns: table-request
+      upstream: mutex-policy
+    ingress:
+      gateway: role
+      service: helm-cursor
+    bucket: 212.139.69.75
+    jenkins:
+      queue: semaphore
+      iptables:
+        - 1806
+        - 102.172.195.82
+      mongo:
+        - tests
+        - 217.215.179.57
+      cursor: false
+      yaml: a92075f6ce1d6eb3
+      salt:
+        - 28.37.166.119
+        - 152
+        - 140.95.92.5
+    watchdog: true
+    storage: 77.144.144.220
+response: 163.56.212.186
+pipeline:
+  build: 8444

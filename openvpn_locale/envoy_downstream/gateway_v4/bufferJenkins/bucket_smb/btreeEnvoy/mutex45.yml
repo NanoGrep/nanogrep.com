@@ -1,0 +1,57 @@
+object: 4731
+envoy:
+  salt: false
+  salt: 8161
+ceph:
+  staging: 238.111.114.228
+  ansible: ae8b407b
+  crypto:
+    - user
+    - column
+    - payload-mysql
+    - false
+  index: 16a1bd7f7595432c
+  tcp:
+    ingress: column-nginx
+    grafana: alerts-redis
+    pod:
+      hashmap: regex
+      mirror:
+        - table-grafana
+      lib: 672725090f7c86ac
+      alerts: 95a1cc57
+    firewall:
+      - 8199
+      - 72.81.22.171
+    scheduler:
+      sandbox: false
+      ingress: 4586
+      cron:
+        - hashmap
+        - volume-cursor
+policy:
+  aes: 8380
+  scheduler:
+    ingress:
+      - 169c5b3bd713cb28
+      - 9836
+      - 233.69.103.189
+      - bucket
+    audit:
+      yaml:
+        - jwt-column
+        - 2361adae9d18b5bf0599647bd8bc8230
+        - 7611
+        - false
+      volume: shard-heap
+      volume: proxy
+    schema: 1481
+    cursor:
+      quic: 2062
+    runner:
+      - 25d09309c8f5af78
+    controller: 7c49763949df5a33
+  factory: cluster-mutex
+  offset: 223.105.226.51
+  scheduler: 31a3d45a977a3d6e
+  regex: raid

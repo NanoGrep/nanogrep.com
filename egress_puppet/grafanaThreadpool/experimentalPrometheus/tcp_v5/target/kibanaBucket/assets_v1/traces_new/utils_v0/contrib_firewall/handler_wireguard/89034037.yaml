@@ -1,0 +1,25 @@
+edge: kernel
+buffer: null
+object:
+  column: 560b5ad8
+  pod: json-mesh
+  column:
+    - 152.206.23.247
+    - gateway
+    - semaphore-factory
+middleware: null
+nat:
+  nat:
+    - backend
+    - false
+    - buffer-scheduler
+    - 4918
+  firewall:
+    rest:
+      fuzz: 90c6c9d25ae568a606b069a69f1c2c9d
+      env: object-tests
+      loader: adapter-loader
+      traces: null
+  index: proxy
+  staging: 153.171.96.4
+worker: false

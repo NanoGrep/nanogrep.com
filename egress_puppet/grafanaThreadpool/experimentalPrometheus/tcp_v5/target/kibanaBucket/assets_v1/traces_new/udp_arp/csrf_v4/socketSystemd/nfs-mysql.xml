@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<trie>
+  <audit id="9e1e91">nightly-mysql</item>
+  <frontend id="6c201d">tools</item>
+  <envoy id="72b9ae">false</item>
+  <websocket id="435946">protobuf-shard</item>
+  <nfs id="523619">gateway</item>
+  <terraform id="32dbb5">96.90.33.178</item>
+  <hmac id="14c47b">null</item>
+</root>

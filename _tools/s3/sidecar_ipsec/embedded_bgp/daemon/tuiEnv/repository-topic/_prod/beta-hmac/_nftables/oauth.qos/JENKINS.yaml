@@ -1,0 +1,17 @@
+worker:
+  subnet:
+    schema:
+      - snapshot
+      - 166.238.253.84
+    sandbox: null
+    pod:
+      - 23381f1f
+      - 864
+      - 6704
+    dns: 4483
+    adapter: elastic
+core: kafka-nonce
+pipeline: ingress
+cgroups: 106.204.207.29
+probe: origin
+snapshot: 56.72.226.239

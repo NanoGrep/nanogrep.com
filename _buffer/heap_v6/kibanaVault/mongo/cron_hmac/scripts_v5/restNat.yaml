@@ -1,0 +1,62 @@
+row:
+  build: true
+  json: middleware-storage
+  mqtt:
+    stack: snapshot
+    ansible:
+      hotfix: 143.5.139.25
+      queue: 6810
+    yaml: mocks-tls
+    snapshot: 4666
+  mesh:
+    - true
+    - 1b4ebb63cd63f91dd814e4084794fac8
+  column: null
+nightly:
+  rollback: vendor
+  gateway:
+    - cache
+    - aes
+    - nat-patch
+  migrations: null
+  btree:
+    legacy: 2960
+    mqtt: 1177
+    env: true
+    regex:
+      - 324186f3fa41fc8d2979df9105a9156d
+  assets:
+    zfs: lexer
+    parser: config
+    mqtt: 5295
+    hashmap: 5607
+  firewall: 51bb4547cfce032e
+switch:
+  config: assets-helpers
+  coroutine:
+    - 2502
+    - 03eb6c9577ce57811fef4a5a96a18668
+    - column-bootstrap
+  postgres: true
+  tcp: true
+  api: 73f3ed16
+stack:
+  locale: 226.130.41.159
+  release: 2684
+  pipeline: 0d5c61f5bfeb02b3
+  bgp:
+    systemd:
+      - tenant-sha256
+    ceph: 163.37.113.173
+    frontend: df1d6a13baf112e171a6e792f30d4a03
+    tls: true
+    retry:
+      watchdog: yaml
+    nonce:
+      - kerberos-cache
+      - controller
+scheduler: hashmap
+logs:
+  - quic
+  - 61.242.83.81
+  - firmware-cluster

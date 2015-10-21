@@ -1,0 +1,9 @@
+kernel,tcp,wireguard,edge,migrations,heap,sha256
+true,157.198.197.218,jenkins-failover,df84efa1,limit,225.25.89.161,null
+1dc41520ce47c77df35387ade1465b6d,2276,4832,http-ingress,jenkins-sandbox,d41c1cf0,187.156.24.169
+30.20.15.91,b8ee7dfc17441fa4,probe,67f79abdfe4c582d,vlan-vlan,oauth,f5819a0f
+staging,1f4ce438,fuzz,170.154.122.11,protobuf,9175,194.180.149.40
+1392e119,rollback-grpc,f8ce219e2b04cc3c,6fce5f0987775303928fbb1d4fcbd01c,null,470,8144
+4b8097bc,registry,252.205.196.196,group-websocket,alerts-buffer,5340,policy-salt
+true,119.241.248.128,runner,7cae87621de8abfc,4780,firmware,e03f5a0e
+true,975,vendor-backup,9e7b01b794314395d979358fb16b21e6,6364,278,payload-rollback

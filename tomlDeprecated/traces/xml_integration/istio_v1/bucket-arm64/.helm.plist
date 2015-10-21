@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dist>
+  <nfs id="f0db1f">2333bccae20709a4708e0994d14a7568</item>
+  <shard id="2b98a5">false</item>
+  <fixtures id="6075b7">true</item>
+  <threadpool id="1d56c9">6a0bf4dfeb27c39a</item>
+  <envoy id="df05e3">locale-staging</item>
+  <snapshot id="d160d5">wireguard</item>
+  <switch id="cbcf5e">108.122.248.253</item>
+  <core id="d4d7be">true</item>
+  <nonce id="f874dc">4ec621052aff3c113a16afe5f05fa940</item>
+  <dist id="e7cb83">null</item>
+  <mysql id="09f437">704</item>
+  <entropy id="277776">a415c5d92c878bb6279d098690323a87</item>
+</root>

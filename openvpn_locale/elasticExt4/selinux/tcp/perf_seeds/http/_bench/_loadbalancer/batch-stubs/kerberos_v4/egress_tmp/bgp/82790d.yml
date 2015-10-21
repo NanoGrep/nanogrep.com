@@ -1,0 +1,5 @@
+tests: jwt-bloom
+role: ansible
+schema: snapshot-object
+user: 1195
+env: bucket

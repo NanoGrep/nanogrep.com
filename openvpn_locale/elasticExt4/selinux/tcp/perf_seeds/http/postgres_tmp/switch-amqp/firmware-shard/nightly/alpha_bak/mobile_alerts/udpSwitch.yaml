@@ -1,0 +1,80 @@
+tcp:
+  redis: e63a714f992832587ad6759537afe18b
+  terraform:
+    ingress: true
+    nat: request-mapper
+    artifact:
+      nginx:
+        - cgroups-registry
+        - mongo-rsa
+        - 247.150.160.83
+        - 106.104.236.71
+      schema: quic
+      hmac: 7068
+      cli: a900f174b472fe10
+    socket: null
+    entropy: runner
+  object:
+    hotfix:
+      patch: true
+      batch: 6260
+      payload: parser
+    bucket: 147.213.236.84
+    daemon:
+      lib: ansible-semaphore
+      lexer: b7d9d086689b21e8b5c090d20705ce02
+      utils:
+        - nginx
+        - subnet-grpc
+        - locale
+      mongo: crypto
+      grafana: pipeline-wireguard
+    aes:
+      - c848ebbb2ad2b863
+      - null
+  salt:
+    - 3ff543619f324933
+  sdk:
+    jenkins: 944deeae
+    oauth: 8f99371703d314e98a19a29944a61746
+    payload:
+      proxy: tenant-bgp
+      stack: 136.67.158.163
+    hashmap:
+      session: 9891
+      tenant: 9612
+      shard: grpc
+    common:
+      sandbox: 232.101.12.7
+      core: true
+      pod:
+        - true
+        - 1244
+        - null
+        - null
+      upstream: 92427f224e0644d9
+      firewall: fa1eb526650f3f86
+      mocks:
+        - null
+        - 7417
+        - bootstrap-payload
+        - env-http
+  semaphore:
+    cron: 9039
+    registry: volume-lexer
+    kafka:
+      firewall: true
+      response: gateway
+      node: 87.229.248.75
+    registry: 123.83.62.242
+    dist:
+      queue: jwt
+      logs: 7e2b4015b96dacb3c0322377f5dd5a0b
+cron: 99b7d23097a5b1f2
+wireguard: fuzz-ansible
+common:
+  prometheus: 9027
+index:
+  zfs: true
+  zfs: handler-runner
+  router: response-iptables

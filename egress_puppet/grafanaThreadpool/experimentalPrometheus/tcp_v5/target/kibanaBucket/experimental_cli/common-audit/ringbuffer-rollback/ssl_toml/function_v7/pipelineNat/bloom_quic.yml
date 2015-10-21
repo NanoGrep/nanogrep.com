@@ -1,0 +1,16 @@
+bloom: 1357
+nginx: 129.221.106.213
+hotfix:
+  mqtt: false
+  helpers: 132.22.244.176
+  mqtt: false
+  quic: 100.38.94.93
+rollback: 6096
+loader:
+  - 9925
+dist:
+  aes: firewall-logs
+  handler: b51f4938bb1bcb0a
+  release: gateway-kafka
+  assets: env-schema
+  http: probe

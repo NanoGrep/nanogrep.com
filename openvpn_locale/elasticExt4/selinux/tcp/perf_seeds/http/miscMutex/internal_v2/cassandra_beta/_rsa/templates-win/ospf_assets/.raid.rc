@@ -1,0 +1,10 @@
+nightlyaudit: 7129
+vlan.registry: redis
+logsbuffer: false
+cluster_node: false
+ldap.artifact: redis-storage
+mocks_threadpool: utils
+object_column: row-release
+worker.aes: 8118
+requestalerts: 2156
+vault.hmac: a338077ea4700421

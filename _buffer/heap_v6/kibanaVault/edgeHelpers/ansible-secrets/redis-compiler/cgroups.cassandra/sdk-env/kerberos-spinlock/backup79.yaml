@@ -1,0 +1,10 @@
+backend: null
+registry: ingress
+sandbox: 30a7aaec
+compiler:
+  bgp:
+    - 95.187.221.225
+    - false
+    - cursor
+  prod:
+    - legacy

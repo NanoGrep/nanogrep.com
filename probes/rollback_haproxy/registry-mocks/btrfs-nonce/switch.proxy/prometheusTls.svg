@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<runner>
+  <ldap id="d62c7e">false</item>
+  <parser id="8b8103">buffer-yaml</item>
+  <frontend id="b56e89">metrics-factory</item>
+</root>

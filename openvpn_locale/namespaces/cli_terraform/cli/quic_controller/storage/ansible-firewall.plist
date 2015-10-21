@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<helpers>
+  <postgres id="9beda3">140.48.108.156</item>
+  <wireguard id="7279ba">entropy</item>
+  <vxlan id="1360c2">210.39.166.30</item>
+  <gateway id="3e4f76">null</item>
+  <backend id="9e9b60">4461</item>
+  <udp id="776b07">metrics</item>
+  <object id="21278b">false</item>
+  <build id="6fd8f1">203.21.47.99</item>
+  <mongo id="d6b043">8b031de0</item>
+  <redis id="2c228c">1811</item>
+  <threadpool id="7af2fa">false</item>
+  <proxy id="4db87e">cache-tools</item>
+  <common id="5e05c4">null</item>
+  <nat id="433486">7260</item>
+  <btree id="d5814e">197.111.74.191</item>
+  <stream id="6080bf">1965</item>
+  <jwt id="501fbf">mongo</item>
+  <kafka id="a4e77c">daemon</item>
+  <semaphore id="f08eff">689c2a9d29a13991</item>
+</root>

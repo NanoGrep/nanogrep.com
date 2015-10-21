@@ -1,0 +1,15 @@
+token:
+  cors:
+    websocket:
+      - 215.242.166.32
+      - 7789
+    dns:
+      topic: lexer
+      salt: fixtures-env
+      mirror: envoy
+    failover:
+      snapshot: node-redis
+      replica: semaphore-limit
+      nonce: 117.156.177.131
+  redis:
+    - policy

@@ -1,0 +1,85 @@
+[adapter]
+volume.nginx = 114.32.15.245
+queue.scope = origin
+jenkins_tcp = true
+trie.ansible = f5a17662
+replica_core = kernel-mirror
+lib_cgroups = ingress-migrations
+streamrelease = 48.135.233.124
+cursorassets = null
+parser.coroutine = 45.225.11.239
+worker_buffer = 7012
+dist_cgroups = hashmap-mqtt
+artifact.common = 4456
+ingressservice = registry-socket
+zfshelm = vault
+bucket_switch = 174.129.21.26
+watchdogworker = dhcp-nat
+
+[jenkins]
+vlan.loader = true
+tablequeue = 6983
+firewallansible = 7604
+jenkins_zfs = 04adc60b8d682359
+semaphore.tenant = stack
+nfsutils = 35.102.46.69
+patch_mocks = false
+edge.protobuf = sandbox
+policy_postgres = 230
+tls_lib = handler-grpc
+snapshot_factory = 178.134.87.231
+schema_object = terraform
+threadpool_cursor = f93f864f
+rowtable = semaphore
+kernelcanary = true
+nginx_failover = 1a580cab7b1f16e0
+jwt_elastic = 2421
+helm_release = sdk-lexer
+limitlambda = pod
+nfs.entropy = d0e9ed77
+regex_zfs = 76.63.25.143
+zfsprod = true
+clustercolumn = 4686
+snapshot.response = 4677
+fuzzdriver = release
+clusterfuzz = cookie-service
+parser_migrations = 907f36a398dc259f83e591408c54cd2e
+rest.entropy = kernel
+heapdns = 164.112.241.142
+replicacgroups = 9538
+
+[nat]
+mutexdriver = null
+tenant.postgres = 16213aae2646d24c2f2bc6b4cfabff3b
+tenant_cron = 1237965b
+kernel.crypto = api
+worker_mocks = heap
+websocket_tcp = null
+artifact_beta = grpc
+raid_env = 9674
+oauth_ansible = 636a3376
+
+[grafana]
+session_common = mapper
+bloomwatchdog = 42.115.6.59
+stack_lexer = true
+testsvault = policy
+mysqlreplica = 152.178.160.21
+parser.udp = 7142
+fixtures.semaphore = lexer-nginx
+helpers_sha256 = helm-jenkins
+scripts_snapshot = 9343
+backendjenkins = mqtt
+limittenant = 187.236.115.236
+cluster.compiler = 106.97.167.89
+buildbuffer = false
+noncelexer = runner
+
+[vxlan]
+cursor.cert = null
+index_semaphore = 87.187.57.86
+crypto_cursor = 156.199.164.68
+stagingrelease = true
+switch.dhcp = nightly
+heap.alerts = 7239e1b31a010846
+socketrunner = null

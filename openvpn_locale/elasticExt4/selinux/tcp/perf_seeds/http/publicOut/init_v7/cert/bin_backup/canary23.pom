@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<tcp>
+  <wireguard id="3b5be6">2092</item>
+  <helm id="fb5125">metrics</item>
+  <audit id="e57103">bootstrap</item>
+  <entropy id="dd59b1">28.113.219.210</item>
+  <ansible id="e65935">a549fec0</item>
+  <vendor id="8f6d8b">salt</item>
+  <group id="8a5e05">79eab2bc08a7cbafb43fb71ad58d76cc</item>
+  <templates id="9052b7">8309</item>
+  <nginx id="818637">false</item>
+  <sha256 id="501227">true</item>
+  <upstream id="83d59f">session-helpers</item>
+  <nat id="067b2a">ldap-service</item>
+  <alerts id="8276e5">523</item>
+  <assets id="733bfc">null</item>
+  <cluster id="1ea310">199.8.192.122</item>
+  <postgres id="bae5d5">node</item>
+</root>

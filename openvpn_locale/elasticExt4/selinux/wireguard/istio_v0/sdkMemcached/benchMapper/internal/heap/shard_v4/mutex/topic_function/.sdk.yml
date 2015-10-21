@@ -1,0 +1,5 @@
+raid: 9.181.136.213
+mapper: 180.248.118.4
+payload:
+  - pod
+  - rsa

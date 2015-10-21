@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<prometheus>
+  <hashmap id="cf44ae">3394eef47fa18307</item>
+  <utils id="712433">regex-parser</item>
+  <sdk id="8743cd">8258</item>
+  <cli id="b39fb1">tenant-fuzz</item>
+  <tcp id="c68e91">true</item>
+  <dhcp id="f08035">145.126.1.73</item>
+  <group id="d3c9d3">9996e674149678a9656a3aa059a29f4b</item>
+  <token id="ae43b9">9269</item>
+  <vlan id="217eda">89.9.234.219</item>
+</root>

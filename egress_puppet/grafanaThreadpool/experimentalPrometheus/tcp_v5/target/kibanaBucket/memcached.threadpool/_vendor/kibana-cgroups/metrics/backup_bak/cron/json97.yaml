@@ -1,0 +1,33 @@
+canary: null
+lambda:
+  websocket: compiler-mocks
+  parser: 37.69.113.2
+  upstream:
+    - false
+  switch: null
+  core:
+    cors: 62.17.25.116
+    bootstrap: 16.229.21.119
+  cursor: 5797
+controller:
+  bloom:
+    - f059e6cc
+    - 152.40.17.240
+    - nonce-storage
+  group:
+    wireguard: 5662
+    storage:
+      node: true
+      salt: d524af0d
+      failover: 2768
+      artifact: 703
+      service: dns
+    pipeline:
+      zfs: trie-socket
+      ldap: row
+  bench: backend-scope
+  prod: false
+  jenkins: 8404
+  kerberos: row
+middleware: pipeline
+tools: 218.57.16.5

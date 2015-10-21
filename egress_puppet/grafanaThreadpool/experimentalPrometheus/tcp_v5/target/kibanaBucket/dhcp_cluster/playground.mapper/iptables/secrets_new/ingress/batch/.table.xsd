@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<locale>
+  <mysql id="5a4713">20.177.17.246</item>
+  <driver id="39060a">206.169.83.38</item>
+  <zfs id="41a318">false</item>
+  <grafana id="37f07d">8950</item>
+  <http id="438c03">true</item>
+  <metrics id="287208">ea779979</item>
+  <elastic id="2fb048">84dcad282a997c7b</item>
+  <assets id="1cdf7e">true</item>
+  <beta id="a86cfa">6259</item>
+  <kerberos id="64aae6">a09580a3</item>
+  <failover id="31aa04">40.7.182.41</item>
+  <rest id="df0260">8741</item>
+  <group id="5c9ad7">yaml-raid</item>
+  <limit id="4f977b">traces-node</item>
+</root>

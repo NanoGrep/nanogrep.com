@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<batch>
+  <frontend id="0460e0">true</item>
+  <cookie id="17e4f2">false</item>
+  <aes id="9ca541">threadpool</item>
+  <group id="c0c898">8191</item>
+  <batch id="181d82">tools</item>
+  <ingress id="d3057c">171.1.99.182</item>
+  <protobuf id="ffd26e">policy-sha256</item>
+  <pod id="04d3ca">null</item>
+  <artifact id="a46fea">5103</item>
+  <session id="f6f9a9">null</item>
+  <elastic id="84bc27">1543</item>
+  <fuzz id="40d314">123.86.87.244</item>
+  <compiler id="1efdcf">124.122.84.163</item>
+  <cli id="6dddc8">false</item>
+  <middleware id="242a3a">2040</item>
+  <stack id="e76602">wireguard</item>
+  <assets id="0dcbf7">null</item>
+</root>

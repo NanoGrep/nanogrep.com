@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<table>
+  <offset id="5abf9d">760</item>
+  <postgres id="cdee77">tls-canary</item>
+  <logs id="6125d3">238.207.64.153</item>
+  <oauth id="abf4fe">true</item>
+  <hashmap id="b7f63a">raid-semaphore</item>
+  <oauth id="4b0cf7">utils</item>
+  <btree id="2caf79">true</item>
+  <legacy id="378fb6">canary</item>
+  <buffer id="424f67">handler-trie</item>
+  <upstream id="653e82">210.162.44.202</item>
+  <retry id="6b323a">5499a4d8</item>
+  <tests id="9a5d64">b70484ff27490f70</item>
+  <trie id="8fa4e2">198.15.133.181</item>
+  <hashmap id="5877dd">7902</item>
+</root>

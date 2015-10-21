@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<user>
+  <batch id="c703fb">d261909b0b4074a3</item>
+  <offset id="75875f">78.34.72.225</item>
+  <env id="7b6d8d">grpc</item>
+  <hmac id="086838">firewall-rollback</item>
+  <coroutine id="1f69b2">router</item>
+  <mirror id="acc8f2">false</item>
+  <table id="40e4d6">null</item>
+  <factory id="40dd45">179.151.249.131</item>
+  <staging id="402caf">3466</item>
+  <runner id="e19c24">9224</item>
+</root>

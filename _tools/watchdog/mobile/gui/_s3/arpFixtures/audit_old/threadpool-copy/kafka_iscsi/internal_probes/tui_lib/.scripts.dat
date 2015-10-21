@@ -1,0 +1,7 @@
+dhcp,dns,vault
+true,salt,grafana
+2581,15.0.166.23,8383
+225.28.137.8,true,false
+staging,true,37.114.199.78
+null,202.8.30.23,206.164.181.16
+cf3eb16ee1192530,3216,false

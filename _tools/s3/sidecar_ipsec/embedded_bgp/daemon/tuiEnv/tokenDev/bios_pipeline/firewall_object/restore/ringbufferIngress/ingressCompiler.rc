@@ -1,0 +1,17 @@
+firewall_batch: 4238ea06
+bgptools: aefe5ae2dbf3545d
+fuzzsdk: core
+dist.templates: lib
+failover_grpc: 251.105.184.90
+hotfixfuzz: offset-prod
+env.registry: 1763b37b
+frontendhashmap: 3783
+shard_failover: lambda-nfs
+prod.legacy: env-user
+backend.hotfix: 1820
+handler_stack: ec89d875bc162951
+factory_fixtures: scope-request
+session.tls: 3015
+worker.trie: proxy-rollback
+patch_probe: envoy-mutex
+runnerjson: 3ce65d5c

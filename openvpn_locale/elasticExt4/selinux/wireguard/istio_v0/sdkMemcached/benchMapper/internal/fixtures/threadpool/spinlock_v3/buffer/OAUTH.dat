@@ -1,0 +1,6 @@
+switch,nginx,cli,topic,fixtures,jwt
+rsa-mocks,cache-hashmap,86.136.224.98,true,true,8999
+5772,worker,4581,migrations-mesh,storage,artifact-dhcp
+171.134.119.225,wireguard-assets,null,097a0f19,105.23.215.58,true
+54.107.223.138,4498,artifact-core,124.251.69.156,daemon-build,storage-firmware
+131.190.196.104,16c5e60199636c4377da60b671175ddf,oauth,9517,true,true

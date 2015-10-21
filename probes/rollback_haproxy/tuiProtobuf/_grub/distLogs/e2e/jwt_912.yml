@@ -1,0 +1,36 @@
+topic: false
+sha256: 3639
+vault:
+  utils: false
+  oauth:
+    - 249.168.118.4
+    - 225.218.180.233
+    - 5414
+  postgres: 1c9a83e6
+  tcp: metrics-factory
+  btree:
+    mqtt: 242.45.197.153
+    nginx:
+      mqtt: 248.41.146.11
+      worker: 2d079b16dc2111017f279e4e8951494b
+      sandbox: nat-rest
+      zfs: null
+      grpc: c970ff89
+      bootstrap: null
+    backup: 96.8.79.196
+    entropy: 89.28.19.213
+    cli:
+      heap: 286d7de3ef7b8deba19b994b4d94f3cb
+      queue: 549
+      proxy: 5013
+      firmware: 0d9b42a0
+      aes: 942d2cea
+    kerberos:
+      ceph: 2195
+      mqtt: protobuf
+  stack:
+    quic: 154.50.128.83
+    redis: ed7897dd500324a04fb2f67de7d74ac2
+mqtt: cli
+build: 426225965cd724b6
+gateway: null

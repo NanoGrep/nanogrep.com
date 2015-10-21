@@ -1,0 +1,26 @@
+wireguard:
+  release: locale-mutex
+  request:
+    offset: 81c4ed4f22ff90eb
+    elastic:
+      adapter: 327
+      driver: 3f4dbfc0
+    threadpool: 1932
+    systemd:
+      udp: 3452
+      envoy:
+        - 41945ceb
+        - stack-firewall
+        - 5809
+    wireguard: 9253
+  migrations: false
+  staging: protobuf-threadpool
+  prod:
+    node: vxlan
+    column:
+      - 4352
+      - false
+      - true
+      - 2836
+    origin: 7518
+  vault: cors-aes

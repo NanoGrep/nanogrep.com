@@ -1,0 +1,29 @@
+[udp]
+cluster.sandbox = lexer
+threadpool_fixtures = false
+vxlan.terraform = limit-pipeline
+
+[cgroups]
+tcpdist = false
+pipeline.adapter = coroutine-index
+driver.upstream = 5b1d5e8e9c493c965a5172f53dcb02cd
+adapter.udp = 109.218.169.149
+threadpoolrelease = 156.54.25.165
+prometheus.hashmap = true
+common_session = scripts-gateway
+semaphoreoauth = null
+protobuftests = dhcp
+helm_tls = proxy
+patch_backup = true
+logs_bgp = 9847
+scriptsfailover = 197.245.253.122
+cgroups.heap = null
+logselastic = 147.112.179.204
+role_failover = null
+cryptooffset = 84dae5e6
+bgptoken = proxy
+retrywireguard = false
+trievlan = 238.129.129.127
+hmac_http = kerberos-adapter
+lexerpipeline = null
+entropy.probe = 1822

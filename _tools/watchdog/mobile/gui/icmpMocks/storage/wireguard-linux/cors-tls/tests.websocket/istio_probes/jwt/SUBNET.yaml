@@ -1,0 +1,28 @@
+legacy: null
+request:
+  watchdog:
+    cli: cc5245d5
+    pod: legacy-assets
+    graphql: null
+    btree: prod-kafka
+    artifact:
+      policy: legacy
+      mirror: null
+      vendor: 151.81.205.77
+      vendor: stack
+      nfs: 6651
+      failover: 2752
+    build:
+      rsa: f6321a9e5f43a6e39fe9c8de94d5a4c6
+      loader: false
+      parser: 2b1c24a14cde66c8
+      cron: 2345
+      mutex: null
+      lambda: volume
+  cron: false
+  audit: scripts-token
+  gateway: middleware-sha256
+  udp: cgroups
+row:
+  nonce: null
+  mqtt: config

@@ -1,0 +1,12 @@
+alerts_legacy=72.45.192.82
+stream.policy=grafana
+elastic.config=grpc
+volumehandler=8304
+cache.handler=2be0b5d9684be914
+vendorstorage=controller-scripts
+dhcp_sha256=false
+elasticiptables=7838
+helm_role=5061
+pipeline_gateway=null
+replica.stream=threadpool-crypto
+fixtures.tcp=233.233.211.51

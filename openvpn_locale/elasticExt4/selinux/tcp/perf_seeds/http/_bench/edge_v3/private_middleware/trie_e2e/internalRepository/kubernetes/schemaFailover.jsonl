@@ -1,0 +1,29 @@
+{
+  "hashmap": [
+    "mongo",
+    {
+      "batch": {
+        "cgroups": null,
+        "build": true,
+        "terraform": null
+      },
+      "fuzz": {
+        "oauth": true
+      },
+      "entropy": [
+        "firewall",
+        4669,
+        7307,
+        null
+      ],
+      "topic": {
+        "scripts": null
+      }
+    }
+  ],
+  "heap": [
+    [
+      "handler"
+    ]
+  ]
+}

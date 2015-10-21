@@ -1,0 +1,17 @@
+proxy: 294
+sandbox:
+  controller:
+    redis:
+      - 5407
+    sha256: 110.245.237.21
+  legacy: 9158
+  locale: 6309
+  watchdog: cors-mesh
+  backup: cert-response
+  jenkins:
+    http: 42.38.216.26
+    mocks: b00b4eba05fd5a09
+    tcp: 0023d9ab8aade1f1
+    btree: raid-nonce
+    aes: prometheus-release
+nginx: 8966

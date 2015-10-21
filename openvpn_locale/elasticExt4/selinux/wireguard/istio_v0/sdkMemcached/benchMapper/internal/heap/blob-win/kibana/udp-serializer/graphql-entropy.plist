@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<mirror>
+  <buffer id="894430">index</item>
+  <snapshot id="7123e9">helm-handler</item>
+  <parser id="a2fe76">37.16.52.42</item>
+  <limit id="632736">174.7.71.150</item>
+  <compiler id="8b4c25">true</item>
+  <cgroups id="87e9a5">8345</item>
+  <prometheus id="80b198">3442</item>
+  <release id="9929b1">false</item>
+  <vlan id="90c091">runner</item>
+  <rest id="b11ecd">08a81e4c</item>
+  <user id="70f64d">role</item>
+  <mutex id="ce5bbd">false</item>
+  <threadpool id="f87438">wireguard-postgres</item>
+</root>

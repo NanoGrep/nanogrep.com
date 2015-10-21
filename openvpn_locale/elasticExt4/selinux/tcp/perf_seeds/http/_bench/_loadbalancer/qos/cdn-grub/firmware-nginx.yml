@@ -1,0 +1,50 @@
+mutex: 5aa9bc8a
+proxy:
+  session: 7d5b58ffe928b05f
+  sandbox:
+    backend: 9668
+    controller: 180.7.158.118
+  registry:
+    alerts:
+      cert:
+        - 5438
+        - 3907
+        - true
+      batch: nat
+      payload: c84f8bfb
+      kafka: buffer
+      cache: 123.178.125.178
+    quic: 181.25.240.109
+    handler: worker
+    bucket:
+      pipeline: 9923
+      watchdog: 1f8064a7f98ba7f78776797ac5182f2f
+      aes: mapper
+      bucket: null
+      service: 166.180.45.92
+    bloom: false
+  helm: 9f72ac3703a6fbf7a8325facc2fde24c
+  schema: aebc91c9
+  mocks:
+    systemd:
+      bloom: 9399
+      fixtures:
+        - 0
+        - 146.205.30.35
+        - 67.237.0.134
+        - hashmap-lib
+      storage: 32c0ad1d
+      volume: core
+      sandbox: fuzz
+    kerberos: kerberos
+    mysql:
+      artifact: ad7340008b6d47466ed7162cc4d2f3f5
+    dns:
+      - 149.139.136.96
+      - 6350
+      - e0833c8eca626fc7
+      - legacy
+    templates:
+      controller: quic-jenkins
+envoy: f8cf0f4e
+kerberos: 3715

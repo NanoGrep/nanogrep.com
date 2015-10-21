@@ -1,0 +1,25 @@
+fixtures:
+  prod: 160.93.48.125
+  hotfix: 7590
+  index: 2414
+scheduler:
+  probe: row-helm
+  ceph: defab20c
+envoy:
+  cert: 8790
+  mqtt:
+    row: null
+    backend:
+      subnet: stack
+    origin:
+      config:
+        - 8648
+      mesh:
+        - metrics
+      adapter: false
+      entropy: 692636adc333b17b56f7bd15bfb41a2e
+    cron: true
+    buffer: null
+  traces: udp-prometheus
+nonce: true
+handler: mqtt

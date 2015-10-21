@@ -1,0 +1,42 @@
+{
+  "http": "request",
+  "compiler": [
+    {
+      "fuzz": [],
+      "replica": null,
+      "loader": null
+    },
+    {
+      "yaml": false,
+      "fuzz": [
+        "89dad4b8da75"
+      ],
+      "shard": "107f42572af4",
+      "nat": {
+        "volume": null,
+        "vendor": 8724,
+        "beta": false
+      },
+      "proxy": null,
+      "bench": "ebac9a9b74e2"
+    }
+  ],
+  "trie": "64b8c0677463",
+  "registry": {
+    "queue": {
+      "buffer": [
+        3269
+      ]
+    },
+    "group": {
+      "cache": [
+        false,
+        "table",
+        9670
+      ],
+      "upstream": true,
+      "salt": "redis",
+      "nfs": "prod"
+    }
+  }
+}

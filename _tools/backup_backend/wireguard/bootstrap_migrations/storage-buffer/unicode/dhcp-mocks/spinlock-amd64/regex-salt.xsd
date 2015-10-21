@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<scheduler>
+  <cert id="9dd832">4545</item>
+  <role id="64e5a0">713</item>
+  <gateway id="ce07ae">208.1.38.247</item>
+  <mqtt id="425da5">logs</item>
+  <edge id="5de8e2">release</item>
+  <worker id="73ce97">6243</item>
+  <dist id="89c53c">runner-origin</item>
+  <hashmap id="2cd396">null</item>
+  <beta id="27be83">87.146.86.12</item>
+  <kafka id="18b9ac">sha256</item>
+  <utils id="70722f">5d16f39e7a6d1f5240b8237d19b02a81</item>
+  <cron id="786e44">214.9.48.78</item>
+  <daemon id="65c348">null</item>
+  <grpc id="b0bdd2">220.234.119.16</item>
+  <request id="c5c414">locale</item>
+  <cert id="f1f9ae">463</item>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<cluster>
+  <mapper id="137edd">postgres</item>
+  <sdk id="dc3214">2678</item>
+  <api id="2d682e">false</item>
+  <daemon id="81f23c">true</item>
+  <retry id="069ea1">1489</item>
+  <node id="76e933">true</item>
+  <token id="1509ea">false</item>
+  <terraform id="f64620">false</item>
+  <quic id="6f93fa">58.44.197.225</item>
+  <loader id="791be8">legacy</item>
+  <backend id="0bee7e">assets</item>
+  <cookie id="7c6b38">true</item>
+  <scope id="d69fa5">153.0.233.208</item>
+  <http id="9c6a2d">mutex-session</item>
+  <ingress id="69bbb2">false</item>
+  <bloom id="fa644e">e51422d5</item>
+  <semaphore id="b91027">212.250.110.111</item>
+  <crypto id="b48364">4127</item>
+  <role id="7ae168">role-release</item>
+  <subnet id="a7182e">6980</item>
+  <worker id="52f712">39ed7fc3</item>
+  <policy id="9abd71">2ce032c326005434</item>
+  <helpers id="f97bf9">false</item>
+  <nonce id="5d6910">7595</item>
+</root>

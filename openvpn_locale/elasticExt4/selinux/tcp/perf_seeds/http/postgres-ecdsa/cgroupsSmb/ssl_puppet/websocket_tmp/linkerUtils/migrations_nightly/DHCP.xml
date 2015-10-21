@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<offset>
+  <storage id="8dab20">false</item>
+  <legacy id="239698">64.116.4.99</item>
+  <vendor id="147e1c">197.47.64.168</item>
+  <adapter id="567ce2">59.206.229.207</item>
+  <tenant id="409ab9">9966</item>
+  <kernel id="a5e645">true</item>
+  <alerts id="d40928">9f9edee4</item>
+  <crypto id="39d774">38.18.24.31</item>
+  <firmware id="abbaef">lexer</item>
+  <queue id="1a21eb">cors</item>
+  <firmware id="cb4bdc">3203</item>
+  <core id="c8a36a">18</item>
+</root>

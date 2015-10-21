@@ -1,0 +1,109 @@
+{
+    "cli": {
+        "build": [
+            false,
+            null,
+            {
+                "audit": null,
+                "envoy": "26a48363b497",
+                "dist": "parser"
+            }
+        ],
+        "replica": [],
+        "mongo": null,
+        "service": [
+            {
+                "metrics": true,
+                "release": null,
+                "column": "5a36bc879345",
+                "backend": 2205
+            },
+            {
+                "loader": null,
+                "rsa": "9943c0e6a8a3",
+                "proxy": "eb40b951ae11",
+                "buffer": false
+            },
+            [
+                true,
+                1494,
+                931
+            ]
+        ],
+        "mysql": [
+            false,
+            {
+                "stack": false,
+                "zfs": 6647,
+                "topic": 4241,
+                "role": "cdfcddafc5d7",
+                "kernel": "handler"
+            },
+            true,
+            false
+        ]
+    },
+    "lexer": {
+        "tls": null,
+        "nfs": {
+            "regex": {
+                "hashmap": "logs",
+                "btree": "fe297045cc60",
+                "frontend": null,
+                "offset": "d136e413d3dc",
+                "cookie": true
+            },
+            "staging": {
+                "nginx": true,
+                "config": false,
+                "middleware": 6281,
+                "traces": null,
+                "cursor": false
+            }
+        },
+        "api": true,
+        "cert": {
+            "mongo": [
+                "3342b652f762"
+            ],
+            "yaml": [
+                null
+            ]
+        }
+    },
+    "zfs": "failover",
+    "service": {
+        "threadpool": {
+            "driver": [
+                true
+            ],
+            "mesh": {
+                "assets": true,
+                "watchdog": null
+            }
+        },
+        "migrations": true
+    },
+    "pipeline": {
+        "cert": [
+            "prod",
+            "envoy",
+            {
+                "firmware": 4433,
+                "cron": "ddf5bc678614",
+                "runner": "ff201ed122a9",
+                "metrics": "ae7dc334639b"
+            },
+            {
+                "postgres": null,
+                "nginx": "bgp",
+                "node": false,
+                "loader": "6dc6c50595e2"
+            }
+        ],
+        "snapshot": {
+            "table": "e0ac382c246f",
+            "upstream": "bgp"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+mesh,group,token,failover,buffer
+7218,2147,session-retry,fixtures-utils,c5adec45
+audit,180.112.152.175,7466,b064757f,false
+true,06a76532,7075,null,null
+48.3.28.46,assets,systemd-cli,8348,false
+scheduler,false,true,lexer-object,metrics
+c01b50cec2684eeb,5849,true,legacy-replica,172.77.154.14
+4863,242.62.133.194,index,crypto-nginx,2432
+213.163.101.36,441ef483fbb8a24017b21e8cd826f1ad,cert-assets,env,4.190.32.131
+841d7027e11d5ff3971ba571b0411ba4,150.180.52.136,8098,226.197.32.226,2989
+grpc,logs-cluster,b4d0239d,true,nonce
+hashmap,6141,106.22.11.238,217.179.227.66,mqtt
+7370191fe5822a68,router,false,c2d94d7ed0934393,bootstrap-origin
+ddb4c189b6ab4cd4,salt-stream,redis,3457,7193
+true,52e7c6f133509b75,cli-router,true,249d1646de93f5f2
+65be0b90,bedf48b45633f686,161.23.249.67,null,adapter-grafana
+1328,2160,stream-helpers,198.162.157.97,33.98.164.115

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<env>
+  <response id="f47e8c">true</item>
+  <canary id="eca2a3">factory-frontend</item>
+  <api id="5e6042">2259</item>
+  <alerts id="93caa7">iptables-elastic</item>
+  <ansible id="6028b9">traces-core</item>
+  <cgroups id="458c7b">82.237.217.149</item>
+  <worker id="cb9994">6449</item>
+  <node id="fc126d">ef04248ce1ef003d524f3fb1d07bb357</item>
+  <quic id="5a7897">647d702cb61bd4c5ddd151919bcf56ef</item>
+  <worker id="44215c">null</item>
+  <hmac id="3a4895">grpc-frontend</item>
+  <prod id="2cdfb4">235.133.63.92</item>
+  <daemon id="24fb6a">1015</item>
+  <handler id="6c8671">100.18.118.238</item>
+</root>

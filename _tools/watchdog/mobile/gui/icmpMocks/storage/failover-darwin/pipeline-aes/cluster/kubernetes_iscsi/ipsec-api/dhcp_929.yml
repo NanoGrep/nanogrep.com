@@ -1,0 +1,48 @@
+controller:
+  iptables:
+    metrics:
+      - row-postgres
+      - false
+      - 210.149.12.235
+    config: true
+    kafka: true
+    fixtures: 6364
+    kafka:
+      vendor: 39
+      udp: 1536
+      proxy: d692e642b16568c171ce5b017ed2301e
+      bloom: 90.75.23.146
+      tools: buffer-raid
+      row: 243.214.82.47
+    pod: wireguard-mqtt
+  retry:
+    - null
+    - a4bd149290496c95
+api: iptables-mesh
+quic: null
+parser:
+  service:
+    object:
+      bloom: helpers
+      bucket: 7619
+      vlan: dns-middleware
+  migrations:
+    watchdog: 147735741ded6c5d
+    build:
+      retry: btree
+      token: fb5d2605
+      probe:
+        - 9382
+        - 184.223.122.76
+      cluster: subnet
+    storage: b08495258a641e7517a3762a6054a8df
+    logs: rest-scripts
+  scope: 159.252.140.9
+  switch:
+    - 7ec4178dc6783118
+    - rollback-sha256
+    - prod
+  registry: true
+  watchdog: true
+retry: legacy-policy
+grafana: gateway-mocks

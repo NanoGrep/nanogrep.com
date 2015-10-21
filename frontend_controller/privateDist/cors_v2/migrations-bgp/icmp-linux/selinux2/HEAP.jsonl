@@ -1,0 +1,8 @@
+{
+    "storage": {
+        "templates": {
+            "watchdog": true
+        },
+        "shard": 5257
+    }
+}

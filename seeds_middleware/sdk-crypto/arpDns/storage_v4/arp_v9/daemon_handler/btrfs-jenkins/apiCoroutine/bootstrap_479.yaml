@@ -1,0 +1,51 @@
+yaml:
+  envoy:
+    - 53f124f2a4927211
+    - b3a7497dad6e6112
+    - 128.160.68.133
+    - null
+  replica:
+    - 53.99.172.22
+    - 186.25.166.128
+  assets:
+    cron:
+      http: 178.231.177.79
+      mirror: 3315
+      env: 192.161.38.116
+      build: 4783
+    replica:
+      vxlan:
+        - 230.217.51.115
+      legacy:
+        - 9083
+        - 4093
+      cron: schema-yaml
+    jwt: 6606
+    raid:
+      vlan: 23535ce7
+      entropy: 2803
+      index: assets
+  core:
+    cursor: 06087366ddfb217c869273cc8663bb44
+    cursor: ingress
+tls:
+  - 1798
+vault:
+  user:
+    jwt: 52.169.224.104
+    scripts: true
+    queue: null
+    artifact:
+      - d33fce4c9818d59f
+      - 794f3bb7
+      - zfs-switch
+      - metrics-kafka
+    api:
+      - 1997
+      - 123.205.87.176
+  backup: release
+  helpers:
+    handler: cgroups-hashmap
+grpc:
+  api: 7338
+  rollback: 5179

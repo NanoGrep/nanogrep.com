@@ -1,0 +1,17 @@
+replica:
+  dist: 7f378e0e7dd1e9e2
+  quic:
+    traces: coroutine
+    audit: 189.13.22.89
+    stream: 3317f602
+    snapshot:
+      hmac: 7849
+      templates: 7236
+      frontend: 64f56909
+      udp: 233.38.233.50
+      grafana: 308712c24c0435400349f74a3c413f0f
+  role: watchdog
+  env:
+    cgroups: snapshot
+    tcp: false
+tools: wireguard-locale

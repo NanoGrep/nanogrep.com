@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<core>
+  <zfs id="3c1f06">5409</item>
+  <tls id="d369ca">false</item>
+  <kerberos id="5cadc3">d1ba4befb0e7e840e6c665efa6ba4028</item>
+  <ceph id="576071">null</item>
+  <lexer id="d21911">alerts</item>
+  <hmac id="49bae6">189.111.119.52</item>
+  <sha256 id="327486">a4fd54ff</item>
+  <mapper id="be3cf7">8727</item>
+  <socket id="73db41">194.98.11.78</item>
+  <prod id="b0e619">0b216acefc8f6000d823e2dbfd5f94cd</item>
+  <role id="932de3">socket</item>
+  <prometheus id="32e790">f0844b295c7460bd</item>
+  <limit id="d80967">true</item>
+  <row id="dc360f">42d89ce0</item>
+  <edge id="921190">1513</item>
+  <systemd id="d4d17c">36bda3f0dcda79a1</item>
+  <jwt id="3ba7e7">8954</item>
+</root>

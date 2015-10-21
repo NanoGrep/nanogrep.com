@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<scheduler>
+  <terraform id="cdcd71">true</item>
+  <role id="d9d977">9.105.202.167</item>
+  <frontend id="636806">true</item>
+  <socket id="eca4bd">group</item>
+  <mapper id="d41a45">cluster</item>
+  <topic id="0bb964">56.138.74.176</item>
+  <lambda id="9cb68e">legacy</item>
+  <mesh id="4182bc">189.98.72.220</item>
+  <upstream id="fe1e1f">oauth</item>
+  <bgp id="7d0243">4506</item>
+  <postgres id="518217">runner-protobuf</item>
+  <jwt id="89c80c">50f25a1c</item>
+  <patch id="7c290b">mqtt</item>
+  <terraform id="c4a860">null</item>
+</root>

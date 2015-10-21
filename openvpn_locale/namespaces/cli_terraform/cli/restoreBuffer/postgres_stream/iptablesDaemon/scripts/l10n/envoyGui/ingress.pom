@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<nonce>
+  <ceph id="c90373">6382</item>
+  <btree id="32c4cb">3450</item>
+  <yaml id="72b1b1">cert-vlan</item>
+  <helm id="d495ea">false</item>
+  <oauth id="874607">ceph-offset</item>
+  <backup id="51e3e0">true</item>
+  <salt id="0172ea">192.177.27.170</item>
+  <json id="ca5c6f">ecf10b18a6bec5e8</item>
+  <nat id="92313d">73.53.169.138</item>
+  <column id="ebac9b">mesh-gateway</item>
+  <websocket id="edf5a0">218.32.19.173</item>
+  <group id="70dfe6">45.202.135.154</item>
+  <helpers id="ec9b93">bootstrap</item>
+  <snapshot id="a5cab6">true</item>
+  <cache id="7ae1c2">120.5.177.165</item>
+  <queue id="669238">683cd9e1</item>
+</root>

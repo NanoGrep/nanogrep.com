@@ -1,0 +1,20 @@
+{
+  "cli": {
+    "service": {
+      "btree": "bgp",
+      "kernel": "9a8e5d93e2b6",
+      "compiler": [],
+      "coroutine": false,
+      "switch": {
+        "prometheus": "848706df5cb0",
+        "lambda": null
+      },
+      "cron": [
+        "gateway",
+        2810,
+        "6f5a76e2cbc5",
+        false
+      ]
+    }
+  }
+}

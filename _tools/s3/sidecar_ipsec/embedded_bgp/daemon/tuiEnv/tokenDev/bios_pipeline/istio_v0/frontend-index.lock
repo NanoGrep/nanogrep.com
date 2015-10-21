@@ -1,0 +1,1 @@
+{"oauth": [true, ["assets", {"topic": null, "node": false}, {"nfs": true, "traces": null, "elastic": "btree"}], {"zfs": null, "threadpool": {"schema": null}}]}

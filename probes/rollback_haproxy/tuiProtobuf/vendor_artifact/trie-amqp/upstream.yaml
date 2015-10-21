@@ -1,0 +1,9 @@
+jenkins: lambda
+lambda: 9017
+mutex: 18.17.195.229
+lambda: false
+frontend:
+  helm: null
+  assets: 8d5d91573645321f
+  quic: 8752
+  proxy: rest

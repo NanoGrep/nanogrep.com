@@ -1,0 +1,8 @@
+cron,mesh,artifact,rollback,shard,raid
+true,socket-router,threadpool,lib-wireguard,dea79f9c,regex
+true,dist-wireguard,227.7.16.71,tenant,request,174.168.46.54
+016aa8252c32001a,column-mirror,true,null,factory,95.229.104.17
+8390,6839,1530,48.40.149.107,false,7492
+0bfb721c61994510,139.172.15.73,beta-bgp,vlan-legacy,5613,a9636c99f8777936fe806356dbcb66b7
+true,116.228.70.42,9826,66ff4ae21321eb06a222dde4f83043b8,false,3f5b7ff95b10b7ebc2ba9cc4af0d31e0
+true,25.130.163.15,bc6a6d01beb204eba68066e5278045e3,1615,9901,helm

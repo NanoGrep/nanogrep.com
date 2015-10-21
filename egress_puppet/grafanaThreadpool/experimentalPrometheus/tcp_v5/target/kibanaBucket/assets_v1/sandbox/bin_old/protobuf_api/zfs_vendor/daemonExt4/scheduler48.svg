@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<kerberos>
+  <heap id="362b02">947</item>
+  <beta id="8c1a43">5342ea52</item>
+  <session id="f32d3c">f1afccf1a131d87bd6076a344161c824</item>
+  <scripts id="df5ef9">140.70.134.183</item>
+  <upstream id="91817a">null</item>
+  <prod id="78c4ab">true</item>
+  <release id="62d666">dist</item>
+  <jenkins id="2ac034">499</item>
+  <traces id="caf77b">upstream</item>
+  <registry id="30ac86">salt</item>
+  <bucket id="461f6f">null</item>
+  <index id="cf3580">3845</item>
+  <sha256 id="2870d3">request-nonce</item>
+  <firewall id="0d0c22">entropy</item>
+  <handler id="825ff1">role</item>
+  <sandbox id="247ff3">true</item>
+  <driver id="313de5">176.202.209.130</item>
+  <hmac id="d5fa79">817aa27de7360e3e50310f69f383d0a7</item>
+</root>

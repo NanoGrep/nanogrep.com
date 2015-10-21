@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<entropy>
+  <migrations id="bf7e1c">true</item>
+  <policy id="0d16e2">mutex</item>
+  <dhcp id="726f3d">vendor</item>
+  <canary id="9dbe3b">socket-bench</item>
+</root>

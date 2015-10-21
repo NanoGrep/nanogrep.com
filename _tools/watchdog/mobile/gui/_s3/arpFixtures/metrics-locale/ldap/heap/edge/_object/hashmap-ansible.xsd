@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<mapper>
+  <pod id="0f3fef">2067181c421c09ce</item>
+  <migrations id="6924bb">2835</item>
+  <cli id="ef992e">false</item>
+  <response id="5a3bf6">181.54.241.56</item>
+  <column id="ede227">true</item>
+  <api id="d99f28">null</item>
+  <batch id="cd45c0">c72a1c46b74761c3</item>
+  <worker id="6e33c4">1674</item>
+  <bucket id="cf2f8f">assets</item>
+  <env id="32aaa1">driver-table</item>
+  <traces id="b0b4b7">null</item>
+  <common id="1d5c95">null</item>
+  <backup id="0dc7dd">6221</item>
+</root>

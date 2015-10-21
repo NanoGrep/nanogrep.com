@@ -1,0 +1,27 @@
+utils:
+  tenant:
+    - 243.247.204.152
+    - cf4db70c6b35131c9b738d1fdb917a27
+    - 2671
+    - d7be5a4e26100cecba52a99f3ad6c511
+  gateway:
+    mqtt:
+      nfs: traces
+      raid: e474381c9d580fc2
+      udp: jwt
+      cluster:
+        - 7474
+        - 96bced10
+        - null
+      replica:
+        - daemon
+      locale: a1140449d1dd8dab
+    hashmap: 214.120.236.7
+    beta: alerts-api
+runner: 81.98.245.174
+grafana:
+  - 19a41afd
+  - 77.81.194.196
+api:
+  role: d4e9f148a998d458c6f2415ea67a62dd
+cgroups: false

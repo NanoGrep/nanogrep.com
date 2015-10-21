@@ -1,0 +1,13 @@
+prod: origin-lib
+btree:
+  cors: scope
+  nightly: false
+storage:
+  upstream: 7681
+  wireguard: coroutine
+  terraform: 8250
+  mongo:
+    - proxy
+    - yaml
+    - true
+    - 4623

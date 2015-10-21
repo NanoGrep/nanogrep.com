@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<stack>
+  <threadpool id="ca5273">terraform-node</item>
+  <dhcp id="1def0f">true</item>
+  <envoy id="198795">runner-cert</item>
+  <snapshot id="8cc959">9953</item>
+  <redis id="4714f0">70.2.119.2</item>
+</root>

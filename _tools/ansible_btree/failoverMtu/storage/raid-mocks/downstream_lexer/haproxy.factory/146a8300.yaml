@@ -1,0 +1,123 @@
+bloom: sandbox-cache
+vendor: failover-probe
+cluster:
+  rsa: aes-jwt
+  edge:
+    runner:
+      worker: schema
+      hotfix: af12325da1776e23
+      assets: middleware-group
+      websocket: config-oauth
+      service: false
+      volume: 135.62.201.151
+    retry: 54cea138
+    firmware: vendor-bootstrap
+    router: 229.28.200.232
+    rollback:
+      upstream: iptables-elastic
+      cache: 231.86.15.94
+      parser: 118.193.40.39
+      mocks: nfs-middleware
+      cache: patch-udp
+    schema:
+      logs: firmware
+      vxlan: 227.251.232.13
+      switch: offset
+      batch: b56cf14ecda9dd1c
+  scheduler:
+    alerts:
+      semaphore:
+        - 76133df7ae93f420
+      index: nonce
+      proxy: ab67c9a87f3ded02
+      regex: 178.215.143.39
+      udp: 3a71d5bb9feb2c74e42d3ab33cf8f1fe
+    session:
+      - true
+      - 019efaa6
+    helpers: 133.142.181.6
+    raid: true
+    tls: 160.174.73.28
+compiler:
+  snapshot:
+    table: 1204
+    volume:
+      - d4495bdf
+      - dhcp-user
+    hmac: wireguard
+    user: wireguard
+    payload: nonce
+  adapter:
+    grpc: null
+    logs:
+      audit: 137.218.83.97
+      hmac: replica-nginx
+      pipeline:
+        - f1160e63093f02952e45fa75e6bbb8a8
+        - 6fb5a1026306c075e590bbe61deca2a6
+        - http-redis
+      router:
+        - b37fde3f41dbbc29
+        - legacy
+        - true
+        - 9936
+    hmac: false
+runner: false
+trie:
+  retry: 3.147.152.229
+  cursor:
+    elastic: null
+    release:
+      websocket: 86.98.61.22
+      zfs: true
+    compiler:
+      mapper: 124.214.206.154
+      yaml:
+        - bloom
+        - 25.173.111.57
+      dist:
+        - jenkins-driver
+        - mirror
+      terraform: yaml-threadpool
+    kerberos:
+      backend: true
+      kernel: templates-controller
+      semaphore: edge
+      migrations: 45.216.228.167
+      rollback: 4974
+    fixtures:
+      udp: 8221
+      node: 148.207.189.34
+    cookie:
+      - lambda
+      - null
+      - 1652
+  user: bbf9c6ef12ef12fe
+  proxy:
+    vendor:
+      threadpool:
+        - driver
+        - d518cd3b
+      mysql:
+        - 210.145.189.239
+        - false
+        - true
+        - true
+      aes: loader
+      yaml: true
+    rsa:
+      vlan: alerts-sandbox
+    vault:
+      grpc:
+        - 0ad949658e6311a0
+        - 93.190.241.93
+      shard: 9257
+      postgres: 8454
+      scheduler: 38d52429a0ab771897bc45f6dfb3bbdb
+    grafana:
+      zfs: 24.16.203.44
+    nat: templates
+    config: false
+  dhcp:
+    - switch-hmac
+    - 179.159.231.128

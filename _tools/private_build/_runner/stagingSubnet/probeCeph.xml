@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<socket>
+  <audit id="426ff2">75.145.130.224</item>
+  <token id="6d70fa">169.176.243.230</item>
+  <role id="9e0632">mysql</item>
+  <nightly id="039248">upstream</item>
+  <cookie id="748b4e">357</item>
+  <fixtures id="7accf1">210.168.168.7</item>
+  <probe id="d91297">switch-pipeline</item>
+  <semaphore id="84f6cd">mesh-btree</item>
+  <mapper id="608b43">4435</item>
+  <cors id="c020ec">83e792f10dfeaab258cc50a1296a5eac</item>
+  <adapter id="c6d19f">metrics</item>
+  <stream id="29a14e">hmac-snapshot</item>
+  <storage id="a37bfd">c6ad16b2828960fe</item>
+  <hashmap id="0f4d3d">zfs</item>
+  <mesh id="4452e9">fuzz</item>
+  <policy id="9ff07b">27e36f49f4d48d91</item>
+  <patch id="44f07f">iptables-cron</item>
+</root>

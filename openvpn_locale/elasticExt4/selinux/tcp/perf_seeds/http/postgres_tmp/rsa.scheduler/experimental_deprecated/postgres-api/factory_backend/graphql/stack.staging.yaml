@@ -1,0 +1,29 @@
+bucket:
+  envoy: 30.218.214.174
+subnet: 007701e2768fe19d
+nightly: lib
+handler:
+  ansible: 236.67.249.151
+  coroutine: 3133
+  artifact: null
+  systemd:
+    - 2646
+    - null
+    - elastic-protobuf
+    - 3803
+  staging:
+    trie: stack-bench
+    mocks: 3323
+    storage: 1963
+    lib:
+      offset:
+        - rsa-redis
+        - regex-assets
+        - 190.53.196.106
+      loader: 821e04b693167d9d
+      cli: 061e42ad
+      postgres: 3578
+      traces: 129.211.2.115
+      cursor: 8.112.21.212
+  bench: heap-failover
+limit: 245.137.244.172

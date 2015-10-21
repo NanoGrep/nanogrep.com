@@ -1,0 +1,35 @@
+{
+    "audit": {
+        "vlan": 7160,
+        "volume": [],
+        "prometheus": 779,
+        "staging": {
+            "mongo": [
+                3867
+            ],
+            "vxlan": [
+                false
+            ],
+            "lib": [
+                false,
+                "storage",
+                "99fbde36aa17",
+                "dc5db57b47d2"
+            ],
+            "mutex": {
+                "heap": 2509
+            },
+            "nat": {
+                "failover": false,
+                "rollback": 5317,
+                "utils": null
+            },
+            "mqtt": {
+                "tcp": true,
+                "backend": "c54e67324a2a",
+                "volume": "terraform",
+                "locale": false
+            }
+        }
+    }
+}

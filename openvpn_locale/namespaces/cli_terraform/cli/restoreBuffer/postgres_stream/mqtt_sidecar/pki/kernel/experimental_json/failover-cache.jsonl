@@ -1,0 +1,132 @@
+{
+    "controller": null,
+    "response": [],
+    "bloom": {
+        "mutex": true,
+        "entropy": [
+            63,
+            [
+                "vault",
+                "logs"
+            ],
+            {
+                "kernel": "index",
+                "policy": "cert",
+                "zfs": 7368,
+                "bloom": true,
+                "sandbox": 1817
+            },
+            {
+                "nightly": true,
+                "topic": 2577,
+                "prod": null,
+                "oauth": true
+            }
+        ],
+        "watchdog": false,
+        "worker": {
+            "cursor": "eb26d4affbf7"
+        },
+        "helpers": {
+            "migrations": false
+        }
+    },
+    "user": {
+        "token": false,
+        "switch": "a16436a7d727",
+        "volume": {
+            "btree": [
+                "a7a1f6915395",
+                true,
+                null
+            ],
+            "cron": {
+                "wireguard": false
+            },
+            "release": [
+                null,
+                "fe2635c0e5c1",
+                3372
+            ],
+            "utils": [
+                "snapshot"
+            ],
+            "index": {
+                "traces": true,
+                "frontend": true,
+                "vendor": "row",
+                "topic": true,
+                "payload": "83ee8ef1a38e",
+                "ingress": null
+            }
+        },
+        "limit": {
+            "vendor": {
+                "role": 2364,
+                "nat": "crypto",
+                "column": 9268
+            },
+            "utils": {
+                "request": 448,
+                "jwt": true,
+                "ldap": 310,
+                "mysql": false,
+                "quic": null,
+                "zfs": 3200
+            },
+            "mirror": {
+                "switch": "9f8e8762fded",
+                "handler": null,
+                "raid": 7036,
+                "alerts": true
+            },
+            "locale": {
+                "bloom": "f2608082e05c",
+                "backup": 7122
+            },
+            "storage": true
+        },
+        "probe": "cursor"
+    },
+    "semaphore": {
+        "column": {
+            "cache": [
+                false,
+                "8970b6743867",
+                "topic",
+                true
+            ]
+        },
+        "node": [
+            "c8ae942a843c"
+        ],
+        "sandbox": null,
+        "raid": [
+            true,
+            8379
+        ],
+        "mqtt": {
+            "probe": {
+                "grafana": null,
+                "dist": "0d38ce405022",
+                "queue": null,
+                "middleware": "54af14ce9a91",
+                "ingress": "d961e1a5862d"
+            },
+            "nginx": {
+                "threadpool": "de824cf2035d",
+                "grafana": true,
+                "compiler": true,
+                "lambda": true
+            },
+            "failover": true,
+            "backend": {
+                "release": "d9234c973019"
+            },
+            "lib": {
+                "scripts": "cache"
+            }
+        }
+    },
+    "policy": true
+}

@@ -1,0 +1,18 @@
+object:
+  locale: cursor
+  envoy:
+    zfs:
+      kafka: 54.167.132.76
+      mutex:
+        - 7110
+      pod: true
+      node: lib-cli
+  audit: 12.153.147.19
+  canary: 08753bf8
+  sdk: 170.181.90.62
+  gateway: 250.38.3.19
+mqtt: 5153
+release:
+  - 3671
+traces: pipeline-factory
+tls: helm

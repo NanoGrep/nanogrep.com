@@ -1,0 +1,33 @@
+handler:
+  json: core-rest
+  origin: 23.122.83.79
+kafka:
+  bootstrap: storage
+  rollback:
+    tls: index-lexer
+    edge:
+      - cursor
+    nat: runner-raid
+    redis: group-bloom
+  ansible: 6444
+  pod:
+    ansible: 2d451ca7539fca9cac1064ca0ae5c01b
+parser:
+  - bebc4d5a
+  - false
+mutex:
+  - sandbox-json
+  - 183512a31a3b3d08274bc58a02d4b4ae
+  - ceph
+hashmap:
+  migrations: 108.240.114.100
+user:
+  tests: dns
+  ldap: 4c16daf5
+  prod: 49e39baf8b0ba210
+  limit: 150f4a8adf32f90effda6d3ed411b216
+  logs: 211bfa1b4651c26a8ba0d3eb4f0937ee
+  cache:
+    pipeline: request-backend
+    row: 1510
+    daemon: user-iptables

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<daemon>
+  <parser id="5710e1">6576</item>
+  <storage id="f6aef2">edge</item>
+  <build id="0ad4c9">1754</item>
+  <watchdog id="eafa9e">patch-cron</item>
+  <json id="591a66">7201</item>
+  <metrics id="16fe49">7307</item>
+  <backend id="24a50e">mutex-ldap</item>
+  <runner id="025353">790</item>
+  <subnet id="98bd99">node-tenant</item>
+  <cookie id="968091">build</item>
+  <bloom id="2b99bf">93.241.192.244</item>
+  <replica id="a92dcd">db156b01a00b9082</item>
+  <worker id="0a7965">loader</item>
+  <object id="127605">64.247.244.124</item>
+  <metrics id="9e6a5d">cert</item>
+  <templates id="046272">420ae58c0a79b16f6999846c01453102</item>
+  <storage id="40a377">metrics-snapshot</item>
+  <websocket id="40e936">232.105.23.247</item>
+  <mesh id="c0eb46">templates-salt</item>
+  <crypto id="8158c7">114.46.58.142</item>
+  <group id="8deb31">65.58.174.123</item>
+</root>

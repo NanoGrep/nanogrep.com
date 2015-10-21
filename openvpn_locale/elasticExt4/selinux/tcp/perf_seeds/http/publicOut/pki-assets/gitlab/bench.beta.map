@@ -1,0 +1,29 @@
+{
+    "scripts": {
+        "sandbox": [],
+        "batch": null,
+        "subnet": false
+    },
+    "env": "nonce",
+    "graphql": {
+        "fixtures": {
+            "ansible": false
+        },
+        "storage": null,
+        "threadpool": null,
+        "parser": {
+            "queue": {
+                "pod": "env",
+                "stack": null,
+                "bootstrap": false
+            },
+            "bucket": {
+                "migrations": 7476,
+                "bootstrap": true,
+                "fuzz": "request",
+                "semaphore": true,
+                "vendor": "a133c5205ffb"
+            }
+        }
+    }
+}

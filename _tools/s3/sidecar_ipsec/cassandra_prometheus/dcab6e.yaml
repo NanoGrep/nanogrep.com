@@ -1,0 +1,26 @@
+volume: cgroups-mqtt
+response: adapter
+udp:
+  backend:
+    parser: 4607
+    templates:
+      cache: ldap
+    wireguard:
+      row:
+        - 5089b831e25b8d7d68cc1b9ff9f1c47e
+        - 7932
+        - 8.22.63.175
+        - 7494b6414475ded5
+    runner:
+      firewall: buffer
+      release: switch-cors
+    helpers: queue-queue
+    driver: 294
+  buffer: coroutine-patch
+  kafka:
+    - hotfix-sdk
+    - terraform
+  sha256: policy-core
+vlan:
+  - false
+envoy: 8627

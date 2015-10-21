@@ -1,0 +1,41 @@
+[cookie]
+limit.edge = null
+bloomgateway = 192.128.174.196
+upstreamvxlan = 1336
+mirrorrow = 4693
+raid.artifact = 178.31.151.19
+nightly_config = 00273bde8db9c415a919c02ace435161
+session_bootstrap = true
+daemonldap = 29.234.67.14
+firmware_tls = mysql-env
+probe_graphql = 4f586a62
+offset_kafka = 2058
+testsdaemon = logs
+stack_iptables = 5336
+httpmiddleware = 160.86.9.243
+rsa_handler = null
+sha256.proxy = 4980
+switch.locale = wireguard
+grafana_bgp = 4595
+cors_storage = lambda-semaphore
+sha256_limit = queue-schema
+daemon_proxy = f5147ee4cb1dd019
+jenkinsqueue = e8b178ff
+
+[jenkins]
+heaphandler = true
+build.retry = false
+scopeingress = 30.57.228.113
+frontendhotfix = null
+coreingress = 1124
+artifact_group = subnet-scheduler
+backend_worker = volume-crypto
+cacheprobe = null
+fixtureshotfix = 170.167.192.231
+graphql_systemd = artifact-kerberos
+patchthreadpool = service
+noncegateway = 8418
+oauthscripts = null
+dns.iptables = staging
+driver_handler = null
+compilerkerberos = subnet-pipeline

@@ -1,0 +1,15 @@
+legacy:
+  topic:
+    snapshot: 13.17.186.171
+    sdk: false
+    mysql: true
+    cert: d6dd0961f2834e409aa08da69ac9dbda
+  gateway: 4f1f7be8
+  vlan: 94173bba27ac4ebfc3d8efce25a2d99e
+batch: compiler
+protobuf:
+  - rollback-driver
+  - mysql-fuzz
+  - 2239b29bc25413ce
+  - b7dc834ad1c875f3
+hashmap: 193.103.92.114

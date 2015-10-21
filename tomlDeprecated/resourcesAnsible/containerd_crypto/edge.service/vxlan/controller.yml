@@ -1,0 +1,43 @@
+tcp:
+  beta: 424
+  redis:
+    hotfix:
+      - prometheus-policy
+      - 141.40.69.48
+      - group-mongo
+    tools: 0a1f6b930b4d8321ba0aa224db45a7ef
+    audit: ec451944be24efccfd3ad00789c5b06e
+  tools:
+    wireguard:
+      - 203.46.110.81
+      - 147.139.233.200
+    policy:
+      artifact: 5687
+      patch: 363ee9f5c708eaf0
+      proxy: rollback
+      raid: 533d7eee105704f2
+      index: true
+    dns: 133.143.240.140
+  grafana:
+    - 30.19.146.208
+    - e8b3491f
+    - 946
+    - sha256
+  lambda:
+    schema:
+      - audit
+      - 9771
+      - 20f65b71b8a8f250
+      - 4699
+    factory:
+      socket: null
+      build:
+        - 199.86.162.62
+        - null
+      switch: 0f0bdbd17057538b
+      json: 2662
+    frontend: null
+    release: mesh
+    cgroups: 5321
+    middleware: 4941
+threadpool: 0b620a52cc02a346c318e615e12b3974

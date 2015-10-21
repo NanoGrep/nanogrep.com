@@ -1,0 +1,14 @@
+tools:
+  controller:
+    socket: 2722
+    mutex: false
+  router: 166.50.175.238
+quic: mongo
+legacy: 4b052eb5eb819bf936e63454dc3b0894
+hashmap: origin-vxlan
+router:
+  - true
+  - 6292
+  - migrations
+  - daemon
+cert: 3994

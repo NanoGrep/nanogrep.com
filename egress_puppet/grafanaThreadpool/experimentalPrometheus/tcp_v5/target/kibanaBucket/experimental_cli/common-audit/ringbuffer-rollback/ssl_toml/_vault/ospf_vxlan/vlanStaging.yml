@@ -1,0 +1,35 @@
+pipeline: true
+raid:
+  factory:
+    lexer: node-quic
+    proxy: tools-artifact
+  sandbox: 9497
+  hashmap:
+    queue:
+      snapshot: c7fd20b4
+      cert: true
+      config: f048d8f5
+      token: grafana
+      gateway: null
+    nginx: switch-lambda
+    legacy: 5674
+    utils: core
+    pipeline: cron
+    rsa: 7316
+  staging:
+    stack: 109.252.235.51
+    ceph: 117d21651facc326b90cd016d46a5839
+    frontend:
+      origin: 200.28.102.10
+      trie: 198.236.18.237
+      templates: null
+      hotfix:
+        - vlan
+        - 113.31.249.136
+        - null
+      jwt: true
+      nightly: false
+  legacy: null
+dist: protobuf-tcp
+templates: 1870
+cgroups: 71.32.13.104

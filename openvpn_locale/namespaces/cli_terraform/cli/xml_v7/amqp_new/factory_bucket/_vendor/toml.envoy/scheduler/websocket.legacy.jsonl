@@ -1,0 +1,31 @@
+[
+    5804,
+    {
+        "failover": {
+            "aes": [
+                null,
+                true
+            ],
+            "dns": false,
+            "row": [],
+            "beta": null
+        },
+        "batch": false,
+        "kernel": {
+            "fixtures": {
+                "vault": true,
+                "driver": 7173,
+                "mapper": "b1da6aa74e1e"
+            }
+        },
+        "mesh": true,
+        "dns": "scripts"
+    },
+    [
+        true,
+        "e8bec2766c63",
+        "71794bdce628",
+        "c2f54632a8ef"
+    ],
+    true
+]

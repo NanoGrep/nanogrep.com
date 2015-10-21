@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<canary>
+  <limit id="b5716f">86</item>
+  <group id="9f143a">false</item>
+  <systemd id="7dcb17">bce8b21e</item>
+  <entropy id="c8171a">nonce-prometheus</item>
+  <hashmap id="d19f6c">service-common</item>
+  <upstream id="9b7e54">e176ab599d14723e</item>
+  <vlan id="1fa5c1">e1e34af8b02b5329</item>
+</root>

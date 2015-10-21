@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<jwt>
+  <registry id="76f2bf">false</item>
+  <bgp id="df3f6a">cache-router</item>
+  <tls id="f43d99">2812fc8a64177d2dfd6948e1f34803e3</item>
+  <elastic id="51a1a1">alerts-heap</item>
+  <patch id="0a17b1">2195459b</item>
+  <bootstrap id="2612dd">239.14.152.31</item>
+  <core id="6b696e">null</item>
+  <config id="3f9843">config-salt</item>
+  <bloom id="f42e39">pod</item>
+  <build id="3bdc28">0239e8b400e42fe6</item>
+  <cli id="80519b">107f8d1dccbbad71</item>
+  <nginx id="08bfe2">9965</item>
+  <payload id="23515f">false</item>
+  <ansible id="2898a4">true</item>
+  <vxlan id="e336ab">true</item>
+</root>

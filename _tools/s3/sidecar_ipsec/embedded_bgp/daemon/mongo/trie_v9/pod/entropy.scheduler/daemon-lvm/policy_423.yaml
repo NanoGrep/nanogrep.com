@@ -1,0 +1,58 @@
+rsa:
+  tests:
+    helm: 157.148.98.145
+    hashmap: column
+  ingress:
+    - nginx
+  daemon: metrics
+  elastic: 2.60.248.182
+  dhcp:
+    patch:
+      - 05084d36
+      - 119.46.207.136
+      - false
+    replica:
+      alerts: storage
+      heap:
+        - true
+      kernel: elastic-cert
+      firewall:
+        - 7173
+    handler:
+      - 252.63.54.101
+      - false
+    tcp:
+      assets:
+        - aes-hotfix
+      jwt:
+        - null
+      factory: null
+      mirror: f06a0a86b0c2543d
+      upstream:
+        - false
+        - 8a373ceb03a3524b
+        - 7625
+      bloom:
+        - 225a068cbf62ecfefb9f2d5fdcac2631
+  scheduler: 64.23.102.228
+postgres: false
+tenant:
+  btree: 1965
+  response: 744
+  backup:
+    lib: 1605
+    threadpool:
+      column: 1991
+      shard: 2640d9b71aad2da6
+      mqtt: registry-buffer
+    schema:
+      - session-sdk
+      - 697
+      - null
+      - 4593
+    cors: vxlan
+    semaphore:
+      bench:
+        - 123.251.228.211
+        - cert
+api: 8759

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<jenkins>
+  <cgroups id="243367">b9c34ae72e513a2e</item>
+  <shard id="eebb6f">235.145.247.210</item>
+  <vxlan id="78f6c9">null</item>
+  <helm id="9340dc">release-bgp</item>
+  <nginx id="172611">826fb34636947292f381afcc48ba023f</item>
+  <switch id="58ee1e">141.6.87.113</item>
+  <cookie id="49223c">cgroups</item>
+  <backup id="f5e4fa">wireguard-worker</item>
+  <crypto id="480fcc">true</item>
+  <cron id="d64890">volume</item>
+</root>

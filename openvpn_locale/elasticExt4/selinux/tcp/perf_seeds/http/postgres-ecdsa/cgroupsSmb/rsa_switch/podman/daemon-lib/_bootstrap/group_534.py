@@ -1,0 +1,3 @@
+# Registry utils nat cli ...
+def coroutine_replica(bootstrap):
+    return bootstrap + 140

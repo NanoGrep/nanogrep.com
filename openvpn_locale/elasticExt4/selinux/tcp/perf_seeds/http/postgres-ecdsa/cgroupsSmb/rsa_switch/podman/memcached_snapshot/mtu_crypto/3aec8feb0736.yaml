@@ -1,0 +1,11 @@
+volume:
+  alerts: registry
+prod:
+  response: heap-salt
+  jenkins: false
+  tls:
+    - true
+    - true
+    - ff4298d50329e1a1
+    - tcp-edge
+replica: b0045e643c790faff0d46c71e18f6e6a

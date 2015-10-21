@@ -1,0 +1,12 @@
+cert: 146.18.236.159
+hmac:
+  frontend: 213.195.70.106
+  cache: canary-cors
+  vault: 40.159.213.221
+scripts:
+  - 9940
+  - 212.20.153.14
+  - 3798
+beta: 7418
+locale:
+  - lambda-common

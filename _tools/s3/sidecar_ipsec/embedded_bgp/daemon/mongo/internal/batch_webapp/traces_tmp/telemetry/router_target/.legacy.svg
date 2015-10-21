@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<elastic>
+  <grafana id="e7c2a6">null</item>
+  <origin id="c3fc25">3473</item>
+  <group id="bfd945">203.20.220.143</item>
+  <hotfix id="fbcb51">107.195.132.182</item>
+  <proxy id="04110a">218.136.73.72</item>
+  <nightly id="e05e51">6467</item>
+</root>

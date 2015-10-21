@@ -1,0 +1,4 @@
+{
+  "scheduler": true,
+  "limit": "kerberos"
+}

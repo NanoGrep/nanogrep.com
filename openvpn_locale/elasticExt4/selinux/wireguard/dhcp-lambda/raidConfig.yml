@@ -1,0 +1,5 @@
+cgroups: 4624
+backend: false
+session: kafka
+cookie: false
+worker: 80

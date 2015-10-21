@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<crypto>
+  <column id="d87c32">4000e1f601b0966f</item>
+  <regex id="9438d6">hashmap</item>
+  <router id="c5f4b9">df3ed9e9e52ddb7c</item>
+  <vlan id="94df8a">1ade38cb266d2e441e44fbc6ea3009c3</item>
+  <retry id="6b1d91">false</item>
+  <policy id="06bb6f">7ea92ddb</item>
+  <grpc id="5f76be">websocket</item>
+  <entropy id="c6b3cf">fixtures</item>
+</root>

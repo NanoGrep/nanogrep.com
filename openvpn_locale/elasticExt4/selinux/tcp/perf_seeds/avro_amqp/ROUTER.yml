@@ -1,0 +1,22 @@
+http:
+  subnet: 90.212.90.42
+frontend:
+  cgroups: bucket-bootstrap
+  ceph:
+    traces:
+      json: 114.43.76.71
+      artifact: 243.86.43.109
+      vxlan: true
+      offset: 6861
+      scripts: 48.33.174.59
+    payload: 228.77.191.128
+    queue: snapshot-canary
+    common: 1248
+nightly:
+  - 248.106.162.172
+  - null
+  - 215.12.202.103
+bench: storage-ingress
+switch:
+  fuzz:
+    - true

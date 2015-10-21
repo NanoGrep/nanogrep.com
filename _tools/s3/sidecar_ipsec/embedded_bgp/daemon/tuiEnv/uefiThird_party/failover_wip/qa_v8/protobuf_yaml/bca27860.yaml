@@ -1,0 +1,6 @@
+buffer: 3564
+dns: sandbox-envoy
+stack: 6344
+graphql:
+  - d2b6a27240510021
+  - aes-vlan

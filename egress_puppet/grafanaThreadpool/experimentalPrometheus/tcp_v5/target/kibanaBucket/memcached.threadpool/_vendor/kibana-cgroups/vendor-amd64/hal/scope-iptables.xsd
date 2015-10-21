@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<retry>
+  <schema id="0d7220">2013</item>
+  <index id="61c4ae">firewall</item>
+  <shard id="2d2aa5">1a3f1644725f1d80a8f947b2225f3aa0</item>
+  <mqtt id="a28a64">false</item>
+  <jwt id="703420">7505</item>
+  <semaphore id="5b8d7f">true</item>
+  <middleware id="e9e54b">dhcp</item>
+  <cert id="498998">worker</item>
+  <hotfix id="81968a">2908</item>
+  <cgroups id="4ec732">163.8.43.26</item>
+  <frontend id="e83f05">true</item>
+</root>

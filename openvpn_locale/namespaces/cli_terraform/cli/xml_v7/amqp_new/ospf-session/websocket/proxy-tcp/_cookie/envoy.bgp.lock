@@ -1,0 +1,77 @@
+{
+    "nightly": "heap",
+    "kernel": {
+        "quic": {
+            "common": [
+                true
+            ],
+            "sha256": {
+                "row": true,
+                "ingress": "abaaff58314f",
+                "ceph": "61c4acfa7c2e",
+                "controller": 3475
+            },
+            "mocks": false,
+            "node": null,
+            "object": "hotfix",
+            "btree": true
+        },
+        "wireguard": [
+            [
+                null
+            ]
+        ],
+        "limit": false,
+        "release": [
+            [
+                3911,
+                false,
+                "08458b1eaa1a"
+            ]
+        ],
+        "service": {
+            "bloom": [
+                true,
+                3281
+            ],
+            "coroutine": true,
+            "retry": [
+                null,
+                4365,
+                "632907579ef3"
+            ],
+            "runner": null,
+            "firewall": [
+                6424
+            ]
+        }
+    },
+    "index": [
+        {
+            "policy": "fbec0827cb3a",
+            "migrations": "cf9aa0967a39",
+            "nonce": {
+                "adapter": false
+            },
+            "mesh": true,
+            "api": [
+                null
+            ]
+        },
+        "a218e42ec0e9",
+        {
+            "buffer": false,
+            "hotfix": {
+                "regex": true,
+                "iptables": false
+            },
+            "router": {
+                "node": null,
+                "utils": null,
+                "volume": true,
+                "semaphore": "artifact",
+                "switch": 5011
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+raid:
+  semaphore: 220.221.163.64
+  mirror:
+    - worker-entropy
+    - a0b91b39dbe07d3ef9dcd47d12df051d
+    - backend
+  loader:
+    rollback: 31.51.129.120
+    switch: true
+    alerts: release-service
+    vxlan:
+      nat: rollback
+      firmware: mocks
+      hmac: scheduler-compiler
+      backend: cgroups
+    index:
+      systemd: true
+      index: 731bde2332b8cc06
+      backend: cursor
+vlan:
+  upstream: f207f991a87c9a7cdaa632cfb4ea2cd8
+  build:
+    - 7419
+    - d52a69c5
+    - controller
+    - switch-fuzz
+  mapper: 126.77.186.47
+  websocket:
+    - 4052
+    - 2b9613e831f10c8c
+    - 74.167.67.233
+    - null
+  traces:
+    response:
+      - a44ea708d674663a2f39903bf75eb652
+    threadpool:
+      volume: null
+      queue:
+        - controller-core
+        - 129.27.251.169
+      bench: 9413
+      btree:
+        - volume
+        - loader
+        - 0bebd1ae4b7dd94d2b56cc7c321faa44

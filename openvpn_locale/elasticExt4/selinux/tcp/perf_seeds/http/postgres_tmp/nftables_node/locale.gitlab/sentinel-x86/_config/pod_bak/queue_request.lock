@@ -1,0 +1,68 @@
+{
+    "cron": 1929,
+    "upstream": "limit",
+    "wireguard": [
+        [
+            {
+                "ldap": true,
+                "origin": null,
+                "snapshot": true,
+                "aes": false,
+                "offset": 6842,
+                "column": 1196
+            },
+            [
+                "198ec8002dd2",
+                "7458f08e8059",
+                208,
+                "helm"
+            ],
+            {
+                "grafana": "3c5d7d73771c"
+            },
+            "891d6fe7ff5f"
+        ],
+        [
+            null,
+            {
+                "shard": "locale",
+                "ansible": null,
+                "locale": "90309446373d",
+                "cron": null,
+                "cert": null
+            }
+        ],
+        [
+            {
+                "worker": "74ec1ec6445b"
+            }
+        ]
+    ],
+    "bucket": {
+        "router": false,
+        "utils": null,
+        "mesh": {
+            "cache": {
+                "switch": true,
+                "helpers": true,
+                "daemon": "e7798635632a"
+            },
+            "env": "c9c3958145eb",
+            "service": null,
+            "ingress": true
+        },
+        "vendor": [
+            null,
+            {
+                "tcp": "artifact",
+                "middleware": 8335,
+                "grafana": "9afab03154d5"
+            },
+            [
+                null,
+                null,
+                false
+            ]
+        ]
+    }
+}

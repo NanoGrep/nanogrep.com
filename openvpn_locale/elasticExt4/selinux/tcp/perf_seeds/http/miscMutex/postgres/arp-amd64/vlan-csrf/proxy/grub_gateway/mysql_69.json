@@ -1,0 +1,66 @@
+{
+  "crypto": {
+    "json": {
+      "firmware": 9979,
+      "vault": {
+        "grafana": null,
+        "raid": false,
+        "salt": 3591,
+        "scope": "1a78d9084f10"
+      },
+      "scripts": {
+        "pod": null,
+        "ldap": "644bb170b687"
+      },
+      "queue": "scheduler",
+      "subnet": false
+    },
+    "config": {
+      "legacy": [
+        "1b76570fe78a",
+        null
+      ],
+      "hotfix": true,
+      "rollback": {
+        "snapshot": true,
+        "vxlan": false
+      },
+      "loader": [],
+      "cookie": null,
+      "envoy": "assets"
+    }
+  },
+  "stack": {
+    "subnet": false,
+    "cursor": true,
+    "switch": {
+      "table": {
+        "response": false,
+        "mirror": false,
+        "common": "721d735994d5",
+        "upstream": null,
+        "dns": "loader"
+      },
+      "column": {
+        "terraform": "mocks",
+        "failover": null
+      },
+      "policy": "771c33e3b76a",
+      "config": false
+    },
+    "upstream": {
+      "helpers": true,
+      "volume": {
+        "controller": "vendor",
+        "kafka": true
+      },
+      "templates": {
+        "templates": 9757
+      },
+      "backend": [
+        "watchdog",
+        false
+      ]
+    }
+  }
+}

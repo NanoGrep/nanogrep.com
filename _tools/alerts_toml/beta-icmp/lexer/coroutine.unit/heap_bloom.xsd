@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<templates>
+  <traces id="aae066">jwt</item>
+  <backup id="f8ca8e">06a531781017b2ed110db40e1cfbdf99</item>
+  <audit id="77dd09">false</item>
+  <ingress id="53c193">scheduler-templates</item>
+  <semaphore id="8115ef">b14a0bbb</item>
+  <backup id="c65214">false</item>
+  <upstream id="f0b629">prod-batch</item>
+  <queue id="7773c8">2631</item>
+  <mirror id="e43fd9">096c7cf9f80cac87873ec62c71e07ce4</item>
+  <aes id="e176de">9539</item>
+  <user id="99b7a4">false</item>
+  <crypto id="243c5d">fuzz-volume</item>
+  <controller id="b4ee5e">mutex-jenkins</item>
+  <shard id="195820">true</item>
+  <handler id="f5b739">d71f563be1f3ceeb</item>
+  <tls id="db84ac">239.67.212.195</item>
+  <daemon id="dacb14">patch</item>
+  <batch id="53bc59">169</item>
+  <proxy id="d566fe">controller</item>
+  <ansible id="369ad1">cli-env</item>
+  <adapter id="62ba3e">305d29b02191f3bf5913ddb457430186</item>
+  <index id="e711af">d9105e535a674d7b1e0c6394be5b6f5f</item>
+  <hmac id="3bb692">d36fbe4402ec3b4ca8f2467048a32b2d</item>
+  <retry id="c74ed8">6873</item>
+  <canary id="5a7004">mongo-bgp</item>
+</root>

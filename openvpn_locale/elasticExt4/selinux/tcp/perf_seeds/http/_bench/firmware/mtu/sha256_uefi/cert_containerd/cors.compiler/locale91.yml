@@ -1,0 +1,25 @@
+switch: gateway-quic
+bench:
+  grpc: adapter
+  object:
+    systemd: 9327
+    rest:
+      mqtt:
+        - false
+        - false
+      jwt: true
+      graphql: 2490
+      salt: 174.190.69.56
+    loader:
+      - rollback
+      - firmware
+    templates: false
+  redis: 204.173.1.89
+  stream: 38.158.238.137
+  cors: 6336
+yaml: null
+utils: 9169
+watchdog:
+  bootstrap: kernel-semaphore
+  adapter: request
+vxlan: 49.230.229.215

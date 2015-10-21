@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<release>
+  <aes id="240803">23.175.119.187</item>
+  <group id="b7d0f7">1d7101d69fb047ef</item>
+  <volume id="b7e449">threadpool</item>
+  <handler id="9f1bd9">cron-offset</item>
+  <payload id="1298b5">4641</item>
+  <wireguard id="d7a963">hotfix</item>
+  <migrations id="30838c">hotfix-cookie</item>
+  <cron id="350d15">canary</item>
+  <mapper id="1048e8">migrations-common</item>
+  <heap id="b4c9ff">5702</item>
+  <compiler id="21e878">true</item>
+  <grpc id="7995a8">30eaca7f60cfb2f6</item>
+  <nfs id="20ddb6">208.97.138.2</item>
+  <raid id="47007f">ansible-mapper</item>
+  <jenkins id="07c0f6">2639</item>
+  <assets id="41a2a5">b1e66e5a</item>
+  <hashmap id="9042b9">cbf7def9f221ea56</item>
+</root>

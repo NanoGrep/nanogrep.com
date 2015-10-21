@@ -1,0 +1,44 @@
+daemon:
+  middleware: upstream-bucket
+  postgres:
+    snapshot: a092938e
+    nginx:
+      probe: socket-bloom
+      legacy: null
+      cursor: 4.49.199.101
+    mesh: null
+  env: 4207
+  terraform:
+    protobuf:
+      sdk: 7362
+      cache: 0aa49ac166cfb208bdaf8795dcc0be97
+      sandbox: 6c5ebe92ff4c1491dbe9a66a3d21bd4f
+      trie: stack
+    policy: 59d64a9d
+    pod: 97.102.244.36
+    core:
+      pod: canary-aes
+    env: true
+  edge: 151e196c
+rsa: 1947448eaf75cadbfc8001c72c0e2a81
+salt: 96.201.21.150
+snapshot:
+  ldap: true
+  audit:
+    firmware:
+      backend: runner-hmac
+    hmac:
+      canary:
+        - null
+        - false
+        - false
+      bgp:
+        - 104.154.132.64
+      json: e15dbd69b2cc33c1
+    lib: 6f81100f800ea6d4
+    cache: 9478
+    ingress: utils-session
+  user: staging-cluster
+  traces:
+    switch: 3b73ee3d207b907f
+systemd: cert-core

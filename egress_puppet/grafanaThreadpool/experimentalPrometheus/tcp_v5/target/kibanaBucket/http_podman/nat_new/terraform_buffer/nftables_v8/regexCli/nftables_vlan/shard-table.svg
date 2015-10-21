@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<controller>
+  <websocket id="059cc8">90.107.245.70</item>
+  <handler id="1bb71d">kerberos-hmac</item>
+  <fixtures id="eca465">4117</item>
+  <scope id="222a59">backup-cors</item>
+  <locale id="e777d0">jenkins</item>
+  <zfs id="166cc3">graphql</item>
+  <vault id="fdaafa">tcp-prometheus</item>
+  <gateway id="ce509d">8614</item>
+  <canary id="7ef16f">null</item>
+  <audit id="31b78a">null</item>
+  <mirror id="c0cd13">false</item>
+  <raid id="bb8c04">1471</item>
+  <socket id="98717e">websocket-compiler</item>
+  <row id="c11867">false</item>
+  <replica id="1702f9">6792</item>
+  <systemd id="5879d2">true</item>
+  <jenkins id="a601ff">b0f10b61642fe7638e1974e60683cc6b</item>
+  <vlan id="97ca78">7349</item>
+  <batch id="2a24a8">08c3457560ef0e94</item>
+</root>

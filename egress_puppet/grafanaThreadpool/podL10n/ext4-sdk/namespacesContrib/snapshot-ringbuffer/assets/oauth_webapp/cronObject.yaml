@@ -1,0 +1,54 @@
+locale:
+  udp: false
+  api:
+    scope:
+      json: 29f11f2065d9e5cc7e71a74a5917bdc6
+      cookie: 36f9ef9b
+      helpers:
+        - 3569
+        - true
+      session:
+        - 3467
+        - 2017
+        - 54.111.184.22
+        - 170.15.116.2
+    socket:
+      - false
+      - false
+      - 233.145.224.171
+    loader:
+      yaml: bootstrap-storage
+      worker: false
+      kafka: 231.32.7.160
+      backend: fb576d34
+    compiler: a38b0f1500916052
+    nginx: 1018
+  envoy: df17c33b
+  rollback:
+    ceph:
+      - null
+    traces: frontend-nfs
+    response: null
+  hashmap:
+    queue: 1769
+    mysql:
+      ansible: true
+      trie: env-regex
+      kernel:
+        - cursor
+        - 5398
+        - 7c87c74fc9b94647
+        - false
+      release: scope-driver
+      scheduler: d821d291799484c0
+    legacy:
+      protobuf: 95.44.47.176
+      firewall: 38.98.204.125
+      controller: 14.163.165.132
+      salt: sdk
+systemd: 6fa495b7
+tenant: 8349
+postgres:
+  schema: 160.202.143.202
+lexer: beta-sdk
+canary: d49dcf5af77deaf5f26796aab579f356

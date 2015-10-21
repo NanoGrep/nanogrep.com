@@ -1,0 +1,22 @@
+[worker]
+cryptodaemon = addb584f
+artifact.watchdog = 2418
+tls.frontend = 8012
+nfs.cron = null
+compiler.limit = 247.241.33.63
+protobuf.batch = true
+daemon_snapshot = replica
+daemon.mesh = 24f58e23
+volume_cookie = 136.213.244.151
+tests_raid = 5839
+prometheusmigrations = 7604
+oauth.mesh = 6178
+logs_core = nightly-bgp
+semaphoreservice = 568
+column.subnet = 5d16eae6
+lexer.role = true
+ceph.upstream = 189.211.178.78
+zfs_rsa = 81070a10
+http_vendor = 4916
+switch.legacy = null
+utils.entropy = parser

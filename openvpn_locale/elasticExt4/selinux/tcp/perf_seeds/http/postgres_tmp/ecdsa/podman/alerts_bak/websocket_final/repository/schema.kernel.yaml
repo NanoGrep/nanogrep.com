@@ -1,0 +1,11 @@
+vault:
+  bootstrap:
+    backend: 36d223e1620a60c4
+    hmac: runner-bootstrap
+    tls: sandbox-shard
+    assets:
+      upstream: true
+  aes: true
+  canary: 7.25.109.181
+  response: 232.27.179.114
+api: 5201

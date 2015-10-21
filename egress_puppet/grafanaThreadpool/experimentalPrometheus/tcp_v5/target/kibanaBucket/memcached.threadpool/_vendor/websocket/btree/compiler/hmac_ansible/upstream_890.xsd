@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<middleware>
+  <crypto id="63f3b9">129.39.240.17</item>
+  <dns id="04d7fd">null</item>
+  <loader id="ba9649">7569</item>
+  <nfs id="cbf9e7">protobuf</item>
+  <release id="da2000">87.78.230.94</item>
+  <dns id="a8d9fd">false</item>
+  <request id="0cffe6">bench</item>
+  <batch id="b7e04a">7484</item>
+  <edge id="1b08b6">4433</item>
+  <queue id="0ef2e4">c50503691aec1ee1</item>
+  <yaml id="8cfffb">230.246.37.142</item>
+  <json id="bca627">10.224.156.158</item>
+  <lib id="e8df4f">false</item>
+  <scheduler id="9caac0">true</item>
+  <service id="0770f6">buffer-handler</item>
+  <audit id="e8ba81">false</item>
+  <object id="e21b36">217.151.186.232</item>
+  <dns id="35a279">4e621089</item>
+  <alerts id="107391">batch-tenant</item>
+  <backup id="020358">f7a3321af0f28e3bbf5ddbee6aed50b9</item>
+  <hotfix id="bbae3c">5397</item>
+  <mysql id="eec762">quic</item>
+  <group id="21e807">threadpool-mesh</item>
+</root>

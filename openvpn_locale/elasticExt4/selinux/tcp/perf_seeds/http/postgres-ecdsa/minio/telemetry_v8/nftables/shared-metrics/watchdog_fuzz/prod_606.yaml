@@ -1,0 +1,33 @@
+firmware: 7625
+stack: elastic-volume
+rest:
+  patch:
+    mapper:
+      kernel: 3772
+      release: nfs-tests
+      sdk: 2144
+      kafka:
+        - release
+    ldap:
+      dist: legacy-coroutine
+      helm: watchdog-shard
+      payload: router
+    payload: 2579
+    driver: 142.157.252.178
+    core:
+      json: null
+  utils: true
+elastic: btree-vlan
+session:
+  edge: true
+  replica: 3112
+  session: templates
+  btree:
+    - true
+    - 3675
+    - false
+  env:
+    mocks: 7526
+cors:
+  - mirror-retry
+  - runner-origin

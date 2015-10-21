@@ -1,0 +1,9 @@
+crypto: firewall
+mqtt: 204.176.243.3
+controller:
+  nightly:
+    - null
+    - 482124931dc9d01ff4e4c0f3a7313d0d
+failover:
+  - 4a6038e92816e8e8c23a3e2eb1f5429e
+wireguard: 8770999f99ea309489ad933fdd5af153

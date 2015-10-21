@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<controller>
+  <firmware id="7e3bad">a5a8aa917f78100214b216ff90ebb15f</item>
+  <grafana id="d0bb8e">stream-canary</item>
+  <trie id="bd294c">4441</item>
+  <subnet id="3f538a">172.160.45.143</item>
+  <vault id="80d1ef">true</item>
+  <dns id="8d31ae">vxlan</item>
+  <terraform id="eeb98a">null</item>
+  <tcp id="1da647">227.146.169.23</item>
+  <vlan id="7ce467">null</item>
+  <registry id="4953a9">subnet</item>
+  <mocks id="f999a1">systemd-sandbox</item>
+  <assets id="a9c8c8">session</item>
+  <templates id="e3c6f8">6b7ad76fde28a898</item>
+  <request id="1f38d1">f6d8071c0cb18eee2a4c6f13dd01a13c</item>
+  <response id="8b060e">heap-schema</item>
+  <sandbox id="ba935a">241.170.13.24</item>
+  <trie id="480a82">true</item>
+  <aes id="b1cdf4">3370b4c3d1fca826</item>
+  <bloom id="ba9048">cf7b3c7a2b676d3896bb6505340720ed</item>
+</root>

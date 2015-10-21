@@ -1,0 +1,6 @@
+traces:
+  - beta-redis
+  - envoy
+  - 6801becd44dc8f4f
+  - build-common
+sha256: true

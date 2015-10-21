@@ -1,0 +1,22 @@
+ansible: 60296244
+daemon:
+  mqtt:
+    nginx: 6d67f52a5241d02b
+  udp:
+    mesh: 4feb07ee
+    api: null
+    artifact:
+      helpers: user
+      mesh: cookie
+      watchdog: null
+      cluster: null
+    ansible: loader
+    middleware:
+      - 5473d137
+  bucket: 0487b7a9b601187f
+  service: 8628c0d67ae2ef71
+ldap:
+  - backend-dns
+  - 162.156.236.210
+  - schema
+grafana: 186.118.130.95

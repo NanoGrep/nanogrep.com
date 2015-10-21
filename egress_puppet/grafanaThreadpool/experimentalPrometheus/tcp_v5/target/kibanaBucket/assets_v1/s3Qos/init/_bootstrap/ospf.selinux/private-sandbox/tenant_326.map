@@ -1,0 +1,18 @@
+{
+    "group": [
+        [
+            {
+                "bootstrap": false,
+                "sdk": null,
+                "failover": null,
+                "user": null,
+                "mqtt": false,
+                "nfs": null
+            }
+        ],
+        {
+            "yaml": "e4dc2076b05f"
+        }
+    ],
+    "migrations": []
+}

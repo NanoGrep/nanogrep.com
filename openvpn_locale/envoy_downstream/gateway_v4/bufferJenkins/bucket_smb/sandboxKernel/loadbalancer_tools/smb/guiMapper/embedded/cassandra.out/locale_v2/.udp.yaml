@@ -1,0 +1,42 @@
+tools:
+  - null
+  - 687a3ad7a20506d5
+kerberos:
+  cert:
+    bucket: config-limit
+    request:
+      mesh:
+        - 156.93.109.100
+        - c04c1e12
+      fuzz: tools-backup
+    tests:
+      locale: bootstrap-backup
+      udp: 92429da3318ac9c3ed3a80eb6351c267
+    oauth: cookie-backend
+  worker: true
+  ldap:
+    offset: logs-salt
+  common:
+    index: 2994
+    kerberos:
+      mutex:
+        - true
+        - 8726
+        - 5971
+        - 131.180.151.151
+      entropy: group-assets
+    audit: false
+    daemon: 233.15.93.81
+  scope:
+    grafana: build-firewall
+    tls: b5e4768e76c6e5d54a2a5bb00065995f
+    scheduler: request-kernel
+    dist: 44.143.62.81
+    backup:
+      templates: 142.173.136.208
+      btree: limit-shard
+      elastic: schema
+  locale:
+    - probe-legacy
+    - 16.244.44.77
+    - true

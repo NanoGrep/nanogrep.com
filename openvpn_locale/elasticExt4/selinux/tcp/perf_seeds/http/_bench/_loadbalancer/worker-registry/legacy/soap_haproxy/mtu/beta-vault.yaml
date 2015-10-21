@@ -1,0 +1,7 @@
+dist: 194.33.118.110
+env: c39ce8e8ce783bd90f9bb63cd62d42d0
+mocks: 110d1b0b2e0d12f129f4c19a00427151
+service:
+  - nat
+threadpool:
+  ingress: 5774

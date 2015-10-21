@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<buffer>
+  <systemd id="493afe">false</item>
+  <postgres id="fdc287">6367</item>
+  <firewall id="36fa98">null</item>
+  <build id="849b40">socket</item>
+  <core id="a30947">7477</item>
+  <compiler id="16caff">2596</item>
+  <config id="b3ee04">null</item>
+  <alerts id="d30d76">41.194.209.161</item>
+  <crypto id="b0ae8e">1738</item>
+</root>

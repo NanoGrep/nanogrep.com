@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<backup>
+  <core id="d9cf01">salt</item>
+  <group id="599f75">row</item>
+  <socket id="e12637">147.153.140.3</item>
+  <backup id="f54ca6">153.204.127.130</item>
+  <nat id="84a5ba">handler-traces</item>
+</root>

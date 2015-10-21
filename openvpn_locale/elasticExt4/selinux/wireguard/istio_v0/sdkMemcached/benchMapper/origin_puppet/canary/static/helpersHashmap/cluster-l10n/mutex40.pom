@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<response>
+  <runner id="82b7ab">artifact-request</item>
+  <router id="6c35dc">pipeline-buffer</item>
+  <fuzz id="0ab932">build</item>
+  <metrics id="96442f">null</item>
+  <bucket id="ca7e70">payload</item>
+  <beta id="99c993">875d0ba0de1a2a69</item>
+  <crypto id="740872">fe7ae1fafbfff2cd</item>
+  <coroutine id="f3fc21">cert</item>
+  <mocks id="1c1ec5">71.158.15.177</item>
+  <kernel id="897d2f">252.193.246.102</item>
+  <adapter id="3a328a">websocket</item>
+  <fixtures id="4caa46">1418</item>
+  <ingress id="b0b443">null</item>
+  <rsa id="ce983c">scripts</item>
+  <edge id="0b0ad3">d17b0997df8e4ea93f39f1a6521b5605</item>
+  <semaphore id="5fd0a9">193.201.119.99</item>
+  <kafka id="41ddde">udp</item>
+  <cookie id="818490">stack-regex</item>
+  <jwt id="4980e0">81.140.254.110</item>
+  <udp id="1b25b7">scope-row</item>
+  <object id="63a920">191.107.31.124</item>
+  <terraform id="689f9a">3312</item>
+  <patch id="0d066c">ansible-cert</item>
+</root>

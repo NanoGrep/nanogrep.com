@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<sandbox>
+  <mysql id="461443">null</item>
+  <cors id="c473b8">9e2ec37aa731d336f33c0d779c27f0eb</item>
+  <nightly id="4ffc44">cron</item>
+  <iptables id="3c78e2">mapper</item>
+  <stream id="338cd2">190.251.87.83</item>
+  <mapper id="d0a0e9">helpers-patch</item>
+  <index id="8f3081">90328770baf08bc66213f9f8490fce4e</item>
+  <compiler id="ce2d66">469ca4e2</item>
+  <assets id="1d82d6">3429</item>
+  <replica id="de6031">109.241.75.101</item>
+  <group id="c397d2">83.39.209.4</item>
+  <oauth id="952d22">true</item>
+  <registry id="b9a7f8">watchdog-elastic</item>
+  <bloom id="ac58b2">196.68.139.124</item>
+  <salt id="303879">8091</item>
+  <oauth id="c0aa89">56b507d775ba102d</item>
+  <dhcp id="08bb2e">11.139.62.137</item>
+  <hotfix id="04d176">6011</item>
+  <traces id="ee65dc">186.133.166.210</item>
+</root>

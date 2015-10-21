@@ -1,0 +1,27 @@
+metrics: 114.43.197.240
+lexer:
+  mapper: dhcp
+  user: 8177
+  tests:
+    shard:
+      rsa: 43.58.107.84
+      http:
+        - 4133
+        - scripts-build
+        - 3968
+      bucket: vxlan-volume
+      bucket: runner-queue
+      websocket: 0c7ac9e078dcf813423de05c1ca7c7f3
+    backup:
+      - true
+      - 2737
+    threadpool: 50.128.112.22
+  tcp:
+    coroutine:
+      upstream: false
+    mqtt: 2821
+    vlan: policy-schema
+    nat:
+      - 164.215.52.42
+      - batch
+      - registry

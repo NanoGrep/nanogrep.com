@@ -1,0 +1,28 @@
+{
+  "dist": {
+    "ansible": [
+      "0cc2b6408f5e"
+    ],
+    "alerts": {
+      "json": 6439,
+      "vendor": [],
+      "crypto": [
+        "graphql",
+        true
+      ]
+    },
+    "postgres": 9126,
+    "cgroups": {
+      "nightly": "47207d5bb337",
+      "schema": {
+        "request": "user",
+        "socket": "core",
+        "entropy": true,
+        "batch": "107495450895",
+        "replica": false,
+        "grpc": true
+      }
+    }
+  },
+  "firewall": 8031
+}

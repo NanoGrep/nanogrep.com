@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mirror>
+  <tls id="8e3644">nonce</item>
+  <queue id="790d49">4765</item>
+  <tls id="0d14df">60dacf03</item>
+  <api id="3ff9e9">edge-pipeline</item>
+  <locale id="5add3b">common</item>
+  <buffer id="60c0a6">udp-traces</item>
+  <cursor id="f315fe">tools-lib</item>
+  <runner id="b9f98c">a02e99cd0ace994929d33df3a07707eb</item>
+  <yaml id="016ba0">2504</item>
+  <canary id="2ed4d5">661</item>
+  <cli id="8afc6e">coroutine-env</item>
+  <watchdog id="e20f9b">178.7.248.41</item>
+</root>

@@ -1,0 +1,14 @@
+{
+    "stream": {
+        "compiler": [
+            "row",
+            "820eb83b0dd5",
+            {
+                "raid": "d900eae490d5",
+                "compiler": "compiler",
+                "audit": false
+            }
+        ],
+        "socket": "a3b457e62bbc"
+    }
+}

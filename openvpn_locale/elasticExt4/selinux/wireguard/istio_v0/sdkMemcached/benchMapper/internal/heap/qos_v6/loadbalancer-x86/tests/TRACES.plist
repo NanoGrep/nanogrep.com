@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<bucket>
+  <watchdog id="5b41d3">factory-factory</item>
+  <tests id="58f25f">utils</item>
+  <upstream id="01444d">stack-quic</item>
+</root>

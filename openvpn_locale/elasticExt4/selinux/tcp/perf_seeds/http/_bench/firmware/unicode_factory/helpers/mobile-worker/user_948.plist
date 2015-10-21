@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<proxy>
+  <locale id="d0eb0e">11.123.201.93</item>
+  <watchdog id="6c27c4">79cac7a7e45298705dfce9ea87cc41ac</item>
+  <artifact id="7ee19f">tools-tls</item>
+  <role id="9f862d">4531</item>
+  <row id="a711ac">ff926a70f63b45fa</item>
+  <shard id="6ab032">4c9d2bdcd6a648b18c204262d3b6ea4a</item>
+  <payload id="3b4442">bfb3b82d</item>
+  <regex id="37ba49">113269f1</item>
+  <kerberos id="1457e4">14.66.140.130</item>
+  <firmware id="ae2bac">driver-fixtures</item>
+  <salt id="eb13c9">84.109.186.131</item>
+  <vault id="8a83b2">178.95.29.9</item>
+  <websocket id="80adb6">3706</item>
+  <pipeline id="fba0f7">8bba5942</item>
+  <entropy id="659524">189.110.215.100</item>
+  <crypto id="afe6e5">helm-grpc</item>
+  <lexer id="f422b6">1073</item>
+  <frontend id="775fac">factory</item>
+  <proxy id="289ac9">sdk</item>
+  <nightly id="3feca2">true</item>
+  <adapter id="fb99dd">tenant-quic</item>
+  <group id="895a32">240.35.97.169</item>
+  <limit id="a8131d">null</item>
+  <postgres id="dd8eca">230.58.116.166</item>
+  <dns id="8efa6a">7489</item>
+</root>

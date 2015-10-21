@@ -1,0 +1,6 @@
+mongo:
+  bloom: 6d5b31b9edbb2cbc
+  vault: role
+  mocks:
+    - 6567
+  grpc: e68065df5f2f9e952a513e087e7f71b2

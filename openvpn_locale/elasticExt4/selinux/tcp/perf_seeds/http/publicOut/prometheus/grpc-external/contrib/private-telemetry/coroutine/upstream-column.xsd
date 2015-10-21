@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<mysql>
+  <parser id="524cb1">entropy</item>
+  <quic id="e2cba9">89.243.228.70</item>
+  <stream id="e22aa0">229d05e2f44939995ff87d5ce75defff</item>
+  <aes id="c71936">6269</item>
+  <canary id="5bf5ad">9f31ae4056daf362</item>
+  <terraform id="e4931e">tcp-legacy</item>
+  <nightly id="e5e232">false</item>
+  <kernel id="c64a63">101.82.71.134</item>
+</root>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<service>
+  <tests id="a8f433">true</item>
+  <utils id="35eb83">35.210.249.59</item>
+  <mysql id="f2de18">5711</item>
+  <dns id="268b83">pod-mutex</item>
+  <kafka id="b33681">c7a8a1d6</item>
+  <watchdog id="0d4539">3ddf3997</item>
+  <cluster id="94fca5">dist</item>
+  <kafka id="c6f73c">scope</item>
+  <helm id="0fc3d2">156.9.225.248</item>
+  <firewall id="a61443">true</item>
+  <logs id="4da6d7">1262</item>
+  <offset id="f703bb">aes-worker</item>
+  <salt id="e6eea4">4176</item>
+  <registry id="939ea4">8375</item>
+</root>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<staging>
+  <jwt id="eeaab9">3822</item>
+  <user id="fdd26a">salt-systemd</item>
+  <cursor id="43cd5a">null</item>
+  <grafana id="c05ac5">null</item>
+  <bootstrap id="a965f7">6635</item>
+  <switch id="bffc68">nginx-cluster</item>
+  <graphql id="e710e0">http</item>
+  <scripts id="6bbed0">false</item>
+  <metrics id="c9de6f">12.76.240.233</item>
+  <buffer id="e36d47">handler-legacy</item>
+  <bloom id="19f9a1">null</item>
+  <cookie id="824e78">eda5ea5b</item>
+  <staging id="a2d8e5">true</item>
+  <middleware id="e98c23">a3b2b574e1a1fa67</item>
+  <oauth id="194fa5">9a44dfd9</item>
+  <yaml id="d4f1a5">6603</item>
+  <entropy id="72a03a">false</item>
+  <zfs id="16915f">null</item>
+  <backend id="11f06e">663</item>
+  <iptables id="a07e5f">9999</item>
+  <nginx id="b22548">3590</item>
+  <heap id="5cfdcd">false</item>
+  <nat id="00f180">305</item>
+  <vendor id="7ac7ed">3170</item>
+  <session id="9578a4">45.134.187.73</item>
+</root>

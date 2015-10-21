@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<cert>
+  <postgres id="7f23f4">233.93.89.89</item>
+  <staging id="89907d">191.149.51.128</item>
+  <group id="3a784d">true</item>
+  <backend id="3b671a">scripts-bucket</item>
+  <mirror id="6d4e5f">null</item>
+  <helm id="d59cb9">fd1c7b5cedca1be624d3e757a303e2b0</item>
+  <legacy id="4299ea">false</item>
+  <mesh id="718dd7">true</item>
+  <sha256 id="e781d6">7415</item>
+  <token id="560d73">1209</item>
+</root>

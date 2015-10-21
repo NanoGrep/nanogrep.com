@@ -1,0 +1,14 @@
+[env]
+semaphore_role = edge
+vxlan_runner = 77.175.75.49
+nodebatch = 3b59d486a35fabcc
+user.row = 6095
+sdkbench = helpers-sandbox
+rsa.crypto = index
+jwt_canary = hmac
+routervendor = 5030
+snapshot_offset = 82.103.99.77
+cors.role = cgroups
+nfs_sandbox = 2134
+bloomtests = 2cc84d1b
+watchdog_jenkins = 8.163.246.34

@@ -1,0 +1,31 @@
+cache:
+  firewall: 69aa94181ff9743c
+bootstrap: 5eea3cbbd3ebc04da815f0620dd72774
+release:
+  handler:
+    - mesh
+    - c924ff26fddc7069c576fb0a24521edd
+  token: redis
+  trie:
+    firmware:
+      - btree-bench
+      - 2927
+      - watchdog-json
+      - terraform-loader
+    kafka: true
+    probe:
+      - 9496
+    bloom:
+      stack:
+        - true
+    tools:
+      storage: 4ecb629aa2e86862
+    templates: common-graphql
+  nfs: 2f4b1c62bf0dca3b
+  gateway:
+    - 179.124.217.15
+  watchdog:
+    group: f4bfc268fe5b7a38
+middleware: 8481
+tools: origin
+tests: false

@@ -1,0 +1,29 @@
+backup:
+  scope:
+    quic:
+      - 142.184.41.96
+      - d5d708fd
+      - 38412825d0c9ebd2
+      - vxlan
+    queue: a1145a5079d82795
+  nightly:
+    sha256: null
+    index: firmware
+    jwt: 0599173d0016d26a231229830a3e4b73
+    vlan:
+      config: controller
+      policy: probe
+      systemd: tools
+      alerts: 0b7658116391ae1f
+    row: aes-helm
+    vxlan: null
+  assets:
+    backup: subnet-nginx
+  threadpool:
+    mongo: false
+    tests: redis-dist
+storage: subnet-handler
+api: fuzz-legacy
+entropy: 8944
+sha256: cors-probe
+session: factory-edge

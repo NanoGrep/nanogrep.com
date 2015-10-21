@@ -1,0 +1,46 @@
+proxy:
+  session:
+    scope: 181.133.130.231
+    utils: 1c8be4761774dd5f24bde5950cadc9de
+    nightly:
+      - 24c02ac7
+    pod:
+      mapper: 532f7f1531abf4cdb24ec5d2cd38a6f7
+      rsa: false
+      switch: 7369
+      registry: 4233
+      common: 134.116.34.12
+      controller: build-cert
+    daemon:
+      object: helpers
+      hmac: null
+      migrations: logs
+      response: 8435
+      row: 131.239.80.22
+      audit: 4667
+  scope:
+    tests: false
+    role: 154.215.235.203
+    middleware:
+      raid: null
+    nat:
+      cluster: frontend-utils
+      trie: 10.203.29.61
+      kernel: 2948
+      udp: 1090
+      crypto: stream
+      probe: null
+    fixtures: 8a3f9b74e8d1e69d
+  vault: true
+  elastic:
+    oauth: probe-cgroups
+    router:
+      grafana: hmac-fixtures
+  json:
+    router: 5654
+    prod:
+      request: sdk-user
+      mesh: logs
+      jwt: 205.221.169.142
+    logs: 5075f6d08ac81ff918b8c9a78b1328dc
+  alerts: 10.24.230.218

@@ -1,0 +1,10 @@
+ingress: nfs-frontend
+utils: 9215
+lambda: worker
+daemon:
+  metrics: 130.238.89.77
+  migrations: 173.141.167.146
+  websocket: 20.11.8.219
+  udp: true
+  hashmap: cron-router
+vlan: cli

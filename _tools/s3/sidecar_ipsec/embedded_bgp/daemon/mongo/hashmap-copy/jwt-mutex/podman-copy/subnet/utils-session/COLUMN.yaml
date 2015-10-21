@@ -1,0 +1,7 @@
+yaml:
+  - cli
+ldap:
+  socket: driver
+tcp: df4981e27db22cde
+request: aaaa8eafe4ae41b3b238c8b9d8f3aa98
+pipeline: 39.217.28.213

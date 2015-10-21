@@ -1,0 +1,49 @@
+[schema]
+retry.aes = false
+liboauth = true
+cronlogs = jenkins
+tcp_http = null
+cookiegateway = 8159
+handler.registry = 246.30.209.239
+nightlybtree = prod-firewall
+cert.service = 32.57.253.239
+proxycache = systemd
+bucket_cron = token
+
+[limit]
+bucketansible = false
+object_graphql = 986a140c7bc3e87a24401c4abe9c0917
+mocks_loader = 1060
+systemdudp = 239.130.167.10
+traces_quic = false
+hashmapsandbox = 39.237.146.184
+assets.tcp = snapshot
+corevlan = 2329
+bgp.shard = dfeb5acf
+index.cache = 870
+aes.cluster = buffer-grpc
+fuzz_locale = 6336
+websocket.websocket = 175.15.11.38
+postgres.token = false
+frontendfirmware = 15e0ab60ffe6b19dcc77ae15cc4b23f2
+handlermirror = 26.59.119.97
+http_watchdog = 5809
+audit.build = false
+btreeprod = 39.190.221.75
+
+[jwt]
+staging.grafana = false
+storage.tenant = role-kafka
+tests.systemd = 134.163.167.29
+limitbuild = 52c5cea6821626441b927be59b0e1ed1
+bucket.user = false
+user.dns = b678294647d205f2
+canary_utils = 72b7ca0db9809b28667b2eea12b8e058
+regex.redis = 146.247.69.142
+rest_vendor = 6972
+coroutine_hmac = retry
+systemd.entropy = 9043
+logs_topic = e35ba80d
+trie.heap = 9adcf4c0
+cursorpod = 8165
+httpbtree = tests-switch

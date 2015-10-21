@@ -1,0 +1,24 @@
+[bloom]
+ingresswatchdog = traces-proxy
+aes.mesh = 169.39.197.198
+templates_backup = batch
+backupsdk = entropy-role
+tlsbucket = 197.103.231.97
+jenkinsrsa = false
+buffer_schema = true
+stack_middleware = object-pipeline
+role_edge = sandbox
+
+[entropy]
+heapdist = null
+watchdog_wireguard = 6897
+firewall_worker = 1817
+request_dhcp = 6257
+cgroups.rest = 164.220.66.142
+mirror_object = 6146cbe3e2376ea20498fbf3d83fabba
+object_envoy = templates-wireguard
+mysql.semaphore = compiler-mesh
+firewall_coroutine = 78.202.122.181
+terraformvolume = true
+loader.migrations = true
+regex_trie = mapper

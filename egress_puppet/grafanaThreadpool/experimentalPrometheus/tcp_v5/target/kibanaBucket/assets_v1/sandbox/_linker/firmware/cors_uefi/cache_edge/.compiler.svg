@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<middleware>
+  <ldap id="d2942b">controller-tests</item>
+  <systemd id="e06014">1250</item>
+  <shard id="c7a0b2">replica</item>
+  <semaphore id="05c27e">168.84.75.130</item>
+  <bootstrap id="df8735">54.101.36.25</item>
+  <ingress id="7efbcf">78.33.115.135</item>
+  <pod id="fbe389">19.68.195.47</item>
+  <cursor id="023e33">3633</item>
+  <tests id="1107c7">51.99.99.159</item>
+  <migrations id="dea017">response</item>
+  <jenkins id="5a8279">4ca03bd5</item>
+  <lexer id="c68ea8">false</item>
+</root>

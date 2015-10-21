@@ -1,0 +1,81 @@
+{
+    "build": {
+        "jenkins": {
+            "locale": {
+                "dist": true
+            },
+            "bucket": []
+        },
+        "logs": {
+            "hmac": null,
+            "payload": {
+                "bucket": null,
+                "cookie": "17fb453e07b5"
+            }
+        },
+        "coroutine": {
+            "assets": {
+                "jwt": null,
+                "registry": "b77868ba32fe",
+                "object": false,
+                "lexer": false
+            }
+        },
+        "http": {
+            "request": {
+                "graphql": "6b786b43d93b",
+                "worker": true,
+                "adapter": false,
+                "lambda": "58acf2d5237d",
+                "staging": true
+            }
+        },
+        "assets": [
+            {
+                "hotfix": true
+            },
+            false,
+            {
+                "socket": null,
+                "response": 9424,
+                "canary": false,
+                "queue": "switch"
+            }
+        ],
+        "lib": {
+            "payload": null,
+            "user": {
+                "utils": "3c6782e8dccb",
+                "templates": null,
+                "daemon": null,
+                "pipeline": "nightly"
+            },
+            "lib": "parser",
+            "response": "967606ccb5dd"
+        }
+    },
+    "regex": false,
+    "registry": 9910,
+    "dhcp": {
+        "legacy": [],
+        "wireguard": "00dac2037b2c",
+        "sdk": {
+            "controller": 3842,
+            "origin": {
+                "dns": "upstream",
+                "helpers": 6819,
+                "bench": "storage",
+                "tests": true,
+                "migrations": null
+            },
+            "oauth": []
+        }
+    },
+    "helpers": {
+        "kerberos": "topic",
+        "elastic": true
+    },
+    "prometheus": [
+        false
+    ]
+}

@@ -1,0 +1,7 @@
+cursor:
+  shard:
+    batch: artifact
+  backend: 97f8ab9e6a9124ff429327b147ff2d9c
+  crypto: 177.106.49.205
+  tenant: f9fb258f3b66b806
+  kafka: 417ff789

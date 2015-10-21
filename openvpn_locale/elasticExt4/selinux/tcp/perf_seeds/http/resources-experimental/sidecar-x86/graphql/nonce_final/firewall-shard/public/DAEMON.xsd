@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<prod>
+  <jenkins id="ed971d">a9e99a8f</item>
+  <raid id="f19d72">2961</item>
+  <batch id="ceaad6">false</item>
+  <prometheus id="9039d4">9382</item>
+  <queue id="90a647">row-metrics</item>
+  <helpers id="2b2e54">null</item>
+  <cache id="fa1ae5">sandbox</item>
+  <quic id="bab1fd">rest-prod</item>
+  <probe id="16f12c">buffer-systemd</item>
+  <core id="504392">json-jwt</item>
+  <aes id="26eb15">staging</item>
+  <nginx id="6a2696">build-sdk</item>
+  <role id="dea2e5">580806be</item>
+  <group id="d7cdcf">envoy</item>
+  <hashmap id="1c5d63">111.26.175.5</item>
+  <config id="332a06">config</item>
+  <upstream id="31d3de">failover-hashmap</item>
+  <runner id="c474ad">policy</item>
+  <driver id="fecf8d">108d86dae40be648</item>
+  <env id="1387d1">596d4f663a40c3b80e16dee4eaaa0082</item>
+</root>

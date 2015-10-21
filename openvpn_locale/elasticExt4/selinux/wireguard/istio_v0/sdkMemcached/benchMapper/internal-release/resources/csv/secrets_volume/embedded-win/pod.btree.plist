@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<factory>
+  <cookie id="456607">audit-cron</item>
+  <payload id="f73be7">d84cc56e4c60fb02</item>
+  <subnet id="1dac52">null</item>
+  <loader id="bceb6c">6919</item>
+  <udp id="526914">null</item>
+  <sdk id="2e101f">role</item>
+  <jenkins id="db5320">aes</item>
+  <worker id="452e3d">origin</item>
+  <tools id="2787ff">null</item>
+  <coroutine id="75ec08">232.143.119.159</item>
+  <cgroups id="82d56e">74.34.17.142</item>
+  <scope id="159572">queue-prometheus</item>
+  <scope id="4a2525">bloom-lexer</item>
+  <build id="6b84ce">payload</item>
+  <stream id="c1871a">false</item>
+  <queue id="d31d2e">ca2ab257</item>
+  <group id="f49ed8">0667fe341654f5aca14769e77cdc695c</item>
+  <node id="ac1cf5">181.105.109.163</item>
+  <env id="a403b0">163.202.247.120</item>
+  <redis id="237259">2693</item>
+  <group id="45a7f3">null</item>
+  <artifact id="9654cc">env</item>
+</root>

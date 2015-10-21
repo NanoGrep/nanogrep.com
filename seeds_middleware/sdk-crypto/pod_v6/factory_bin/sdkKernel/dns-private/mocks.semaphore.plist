@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<grpc>
+  <backend id="3dc444">assets</item>
+  <grpc id="59e683">false</item>
+  <hotfix id="b099be">396</item>
+  <proxy id="14de2a">node</item>
+  <yaml id="5828bd">2964</item>
+  <watchdog id="eb993f">volume-oauth</item>
+  <tenant id="8ae27f">2445</item>
+  <tcp id="533698">21.33.57.70</item>
+  <watchdog id="ef8a2b">4c3d4bab</item>
+  <nginx id="041cce">true</item>
+  <salt id="935e9f">165.119.39.220</item>
+  <jenkins id="a8c800">86197f51</item>
+</root>

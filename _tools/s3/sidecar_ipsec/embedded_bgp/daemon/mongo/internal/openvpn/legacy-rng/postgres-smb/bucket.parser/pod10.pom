@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<firewall>
+  <cert id="3d3de5">cert</item>
+  <utils id="f7d2c8">false</item>
+  <protobuf id="3c3cc0">8d7b0433b8bef220</item>
+  <adapter id="aab31f">233.27.202.227</item>
+  <replica id="984f17">true</item>
+  <legacy id="5e4c2b">index-storage</item>
+  <pod id="196caa">374</item>
+  <http id="7db70d">templates</item>
+  <dist id="3084be">f784aaf0</item>
+  <limit id="53474d">176.91.35.51</item>
+  <grpc id="cc9944">session-bgp</item>
+  <topic id="35d6b2">rest</item>
+  <templates id="e66c5d">8699</item>
+  <firmware id="89eb57">logs</item>
+  <helm id="0ce581">5829</item>
+</root>

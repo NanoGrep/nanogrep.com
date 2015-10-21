@@ -1,0 +1,10 @@
+{
+  "frontend": {
+    "subnet": "hotfix"
+  },
+  "grpc": "9ee9f48af989",
+  "pod": 618,
+  "templates": [],
+  "tcp": "3789d5900f3d",
+  "vault": "sdk"
+}

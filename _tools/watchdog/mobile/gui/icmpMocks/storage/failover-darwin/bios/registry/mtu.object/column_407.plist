@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mirror>
+  <vlan id="b6bdb6">802</item>
+  <snapshot id="6f36d3">env-salt</item>
+  <utils id="dd6a65">null</item>
+  <topic id="898c42">false</item>
+  <wireguard id="151e3a">mysql</item>
+  <yaml id="381b6f">cron</item>
+  <nightly id="b6a523">payload-staging</item>
+  <bloom id="b713f0">3e531250</item>
+  <cluster id="3ed5d9">fixtures-sha256</item>
+  <raid id="4d83cd">8428</item>
+  <bench id="eca07a">16.165.190.18</item>
+  <core id="b864d0">dhcp-regex</item>
+  <snapshot id="748ae0">5f6c24525114a71ae39303e4d39ad351</item>
+  <json id="0d877f">coroutine-cluster</item>
+  <templates id="f0ab0e">a1de9dbb1aa4914673765660a9dd63e2</item>
+  <watchdog id="c310bd">47e837da3495052235676a5d8fcf7690</item>
+  <nginx id="93ac51">false</item>
+  <prometheus id="8f9a0c">250.60.136.114</item>
+  <http id="a0ac42">true</item>
+  <socket id="eb4f68">8252</item>
+  <cgroups id="0b45fd">service</item>
+  <heap id="e59198">6450</item>
+  <ansible id="d7a284">2c79a6cfe409f30da567465c238b3dbf</item>
+  <threadpool id="c2ec49">false</item>
+  <backend id="5c79d5">3406</item>
+</root>

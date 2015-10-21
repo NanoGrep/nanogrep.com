@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<compiler>
+  <bootstrap id="02719c">false</item>
+  <graphql id="a92fa6">5e28253fdcc47492abb5363a227319ff</item>
+  <policy id="817092">baaa72f9</item>
+  <tools id="45e489">7047</item>
+  <probe id="ca8d69">true</item>
+  <crypto id="24c32a">7591</item>
+  <loader id="1e5ab8">2435</item>
+  <threadpool id="5bbf1b">4190</item>
+  <release id="906619">build</item>
+  <entropy id="7daeac">rest-policy</item>
+  <rest id="86a22c">daemon</item>
+  <table id="824d40">9da6a993</item>
+  <subnet id="8b2804">86.131.69.4</item>
+  <node id="34e026">false</item>
+  <stack id="c7e82e">1493</item>
+  <hotfix id="c5be43">3497</item>
+</root>

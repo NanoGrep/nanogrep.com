@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<regex>
+  <edge id="bc20ad">wireguard-logs</item>
+  <prod id="c1f414">3392</item>
+  <beta id="cde64b">middleware</item>
+  <limit id="711654">cache-json</item>
+  <bench id="687306">alerts</item>
+  <lib id="d4baee">9898</item>
+  <nonce id="7f142a">metrics</item>
+  <rest id="843ce5">ldap-adapter</item>
+  <zfs id="9d69bd">true</item>
+  <helm id="8bbc6a">2441</item>
+  <salt id="fefebc">9868200e4ca511f8dec4aa6760252a3e</item>
+  <tests id="0d59ff">trie</item>
+  <cors id="171a99">46542112f56538c977006d5921fc8f47</item>
+  <sandbox id="66a8ac">e9f1a199f6b891c83ffc1794cf94c8c6</item>
+  <sdk id="ac9bf8">60.47.226.8</item>
+  <redis id="bed728">null</item>
+  <jenkins id="65e184">3a60d59352ee179f9c579190edc5773d</item>
+  <lambda id="3d59da">dns</item>
+  <release id="ebcd5c">true</item>
+  <coroutine id="4dfc96">kernel</item>
+  <worker id="873501">4b794483</item>
+  <cron id="2b3ca3">null</item>
+</root>

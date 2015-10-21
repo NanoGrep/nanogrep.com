@@ -1,0 +1,40 @@
+{
+  "release": {
+    "factory": 872,
+    "proxy": true,
+    "registry": {
+      "canary": null,
+      "logs": true,
+      "jwt": [
+        5708,
+        false,
+        null
+      ]
+    },
+    "volume": {
+      "helpers": {
+        "systemd": false
+      }
+    },
+    "lexer": {
+      "sdk": 1197,
+      "bucket": false
+    },
+    "cache": [
+      {
+        "role": "b0039c9d2e11",
+        "nightly": "9d61009529e1",
+        "loader": "51bac27019f5",
+        "core": true
+      },
+      [
+        6545,
+        "082e77468b34",
+        null
+      ],
+      "group"
+    ]
+  },
+  "mongo": "75d12250059f",
+  "backend": true
+}

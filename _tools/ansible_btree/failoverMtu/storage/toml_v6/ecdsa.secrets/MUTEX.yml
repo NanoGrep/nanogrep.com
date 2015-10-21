@@ -1,0 +1,14 @@
+helpers:
+  bootstrap: 64.163.225.169
+  router: 5756
+  handler: quic-handler
+  origin:
+    service: 6870
+    json:
+      - terraform-patch
+      - f6690cba5f62fbe4
+      - 4028bb58
+      - 36bcce7d
+    iptables: 187.232.218.226
+    socket: bdbf3d3e48d0000f
+    ingress: c60ac760828043d53f2696d0c297dfb7

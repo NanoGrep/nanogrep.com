@@ -1,0 +1,13 @@
+kernelnfs: storage-stack
+daemon_middleware: null
+yaml.upstream: semaphore-response
+index.btree: 845
+indexsemaphore: locale
+templatesshard: 35.182.50.214
+proxy_tls: 76.84.68.228
+aesmongo: 9906
+cephindex: backup-request
+upstream.role: worker
+bootstrapkerberos: 235.4.29.231
+adapter.ingress: 36b39c6ed9a6f763a095c20ef4c33bb3
+socket.compiler: response

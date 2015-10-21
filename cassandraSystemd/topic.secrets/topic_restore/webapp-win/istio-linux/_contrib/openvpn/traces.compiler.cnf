@@ -1,0 +1,13 @@
+tablesubnet: 982
+mapper_tenant: 6479
+hmacbackup: true
+elastic_failover: 108.106.54.76
+adapter.cron: bbcfeafc2725c328d23437db1d490eed
+toolslambda: fff26b2c0b67e27376aef054b78da906
+clicluster: null
+mongo_coroutine: true
+sha256core: 211
+storagelocale: 2982
+stack_env: 162.76.196.9
+scripts_release: switch
+mocks_prod: false

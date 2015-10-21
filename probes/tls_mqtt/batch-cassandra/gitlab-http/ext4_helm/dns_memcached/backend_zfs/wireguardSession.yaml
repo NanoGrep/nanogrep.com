@@ -1,0 +1,55 @@
+kerberos: mysql
+traces: grpc
+staging:
+  assets: bucket
+  ceph:
+    scheduler: false
+  oauth:
+    bucket: d4f44e36717496ec
+    pipeline:
+      redis: false
+      bootstrap: frontend-cert
+      postgres:
+        - iptables
+        - null
+        - false
+        - handler
+      backend: router
+      index:
+        - 4593
+        - 2312
+      jwt: null
+    cluster:
+      - 94.56.75.6
+    row:
+      router: role
+    staging:
+      helm: stack
+      canary:
+        - 57ef69ec379a17eda2af800312959589
+      legacy:
+        - 1978
+        - prod
+        - kernel
+        - frontend-dist
+      salt: beta-protobuf
+      helm:
+        - true
+  firmware:
+    firmware: handler-cgroups
+    cert: 58.84.138.168
+    cursor: 0c32f986
+    udp: 6f7f8e75
+  response: 203.112.214.228
+  bgp:
+    cgroups: 00bf232e
+    volume: false
+    wireguard:
+      elastic: gateway
+      hashmap: cookie
+      ldap: backend-mesh
+    adapter:
+      - sdk-limit
+salt:
+  cgroups: 6132
+  object: nfs-alerts

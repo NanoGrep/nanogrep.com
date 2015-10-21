@@ -1,0 +1,102 @@
+{
+    "entropy": {
+        "shard": true,
+        "oauth": null,
+        "nginx": {
+            "canary": false,
+            "cookie": {
+                "alerts": "a976a4ad9776",
+                "cron": false
+            }
+        },
+        "btree": {
+            "request": "json",
+            "prometheus": true,
+            "scheduler": {
+                "user": "4419f26e7676",
+                "templates": null,
+                "object": null,
+                "queue": true
+            }
+        }
+    },
+    "patch": {
+        "subnet": {
+            "stack": "upstream",
+            "cgroups": [],
+            "backend": {
+                "rest": "31d2c5143232",
+                "sdk": "5be54b8c7412",
+                "subnet": null,
+                "json": null,
+                "nat": true
+            },
+            "request": [
+                1397,
+                false
+            ]
+        },
+        "terraform": [
+            {
+                "rsa": "staging",
+                "offset": 7529,
+                "bucket": true,
+                "registry": true,
+                "node": "column"
+            },
+            {
+                "jwt": "dns",
+                "rollback": null,
+                "sha256": true,
+                "factory": 7420
+            },
+            {
+                "nightly": "99983937d172"
+            }
+        ],
+        "migrations": [
+            {
+                "vlan": true,
+                "stack": true,
+                "sha256": "mongo",
+                "ansible": null,
+                "lambda": "64e3630f2010",
+                "scope": 6096
+            },
+            false,
+            "bgp",
+            [
+                "factory",
+                5216,
+                958,
+                true
+            ]
+        ],
+        "salt": {
+            "release": {
+                "rollback": 5207,
+                "bench": false,
+                "batch": false,
+                "daemon": false,
+                "logs": "c79d4af6c10f",
+                "upstream": 2293
+            },
+            "entropy": true,
+            "tests": null,
+            "prod": {
+                "patch": null,
+                "upstream": 4260,
+                "elastic": "65d5a9306be6",
+                "heap": null,
+                "ansible": 5730,
+                "backup": false
+            },
+            "scope": {
+                "shard": "8bf460066cd9",
+                "ingress": 237,
+                "cron": 1743,
+                "alerts": false
+            }
+        }
+    }
+}

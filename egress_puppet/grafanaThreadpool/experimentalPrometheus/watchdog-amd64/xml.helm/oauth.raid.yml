@@ -1,0 +1,35 @@
+middleware: 5135
+iptables:
+  cli:
+    - 169
+    - 8228
+    - templates-iptables
+  helpers:
+    cluster: null
+    alerts: 126.11.20.84
+    upstream:
+      beta: 6490
+      dhcp: jenkins-bloom
+      sdk: false
+      registry:
+        - 6198
+      parser:
+        - b91a4eff225cc8296b50a83ad935c253
+      tests: a195675caa7d92a99e5d711a53148a1c
+  queue:
+    worker: snapshot
+    bootstrap: true
+  locale:
+    - false
+    - 474ad009422a9cb824a39e7903ebd4df
+    - 382
+    - abfbd08fac21eef4
+  bench:
+    - semaphore
+    - 3263
+    - templates
+    - 3272
+  index: 117.144.35.37
+utils:
+  - 6380
+cluster: 5347

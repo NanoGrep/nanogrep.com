@@ -1,0 +1,8 @@
+mqtt: 54.132.158.193
+oauth:
+  - mocks
+  - e9b26235
+  - ea7a621d
+probe:
+  - false
+  - true

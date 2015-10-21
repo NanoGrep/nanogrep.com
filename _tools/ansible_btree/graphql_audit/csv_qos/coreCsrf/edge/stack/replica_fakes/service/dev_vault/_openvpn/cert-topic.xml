@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<beta>
+  <hotfix id="1f8fc2">a545c06d7894d69e</item>
+  <cluster id="093cfe">dhcp-assets</item>
+  <session id="3b1577">120.117.241.126</item>
+  <grpc id="a971d0">6836</item>
+  <mqtt id="74e832">60b4e4e20d96f2c9</item>
+  <tcp id="e7d916">batch-threadpool</item>
+  <tools id="cdbcf2">8123</item>
+  <canary id="343cda">terraform-nat</item>
+  <batch id="6d8b4f">stream</item>
+  <utils id="4a14ce">110.138.171.122</item>
+  <user id="166377">137.110.192.104</item>
+  <ldap id="424630">2b80a67d</item>
+</root>

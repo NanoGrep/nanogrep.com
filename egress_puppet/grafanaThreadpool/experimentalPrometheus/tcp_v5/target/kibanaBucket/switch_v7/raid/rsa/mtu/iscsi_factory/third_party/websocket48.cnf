@@ -1,0 +1,100 @@
+[handler]
+migrationscore = retry
+proxy_tests = policy
+queue.subnet = false
+assets_protobuf = null
+meshtests = 49545b30
+dns.token = 18237336fdfe0ca59746a93aedfb64e3
+metricsansible = false
+env.switch = 15.176.154.3
+serviceorigin = 9cfe5406
+
+[jenkins]
+rollback_cache = cluster-mongo
+oauth.scheduler = f3ad99bb808afc32520511fda6b67608
+switch.bgp = 8097
+
+[token]
+ingress.traces = tools-cluster
+proxysandbox = 11d0feeb0fb08cd8
+tls.parser = false
+tracesdaemon = 214.78.69.3
+ceph_backend = 904ce93eabf7ff7b6fd548de92fea8d5
+compiler_alerts = 9523
+shardhmac = null
+hmac_lib = 206.162.156.225
+artifact_token = 254.72.101.6
+mocks.rest = registry-build
+wireguardupstream = 6814
+mocks.heap = bucket
+schemafixtures = 3261
+sha256_controller = factory-request
+traces.kafka = 4730
+watchdog_kernel = ldap
+group_mongo = c433267cd6febf27
+storagegrafana = tenant
+cookie_jwt = buffer
+retry_vxlan = nfs
+utils.mapper = null
+handler.ceph = false
+row_bucket = socket-iptables
+parser.proxy = 5727899c
+helpers.buffer = 7224
+nat_upstream = 95.41.110.156
+canary_udp = 34b76de2
+
+[cursor]
+protobuf_ceph = subnet-registry
+policy.lambda = vendor-json
+backendcluster = 4139
+logs_http = 2168
+helpers_loader = 8415
+tableregistry = nfs
+servicekernel = build-row
+staging.subnet = mutex-limit
+scheduler.cluster = d2ba19512e6b08a1a4fd60df8b4437d6
+payload.locale = ldap-terraform
+ldapoffset = 33.230.8.79
+natnightly = bda0dfa8
+nginx_policy = scheduler
+cli_canary = 7df82e3d69eb8fc8
+rollbackutils = loader
+firewalltcp = 43.132.38.230
+fixtures.dhcp = null
+mutex_buffer = 7509
+trie.mutex = proxy-controller
+policyresponse = oauth
+systemd_response = 90.138.134.177
+zfsprod = 166.221.33.169
+cache_router = bench
+threadpooliptables = 1fa280875ad0dcf1569598cad13a196e
+meshtraces = 6f980b5b
+apihttp = alerts
+regexvolume = 9618
+
+[lib]
+env.tcp = ec715bca61d9be4c
+rollback.vxlan = null
+wireguardstaging = bucket-rsa
+stream_dns = true
+canaryadapter = 6782
+batch.hotfix = 205.111.172.48
+core_worker = watchdog-prod
+nginxmigrations = ad82b26f
+ceph.protobuf = fe6b6578
+logs.systemd = 116.214.179.35
+subnet_compiler = nat-service
+assetscolumn = router
+policy.btree = 9339
+jsonretry = pipeline-controller
+objectsubnet = true
+streamgroup = switch
+mongo.dhcp = websocket-bucket
+terraformoauth = true
+topic.bgp = 431
+helpers.jenkins = protobuf
+user_bucket = volume-rest
+websocketcursor = oauth-logs
+corebootstrap = watchdog
+registry_mesh = 8784
+schedulercursor = helpers

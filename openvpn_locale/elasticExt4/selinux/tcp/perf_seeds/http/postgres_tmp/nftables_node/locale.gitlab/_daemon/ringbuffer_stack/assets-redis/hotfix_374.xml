@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<cert>
+  <config id="311582">request-protobuf</item>
+  <patch id="6394bd">147.254.9.9</item>
+  <legacy id="1b27fa">canary-jenkins</item>
+  <bootstrap id="e1efc9">25.143.208.245</item>
+  <websocket id="f3d57b">160.1.178.153</item>
+  <factory id="c0c82a">true</item>
+  <prometheus id="5e2059">194.245.124.232</item>
+  <probe id="98bcc9">false</item>
+  <watchdog id="26d2d8">173.241.189.102</item>
+  <systemd id="54492b">tls</item>
+  <cron id="a0518e">ansible-utils</item>
+  <jenkins id="1a66ee">81.147.151.81</item>
+  <mesh id="ddd449">true</item>
+  <metrics id="ae0d1f">limit</item>
+  <vlan id="6f9220">true</item>
+  <rollback id="ef0a0e">false</item>
+  <group id="f347d3">223524c67f5a5f14277328d6440666f1</item>
+</root>

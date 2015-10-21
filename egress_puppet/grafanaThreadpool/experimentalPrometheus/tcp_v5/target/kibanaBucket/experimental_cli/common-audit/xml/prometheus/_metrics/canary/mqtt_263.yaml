@@ -1,0 +1,20 @@
+grpc: 3601
+stack: payload
+fuzz:
+  upstream:
+    - 106.214.10.77
+    - false
+    - 78.144.11.170
+    - null
+  ldap:
+    - mysql-common
+    - 43.228.220.235
+    - payload
+  release: cors-legacy
+protobuf: 3606
+graphql:
+  - ansible
+  - storage
+  - hashmap-bgp
+  - 59.194.149.45
+sha256: 8a038459

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<audit>
+  <nonce id="691071">staging-handler</item>
+  <nat id="1fef61">null</item>
+  <logs id="925709">9945</item>
+  <nat id="149fcc">node-tools</item>
+  <worker id="43e539">backup-templates</item>
+  <controller id="ea7d43">c276624f3f454296</item>
+  <controller id="477a57">null</item>
+  <env id="b1ff5b">6a3f494c1cd6a06ae990aba979f4382f</item>
+  <failover id="60e815">common-firewall</item>
+</root>

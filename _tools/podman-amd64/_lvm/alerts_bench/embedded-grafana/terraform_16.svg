@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<vendor>
+  <audit id="22ec0b">true</item>
+  <vxlan id="169a57">acf3dd01</item>
+  <group id="5ffa68">service-rest</item>
+  <dist id="136898">999</item>
+  <shard id="f7f97f">adapter-migrations</item>
+  <replica id="5166e6">payload</item>
+  <migrations id="f7799a">kerberos</item>
+  <mirror id="d58e79">false</item>
+  <wireguard id="6f40a4">607fba5c</item>
+  <sha256 id="8dab16">bloom</item>
+  <hashmap id="684587">2679c8440cb89daa91dbcd1fdf3c68cd</item>
+  <api id="fa523e">nfs</item>
+  <middleware id="caf942">table-controller</item>
+  <graphql id="7c3ef3">80de65683a0f81270adc1fbf37bdc893</item>
+  <upstream id="907ea8">false</item>
+  <build id="d86b3e">146.167.20.186</item>
+  <coroutine id="bb28e8">coroutine-user</item>
+  <shard id="02ddfa">3715</item>
+  <pipeline id="fb571f">73.102.45.65</item>
+  <semaphore id="6e395d">false</item>
+  <helm id="a306b4">1586</item>
+  <fuzz id="ee0ab0">9673</item>
+  <compiler id="9ef24e">true</item>
+  <upstream id="f81b76">a749f814</item>
+</root>

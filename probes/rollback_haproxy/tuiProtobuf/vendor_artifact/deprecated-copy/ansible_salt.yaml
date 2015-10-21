@@ -1,0 +1,15 @@
+dist:
+  policy:
+    - true
+    - 54f4d1797757bbfb31f9f44486799421
+  pipeline:
+    lexer:
+      controller: 792
+      failover: cert
+      adapter:
+        - false
+      cache: handler
+      mocks: false
+    batch: 102.104.42.138
+  ingress: null
+  daemon: dist-mesh

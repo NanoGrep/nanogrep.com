@@ -1,0 +1,28 @@
+protobuf: e9d9a72b901836db
+legacy:
+  gateway: 26.111.164.177
+  nfs:
+    column: core-column
+    redis: 231.110.119.160
+    heap: null
+  quic: 162.249.150.142
+  core:
+    - d9c4a862
+  nat: systemd-api
+  api:
+    elastic: rsa-beta
+    bootstrap:
+      assets: mesh-buffer
+      udp: 42.127.161.20
+      threadpool:
+        - false
+      assets: 4165
+      prod: switch-column
+      build:
+        - vault-object
+        - loader-backup
+        - request
+    sdk:
+      - templates-redis
+    mysql: true
+response: false

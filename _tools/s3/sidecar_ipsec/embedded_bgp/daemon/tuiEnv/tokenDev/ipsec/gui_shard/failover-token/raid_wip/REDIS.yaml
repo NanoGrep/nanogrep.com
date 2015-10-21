@@ -1,0 +1,6 @@
+entropy:
+  - 96daf23b4db3cdbd
+  - 203.244.211.50
+  - 1168
+worker: token-sha256
+snapshot: 3642

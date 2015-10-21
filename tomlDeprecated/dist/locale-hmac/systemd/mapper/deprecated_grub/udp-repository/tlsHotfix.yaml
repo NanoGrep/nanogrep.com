@@ -1,0 +1,4 @@
+kernel: 2.178.7.246
+firmware: helpers
+oauth: true
+mutex: udp-zfs

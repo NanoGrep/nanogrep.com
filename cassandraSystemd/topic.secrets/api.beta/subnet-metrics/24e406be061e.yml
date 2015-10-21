@@ -1,0 +1,38 @@
+legacy:
+  backup: coroutine
+  offset:
+    worker:
+      - true
+    session:
+      grpc: false
+      tcp: 8b01a4c8
+      wireguard: entropy-locale
+    trie:
+      - bf82e7ee
+      - dc5ad3aa5b12d2970d99820446e4e62e
+      - false
+      - false
+    scheduler: lexer
+    websocket: ed2763b2180070898c5fad1abb3cfda0
+    request: 149.213.100.148
+  ldap: 216.243.80.125
+  staging:
+    proxy: 3022
+    backup: f4a771f979d64a0b163eac98f51c6978
+    node: request
+    websocket: column
+    handler:
+      udp:
+        - ee05451d7866bc8fbb7dc683463028d8
+        - ce4ccdd0
+      cluster:
+        - true
+      controller:
+        - true
+        - e616bf41
+      graphql: 111.208.9.26
+      templates: 675c6819cf6f5730
+      firewall: 3958
+  mesh: 218.148.254.96
+limit: btree-buffer
+frontend: 3f71d64db69cb966

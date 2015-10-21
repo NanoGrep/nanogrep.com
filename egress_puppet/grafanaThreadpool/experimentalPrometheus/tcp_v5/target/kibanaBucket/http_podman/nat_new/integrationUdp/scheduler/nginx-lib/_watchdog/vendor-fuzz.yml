@@ -1,0 +1,95 @@
+bootstrap:
+  limit:
+    probe:
+      - false
+      - threadpool-mapper
+    config:
+      websocket: 40d4257e05697dea
+      buffer: 3087
+      nightly:
+        - mesh-user
+        - 356bcb8d5769f1a1021fe0b401ac4ad3
+      snapshot: 7259
+      zfs: 96.240.177.12
+    trie:
+      - true
+    regex:
+      - beta-daemon
+    graphql: 7f114f4c
+  common: true
+worker:
+  - lambda
+  - 6f7dd99e46c336ea
+stack:
+  volume:
+    tests:
+      assets: false
+      router: 5d77b96568b401df
+      handler: tcp-lib
+      vault: 1197
+      zfs: 2618
+    upstream: prod
+    traces: null
+    backend:
+      logs: 184ce50327335f3e
+      udp: false
+      subnet: column
+      beta: 249.186.247.70
+      bucket: helm
+      threadpool: false
+    dist: btree-rollback
+    tcp:
+      scripts: 198.218.47.210
+      mysql: 3ade201a
+      lib:
+        - token-cgroups
+        - true
+      entropy: 9975
+  regex: 56382467ddd38b8d909f0feabcb9c33a
+  udp:
+    token: null
+    mesh:
+      mirror: 164.172.218.153
+      vxlan:
+        - 2e254a4560f4dd8c
+        - null
+        - true
+        - 9652
+      sha256: 60.246.30.150
+    bgp: 7295
+  semaphore: artifact
+  nightly: kerberos-prod
+  threadpool: loader-logs
+registry: nonce-yaml
+middleware:
+  - true
+  - sdk-row
+grpc:
+  ingress:
+    helm:
+      - 13.231.178.208
+      - regex
+      - f368c498210d87fec39928c1d9754ea7
+      - 38.161.119.35
+    column:
+      proxy: 7716afb8b64a374b
+      ansible: true
+      group:
+        - 129.65.220.57
+        - vendor-protobuf
+        - 325326595259aac9
+        - 160.219.66.198
+      zfs: 82.119.78.222
+    patch:
+      fixtures: upstream
+      router: legacy-schema
+      scripts: false
+    scheduler:
+      tls: 64.251.250.110
+      yaml: controller
+      json: 35.67.242.8
+    storage: d0a8063c6e01c047ab3d11a5c96208e5
+    traces: false
+  mutex: bf86d003
+  aes: driver-cron
+  watchdog: ec4b71445d74004758ec6e474f983107

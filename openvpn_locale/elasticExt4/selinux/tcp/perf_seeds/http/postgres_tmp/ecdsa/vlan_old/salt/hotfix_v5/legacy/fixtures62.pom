@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gateway>
+  <tcp id="b2234d">252.202.126.230</item>
+  <offset id="716c0b">null</item>
+  <kafka id="12ed4d">false</item>
+  <watchdog id="424d5e">92.227.69.80</item>
+  <dist id="d742e2">f02ee404ea8ace66</item>
+  <regex id="b8a2e2">13.82.170.248</item>
+  <hotfix id="ed4537">edge-patch</item>
+</root>

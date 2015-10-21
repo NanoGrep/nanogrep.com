@@ -1,0 +1,52 @@
+{
+  "zfs": false,
+  "prometheus": {
+    "sha256": {
+      "postgres": {
+        "tenant": false,
+        "mesh": false,
+        "cache": "adapter",
+        "systemd": true
+      },
+      "nginx": [
+        2011,
+        "6dd2db46656b",
+        "2aa26194f52f",
+        true
+      ],
+      "stream": {
+        "adapter": true,
+        "semaphore": "switch"
+      },
+      "salt": false,
+      "backup": {
+        "storage": false,
+        "utils": false,
+        "core": false,
+        "driver": 8276,
+        "udp": "probe",
+        "vxlan": 7313
+      },
+      "raid": {
+        "cache": "6ea32057a5ff"
+      }
+    },
+    "schema": [
+      null
+    ],
+    "rest": true,
+    "jwt": {
+      "role": {
+        "env": null
+      },
+      "trie": null,
+      "worker": [
+        "queue",
+        1438,
+        "7692d3cafb75"
+      ],
+      "protobuf": null,
+      "hotfix": null
+    }
+  }
+}

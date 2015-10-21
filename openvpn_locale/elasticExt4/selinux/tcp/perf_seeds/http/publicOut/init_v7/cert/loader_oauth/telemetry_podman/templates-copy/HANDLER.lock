@@ -1,0 +1,84 @@
+{
+    "cookie": {
+        "crypto": [
+            {
+                "buffer": "ansible",
+                "frontend": "c82a5c993780"
+            },
+            {
+                "prometheus": 2734,
+                "buffer": true,
+                "regex": true,
+                "batch": "response",
+                "registry": 9207,
+                "firewall": "tools"
+            },
+            {
+                "config": null,
+                "sandbox": null,
+                "lib": true,
+                "handler": false,
+                "bloom": "release",
+                "mqtt": 6349
+            }
+        ],
+        "ansible": 6862,
+        "backup": [],
+        "loader": "0ab0336d61a4",
+        "column": [
+            {
+                "buffer": 2353,
+                "postgres": null,
+                "volume": "09aa4c7da00c",
+                "rsa": 797,
+                "entropy": null,
+                "udp": "359a9f20911d"
+            }
+        ]
+    },
+    "semaphore": {
+        "salt": "14705f48b1f2",
+        "nightly": "48d5c8dc5028",
+        "patch": true,
+        "jenkins": {
+            "migrations": [
+                true,
+                1007,
+                "1e5eda4a609f",
+                3339
+            ],
+            "kafka": {
+                "group": null,
+                "staging": true,
+                "token": null,
+                "vendor": 1494,
+                "router": false
+            },
+            "router": {
+                "firmware": null,
+                "index": null,
+                "graphql": null,
+                "object": "cache",
+                "regex": "35b1a1193b8a"
+            },
+            "worker": true,
+            "config": false
+        },
+        "zfs": [
+            true
+        ],
+        "prod": 9766
+    },
+    "ansible": {
+        "adapter": {
+            "sha256": true
+        },
+        "crypto": true,
+        "lib": "proxy",
+        "sdk": "vault",
+        "dist": {
+            "nginx": 5833
+        },
+        "index": "ce1eabd5a1bd"
+    }
+}

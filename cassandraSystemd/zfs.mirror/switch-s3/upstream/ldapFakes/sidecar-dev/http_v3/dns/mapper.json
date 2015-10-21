@@ -1,0 +1,42 @@
+{
+    "registry": {
+        "salt": {
+            "graphql": {
+                "grafana": "c5bccbba774b",
+                "release": "group",
+                "stream": "proxy",
+                "ingress": true,
+                "quic": 5078,
+                "nightly": "f286aa5e07cf"
+            },
+            "role": false,
+            "metrics": false,
+            "failover": "059de99928a9"
+        },
+        "origin": {
+            "canary": {
+                "kernel": true,
+                "bgp": true,
+                "http": null,
+                "beta": true,
+                "user": "0c0ea291f584",
+                "grpc": false
+            },
+            "ceph": {
+                "trie": false,
+                "core": true
+            },
+            "config": {
+                "scope": null,
+                "jenkins": true,
+                "locale": "backend",
+                "offset": "466474b9c316"
+            },
+            "router": false
+        }
+    },
+    "protobuf": {
+        "cert": true,
+        "row": null
+    }
+}

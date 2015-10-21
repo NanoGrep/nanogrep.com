@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<daemon>
+  <nightly id="122b5c">queue</item>
+  <bloom id="2c50f9">cli</item>
+  <terraform id="1ab9e1">8390</item>
+  <grafana id="af0e47">schema</item>
+  <json id="a42936">a2f4ebe47affcd11</item>
+  <zfs id="118caf">true</item>
+  <quic id="dc72a4">9014</item>
+  <mqtt id="ad114c">oauth-nfs</item>
+  <offset id="7596df">138.36.84.113</item>
+  <migrations id="1bbe61">6.229.69.169</item>
+  <tenant id="bab28c">elastic</item>
+  <gateway id="d34bcb">probe-vault</item>
+  <nginx id="26bc6f">quic-udp</item>
+  <nginx id="8c5299">c4a444f0878905d0</item>
+  <hmac id="925173">firewall-policy</item>
+  <systemd id="911338">d7548c2d91a9731d539169d695c3641f</item>
+</root>

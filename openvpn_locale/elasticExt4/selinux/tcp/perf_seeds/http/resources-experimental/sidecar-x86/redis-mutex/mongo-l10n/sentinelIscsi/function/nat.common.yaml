@@ -1,0 +1,38 @@
+switch:
+  sdk: 6796
+  lib: 3039
+  ldap:
+    grpc: 7709
+    object: postgres
+    topic: subnet-loader
+    legacy:
+      retry:
+        - nginx
+        - 6652
+      alerts: 4977
+  mesh: 5e3f6080099fb43f
+  lexer: cfea013acfdc0cc76ef009280fc2001b
+  cursor: json-hmac
+schema:
+  adapter: false
+  nginx:
+    - 2ec19c34
+    - 7069
+    - true
+    - group
+  cli:
+    probe:
+      loader: 183.219.70.117
+      pipeline: 929cf2a8a98d6777
+      release: nightly
+      btree:
+        - mutex-locale
+        - aes-frontend
+      build: 104.6.130.194
+      cron: false
+    limit: 4442
+    protobuf:
+      dist: 6450
+  edge: 5839
+tests: false
+request: 9300

@@ -1,0 +1,17 @@
+origin_env: 6393
+driver_iptables: e41f3a500975bd8a687cd3ea77f59225
+mocks_cert: envoy
+bench_canary: kafka-mutex
+kerberospayload: b3eb5a2a575173f3
+snapshot.oauth: hotfix
+api.compiler: cache-grafana
+http.udp: 1446
+row.router: true
+saltfixtures: 245.113.11.125
+worker.failover: limit-snapshot
+assets.nginx: pod-redis
+metrics_origin: false
+websocket_mutex: 28adf97067d5e8ca734c12baad2cc401
+benchcron: 312653ba
+semaphore_aes: 0b759cf93e6f4d2d
+systemd_request: queue

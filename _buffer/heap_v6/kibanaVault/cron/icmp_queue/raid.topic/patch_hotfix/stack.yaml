@@ -1,0 +1,10 @@
+buffer: false
+storage: 119.52.142.28
+upstream: true
+prod: object
+cron:
+  tls:
+    - proxy-tools
+  core:
+    - mesh
+  factory: driver-canary

@@ -1,0 +1,36 @@
+{
+  "shard": {
+    "firewall": null,
+    "lambda": null,
+    "helm": {
+      "protobuf": {
+        "probe": "96c9b06ca0c8",
+        "socket": "mqtt"
+      },
+      "core": "d833d39a4641",
+      "cert": [],
+      "firmware": {
+        "heap": "8d9fb3b954ea",
+        "payload": "parser"
+      }
+    },
+    "hashmap": [
+      "jwt",
+      {
+        "grpc": false,
+        "subnet": 7541,
+        "metrics": false,
+        "core": 1726,
+        "session": "ded2ab749710",
+        "rollback": "pod"
+      },
+      {
+        "socket": false,
+        "config": null,
+        "heap": false
+      },
+      null
+    ],
+    "oauth": []
+  }
+}

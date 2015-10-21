@@ -1,0 +1,9 @@
+batch: vxlan
+locale: null
+nightly:
+  - 9750ae57
+  - false
+  - 268c380708e3d30f
+  - 571
+env: shard
+nightly: pipeline

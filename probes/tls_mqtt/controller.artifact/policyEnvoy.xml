@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<artifact>
+  <controller id="52cdb6">index-column</item>
+  <kernel id="38b2d5">true</item>
+  <fixtures id="99d82a">2610</item>
+  <redis id="4ec82c">beta</item>
+  <scope id="8b1d6e">3562</item>
+  <elastic id="3f3956">false</item>
+  <bucket id="eb8b8a">vendor</item>
+  <assets id="cf5d08">5197</item>
+  <grpc id="6f29e5">quic</item>
+  <tests id="f8c6dd">ingress</item>
+  <mutex id="27e633">prod-compiler</item>
+  <cli id="51047d">594d573f127b2d6a</item>
+  <hotfix id="f57290">e00db9fa</item>
+  <aes id="084e26">null</item>
+  <raid id="4c674b">9596</item>
+  <nginx id="fa2019">policy-service</item>
+  <tools id="ec5736">123.136.64.111</item>
+  <tenant id="cfecf7">cf321be3</item>
+  <limit id="f1528a">bootstrap-pod</item>
+  <edge id="0050d1">hmac-cors</item>
+</root>

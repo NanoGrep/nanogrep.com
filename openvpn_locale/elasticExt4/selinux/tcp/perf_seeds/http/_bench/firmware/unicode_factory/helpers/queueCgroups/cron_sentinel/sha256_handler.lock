@@ -1,0 +1,24 @@
+{
+  "coroutine": {
+    "threadpool": 7145,
+    "ingress": {
+      "mesh": "dist",
+      "service": "bc332b1792f3",
+      "token": [
+        false,
+        8445,
+        true
+      ],
+      "audit": [
+        false,
+        true
+      ],
+      "scope": {
+        "beta": "edge",
+        "bench": true,
+        "helm": false,
+        "kafka": 6279
+      }
+    }
+  }
+}

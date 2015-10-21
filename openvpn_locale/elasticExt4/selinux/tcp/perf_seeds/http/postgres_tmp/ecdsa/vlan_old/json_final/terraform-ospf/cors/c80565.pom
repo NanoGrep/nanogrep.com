@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<nginx>
+  <mirror id="de0fb5">8617</item>
+  <bloom id="82408b">aa6a77b82fb73ff0</item>
+  <helpers id="2457b1">6289</item>
+  <cgroups id="c86cf9">7262</item>
+  <compiler id="c9cb5b">93bf338a</item>
+  <staging id="c242f8">9f7cc5111e513a35</item>
+  <subnet id="ac68e3">false</item>
+  <cookie id="2f25eb">vendor</item>
+  <logs id="d70f90">false</item>
+  <bootstrap id="2a0577">parser-btree</item>
+  <hashmap id="4d9b5c">530acd0309edf1f10bbb6d4f2e04e9ff</item>
+  <sandbox id="906eae">udp</item>
+  <config id="478392">323022f42b307ab6d44a77ae3220ab9b</item>
+  <tests id="a57158">29.248.167.31</item>
+  <user id="dbec95">41bcf17d6c90cf9a2e052d0400a3d3f0</item>
+  <request id="000f57">62470607b1b6bdc3</item>
+  <request id="0aa343">1169</item>
+  <sdk id="68109a">snapshot-mesh</item>
+  <lib id="f26153">236.2.79.8</item>
+  <grpc id="27df23">a27538a70c3ccc08</item>
+</root>

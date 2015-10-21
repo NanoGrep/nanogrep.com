@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<jwt>
+  <cluster id="8c940d">rollback-firmware</item>
+  <gateway id="e5be63">67.30.197.128</item>
+  <helm id="feb6dc">null</item>
+  <handler id="d760bd">4133ab1844db0b2024090d3e71cc07ef</item>
+  <aes id="76d38a">8147</item>
+  <kafka id="1e1743">202.86.159.20</item>
+  <driver id="bec820">buffer</item>
+  <sdk id="1024a3">159.195.162.220</item>
+  <oauth id="01c0ad">5436</item>
+  <postgres id="e796b1">351ca027e8a0f5e6410d77caa2a034f3</item>
+  <failover id="b433b8">7141</item>
+  <runner id="acabd6">false</item>
+  <udp id="190da7">227450d336eda2f7</item>
+  <api id="f315f8">zfs</item>
+  <origin id="899b43">snapshot</item>
+  <cluster id="56cd6d">147.241.77.224</item>
+  <mocks id="4162b4">758a001976628aec5da54c3002a8eaf2</item>
+  <tools id="5e3462">d4fb5aeb</item>
+  <handler id="24f8b6">cron</item>
+  <mqtt id="e4e4bb">object</item>
+  <topic id="0ac015">0f011c4e6fda0ab1</item>
+</root>

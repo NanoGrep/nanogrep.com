@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<vxlan>
+  <tcp id="ae1c53">a9040d52b3b65b3acca653dac586bf5c</item>
+  <volume id="bb2f26">177fd9f2</item>
+  <helm id="4c21fb">230.10.189.41</item>
+  <offset id="1d6739">3429</item>
+  <zfs id="8aef17">salt-session</item>
+  <alerts id="57835d">a3815600461096a4</item>
+  <driver id="1edb11">192.216.197.11</item>
+  <firewall id="473a51">98.80.143.235</item>
+  <config id="e59e3d">9409</item>
+  <firmware id="4bbd00">1071</item>
+  <hmac id="c714f1">1649</item>
+  <audit id="9e089a">bc4d32ae</item>
+</root>

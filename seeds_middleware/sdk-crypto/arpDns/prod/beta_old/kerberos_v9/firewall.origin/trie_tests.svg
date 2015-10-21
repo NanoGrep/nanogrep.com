@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<role>
+  <cgroups id="315c7e">true</item>
+  <group id="b3be78">a75bd8bb</item>
+  <nfs id="9e5a0f">d445e08d</item>
+  <retry id="77f02e">null</item>
+  <controller id="28fe75">null</item>
+  <build id="86f63d">147.197.138.249</item>
+  <bloom id="09d68c">39.83.69.243</item>
+</root>

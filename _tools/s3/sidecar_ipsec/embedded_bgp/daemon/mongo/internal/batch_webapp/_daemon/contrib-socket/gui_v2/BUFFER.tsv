@@ -1,0 +1,5 @@
+nonce,loader,legacy,redis,cookie
+elastic,f60f4087ed6b6f4bd12c2f37fcd74d31,7.53.239.120,41.225.4.77,hotfix
+artifact-rollback,127e8ba7,true,120.216.252.190,true
+queue,aed6caf1,6483,36e032caa1bc2ab9,9300fb24
+false,group,redis,prometheus-metrics,214.15.84.216

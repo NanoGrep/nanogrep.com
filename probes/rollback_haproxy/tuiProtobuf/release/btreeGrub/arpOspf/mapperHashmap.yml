@@ -1,0 +1,16 @@
+driver:
+  socket: null
+  build: true
+  watchdog: null
+  vlan: true
+  cgroups:
+    tcp: null
+    assets: null
+sandbox: staging
+semaphore:
+  mocks:
+    - jwt
+    - false
+  assets: 4ed81f0bf43b8a45
+  snapshot: 252.210.57.9
+  cgroups: mysql

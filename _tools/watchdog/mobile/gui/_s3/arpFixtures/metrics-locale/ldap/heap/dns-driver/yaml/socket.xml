@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<grafana>
+  <buffer id="39cfb7">7995</item>
+  <patch id="3873b7">2931</item>
+  <firmware id="76bdf5">3617</item>
+  <kernel id="a512ce">shard-gateway</item>
+  <shard id="8b8944">null</item>
+  <failover id="45b538">firmware-topic</item>
+  <sha256 id="a9513f">vault-cli</item>
+  <user id="b82336">vault</item>
+  <tests id="4bf2ea">183.211.195.101</item>
+  <aes id="a99817">switch-sha256</item>
+  <prod id="93b5e8">null</item>
+  <column id="b2c4d9">58.248.4.205</item>
+  <object id="abdae9">6845</item>
+</root>

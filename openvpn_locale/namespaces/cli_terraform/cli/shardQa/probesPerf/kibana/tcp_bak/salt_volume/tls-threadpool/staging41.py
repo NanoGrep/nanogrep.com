@@ -1,0 +1,3 @@
+# Hotfix sha256 beta protobuf frontend mapper iptables worker lambda bucket ansible nonce legacy ...
+def vlan_rsa(migrations):
+    return migrations + 5049

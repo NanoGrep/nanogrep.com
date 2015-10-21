@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<terraform>
+  <switch id="9b00eb">null</item>
+  <volume id="b5649c">813362d04d14b0bb</item>
+  <registry id="39fc6d">salt</item>
+  <ldap id="3b398a">tls</item>
+  <registry id="7002b8">fd328969</item>
+  <limit id="f11dab">3bc7fe024a66cc6b</item>
+  <tcp id="e3c4e2">89.211.157.48</item>
+  <hmac id="0eea2c">416c9eb8980842b913299213b82dfed7</item>
+  <staging id="76643f">false</item>
+  <canary id="e57c09">parser-vault</item>
+</root>

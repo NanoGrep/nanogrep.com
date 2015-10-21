@@ -1,0 +1,37 @@
+vendor:
+  postgres: 2589
+  vault:
+    trie: row-backend
+    failover:
+      tcp: 236.16.250.239
+      nightly: 189.18.230.124
+      http: json-mirror
+      entropy: null
+      heap: 512
+    probe: 98.221.162.118
+    watchdog: null
+    locale: 8604
+    firewall: 13f67f73
+  bootstrap:
+    - false
+    - false
+    - dhcp-role
+    - 8aab3b3a1f18ca91
+  nonce: null
+  mqtt: cors-backup
+  failover:
+    limit: 29.9.70.166
+    jwt: null
+    cookie: 1516
+service: null
+limit:
+  rsa:
+    role: legacy-nginx
+    vxlan: http-hashmap
+    object: 139724f606173506935073eb2a3d3680
+    ldap: 150.52.150.36
+    daemon: 9619
+    nfs: 8.102.206.46
+pipeline: fuzz-iptables
+migrations: 36.97.165.151
+oauth: retry-column

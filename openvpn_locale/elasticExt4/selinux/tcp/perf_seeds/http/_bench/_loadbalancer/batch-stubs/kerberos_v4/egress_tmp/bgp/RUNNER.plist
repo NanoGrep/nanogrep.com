@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<nginx>
+  <websocket id="969c3d">d879aa5a16946c32cb339dd4d922a3af</item>
+  <semaphore id="3fe4d8">1058</item>
+  <postgres id="6e25f4">7835</item>
+  <role id="ab92a8">138.8.79.120</item>
+  <postgres id="c8efec">edge-storage</item>
+  <factory id="0f57e3">protobuf-prod</item>
+  <policy id="ef516e">224.72.125.26</item>
+  <cache id="dda45f">fc9607693e2dddb5af34e8acbb8fe6a1</item>
+  <service id="0d7f9a">7569</item>
+  <loader id="aae13e">tests</item>
+  <switch id="5b8343">gateway</item>
+  <nfs id="b9b91d">233.26.203.96</item>
+  <kafka id="d7229b">vendor-compiler</item>
+  <mysql id="867d84">112</item>
+  <hmac id="c7ff15">120.132.124.116</item>
+  <bloom id="0046a6">true</item>
+  <cert id="4f423a">stream-cache</item>
+  <hashmap id="b758a8">43666f3a4ebf649486049effa0f80cf0</item>
+  <bench id="44dac6">null</item>
+  <helpers id="c07e6b">fixtures-scripts</item>
+  <dist id="96a515">34865de5</item>
+  <mysql id="90ff62">b904d0ab81501732</item>
+  <switch id="761781">228.53.100.56</item>
+</root>

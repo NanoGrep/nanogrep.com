@@ -1,0 +1,85 @@
+vault:
+  stream:
+    elastic:
+      stream: 5703
+      prometheus: null
+      kernel: false
+      mesh: 146.63.32.104
+    table:
+      ceph: shard-vlan
+      ansible: 3ff683439a8c0b4a
+      pipeline: 470
+      staging: hashmap-role
+      cookie:
+        - 97ed76fe
+        - table-firmware
+    prod: false
+    batch: 77.240.74.108
+    crypto:
+      - false
+      - 294
+      - 30.37.109.204
+    sha256: loader-compiler
+  tls:
+    - 9dd13386
+  subnet: service-mocks
+  hmac:
+    socket:
+      - utils-socket
+    runner: 8497
+  trie:
+    core: 0a38dde8
+    origin:
+      rollback: 249.70.91.53
+      volume:
+        - 4c17b6ba5803793d
+        - 156.137.239.164
+        - true
+      dist: false
+      mirror: 17b1c7d3ff50ec81
+      session: 227.204.156.129
+    batch: session-alerts
+mocks:
+  crypto: 152.27.201.58
+  nat:
+    vxlan: user-coroutine
+    offset:
+      origin:
+        - 3432
+        - cookie
+        - 8db60c223db18649
+  config: 2283
+  column: 8676279e897726a9bd632f344b15c48e
+  buffer:
+    hmac: mongo-protobuf
+    mqtt:
+      session:
+        - true
+        - 0d7797da7d18bd1ffc670ca7ebb334fa
+        - 142.3.83.26
+        - true
+      http: 220.72.69.200
+      session:
+        - 8082
+        - 9819
+      subnet:
+        - 816ad871
+    firmware: 6276f389
+    grpc: loader
+stream: 2395
+nonce:
+  canary: 144.44.19.180
+  hotfix:
+    - mirror-staging
+    - 9096
+  hashmap: lambda
+  scripts:
+    - false
+    - 203.47.84.204
+  helm:
+    - 79.44.231.10
+    - cert
+proxy:
+  http: index-prod
+  wireguard: 6440966a152713c3eb64a6bdcda16405
+  daemon: 58d1d674b23a01fa

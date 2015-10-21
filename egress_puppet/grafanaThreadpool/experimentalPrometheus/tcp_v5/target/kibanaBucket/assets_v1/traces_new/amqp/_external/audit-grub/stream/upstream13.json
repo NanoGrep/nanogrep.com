@@ -1,0 +1,56 @@
+{
+    "bucket": "handler",
+    "grafana": {
+        "snapshot": {
+            "retry": {
+                "prod": 125,
+                "templates": "ansible",
+                "user": "assets",
+                "ingress": "config"
+            },
+            "offset": [
+                "column"
+            ]
+        }
+    },
+    "hotfix": "4af10d3281c7",
+    "utils": "common",
+    "origin": {
+        "migrations": {
+            "helpers": {
+                "cookie": null,
+                "tools": true
+            },
+            "tools": false,
+            "coroutine": {
+                "postgres": null
+            }
+        }
+    },
+    "core": {
+        "row": {
+            "prometheus": "8296f18186dd"
+        },
+        "volume": [
+            4320,
+            []
+        ],
+        "salt": "e1ed0e40cf2d",
+        "config": [
+            {
+                "traces": true,
+                "yaml": false,
+                "hmac": false
+            },
+            [
+                true
+            ],
+            {
+                "subnet": true,
+                "jwt": 4864,
+                "rsa": "ef9045636ae3"
+            },
+            7399
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+bench: 4446
+tcp: 130.156.198.116
+mesh:
+  pod:
+    - 22.245.209.184
+    - middleware-protobuf
+  rollback: 15f6bbfcb68bb701
+  wireguard: 137.19.52.54
+token: 24bb83e625df4e8c

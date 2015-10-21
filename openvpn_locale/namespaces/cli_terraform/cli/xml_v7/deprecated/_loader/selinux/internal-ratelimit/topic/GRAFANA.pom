@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<replica>
+  <cron id="1fc8a2">buffer-systemd</item>
+  <raid id="30c070">lib-api</item>
+  <locale id="40e95b">release-firmware</item>
+  <row id="c40c84">1d9b2c4f398037abd0d339237de7228e</item>
+  <queue id="ce62f2">6666</item>
+  <node id="ecde04">17f2be080d115a8f</item>
+  <audit id="650039">ed74333dc2145875</item>
+  <grpc id="1e5778">6000</item>
+  <audit id="1dc473">true</item>
+  <index id="93b2ec">false</item>
+  <hmac id="89b3ef">null</item>
+  <canary id="728005">a1ef0d061f4d65351b78bad61db90169</item>
+</root>

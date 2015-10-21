@@ -1,0 +1,53 @@
+kafka:
+  oauth:
+    - null
+  response: 245.225.249.86
+  storage:
+    socket: true
+    group: salt-rest
+    cookie:
+      mocks: 5163
+      mongo: 5800
+      column: sdk-prometheus
+    mocks:
+      role: 66.116.217.252
+      api: 9490
+      grpc: false
+      vendor: null
+      queue: 2483
+      vxlan: c7cc8a3915d69b07
+    daemon: 1117
+    mocks:
+      fixtures: true
+  shard: false
+patch: 233.47.39.117
+udp:
+  - dfa963b386421824
+rest:
+  index:
+    - 41911dc3c57b8e23
+    - queue
+    - oauth
+  topic: 196.151.168.232
+  rollback:
+    - queue
+    - 178.70.178.225
+    - 254.234.164.234
+    - mqtt-nginx
+  stack:
+    prometheus:
+      helpers: 183.154.212.229
+    semaphore: 27.32.20.163
+    helm: 116.56.163.210
+    quic: 38.243.167.174
+    tls: 248.94.201.163
+    json:
+      middleware: switch-mutex
+      mongo: 43.151.31.107
+      service: 1305
+      hmac:
+        - 40.6.90.94
+        - null
+      pod: vxlan
+      metrics:
+        - bb9699ef8de405ca

@@ -1,0 +1,7 @@
+coroutine:
+  tls: e3cee27c
+  canary: nat-utils
+  tls:
+    - 72.226.245.250
+    - true
+    - kerberos-gateway

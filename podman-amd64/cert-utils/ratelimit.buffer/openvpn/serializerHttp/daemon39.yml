@@ -1,0 +1,13 @@
+logs:
+  policy: bench
+vxlan:
+  - c7495c2edc866ac1
+  - 7923
+  - mqtt
+  - cursor-controller
+vlan:
+  bgp: true
+  utils: scripts-bootstrap
+api: 82e01a3a46e20bf5a5b1452ec23d2d38
+common:
+  object: buffer-terraform

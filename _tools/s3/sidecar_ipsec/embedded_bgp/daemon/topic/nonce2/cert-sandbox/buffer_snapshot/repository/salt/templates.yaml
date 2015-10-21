@@ -1,0 +1,41 @@
+switch: null
+backup:
+  request:
+    - 4965
+    - scheduler
+  yaml:
+    - 5124a516
+    - scope
+    - 32.192.176.183
+    - null
+  cluster: 3247
+  sha256: 189125e99640a848efc63d053eb4d6d8
+  patch:
+    common:
+      systemd: bgp
+      config: 4216
+    batch:
+      rsa: 19632fe45bd58a80
+    staging: token-envoy
+    templates:
+      proxy:
+        - cb627337f9089a3e6fb95f3bce34d3cb
+      cert:
+        - false
+      watchdog:
+        - regex
+    aes: null
+    ingress:
+      build: 315
+      subnet: 7f23cae3
+      kerberos:
+        - null
+        - object
+        - null
+      service: 4823
+      driver: 9cf31d90be63f79f76022b8ef02c5b0e
+      alerts: 37.0.11.221
+snapshot: true
+payload:
+  service: nfs
+zfs: nat-jenkins

@@ -1,0 +1,4 @@
+nginx: 304
+bench: canary
+limit: 2692d4e35dae716f47b4540bb6ccc06c
+http: 4192

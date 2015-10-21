@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<nightly>
+  <elastic id="401c2a">19f54a7f7d779bd5</item>
+  <mysql id="bc2af7">false</item>
+  <mutex id="d31813">103.9.242.73</item>
+  <artifact id="a6e45a">false</item>
+  <topic id="15dd2c">151.161.254.169</item>
+  <nightly id="e82ba1">cron-utils</item>
+  <router id="205f6a">storage-zfs</item>
+  <buffer id="c820eb">15.148.20.98</item>
+  <sdk id="ba0986">242.38.134.105</item>
+  <switch id="ec37be">147.241.42.30</item>
+  <yaml id="d6da2d">helm-udp</item>
+  <mocks id="fc8239">2830050aa535ec4bb10e62ced2bf60b2</item>
+  <offset id="449654">33.234.114.52</item>
+  <tcp id="3cac13">5.210.71.144</item>
+  <upstream id="d6eef7">102.135.251.124</item>
+  <edge id="9e1835">303</item>
+</root>

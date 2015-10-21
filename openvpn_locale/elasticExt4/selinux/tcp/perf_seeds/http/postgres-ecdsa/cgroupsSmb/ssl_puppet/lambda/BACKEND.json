@@ -1,0 +1,13 @@
+{
+  "backend": {
+    "ansible": {
+      "protobuf": null,
+      "utils": 6546
+    },
+    "grafana": [],
+    "payload": {
+      "hashmap": false,
+      "frontend": false
+    }
+  }
+}

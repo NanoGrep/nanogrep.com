@@ -1,0 +1,7 @@
+traces: logs
+tenant:
+  - 1128
+  - switch
+  - policy
+  - 6733
+cors: 6c231d1a0c2b24b9c2f57567f1952286

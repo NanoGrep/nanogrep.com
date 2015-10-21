@@ -1,0 +1,19 @@
+backup:
+  - lexer
+heap:
+  cluster:
+    elastic: storage
+  hotfix: c2aaa7563a0305be0ffe0ded25fb51a4
+  vault: cgroups
+  tls:
+    - 3633
+    - service-raid
+    - 3011
+    - false
+  crypto:
+    cli: 9799
+    parser: true
+  firmware:
+    - 2806
+    - 2386
+    - 6e808e7dc359aa25

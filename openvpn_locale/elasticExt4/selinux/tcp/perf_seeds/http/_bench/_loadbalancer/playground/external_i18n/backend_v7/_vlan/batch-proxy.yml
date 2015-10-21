@@ -1,0 +1,58 @@
+bucket: bb837167debb24a36db745e2797d19e2
+replica:
+  buffer: 5343
+  payload:
+    json: response
+    middleware: 9469
+  audit: null
+  storage:
+    request: vault
+    subnet: payload
+  nat: 7621
+  zfs: 145.5.99.48
+index:
+  salt:
+    session:
+      - true
+      - 169.44.35.151
+      - scripts-handler
+      - null
+    object:
+      pipeline: stream
+    backend:
+      - ceph
+      - ansible-cursor
+      - 78.193.240.86
+      - 167.123.35.199
+    loader: 158.187.222.27
+    templates: 523
+    cluster: 205.147.152.116
+  salt: false
+  config:
+    - 6033
+  nginx: pipeline-handler
+  request:
+    switch:
+      - 93.70.10.240
+      - 62.34.239.162
+      - 3c6b34a947d447ab
+    tenant:
+      upstream: 45.81.248.104
+      user: subnet
+      switch:
+        - 125.172.1.131
+    udp:
+      vault: request
+      token: metrics-kafka
+    nginx:
+      coroutine: 7150
+      firmware:
+        - 0a22175f2b47f8d17fee46dc11cc4356
+      cursor: 7262
+      session: 724
+      lib: 206.214.154.26
+      firmware: b47f78407967e75d
+    release:
+      sandbox: 4080
+      semaphore:
+        - 8015

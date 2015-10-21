@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<locale>
+  <proxy id="89e5f4">8469</item>
+  <api id="510c2c">rsa</item>
+  <nonce id="3a47d9">169.126.237.67</item>
+  <mutex id="49f02c">4176</item>
+  <ldap id="4e7a0c">locale-semaphore</item>
+  <mqtt id="e0c8f8">queue-dhcp</item>
+</root>

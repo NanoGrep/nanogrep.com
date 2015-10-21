@@ -1,0 +1,15 @@
+env: 162.220.210.223
+vlan:
+  semaphore: response
+  redis: salt
+buffer: null
+bootstrap:
+  terraform: 4412
+  cron: 172.10.105.59
+  request: backend-semaphore
+hotfix:
+  firewall: true
+  subnet: 2e245e1e
+  role:
+    cookie: service
+    pod: ef824f73

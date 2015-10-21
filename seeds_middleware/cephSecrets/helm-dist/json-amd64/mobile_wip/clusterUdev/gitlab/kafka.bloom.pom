@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<bgp>
+  <sdk id="83cd15">null</item>
+  <staging id="3bf4c6">893</item>
+  <response id="9509c8">true</item>
+  <parser id="cdad63">7175</item>
+  <queue id="8670a0">runner-prometheus</item>
+  <audit id="7d9d57">vault-cron</item>
+  <beta id="c257bd">aes</item>
+  <jwt id="b293d7">154.211.156.126</item>
+  <service id="c87921">a4195a7356d966c4f8b9cf80dbe0d744</item>
+  <protobuf id="986916">79489f70faf54a61</item>
+  <payload id="0910b8">ed89dc79</item>
+  <role id="9e9bee">true</item>
+  <redis id="f21147">true</item>
+  <shard id="cf5e40">index-buffer</item>
+  <failover id="ac48c1">sdk</item>
+  <terraform id="42e494">true</item>
+  <heap id="1260f2">tests</item>
+  <tcp id="cddefe">scope</item>
+</root>

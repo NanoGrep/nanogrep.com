@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<coroutine>
+  <tenant id="6a33de">firewall-mocks</item>
+  <sandbox id="061bce">release-fuzz</item>
+  <policy id="4f2653">1892</item>
+  <sandbox id="f9ed9e">96.224.154.239</item>
+  <helpers id="593dba">false</item>
+  <adapter id="330306">240.190.245.190</item>
+  <vendor id="d9b306">792</item>
+  <release id="ca50bf">69d584dd01e1e130</item>
+  <stream id="d7cbd9">artifact-hmac</item>
+  <cursor id="f39c20">9767</item>
+  <adapter id="bb0a71">topic</item>
+  <schema id="d3b29b">null</item>
+  <tcp id="ad3440">9010</item>
+  <tls id="00ae10">grafana</item>
+  <firmware id="b6562c">253.181.129.47</item>
+  <semaphore id="263280">snapshot-column</item>
+  <worker id="9f93e2">3977</item>
+  <audit id="bd5dab">false</item>
+</root>

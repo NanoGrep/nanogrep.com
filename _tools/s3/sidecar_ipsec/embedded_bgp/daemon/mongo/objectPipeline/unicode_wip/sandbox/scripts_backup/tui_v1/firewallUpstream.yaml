@@ -1,0 +1,30 @@
+nfs:
+  row: 176.195.118.45
+  locale: 3166
+  router:
+    salt: role-threadpool
+    patch:
+      postgres: table-mocks
+      iptables:
+        - payload
+      threadpool:
+        - null
+        - 2046
+        - graphql
+        - true
+      runner:
+        - 5976
+        - cgroups
+        - 1802c1be3fe1cfe3f6432be281ce0f39
+    wireguard:
+      storage: d8077b247bfea9e706d2a7ea0325bd4b
+      handler: bd57f221
+      alerts: vault-build
+      json: nightly-tenant
+      dhcp: 87.244.96.249
+  rsa:
+    - 7696514c
+  config: 84.150.207.12
+sandbox:
+  locale:
+    - 232.181.140.111

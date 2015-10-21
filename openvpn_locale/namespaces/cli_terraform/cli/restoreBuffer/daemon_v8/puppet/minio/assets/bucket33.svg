@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<mutex>
+  <dhcp id="4feba4">subnet-sdk</item>
+  <token id="2fcb5e">quic-rest</item>
+  <udp id="d99f20">5360</item>
+  <node id="d280c5">178.199.2.26</item>
+  <registry id="3c9616">config-artifact</item>
+  <controller id="613c89">d9bcf0f926da289d</item>
+  <trie id="4cd3ae">112.254.5.3</item>
+  <ansible id="c42935">hashmap-beta</item>
+  <daemon id="c111f9">false</item>
+  <dns id="0d64f5">hotfix-graphql</item>
+</root>

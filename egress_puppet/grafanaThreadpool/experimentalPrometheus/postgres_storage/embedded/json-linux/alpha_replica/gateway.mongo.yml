@@ -1,0 +1,56 @@
+metrics:
+  handler:
+    assets:
+      common:
+        - false
+        - jwt-policy
+      raid: 6287
+      vendor: null
+      sandbox: nightly
+      cookie: mesh-socket
+      schema: 8bfe9f29d114df5b
+  kafka: http-user
+entropy:
+  yaml:
+    staging:
+      dist:
+        - 183.80.66.33
+        - storage
+        - null
+        - 6744
+    canary: false
+    json: logs
+    beta: 3580
+    gateway:
+      threadpool:
+        - graphql
+      mapper: true
+      retry: 189.178.111.235
+      bucket:
+        - 9365
+        - proxy
+        - null
+      ingress: 173.109.127.244
+  sdk:
+    stream: 7338
+    role: jwt
+    runner: 3274
+    heap: row
+  beta: 87.65.163.76
+  semaphore:
+    backup:
+      - mongo-sandbox
+      - d4f99fff9f6ac754
+      - null
+      - 53.192.138.179
+    config:
+      systemd: b0c62f5d511db824682e3c2e6759ca9d
+    row: nfs
+    crypto: 31e2aae7
+    grafana:
+      middleware: json
+      watchdog: cache
+      jwt: false
+      tenant: 233.129.38.223
+      yaml: 5193
+semaphore: false

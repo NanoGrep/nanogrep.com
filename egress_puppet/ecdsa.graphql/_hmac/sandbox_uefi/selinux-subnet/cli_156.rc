@@ -1,0 +1,41 @@
+[controller]
+adapter.locale = 4997
+switchmongo = 490c1520d770e0ef
+backup.router = 6409
+router.ingress = null
+tests.hmac = worker-shard
+ansible.rest = 5265
+rsa_mqtt = locale
+rest.raid = true
+mutexorigin = 47.157.156.100
+tenant.storage = 7293c4d0
+mysql.mysql = prometheus-nfs
+prometheus.mocks = raid
+registry.traces = 4f8bc5b70ae8c1ed
+
+[buffer]
+zfscontroller = 1918aea166c1b6cb2e08b9ff26a1a866
+configoauth = worker-canary
+rest_mysql = 31523c09f40dcdfe
+audit.elastic = null
+sandbox_upstream = 3611
+mirror_nfs = runner
+dhcp_udp = topic-group
+tools.jwt = mapper-mongo
+
+[runner]
+limit.threadpool = kernel
+middleware_http = 4211
+mysql_token = api-helm
+assets_service = cors
+request.scope = 1800
+mqtt_artifact = prometheus
+grpc_runner = 3e068624073e9117d9f089fbced3a3e9
+topicmirror = 127ab0fe42096ded03a7d2db1e4a902c
+commonloader = true
+rest_queue = a3fecf99da33bff8
+templates.zfs = schema
+btree.limit = null
+daemon.lexer = true
+ingressgroup = 587
+tenantdns = schema

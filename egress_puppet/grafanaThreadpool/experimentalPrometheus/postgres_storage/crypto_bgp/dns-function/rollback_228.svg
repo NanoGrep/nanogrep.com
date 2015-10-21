@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<json>
+  <bgp id="8a2e58">ingress-zfs</item>
+  <cert id="fef99a">614</item>
+  <object id="e5a15b">false</item>
+  <cursor id="a33bc5">15.208.35.23</item>
+  <graphql id="b7c6d3">cb9969777d7babbc</item>
+  <mongo id="deacb5">27b706766cec6d1d</item>
+  <watchdog id="c72e12">salt-offset</item>
+  <nfs id="41ea69">3d5cf8d56ee390b563d534d52fb5f303</item>
+  <fixtures id="2ac1c4">138.195.96.40</item>
+  <redis id="8ce0ed">893b3a1e</item>
+  <mesh id="b91cd4">1681</item>
+  <daemon id="3653fc">2e474caf</item>
+  <group id="fc8e24">7718</item>
+  <policy id="fa87bd">5440</item>
+  <udp id="615036">kafka-heap</item>
+  <bgp id="dabf40">traces</item>
+  <edge id="1ad0b7">9999</item>
+  <cursor id="c7c3c0">199.170.153.20</item>
+  <scope id="7e03e7">83.57.50.57</item>
+</root>

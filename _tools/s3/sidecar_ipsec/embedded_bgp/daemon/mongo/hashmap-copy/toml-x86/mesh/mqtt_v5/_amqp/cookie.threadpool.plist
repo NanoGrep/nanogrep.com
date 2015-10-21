@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gateway>
+  <vxlan id="fadd9f">486f93de68e14f168cb8e83bd961151a</item>
+  <hmac id="c9d4dc">299</item>
+  <tenant id="01bac4">true</item>
+  <build id="1c598f">switch</item>
+  <cors id="0e44cc">128d35fa</item>
+  <systemd id="49b806">573</item>
+  <fixtures id="0226b7">systemd</item>
+  <regex id="434b69">170d9b2f</item>
+  <quic id="eabcb5">failover-proxy</item>
+  <daemon id="9e038e">scope-limit</item>
+  <hotfix id="05136b">7474</item>
+  <storage id="507389">951d0007d3da7663</item>
+  <nightly id="847470">cache-upstream</item>
+  <backup id="f33af2">156.73.227.6</item>
+  <json id="f49a3b">99e2f92a3e05e7ae</item>
+  <artifact id="a6aa2f">26ccd4ae8ffac7053cac99b670e1e1e2</item>
+  <batch id="6d9c84">null</item>
+  <json id="9ab71f">false</item>
+  <storage id="bb194c">e5f9ccb537283f1a3fca5e452697b05b</item>
+  <trie id="b9c258">aba4ee71</item>
+</root>

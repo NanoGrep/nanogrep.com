@@ -1,0 +1,11 @@
+audit:
+  driver: 094d97b6d596aa02
+  http: 9260
+  ingress:
+    object: 89a96405
+    cursor: firewall-shard
+    zfs:
+      - 2089
+      - lambda
+      - 157.162.216.75
+    zfs: regex

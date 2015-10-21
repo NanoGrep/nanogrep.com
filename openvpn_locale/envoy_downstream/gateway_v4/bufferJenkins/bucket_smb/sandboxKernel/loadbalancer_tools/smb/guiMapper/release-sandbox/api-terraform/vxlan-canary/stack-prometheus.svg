@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<jenkins>
+  <gateway id="05dcb5">cb6915f899b87693b67d248ca62fdfc5</item>
+  <compiler id="f8d68c">true</item>
+  <handler id="a9e3de">vxlan</item>
+  <dns id="9cc3ed">lib</item>
+  <cursor id="5c801a">mapper</item>
+  <proxy id="0221dc">traces-common</item>
+  <assets id="de604d">acff0b941346c780</item>
+  <group id="6992db">236.225.94.41</item>
+  <probe id="1f77a8">null</item>
+  <grafana id="03896b">2158</item>
+  <dist id="416317">false</item>
+  <worker id="39a175">7f4fde7ec5d9aca1</item>
+  <dns id="b3fc70">4782</item>
+  <common id="7b6864">true</item>
+  <lib id="cbe43d">38.194.98.167</item>
+  <pipeline id="96c5da">6402</item>
+  <postgres id="908f9d">false</item>
+  <schema id="53b184">3362</item>
+  <replica id="cb7020">shard</item>
+  <kerberos id="1b4cbd">21fbe7c9f16103fd</item>
+  <nonce id="d9a6e2">49da40c8e8f6e0ed</item>
+  <rest id="51cb6b">220.181.226.162</item>
+</root>

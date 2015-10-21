@@ -1,0 +1,14 @@
+parser: true
+nginx:
+  nginx: 140.219.12.39
+  probe: 10d01432
+  middleware: driver-ldap
+  volume:
+    - metrics
+    - snapshot
+    - 0ea0b940035a95476de7f04f17bb74e0
+  terraform: db396457
+payload: 46a30af4aaa734e5dfdc3543bb8354f3
+ansible:
+  failover: false
+mutex: a1063d376445fba27b2f2e64c683ae33

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<mongo>
+  <mqtt id="b703bb">true</item>
+  <hotfix id="7c065c">dd91cead</item>
+  <ansible id="7acb54">100.172.220.96</item>
+  <kafka id="476d1e">volume-iptables</item>
+  <yaml id="c3c5ec">false</item>
+  <daemon id="5d10fd">node-snapshot</item>
+  <dist id="704f19">3272</item>
+  <lib id="98cba1">false</item>
+  <dhcp id="1895c4">fuzz</item>
+  <scripts id="46a83f">true</item>
+  <parser id="be0e4f">96.142.96.96</item>
+  <assets id="b648b4">tls</item>
+  <failover id="5f5170">false</item>
+  <grafana id="6b61a5">7686</item>
+</root>

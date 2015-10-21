@@ -1,0 +1,33 @@
+redis:
+  crypto: 464
+  cors: 33.156.87.223
+  core: d5435b1a7a4c7de7
+  user:
+    proxy: bloom
+    grafana:
+      worker:
+        - false
+        - ed28e9a07d59441f
+      offset: probe-backend
+      heap: batch
+    alerts:
+      tenant:
+        - false
+        - af4d5aac5ea9974b
+        - group
+      bucket: 202.199.238.167
+    canary:
+      tests:
+        - true
+      schema: 5272
+      traces: 9448
+      backend: 91.208.47.125
+    cache: fa7b37c0
+sdk: 248.243.80.118
+ingress: schema-shard
+iptables: 9307
+volume:
+  json: 0f990c975f3b6938
+  core: cors-bgp
+  templates: 4608
+socket: 613

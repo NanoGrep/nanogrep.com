@@ -1,0 +1,72 @@
+[
+    {
+        "logs": [
+            5105,
+            false,
+            {
+                "scope": true,
+                "redis": true,
+                "tests": true,
+                "backup": null,
+                "switch": true
+            }
+        ],
+        "probe": 1139,
+        "sdk": [],
+        "frontend": false
+    },
+    {
+        "api": {
+            "policy": {
+                "patch": true
+            },
+            "jenkins": {
+                "cluster": true,
+                "gateway": 8946,
+                "systemd": null,
+                "alerts": "1d3569830c90",
+                "hmac": "replica",
+                "mongo": false
+            },
+            "dns": {
+                "helm": 8289,
+                "tcp": "b9021810f813"
+            },
+            "offset": "5a0fcbec7cad",
+            "envoy": {
+                "limit": 6674,
+                "elastic": true,
+                "cert": 390,
+                "group": null,
+                "yaml": true,
+                "grafana": "kafka"
+            }
+        },
+        "bucket": "6b4ff7cc69dd",
+        "cluster": {
+            "role": {
+                "build": false,
+                "http": "schema",
+                "audit": null,
+                "bgp": true
+            },
+            "btree": {
+                "driver": null,
+                "vlan": "458cf1956489",
+                "heap": 7091
+            },
+            "artifact": {
+                "tenant": 1612,
+                "jenkins": null,
+                "dist": false,
+                "salt": false,
+                "edge": true
+            }
+        },
+        "socket": false,
+        "storage": {
+            "json": false,
+            "env": null
+        }
+    }
+]

@@ -1,0 +1,5 @@
+pod: yaml
+threadpool: salt-loader
+router: 154.159.124.247
+vlan: buffer
+factory: nginx

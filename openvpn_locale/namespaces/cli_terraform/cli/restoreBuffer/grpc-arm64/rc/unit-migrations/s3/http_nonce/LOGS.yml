@@ -1,0 +1,15 @@
+grafana: cluster
+pipeline: 0ee5196bdf604aa9
+wireguard:
+  - cli-nat
+  - 9266
+trie: 5195ce5dd97d67b07048e1b6272c5a84
+metrics: semaphore
+firmware:
+  sdk: null
+  batch: coroutine-backend
+  json:
+    - pod-cache
+    - locale-canary
+    - e4c26dcfb8d15fbc
+    - 199.47.134.109

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<tools>
+  <tests id="50f8eb">232.44.241.167</item>
+  <cli id="d683fd">prod-backend</item>
+  <role id="bbde09">true</item>
+  <vendor id="b3141a">request</item>
+  <column id="6154ac">e0af473f</item>
+  <mocks id="a4f6e3">compiler-nginx</item>
+</root>

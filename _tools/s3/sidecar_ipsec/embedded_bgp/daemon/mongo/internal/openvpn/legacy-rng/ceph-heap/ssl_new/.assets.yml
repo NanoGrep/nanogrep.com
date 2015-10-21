@@ -1,0 +1,36 @@
+request: 3976
+jwt:
+  api: replica-token
+  factory: cursor
+  cron:
+    lib:
+      - retry
+    common: ebb53116
+    audit: 226.69.122.174
+    hotfix: 181.165.3.173
+    mqtt: 7658
+  column: vendor
+  websocket: daemon-cache
+  iptables:
+    pod:
+      - cli-session
+kafka: volume
+templates: null
+assets:
+  subnet: router-config
+  role:
+    vxlan: f4aa5360
+    watchdog:
+      sdk: true
+      cron: volume
+      token: 09f5bcb8
+    nightly:
+      ceph: 229.195.150.215
+      staging:
+        - utils
+        - null
+      mqtt: 14.132.84.18
+      handler: 78.75.77.199
+      daemon: crypto-canary
+      factory: coroutine
+    group: 43133cdd

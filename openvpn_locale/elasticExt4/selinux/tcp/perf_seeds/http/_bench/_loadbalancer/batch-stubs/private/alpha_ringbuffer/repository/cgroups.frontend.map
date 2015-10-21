@@ -1,0 +1,22 @@
+{
+  "systemd": {
+    "response": {
+      "factory": {
+        "prometheus": 7054,
+        "rest": true,
+        "handler": true,
+        "policy": null
+      },
+      "protobuf": {
+        "session": false,
+        "schema": true,
+        "heap": "ansible",
+        "logs": false,
+        "ceph": null
+      },
+      "release": [
+        "52f47e92d007"
+      ]
+    }
+  }
+}

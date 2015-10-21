@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<lexer>
+  <patch id="0f4329">mqtt</item>
+  <stream id="b950b8">hotfix-mocks</item>
+  <nfs id="1dd4ce">2203</item>
+  <router id="26337a">rest-tls</item>
+  <mysql id="6f27eb">false</item>
+  <semaphore id="295a52">5410</item>
+  <grpc id="98bd69">true</item>
+  <zfs id="1f7e02">0b2cb96be4646dc60b0f077c539fe258</item>
+  <registry id="f618af">92.41.156.41</item>
+  <rsa id="4a09e4">bloom-prod</item>
+  <vlan id="469a99">semaphore-response</item>
+  <api id="5435b7">242.253.81.235</item>
+  <registry id="426057">8445</item>
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<tenant>
+  <mirror id="459c40">50.119.23.76</item>
+  <vault id="db0548">null</item>
+  <bucket id="87ad11">ansible-hmac</item>
+  <node id="bc5ea6">shard-assets</item>
+  <lambda id="e5d2cd">nginx-cli</item>
+  <snapshot id="d3deb8">cf6093106f34cab3</item>
+  <firmware id="7c7ecb">false</item>
+  <udp id="869a73">c18c51f2e8921bf0</item>
+</root>

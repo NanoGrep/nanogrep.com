@@ -1,0 +1,19 @@
+traces:
+  lib: 214.250.165.171
+  firmware: 639c98d7
+  switch: 131.196.73.166
+lexer: 307
+vxlan:
+  bgp: false
+  node: dfa21820915091f6
+  sdk: null
+  table: metrics-mqtt
+cookie: cert-redis
+adapter:
+  wireguard: udp-watchdog
+  cursor: release
+  aes:
+    bgp: compiler
+    jenkins: 1084
+  nfs: 5284
+volume: 2.176.150.209

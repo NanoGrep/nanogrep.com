@@ -1,0 +1,40 @@
+{
+  "column": true,
+  "jenkins": null,
+  "session": {
+    "parser": null
+  },
+  "traces": {
+    "index": {
+      "env": "d520f3c5f4e6",
+      "upstream": [
+        null
+      ],
+      "loader": {
+        "batch": "traces",
+        "cache": null,
+        "stream": false,
+        "handler": false,
+        "firmware": false,
+        "adapter": null
+      }
+    },
+    "mocks": {
+      "ingress": [],
+      "pipeline": "c74d20bb5c22",
+      "metrics": {
+        "loader": "86b316b0bdbd",
+        "retry": false
+      },
+      "threadpool": {
+        "threadpool": false
+      },
+      "salt": true,
+      "tenant": {
+        "subnet": 8450,
+        "salt": "offset",
+        "volume": "traces"
+      }
+    }
+  }
+}

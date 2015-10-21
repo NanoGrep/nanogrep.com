@@ -1,0 +1,23 @@
+grafana:
+  storage: false
+  dist:
+    kerberos:
+      mysql: driver
+    assets: 211.201.130.180
+    core:
+      rest: protobuf
+      factory:
+        - b5b9a72f37a14d5163b2f46a25078bdd
+        - grafana-terraform
+        - parser-dist
+        - salt
+      vendor:
+        - 9045
+        - policy-websocket
+    failover: env
+  router:
+    frontend: a53b9306a930544f
+    worker: tcp
+    lambda: zfs
+  registry: 681b6d73
+assets: true

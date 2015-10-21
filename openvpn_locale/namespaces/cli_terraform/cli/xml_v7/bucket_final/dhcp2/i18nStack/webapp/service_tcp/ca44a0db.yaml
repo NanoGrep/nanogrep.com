@@ -1,0 +1,48 @@
+payload:
+  pod: 4656
+  schema:
+    shard:
+      rsa: topic-vlan
+      cors: 2346
+      watchdog: 50.75.222.123
+    tcp:
+      locale: true
+      firewall: 3907
+      env: 6114
+      cookie: b24283c51818786017c12c51601f0fea
+      bucket:
+        - 239.218.241.182
+        - vlan-prometheus
+        - false
+    tools: true
+    tenant: 3441
+    build: 68.26.120.6
+    upstream: true
+  helpers: aa601d958f9b570e
+  helpers: 86.144.2.35
+  snapshot:
+    controller: false
+    firmware:
+      - null
+      - 3186
+      - 1286
+      - 3296
+    schema: null
+    rsa: parser-offset
+    worker: 8c650659c5269228e1411ef76aa217ec
+  tls:
+    jwt: 447436c058f54f99
+    origin: true
+    retry:
+      batch:
+        - 8608
+      staging:
+        - 70b652e2
+        - gateway
+      cache: true
+    helm: cookie
+beta: 118.133.233.250
+bootstrap: 405
+stream: ceph-grafana
+mongo: true
+kernel: 2626

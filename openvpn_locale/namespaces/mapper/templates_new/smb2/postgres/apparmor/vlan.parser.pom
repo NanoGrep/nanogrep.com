@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<oauth>
+  <scripts id="81459a">false</item>
+  <entropy id="e32cae">45e834eeeb02c28354648dfc0fd56fcf</item>
+  <postgres id="0da96f">cache-compiler</item>
+  <storage id="33fdab">4478</item>
+  <lib id="2fe4f4">53</item>
+  <helm id="ded778">false</item>
+  <salt id="cde340">18.41.117.80</item>
+  <nonce id="9f9530">2de324150397d1b2</item>
+  <kerberos id="e23d8e">a3c3c375e9d7d9c6</item>
+  <templates id="b8a611">false</item>
+  <hashmap id="c3f8fe">223.156.8.140</item>
+  <elastic id="240a9b">3222</item>
+  <proxy id="e61cab">grpc</item>
+  <runner id="e71a3e">f0498f5decf5672eb0813ca93b2f06cc</item>
+  <nonce id="a6eda0">false</item>
+  <audit id="5c0674">true</item>
+  <parser id="e59b4a">126.244.62.140</item>
+  <subnet id="a990e3">graphql</item>
+  <daemon id="8c087e">7012</item>
+  <worker id="712a44">7.21.198.251</item>
+</root>

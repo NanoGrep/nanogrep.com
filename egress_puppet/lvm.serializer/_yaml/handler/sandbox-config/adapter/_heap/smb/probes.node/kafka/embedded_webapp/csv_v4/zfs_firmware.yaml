@@ -1,0 +1,27 @@
+beta:
+  entropy:
+    - 5780
+    - stream
+    - d93f37bf2a534474
+  row:
+    wireguard:
+      - prod-gateway
+      - 248.203.140.76
+      - 6209
+      - null
+    router:
+      node: http-nginx
+      config: nightly-env
+    kafka:
+      edge: 1906
+      subnet: dns-user
+      salt: null
+    prod:
+      session: 8634
+      helm: mirror-cert
+      snapshot: watchdog
+      nat: 59.33.25.33
+      rsa: 2090
+    terraform: 581
+  nat: 7548
+http: 9da7a774

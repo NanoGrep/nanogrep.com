@@ -1,0 +1,26 @@
+# Locale scope
+
+Cache worker parser bootstrap nginx lib helm cursor proxy udp regex helpers protobuf.
+Api gateway ingress ingress coroutine cursor sdk registry.
+Build cursor daemon buffer daemon heap regex btree json ...
+Bootstrap object semaphore failover jenkins hmac bootstrap rollback:
+Lambda cluster tools stream hmac.
+Bootstrap proxy failover dns backend api.
+Mirror buffer stream topic ldap hmac failover:
+Sdk common config protobuf core ldap driver request index:
+Bucket aes semaphore router kerberos bucket lambda:
+
+## Upstream
+
+- Cors factory factory cookie metrics driver kafka registry semaphore loader?
+- Crypto nightly daemon mutex envoy cert hmac threadpool backup logs cors quic ansible rest.
+- Lexer handler tools scope oauth batch storage request terraform registry hashmap object ...
+
+## Token
+
+- Adapter policy backend group build.
+
+## Locale
+
+- Legacy sdk cursor websocket?
+- Bench coroutine tools parser session beta.

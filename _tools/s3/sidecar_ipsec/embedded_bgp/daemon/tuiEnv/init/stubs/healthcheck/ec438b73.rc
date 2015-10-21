@@ -1,0 +1,17 @@
+backendbuild=ea44ab45be21edd01a6895b145dbdfdb
+testshelpers=8401
+bloom_assets=subnet
+tlscolumn=lib
+quicservice=socket-kernel
+canarymirror=false
+migrations_middleware=grpc
+kerberos_patch=shard
+adapter.factory=240.222.6.146
+artifactworker=true
+controllerhelm=c2c1bfc0
+table.legacy=2498
+scheduler.assets=9516
+configbuild=167acd80
+pod_watchdog=true
+proxy.retry=true
+migrations_table=1646807e24092ae5

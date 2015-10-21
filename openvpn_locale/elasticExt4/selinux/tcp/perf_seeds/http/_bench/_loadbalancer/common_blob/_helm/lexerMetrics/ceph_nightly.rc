@@ -1,0 +1,40 @@
+[failover]
+handleransible = row
+worker.alerts = alerts
+vlansnapshot = null
+bloom_vendor = 9443
+dns_zfs = 165.226.253.234
+prod_bootstrap = 81.177.93.141
+traces_graphql = 38.168.120.53
+canaryschema = 5903
+dhcpceph = 18.106.212.196
+pipeline.router = e456e33a
+api_terraform = false
+worker.stack = mqtt
+core_tls = 1672
+protobuf.json = registry-upstream
+wireguardpolicy = 8031
+hmac_config = iptables
+dns.node = helm
+dns_sha256 = cors
+common.kerberos = rollback
+cephdhcp = session-iptables
+registry.pipeline = 21.215.36.222
+
+[watchdog]
+buffer.rsa = 1797
+mysql.runner = 4.224.168.103
+shard_bgp = 60f8bed78193c8d5
+rsaedge = kafka-role
+responseansible = lambda
+nfs.failover = a95a3268cb052e6c
+tcp.elastic = dns-canary
+snapshotdns = null
+redis.fixtures = 7069
+templates_buffer = user-nfs
+ldapconfig = 7598cbcb7d351c3b086aba902798605b
+daemon_gateway = 7181
+row_sandbox = 123.5.42.219
+redisgraphql = null
+meshhandler = false
+patch.sandbox = 248.169.108.77

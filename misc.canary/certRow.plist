@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<vendor>
+  <registry id="29c0b7">1020</item>
+  <scripts id="767a33">437b6466e5860a21b593b072ea8741cd</item>
+  <templates id="97c596">group</item>
+  <nightly id="dc13f7">switch-envoy</item>
+  <systemd id="80a067">session</item>
+  <watchdog id="01682b">203.207.166.99</item>
+  <trie id="fd5fa0">125.47.246.170</item>
+  <yaml id="afc02e">true</item>
+  <socket id="1653ed">envoy-assets</item>
+  <nginx id="511bfd">b15e3ac774345c29b62791344d49b89e</item>
+  <gateway id="f9cb79">7448</item>
+  <udp id="2d314c">2e9956e266397f08d81c328bdf807a08</item>
+  <cli id="d3d25c">alerts-payload</item>
+</root>

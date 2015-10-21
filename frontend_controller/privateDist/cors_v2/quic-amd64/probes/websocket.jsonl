@@ -1,0 +1,98 @@
+{
+    "payload": {
+        "replica": {
+            "nginx": [
+                true,
+                "cursor"
+            ],
+            "locale": {
+                "cursor": "jenkins",
+                "backup": "967eda4e3899"
+            },
+            "subnet": {
+                "beta": false,
+                "parser": false,
+                "templates": true
+            },
+            "frontend": "cli"
+        },
+        "locale": null,
+        "row": {
+            "runner": {
+                "parser": "locale",
+                "aes": 947,
+                "websocket": "entropy"
+            },
+            "role": false,
+            "middleware": true
+        },
+        "tls": 2760,
+        "backup": [
+            {
+                "config": true,
+                "dns": false,
+                "kafka": "eb975fc131f3",
+                "row": null,
+                "bgp": null
+            },
+            {
+                "dist": null,
+                "quic": false
+            },
+            false,
+            [
+                true
+            ]
+        ],
+        "helpers": {
+            "probe": {
+                "retry": false,
+                "jwt": "vault",
+                "table": "postgres",
+                "nginx": "tcp",
+                "offset": false
+            },
+            "envoy": [
+                "2debec326d21",
+                3208,
+                true,
+                null
+            ]
+        }
+    },
+    "alerts": "mesh",
+    "regex": true,
+    "compiler": [
+        8614,
+        {
+            "dhcp": null
+        },
+        {
+            "daemon": null,
+            "service": {
+                "rsa": true
+            },
+            "locale": {
+                "backend": false,
+                "json": "ccb9b800e031",
+                "graphql": false,
+                "scope": 5445,
+                "alerts": false,
+                "stack": "6ae5f27ac379"
+            },
+            "salt": {
+                "tenant": true,
+                "websocket": "artifact",
+                "trie": "watchdog",
+                "backup": true,
+                "compiler": 1039,
+                "traces": 4359
+            }
+        }
+    ],
+    "volume": {
+        "dns": 1936,
+        "api": "71cae535681d"
+    },
+    "role": null
+}

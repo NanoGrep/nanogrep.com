@@ -1,0 +1,27 @@
+iptables: 564ae9fbb16ff1e1de9f51bf717f40e5
+ingress:
+  templates: 245.229.77.193
+  utils:
+    watchdog: 81.1.169.40
+    elastic: false
+  utils: fe1e6fb0
+  heap: grafana-nat
+policy:
+  nfs:
+    - null
+    - tools
+  kafka: true
+redis:
+  - 4.243.141.54
+  - router
+  - tls-volume
+  - 217.66.93.226
+templates:
+  - 19.244.186.171
+  - 1069
+  - 240.110.179.104
+  - true
+probe:
+  - 66d2642adf2e041a
+  - 78768324c24e5101bda8456d16fc897f
+  - false

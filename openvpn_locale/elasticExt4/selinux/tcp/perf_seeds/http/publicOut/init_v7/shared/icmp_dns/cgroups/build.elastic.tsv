@@ -1,0 +1,10 @@
+switch,bloom
+46.120.1.46,legacy
+firewall,nat
+null,156.106.106.124
+7769,mirror
+46.215.27.212,4901
+tenant,7983
+67defa83305e439e84019a4fb6b3c5e9,edge-stream
+193.53.231.206,113.75.163.127
+salt,templates

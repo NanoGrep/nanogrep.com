@@ -1,0 +1,51 @@
+{
+  "artifact": {
+    "table": "36762683e560",
+    "pipeline": 7087,
+    "volume": "batch",
+    "user": [
+      "12567caccf8a",
+      {
+        "backend": null,
+        "btree": null,
+        "subnet": "cli",
+        "patch": "213b8a3621df",
+        "protobuf": false,
+        "grafana": null
+      }
+    ],
+    "heap": true,
+    "helpers": {
+      "token": {
+        "bucket": 439,
+        "request": true,
+        "lib": null,
+        "failover": "0a3ea5352970",
+        "websocket": true
+      },
+      "traces": "origin",
+      "group": null
+    }
+  },
+  "node": null,
+  "lambda": {
+    "tls": {
+      "backend": [
+        844,
+        null
+      ],
+      "mongo": {
+        "replica": "896921c6ab96",
+        "pipeline": "ansible",
+        "prometheus": "da22beac4320",
+        "handler": false,
+        "topic": true,
+        "kernel": false
+      },
+      "user": false
+    }
+  },
+  "pipeline": null,
+  "stream": true,
+  "tls": 4489
+}

@@ -1,0 +1,11 @@
+driver: stream-scheduler
+firewall:
+  buffer: nonce
+mqtt: 7e2bb2fa
+backend: group-legacy
+handler:
+  bench: legacy-subnet
+  terraform: tenant-backup
+  protobuf: 5633
+  frontend: true
+bootstrap: 401a4d080c43329303ec2c30ace3be0f

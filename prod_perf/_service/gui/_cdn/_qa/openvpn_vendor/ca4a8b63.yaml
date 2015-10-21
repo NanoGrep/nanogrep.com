@@ -1,0 +1,64 @@
+stack: 8650
+backend:
+  - templates
+  - f0f267bd590facc28e78c7fdf6204008
+  - 6254
+  - 7115
+user:
+  - 68.73.232.119
+  - 283
+vlan:
+  prometheus:
+    audit:
+      batch: true
+    scheduler: 596
+    mocks:
+      limit: ee9ac03b180b44f13ac5da5dbff70a9b
+      config: 5931
+      cron: 589
+      worker:
+        - null
+      object: 84.157.33.187
+      request: 239d8a7ccaae9a87
+  worker: beta
+  nfs: nat
+  vendor: null
+  batch:
+    coroutine:
+      backend: be4ad8a4
+      cert: request-systemd
+    core:
+      retry: 3205
+      locale: locale-table
+      scheduler: 153.171.130.106
+      vlan:
+        - stack
+        - d26b3580ac6c34f16a6183eb1927396f
+        - table-table
+    cors:
+      regex:
+        - true
+      object: false
+      mongo:
+        - driver-tcp
+        - jenkins-alerts
+        - 4743
+      audit: null
+      volume: 33ce2fd5
+      zfs: 215.90.17.103
+    elastic:
+      probe: null
+      logs: request-upstream
+      coroutine: index
+      audit: scripts-btree
+      entropy:
+        - 7389
+        - 167.59.221.131
+      threadpool: 452f259ada1a0416
+    tcp: 0c16b5e7334ded0a
+  firewall:
+    table: 54.218.50.171
+    btree: 180.51.60.13
+    table: a02269caaa23da4bae3744fe8151244c
+    common: 5786
+tls: handler-mesh

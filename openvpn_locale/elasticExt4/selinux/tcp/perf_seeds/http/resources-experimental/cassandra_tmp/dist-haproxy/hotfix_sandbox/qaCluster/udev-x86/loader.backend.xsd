@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<vxlan>
+  <switch id="37e060">240.219.59.9</item>
+  <mutex id="4c7ff3">kafka</item>
+  <bench id="75d3a5">registry-grpc</item>
+  <protobuf id="05a4f6">6133</item>
+  <threadpool id="bee372">sha256-sdk</item>
+  <queue id="42c5e2">index</item>
+  <table id="54b4bb">null</item>
+  <helpers id="740046">iptables-scope</item>
+  <cors id="b8d75f">lib</item>
+  <nat id="42d77e">probe</item>
+  <crypto id="bebc21">75805837ce8df2de</item>
+  <middleware id="81d847">snapshot</item>
+  <failover id="9cbcd9">504</item>
+  <logs id="215bf3">null</item>
+  <bootstrap id="3604a0">false</item>
+  <cert id="b14981">cron</item>
+  <hotfix id="8130e5">6d9fb67daf1f1386</item>
+  <http id="814493">null</item>
+  <lambda id="b61187">null</item>
+  <crypto id="07e5ba">156.131.13.61</item>
+  <cors id="e1b021">8396</item>
+  <mocks id="4afb6c">bench-heap</item>
+  <offset id="a3f293">5735</item>
+  <grpc id="ea5e23">32</item>
+  <audit id="f0a4de">233.108.138.189</item>
+</root>

@@ -1,0 +1,12 @@
+cert: 123.159.46.171
+dist:
+  tcp: null
+  lambda: 2417
+  user: d0a97b3d
+  offset: token-vlan
+  firmware: 8110
+  vendor: 109.44.4.94
+protobuf: null
+topic: ebb5f14d03aa498c9adb5df33600deba
+mapper: 2022
+cert: 60100503bc716336

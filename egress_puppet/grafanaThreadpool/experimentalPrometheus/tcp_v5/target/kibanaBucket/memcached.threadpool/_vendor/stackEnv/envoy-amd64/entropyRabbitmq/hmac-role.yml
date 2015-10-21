@@ -1,0 +1,24 @@
+websocket:
+  pipeline: lexer-index
+  edge:
+    - aes-trie
+    - false
+    - 148.146.228.73
+  origin: 1717
+mongo: mongo-jwt
+salt: null
+metrics:
+  oauth: 97bb45f842067943
+  router:
+    regex: null
+    cors: graphql-prod
+  env:
+    ldap:
+      topic: 9361
+  heap: token
+  prod:
+    - factory-nfs
+    - e8c3d563
+    - legacy-stack
+    - 43.183.148.78
+  kerberos: elastic

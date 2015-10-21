@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<pod>
+  <subnet id="1f22b9">heap</item>
+  <audit id="4e4196">queue</item>
+  <quic id="922d9e">true</item>
+  <hmac id="548b49">19</item>
+  <tenant id="4bb7f4">false</item>
+  <volume id="078081">7894</item>
+  <gateway id="42cadb">logs-stream</item>
+  <limit id="72b202">null</item>
+  <policy id="3c8b4b">2802</item>
+  <firmware id="f1b060">3979</item>
+  <vault id="d95274">210.54.117.134</item>
+  <switch id="62b2e4">null</item>
+  <user id="7c5042">80.105.142.103</item>
+  <gateway id="5c1fb3">null</item>
+  <audit id="71605d">5923</item>
+  <nginx id="2a7796">101.249.248.220</item>
+  <user id="e09532">null</item>
+  <nginx id="894360">146.159.137.102</item>
+  <artifact id="aa58e8">2e2edb8138e496f8</item>
+  <policy id="29931b">null</item>
+  <socket id="4e762b">75.57.132.165</item>
+</root>

@@ -1,0 +1,97 @@
+{
+    "pipeline": {
+        "user": [
+            {
+                "ingress": false,
+                "grpc": null,
+                "daemon": true
+            }
+        ]
+    },
+    "sandbox": null,
+    "postgres": [
+        "bgp",
+        {
+            "kernel": true,
+            "semaphore": {
+                "kernel": null,
+                "origin": "af263d978040",
+                "storage": true,
+                "router": null,
+                "lib": "batch",
+                "stream": true
+            }
+        }
+    ],
+    "api": [
+        [
+            4278,
+            "c4eb3be1cbae",
+            false,
+            {
+                "ldap": "2b687f9ba42c"
+            }
+        ],
+        [
+            false,
+            false
+        ],
+        null,
+        [
+            1974
+        ]
+    ],
+    "firmware": {
+        "row": [
+            null,
+            {
+                "column": true
+            },
+            null,
+            {
+                "shard": true,
+                "btree": null,
+                "firmware": false,
+                "mesh": null,
+                "http": null
+            }
+        ],
+        "controller": false,
+        "build": false,
+        "lambda": {
+            "session": true,
+            "common": [],
+            "patch": true
+        },
+        "metrics": {
+            "backend": {
+                "parser": "25f1b71b127a"
+            },
+            "worker": "2deabb3d39be",
+            "gateway": {
+                "postgres": "router",
+                "stream": "60c990c07180",
+                "cli": "eddeff4d90e1"
+            },
+            "audit": "websocket"
+        }
+    },
+    "nightly": [
+        {
+            "queue": [
+                null,
+                "sdk",
+                true
+            ],
+            "loader": null,
+            "bloom": {
+                "entropy": "nginx",
+                "switch": "locale"
+            },
+            "rsa": false
+        },
+        "logs",
+        false,
+        "scripts"
+    ]
+}

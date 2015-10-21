@@ -1,0 +1,47 @@
+{
+  "user": {
+    "buffer": {
+      "node": {
+        "table": "trie",
+        "scripts": false,
+        "salt": null,
+        "backup": null
+      },
+      "regex": [
+        false,
+        "backup",
+        "64d07653f591"
+      ],
+      "switch": {
+        "audit": false
+      }
+    },
+    "audit": {
+      "legacy": {
+        "heap": true
+      },
+      "stream": {
+        "aes": "metrics",
+        "bgp": "8cce0df57976",
+        "regex": true,
+        "assets": false,
+        "switch": "d311569d4f66",
+        "worker": 8748
+      },
+      "api": {
+        "rollback": false,
+        "mesh": "abd51db311aa",
+        "driver": false,
+        "ingress": 3990,
+        "hotfix": "dhcp"
+      }
+    },
+    "role": 5298,
+    "scheduler": "4d525c461149",
+    "bgp": null
+  },
+  "traces": {
+    "stack": 7821,
+    "utils": false
+  }
+}

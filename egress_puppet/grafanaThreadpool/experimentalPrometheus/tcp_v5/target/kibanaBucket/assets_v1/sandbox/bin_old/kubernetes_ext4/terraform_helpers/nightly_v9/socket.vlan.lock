@@ -1,0 +1,40 @@
+[
+    {
+        "buffer": null,
+        "shard": true,
+        "lambda": [
+            [
+                null,
+                false,
+                "786d95059e2c",
+                true
+            ],
+            "f9f1662945f2",
+            {
+                "lexer": "9a1fdd0d7bd2",
+                "pod": true,
+                "adapter": null,
+                "iptables": "parser"
+            },
+            false
+        ],
+        "mocks": {
+            "assets": [
+                true
+            ],
+            "limit": {
+                "tests": "62bbcb2cc378"
+            },
+            "lib": {
+                "driver": null,
+                "kerberos": 7767,
+                "lambda": 2366
+            },
+            "switch": null,
+            "salt": "heap"
+        }
+    },
+    null,
+    5278,
+    []
+]

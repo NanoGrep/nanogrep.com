@@ -1,0 +1,58 @@
+request:
+  cli: 21429ebbcc71cd1d50543481bb98af61
+  dns: helm
+  queue: 9809
+  prod: 19.148.204.54
+  heap:
+    mysql: threadpool
+    sdk: common-failover
+    fuzz: 3584
+    migrations: parser-assets
+systemd:
+  - 1993
+  - metrics
+  - a8004928e1c70cb4
+  - 8bf52001
+queue:
+  row:
+    node: 8b2fc3ab
+    api:
+      patch: true
+      canary: 170.141.189.74
+  cors:
+    pod:
+      ansible: 217.21.127.86
+      oauth: 99ea96f1
+      dhcp: null
+      policy: backend
+      shard: 5352
+    websocket:
+      - 34.72.134.158
+      - 22fea843bd3be625b1d41e8758b69fbe
+      - 175.26.229.28
+      - staging-switch
+    edge: null
+    iptables:
+      - parser
+      - false
+      - prod-ldap
+      - kernel
+hmac: cors-service
+handler:
+  replica: 1150
+  adapter:
+    schema:
+      - crypto-assets
+      - 8934
+    schema: 9721
+    worker:
+      - backup-regex
+      - http-stream
+      - true
+    logs: 3310
+  staging:
+    bench: 8740
+    schema:
+      tenant: scripts
+      dhcp: group
+      utils: replica

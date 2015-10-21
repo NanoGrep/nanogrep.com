@@ -1,0 +1,44 @@
+beta:
+  fuzz: bloom
+  switch:
+    fixtures: 66.131.149.230
+    upstream:
+      logs: 140.244.123.219
+      release: c16c053f
+      vxlan: false
+      pipeline: 113.196.235.221
+    env: lexer-snapshot
+    tls:
+      - 238.128.171.58
+    driver:
+      compiler: nat-regex
+      probe: true
+      mesh: false
+      tests: true
+      templates:
+        - hotfix
+        - 6730
+        - 2702
+        - offset
+    table: false
+iptables:
+  - 8013f7b7
+tools:
+  rsa: 49c5e89a
+  graphql:
+    - compiler
+  mongo:
+    service:
+      logs: mirror-subnet
+      backend: 5362
+      socket: null
+      socket: cookie
+      tcp: mqtt-beta
+      node: 6a8b3143b269e164
+    beta: true
+    switch: 17.171.254.93
+    cron: 211.8.114.231
+    lexer: http
+  websocket: bba0915071e4e39b0206b6ba63ff77ea
+  buffer: 74.193.159.227
+  cluster: scope-factory

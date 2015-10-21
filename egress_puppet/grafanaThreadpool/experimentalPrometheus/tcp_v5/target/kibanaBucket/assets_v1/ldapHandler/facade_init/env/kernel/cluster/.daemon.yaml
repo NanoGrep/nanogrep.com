@@ -1,0 +1,40 @@
+tcp:
+  - c19c73cb980ce3f77c2ad4cc102f9c75
+  - 217.147.192.153
+  - index-snapshot
+upstream:
+  rest:
+    cache: 5c870e77
+    elastic: 3cf834d9c013172226126a7248f2c3c2
+    terraform:
+      cors: 6593
+    terraform:
+      adapter: null
+      vxlan: vlan-logs
+      proxy: index
+      bench: 117.252.101.226
+    schema: driver
+    legacy: null
+  ansible: true
+  mocks:
+    - null
+bgp: null
+queue: 5633
+limit: 8c714542d1fa3800
+redis:
+  alerts:
+    cluster: replica
+    wireguard: true
+    daemon:
+      heap: 53.0.123.208
+      factory: c16d242b2795a5fd5da74598b258d76a
+    cgroups: dns-dhcp
+    nat:
+      jwt: 120.148.25.51
+      bucket: true
+    pipeline:
+      vxlan: rsa
+      audit: 48.92.105.113
+      gateway: 102.245.219.244
+      tcp: false
+  config: false

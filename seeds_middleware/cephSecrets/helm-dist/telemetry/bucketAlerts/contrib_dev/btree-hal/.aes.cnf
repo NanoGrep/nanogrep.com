@@ -1,0 +1,31 @@
+[role]
+dns_yaml = 98aa5201a6ab444811eafc9714f81a90
+switch.tools = 8495
+firewall_switch = null
+
+[common]
+queuesemaphore = ceph-tests
+column.schema = worker-crypto
+batch.salt = mysql-stack
+rest_protobuf = 6994
+json.zfs = cert-patch
+buildbtree = null
+mutex_proxy = 7341
+node_release = false
+cron.semaphore = 36ae7d90a17aea09fef4e6ad04e3bd3f
+grafanasystemd = 39.205.173.169
+grafana.firmware = policy-probe
+watchdog_scripts = 4036
+mesh.lexer = null
+edge_firmware = retry-watchdog
+rsa_core = offset-service
+triecursor = f7e824b4423befa4
+firmware_zfs = b7867162
+ldap.bucket = fuzz-upstream
+toolsqueue = 1115
+middlewarelogs = 91.253.132.35
+saltparser = 5757
+handler.cors = 56.181.219.149
+sha256_cgroups = bgp
+aes.bloom = 244.117.233.168
+jwt_role = null

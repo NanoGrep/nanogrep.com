@@ -1,0 +1,21 @@
+hotfix: b9cccec5
+firewall: true
+config:
+  subnet: tcp
+nightly:
+  kafka: 2353
+  middleware: retry-legacy
+  btree: 64693fb409ffce17529e41cc363862ad
+  aes: protobuf
+  buffer:
+    topic:
+      - fe3bb275
+    locale:
+      volume: legacy
+      cache: 5803
+      proxy:
+        - true
+        - 9430
+        - 2099
+      role: 31.59.87.167
+      row: helpers

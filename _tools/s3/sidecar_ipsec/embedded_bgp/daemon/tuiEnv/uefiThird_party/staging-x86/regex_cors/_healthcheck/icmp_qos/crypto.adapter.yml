@@ -1,0 +1,8 @@
+compiler: mqtt-assets
+nightly:
+  - 2620
+  - lib
+  - 1680
+  - dist-raid
+edge: 216.222.10.71
+udp: 7120

@@ -1,0 +1,4 @@
+ingress:
+  frontend: false
+  tls: canary-mutex
+oauth: 125.176.138.197

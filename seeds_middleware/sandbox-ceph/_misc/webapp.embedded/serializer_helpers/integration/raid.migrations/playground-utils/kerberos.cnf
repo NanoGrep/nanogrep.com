@@ -1,0 +1,10 @@
+coreoauth=false
+crypto.terraform=role
+postgresprometheus=184.186.182.191
+role.ceph=upstream-crypto
+traces.service=payload
+tests.failover=true
+legacybucket=424e5c23dedbc79e76f7eed952ae7023
+mapper.release=false
+patchmapper=lambda
+regex.hashmap=8032

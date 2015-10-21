@@ -1,0 +1,23 @@
+elastic: raid-nfs
+threadpool: worker
+probe:
+  rsa: true
+  router:
+    grafana: 8c2dd534
+    ansible:
+      config: f7166d8e713b7fb5c60b1543f1187e5c
+      lambda: daemon
+      stream:
+        - origin
+        - 5127
+      vendor: firewall-kafka
+    entropy:
+      - 145.81.165.133
+      - assets
+      - f4b7cd79
+      - index
+    nat: btree
+    rsa:
+      websocket: 3224
+      cursor: true
+      request: kafka

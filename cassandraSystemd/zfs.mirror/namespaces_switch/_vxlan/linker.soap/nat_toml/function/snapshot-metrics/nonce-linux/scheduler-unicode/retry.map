@@ -1,0 +1,32 @@
+{
+  "scheduler": true,
+  "udp": {
+    "raid": {
+      "cookie": "grafana",
+      "mqtt": {
+        "vendor": null,
+        "cookie": false
+      },
+      "mesh": {
+        "origin": null,
+        "rsa": false,
+        "factory": true
+      }
+    }
+  },
+  "dns": "graphql",
+  "jenkins": "prod",
+  "helpers": "node",
+  "upstream": {
+    "scheduler": "6cde78ba0ba9",
+    "firmware": {
+      "bootstrap": "106464524cd1",
+      "scope": {
+        "rollback": 5241,
+        "nonce": "dns"
+      },
+      "elastic": true
+    },
+    "hotfix": 3184
+  }
+}

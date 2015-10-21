@@ -1,0 +1,8 @@
+wireguard: 86.186.18.53
+gateway:
+  - 5610
+  - true
+migrations: cors
+adapter: null
+elastic: 71.184.137.167
+entropy: 24.236.234.159

@@ -1,0 +1,39 @@
+probe:
+  middleware: tools-mirror
+  coroutine:
+    - 94.82.27.208
+    - scheduler
+    - 216.98.146.39
+    - traces-cursor
+  adapter: 131.89.37.76
+  kernel: udp
+backend:
+  response: cors
+  dns: null
+  registry:
+    firewall:
+      metrics: null
+      artifact: null
+      probe: tls-nightly
+      threadpool: bootstrap-ansible
+    canary: sdk
+    registry:
+      http: true
+      limit: c289a8a3
+      snapshot:
+        - true
+        - yaml
+        - 8482
+      cursor: 5275
+    origin: fixtures-legacy
+    storage: 0315822b
+  fuzz: 119.216.99.133
+kernel: 156.64.229.222
+dhcp: stream-hashmap
+worker: 419125194bdf9d3be40a81a093ef615f
+mysql:
+  proxy:
+    origin:
+      replica: threadpool
+    firewall: 141.250.14.153
+  locale: 4e84abc5990003f1

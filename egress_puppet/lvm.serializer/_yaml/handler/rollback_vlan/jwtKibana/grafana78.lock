@@ -1,0 +1,136 @@
+{
+    "alerts": {
+        "mutex": [],
+        "hotfix": {
+            "middleware": [],
+            "trie": {
+                "patch": "758d6a78d0c5",
+                "tenant": "538ceb6b201a"
+            },
+            "nat": {
+                "ingress": "hashmap",
+                "logs": null,
+                "udp": true,
+                "fixtures": "f9f018466e24",
+                "middleware": "policy"
+            },
+            "upstream": {
+                "semaphore": "e6ddb972cfc7",
+                "traces": false,
+                "release": "semaphore"
+            }
+        },
+        "core": {
+            "rest": [
+                619,
+                null
+            ],
+            "sha256": false
+        },
+        "gateway": {
+            "cgroups": {
+                "core": "logs",
+                "parser": 5358,
+                "trie": null,
+                "middleware": "f4e5a3138221",
+                "dhcp": false,
+                "tests": 1592
+            },
+            "rest": false,
+            "graphql": {
+                "controller": "6e1a690298ab",
+                "origin": null,
+                "grafana": 1529,
+                "http": 4566,
+                "config": 3328
+            },
+            "vault": {
+                "request": "frontend",
+                "tcp": "metrics",
+                "http": "backup",
+                "rsa": true
+            }
+        },
+        "hmac": 7374
+    },
+    "cgroups": {
+        "fixtures": "73fe5e8aeed1",
+        "mesh": [
+            null,
+            false,
+            4283,
+            true
+        ],
+        "env": [],
+        "canary": {
+            "role": {
+                "websocket": false,
+                "gateway": null,
+                "ansible": 3648,
+                "nonce": "abf14f0c8778",
+                "aes": 8480
+            },
+            "trie": {
+                "table": null,
+                "bootstrap": true,
+                "cluster": 3618,
+                "runner": "http",
+                "backend": "6c6b5f7ab644"
+            },
+            "patch": {
+                "object": null,
+                "batch": "json",
+                "failover": false,
+                "metrics": false,
+                "api": null,
+                "schema": null
+            },
+            "offset": true
+        },
+        "rollback": null
+    },
+    "rollback": {
+        "upstream": false,
+        "trie": [
+            true,
+            "pipeline",
+            {
+                "mesh": "lambda",
+                "buffer": "ceph"
+            }
+        ],
+        "user": null,
+        "cache": false,
+        "ansible": [],
+        "audit": true
+    },
+    "bucket": {
+        "fuzz": {
+            "column": {
+                "metrics": null,
+                "yaml": false
+            },
+            "jwt": {
+                "nonce": 2033
+            },
+            "policy": {
+                "nightly": 9863,
+                "proxy": false,
+                "mutex": 7407
+            },
+            "templates": {
+                "table": 4508,
+                "templates": "dee2b592566a",
+                "response": 4452,
+                "prometheus": 5917,
+                "kernel": "socket",
+                "offset": 508
+            },
+            "factory": {
+                "kerberos": false,
+                "request": false,
+                "parser": null
+            }
+        }
+    }
+}

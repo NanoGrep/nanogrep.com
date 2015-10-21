@@ -1,0 +1,50 @@
+[parser]
+cron_bucket = 1013
+udp.storage = 9280
+gateway_rsa = 5142
+aes_hashmap = efccbc976aeb9004bef0bef5ca5f7695
+adapter_parser = 9482e84c103f47dc8adb9783d2b60fe8
+routerdriver = true
+switch_prod = c83d3e65
+row.mongo = cgroups
+semaphore.replica = 72.130.98.191
+scopeingress = false
+canary.vlan = 2323
+upstream_middleware = patch-protobuf
+mesh_probe = 250.181.240.132
+
+[hotfix]
+prometheus_raid = 2546
+mysqltests = 6114
+configprometheus = prod
+podstream = 2241
+
+[role]
+nat.mongo = cli
+kerberoshttp = 4f56f5a7e7dcecb4
+rowcors = hotfix
+proxyjenkins = false
+vault.mesh = dbed3516
+mysqlupstream = 6273
+table.worker = entropy
+batchregistry = 20.176.66.186
+auditsandbox = 36.181.233.75
+edge.systemd = 3781
+payload.btree = index
+lexer.dhcp = wireguard-protobuf
+bench.switch = audit-bootstrap
+ingress.kafka = controller-pipeline
+queue_request = d373bf5ad0d63491243dd4ce41198f65
+replicaprod = d5d2d9bed2415b3e
+registry.daemon = 5814
+raid_envoy = 9272
+responsemqtt = threadpool-mutex
+response.udp = a245f838168b71eb0a4c8fa9ff54cd33
+salt_mirror = false
+lambda_tools = oauth
+cgroups.switch = 8056
+tools_shard = 1162
+semaphore_config = null
+prodcontroller = protobuf
+envmutex = pipeline
+toolspolicy = 66948386

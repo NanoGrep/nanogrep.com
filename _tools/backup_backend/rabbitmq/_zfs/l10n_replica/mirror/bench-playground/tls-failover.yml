@@ -1,0 +1,8 @@
+postgres:
+  bucket:
+    websocket:
+      vlan: 1a949961ba0a77e6
+      tools: true
+      vxlan: 1bfe36c6b84ca3e871353a8af956ae9b
+  grafana:
+    trie: 9756

@@ -1,0 +1,44 @@
+backup:
+  pipeline: 534c602eff1ff922
+  env: tools-vlan
+  rest:
+    node: 9c0aa4ce81541ec9c34e2b053b405164
+    bloom:
+      - 534
+    queue:
+      factory: null
+      sha256:
+        - null
+      prod: utils
+      topic: 7615
+      role:
+        - 3813
+        - lib-nonce
+        - 96.108.245.179
+        - nat
+      sandbox: true
+    redis: 9861
+    lambda:
+      - 4d7c7d9046c62202
+      - worker
+      - 5189
+  prod:
+    crypto:
+      registry: 2523
+    origin:
+      - null
+      - 9403
+      - 4497
+      - null
+    vlan:
+      threadpool:
+        - pipeline-sdk
+        - 4698
+      udp: true
+      rest: cache
+      role: 1eae9490
+      regex: hashmap
+    cli:
+      - 2508
+      - true
+artifact: cert-proxy

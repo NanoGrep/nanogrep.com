@@ -1,0 +1,55 @@
+hashmap:
+  audit: c343e2d9
+table: 133.61.72.98
+tests:
+  api: 9965
+  hashmap:
+    hashmap: 2eb17cb362daea45e13db26cbb3f384f
+    patch:
+      utils:
+        - lambda
+      dist: null
+      backup: 6597
+      artifact:
+        - null
+        - cache-topic
+        - 215.94.82.113
+        - 9990
+      core: threadpool
+      hmac:
+        - 4812
+    request:
+      - 15.187.70.196
+      - 6402
+      - 245.51.108.164
+    utils: lib-gateway
+    coroutine: a7f6a5090db658ee
+    middleware: 974
+  protobuf: backup
+  hotfix:
+    utils: jwt
+    user:
+      - false
+    rollback:
+      elastic: 139.228.94.67
+      cache: graphql
+      jwt: 69.202.131.247
+      bucket: oauth-switch
+  socket:
+    nfs: 7561
+    aes: false
+    storage:
+      ceph: build
+      canary: 1ec72c23
+      utils: storage-pod
+      mirror:
+        - null
+        - edge
+      traces: false
+    probe:
+      - 236.31.250.116
+    mapper:
+      sandbox:
+        - 9dc531246069afcd075c91142ee346a0
+        - bootstrap-registry
+        - ecf21c6cdc9af4a47b8c2cd101bb272c

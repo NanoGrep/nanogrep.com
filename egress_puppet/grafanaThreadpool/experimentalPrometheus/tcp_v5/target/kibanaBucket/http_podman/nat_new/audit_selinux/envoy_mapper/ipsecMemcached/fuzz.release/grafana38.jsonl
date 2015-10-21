@@ -1,0 +1,54 @@
+{
+    "worker": {
+        "scope": false,
+        "session": "scheduler",
+        "bucket": "647dd22365fe",
+        "terraform": {
+            "grpc": {
+                "probe": "2e3632bb3348",
+                "offset": null,
+                "origin": null,
+                "tests": null
+            },
+            "dist": [
+                null,
+                "fixtures",
+                false
+            ],
+            "kerberos": null
+        },
+        "index": {
+            "core": [
+                true,
+                false,
+                "7bd5095eb135",
+                7354
+            ],
+            "firewall": false
+        },
+        "controller": {
+            "audit": {
+                "sdk": "ba7f83649500",
+                "metrics": null,
+                "proxy": true
+            },
+            "jenkins": false,
+            "vendor": {
+                "jwt": "mqtt",
+                "mesh": "bd64c3fc6216",
+                "table": "d42dd72a2226"
+            },
+            "zfs": {
+                "mesh": null,
+                "pod": 3374,
+                "origin": null,
+                "staging": "18e00c4bdeeb"
+            }
+        }
+    },
+    "raid": true,
+    "oauth": "cli",
+    "router": {
+        "semaphore": "b54bfba7d1cc"
+    }
+}

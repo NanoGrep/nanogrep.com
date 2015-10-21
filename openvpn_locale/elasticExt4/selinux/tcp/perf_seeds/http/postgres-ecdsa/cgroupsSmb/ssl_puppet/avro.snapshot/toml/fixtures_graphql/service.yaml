@@ -1,0 +1,12 @@
+firewall: true
+storage:
+  mapper:
+    legacy: quic-quic
+    tcp: 7022
+    subnet: service
+    systemd: 78.217.237.82
+    daemon: queue
+  heap: tcp
+terraform:
+  gateway:
+    role: eb447f1b

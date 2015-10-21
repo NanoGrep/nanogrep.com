@@ -1,0 +1,12 @@
+shard,jenkins,mysql,canary,redis
+crypto-dist,null,7afdc1d6,false,false
+quic,1c625401,6f993adfe8287a33b0e80c1330ef49d1,socket-env,driver
+ansible,41.46.47.214,3374,iptables-storage,b6452c20
+grafana,legacy-vault,3953,group-heap,e8c31b19
+true,false,heap-mesh,release-legacy,1566
+f936e47ed65c5730,true,dhcp,70.44.87.249,firmware
+fixtures,false,148.130.89.221,true,110.158.245.12
+column-heap,18.146.163.91,154.228.51.118,vendor,null
+null,64faa262,true,adff99711d2662f20d2433494c125350,1402
+ldap-compiler,1f4a0d11,false,8649541268266446f4d3e21b2deb960e,logs-topic
+bc3c1b61627ae93ab6e0cf4daac4d5d7,3506,cron-bgp,schema,false

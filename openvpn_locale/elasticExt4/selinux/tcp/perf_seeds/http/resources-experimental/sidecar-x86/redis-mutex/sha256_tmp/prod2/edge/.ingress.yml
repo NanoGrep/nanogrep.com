@@ -1,0 +1,11 @@
+dhcp: nfs-hmac
+mirror:
+  - driver-lambda
+  - ingress-protobuf
+hashmap:
+  driver: true
+  policy: 99.21.4.168
+  core: controller-cgroups
+release:
+  - 131.71.83.104
+  - tcp-legacy

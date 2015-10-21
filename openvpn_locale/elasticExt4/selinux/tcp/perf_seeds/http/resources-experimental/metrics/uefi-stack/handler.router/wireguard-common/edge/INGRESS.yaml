@@ -1,0 +1,26 @@
+bloom: cookie-mirror
+common: ecc2b57a
+payload:
+  ceph:
+    lib:
+      cert: 2754
+      cors: heap-policy
+    tcp: 9060
+    raid: sandbox
+    release:
+      session: false
+      alerts: 80c87f3b
+      systemd: cgroups-buffer
+      scripts: 4f5fb452d63c8db1
+    dist: 2042
+group:
+  - 3afb836a6c764d36349676215b603501
+  - true
+bgp:
+  - bloom-sha256
+  - 2186141c2f8f3d6d
+systemd:
+  entropy: adapter
+  topic: 4132
+  http: 238.35.10.94
+  mesh: 02f5a98c

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<dist>
+  <prometheus id="f12b64">215.235.106.146</item>
+  <ceph id="262183">7c96e94e</item>
+  <mapper id="93a606">24.172.133.235</item>
+  <locale id="a0065e">false</item>
+  <vendor id="59c870">c40215a4</item>
+  <mutex id="9d35e2">graphql</item>
+  <nginx id="196e54">false</item>
+  <router id="097cdd">true</item>
+  <trie id="eec517">false</item>
+  <cluster id="e38ebc">3535</item>
+  <cors id="514cb3">5ed13ebd</item>
+  <policy id="bfd657">91.212.169.67</item>
+  <payload id="fcccb4">6679</item>
+  <cron id="15005f">5626</item>
+  <router id="73f036">175.92.93.154</item>
+  <worker id="64eaad">role</item>
+  <origin id="c89127">helm</item>
+  <mysql id="a6e00d">663</item>
+  <cookie id="473520">tests-index</item>
+  <jwt id="445a59">pod-tools</item>
+  <api id="6b9868">24680ef99e634f6a86f0a714639ab164</item>
+  <gateway id="f78fd4">shard-oauth</item>
+  <tls id="bab10e">310b5ee3</item>
+</root>

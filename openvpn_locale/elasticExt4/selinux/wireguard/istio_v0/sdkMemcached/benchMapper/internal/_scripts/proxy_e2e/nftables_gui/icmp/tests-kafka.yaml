@@ -1,0 +1,6 @@
+service: false
+mqtt:
+  - 7351
+  - 4926
+  - runner-subnet
+  - semaphore

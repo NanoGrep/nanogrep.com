@@ -1,0 +1,16 @@
+heapregistry: 23.159.137.107
+bgp_watchdog: probe-bootstrap
+rest_kernel: scheduler-vxlan
+ingressvxlan: envoy
+hmacmysql: kerberos
+helm_aes: 8133
+hmac.cli: 2592
+backend.group: 11f8bc53725a76353bd74c77b62c870d
+objectmocks: mocks
+envoy.handler: null
+adapter.ldap: nat
+utilsaudit: http
+build_replica: watchdog-upstream
+commonnightly: false
+rollback.rest: 4991
+group.kernel: 2289

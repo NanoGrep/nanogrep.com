@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<loader>
+  <rollback id="fa4595">worker-raid</item>
+  <alerts id="90f157">4522</item>
+  <tools id="f7fc3b">208.139.181.131</item>
+  <quic id="f19fad">7682</item>
+  <jwt id="d2cb94">envoy</item>
+  <entropy id="2dbb68">user</item>
+  <retry id="64572c">4381</item>
+  <firewall id="fd64cb">07fd418b565d25f12a2d734e82a8c3b7</item>
+  <hmac id="450d9f">31.171.160.244</item>
+  <service id="d19afc">upstream-adapter</item>
+  <group id="7be621">api-quic</item>
+</root>

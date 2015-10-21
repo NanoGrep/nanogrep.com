@@ -1,0 +1,100 @@
+helpers:
+  traces:
+    mysql: 6dc3ae0bce2811a7
+    ingress:
+      service: 83acf207a164e7c1e92d53fee438f9d6
+      socket: false
+      proxy: 7a74df102bfe94cf
+      ansible: buffer
+      jenkins:
+        - 9984
+      terraform: 6977
+    yaml: cli-ansible
+    traces:
+      threadpool: 1459
+      canary: 2926
+      wireguard: bd1fc522
+      dns: bench-cluster
+      audit:
+        - hotfix
+        - 1ceed5dfc15c239f628f0fc084491d2b
+      coroutine: metrics
+  config: 390a19dd6cea02b3f5b28f25c056116b
+  zfs:
+    index: 742ebb6807dcb64e
+    canary:
+      tests: 129.9.122.68
+      release: acec4cae6e449fc56dcaa7caa399ff94
+    watchdog: false
+    scripts:
+      - controller-helpers
+    ansible: 5ab62ed5
+    vendor: templates
+  mapper: null
+  ansible: postgres
+  worker:
+    schema: 7468
+bgp:
+  bench:
+    - cgroups
+    - 729dfbd91f847ae8
+    - 899dbbe99b8fd1eadb3c42f6db90d0ae
+    - 4a8076408127b01b107d87123237c4f4
+  replica: true
+  frontend: protobuf
+  edge:
+    systemd: 70.238.224.219
+    nginx: 2848
+    tcp: false
+    legacy:
+      cluster: false
+  trie: b158035a34e02c12d16ce189992c3d8c
+vault:
+  fixtures:
+    snapshot: null
+    controller:
+      utils: cli
+      batch: 200.193.119.24
+      envoy:
+        - 6825
+        - 2e3040fd1273aaaa1deae5b839587f78
+      bucket: 2929
+    session: 187.76.218.220
+  mongo: adapter-alerts
+  trie:
+    index:
+      group: limit
+      env: 7481
+      adapter: 4124
+      logs: scope-mutex
+    btree: 390de874
+    fuzz: user
+    raid:
+      fixtures:
+        - 9992
+      alerts:
+        - 5443
+      nightly: tests-raid
+      tenant: 5660
+      mysql: build
+    scope: volume-fuzz
+    elastic:
+      threadpool: false
+prometheus:
+  ldap: build-redis
+vault:
+  legacy: 7207a967
+  table:
+    ansible: 445203c7
+    kernel: false
+    mutex: 2845
+    payload: true
+    mongo:
+      - stream
+      - 18.243.1.189
+      - cluster-heap
+      - false
+    rsa:
+      regex: 83e37d33
+  yaml: iptables
+frontend: null

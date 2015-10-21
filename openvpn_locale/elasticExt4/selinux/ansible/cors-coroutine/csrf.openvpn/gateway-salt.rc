@@ -1,0 +1,10 @@
+nginxcgroups=127.2.125.50
+daemon.bootstrap=e962bd815cb2e5c364bd761e7257764c
+mutex_hmac=null
+coroutinenightly=97a4752c
+handlercoroutine=column-jwt
+kernel.config=844b9df1
+trie.adapter=null
+oauthcert=168a82eb712c5a8b
+mongo_factory=staging
+nightly_rsa=artifact-iptables

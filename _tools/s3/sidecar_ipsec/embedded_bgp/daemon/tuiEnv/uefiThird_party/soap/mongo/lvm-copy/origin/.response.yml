@@ -1,0 +1,36 @@
+redis: 105.170.135.14
+tcp:
+  graphql: 228.0.106.190
+  build: probe-scripts
+pod: 229.119.142.206
+staging:
+  kernel:
+    envoy:
+      sha256: 1f7cf02a982b5efd12c772d02f214de0
+      assets: request
+      templates: sdk
+      mongo: 1645
+      fuzz: firewall
+      audit: 145.96.22.92
+  hmac: jwt
+  frontend:
+    bloom:
+      - true
+      - 4535
+      - env
+      - 169.34.247.65
+    lambda: 2376
+    scheduler:
+      cgroups: false
+      stream: 1597
+      socket:
+        - 144.225.228.112
+        - null
+        - 147.94.247.160
+        - group-protobuf
+      threadpool: 8777
+      cert: 9d1acf11
+    rsa: 183.38.182.91
+    backup: true
+vault: sdk-firewall
+logs: 166.41.232.66

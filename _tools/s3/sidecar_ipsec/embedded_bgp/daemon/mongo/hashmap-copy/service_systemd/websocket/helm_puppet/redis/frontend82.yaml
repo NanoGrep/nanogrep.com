@@ -1,0 +1,19 @@
+vlan: true
+prod: 108.93.52.219
+frontend: 23045aa9fd13a8e3
+worker: 231.171.90.251
+elastic:
+  prometheus: false
+  origin:
+    request:
+      daemon: regex-jenkins
+      frontend: frontend
+    wireguard: postgres
+    cluster: false
+    rsa: stack
+  switch: true
+  origin:
+    tenant:
+      edge: 2268
+      scope: limit-release
+prometheus: 69.124.240.76

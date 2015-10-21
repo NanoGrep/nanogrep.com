@@ -1,0 +1,19 @@
+[edge]
+policy_table = true
+crypto_bench = 4bbaf7e2
+bgp_shard = bgp
+proxy_backend = cors-stream
+fuzz.scheduler = false
+payload_build = scripts
+metrics_raid = bucket
+tcp.snapshot = 178.223.59.73
+backup.protobuf = 2a50d7a6
+betasnapshot = 1157
+factory_upstream = fd631e8dd016d363
+proxyscheduler = origin
+release_http = 9af2d1fcedd8a365
+localehashmap = tools-bucket
+artifact_payload = 7333
+object_cli = firewall-envoy
+elastic_backend = loader
+alertsbackend = cookie

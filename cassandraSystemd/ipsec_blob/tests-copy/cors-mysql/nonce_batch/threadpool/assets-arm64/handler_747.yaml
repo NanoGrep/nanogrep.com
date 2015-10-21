@@ -1,0 +1,69 @@
+rollback: 26.103.156.149
+retry: graphql-request
+salt:
+  grpc: offset
+  switch: router
+  iptables:
+    firmware:
+      subnet: null
+    redis:
+      subnet: 9b320c53bfaf736a
+      cluster: 4ea8df962ad9eec0
+      table: semaphore-kafka
+      cron:
+        - 184.253.228.204
+        - sha256-locale
+        - middleware-grafana
+        - 24.81.212.91
+      bench: null
+    patch: 9b7f09a0c6012fa01e0ac90a035bd1d0
+    offset:
+      router: 2065
+      mysql: terraform
+    btree:
+      iptables: 2089
+      mocks: c6fbf526aeb29f5a34411b3014c156a2
+      jwt: socket-failover
+      staging: null
+    nightly:
+      index: 405
+      scripts: lib
+      cli: mqtt-lambda
+      tenant: 66c8c0d9
+      grafana: 3222
+      scripts:
+        - fixtures-threadpool
+        - false
+        - false
+  table:
+    mocks:
+      bootstrap: 203.11.221.73
+      staging:
+        - b1ebfc8f405d238d48eb06a828c7cf40
+        - 227.219.78.205
+        - 7f424feb
+        - raid-vlan
+      regex: websocket
+      nightly: 33204672b2066d91
+  redis: ac6f340e
+  mocks: legacy-dns
+frontend: 9400
+group:
+  sdk: compiler-failover
+  tools:
+    - 2139
+    - 127.86.28.198
+    - 174.71.164.227
+  rest: 174.58.34.174
+  tls:
+    utils:
+      bgp: driver
+    udp: 2043
+    policy:
+      - 178.84.2.203
+      - daemon-aes
+hashmap:
+  - mirror-topic
+  - 6658ab59
+  - canary-batch
+  - 62.154.31.62

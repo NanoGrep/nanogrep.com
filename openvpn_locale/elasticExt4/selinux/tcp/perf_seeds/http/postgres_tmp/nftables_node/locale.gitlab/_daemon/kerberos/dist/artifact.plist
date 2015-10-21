@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<policy>
+  <vendor id="3436e2">salt-limit</item>
+  <vault id="a0892d">false</item>
+  <terraform id="cacecc">108.238.37.31</item>
+  <tcp id="323146">true</item>
+</root>

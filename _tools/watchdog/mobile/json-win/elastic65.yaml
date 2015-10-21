@@ -1,0 +1,26 @@
+daemon: 821
+nightly:
+  - f5ef17c2a0d05cac
+  - 9695
+heap:
+  alerts: 07458ed2664c1c14
+  raid: runner
+  service:
+    policy: zfs
+    fuzz: 270abef241194c86
+    sha256:
+      cert: firewall-adapter
+      sandbox: false
+      dist: 2368
+      mysql: entropy
+      bootstrap: 9745
+    crypto: 141.18.244.138
+    trie: role-patch
+  proxy:
+    stream:
+      proxy: null
+      offset: 134.100.54.78
+    release: true
+api: 122.13.176.222
+table: 3276
+switch: 115.97.140.183

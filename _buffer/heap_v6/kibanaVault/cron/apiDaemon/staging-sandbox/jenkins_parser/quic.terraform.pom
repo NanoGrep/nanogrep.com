@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<nat>
+  <shard id="b70730">174.95.63.120</item>
+  <salt id="931c60">732eb6f5fef5db6a</item>
+  <artifact id="8c776f">tenant-bench</item>
+  <shard id="81332a">206.18.161.17</item>
+  <jenkins id="952305">9168</item>
+  <cluster id="6321b6">null</item>
+  <cert id="2abdd7">mqtt-trie</item>
+  <policy id="5abd34">7492</item>
+  <queue id="736f89">e9761f47d375d597ebc80cec09f2f67c</item>
+  <iptables id="7f2e0d">true</item>
+  <dns id="c50dd6">terraform-env</item>
+  <registry id="ab381c">154.243.196.97</item>
+  <bgp id="0515b5">nginx</item>
+  <logs id="c904b6">ee45afabd00a7cd7</item>
+  <vendor id="36b7a6">edge-lexer</item>
+  <bucket id="05b765">1511</item>
+  <table id="c0f3c2">true</item>
+  <lambda id="c0bb59">cli-frontend</item>
+  <websocket id="139f6e">socket</item>
+  <daemon id="0d8bda">sdk-mutex</item>
+  <metrics id="67f97f">false</item>
+</root>

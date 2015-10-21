@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<elastic>
+  <graphql id="615d74">108.152.242.119</item>
+  <assets id="020bf0">btree-topic</item>
+  <quic id="d9ae31">false</item>
+  <grpc id="f4ee77">8666</item>
+  <snapshot id="9ba708">123.152.202.103</item>
+  <router id="989c5e">bench</item>
+  <adapter id="a9a019">89.28.100.158</item>
+  <middleware id="907519">2.49.7.131</item>
+</root>

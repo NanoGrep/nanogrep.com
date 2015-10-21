@@ -1,0 +1,82 @@
+{
+  "scope": [
+    {
+      "mapper": {
+        "handler": true,
+        "traces": "1ba91a611138"
+      },
+      "object": {
+        "templates": null,
+        "beta": null,
+        "cgroups": "f62c0a42c91a",
+        "api": false
+      }
+    },
+    {
+      "parser": null,
+      "release": [
+        "ebed8d0339ab",
+        null,
+        false
+      ],
+      "upstream": {
+        "volume": true,
+        "env": null,
+        "aes": null,
+        "cluster": null,
+        "vendor": "c0ab79a83302",
+        "kerberos": 2575
+      }
+    },
+    null
+  ],
+  "config": [
+    {
+      "hashmap": {
+        "fixtures": true,
+        "lexer": true,
+        "socket": null,
+        "row": null,
+        "vendor": "9bd1cfe0cf5b",
+        "column": "57de461cc165"
+      },
+      "storage": [
+        "raid",
+        false
+      ],
+      "kafka": {
+        "edge": true,
+        "group": true,
+        "runner": null,
+        "subnet": null
+      },
+      "locale": false
+    },
+    true,
+    {
+      "service": false,
+      "controller": 4777,
+      "helm": 949,
+      "compiler": {
+        "helpers": 9967,
+        "tests": true,
+        "controller": "elastic"
+      },
+      "systemd": [
+        true,
+        "terraform",
+        "stack",
+        false
+      ]
+    }
+  ],
+  "gateway": true,
+  "utils": false,
+  "json": false,
+  "canary": [
+    [
+      5756
+    ],
+    "ee7a264d02ef"
+  ]
+}

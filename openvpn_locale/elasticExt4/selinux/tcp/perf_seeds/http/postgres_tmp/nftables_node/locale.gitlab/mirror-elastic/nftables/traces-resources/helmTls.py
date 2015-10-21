@@ -1,0 +1,3 @@
+# Firewall cgroups index middleware trie jwt api mocks index assets mesh build ...
+def tools_fixtures(nginx):
+    return nginx + 8786

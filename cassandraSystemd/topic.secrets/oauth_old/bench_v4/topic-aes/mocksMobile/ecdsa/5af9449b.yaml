@@ -1,0 +1,30 @@
+bgp: 133.148.161.112
+heap: 79de77572110169a
+staging:
+  cookie:
+    snapshot: 6120
+    raid: 527
+  cron: 6b8a24d6
+index:
+  threadpool:
+    tests: 138.201.217.33
+    schema:
+      patch: 19e6754482e940ba
+      queue: false
+      replica: false
+    replica: false
+    dns: env
+  audit: null
+  vendor: 38.49.115.247
+  dist:
+    batch: da61b31bfc1bd113
+    storage: service
+    cron:
+      - 118.107.215.250
+      - factory
+  release:
+    - true
+    - 3403
+    - cron-bloom
+    - jwt-volume
+  tools: core-mirror

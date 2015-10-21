@@ -1,0 +1,42 @@
+nat:
+  switch: grpc-build
+  loader: cookie-sdk
+  frontend:
+    - artifact-fuzz
+    - 2864
+    - threadpool
+    - 5331
+  elastic:
+    - dbdb5d57
+    - regex-oauth
+tests: cluster-backend
+cert:
+  build:
+    regex:
+      buffer: null
+    grpc: 418
+    switch:
+      migrations: group-origin
+    helpers:
+      yaml: 93.46.106.56
+  frontend: 139
+  parser: 8383
+  templates:
+    request:
+      staging: cgroups
+      sandbox: 4190c02ed21b7c1a1e1ffb1634e6d1ce
+      locale: 224.169.77.215
+failover:
+  locale: true
+  vendor:
+    parser: storage
+    compiler:
+      entropy: 203.172.235.28
+      utils: 7532
+      proxy: helm
+      nightly: true
+    tls: null
+    udp: threadpool-middleware
+cluster:
+  table: proxy
+  backup: 051b139a

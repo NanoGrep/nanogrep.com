@@ -1,0 +1,7 @@
+proxy: metrics-env
+api: graphql
+bucket: fe28a01f
+lexer:
+  - alerts-ceph
+  - 7007
+templates: templates-metrics

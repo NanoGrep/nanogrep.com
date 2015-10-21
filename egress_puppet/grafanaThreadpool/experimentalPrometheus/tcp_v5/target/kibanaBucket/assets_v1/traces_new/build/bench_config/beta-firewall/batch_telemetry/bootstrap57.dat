@@ -1,0 +1,13 @@
+yaml,tenant,edge,quic
+postgres,table-tenant,87ab8e3366c0a63e,0f4ea6a2
+vendor-middleware,column,systemd,6908
+true,214.21.93.192,sdk,83b67c1eef99008b
+false,34.125.125.53,6263,cursor
+139.225.200.51,cfab19a97222f0a7,lexer,cluster
+true,jwt,snapshot-locale,json
+aes-patch,false,watchdog,6013
+false,92ed76d056cba5dec9b4ce60516e445e,false,2949
+postgres-cors,135.26.203.247,false,8367
+74.26.164.131,21.3.138.177,null,true
+5ef6a114771e4c62,upstream-cursor,9599ece674fcfa7ea468f0fcacf41a21,hmac-cache
+retry-coroutine,2baf2434a132365b,false,ansible-tools

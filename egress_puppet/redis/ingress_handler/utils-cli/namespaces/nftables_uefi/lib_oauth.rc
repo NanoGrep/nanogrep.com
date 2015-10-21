@@ -1,0 +1,64 @@
+[rest]
+coroutine.coroutine = 8672
+originreplica = false
+logscoroutine = 4432
+elasticscheduler = envoy-gateway
+vlansession = ansible
+requestenv = ebc983f4e6a427c7cae1dbffbce07f20
+nginx_policy = true
+bucket_cors = cgroups
+switch_gateway = null
+vendorpolicy = null
+factorylexer = coroutine
+quicrest = d228f3ce9beae5fd
+fuzzbackend = 2247
+envoy.mutex = stream
+nat_kafka = true
+cachersa = 5271
+index.factory = false
+
+[udp]
+backupmysql = rest-traces
+oauthtraces = false
+grpc.cluster = 468
+failovertoken = tenant-replica
+backend.vxlan = lexer
+originaudit = vxlan
+lexer_storage = 9772
+lexersystemd = 238.159.56.73
+graphqlfailover = 302
+nodebench = tls-upstream
+graphqlaes = http-staging
+proxy_router = 7637
+tls.driver = 7507
+utilscert = 115.148.47.160
+api.salt = 2d30c9b0
+bloomcolumn = compiler
+nodelambda = false
+audit_cors = 450ffa74b49e2a4649b1e8040931d1ea
+rownat = oauth
+drivercache = tcp-helm
+yaml.jwt = true
+kerberoshmac = 102.162.80.34
+retryloader = helpers-release
+vxlan.firewall = quic-udp
+rsa.fixtures = 190
+responseingress = 7166
+frontend_mesh = fuzz
+batch_kafka = 6944
+sha256.cache = cert
+index_role = null
+
+[build]
+ldap.yaml = 95.53.131.132
+compiler.limit = raid-scheduler
+compiler_fixtures = router
+fuzz.systemd = null
+nginxdhcp = false
+apisandbox = 48.137.247.245
+response_group = queue-fuzz
+backup_yaml = vlan
+terraformstorage = 7726
+cert.firewall = 83.131.141.101
+compilerservice = 6792c058
+betabuild = 2453

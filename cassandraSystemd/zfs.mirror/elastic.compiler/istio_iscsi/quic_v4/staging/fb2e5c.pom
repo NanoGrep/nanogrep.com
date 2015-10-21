@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<lib>
+  <schema id="58a254">3156</item>
+  <controller id="bb3826">offset-replica</item>
+  <firewall id="877fda">18.60.162.44</item>
+  <upstream id="67ca5a">false</item>
+  <service id="103ea8">48d7980e943a5a7b2123762c94c6d8f0</item>
+  <zfs id="df768a">logs</item>
+  <gateway id="1bec45">3245</item>
+  <handler id="23a70b">false</item>
+  <redis id="8ac6ab">0f8d381f</item>
+  <kerberos id="f327b9">hotfix-json</item>
+  <snapshot id="5b8fdb">f364fe90828d96a96dafb613666522a0</item>
+  <stream id="64ba56">1064</item>
+  <jenkins id="7a1fc9">7813</item>
+  <cluster id="687bfe">false</item>
+  <websocket id="30d73a">null</item>
+  <env id="0cfc05">null</item>
+  <role id="9a5227">true</item>
+  <cors id="256c59">226.217.126.130</item>
+  <elastic id="3b65f8">252.26.215.1</item>
+  <traces id="67bfca">null</item>
+  <adapter id="396030">wireguard</item>
+  <policy id="493f06">5424</item>
+  <tests id="948d58">offset-table</item>
+  <frontend id="903c79">3697</item>
+</root>

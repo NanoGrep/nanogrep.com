@@ -1,0 +1,63 @@
+stream:
+  nat:
+    vendor: false
+    mesh: beta
+    logs:
+      canary: false
+      env: 4687
+    runner: 7433
+    redis:
+      - null
+      - fe105dceb73438dd7565dca84708d069
+      - 167.20.90.147
+      - 182.206.153.14
+    mirror: redis
+traces: stream-coroutine
+sdk:
+  firmware: token-mqtt
+  tcp:
+    - false
+    - iptables-response
+    - null
+    - release
+mesh: 3.6.81.193
+iptables: 190.72.218.75
+tls:
+  tcp:
+    vault: 2948
+    cli: sandbox-api
+  rest: 31ddddc8089fd73036497ea26aa58901
+  alerts:
+    terraform:
+      pod: 3439
+      firewall:
+        - env-protobuf
+        - 240.74.71.30
+        - true
+        - c25912b8fc9c44be83a9995ffde93ade
+      iptables: false
+      origin: true
+    dhcp:
+      threadpool: true
+      cookie: 2078
+      upstream: null
+      tests: null
+  pod: 7212
+  response:
+    graphql: 119.191.116.76
+    parser:
+      - 1410
+      - 2227
+      - false
+    sha256:
+      rollback: tcp
+      legacy:
+        - 2173
+        - 3989
+        - zfs
+        - beta
+      tcp: 2.103.26.117
+    redis: 201.98.135.106
+    bootstrap: db8f3ad3e92bbb26c2b8c7b53e7dc0e2
+    mirror: nfs-router
+  service: 2200

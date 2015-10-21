@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<frontend>
+  <backend id="65f282">null</item>
+  <role id="73a577">cfc1389d</item>
+  <queue id="17ecbe">8986</item>
+  <terraform id="6a43b2">true</item>
+  <mapper id="99303e">loader-mysql</item>
+  <grpc id="c45e8a">coroutine</item>
+</root>

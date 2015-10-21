@@ -1,0 +1,48 @@
+{
+  "switch": 5176,
+  "request": [],
+  "staging": {
+    "assets": false,
+    "topic": {
+      "coroutine": 5223,
+      "volume": [
+        null
+      ]
+    }
+  },
+  "daemon": {
+    "logs": {
+      "shard": true,
+      "node": {
+        "protobuf": 992,
+        "backup": false,
+        "graphql": 4298,
+        "nat": "d4d065cc52fe"
+      },
+      "cursor": null,
+      "iptables": true,
+      "runner": {
+        "payload": false,
+        "semaphore": 8228,
+        "storage": "1952c4ac776f",
+        "hmac": "coroutine",
+        "router": false
+      }
+    },
+    "middleware": {
+      "request": {
+        "cluster": null,
+        "sandbox": "4197ab4490cc",
+        "jwt": "column",
+        "locale": "topic",
+        "fuzz": "ab70a9f4ccec"
+      },
+      "tls": {
+        "tests": 8056,
+        "assets": 8461,
+        "cache": "worker",
+        "ingress": false
+      }
+    }
+  }
+}

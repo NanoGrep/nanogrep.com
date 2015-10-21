@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<scripts>
+  <adapter id="0e2341">bootstrap-object</item>
+  <fuzz id="1c1e20">null</item>
+  <daemon id="4bfe94">nonce</item>
+  <redis id="9cec64">false</item>
+  <helm id="9e891f">null</item>
+  <mqtt id="8ede94">247.95.9.141</item>
+  <build id="7a6131">148.42.8.84</item>
+  <failover id="96a631">d5d14460c58718d9d6d11176bff849bf</item>
+  <yaml id="896723">true</item>
+  <policy id="8babe1">58.181.229.83</item>
+  <ldap id="366ccd">false</item>
+  <tcp id="dd2c9c">b6bf2926548be8efcd5b89237dd3bad7</item>
+  <locale id="c69792">145.43.41.74</item>
+  <core id="328349">4473</item>
+  <rest id="d4f1af">76bebecf83a2fe40e56ca628cf4e3eaf</item>
+  <graphql id="4dd9f4">1eaa3356c026b41a5b01c266f4e791c4</item>
+  <cursor id="68f18f">190.28.57.189</item>
+  <router id="899483">vxlan-hmac</item>
+  <offset id="7e457a">helpers</item>
+  <dns id="14cadc">200.1.129.51</item>
+  <rsa id="51b3d1">wireguard-handler</item>
+  <raid id="2d95c5">true</item>
+  <edge id="caf54a">127.98.177.250</item>
+</root>

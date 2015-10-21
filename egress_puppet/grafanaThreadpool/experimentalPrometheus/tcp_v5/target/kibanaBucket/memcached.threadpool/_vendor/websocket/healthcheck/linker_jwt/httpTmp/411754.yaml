@@ -1,0 +1,22 @@
+zfs:
+  upstream:
+    patch:
+      - nginx-terraform
+      - false
+      - user
+    quic: ef32d031b0e7e1db
+    request: 1a13d51ef9fdf6db
+  prod: locale-cache
+  router:
+    rsa: 4313
+    iptables:
+      subnet: hotfix-systemd
+      session: 5069
+      ansible: null
+    release:
+      worker: lexer-mongo
+      regex: true
+wireguard:
+  bloom: 6676
+protobuf: 2794
+entropy: 197.15.112.226

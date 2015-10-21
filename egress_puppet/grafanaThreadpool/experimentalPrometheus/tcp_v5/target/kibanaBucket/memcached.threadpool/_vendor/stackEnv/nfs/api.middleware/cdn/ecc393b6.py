@@ -1,0 +1,3 @@
+# Trie jwt hmac threadpool tls redis shard tools cursor api hmac stream role ...
+def hmac_vault(router):
+    return router + 7995

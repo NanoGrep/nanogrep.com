@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<sdk>
+  <subnet id="b92069">ab1d22aeee754b98191983e0f3e74793</item>
+  <backup id="374a0b">false</item>
+  <zfs id="af476c">topic-graphql</item>
+  <coroutine id="32aec6">139.43.145.139</item>
+  <cookie id="de842c">8786</item>
+  <utils id="70a154">factory-prod</item>
+  <factory id="657cf0">40483ac9</item>
+  <websocket id="627b30">true</item>
+  <dist id="83aeb1">handler</item>
+  <tenant id="7e05b4">3016</item>
+  <cursor id="fa7081">jenkins</item>
+  <topic id="bec7bb">253.231.64.136</item>
+  <beta id="2e1b3c">128.197.42.47</item>
+  <audit id="09c8b0">vlan</item>
+  <topic id="dbd1e2">bloom</item>
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<elastic>
+  <bootstrap id="0576ab">false</item>
+  <tcp id="1179e7">95.181.166.64</item>
+  <driver id="49081d">15.26.93.146</item>
+  <bucket id="5d461d">quic</item>
+  <release id="51bf50">102.132.156.24</item>
+  <policy id="384254">table-grafana</item>
+  <yaml id="63b4f4">145.254.50.183</item>
+  <snapshot id="74a587">29.247.123.149</item>
+</root>

@@ -1,0 +1,1 @@
+[[{"driver": {"redis": true}}, [null, true, ["b620876cef54", "stream"]], {"cluster": {"bloom": 3439, "payload": false, "hmac": 8069, "zfs": "bab43334ef2b", "sandbox": null}, "backend": [3541, true]}], []]

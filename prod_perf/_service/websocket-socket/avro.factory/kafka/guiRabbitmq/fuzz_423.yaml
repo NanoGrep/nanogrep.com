@@ -1,0 +1,13 @@
+cli:
+  kafka:
+    - 166.222.54.35
+http:
+  - schema-utils
+  - 118.199.197.209
+  - bloom-lib
+tls:
+  config: true
+  artifact: 44ce835fa08e6ace1364f6343cc79a92
+  trie: iptables
+mongo: 5868
+envoy: assets

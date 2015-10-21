@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<role>
+  <env id="ef65b6">124.193.17.192</item>
+  <lexer id="c47ab2">null</item>
+  <lib id="bf1dde">89.19.22.169</item>
+  <upstream id="0e56ef">7012</item>
+  <cert id="3d1ee5">sandbox</item>
+  <session id="9ef99d">7878</item>
+  <release id="a1af14">tests</item>
+  <retry id="a4f289">aes-tools</item>
+  <group id="0023de">parser-bloom</item>
+  <sha256 id="7d196d">112.211.249.60</item>
+  <kernel id="35098b">mocks-pod</item>
+  <nginx id="3d2bb0">1b59d6d1</item>
+  <proxy id="eb4e01">5c6fbc18631ecb91</item>
+</root>

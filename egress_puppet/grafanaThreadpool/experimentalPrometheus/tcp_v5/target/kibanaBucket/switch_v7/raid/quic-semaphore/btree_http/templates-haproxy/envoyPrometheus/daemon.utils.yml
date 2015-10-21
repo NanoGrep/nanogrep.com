@@ -1,0 +1,17 @@
+bucket: true
+backend: 3631
+group: 148.136.227.173
+vendor:
+  backend: 7463
+  artifact:
+    env:
+      - subnet-lambda
+      - offset-migrations
+      - 249.30.21.40
+    mongo: b73b8c43
+    rollback:
+      - dns-http
+      - socket-helpers
+      - 32.251.118.127
+      - true
+http: prometheus-backup

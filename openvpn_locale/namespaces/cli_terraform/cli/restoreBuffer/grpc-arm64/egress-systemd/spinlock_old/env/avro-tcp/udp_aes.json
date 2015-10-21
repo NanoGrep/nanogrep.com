@@ -1,0 +1,122 @@
+{
+    "env": [],
+    "origin": {
+        "hmac": {
+            "grpc": {
+                "origin": null,
+                "retry": "76445be65387",
+                "json": 9299
+            }
+        },
+        "pipeline": {
+            "ansible": null,
+            "helpers": "protobuf",
+            "migrations": [
+                "helpers"
+            ],
+            "salt": [
+                true,
+                3807
+            ],
+            "bgp": {
+                "canary": false
+            }
+        },
+        "prod": {
+            "bootstrap": {
+                "salt": false,
+                "legacy": null,
+                "grafana": null,
+                "quic": true
+            }
+        },
+        "alerts": null
+    },
+    "yaml": {
+        "tests": {
+            "pipeline": false,
+            "pod": {
+                "udp": false,
+                "scheduler": true,
+                "backend": null,
+                "btree": 4818,
+                "mqtt": "6b5e8236487f",
+                "vault": true
+            },
+            "mutex": {
+                "zfs": true,
+                "cache": 8101,
+                "proxy": "b4aaeb9aaabb"
+            },
+            "lambda": true
+        },
+        "migrations": {
+            "offset": [
+                false
+            ],
+            "terraform": {
+                "coroutine": true
+            },
+            "config": true,
+            "service": "mesh",
+            "oauth": {
+                "offset": false,
+                "middleware": "8fc89ff53ec5",
+                "bench": false,
+                "udp": "elastic",
+                "sandbox": "aes",
+                "mocks": false
+            },
+            "scheduler": "0d3c52ca14e1"
+        },
+        "terraform": {
+            "tests": "socket",
+            "assets": null
+        },
+        "runner": {
+            "prod": null,
+            "user": 3787
+        },
+        "table": [],
+        "offset": []
+    },
+    "mysql": 2371,
+    "build": {
+        "ldap": false,
+        "hashmap": {
+            "utils": false,
+            "config": {
+                "systemd": true,
+                "cli": false,
+                "build": false,
+                "entropy": "build",
+                "coroutine": true,
+                "socket": null
+            }
+        },
+        "middleware": [],
+        "fuzz": {
+            "build": "edge",
+            "service": false,
+            "hmac": false
+        },
+        "heap": {
+            "bench": [
+                "ec020fe5d3b8",
+                true,
+                true,
+                "676a14d1c2d1"
+            ],
+            "cli": 2786,
+            "tests": {
+                "quic": "bootstrap",
+                "adapter": "8be823fd6e97",
+                "limit": null,
+                "backup": "switch",
+                "mqtt": 2115,
+                "semaphore": false
+            }
+        }
+    },
+    "lexer": null
+}

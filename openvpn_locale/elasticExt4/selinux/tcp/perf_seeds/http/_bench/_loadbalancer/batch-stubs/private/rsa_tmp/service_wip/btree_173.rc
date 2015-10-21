@@ -1,0 +1,17 @@
+[adapter]
+nightly_hashmap = metrics
+token.vlan = 224.133.143.66
+sdkcluster = false
+loadercursor = 234.47.123.227
+cors_lambda = driver
+wireguardmirror = 8e709cd0
+entropy.replica = 80.226.149.251
+daemon_volume = mapper
+mesh_vendor = 5786fe5af6546723
+edge_kernel = 219.41.206.20
+legacy_column = 6b06fa03e7b4be59
+driver.crypto = migrations-edge
+graphqltrie = true
+hmac.probe = websocket-websocket
+httptenant = 100.238.56.220
+driver_socket = 245.51.47.135

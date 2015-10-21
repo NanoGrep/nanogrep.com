@@ -1,0 +1,20 @@
+bloom: false
+nginx:
+  registry: 31.87.162.14
+  scheduler: 8412
+ldap:
+  factory: null
+  table: null
+  raid: 103.251.195.156
+  nightly: 8d54c4a22599af360e1a183ed8e43430
+  policy: eb33183ded81111a22796c5a01a3e4c8
+cert: 3fa517d723e58234
+websocket: 168.139.12.84
+firewall:
+  grpc: null
+  helm:
+    - tls-http
+  lib: 245.150.170.59
+  lambda: true
+  cache: true
+  aes: 2646

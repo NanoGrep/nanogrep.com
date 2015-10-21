@@ -1,0 +1,36 @@
+{
+  "lexer": {
+    "limit": {
+      "snapshot": null,
+      "cookie": "7d54b76ae7fc",
+      "envoy": {
+        "graphql": false,
+        "threadpool": false,
+        "sandbox": "b1e99d00a090"
+      }
+    },
+    "udp": false,
+    "coroutine": {
+      "nightly": []
+    }
+  },
+  "storage": "9b7621c8640c",
+  "patch": {
+    "hmac": 6203,
+    "http": {
+      "artifact": 2794,
+      "api": {
+        "terraform": null,
+        "request": "a476dcd9f635",
+        "index": true,
+        "beta": 3287,
+        "assets": 4172
+      },
+      "kerberos": "elastic",
+      "protobuf": {
+        "build": true
+      }
+    },
+    "rsa": 6453
+  }
+}

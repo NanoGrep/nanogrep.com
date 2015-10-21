@@ -1,0 +1,18 @@
+rollback:
+  threadpool:
+    - queue
+    - vendor-group
+    - gateway-mesh
+  ldap:
+    scripts:
+      http: 9174
+      ceph:
+        - dns
+        - cert-utils
+        - 1648
+        - null
+      offset: metrics
+      threadpool:
+        - nightly-row
+        - 245.212.120.102
+        - 3714

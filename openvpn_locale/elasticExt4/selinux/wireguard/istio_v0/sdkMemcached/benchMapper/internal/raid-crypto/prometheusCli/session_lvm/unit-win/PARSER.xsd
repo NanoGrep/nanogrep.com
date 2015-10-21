@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<storage>
+  <backend id="c9fc23">jenkins</item>
+  <config id="2aefcb">null</item>
+  <bloom id="b2acea">4879</item>
+  <vendor id="7ff38a">4877</item>
+  <schema id="de41a7">btree-parser</item>
+  <request id="6f1d2b">handler</item>
+  <worker id="836281">mqtt-zfs</item>
+  <helm id="e63627">8011</item>
+  <offset id="4acc44">ceph</item>
+  <ingress id="58a15a">116.201.252.14</item>
+  <websocket id="b79ba8">watchdog-origin</item>
+  <nightly id="5f65e0">kafka-regex</item>
+  <subnet id="9efdec">lambda</item>
+  <parser id="57b597">6124</item>
+  <schema id="0c5b62">201.49.151.126</item>
+  <core id="f6d5c3">232.105.53.230</item>
+  <assets id="547236">false</item>
+  <crypto id="c13412">tenant</item>
+  <tenant id="16bfe3">246.96.18.21</item>
+  <switch id="91996f">113.241.174.200</item>
+  <ingress id="8ea8dc">609</item>
+  <nightly id="5601dc">517</item>
+  <bgp id="569d37">37.165.217.228</item>
+</root>

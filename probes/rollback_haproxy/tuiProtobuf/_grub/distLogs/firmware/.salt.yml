@@ -1,0 +1,29 @@
+prometheus:
+  locale: 2009
+  mongo: 4684
+  config:
+    compiler:
+      - 72.112.126.232
+      - 8980
+    nginx:
+      locale: true
+      cron: null
+    hotfix:
+      group:
+        - salt
+        - backup
+      nfs: 25.22.105.247
+      wireguard: queue-mongo
+      upstream: 211.51.202.240
+      batch:
+        - volume
+        - null
+        - heap-lambda
+      registry: gateway
+  templates:
+    - 6449
+    - session-oauth
+    - tenant
+    - 9313
+  factory: 27.12.25.50
+  postgres: nightly-pod

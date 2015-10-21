@@ -1,0 +1,80 @@
+{
+    "column": true,
+    "trie": {
+        "sandbox": true,
+        "batch": [
+            {
+                "mesh": 9350,
+                "helm": false,
+                "adapter": "sha256",
+                "hashmap": 8436
+            },
+            {
+                "ansible": false,
+                "postgres": true
+            }
+        ],
+        "compiler": {
+            "udp": true,
+            "tls": [
+                false,
+                null,
+                false
+            ],
+            "edge": "dhcp",
+            "vxlan": 9399,
+            "session": "a8a0e29a9daf",
+            "heap": {
+                "mocks": true
+            }
+        },
+        "retry": false
+    },
+    "kernel": {
+        "mutex": false,
+        "fuzz": "vlan",
+        "cgroups": {
+            "session": null,
+            "token": {
+                "index": true,
+                "request": "2b51f96078e0",
+                "watchdog": false,
+                "vault": "a574053d92c8",
+                "worker": 619,
+                "table": "storage"
+            }
+        },
+        "dhcp": {
+            "driver": {
+                "templates": "aa60841672c9",
+                "column": null,
+                "nginx": true,
+                "elastic": "02f4ced66011",
+                "cookie": "e5fdbed3e4cc"
+            },
+            "artifact": true,
+            "runner": {
+                "staging": "cursor",
+                "mesh": "redis",
+                "backup": "env",
+                "cors": false
+            }
+        },
+        "locale": {
+            "regex": {
+                "helpers": null,
+                "factory": "cgroups",
+                "router": "backend"
+            },
+            "policy": [],
+            "helm": {
+                "grafana": false,
+                "cron": null,
+                "yaml": true,
+                "coroutine": 6110
+            },
+            "driver": "09146e779e84"
+        }
+    },
+    "aes": false
+}

@@ -1,0 +1,9 @@
+ceph: null
+router: b968da86
+role: 218.210.110.179
+runner: 435
+buffer:
+  nginx: null
+  legacy: e40de67f3a540daf
+  router: release-factory
+  mirror: 68.7.80.232

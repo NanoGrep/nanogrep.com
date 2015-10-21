@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<compiler>
+  <core id="ddd627">traces</item>
+  <vlan id="17cd07">null</item>
+  <stack id="a9f919">crypto</item>
+  <origin id="f3ef9f">2801</item>
+  <tls id="d33bc9">backup</item>
+  <nat id="4bcc59">worker-row</item>
+  <redis id="e6fcc9">5494</item>
+  <kernel id="906d02">3467</item>
+  <index id="5cbb0c">192.90.239.234</item>
+  <cluster id="3f6b6b">1098</item>
+  <tenant id="484d32">6773</item>
+</root>

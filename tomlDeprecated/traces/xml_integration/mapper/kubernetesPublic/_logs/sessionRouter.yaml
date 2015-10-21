@@ -1,0 +1,11 @@
+coroutine:
+  zfs: 178.160.181.173
+  kafka: 35.145.249.170
+  payload: cluster-kerberos
+systemd:
+  metrics:
+    - helpers-failover
+    - 117.126.103.244
+    - common-nat
+    - snapshot
+  systemd: migrations-proxy

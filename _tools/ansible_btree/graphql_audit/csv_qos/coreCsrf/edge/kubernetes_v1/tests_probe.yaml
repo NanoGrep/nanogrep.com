@@ -1,0 +1,14 @@
+dhcp:
+  role: true
+firmware: service-stream
+response:
+  - null
+  - 75c8a3ae2efa19611ded99949f4fc65f
+  - bd8e979b
+  - true
+heap:
+  - cc7b7328d7c510564861ff4c6794426a
+  - bda77f4eeb4ecae5
+  - 8051
+kerberos: 181.217.231.215
+ingress: pipeline

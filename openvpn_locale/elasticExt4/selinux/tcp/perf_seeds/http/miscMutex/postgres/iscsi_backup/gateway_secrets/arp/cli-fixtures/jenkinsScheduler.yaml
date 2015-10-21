@@ -1,0 +1,9 @@
+replica: false
+crypto: scripts-scripts
+ansible: middleware-mongo
+index:
+  - frontend-traces
+  - 8460
+  - false
+  - 7225
+traces: 9958

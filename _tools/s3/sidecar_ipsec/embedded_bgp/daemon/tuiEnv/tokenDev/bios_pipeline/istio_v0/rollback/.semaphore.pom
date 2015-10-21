@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<raid>
+  <offset id="23cd29">true</item>
+  <mirror id="2e8e23">prod-sha256</item>
+  <helpers id="65a2df">7207</item>
+  <vxlan id="592e93">patch-lexer</item>
+  <pod id="6cbb89">api-handler</item>
+  <runner id="668eac">pod</item>
+  <lexer id="a44bbc">6fb8e0a79c620d5e</item>
+  <dhcp id="8fbd27">raid</item>
+  <lib id="280b5c">34.89.111.35</item>
+  <beta id="8e44ee">false</item>
+  <object id="a43dac">146.214.80.20</item>
+  <ldap id="4ccbcc">28.52.108.99</item>
+  <scripts id="aa5433">134.228.37.6</item>
+  <assets id="69be5a">false</item>
+  <bucket id="e310ea">165.96.131.223</item>
+  <release id="83f097">column-cache</item>
+  <heap id="45d7dd">236.57.205.68</item>
+  <logs id="05ec1b">5367</item>
+  <redis id="aef7e5">grpc-migrations</item>
+  <core id="1b462c">04027928</item>
+  <driver id="09f2ee">6ca21e63ade0720e2967c57986b90fc6</item>
+  <compiler id="fa5875">patch</item>
+  <hmac id="09f8a7">scripts</item>
+  <pod id="e4d7b5">f22efe7318660bd5</item>
+</root>

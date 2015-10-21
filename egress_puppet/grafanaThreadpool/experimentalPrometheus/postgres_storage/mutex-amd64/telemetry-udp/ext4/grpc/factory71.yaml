@@ -1,0 +1,6 @@
+grpc: 96.213.22.174
+topic: true
+lexer: jwt
+response:
+  cache:
+    kerberos: 23ead866

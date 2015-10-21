@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<replica>
+  <node id="86d7c5">96.217.96.41</item>
+  <bench id="214659">76.166.223.79</item>
+  <lexer id="c670c5">967e01cec617c9c82a8ea029d5c01a57</item>
+  <batch id="0aab08">true</item>
+  <cluster id="295369">c47b0bf0</item>
+  <row id="019493">token</item>
+  <hashmap id="718d11">202.64.106.74</item>
+  <audit id="6f3597">true</item>
+  <traces id="0575a1">72.70.29.197</item>
+  <registry id="7d0bb9">kafka-kernel</item>
+  <vxlan id="4c78cc">1689</item>
+  <metrics id="64c110">3343</item>
+  <sdk id="d36583">build</item>
+  <backend id="87f4c3">440f0ce2f78acf6f</item>
+  <queue id="9e7c59">87.9.205.86</item>
+</root>

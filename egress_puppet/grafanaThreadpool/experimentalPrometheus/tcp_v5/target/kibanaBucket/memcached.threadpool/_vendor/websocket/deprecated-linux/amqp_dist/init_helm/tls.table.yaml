@@ -1,0 +1,62 @@
+queue: envoy-regex
+controller: 61.192.11.33
+release: false
+prometheus:
+  pod:
+    - null
+    - 9566
+    - 47.28.136.199
+  watchdog:
+    cursor:
+      - true
+      - semaphore
+      - 61.21.104.42
+      - cgroups
+    compiler:
+      oauth: 243.140.202.1
+      origin: 89451747a5cd6fb7cb2ab6596d4668a6
+      mutex: 199.43.169.182
+      registry: 452e5b7e5817792b
+      pod:
+        - cert
+        - 4389
+        - assets-graphql
+        - true
+      cors: true
+    firmware: null
+    gateway:
+      jenkins: 176.17.58.211
+      session: audit
+      envoy: 8247
+      wireguard: artifact-bench
+      batch: ed04c208
+      cgroups: 4938
+    retry: 7757
+    jenkins:
+      session: origin
+      bootstrap:
+        - 7237
+      lambda:
+        - null
+        - helpers
+      vendor: 144.7.192.8
+      crypto: 178.115.242.171
+      templates: 2273
+  cgroups: d099ce2303c8cc6c978afa710e9cab18
+  vlan:
+    storage:
+      edge: user-index
+    object:
+      - ccee2ed126052c410cab226aaab13fa8
+      - 83.96.84.36
+      - 684
+    ansible: 9976
+    switch: 6a47c599b6bc56b8e14cb1991a87594c
+  group:
+    - 9270
+    - mirror
+    - regex-bench
+  scope: b17620e964ccab32
+firmware:
+  - 53f23ced3b0f4e381dea47faf113ea19
+sha256: null

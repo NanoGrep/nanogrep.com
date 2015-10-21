@@ -1,0 +1,23 @@
+[retry]
+env_nginx = api-env
+offset.fixtures = proxy-canary
+legacy_build = 47e9b18e00f56f04d81a02481a59ed1c
+envcluster = 122.210.125.248
+cgroups.limit = 36.207.235.95
+backupbtree = 5950
+sandbox_redis = batch
+tls_grpc = env
+ldap.release = failover-fuzz
+wireguardartifact = user-aes
+node.table = e5efb69b59c3310dd95fe34cf15e523c
+graphqlregistry = 254.225.11.160
+yamlnonce = 1098
+bgp.payload = mapper-traces
+mysqljenkins = tls-traces
+terraform_nginx = buffer
+controllerservice = true
+dist.assets = 159.43.80.47
+testsyaml = 4219
+buffer_factory = 4378
+queueoffset = cors
+snapshot.sha256 = true

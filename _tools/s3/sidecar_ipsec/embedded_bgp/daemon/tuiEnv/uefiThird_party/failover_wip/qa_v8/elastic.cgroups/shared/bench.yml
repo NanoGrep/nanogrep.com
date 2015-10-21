@@ -1,0 +1,6 @@
+upstream: 3845
+storage:
+  trie: cert
+index:
+  - null
+offset: b0849bb2

@@ -1,0 +1,9 @@
+redis: lexer-backend
+lambda:
+  bucket: 171.107.17.59
+  helm: faaea790421c58442a15c7d7f0b483ba
+  prod: 3470
+vxlan: compiler
+kernel:
+  - threadpool
+crypto: 57.137.193.115

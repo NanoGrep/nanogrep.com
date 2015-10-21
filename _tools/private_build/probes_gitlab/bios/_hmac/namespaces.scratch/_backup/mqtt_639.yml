@@ -1,0 +1,39 @@
+systemd: false
+dns:
+  - 3cb4672f8ea20278
+  - nfs-prod
+  - 4626efd69c7d3ece
+graphql:
+  quic: true
+  graphql: true
+  iptables:
+    nat: e0086d21
+    driver:
+      frontend:
+        - offset
+      firewall: true
+      request: 6344
+    limit: registry
+    session: c2660dfd96892744
+  schema: 2077
+  vxlan:
+    dns:
+      runner: cron-yaml
+      bench: b98cd3a39541e2b7e1efd3e7d42254ef
+  grafana:
+    lambda: true
+    switch: c5e042875fbb6b57
+    jwt:
+      loader: api
+      scope: true
+      session: null
+      compiler: 5287
+      trie: 96db2c743e38167edd63b79e4f5c11ff
+      mirror:
+        - false
+        - 148.131.154.130
+        - 74.54.160.49
+    switch: 254.52.19.236
+tcp:
+  - 1629
+  - frontend

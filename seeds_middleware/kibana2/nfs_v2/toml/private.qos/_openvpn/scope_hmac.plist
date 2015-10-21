@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<audit>
+  <salt id="b0f16b">null</item>
+  <utils id="c96a17">9240</item>
+  <handler id="a9b9fb">env</item>
+  <rsa id="710b3d">parser-vault</item>
+  <stream id="1dec75">9.59.186.24</item>
+  <loader id="12f242">false</item>
+  <wireguard id="38ee9f">false</item>
+  <systemd id="095f9f">tcp-volume</item>
+  <index id="3c02e5">124.251.109.152</item>
+  <token id="0b8670">d69291e0204db717</item>
+  <nfs id="1cc1e9">alerts-beta</item>
+  <release id="e27afd">user-upstream</item>
+  <buffer id="f371b3">tls-ansible</item>
+  <firewall id="e3d3e2">137.102.32.166</item>
+  <request id="17f68f">semaphore-request</item>
+  <fuzz id="b2cec2">session</item>
+  <volume id="31e3d2">b80a8762</item>
+  <grpc id="5e2c32">2042</item>
+  <proxy id="a5cfc8">canary-middleware</item>
+  <ansible id="ee30a5">ldap-vendor</item>
+  <coroutine id="1d91e1">cache</item>
+</root>

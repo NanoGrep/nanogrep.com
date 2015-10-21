@@ -1,0 +1,10 @@
+firmware,lib,cli
+daemon,170.73.192.250,9c26c49bddb4cc42
+websocket,158.192.189.72,cluster-tls
+worker-vendor,kerberos-switch,salt
+lambda-request,172.44.25.168,upstream
+json,false,utils-loader
+tests-firmware,02b750d3949532692182c2a2302f8aee,sandbox
+cli-locale,null,177.220.7.29
+prod,hmac,977
+f96190e9,release,role

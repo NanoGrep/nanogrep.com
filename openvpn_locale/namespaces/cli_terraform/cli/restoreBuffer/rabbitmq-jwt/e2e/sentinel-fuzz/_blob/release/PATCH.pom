@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ldap>
+  <aes id="93a0e0">worker</item>
+  <backup id="00fd87">5278</item>
+  <handler id="146b4d">7533</item>
+  <role id="5faf33">67.218.126.240</item>
+  <offset id="cd1e3a">1460</item>
+  <vendor id="8170b3">245.124.212.201</item>
+</root>

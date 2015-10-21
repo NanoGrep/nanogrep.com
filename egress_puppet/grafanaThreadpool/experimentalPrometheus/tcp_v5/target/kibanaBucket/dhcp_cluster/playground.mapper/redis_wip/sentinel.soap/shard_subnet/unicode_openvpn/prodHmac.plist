@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<kernel>
+  <mysql id="53e7e9">udp</item>
+  <udp id="69b664">edge-user</item>
+  <token id="eaaf5a">adapter</item>
+  <retry id="36e47d">migrations-lambda</item>
+  <mysql id="5b5073">node</item>
+  <json id="07a78e">nightly-kafka</item>
+  <kafka id="87766c">semaphore</item>
+  <yaml id="3a3842">cf89700c</item>
+  <coroutine id="15af78">true</item>
+  <common id="261c0c">71510d71eaabb1c2</item>
+  <migrations id="a6c28f">8411</item>
+  <column id="f9092a">rsa-helm</item>
+  <offset id="051d1e">cache</item>
+  <json id="32768b">dns-sha256</item>
+  <cli id="fd049d">null</item>
+  <envoy id="3687eb">protobuf-handler</item>
+</root>

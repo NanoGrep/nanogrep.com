@@ -1,0 +1,83 @@
+hashmap:
+  semaphore:
+    staging:
+      cors:
+        - row
+        - c6212ebbf360e0a3a8f6511600f992c2
+      api: c4cbddd3
+      elastic: sdk
+      user: middleware-audit
+      trie: 15f3a0e7
+      proxy: node-scripts
+    schema: false
+    vendor:
+      dhcp: cert-hmac
+      gateway: rollback-templates
+      stack: 4846
+    role: mysql
+    worker: true
+    postgres:
+      threadpool:
+        - 34.71.137.223
+        - 9843
+        - 7c2849dd
+      tools: assets-adapter
+      tenant: 206.194.122.10
+      release: 232.225.114.70
+  worker: loader
+  cookie:
+    env: tls-ldap
+    compiler: 90.148.136.123
+  sandbox: tests-rollback
+  ansible:
+    protobuf:
+      metrics: alerts-cert
+      redis: null
+      controller: rest-service
+      sha256: 9acc3cfb4204e4c1
+    threadpool: 150.15.9.241
+    registry:
+      router: 590270c3ed26d9f075d4b3bc932375da
+      subnet: json-helpers
+      ceph: 195.165.17.154
+      sandbox: 197.12.47.64
+      nfs:
+        - 58.38.5.144
+        - 363751307797b786
+        - 6172
+      frontend: 442
+    firewall: prod
+    prod: true
+daemon: 7240
+switch:
+  row:
+    - null
+    - 610
+  zfs:
+    bootstrap: null
+    rollback: mutex-column
+    entropy:
+      replica: 9122
+      node: false
+      dns: true
+      bootstrap: stack
+      session: 43.192.111.44
+    ingress:
+      - batch-common
+      - 2.77.39.129
+    build: 75.53.92.63
+    mqtt: true
+  terraform: false
+  oauth: mesh
+  artifact:
+    bloom: nginx-column
+postgres: 20bc99747b2ffbac87435f01bd206306
+assets:
+  udp: canary
+  yaml: 06e012d3
+  compiler: 76.122.91.236
+  proxy: object-table
+  policy: artifact-snapshot
+backup:
+  kernel: 105.123.165.144
+  table: 060cc13ef31da062d96ad2047c05db61

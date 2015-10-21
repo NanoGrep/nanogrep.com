@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<oauth>
+  <json id="8a42ba">null</item>
+  <router id="ef763a">dhcp-metrics</item>
+  <volume id="cf9db6">null</item>
+  <shard id="30cf21">6154</item>
+  <terraform id="445e9d">null</item>
+  <stack id="a1ee31">true</item>
+  <nat id="801745">frontend-stack</item>
+  <wireguard id="8a41b8">vault-hmac</item>
+  <nat id="2036a8">a460e5bf</item>
+</root>

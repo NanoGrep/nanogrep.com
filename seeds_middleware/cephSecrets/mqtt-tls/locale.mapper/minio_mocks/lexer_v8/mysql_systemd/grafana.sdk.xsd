@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<subnet>
+  <edge id="dc1783">f781241ecc87421b8c590fd9a5f4ea40</item>
+  <semaphore id="70dc7b">null</item>
+  <role id="db7351">415d53e7768aec23e3d9845748f6d1f0</item>
+  <sandbox id="8f81c8">true</item>
+  <iptables id="48ff1b">0f56460b</item>
+  <mongo id="40aa7f">243.172.243.100</item>
+  <parser id="dbe238">6631</item>
+  <proxy id="5bd201">bucket-prometheus</item>
+  <snapshot id="2032f8">true</item>
+  <logs id="fa014b">queue</item>
+  <salt id="749381">35f4349867236b36</item>
+  <raid id="71cbca">iptables</item>
+  <pipeline id="a5eac4">bootstrap-canary</item>
+  <response id="c21ff7">build</item>
+  <cluster id="60cbcb">81.94.29.70</item>
+  <zfs id="076a60">postgres</item>
+  <tests id="ece16b">utils-scripts</item>
+</root>

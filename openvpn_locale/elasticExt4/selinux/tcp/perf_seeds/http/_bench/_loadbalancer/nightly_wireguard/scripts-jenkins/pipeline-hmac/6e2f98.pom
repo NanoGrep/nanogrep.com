@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<frontend>
+  <stream id="c8d391">utils-worker</item>
+  <role id="709f83">false</item>
+  <frontend id="258e77">9233</item>
+  <patch id="b1f187">nat-zfs</item>
+  <traces id="6cee19">bgp</item>
+  <tenant id="c5d52e">factory-ansible</item>
+  <mapper id="48ab96">bloom</item>
+  <worker id="f8d222">response</item>
+  <subnet id="d8ffe1">231.249.144.229</item>
+</root>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<backup>
+  <assets id="ae410d">true</item>
+  <socket id="4377af">8.178.239.49</item>
+  <hotfix id="d0ae87">137.67.225.87</item>
+  <tls id="4247b9">9641</item>
+  <grafana id="5833a4">1164</item>
+  <http id="23f13b">2314</item>
+  <gateway id="40261d">storage-kernel</item>
+  <raid id="d67a83">189.150.81.112</item>
+  <service id="d83340">07c1d58d</item>
+  <proxy id="848e89">null</item>
+  <volume id="191170">7544</item>
+  <hmac id="0631d9">177.176.178.45</item>
+  <session id="220d9b">80aa58b05bbed5680e7c67feb13eb70e</item>
+  <failover id="27d0fa">firewall</item>
+  <mapper id="6dc090">true</item>
+  <ansible id="6ac8b8">row-cluster</item>
+  <gateway id="f3eb60">39b270c7664c133e144d3c18e3519756</item>
+  <graphql id="3c3182">153.156.153.30</item>
+  <edge id="cd66ea">89df329e393908365c8d23bbca61768a</item>
+  <build id="7635c2">null</item>
+  <artifact id="c203db">6836</item>
+</root>

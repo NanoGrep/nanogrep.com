@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<cookie>
+  <batch id="b8495e">row-policy</item>
+  <policy id="22e95b">96.193.23.122</item>
+  <lib id="9e0fce">null</item>
+  <rollback id="792942">245.73.26.91</item>
+  <backup id="a89b1a">224.69.116.84</item>
+  <rest id="2ba6c0">true</item>
+  <iptables id="cbeb12">protobuf</item>
+  <templates id="073ccd">3579</item>
+  <kerberos id="a896aa">1296</item>
+  <dist id="3c0ef7">session-rsa</item>
+  <topic id="e0b731">hashmap-env</item>
+  <loader id="b8b1d8">9247</item>
+  <parser id="8abe87">false</item>
+  <vlan id="fe78f3">3.216.203.138</item>
+  <dns id="ff0df0">false</item>
+  <terraform id="bd0ca8">scheduler</item>
+  <fixtures id="a28bf1">69.174.112.116</item>
+  <audit id="ff835a">09c9e1f7c1389399</item>
+</root>

@@ -1,0 +1,27 @@
+daemon:
+  upstream:
+    retry: fuzz
+    firmware:
+      fixtures: assets
+      systemd: semaphore
+      nginx: 106.48.27.131
+      metrics: cookie
+      storage: eabd0dc4fc595c60
+    batch: true
+firmware:
+  tools:
+    nightly:
+      bootstrap: 58.193.150.248
+      helm:
+        - 142.180.174.5
+      kernel: 228.32.22.90
+      btree: true
+      user: 7235
+    fixtures: semaphore
+  topic: 4120d84e91ffce815adead999ae7cbfd
+registry: envoy-alerts
+tenant: 437
+core:
+  ldap:
+    - 47.14.13.224
+    - sha256

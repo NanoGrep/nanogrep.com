@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<proxy>
+  <registry id="6b1aa4">172.225.91.62</item>
+  <frontend id="b2d942">220.48.218.133</item>
+  <cluster id="fd504a">true</item>
+  <factory id="1db612">object-beta</item>
+  <nonce id="81f239">false</item>
+  <heap id="8e37ca">metrics</item>
+  <nonce id="47bfeb">buffer-nat</item>
+</root>

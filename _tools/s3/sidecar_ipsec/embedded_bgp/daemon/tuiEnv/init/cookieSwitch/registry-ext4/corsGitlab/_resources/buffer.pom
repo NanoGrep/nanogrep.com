@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<beta>
+  <fuzz id="b98c83">48be05ef</item>
+  <audit id="786484">6861</item>
+  <tenant id="c90cf0">true</item>
+  <bootstrap id="914ca1">router-object</item>
+  <backup id="dc0c99">lexer-lib</item>
+  <wireguard id="bd4b4b">4a1669e438bde3fdfca46e2a205ecf74</item>
+  <daemon id="2d6175">bootstrap-shard</item>
+  <vendor id="bd5768">137.130.21.51</item>
+  <failover id="41044b">null</item>
+  <tcp id="03e17a">223.179.183.236</item>
+  <pod id="ee233d">false</item>
+  <quic id="a501cb">5253</item>
+  <artifact id="d66fdf">cluster</item>
+  <core id="c6c319">2f2651d31c93aa9695f410f4c16770aa</item>
+  <cursor id="433ebf">8692</item>
+  <middleware id="acd49a">false</item>
+  <common id="428dbc">true</item>
+  <zfs id="453e03">true</item>
+  <column id="53d71b">7c5c1605db109c806520824cbeb2476f</item>
+  <nginx id="021ab2">4921</item>
+  <kafka id="94c1fb">1756</item>
+</root>

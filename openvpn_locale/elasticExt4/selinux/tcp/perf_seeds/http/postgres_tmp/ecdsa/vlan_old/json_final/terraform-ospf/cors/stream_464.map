@@ -1,0 +1,30 @@
+{
+    "rest": {
+        "tests": {
+            "limit": {
+                "kernel": true,
+                "mocks": "87b26569b218",
+                "beta": "btree",
+                "controller": "a6ffb5af09fa",
+                "alerts": null
+            },
+            "response": null
+        },
+        "release": {
+            "websocket": 701,
+            "sdk": "stream",
+            "artifact": "a2e617be2fee",
+            "fuzz": "kafka",
+            "dns": [
+                4233,
+                null,
+                true
+            ],
+            "backend": [
+                6013,
+                244
+            ]
+        }
+    },
+    "service": false
+}

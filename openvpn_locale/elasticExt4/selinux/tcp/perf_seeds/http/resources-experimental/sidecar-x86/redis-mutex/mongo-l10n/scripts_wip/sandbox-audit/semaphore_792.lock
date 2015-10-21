@@ -1,0 +1,6 @@
+{
+  "role": null,
+  "rest": 7806,
+  "cgroups": false,
+  "threadpool": "daemon"
+}

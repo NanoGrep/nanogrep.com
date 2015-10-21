@@ -1,0 +1,19 @@
+{
+    "mapper": [],
+    "bucket": null,
+    "cert": {
+        "switch": [
+            236,
+            [],
+            {
+                "cluster": true,
+                "mesh": false,
+                "legacy": true,
+                "entropy": true,
+                "grpc": 7140,
+                "kafka": 5918
+            },
+            false
+        ]
+    }
+}

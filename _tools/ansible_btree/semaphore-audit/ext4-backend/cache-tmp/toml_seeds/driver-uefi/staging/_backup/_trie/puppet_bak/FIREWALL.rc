@@ -1,0 +1,21 @@
+[factory]
+prometheusservice = null
+redisfactory = null
+limitassets = 191.71.194.164
+metricssnapshot = true
+cluster_frontend = null
+switchpipeline = 2c0c45c8
+tenantsystemd = false
+helmingress = 72895c1584ae015c
+router.registry = 62110b86d6a63ac8
+meshbootstrap = 5164
+hmacceph = 243.87.211.224
+response_raid = pod
+mutex_pod = frontend
+runner_beta = 978
+buildldap = failover
+hotfix_prod = true
+aes_hotfix = 1698
+dist.probe = edge
+elasticgroup = backup
+jwt.env = iptables

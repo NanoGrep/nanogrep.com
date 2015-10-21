@@ -1,0 +1,4 @@
+elastic: core-coroutine
+nightly:
+  tenant: 084f7772b19d1459057cb12d2ba60ecc
+  kafka: 72.202.53.23

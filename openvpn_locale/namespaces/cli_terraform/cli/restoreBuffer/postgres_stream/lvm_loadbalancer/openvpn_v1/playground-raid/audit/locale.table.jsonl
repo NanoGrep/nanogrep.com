@@ -1,0 +1,59 @@
+{
+  "common": {
+    "websocket": {
+      "proxy": [
+        "0107cc531ffc",
+        false,
+        false,
+        "origin"
+      ],
+      "service": [
+        null,
+        "2bfbe69b3919",
+        true,
+        false
+      ],
+      "cert": {
+        "nfs": false,
+        "object": null,
+        "dist": true,
+        "session": "kafka",
+        "kafka": 7646,
+        "scheduler": 1997
+      }
+    },
+    "router": [],
+    "trie": [
+      {
+        "env": "a98e5df4cea3",
+        "helm": true,
+        "user": false,
+        "batch": null,
+        "scheduler": 5820
+      }
+    ],
+    "redis": {
+      "jenkins": "role",
+      "json": {
+        "alerts": true,
+        "firmware": null,
+        "beta": "switch",
+        "mongo": true,
+        "batch": false
+      }
+    },
+    "edge": [
+      {
+        "heap": null,
+        "kafka": 9776,
+        "ingress": false,
+        "token": null,
+        "pipeline": true
+      }
+    ],
+    "ingress": 4273
+  },
+  "envoy": true,
+  "backend": "7246b9dbd860",
+  "raid": true
+}

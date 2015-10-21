@@ -1,0 +1,70 @@
+{
+  "wireguard": true,
+  "origin": {
+    "artifact": true,
+    "row": 4662,
+    "entropy": {
+      "sandbox": {
+        "middleware": null,
+        "column": false,
+        "firewall": "903d1460a728",
+        "nonce": false,
+        "snapshot": null,
+        "bloom": false
+      },
+      "salt": "4e541521ea10",
+      "cookie": "tools",
+      "tests": {
+        "ldap": null,
+        "grpc": true,
+        "cert": false
+      },
+      "canary": false
+    }
+  },
+  "redis": {
+    "bucket": [
+      {
+        "tests": true,
+        "loader": null
+      },
+      [
+        true,
+        null,
+        4914,
+        747
+      ]
+    ],
+    "cgroups": [
+      [],
+      {
+        "handler": true,
+        "topic": "handler",
+        "ansible": "4823a111d1e0"
+      },
+      {
+        "cursor": 1168,
+        "semaphore": "quic",
+        "aes": false
+      }
+    ],
+    "kafka": {
+      "crypto": true,
+      "grafana": 8465
+    },
+    "firmware": [],
+    "backup": [],
+    "utils": [
+      "api",
+      false,
+      []
+    ]
+  },
+  "jenkins": true,
+  "firmware": [
+    {
+      "watchdog": 2350
+    },
+    3586
+  ]
+}

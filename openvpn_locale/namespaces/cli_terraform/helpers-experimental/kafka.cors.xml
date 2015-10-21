@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ceph>
+  <buffer id="783695">2902</item>
+  <tenant id="dbd181">113.223.239.232</item>
+  <bucket id="950a92">jwt</item>
+  <release id="59c871">salt</item>
+  <row id="5f697b">storage-bench</item>
+  <limit id="b2c05d">true</item>
+  <tenant id="cd9862">null</item>
+  <regex id="57a33a">138.87.139.48</item>
+  <shard id="b24ce8">482520c7ab911d27962a05fb4954da92</item>
+  <envoy id="7c22c0">4206b5e22cfa4f84e4abda09b7306c42</item>
+  <runner id="0f529a">242.136.167.38</item>
+  <response id="092a30">mysql</item>
+  <tcp id="8096ae">7705</item>
+  <protobuf id="9934aa">6793</item>
+</root>

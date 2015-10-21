@@ -1,0 +1,41 @@
+protobuf: 87.127.80.156
+cluster:
+  - false
+  - false
+backup:
+  prometheus:
+    mirror: 149.230.81.7
+    group: jwt-backup
+  mysql: vxlan-templates
+  tenant: ea2746fb8a01606f
+  mongo: worker-legacy
+  metrics: 7f172e752da0a0b8
+  wireguard: 9cfbd49de1db7036aa00d5d1523e1c24
+group: mqtt-cursor
+session:
+  cursor: 3182
+  envoy:
+    core:
+      middleware: kafka
+      buffer: 2094
+      index: 18.241.154.235
+      row: c24f4430e9e961f4b5838668e41e796d
+      ingress: prod
+    payload:
+      mocks: 62fcfdd72ac63ae9
+      release: false
+    column: 7181
+    offset: 2605
+    switch: a2c1f9574fb234929329bd1bf0cc29fa
+    traces: router-column
+  row: scope
+  index: b5d33e4ba1e63583
+session:
+  switch:
+    - jwt
+  probe: grpc-vlan
+  buffer: jwt-buffer
+  helpers: null
+  api:
+    - 8aa69cd5e2a6a66a
+  schema: cookie-stream

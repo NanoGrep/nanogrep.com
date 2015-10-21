@@ -1,0 +1,25 @@
+{
+    "logs": {
+        "scripts": 6579,
+        "stack": {
+            "grafana": [
+                null,
+                "mysql",
+                null
+            ],
+            "backend": {
+                "bgp": true,
+                "yaml": null,
+                "user": "8008278e75bb",
+                "switch": null,
+                "zfs": "rsa"
+            },
+            "trie": 6017,
+            "cursor": true,
+            "raid": {
+                "gateway": false
+            }
+        },
+        "systemd": true
+    }
+}

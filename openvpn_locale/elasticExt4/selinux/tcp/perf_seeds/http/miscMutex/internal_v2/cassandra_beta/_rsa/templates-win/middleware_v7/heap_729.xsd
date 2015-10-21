@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<adapter>
+  <raid id="4e6393">10.49.49.206</item>
+  <failover id="fcbf64">816</item>
+  <nfs id="45a8db">ingress</item>
+  <nightly id="e3fdef">compiler</item>
+  <scheduler id="80e7d5">7fcd50fdc690fa07d438b72602840b58</item>
+  <vendor id="7b4233">6539</item>
+  <alerts id="307450">mqtt-cookie</item>
+  <nonce id="0d8f2e">registry-firmware</item>
+  <zfs id="27b7d4">vxlan-compiler</item>
+  <payload id="66fddb">true</item>
+  <templates id="9679c6">null</item>
+  <vault id="e4b09c">release-edge</item>
+  <row id="fd1621">false</item>
+  <nginx id="2699a5">6aca4b9b6b54bf8bd5712df2059965fb</item>
+  <scheduler id="e910f8">2f75dc16</item>
+  <socket id="bbf23e">null</item>
+  <config id="23eb4a">1232</item>
+  <jenkins id="2f8484">133.183.127.29</item>
+  <kernel id="740779">prod-salt</item>
+  <common id="82bef2">8177</item>
+  <ingress id="fc0106">70007256b9e87017a408361ba2507bb2</item>
+</root>

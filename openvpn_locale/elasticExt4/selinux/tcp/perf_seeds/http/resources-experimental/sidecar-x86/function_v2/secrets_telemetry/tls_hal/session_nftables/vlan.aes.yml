@@ -1,0 +1,46 @@
+queue: adapter-tests
+socket:
+  mysql: 2076
+  salt:
+    stack: false
+    mocks:
+      controller: 6441
+      helm: 02b62cd9c3bbcc78
+      sdk: null
+      cookie: 166.99.32.43
+      probe: artifact-handler
+      dhcp: true
+    graphql:
+      dist: false
+      middleware:
+        - 184.208.237.207
+      runner: 254.219.214.47
+    mutex: 107.211.223.145
+    mapper:
+      canary: hmac
+    stack: migrations-mqtt
+  lexer: volume
+  btree: canary
+  retry:
+    runner:
+      bootstrap: null
+      node: 334
+      response:
+        - 74392c1dba58a780f5f0b0eb0d1d5db7
+      legacy: 154.209.203.166
+      semaphore: eec7af70741d1eb33e6e160e9995dbe7
+    backup: 233.176.139.238
+    heap:
+      kafka: c060f7433296d3697d575bfeb19ef4ee
+      schema: 5300
+      node: 8377
+      helpers: 910
+      row: 4681
+      cli: 598
+    storage: 9182f6423286abc0034ce15632898dc8
+    staging:
+      staging: 134.5.207.230
+      gateway: fuzz-frontend
+      json: cli-socket
+      sha256: 189.68.32.206
+      tools: 251.217.14.70

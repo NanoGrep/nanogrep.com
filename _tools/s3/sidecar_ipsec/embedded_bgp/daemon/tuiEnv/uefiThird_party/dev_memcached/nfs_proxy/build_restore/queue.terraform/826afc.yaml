@@ -1,0 +1,14 @@
+schema: 65916f06effde687
+backend:
+  schema:
+    salt: 595902ec
+    wireguard: parser
+  ingress:
+    worker: lib
+    heap: 8433
+    adapter: 1450
+    mirror:
+      - null
+      - 9f2ac92ced8abec1
+    elastic: cgroups-schema
+hotfix: 793

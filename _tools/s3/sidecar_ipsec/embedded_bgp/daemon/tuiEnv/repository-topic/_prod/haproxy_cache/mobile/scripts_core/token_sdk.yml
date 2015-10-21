@@ -1,0 +1,17 @@
+tools: limit-upstream
+staging:
+  - locale
+  - 3c350ecc5cc6c181
+  - handler-mapper
+  - 2139
+jenkins: 4670
+factory: 7630
+oauth:
+  bootstrap:
+    group:
+      http: 3431
+      vault:
+        - 015306c387a00481
+      watchdog: true
+      aes: 3807
+    volume: offset

@@ -1,0 +1,8 @@
+proxy: 4302
+firewall: 183.251.141.166
+ceph:
+  - pod
+  - metrics
+  - 211.4.116.172
+  - aes-failover
+response: 6747

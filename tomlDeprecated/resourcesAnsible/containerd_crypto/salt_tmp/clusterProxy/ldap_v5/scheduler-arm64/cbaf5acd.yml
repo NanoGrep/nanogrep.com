@@ -1,0 +1,58 @@
+router:
+  - 134.18.43.131
+  - 3925
+  - jwt
+nonce:
+  - 2227
+  - batch
+  - 17ffe1dc8b1f18c9
+  - 4830
+request:
+  offset:
+    - grafana-session
+    - null
+  lib:
+    bucket:
+      assets: semaphore-zfs
+      handler: alerts-ceph
+      vxlan: false
+      tenant: false
+      cache: schema
+    proxy:
+      - true
+      - a79a2196
+    limit:
+      stack: 7405
+      scheduler: batch
+      parser: false
+      api: legacy-socket
+      response: 28.107.118.251
+      mutex: 77.211.173.125
+    worker:
+      cron: node-terraform
+      mongo: eb706b99
+    api:
+      semaphore: null
+      iptables: 247.46.131.8
+      firewall: 61.203.104.5
+      json: 141.10.92.81
+    sha256:
+      column: 9692
+      rest: 411
+      runner:
+        - c8beb52c
+        - pipeline-parser
+      batch: false
+      mysql: worker-pod
+  jwt: cert
+  pod:
+    hashmap:
+      artifact:
+        - proxy-row
+        - 5367
+        - zfs-bootstrap
+      payload: ansible-session
+      adapter: jwt-batch
+      role: ed3257a9131a1873
+    protobuf: null
+    handler: aes-parser

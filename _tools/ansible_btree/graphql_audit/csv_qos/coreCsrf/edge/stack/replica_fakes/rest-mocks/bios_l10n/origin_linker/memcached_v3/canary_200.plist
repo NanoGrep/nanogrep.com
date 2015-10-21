@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<canary>
+  <quic id="d065c0">mutex</item>
+  <semaphore id="d7ccaa">4e7f38ec5ee18cc6</item>
+  <kerberos id="12b5d1">sha256-core</item>
+  <probe id="00b1b4">a652159d</item>
+  <nfs id="49593e">5ed3ac74299dcc7fa0a995a393e62aaf</item>
+  <bloom id="2238b9">null</item>
+  <traces id="eb3516">true</item>
+  <locale id="9e2520">false</item>
+  <config id="663c06">probe</item>
+  <cookie id="fa5d1e">bgp-schema</item>
+  <worker id="8d797b">220.34.113.166</item>
+  <traces id="4bcd08">mapper</item>
+</root>

@@ -1,0 +1,15 @@
+oauth:
+  request:
+    cors: 09ea91cd2c5e38ef44418fd39d5833ce
+    cursor: 3368
+    edge: 779
+  row: true
+  threadpool: null
+  worker:
+    - gateway-router
+    - 228.9.162.240
+    - 759f2bb0
+  systemd: cert
+  grafana: helpers-protobuf
+row: kafka-tools
+hotfix: 1b07369a

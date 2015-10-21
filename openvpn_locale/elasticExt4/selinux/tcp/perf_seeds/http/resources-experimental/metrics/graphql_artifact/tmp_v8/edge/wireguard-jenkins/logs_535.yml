@@ -1,0 +1,21 @@
+trie:
+  - tenant-ingress
+bgp:
+  ceph:
+    sandbox:
+      - null
+    firmware: 7297
+    release:
+      mesh: 215.72.77.221
+      nonce: 4108
+      heap:
+        - beta-registry
+      config: 130.199.217.20
+    bench:
+      dist: a3ca7f3668939b2b25d4b0f5b3adcb28
+  utils: true
+  graphql: null
+queue:
+  oauth: 4048
+  subnet: 217.201.45.145
+  common: crypto

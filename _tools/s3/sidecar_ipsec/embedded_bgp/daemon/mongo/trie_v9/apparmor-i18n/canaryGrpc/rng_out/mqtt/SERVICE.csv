@@ -1,0 +1,12 @@
+bootstrap,rest,quic
+150.24.251.254,2539,6010
+79.208.150.207,worker-json,161.186.251.8
+null,nonce-dns,5.67.4.218
+null,7282,7810
+helpers-jenkins,registry-regex,false
+config,bloom,4029
+middleware-switch,helpers,2919
+242.198.172.220,proxy-token,20.19.250.135
+ansible,aa16c22c812346d9d42f1503787443e4,shard-entropy
+false,5683,vxlan-ansible
+254.80.157.27,vlan,true

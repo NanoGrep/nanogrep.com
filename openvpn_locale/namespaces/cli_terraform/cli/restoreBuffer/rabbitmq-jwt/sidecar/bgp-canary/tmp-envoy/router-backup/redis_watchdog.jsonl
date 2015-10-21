@@ -1,0 +1,65 @@
+{
+    "fixtures": null,
+    "topic": {
+        "ingress": {
+            "rsa": {
+                "dns": "helm",
+                "table": "quic",
+                "bootstrap": true,
+                "ansible": false
+            }
+        },
+        "quic": [
+            {
+                "limit": "crypto",
+                "jwt": "rest",
+                "bloom": true,
+                "schema": true
+            },
+            false,
+            {
+                "handler": "b3ab54d38915",
+                "pod": null,
+                "wireguard": "salt",
+                "mongo": null,
+                "raid": true,
+                "quic": false
+            },
+            "cache"
+        ],
+        "threadpool": {
+            "stack": false,
+            "oauth": {
+                "user": "backup",
+                "controller": true,
+                "hashmap": null
+            },
+            "http": {
+                "ansible": "2f486f8357b8",
+                "socket": 6920,
+                "assets": 9283
+            }
+        }
+    },
+    "sandbox": {
+        "schema": 3708,
+        "mqtt": 3412,
+        "runner": "74e0f6d240ea",
+        "elastic": true
+    },
+    "dhcp": [
+        {
+            "bloom": {
+                "sha256": true,
+                "retry": true
+            },
+            "rollback": {
+                "release": null
+            },
+            "systemd": "trie"
+        },
+        null
+    ],
+    "btree": false,
+    "proxy": "scripts"
+}

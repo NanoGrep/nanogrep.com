@@ -1,0 +1,33 @@
+[retry]
+topic_watchdog = 6157
+mocks_logs = topic
+artifact.common = 8a16426edd7ec92f12d31bd46e575315
+failover.compiler = cursor-btree
+migrations_ingress = mutex
+
+[nonce]
+subnet_yaml = 6657
+kernel_coroutine = false
+artifact_role = 146.204.240.175
+scope_ceph = staging
+artifact_alerts = a4762aaf9ac3f56a
+iptables.gateway = 227.244.183.157
+
+[semaphore]
+sdk_api = 2725
+rest.build = user
+servicesalt = elastic-build
+scope_vendor = cron
+rollbackscripts = 2e79e32d99d353ea
+hmac.bootstrap = 198.24.139.68
+tests.iptables = 515ea4eb
+dist.cors = f79c2f0df8f795ba38a2f5b0ce82ae84
+cronpipeline = false
+originmocks = 805a63300cf6943831c36faedb3a6f25
+traces_legacy = false
+
+[json]
+storage_redis = 5707
+logsadapter = 4172
+offsetpipeline = null
+elasticjenkins = 168.34.73.86

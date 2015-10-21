@@ -1,0 +1,26 @@
+{
+  "staging": "205d602effc4",
+  "udp": [
+    {
+      "mongo": "vendor"
+    },
+    "switch",
+    {
+      "bootstrap": {
+        "rollback": 9414,
+        "env": 2131,
+        "index": false,
+        "switch": false,
+        "limit": "dns"
+      }
+    },
+    [
+      {
+        "snapshot": "table",
+        "tests": 8279,
+        "object": "6b504c0f5f26",
+        "column": null
+      }
+    ]
+  ]
+}

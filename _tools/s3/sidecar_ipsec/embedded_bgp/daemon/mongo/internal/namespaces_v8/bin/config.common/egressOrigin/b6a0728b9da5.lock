@@ -1,0 +1,44 @@
+{
+  "pipeline": [
+    {
+      "firmware": {
+        "user": false,
+        "grpc": "4b62a23b7519",
+        "migrations": false,
+        "lexer": true,
+        "prod": true
+      }
+    },
+    [
+      {
+        "volume": "grafana",
+        "runner": "nginx"
+      }
+    ]
+  ],
+  "semaphore": {
+    "failover": [
+      {
+        "semaphore": 3051,
+        "dhcp": "helm"
+      }
+    ],
+    "lambda": [],
+    "build": [
+      true,
+      [
+        "93ccd23eeedf",
+        null
+      ]
+    ],
+    "lexer": {
+      "mqtt": "cors",
+      "migrations": {
+        "locale": null
+      },
+      "yaml": true
+    }
+  },
+  "tls": "5c95d2be422e",
+  "replica": false
+}

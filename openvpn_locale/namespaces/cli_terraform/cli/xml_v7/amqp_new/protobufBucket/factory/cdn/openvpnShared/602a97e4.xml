@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<helm>
+  <elastic id="eda035">0e28c4b2e3c5397c65ba005d2f092a3a</item>
+  <graphql id="e69894">243.120.109.215</item>
+  <core id="572954">adapter</item>
+  <schema id="71abf9">null</item>
+  <registry id="d2af07">false</item>
+  <bgp id="aeefb8">104.91.138.182</item>
+  <bench id="4ca59b">true</item>
+  <handler id="7aabbc">migrations-snapshot</item>
+  <nat id="c77da4">8144</item>
+  <watchdog id="68206b">6269</item>
+  <row id="ded520">7082</item>
+  <mqtt id="2af0df">c245bae8e57c72ab</item>
+  <env id="d37692">kernel-btree</item>
+  <mqtt id="b69ca4">a2c944ad02a205ffdb4c42527e4f0450</item>
+  <upstream id="2e3df1">null</item>
+  <probe id="1e4da9">false</item>
+  <terraform id="5f83f0">60.5.197.152</item>
+  <token id="ab1cb4">role-snapshot</item>
+  <canary id="52fd0c">true</item>
+  <nfs id="0c4ee2">cookie</item>
+  <sandbox id="ac270f">vxlan</item>
+  <factory id="925cea">5f99a328b239a29e</item>
+  <vxlan id="549be1">kafka</item>
+  <firmware id="101587">cache-staging</item>
+  <shard id="4abc48">true</item>
+</root>

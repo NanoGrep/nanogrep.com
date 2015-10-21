@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<node>
+  <beta id="1e45f2">replica</item>
+  <mesh id="868a91">a0dd4ac0ff735f7efb8d7e80a91ffbf8</item>
+  <ingress id="658644">de72b1d4691e2351</item>
+  <row id="74c7aa">9223be96</item>
+  <column id="64c672">scripts</item>
+  <subnet id="17975f">parser</item>
+  <switch id="6cca6d">171.71.178.47</item>
+  <envoy id="ec4a77">e5b906bd9c5f5748</item>
+  <iptables id="709d96">241.174.231.109</item>
+  <dist id="17c619">179.217.213.211</item>
+  <cluster id="30faf1">false</item>
+  <request id="618fcc">8208</item>
+  <helm id="7a28e9">7057</item>
+  <proxy id="ede07f">false</item>
+</root>

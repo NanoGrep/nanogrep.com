@@ -1,0 +1,50 @@
+topic:
+  policy: api-lambda
+  lib:
+    - queue-tools
+  ingress: adapter-iptables
+origin: logs
+cookie:
+  cors:
+    scheduler: 138.89.53.126
+    hotfix:
+      jenkins: probe
+      alerts: 3df5b71a211cb470
+    subnet: 5801
+    migrations: 9624
+    jenkins:
+      - 217.3.76.36
+      - 8179
+    raid: 4208
+  origin:
+    envoy: group
+    yaml: false
+    vendor: schema-elastic
+    jwt:
+      router: payload
+      quic: false
+  probe: yaml
+  lambda: 8c7eb157
+  kafka: kafka
+regex:
+  ingress: 3631
+  graphql: 129.183.176.240
+  shard:
+    mysql:
+      - 4126
+    assets: 3743
+    zfs: 94.193.173.35
+    hotfix: 151.37.234.209
+  helm: 74.173.183.175
+  node: null
+failover:
+  topic: true
+  quic: null
+  oauth: 210.180.204.31
+schema:
+  object: 164.208.11.153
+  mocks:
+    payload: 1622
+    ansible:
+      rsa: graphql
+      runner: cli-yaml

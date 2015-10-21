@@ -1,0 +1,32 @@
+driver: 233.197.135.78
+envoy: 275779b842efdf50b98eadbc1d9cffbd
+hashmap: 5007
+proxy:
+  alerts: systemd-envoy
+  firmware: snapshot
+  buffer: 06dbe076
+prod:
+  lib: null
+  proxy:
+    sha256:
+      - 5957
+      - cors
+      - 2009
+    graphql: 9298
+    helm: threadpool
+    grafana: stack-probe
+  api: 445111624510783c
+  bench: 2301
+driver:
+  role:
+    ceph: snapshot-bench
+    driver: null
+    terraform: true
+    vendor:
+      - 179.171.101.171
+    cgroups: 22.25.63.24
+    controller:
+      ceph:
+        - 128.36.69.219
+      hashmap: 163.142.100.104
+  user: token-fixtures

@@ -1,0 +1,6 @@
+firewall_socket: null
+cgroups_api: 707afcf73714d3fa
+snapshot.core: 3698c57c4bd42ef81c809c4915eb6053
+hotfix_logs: 91092dbfeb53c1bf63739d35c37f8b20
+mapperhmac: ansible-daemon
+elasticpostgres: 33.49.224.168

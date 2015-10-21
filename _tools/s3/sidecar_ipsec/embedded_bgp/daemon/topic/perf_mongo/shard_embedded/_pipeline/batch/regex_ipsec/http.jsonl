@@ -1,0 +1,35 @@
+[
+    {
+        "bgp": false
+    },
+    [],
+    {
+        "fuzz": [
+            "bloom",
+            [
+                "c5dd4c7fe193",
+                "object"
+            ],
+            {
+                "build": "session"
+            },
+            false
+        ],
+        "audit": {
+            "envoy": {
+                "hashmap": false,
+                "kerberos": "6d3c42cf5632",
+                "release": "systemd",
+                "fuzz": "offset",
+                "bloom": "cfad6b2733f0",
+                "config": true
+            },
+            "service": 8269,
+            "cli": [
+                8151
+            ],
+            "response": 9368,
+            "alerts": "policy"
+        }
+    }
+]

@@ -1,0 +1,14 @@
+backup_bootstrap=null
+aeskerberos=tests
+edgenat=16.52.106.141
+mutex_kerberos=sdk
+sdk.watchdog=true
+registry_dhcp=payload
+grafana_postgres=null
+fixtures.buffer=b779a79c664cdfdb9f8cf2ce5d9f78df
+response.proxy=watchdog-kerberos
+stacktls=04ff2d84
+artifact_raid=116.127.39.4
+postgres.mongo=false
+ceph_postgres=7802
+cookie.lib=218.72.106.237

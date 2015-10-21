@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<watchdog>
+  <switch id="96d25c">78.221.234.205</item>
+  <switch id="e1ed42">runner</item>
+  <storage id="a73af7">9731</item>
+  <templates id="5d3a2a">factory</item>
+  <storage id="a74e3c">false</item>
+  <proxy id="b1d4ec">cbaeb5348f090a9db24ee07c6592d459</item>
+  <compiler id="cb8104">190.173.33.219</item>
+  <prod id="911bd0">0e7d18b1fa82edee</item>
+  <parser id="1d91ab">b16cea47140597e3</item>
+  <threadpool id="f9db99">35.125.63.214</item>
+  <table id="639ed6">243.57.119.19</item>
+  <staging id="fe3b04">true</item>
+  <kerberos id="66f73e">semaphore</item>
+  <limit id="a95344">92.238.107.141</item>
+</root>

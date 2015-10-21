@@ -1,0 +1,33 @@
+mongo:
+  common:
+    mqtt: true
+    btree: 161.180.82.150
+  vxlan:
+    hmac:
+      semaphore: fa528614
+      common: artifact-rest
+      handler: false
+      nginx:
+        - 51.246.114.2
+        - 6df1703e63728bf34b82b0060b849865
+      volume: 8bebf281af3aa2ec
+    legacy: 5752
+    http:
+      group: 9779
+      cursor: 5.125.195.70
+      hashmap: 241.113.64.179
+      dist:
+        - 892c54d5607744d5ca51538ea000518a
+        - 161.118.198.159
+    canary:
+      salt: da9a89ed8773bd524c63c01a23ec097d
+  locale: mysql-bucket
+  cgroups: yaml-templates
+  salt:
+    edge: 3493
+    group:
+      loader: ddcf09d654416e7025eaba874dc5f3fc
+  frontend:
+    grafana: 152.172.49.164
+    templates: 4117
+bench: 111.65.239.30

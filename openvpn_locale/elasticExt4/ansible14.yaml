@@ -1,0 +1,20 @@
+hashmap:
+  subnet: 2342
+  volume: 39.35.247.193
+  failover:
+    lib: wireguard-handler
+    jenkins: null
+    scheduler: true
+  cursor:
+    cors:
+      iptables: true
+      router: pipeline-subnet
+      node: 220.103.124.113
+      http: 8770
+      raid: 679815963e48369fe992e6d76c2a3b1a
+    parser: schema
+  hashmap: coroutine-tcp
+loader: audit-bgp
+batch:
+  - null
+  - 320

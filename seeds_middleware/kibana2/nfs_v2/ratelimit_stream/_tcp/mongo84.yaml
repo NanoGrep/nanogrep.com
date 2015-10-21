@@ -1,0 +1,27 @@
+raid:
+  - 56.53.249.238
+node:
+  hmac: 4995
+  request: 6199
+  middleware: node
+  ceph:
+    watchdog:
+      shard: semaphore
+      row: pipeline-utils
+      canary: 2e5df74237ca49b8076681ab23cd2cf1
+      ceph: helpers-btree
+      ansible: 104.83.152.219
+      user: cache-loader
+    topic:
+      release: bench-threadpool
+      bootstrap: cron
+    service:
+      user: 5123
+      queue: c391dcb268e796371259dc7a3ca21ac6
+      traces: 7695
+      bgp: 215.234.135.49
+    gateway: false
+    terraform: false
+    cron: alerts
+stack: 94ad1494e83f28e2
+postgres: buffer-beta

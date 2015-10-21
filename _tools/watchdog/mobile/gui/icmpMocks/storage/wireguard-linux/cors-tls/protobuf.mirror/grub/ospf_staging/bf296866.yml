@@ -1,0 +1,9 @@
+worker: 29da97bad06d465b947724bbebaac601
+retry:
+  - false
+  - rest
+json: nginx
+locale:
+  - rollback
+  - null
+  - 3004

@@ -1,0 +1,32 @@
+proxy: bcd4fd269f13440a
+mesh: 6687
+scripts:
+  grpc:
+    request:
+      - 5201
+      - 89.162.236.254
+      - offset-object
+    tenant:
+      - 7013
+      - false
+      - 7061
+  mocks: false
+  cookie: staging-cors
+  mqtt:
+    user:
+      volume: null
+      cert: beta-adapter
+      edge:
+        - 99.131.36.217
+        - b0d29844
+      terraform: grafana-replica
+    rollback: b18e3ea5
+  token:
+    - 4106
+    - dc065c96a422929b29620905aab81eea
+    - 92.105.153.21
+  sdk:
+    logs:
+      yaml: metrics-utils
+      http: e9b9af65
+mutex: 8976

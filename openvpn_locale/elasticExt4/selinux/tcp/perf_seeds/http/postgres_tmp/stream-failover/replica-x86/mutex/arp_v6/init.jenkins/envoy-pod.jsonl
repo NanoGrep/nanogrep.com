@@ -1,0 +1,15 @@
+{
+  "staging": 5268,
+  "storage": 1106,
+  "router": {
+    "payload": {
+      "factory": [],
+      "response": {
+        "handler": "dns"
+      }
+    }
+  },
+  "kernel": {
+    "backup": "cache"
+  }
+}

@@ -1,0 +1,45 @@
+udp:
+  protobuf:
+    object:
+      firewall: node-graphql
+    ceph: 61.71.90.243
+    btree: 219.211.9.202
+    lib: offset-scheduler
+  cluster: b253a7d0df5abc04
+canary:
+  nginx: migrations
+  bench:
+    prometheus:
+      cookie: socket
+      ceph: firmware
+      hotfix:
+        - ecfb69b036289b4a
+        - traces
+      terraform: kernel
+      proxy: 6b07c399
+      response: daemon
+  edge:
+    tcp: 15.190.93.198
+    probe:
+      socket: json-limit
+      terraform: rest
+      utils:
+        - traces-offset
+        - 177.211.146.244
+        - sha256-scheduler
+        - 9259
+      parser: legacy
+      audit: queue
+  lib: 5728
+  quic:
+    alerts:
+      vlan: 4864
+      logs: 8a8636d5
+    shard: null
+    btree: 4bbe5914b3590705216ca7919a36c4ed
+    cert:
+      user: kafka
+      locale: false
+      vxlan: storage
+batch: 5266f12ce17e3539279107c0334846e1
+adapter: true

@@ -1,0 +1,21 @@
+{
+    "legacy": {
+        "cli": {
+            "frontend": {
+                "token": "f7ded026a8f1"
+            },
+            "build": {
+                "rollback": 9361,
+                "vault": "73ce66e466d3",
+                "http": 7948,
+                "nat": true,
+                "sdk": "request",
+                "replica": true
+            }
+        },
+        "fuzz": "333217342d6f",
+        "config": {
+            "nonce": false
+        }
+    }
+}

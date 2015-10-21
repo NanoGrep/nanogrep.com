@@ -1,0 +1,19 @@
+[nonce]
+scripts_udp = 4086
+buildmapper = worker
+
+[pod]
+mesh.adapter = vault
+release_sdk = 6838
+quichelpers = 2464
+protobuf_threadpool = 1715
+traces_buffer = null
+heap_heap = adapter-pod
+replica.threadpool = true
+roleswitch = 3337
+middleware_scope = 3477
+oauth.registry = factory
+kernel_prod = websocket-bucket
+response.session = systemd
+lib.hotfix = nginx-metrics
+threadpoolraid = 1722

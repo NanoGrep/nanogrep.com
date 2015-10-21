@@ -1,0 +1,6 @@
+common:
+  table: 7794
+  object: true
+kernel: traces
+failover: mirror-entropy
+helm: coroutine

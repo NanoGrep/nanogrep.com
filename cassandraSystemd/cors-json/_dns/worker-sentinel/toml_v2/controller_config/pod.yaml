@@ -1,0 +1,23 @@
+iptables: object
+templates:
+  driver: c9ae499637aace84
+  btree: 126.141.240.25
+  cert:
+    mutex:
+      probe: patch-prod
+      batch: 27.23.11.117
+      topic:
+        - tcp-shard
+      limit:
+        - vlan
+        - config
+        - null
+      socket: null
+    cert: 1726
+    zfs: schema
+    prod: true
+  aes: 27.249.80.129
+  cgroups: nonce-request
+scheduler: nginx
+stream: registry-probe
+systemd: 164.75.189.223

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<logs>
+  <bootstrap id="b0a15a">topic-nonce</item>
+  <kafka id="711250">iptables-traces</item>
+  <alerts id="0216cf">cluster</item>
+  <redis id="51771d">firewall-terraform</item>
+  <proxy id="d3d127">lexer</item>
+  <release id="6bdc3c">20.210.64.249</item>
+  <snapshot id="7895c9">8131</item>
+  <hmac id="c0cb5d">9015</item>
+  <http id="9ff08e">storage</item>
+</root>

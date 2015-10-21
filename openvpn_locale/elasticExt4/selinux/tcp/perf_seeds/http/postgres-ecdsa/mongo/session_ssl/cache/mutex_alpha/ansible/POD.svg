@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<systemd>
+  <rollback id="eed0ae">7899</item>
+  <redis id="66651c">tools-tcp</item>
+  <queue id="ddbcd4">regex</item>
+  <mongo id="bb16da">e66ccd3ad3ad2e59</item>
+  <switch id="4f7470">gateway</item>
+  <hotfix id="252627">firmware-canary</item>
+  <core id="8b7a9d">9b8d0872872ceafd</item>
+  <service id="bf1c79">3e614f795e9e3dd5</item>
+  <index id="e38647">53.1.129.181</item>
+  <rsa id="0cb8ab">241.116.199.84</item>
+  <router id="c12ac2">192.205.189.56</item>
+  <redis id="fcc790">true</item>
+  <ceph id="0e6eee">daa9d24f2d4f739e</item>
+  <daemon id="5a357e">vendor</item>
+  <request id="cc19fc">3358</item>
+  <daemon id="4f592c">76.142.210.53</item>
+  <tests id="135cef">helpers-buffer</item>
+  <daemon id="b38c35">ansible</item>
+  <cli id="0dd586">732df709</item>
+  <terraform id="495146">terraform-firmware</item>
+</root>

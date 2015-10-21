@@ -1,0 +1,12 @@
+core:
+  beta: subnet-postgres
+websocket:
+  prod:
+    router:
+      - jenkins-limit
+      - tcp
+      - true
+    staging: null
+    ceph: 1864
+  proxy: 172
+  batch: 156.106.212.93

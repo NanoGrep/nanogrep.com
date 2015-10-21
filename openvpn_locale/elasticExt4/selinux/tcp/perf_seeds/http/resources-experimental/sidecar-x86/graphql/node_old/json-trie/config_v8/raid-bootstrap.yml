@@ -1,0 +1,27 @@
+systemd: 222.130.70.79
+env:
+  staging:
+    router:
+      - true
+      - 63.91.28.59
+      - 8f49e639
+    controller:
+      env: e9b0ab78
+      semaphore: iptables
+      mutex: topic
+      switch:
+        - 215.183.253.50
+        - 4404
+      heap: crypto
+      table: 9902
+    envoy: grafana
+    tls:
+      gateway:
+        - 13.223.122.208
+        - 3059
+        - node-sha256
+      probe: e367dfa8965fc41b
+    audit: 9.152.28.127
+  bench:
+    - 42f15c75b8635a92
+  watchdog: fuzz-prod

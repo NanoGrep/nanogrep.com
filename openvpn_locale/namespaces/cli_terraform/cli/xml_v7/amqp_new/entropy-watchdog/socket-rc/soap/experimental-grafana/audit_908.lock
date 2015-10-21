@@ -1,0 +1,63 @@
+{
+  "upstream": {
+    "systemd": true,
+    "ansible": [
+      {
+        "volume": "payload",
+        "sandbox": 4221,
+        "salt": true,
+        "dist": "subnet",
+        "semaphore": true
+      },
+      {
+        "tenant": "4cb94ba9e903",
+        "protobuf": true,
+        "semaphore": true,
+        "nat": "mapper",
+        "cache": 6863,
+        "nightly": null
+      }
+    ],
+    "rollback": {
+      "elastic": "router",
+      "alerts": {
+        "kerberos": true,
+        "lambda": null
+      }
+    },
+    "nfs": {
+      "failover": null,
+      "tests": {
+        "oauth": "payload",
+        "threadpool": null,
+        "bloom": false,
+        "prometheus": null
+      },
+      "payload": [
+        "be4018ce2167",
+        "runner",
+        "kafka",
+        "84786935f609"
+      ],
+      "patch": {
+        "elastic": "backend",
+        "fixtures": "57097cd057d4",
+        "buffer": false,
+        "schema": "worker"
+      },
+      "entropy": true
+    }
+  },
+  "node": {
+    "cursor": {
+      "session": false,
+      "wireguard": [
+        "ceph",
+        "da3dbe505cb5",
+        1781,
+        7416
+      ],
+      "grafana": null
+    }
+  }
+}

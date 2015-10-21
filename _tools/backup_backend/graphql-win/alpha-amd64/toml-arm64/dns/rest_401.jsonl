@@ -1,0 +1,45 @@
+{
+  "payload": null,
+  "bench": true,
+  "backend": {
+    "mapper": "2ed310f5b75f",
+    "zfs": {
+      "scripts": {
+        "session": true,
+        "kafka": null,
+        "compiler": "middleware",
+        "json": true,
+        "threadpool": "controller",
+        "regex": true
+      },
+      "protobuf": "ea0ad0f7a3d3"
+    },
+    "group": "edge",
+    "sandbox": 8697,
+    "graphql": 3763,
+    "bgp": {
+      "batch": [
+        true,
+        "1617f06df2c7",
+        "kafka",
+        "bbd83a2742a6"
+      ],
+      "bench": null,
+      "retry": {
+        "cert": false,
+        "locale": null,
+        "ceph": "nonce",
+        "kernel": "990f21cc58fc",
+        "mysql": "systemd"
+      },
+      "socket": [
+        false
+      ],
+      "build": {
+        "beta": true,
+        "sdk": true,
+        "schema": 2477
+      }
+    }
+  }
+}

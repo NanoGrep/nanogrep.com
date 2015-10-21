@@ -1,0 +1,4 @@
+crypto_protobuf: 131.107.96.238
+cursor_upstream: true
+firewall.bucket: json-gateway
+upstreamceph: 5263

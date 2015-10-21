@@ -1,0 +1,48 @@
+terraform: a42dd9447b3d371d
+mocks:
+  nightly:
+    subnet: token-cors
+    mirror: null
+    tls: 3894
+    dns: gateway
+    dns: buffer-iptables
+  buffer:
+    protobuf:
+      - true
+      - role-storage
+    build:
+      volume: 8140
+      limit:
+        - 1230
+        - handler
+        - 2d3af638e8b440fd0a641839f1b41344
+      frontend: env
+      storage: 801b86083c989613fd687f4ff2f0df2d
+      frontend: 1746a945
+      vxlan: cookie-group
+  http: 209.32.16.168
+  sha256: 226.174.27.74
+  pipeline:
+    response:
+      kafka:
+        - true
+      env: 133.230.213.246
+    btree:
+      tls: 7364
+      mirror: 100.60.229.127
+    tcp:
+      cli: 1cf3c3e1
+      role: 118.199.111.109
+      watchdog: runner-payload
+  frontend: loader
+payload:
+  - 176d82da245f3e4e
+  - cache-tenant
+  - logs
+  - cb3bb8c8
+audit:
+  - runner
+  - ingress
+  - a19069d0
+backup: 17.67.212.139
+cursor: 4293

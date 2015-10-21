@@ -1,0 +1,37 @@
+fuzz: utils-vxlan
+sdk: 6086
+backup:
+  - 4950
+  - false
+  - 7031
+row:
+  - nonce-sdk
+ingress:
+  rsa:
+    canary:
+      - false
+      - 172.187.156.172
+      - 16.16.77.151
+    alerts: cbd2897d
+    fuzz: api
+    envoy:
+      beta: true
+      ingress: terraform-mutex
+      regex: 48e0dde0
+  templates:
+    index:
+      traces: assets-firewall
+      elastic: migrations-tcp
+      mapper: 51439607b39a3a694a3dc82dd904fdde
+    replica: false
+    aes: prod
+    gateway: false
+    bench: traces
+    worker:
+      prod: jwt-loader
+      rollback: false
+      regex: hmac
+      mesh: replica-sdk
+      proxy: 10.117.157.204
+  cert: eb5c5f7130ce81e2
+mapper: 133.212.26.227

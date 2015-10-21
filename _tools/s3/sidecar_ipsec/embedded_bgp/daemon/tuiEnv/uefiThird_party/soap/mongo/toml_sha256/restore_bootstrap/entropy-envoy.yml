@@ -1,0 +1,47 @@
+systemd:
+  factory: true
+  crypto: migrations
+mirror:
+  batch: 3799
+  nfs: kernel
+  assets:
+    fuzz: 19.19.115.145
+    bloom: legacy
+    mesh:
+      rest:
+        - bootstrap
+      postgres: pod
+    websocket:
+      btree: btree-nonce
+      volume:
+        - fc1ec4da563c9efb
+      cache: 153.123.16.54
+      common: 4717
+      proxy:
+        - 7ffb2c07f077e2ad
+    stream: 38.107.113.211
+    vlan: 183.4.54.111
+  backup:
+    coroutine:
+      ansible: mocks-stream
+      jwt: tools-driver
+      router: helm-subnet
+    patch: null
+    index:
+      policy: scheduler
+      trie: 7544
+      rollback: 6705f503
+      heap: true
+      mongo: false
+    ldap: storage
+  env:
+    prometheus: 191.190.108.32
+    tcp: 3876
+    yaml:
+      - true
+      - null
+    stack: effc5bc2e5861d3b3e44402535642cdb
+trie: lambda-cors
+semaphore:
+  - canary
+limit: kernel

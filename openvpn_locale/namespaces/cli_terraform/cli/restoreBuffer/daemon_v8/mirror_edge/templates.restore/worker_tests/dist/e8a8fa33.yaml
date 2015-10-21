@@ -1,0 +1,41 @@
+kerberos:
+  ingress:
+    failover: true
+  bench:
+    ansible:
+      volume: group
+      subnet: 758d0a78a753fb60
+      loader: jenkins
+    cli: 7166
+    subnet: pipeline
+    nightly:
+      batch: 4891
+mesh: entropy-parser
+mapper: e56fe2828a1a91e2
+common:
+  storage:
+    failover: firmware-parser
+  mongo:
+    assets: false
+    logs:
+      limit: 5400
+      nightly: cli-firewall
+      vault: mongo-metrics
+    tls: 4984
+    controller: session-sdk
+quic:
+  dist:
+    - registry
+    - 75.92.23.245
+    - true
+  sha256: null
+  edge:
+    alerts: beta-nfs
+    logs: 6714
+  aes: 663c240f7086bc8d
+  jenkins:
+    registry: replica
+    migrations: 334
+    coroutine: true
+    helpers: 5036
+    group: fcd9e4da

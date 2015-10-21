@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<row>
+  <redis id="e9216f">14d0e0161ee63941</item>
+  <daemon id="4a2817">2639</item>
+  <bgp id="2d2d4c">2e640733</item>
+  <raid id="3f8aa5">true</item>
+  <redis id="bcfaf7">false</item>
+  <heap id="ad0128">384</item>
+  <fixtures id="b3241e">61</item>
+  <pipeline id="dc25be">6869</item>
+  <oauth id="b894fe">false</item>
+  <aes id="20b0bd">86.38.136.213</item>
+  <crypto id="9ab580">null</item>
+  <kerberos id="21b7a4">9e4fdb02836f3398</item>
+  <frontend id="a8ef60">false</item>
+  <shard id="baaea0">c0bfc3f4</item>
+  <topic id="149ec5">zfs-loader</item>
+  <helpers id="07f0a0">2508</item>
+  <compiler id="95f375">48.178.67.43</item>
+  <bootstrap id="92e07c">b31fdf6e</item>
+  <subnet id="cdbbac">212.61.31.137</item>
+  <group id="d5398f">vendor</item>
+  <backup id="b751a2">user</item>
+</root>

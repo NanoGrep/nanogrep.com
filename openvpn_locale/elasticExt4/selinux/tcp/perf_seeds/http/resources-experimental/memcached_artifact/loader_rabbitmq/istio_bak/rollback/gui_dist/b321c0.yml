@@ -1,0 +1,9 @@
+nfs:
+  cursor: 8006
+  config:
+    firmware: 6302
+    cors: 8.70.169.30
+mocks:
+  hmac: 133.7.51.97
+firmware: b0df908e08c36b79
+utils: true

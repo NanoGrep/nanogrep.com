@@ -1,0 +1,25 @@
+group: subnet-registry
+group: jenkins
+protobuf:
+  - gateway-driver
+  - 1932
+  - 5947
+bench:
+  cert: 7dffd8be2dc54aceaa806d991dad4a4e
+  retry:
+    protobuf:
+      - 2160
+      - 364
+      - 8219
+    terraform:
+      sha256: api
+      table: 97
+      config: backup-object
+      trie: fd019ae1bdc6b80f
+      build: true
+      tests: worker-trie
+    table: 6562
+    cors: prometheus-role
+    tests:
+      payload: switch
+    adapter: 38fb295d

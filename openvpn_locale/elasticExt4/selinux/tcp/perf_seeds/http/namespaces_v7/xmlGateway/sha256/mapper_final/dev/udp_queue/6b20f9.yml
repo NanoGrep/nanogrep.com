@@ -1,0 +1,26 @@
+frontend:
+  artifact: jwt-retry
+  templates:
+    - firewall
+    - column
+  zfs:
+    firewall: hmac
+    request: limit-jwt
+    patch: cron
+    elastic:
+      zfs: role-vault
+      api: null
+      prometheus: null
+      systemd: prod
+    registry:
+      graphql: 175.24.38.223
+      probe: 6662b412cc4447e0b8eb0f5e7aa9b147
+      user: true
+      cli:
+        - proxy-common
+        - 3321
+        - false
+        - 247.146.231.8
+  row: response-nightly
+  retry: 62199fca1befba25
+shard: true

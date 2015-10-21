@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<mirror>
+  <mapper id="53d152">a1992cd8c7680abf096109edfd44a3a1</item>
+  <cluster id="144263">sandbox</item>
+  <ceph id="d9d91c">3796</item>
+  <payload id="376e74">column</item>
+  <gateway id="505f62">salt-crypto</item>
+  <column id="be1512">2613</item>
+  <pod id="110489">null</item>
+  <traces id="8af581">f92d0f6d99214e16</item>
+  <audit id="52d289">9236</item>
+  <loader id="0cf5c1">alerts</item>
+  <logs id="d64678">c863ca07a194c808</item>
+  <terraform id="f7bfcd">226.93.18.32</item>
+  <gateway id="b8f2b7">null</item>
+  <controller id="c3eaa5">proxy</item>
+  <mirror id="f1ffde">udp-systemd</item>
+  <hotfix id="dc0434">null</item>
+  <kerberos id="df950c">lambda</item>
+  <ingress id="9ccf1b">nat-response</item>
+  <cli id="4b74f1">244</item>
+  <logs id="490b71">null</item>
+</root>

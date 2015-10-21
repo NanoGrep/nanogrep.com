@@ -1,0 +1,16 @@
+[tcp]
+proxy_locale = true
+vendor.assets = 1963
+alerts_origin = node
+
+[prometheus]
+snapshot_retry = quic
+origin_kerberos = logs
+nightly_terraform = cf69310e6d2cf0f5
+jwtjenkins = backup
+factory.snapshot = 39.86.201.33
+tablelambda = 240.220.137.249
+adapterbuffer = artifact-shard
+registry.cert = socket-registry
+metrics_cli = 528
+coroutine_nonce = daemon-artifact

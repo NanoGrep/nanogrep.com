@@ -1,0 +1,35 @@
+{
+  "core": {
+    "salt": null,
+    "lambda": {
+      "raid": [
+        true
+      ],
+      "stack": true,
+      "beta": "tests",
+      "prod": false,
+      "scheduler": "1ec3e0790b00"
+    },
+    "buffer": null,
+    "heap": null
+  },
+  "role": {
+    "kernel": "rollback",
+    "origin": false,
+    "quic": {
+      "upstream": {
+        "metrics": null,
+        "audit": true
+      },
+      "common": "69d407363d5a",
+      "cron": {
+        "parser": "runner",
+        "audit": "udp",
+        "redis": 2323,
+        "edge": false,
+        "nonce": null
+      },
+      "grpc": []
+    }
+  }
+}

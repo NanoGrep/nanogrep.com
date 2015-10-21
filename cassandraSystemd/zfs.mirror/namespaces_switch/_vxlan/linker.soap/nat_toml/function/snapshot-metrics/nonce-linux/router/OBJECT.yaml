@@ -1,0 +1,53 @@
+response: 9925
+edge: true
+bucket:
+  queue: buffer
+  kafka:
+    payload:
+      scope: kafka
+      oauth: false
+      tenant:
+        - 345823d42c97ce52750bec057bdbac05
+        - 240.15.237.190
+        - true
+        - 234.84.208.153
+      tenant: 119.19.70.242
+      yaml: assets-parser
+      fixtures: true
+    nat: 2e8f231d5b5e40bbe2ddfec9932f0a24
+    edge: 0c4f2824
+    dhcp:
+      hashmap: 147.76.74.103
+      limit: tools
+      semaphore: 9713
+    rollback:
+      mutex:
+        - 254.53.232.159
+        - vlan-bucket
+        - true
+        - 220.227.40.65
+      column: false
+      beta: assets
+      cert: a24570e899bde8c0
+      trie: 169.214.34.89
+    index: null
+  probe:
+    mqtt: 2746bce1
+  role: 206.207.180.57
+  assets:
+    - f0a98fffdf8dae5ab44b95bddbe8ec3f
+    - node
+    - 195d6935ac8a954291cb3571dbd5487e
+  batch:
+    index: 272
+    driver: 7706b4a59b22ba3ca0380e108cb523df
+    user:
+      wireguard: 106a6727aae8f9b1
+    jwt: null
+    lexer: lambda-templates
+    raid: 5f0e108b7aa1dfa7ced0da2f5f6c7d4a
+upstream:
+  - edcec44e3dc2dca5
+  - 126.6.94.94
+  - metrics
+  - 1479

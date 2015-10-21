@@ -1,0 +1,89 @@
+edge: false
+stack: 207.110.92.242
+worker:
+  router:
+    sha256: ldap
+  upstream:
+    tenant:
+      - staging-group
+      - 24.166.170.67
+      - canary-tcp
+    common: c37c5814347072c72a162e9e840125b0
+  core:
+    nginx: offset
+    trie: 452c9079
+  elastic:
+    elastic:
+      helpers: false
+      edge: dhcp
+      controller: 108.242.103.111
+      assets: aeeabd92
+      mysql: e12ef664
+    vlan:
+      - 32c576e1bae8a2fc
+      - 2302
+      - 9911
+    vault:
+      - 210.118.6.83
+      - pipeline
+      - stream-cookie
+  factory:
+    firmware: 207.130.60.177
+    nightly:
+      cli: null
+      audit: 122.8.94.219
+    semaphore:
+      switch:
+        - true
+        - kerberos
+    group: 220.133.125.7
+    env:
+      - false
+sha256:
+  release: 4.43.117.78
+  proxy:
+    vlan: threadpool-canary
+    object:
+      volume: 26.34.147.104
+    mongo: role
+    cache: limit-origin
+  mapper: 18bde61e97f840186e45f5cb90e16d0b
+udp: templates-helm
+pipeline:
+  semaphore:
+    cors:
+      - 8275
+    oauth:
+      failover: 186.147.153.113
+      index: 9077
+      sandbox: factory
+      semaphore: ac7362459a0c0ac1
+      oauth: mapper
+      alerts: 4603
+    dhcp: 4761
+    schema: upstream
+    migrations: bench-vendor
+  bootstrap: 7660
+  cron:
+    user: 41.82.215.54
+    node: adbdf0907667600c
+    cert: kernel-nonce
+    topic: 2545f302c2c6e33a7db5f947ceb4a623
+    dhcp:
+      shard:
+        - true
+        - fuzz
+        - 230.39.15.105
+      mongo: 6003
+  vxlan:
+    dhcp: 2743
+    stack: 5087
+    protobuf:
+      index:
+        - traces-request
+        - true
+        - trie-json
+        - ad3e3a7df8d1273e
+      raid: 1932
+      stack: true
+      mocks: 3f32ee5291f022abf4aae499918ae049

@@ -1,0 +1,16 @@
+role: true
+controller: 9970
+worker:
+  trie:
+    - semaphore-coroutine
+    - 222.144.56.146
+  sha256: nonce-hotfix
+  dist:
+    policy: 166.171.226.196
+    bootstrap: 1750
+    edge: 14187290
+    queue:
+      upstream: 2948
+      mirror: true
+      iptables: 8083
+      tests: 159.90.136.142

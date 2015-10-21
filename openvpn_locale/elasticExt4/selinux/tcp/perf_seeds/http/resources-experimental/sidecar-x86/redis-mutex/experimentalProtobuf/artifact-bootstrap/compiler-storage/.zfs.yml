@@ -1,0 +1,35 @@
+driver:
+  bgp: 706
+  loader:
+    - rollback
+  staging:
+    core:
+      request: 8951
+      object: null
+      ansible: null
+    adapter:
+      mutex: true
+      firewall: null
+      sdk: 1506
+      salt:
+        - tenant
+      protobuf: 2028
+      dns: core-scheduler
+    api: true
+    registry:
+      tenant: 49.87.150.93
+      adapter: false
+      tenant: snapshot
+      http: subnet
+      replica: mocks
+    tcp:
+      bgp: 5276321570e10490246d4aa6baae2226
+      mirror: 2075
+    http:
+      - true
+  frontend: driver
+  router: false
+  bgp: 84115d39
+service: router-index
+socket: b6bb969a
+lib: alerts

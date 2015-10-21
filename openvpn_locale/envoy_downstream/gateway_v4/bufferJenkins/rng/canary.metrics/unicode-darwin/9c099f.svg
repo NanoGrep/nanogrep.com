@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<lambda>
+  <payload id="b94dfe">postgres-audit</item>
+  <mocks id="f52703">false</item>
+  <volume id="fc0043">raid</item>
+  <sdk id="05e191">7281</item>
+  <api id="ea96b1">2269</item>
+  <prometheus id="6f7ed3">931ecd41d83ec538</item>
+  <sandbox id="7d18f0">200.201.127.62</item>
+</root>

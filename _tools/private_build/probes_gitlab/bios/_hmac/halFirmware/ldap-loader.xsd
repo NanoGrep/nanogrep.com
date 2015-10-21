@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<worker>
+  <staging id="ee581c">4919</item>
+  <redis id="6c6075">129.2.93.252</item>
+  <hmac id="bd42d0">null</item>
+  <logs id="0642af">202.137.128.72</item>
+  <table id="260246">166.120.199.230</item>
+  <bgp id="1c9667">bench-cache</item>
+  <dhcp id="cdb1f2">134.149.61.103</item>
+  <adapter id="e8ec94">true</item>
+  <frontend id="ba86a4">threadpool-beta</item>
+  <cookie id="4fe499">d946c69187e1d387</item>
+  <mongo id="e42518">null</item>
+  <retry id="d3ceef">2865</item>
+  <jwt id="5e40f9">03f6d94d</item>
+  <lib id="d0bec9">1427</item>
+  <bootstrap id="86d53e">null</item>
+  <vendor id="b3cf95">grafana-subnet</item>
+  <bootstrap id="c34382">c997350f</item>
+  <nfs id="8aa47e">true</item>
+  <release id="24b0e6">4951</item>
+  <http id="bb14ea">9531</item>
+  <lexer id="0c1956">false</item>
+  <env id="46b2bf">44.76.156.71</item>
+  <regex id="69d954">storage</item>
+</root>

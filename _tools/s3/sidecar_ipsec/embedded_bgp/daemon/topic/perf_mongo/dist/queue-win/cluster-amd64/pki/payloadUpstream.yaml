@@ -1,0 +1,41 @@
+service:
+  websocket: false
+  batch:
+    registry: semaphore-cgroups
+    tcp: token-dns
+    json:
+      kafka: 249.35.130.31
+      cron: true
+      backup: 25.206.221.12
+      lexer: null
+      tests: true
+    raid: 4456
+    firmware: build
+  mutex:
+    row:
+      ingress: templates-beta
+      socket: 2718
+      sdk: 336
+      sandbox: 6504
+    lambda:
+      stream: true
+      core: storage
+  terraform: true
+  nginx: 136.4.109.28
+  lexer:
+    - origin-trie
+    - null
+    - null
+    - false
+iptables: null
+snapshot: 144.71.124.98
+origin:
+  origin: templates
+  factory: user
+  scripts:
+    - wireguard
+    - storage
+  helpers:
+    mocks: 8966
+  traces: common-crypto
+socket: envoy

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<logs>
+  <core id="31ce3e">true</item>
+  <bench id="f8cea2">oauth</item>
+  <regex id="78dd2f">http-schema</item>
+  <socket id="c52560">driver-backend</item>
+  <cache id="499734">1157</item>
+  <mirror id="2760f4">false</item>
+  <policy id="2bd4b6">rsa</item>
+  <pod id="b67caa">fuzz-firmware</item>
+  <proxy id="421178">3234b3c793fd00762ee27b49624d521d</item>
+  <wireguard id="3e7e9b">false</item>
+  <rest id="3e4ce7">stream-pod</item>
+  <gateway id="16e071">scripts-cli</item>
+  <dist id="f27cef">null</item>
+  <mesh id="82d7a4">session</item>
+  <wireguard id="f4d20e">api-aes</item>
+  <ansible id="9e4165">cookie</item>
+  <nat id="072759">utils</item>
+  <raid id="7f2ff8">role</item>
+  <parser id="9f7e87">false</item>
+  <terraform id="b6b08b">182.148.94.3</item>
+  <metrics id="8bdcbb">true</item>
+</root>

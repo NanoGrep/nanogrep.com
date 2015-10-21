@@ -1,0 +1,10 @@
+vxlan:
+  ingress:
+    index: controller
+  watchdog:
+    - 72108463adf84997
+    - 186.162.184.56
+    - 18.45.66.82
+    - true
+  proxy: mysql
+scope: e566a0d216d7a145

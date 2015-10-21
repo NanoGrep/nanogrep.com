@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<nginx>
+  <envoy id="cac397">schema</item>
+  <btree id="0cc535">true</item>
+  <config id="d71629">162.136.67.140</item>
+  <session id="c84e7c">aba14c511abcaf06</item>
+  <audit id="5bd243">bgp-threadpool</item>
+  <node id="1ba381">8759</item>
+  <logs id="46b371">9957</item>
+</root>

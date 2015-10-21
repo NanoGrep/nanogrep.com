@@ -1,0 +1,44 @@
+{
+    "utils": {
+        "fixtures": {
+            "edge": {
+                "switch": "22d1ade21876",
+                "http": "fac8464422e5",
+                "sha256": null,
+                "sdk": false,
+                "cluster": true
+            }
+        }
+    },
+    "coroutine": [
+        {
+            "watchdog": {
+                "yaml": false,
+                "session": 3250,
+                "subnet": false,
+                "dhcp": "backend",
+                "grafana": 2469
+            }
+        },
+        [
+            null,
+            {
+                "parser": 2112,
+                "daemon": false,
+                "pipeline": 9101,
+                "lambda": "canary",
+                "response": null,
+                "stack": false
+            },
+            [
+                "threadpool",
+                false,
+                2284
+            ],
+            3194
+        ]
+    ],
+    "table": "b632e4dbba8d",
+    "cron": 580,
+    "alerts": null
+}

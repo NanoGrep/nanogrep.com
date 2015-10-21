@@ -1,0 +1,9 @@
+regex:
+  common:
+    vault: 8483
+  batch: 243.213.186.26
+  mutex: router
+  elastic: 1420
+release: registry
+probe: buffer
+policy: regex

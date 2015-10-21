@@ -1,0 +1,107 @@
+{
+    "failover": null,
+    "mqtt": {
+        "utils": {
+            "cors": [
+                false,
+                false,
+                "84b444aeac25"
+            ],
+            "adapter": true,
+            "staging": {
+                "pipeline": 7167,
+                "fuzz": 2332,
+                "loader": true
+            },
+            "batch": 2021,
+            "rollback": {
+                "policy": "1694b9d8e0c0",
+                "replica": "92ce765bf3ea",
+                "build": null
+            },
+            "aes": {
+                "bloom": true,
+                "index": true
+            }
+        },
+        "aes": [
+            [
+                false
+            ],
+            {
+                "sha256": false,
+                "replica": null,
+                "cookie": true,
+                "vlan": true
+            }
+        ],
+        "btree": 1798
+    },
+    "logs": {
+        "helm": {
+            "bgp": {
+                "nightly": "switch"
+            },
+            "tcp": [
+                true,
+                false
+            ]
+        }
+    },
+    "lexer": {
+        "lambda": {
+            "cert": {
+                "api": 1741
+            },
+            "http": "locale",
+            "upstream": [
+                "node"
+            ],
+            "quic": false
+        },
+        "systemd": {
+            "nginx": {
+                "lexer": "cert",
+                "jenkins": "95093c746837",
+                "schema": "915d4a87509c",
+                "offset": false
+            },
+            "graphql": null,
+            "sandbox": null,
+            "bootstrap": "patch",
+            "proxy": {
+                "pod": false,
+                "grpc": "47d6da12456d",
+                "scheduler": 7864,
+                "coroutine": null
+            },
+            "entropy": "fuzz"
+        },
+        "vxlan": "793c3dfb9a32"
+    },
+    "trie": {
+        "mesh": {
+            "gateway": {
+                "column": false,
+                "upstream": null,
+                "crypto": false,
+                "helpers": false,
+                "mqtt": null
+            },
+            "group": {
+                "proxy": "40f598a2c427",
+                "kernel": "assets",
+                "compiler": null
+            },
+            "mongo": null,
+            "ldap": false,
+            "adapter": true,
+            "mocks": "threadpool"
+        },
+        "grpc": "service",
+        "proxy": "scope",
+        "trie": null,
+        "systemd": "d194bd96a8a9",
+        "beta": null
+    }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zfs>
+  <salt id="1eaebc">false</item>
+  <subnet id="341902">true</item>
+  <hotfix id="2fdc51">d9edcd6b</item>
+  <backup id="764ffe">126.142.246.117</item>
+  <websocket id="6baf7c">1997</item>
+  <logs id="7072c7">true</item>
+  <trie id="19bf34">null</item>
+  <factory id="2c156b">object-common</item>
+  <shard id="40c2a8">3773</item>
+  <pod id="256d97">systemd</item>
+  <probe id="76b918">false</item>
+  <backup id="fbffee">3540</item>
+  <coroutine id="02084b">144.198.211.157</item>
+  <config id="c2c5dc">session</item>
+  <request id="c68cf4">93be786c40d3db71cca263e56bd26703</item>
+  <session id="c2e7a2">107.174.135.183</item>
+  <wireguard id="b1f053">f415316a725aed78b3644e5b6ca33e00</item>
+</root>

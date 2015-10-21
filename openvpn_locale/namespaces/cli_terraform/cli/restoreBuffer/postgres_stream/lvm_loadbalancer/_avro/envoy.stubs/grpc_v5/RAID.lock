@@ -1,0 +1,55 @@
+{
+  "failover": {
+    "proxy": {
+      "origin": [
+        9527
+      ],
+      "lexer": 5479
+    },
+    "response": false,
+    "elastic": [
+      null,
+      {
+        "metrics": "bgp",
+        "dist": "cron",
+        "bgp": true,
+        "ingress": true,
+        "canary": "962677bec201"
+      }
+    ],
+    "scheduler": {
+      "mocks": "4da4991a0290",
+      "bench": "50947b56eed1",
+      "helpers": [
+        "e2d4312fd7c7",
+        65,
+        null
+      ],
+      "compiler": "0ba4c84113d4"
+    }
+  },
+  "alerts": "3c66f1bd76bf",
+  "pipeline": {
+    "lambda": {
+      "router": {
+        "dns": null,
+        "cgroups": null,
+        "artifact": "compiler"
+      },
+      "patch": "policy",
+      "semaphore": [
+        false,
+        null,
+        null
+      ],
+      "token": 4825,
+      "switch": true,
+      "cert": {
+        "bgp": "vendor"
+      }
+    }
+  },
+  "raid": true,
+  "session": 8305,
+  "jwt": false
+}

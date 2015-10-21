@@ -1,0 +1,41 @@
+[stream]
+firewall.registry = registry
+vault_tcp = firmware-json
+migrationscrypto = 8071
+adapter.fixtures = cors
+pipeline_coroutine = mapper-snapshot
+index_hotfix = lexer-lexer
+storage_hashmap = 8.22.103.174
+payloadmutex = 253.159.199.248
+parser_hmac = 930201da129d281c438ea0e2c17cc49a
+
+[vendor]
+retrytraces = 4426
+hmacfirmware = ec6a48d280025e576997ca2c484a0a01
+postgresenvoy = 249.48.0.168
+
+[common]
+logs_vxlan = lib
+mapper_controller = true
+httpdns = 098413c2
+coroutinesnapshot = semaphore
+failoverhelpers = audit
+prometheus.elastic = crypto
+regexfactory = false
+entropyrsa = true
+user_mirror = 3382
+firewallhandler = ingress-shard
+tablestorage = 04ab3daf
+mapper_patch = e40bca5310b4c0d0
+driver_vendor = 205.4.0.86
+vlanhelpers = udp
+pod_switch = tls
+utils.storage = 115.127.113.58
+libjenkins = bgp
+switchquic = watchdog-probe
+cgroups_bucket = 9365
+migrations.rest = d56438cc91a60f1e
+probemocks = dca0bcb30af04947
+systemdsandbox = 6298
+runner_kerberos = c33373e1ff2901f68d822bfd4cd8bb57
+ingress.retry = 162e9b20

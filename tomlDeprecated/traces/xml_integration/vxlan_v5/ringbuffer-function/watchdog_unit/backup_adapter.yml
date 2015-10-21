@@ -1,0 +1,21 @@
+http:
+  - 138.219.31.56
+  - true
+tcp:
+  mongo: 1.241.1.187
+  cors:
+    terraform: false
+  index: kafka
+  stack:
+    token: quic
+redis:
+  quic: true
+  canary: jenkins-envoy
+  mysql:
+    request: 238.205.24.144
+  tools: retry-limit
+  schema: 82234bf7f91430e434b5b91c4016fe1f
+  cgroups: 252ed5791846c2397cecf7663da0b4c6
+grpc: scripts-mongo
+audit: 3427
+assets: switch-ansible

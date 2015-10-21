@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<udp>
+  <upstream id="a001f8">nat-grafana</item>
+  <websocket id="cdf80b">48.230.244.134</item>
+  <scripts id="270ad5">dd3cd232</item>
+  <offset id="b01718">2970</item>
+  <cli id="7df263">false</item>
+  <salt id="3484db">7567</item>
+  <beta id="b3d073">request-assets</item>
+  <storage id="53a4be">5786</item>
+  <router id="146bc2">91daeb4e</item>
+  <alerts id="3f6bef">3926</item>
+  <upstream id="945e26">table-schema</item>
+  <runner id="40318f">113.230.143.181</item>
+  <bucket id="bc3c0f">35.10.94.109</item>
+  <factory id="b75253">null</item>
+  <jwt id="9747b9">fixtures</item>
+  <parser id="e1a316">null</item>
+  <pipeline id="d898d8">1144</item>
+  <controller id="f897c3">1238</item>
+</root>

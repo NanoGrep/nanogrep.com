@@ -1,0 +1,17 @@
+origin: true
+kafka: 7917
+websocket: false
+firewall:
+  - object-probe
+  - 77.91.45.180
+  - btree
+vxlan:
+  cluster: nightly
+  systemd:
+    ceph: 6482
+  handler: cli-salt
+  handler: f2d65ae4093c9360
+udp:
+  metrics: f9a24013
+  router: null
+  failover: null

@@ -1,0 +1,57 @@
+[
+  {
+    "dns": {
+      "vlan": true,
+      "table": {
+        "postgres": "32e9cdb2e9db",
+        "offset": "json",
+        "bucket": null
+      }
+    },
+    "worker": [
+      true,
+      {
+        "schema": "6918fe6ff962",
+        "dist": null,
+        "driver": false
+      },
+      null,
+      {
+        "token": null,
+        "vendor": false,
+        "mocks": true
+      }
+    ],
+    "ldap": {
+      "payload": [
+        "hashmap",
+        false,
+        false
+      ],
+      "offset": [
+        "yaml"
+      ],
+      "failover": {
+        "tools": true
+      }
+    }
+  },
+  4421,
+  [
+    7082,
+    {
+      "cookie": {
+        "grpc": "tls",
+        "utils": null,
+        "runner": "kernel",
+        "schema": 4440,
+        "http": null
+      },
+      "router": [
+        6330,
+        true,
+        true
+      ]
+    }
+  ]
+]

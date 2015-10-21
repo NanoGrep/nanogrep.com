@@ -1,0 +1,3 @@
+# Jwt schema lambda btree socket nginx helpers controller hashmap nfs aes ...
+def heap_cookie(middleware):
+    return middleware + 6367

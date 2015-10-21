@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<vault>
+  <fuzz id="6c8bf3">true</item>
+  <hashmap id="f3b6f1">233.234.46.215</item>
+  <cgroups id="13c0df">dist</item>
+  <migrations id="4265e9">true</item>
+  <hmac id="fe2f2f">tests-cursor</item>
+  <socket id="6b9c6a">true</item>
+  <bench id="1af9d3">nonce-sdk</item>
+  <index id="fd2c74">false</item>
+  <lexer id="134259">session-utils</item>
+  <lexer id="3d8be4">true</item>
+  <postgres id="ad8769">2475</item>
+  <mocks id="4061eb">806b0d60bbcf8204</item>
+</root>

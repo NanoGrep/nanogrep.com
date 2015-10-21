@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<helm>
+  <ingress id="ace198">schema</item>
+  <entropy id="eeca35">cgroups-bloom</item>
+  <failover id="06d717">null</item>
+  <heap id="4c9a48">211.116.54.132</item>
+  <stream id="b487f9">63be1226</item>
+  <fuzz id="20ba26">6847</item>
+  <core id="f042c1">response-helpers</item>
+  <kafka id="49251e">false</item>
+  <cookie id="97c591">false</item>
+  <trie id="0d4bb0">pod</item>
+  <tools id="17c7b5">watchdog</item>
+  <cache id="2727c7">9da1d57758a12421</item>
+  <nginx id="8e1bbe">6793</item>
+  <tenant id="8b733b">9e7489a39efebf43</item>
+  <env id="70e063">true</item>
+  <systemd id="13531b">173.111.73.199</item>
+  <redis id="18aa32">wireguard</item>
+  <mysql id="904ca5">kerberos-payload</item>
+  <vendor id="a7b5bf">a46ba12c0b0b23e0</item>
+  <backup id="ff2eb3">9774</item>
+  <systemd id="fc7e67">599c739e</item>
+  <cursor id="8a7323">1501</item>
+  <handler id="da31ac">120.249.137.187</item>
+  <dns id="77f025">7901</item>
+</root>

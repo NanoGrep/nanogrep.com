@@ -1,0 +1,11 @@
+aes:
+  controller: 4964
+  firmware: true
+  worker:
+    offset: 7032
+  helm: ec1fa9cca6191c4e
+cache: bucket
+shard: null
+payload: null
+entropy: 30.70.14.115
+bootstrap: assets

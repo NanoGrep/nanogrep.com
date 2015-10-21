@@ -1,0 +1,9 @@
+factory: bd098e04321dde73
+cert: router
+patch: 77.177.65.93
+yaml: 491463b7a9b1f35d
+legacy:
+  - common
+  - 50f42d5c345ddb56
+  - 167.173.53.191
+  - cursor-router

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<vlan>
+  <staging id="1fd2d6">90cbfc99f47f89e7</item>
+  <rsa id="ee9f58">ansible</item>
+  <retry id="9c6753">true</item>
+  <core id="9df787">batch-pipeline</item>
+  <bench id="56a1e9">244.214.146.242</item>
+  <tenant id="e1e1c1">replica</item>
+  <volume id="fbca5a">bd5cb531d8c17afc</item>
+  <kernel id="34a6dd">null</item>
+  <vlan id="a21080">164.139.41.86</item>
+  <regex id="25d2bd">225a4784</item>
+  <crypto id="f4f92e">177.37.142.228</item>
+  <raid id="a47ddf">nonce</item>
+  <limit id="1f76a7">replica</item>
+  <cron id="9582bf">locale</item>
+  <grafana id="cbb63c">171</item>
+  <nightly id="38a8fb">ldap</item>
+  <node id="cd9fab">kernel</item>
+  <trie id="5ca3d1">638e0496b35a2253c9c7848feeb67052</item>
+</root>

@@ -1,0 +1,10 @@
+{
+  "nginx": "trie",
+  "hashmap": "e9090198948b",
+  "user": 939,
+  "terraform": [
+    7367,
+    8042,
+    "crypto"
+  ]
+}

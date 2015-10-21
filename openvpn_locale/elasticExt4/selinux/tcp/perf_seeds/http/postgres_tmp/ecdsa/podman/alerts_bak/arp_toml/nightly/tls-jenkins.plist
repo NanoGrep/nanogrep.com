@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<origin>
+  <common id="45cfb1">worker</item>
+  <bootstrap id="ac448e">registry-lib</item>
+  <cli id="837404">4776c6b9b98163e9</item>
+  <nat id="9b96b4">table</item>
+  <vault id="9286a3">bloom-role</item>
+  <scheduler id="cc13ee">208.160.189.101</item>
+  <aes id="3d5f8f">router</item>
+  <quic id="ca2518">9676</item>
+  <websocket id="cda363">77.69.27.32</item>
+  <hmac id="10a573">f2530cb1</item>
+  <logs id="e65d65">184.217.208.203</item>
+  <locale id="b64181">graphql</item>
+  <snapshot id="5d29f7">2366cc1370e74b33</item>
+  <legacy id="94e7fb">198.216.189.184</item>
+  <nfs id="0f2a86">d5b1b527</item>
+  <hashmap id="645604">84.5.47.194</item>
+  <beta id="524bce">245.11.83.38</item>
+  <env id="549a59">1238</item>
+  <scheduler id="cfc8c2">a2b499b8bb4cbcc4</item>
+  <loader id="0c0d5d">107.23.223.205</item>
+  <websocket id="013e8e">f4e357a8e4f18b94</item>
+</root>

@@ -1,0 +1,44 @@
+cors:
+  threadpool:
+    config: 8212
+    envoy:
+      config: sandbox
+    socket: 81cc978392380dc2dd206538b7ecc58a
+  common:
+    cache: null
+    wireguard: true
+    elastic: 246.122.84.249
+    tcp: 07197451c1816664
+  firmware:
+    - schema
+    - oauth-graphql
+    - response
+  mongo: 3046
+  scheduler: 8294
+raid:
+  ansible: 90.246.199.124
+  vxlan:
+    compiler: false
+    stack: handler
+    rsa: 3660
+    dhcp:
+      parser: kafka-pod
+      lib:
+        - cron-origin
+      role: fuzz
+      table: 07b8430bc51f4abb868f12b04cc0f624
+      config:
+        - request-upstream
+        - 3448
+        - handler-registry
+    templates:
+      entropy: 253.47.59.3
+      kafka: e822adaecfeb3a8b
+      cli: dist
+      socket: 133.220.194.147
+  nfs: backend-release
+daemon:
+  - shard
+  - c3b11e92d9583580e5f7516e703d7542
+  - firewall-templates
+wireguard: false

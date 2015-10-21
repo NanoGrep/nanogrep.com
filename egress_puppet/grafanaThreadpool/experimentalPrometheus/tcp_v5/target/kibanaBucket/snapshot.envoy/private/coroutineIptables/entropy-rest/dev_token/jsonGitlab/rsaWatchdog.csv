@@ -1,0 +1,16 @@
+ansible,assets,cli,router
+common-daemon,6754,235.63.246.213,redis
+scheduler-nat,3432,245.212.235.60,tools
+service,salt,hashmap-handler,protobuf
+scheduler,cli-vlan,true,offset
+vxlan-tls,probe-index,cluster-tests,audit
+1db92537d8db0891,163.114.139.103,true,178.37.1.194
+163.47.104.245,151.7.209.139,true,true
+false,null,sandbox-vxlan,9684
+bgp,4128,null,nat-alerts
+217.38.71.49,rsa,common,b69d1647
+8021,156.222.19.83,1900,7839
+true,entropy,7e075ea87abc83cd,231.216.192.116
+rsa,role-bootstrap,mapper-retry,360
+entropy-probe,true,f68a5acb,row-artifact
+8715,topic-sdk,mesh,177.179.176.10

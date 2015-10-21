@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<batch>
+  <pod id="9dfccb">e28f9369f9042f39</item>
+  <probe id="9d03d1">0c361d02</item>
+  <wireguard id="98f1e9">build</item>
+  <bloom id="1d6331">false</item>
+  <tcp id="9c3278">237.226.179.73</item>
+  <tests id="1583c1">schema-regex</item>
+  <grpc id="a0795a">27.40.249.73</item>
+  <iptables id="2e5bef">138.242.180.201</item>
+  <regex id="a05191">8.87.163.182</item>
+  <crypto id="600aec">9276</item>
+  <role id="3684bf">threadpool</item>
+  <schema id="22a96c">true</item>
+  <bgp id="cef156">snapshot</item>
+  <scope id="76932e">oauth-regex</item>
+  <websocket id="953fb2">ldap-ceph</item>
+  <offset id="1def27">true</item>
+  <subnet id="cef5e6">138.145.133.37</item>
+  <frontend id="8781dd">5.169.241.252</item>
+  <topic id="04a1d9">null</item>
+  <envoy id="9de1c2">36.89.48.146</item>
+</root>

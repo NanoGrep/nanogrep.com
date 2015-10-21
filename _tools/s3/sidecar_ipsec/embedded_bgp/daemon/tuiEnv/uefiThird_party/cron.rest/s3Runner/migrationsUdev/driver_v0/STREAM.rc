@@ -1,0 +1,6 @@
+role.wireguard: 9cb1d42a2d8b49f5cdc076670507a946
+offset_api: 9865
+ingress_assets: factory-btree
+hmacadapter: 174.87.77.126
+sha256.socket: scheduler-staging
+ingress_retry: 31.119.68.129

@@ -1,0 +1,32 @@
+vault:
+  env:
+    build: nightly-cache
+    pipeline: 2222
+  gateway: vault-tcp
+  factory: 7221
+  kerberos:
+    controller:
+      - null
+      - queue
+    edge:
+      ldap: 7e673e410898c6286c4e68e63c41ee82
+      daemon: 151.4.167.201
+      terraform: c2f5e18f248c5da5c0215a02548f49ae
+      release: d7694dad6118a8b0
+      envoy: 031f3122c82293de0d9497fa3a5bde32
+      storage: cc23db3378d24ffca7e5d370815ca286
+    parser:
+      elastic: regex
+      mysql: false
+      batch: 219d23d7
+      object: 59.231.252.147
+    zfs:
+      handler:
+        - 13.81.237.125
+        - 446c67b919a8b912fae952e0ed0725f2
+        - http
+      protobuf: 226.236.127.6
+      logs: 4180
+      wireguard: false
+      mysql: 5804
+  salt: 5897

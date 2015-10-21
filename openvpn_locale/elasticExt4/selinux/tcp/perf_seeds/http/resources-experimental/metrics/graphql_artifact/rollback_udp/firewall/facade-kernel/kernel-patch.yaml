@@ -1,0 +1,14 @@
+queue: legacy-crypto
+sdk:
+  topic: 398
+  proxy: 126.193.229.6
+  role: 5436
+  snapshot: true
+retry:
+  artifact: 252.207.230.215
+  retry: 228.25.69.215
+  postgres: false
+  envoy: false
+  proxy: 183.38.59.70
+  group: 1898
+service: 59dfb0b2c834a5ffa6d901795bf11189

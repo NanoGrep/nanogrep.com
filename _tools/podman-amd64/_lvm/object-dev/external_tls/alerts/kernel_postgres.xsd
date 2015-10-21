@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<bgp>
+  <fixtures id="5074ed">firewall-mocks</item>
+  <worker id="67b4ac">hotfix</item>
+  <storage id="f673d3">frontend</item>
+  <sandbox id="1c0b2e">9504</item>
+  <parser id="5dab0d">106.48.137.116</item>
+  <vendor id="cb7215">241.184.131.128</item>
+  <response id="45077e">94.159.197.154</item>
+  <redis id="238cd3">true</item>
+  <mysql id="5c92ca">f43b5fe77e5d28acfd3ece77f42fb740</item>
+  <patch id="a83dbe">ldap-token</item>
+  <mocks id="f0c6c4">firewall-helpers</item>
+</root>

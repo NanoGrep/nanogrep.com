@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<regex>
+  <cron id="d8f83e">9717</item>
+  <nat id="3015b5">hashmap</item>
+  <tenant id="b20a26">frontend-request</item>
+  <aes id="509fc1">true</item>
+  <traces id="5b87e1">6638</item>
+  <tenant id="19596c">104.39.38.35</item>
+</root>

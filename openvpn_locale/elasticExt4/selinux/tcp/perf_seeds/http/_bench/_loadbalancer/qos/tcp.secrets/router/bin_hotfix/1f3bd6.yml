@@ -1,0 +1,11 @@
+tests: sha256-role
+probe: null
+traces: socket
+artifact:
+  lexer:
+    - db8c9eb8
+    - 6814e465
+locale:
+  pipeline: mqtt-build
+  mocks: regex
+  service: grpc-sha256

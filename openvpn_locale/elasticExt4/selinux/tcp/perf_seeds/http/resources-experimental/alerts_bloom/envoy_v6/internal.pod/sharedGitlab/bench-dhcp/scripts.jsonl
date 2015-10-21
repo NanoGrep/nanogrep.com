@@ -1,0 +1,53 @@
+{
+    "row": [
+        {
+            "buffer": [
+                false,
+                null,
+                "http"
+            ],
+            "release": "5429cef1e9be"
+        },
+        {
+            "mesh": [
+                false,
+                "upstream"
+            ],
+            "node": {
+                "cli": true,
+                "buffer": false,
+                "hmac": "fd648a5766b5"
+            }
+        }
+    ],
+    "kernel": {
+        "semaphore": 2879,
+        "policy": "ffd75fb3e3e8",
+        "fixtures": {
+            "switch": {
+                "watchdog": true,
+                "cache": 1606,
+                "failover": "api",
+                "helpers": null
+            },
+            "config": {
+                "registry": false,
+                "wireguard": 1343
+            },
+            "bench": false,
+            "systemd": {
+                "traces": false,
+                "mesh": true,
+                "pipeline": null
+            },
+            "daemon": {
+                "index": "limit",
+                "cert": true,
+                "rollback": "mirror"
+            }
+        },
+        "socket": "cgroups",
+        "lib": "9527953a9515"
+    },
+    "dhcp": null
+}

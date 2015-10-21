@@ -1,0 +1,11 @@
+loader: crypto-beta
+terraform:
+  object: null
+  systemd: 4718
+  lambda: true
+  adapter: true
+yaml: 144.73.208.143
+patch:
+  - 2452
+tenant: c6b95bae18dfcea7f62c45087b87a870
+http: 6c27f638

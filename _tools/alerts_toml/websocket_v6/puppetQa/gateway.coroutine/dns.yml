@@ -1,0 +1,60 @@
+tools:
+  artifact:
+    - canary
+    - ldap-zfs
+  prometheus:
+    switch: daemon
+    threadpool: raid
+  ldap:
+    nat: 7086
+    router:
+      origin: true
+      kafka: 595bf1fddbe2b2ef
+      prometheus: bootstrap
+    volume:
+      upstream: f93517f7
+      token: kerberos
+      service: 59.122.191.203
+  topic:
+    grpc: 64c61516
+    hmac: null
+  heap:
+    tests: terraform-hotfix
+    wireguard: protobuf
+    loader: false
+    wireguard:
+      - true
+      - stack
+      - vlan-locale
+      - false
+    hotfix:
+      logs: core-upstream
+      iptables: 2916
+      assets: true
+      snapshot:
+        - 99.97.144.123
+        - 159.98.243.129
+    vendor:
+      queue: object-tcp
+      watchdog: common
+handler:
+  - group
+dhcp:
+  build:
+    alerts: true
+    object: b3861e8f
+  tenant: 1349
+  retry:
+    - 68.99.109.216
+  migrations:
+    json: 9b631231
+    salt:
+      audit: 203.216.38.48
+      fixtures:
+        - 08c79697
+        - c194cf2f42e675bbc7c60b39dcf6f95e
+      fixtures: grafana-cert
+      common: a7bf5c56b3fc3afe
+    hotfix: 205.47.44.140
+    bench: false
+audit: 257b1d53

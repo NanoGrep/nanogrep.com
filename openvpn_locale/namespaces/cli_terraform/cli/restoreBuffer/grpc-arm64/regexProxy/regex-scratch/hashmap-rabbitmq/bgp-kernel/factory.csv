@@ -1,0 +1,11 @@
+socket,config,node
+9174,false,handler-firewall
+fixtures,null,handler-gateway
+f8b2f283104e07072cf71e2231b918e1,probe-role,215.105.97.22
+1560cf00631f7865,1924,cache
+27.77.84.152,9380,null
+locale,true,5342
+5256,null,common
+cache-request,7910,false
+dce082aee037fd48,true,protobuf-raid
+91.37.203.14,false,bootstrap

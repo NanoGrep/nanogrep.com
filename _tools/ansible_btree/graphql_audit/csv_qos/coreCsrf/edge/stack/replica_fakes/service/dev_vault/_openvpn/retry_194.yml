@@ -1,0 +1,39 @@
+cookie:
+  hashmap: 70f4581d04a6801f
+helpers:
+  queue: 47.153.10.30
+  templates: cursor-ceph
+  patch: cursor-topic
+  bgp: 150.141.196.15
+  scripts:
+    switch:
+      udp:
+        - 8cbf40f0
+        - 3828
+        - b1746dacb4d1f03b
+      mqtt: 8115
+      build: controller-watchdog
+      tenant: 8649
+      stack:
+        - 114.120.50.15
+        - nat
+        - 161.24.77.59
+        - null
+      beta: true
+  tools: 5756
+scheduler: false
+salt:
+  factory: false
+  sha256:
+    nightly: rest
+  entropy:
+    rsa: bootstrap
+  response: false
+  group:
+    compiler:
+      migrations: session
+      index: 38.99.22.117
+      rsa: origin
+      row: bucket
+    mysql: 50384ea9
+    worker: 4da52810

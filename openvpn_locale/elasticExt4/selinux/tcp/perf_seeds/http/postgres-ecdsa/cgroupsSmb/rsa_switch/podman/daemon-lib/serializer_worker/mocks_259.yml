@@ -1,0 +1,13 @@
+gateway:
+  mongo: 6711
+  origin:
+    templates: b0bf72f6128607f6cdd056098bd9a9ad
+    ingress:
+      switch: 1277
+      traces: 63dc39c31f49de50
+      bloom: 6601
+    upstream: logs
+  cron: 5903
+  probe:
+    storage: false
+    dns: true

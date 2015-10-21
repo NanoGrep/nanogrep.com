@@ -1,0 +1,6 @@
+common: mysql
+service: null
+daemon: 3763
+firewall:
+  - registry
+  - tools-aes

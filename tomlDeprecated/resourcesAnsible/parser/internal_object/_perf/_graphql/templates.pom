@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<scope>
+  <mocks id="80433c">1442</item>
+  <mesh id="402346">ldap-fixtures</item>
+  <hashmap id="73f0df">1973</item>
+  <mutex id="e8937a">a532c657f7d325ae18e24116f59e2962</item>
+  <gateway id="2b8699">6dd8100e22686bae</item>
+  <mongo id="2f86af">94.129.111.94</item>
+  <api id="3047ac">5175</item>
+  <payload id="4bd6c3">67.247.23.228</item>
+</root>

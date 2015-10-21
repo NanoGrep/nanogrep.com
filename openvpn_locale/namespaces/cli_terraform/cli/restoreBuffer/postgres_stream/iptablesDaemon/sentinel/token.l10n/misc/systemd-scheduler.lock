@@ -1,0 +1,36 @@
+{
+    "tenant": {
+        "policy": "7e5372270566",
+        "sha256": {
+            "vxlan": [
+                "017cbb7eb094",
+                "f0ad351a929a",
+                3513
+            ]
+        },
+        "stack": false,
+        "retry": {
+            "env": 1345
+        },
+        "dhcp": 301,
+        "envoy": [
+            4632,
+            {
+                "socket": "396196c57195",
+                "bgp": "53304606ff15",
+                "coroutine": 6384,
+                "offset": true,
+                "ceph": false,
+                "session": null
+            },
+            {
+                "table": true,
+                "bootstrap": false,
+                "helpers": true,
+                "ansible": "cceb991ac707",
+                "backup": null,
+                "socket": "salt"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+middleware:
+  crypto: 578eaf9ddff0decf
+  scheduler:
+    subnet:
+      - yaml-nginx
+      - sdk
+      - 173.116.175.87
+      - 190.69.91.137
+    worker: 931
+    object: 208.97.128.204
+    role:
+      adapter: 7826
+      zfs: buffer
+      hashmap: queue-volume
+      policy: 202
+  mesh:
+    - 4d7757bef20b49c4ef8a64dfcd5ce4b6
+    - terraform
+    - 02c33a86e7872503

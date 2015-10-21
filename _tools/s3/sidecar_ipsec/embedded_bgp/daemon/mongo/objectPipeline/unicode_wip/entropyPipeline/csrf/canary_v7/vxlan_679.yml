@@ -1,0 +1,24 @@
+stack:
+  - runner-logs
+  - postgres
+  - 6690
+shard: 157.221.148.71
+daemon:
+  metrics: parser
+scheduler:
+  stack: 216.59.175.2
+  wireguard:
+    nginx: 1321
+    btree: 9893
+    vlan:
+      quic: 087b198a5b9bbfb3c63cbbacbb36e522
+      bloom: 4181
+      pod: topic
+      nfs: cookie
+    migrations: vlan
+    hmac:
+      - limit
+      - buffer
+      - user
+      - build
+cors: sdk

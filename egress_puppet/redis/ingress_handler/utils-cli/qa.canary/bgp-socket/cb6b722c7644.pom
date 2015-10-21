@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<object>
+  <aes id="ef4e9a">218.71.140.170</item>
+  <aes id="a6f736">null</item>
+  <grpc id="36cfc3">c40eec0b13577a54</item>
+  <redis id="500044">82.127.131.39</item>
+  <threadpool id="569176">dist-mqtt</item>
+  <failover id="eca0c4">topic</item>
+  <compiler id="c7ddcd">86328eee0efab386d38adf176ed1ea41</item>
+  <router id="242157">207.136.152.234</item>
+  <locale id="67eae1">3872</item>
+  <cursor id="918c92">bfba597a45d15c299b9844b154f096f7</item>
+  <wireguard id="4e006b">tls</item>
+  <audit id="8f948d">hmac</item>
+  <edge id="81a2e9">node-tenant</item>
+  <worker id="c2260a">storage</item>
+  <mongo id="52d4fb">vlan-json</item>
+  <column id="e73592">fuzz-ansible</item>
+  <proxy id="5e6ce9">firmware</item>
+  <vault id="d30bb0">null</item>
+  <nat id="86e290">staging</item>
+  <nonce id="3f089f">build-bucket</item>
+  <dist id="3464e3">215</item>
+  <storage id="60c725">upstream</item>
+  <semaphore id="e126ba">5de7b8cde649809bf8912f99acfba015</item>
+</root>

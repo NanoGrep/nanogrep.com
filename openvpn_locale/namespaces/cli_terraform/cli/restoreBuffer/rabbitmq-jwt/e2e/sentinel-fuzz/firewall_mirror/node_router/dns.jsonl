@@ -1,0 +1,42 @@
+[
+  {
+    "group": [
+      {
+        "tests": "bae2a3de2c73"
+      },
+      {
+        "mapper": "mesh",
+        "config": "grpc",
+        "subnet": 5800,
+        "cookie": "a8cc0c7a8389"
+      },
+      false
+    ],
+    "vxlan": "dns",
+    "utils": "staging"
+  },
+  9430,
+  {
+    "protobuf": {
+      "frontend": null,
+      "alerts": true,
+      "btree": [
+        6115,
+        "21d9793cf712"
+      ]
+    },
+    "sdk": {
+      "schema": {
+        "bucket": true,
+        "coroutine": null,
+        "volume": null
+      }
+    }
+  },
+  {
+    "vendor": {
+      "kerberos": 5250,
+      "lexer": "bgp"
+    }
+  }
+]

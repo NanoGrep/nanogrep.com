@@ -1,0 +1,14 @@
+vxlan:
+  ceph: prod-prod
+edge: null
+cache: 359
+raid: mesh
+env:
+  tenant:
+    ansible: firmware
+    alerts: failover-payload
+    common: dc4aae1020b12c53
+    tls:
+      compiler: token-nightly
+      envoy: pipeline
+    controller: 45.125.138.201

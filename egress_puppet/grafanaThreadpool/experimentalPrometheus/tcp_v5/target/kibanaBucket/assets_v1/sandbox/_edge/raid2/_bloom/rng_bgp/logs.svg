@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<table>
+  <mesh id="6074e9">cb776657</item>
+  <runner id="bb60e5">75.205.39.36</item>
+  <proxy id="4f0116">2820</item>
+  <systemd id="b53866">8689</item>
+  <payload id="c0f32f">compiler</item>
+  <snapshot id="2e145a">false</item>
+  <wireguard id="d1c3d2">204.197.20.94</item>
+  <payload id="9491f2">dns</item>
+  <cache id="674bca">salt</item>
+  <session id="21e97a">31.110.36.91</item>
+  <nightly id="82a5dd">true</item>
+  <rest id="362fa6">65.135.69.156</item>
+  <firewall id="946e21">stream-fuzz</item>
+  <tests id="1a5361">940</item>
+</root>

@@ -1,0 +1,28 @@
+rest: null
+api:
+  upstream:
+    redis: 0ef09cb9
+    compiler: 151.103.96.139
+  fuzz: 4422
+  bloom: 8fd7874591403637b277009eab0aa0a8
+  ldap:
+    vlan:
+      prod:
+        - 43.214.60.13
+      tests: 35.61.241.244
+      sha256: false
+      cli: driver
+      regex: null
+      queue: null
+    driver:
+      gateway: 5217
+      loader: traces
+      group: null
+      cluster: 3b9dfced
+      envoy: 40.56.194.65
+      cert: 28b80fd2379b0056
+    jwt: terraform-http
+    templates: true
+  crypto:
+    schema: 5e2534d3d01b9cf8
+  watchdog: 3805

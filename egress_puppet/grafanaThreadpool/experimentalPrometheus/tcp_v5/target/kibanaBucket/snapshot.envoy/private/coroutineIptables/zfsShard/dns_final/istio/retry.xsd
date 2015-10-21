@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<service>
+  <limit id="c9d9ca">mutex-prometheus</item>
+  <elastic id="e7ce28">firewall</item>
+  <parser id="2bd6f2">upstream</item>
+</root>

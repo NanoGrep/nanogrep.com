@@ -1,0 +1,22 @@
+artifact:
+  - 207.11.214.113
+  - 209.102.80.195
+  - row
+table: assets-hmac
+quic: null
+upstream:
+  iptables: 50eb93507344986d99e042f0487f41fa
+  object: 7810
+  queue:
+    batch: protobuf
+    kafka:
+      json: false
+      adapter: topic
+      wireguard: 07224d21d36d52e059dbd6967870cb90
+    entropy:
+      rsa: artifact
+    cursor: fixtures
+    scope:
+      - 4663
+    rollback: ingress-tcp
+gateway: backup-elastic

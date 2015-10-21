@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<beta>
+  <mapper id="31cf7b">common</item>
+  <coroutine id="72608b">true</item>
+  <request id="537c9f">7228</item>
+  <migrations id="30ffe1">46.145.157.131</item>
+  <rsa id="24bf16">151.101.151.67</item>
+  <service id="b1251b">false</item>
+  <coroutine id="da2d80">9256</item>
+  <heap id="3664ef">regex-templates</item>
+  <sdk id="a167ae">null</item>
+  <nginx id="7124ac">build</item>
+  <systemd id="ba48a7">true</item>
+  <vxlan id="5125b8">1077</item>
+  <role id="587828">storage</item>
+  <mongo id="1c7b58">62.15.191.65</item>
+  <table id="adb1b4">1314</item>
+  <grpc id="6c5cf4">redis-heap</item>
+  <payload id="977c8e">7383</item>
+</root>

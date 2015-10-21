@@ -1,0 +1,24 @@
+{
+    "hotfix": {
+        "scripts": false,
+        "driver": {
+            "rsa": {
+                "firewall": "6fe53f09d1a5",
+                "cgroups": "rsa",
+                "staging": false,
+                "nfs": null,
+                "nat": false,
+                "trie": null
+            },
+            "scope": [
+                null,
+                "frontend"
+            ],
+            "trie": [
+                683
+            ],
+            "tls": "nightly"
+        },
+        "sandbox": 3311
+    }
+}

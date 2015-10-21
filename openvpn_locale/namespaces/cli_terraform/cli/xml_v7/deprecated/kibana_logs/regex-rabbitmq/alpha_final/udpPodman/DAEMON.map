@@ -1,0 +1,1 @@
+{"router": {"tenant": false, "sandbox": true, "salt": {"websocket": null, "heap": [false, null, true], "entropy": "token", "ldap": [null, false, null]}, "sha256": [6824]}}

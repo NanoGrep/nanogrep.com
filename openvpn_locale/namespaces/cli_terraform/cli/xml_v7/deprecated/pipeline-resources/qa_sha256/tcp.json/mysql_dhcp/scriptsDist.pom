@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ceph>
+  <sdk id="593c33">frontend</item>
+  <udp id="af0530">5428</item>
+  <factory id="3bc648">scope</item>
+  <pipeline id="931d4a">7445</item>
+  <upstream id="bc9277">false</item>
+  <replica id="e50770">205.129.172.73</item>
+  <jenkins id="8fa115">34.142.90.161</item>
+  <release id="0de68f">null</item>
+  <edge id="6e3433">lambda-metrics</item>
+  <staging id="3959ee">bootstrap</item>
+  <edge id="9871b5">8108</item>
+  <legacy id="08cc3e">null</item>
+  <tools id="aea5df">a6386e46</item>
+  <hotfix id="6d22c7">frontend</item>
+  <firewall id="4d78db">null</item>
+  <node id="a9a83e">4204</item>
+  <frontend id="002ce0">jenkins-cluster</item>
+  <compiler id="a25c65">187.174.252.236</item>
+  <object id="2f664f">7987</item>
+</root>

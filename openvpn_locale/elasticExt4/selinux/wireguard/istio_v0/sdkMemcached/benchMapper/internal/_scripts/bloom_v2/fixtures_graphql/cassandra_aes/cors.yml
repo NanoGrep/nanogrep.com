@@ -1,0 +1,36 @@
+build:
+  tests: 5157
+  node: templates
+  driver: 6227
+  nonce:
+    - 7029
+    - 1c5eb954a1fa48dd
+    - false
+  cert:
+    sandbox: 232.177.145.200
+  backup: true
+nfs:
+  - false
+  - true
+  - ldap-index
+watchdog:
+  cert: 03a62c73
+  runner:
+    - 103.83.120.20
+    - 4680
+    - mocks
+    - false
+  rest: true
+  nat: false
+  upstream: helm-websocket
+fuzz: topic
+kernel:
+  compiler: 46.15.110.161
+  dhcp: 344
+  hashmap:
+    scope:
+      parser: 4b504e31f305a26759bf7b50e4f92ec9
+    backend: 115.96.151.232
+    wireguard: 116.43.63.37
+  redis: 6494
+  iptables: 2707

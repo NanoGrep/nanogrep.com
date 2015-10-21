@@ -1,0 +1,29 @@
+switch: 7842
+bench:
+  rollback:
+    stack: migrations-grafana
+    edge: 157.129.15.191
+    nfs: 6972
+    column:
+      iptables: true
+      middleware: rollback
+      driver: 9134
+    registry: 9783
+  protobuf: controller
+  nightly: 191.177.20.149
+helm: 74.107.48.242
+nightly:
+  index:
+    lexer:
+      rollback: e16966ff
+      sha256: 229.133.237.108
+      lib: quic
+    hmac:
+      alerts: failover-nonce
+      handler: d9b727fb9140a3a1e968b1aa0e7ea42c
+    schema: 3ac89751dbf5433ab833375bb036b28b
+    legacy:
+      - true
+    mirror: true
+  audit: 5304
+  column: 7890076dffb51d4f

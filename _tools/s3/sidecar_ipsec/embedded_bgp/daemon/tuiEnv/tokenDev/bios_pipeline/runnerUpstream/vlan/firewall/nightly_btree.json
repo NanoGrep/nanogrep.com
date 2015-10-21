@@ -1,0 +1,41 @@
+[
+  {
+    "audit": {
+      "retry": {
+        "tls": true,
+        "legacy": 1879,
+        "cursor": "jenkins"
+      },
+      "bgp": {
+        "dns": false
+      },
+      "systemd": {
+        "canary": null,
+        "cert": false,
+        "group": 592,
+        "elastic": "migrations",
+        "scripts": "50905da93bce"
+      },
+      "env": [
+        8213,
+        "4ecab00772e0",
+        null,
+        false
+      ],
+      "proxy": {
+        "cache": false,
+        "frontend": 3027,
+        "factory": true,
+        "cookie": true,
+        "batch": true,
+        "probe": "coroutine"
+      },
+      "prometheus": [
+        "bea23b90e3a2",
+        "alerts",
+        false
+      ]
+    },
+    "heap": "table"
+  }
+]

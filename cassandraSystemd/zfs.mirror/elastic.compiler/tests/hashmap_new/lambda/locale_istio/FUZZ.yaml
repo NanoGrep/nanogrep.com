@@ -1,0 +1,9 @@
+object:
+  pod:
+    - false
+  rest: dff47a5e
+  daemon: frontend-proxy
+  nonce: 7512
+  bloom: c62ca1824d5e4236ded97779f2649006
+  row:
+    audit: cookie-topic

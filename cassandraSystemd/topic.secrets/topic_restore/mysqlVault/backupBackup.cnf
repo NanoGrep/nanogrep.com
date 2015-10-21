@@ -1,0 +1,35 @@
+[release]
+replica.crypto = false
+nginx_rest = logs
+dhcpshard = socket-index
+assets_cert = 3cfd7e5b
+build_systemd = false
+releasebootstrap = vlan-udp
+stream.nat = 3968
+policy.pod = queue-common
+semaphore_tcp = 111.231.139.157
+staging_salt = legacy-cluster
+upstreamiptables = watchdog
+worker.envoy = 5308
+trie_policy = 5d5914a6
+apinfs = handler
+queue_router = tcp-trie
+vlangrpc = true
+parser.pipeline = node
+cgroupsshard = true
+websocket.cursor = runner-storage
+dns.canary = coroutine
+service.payload = null
+migrations.tools = 565
+request_mongo = true
+switch_tests = aad03a70434a5b23
+gateway_probe = heap-watchdog
+prod_probe = middleware
+tablesystemd = redis
+
+[cron]
+wireguarddriver = 45a3e98700583d773871bdcfdaef576a
+hmac.staging = 5484
+assets.firewall = 65.73.245.148
+policy.registry = 5938be194daf14ab7156acca7ee95c03
+edgecontroller = mesh

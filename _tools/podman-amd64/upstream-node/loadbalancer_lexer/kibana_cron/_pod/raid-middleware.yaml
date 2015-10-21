@@ -1,0 +1,75 @@
+kernel: false
+iptables:
+  origin:
+    iptables:
+      vault:
+        - 204
+        - true
+        - 66e46298a4171620
+        - nonce-metrics
+      factory: payload-retry
+      nonce: 193.112.74.38
+      rollback: sandbox-scripts
+      service: 183.122.212.153
+    ingress: 4687
+    offset:
+      logs: e3bf2bd21374f9795b563aab9fe5d19d
+      mqtt: utils
+      registry: 18.31.42.20
+      driver:
+        - mirror
+        - de3c926045a4d8fd
+        - response-utils
+      rollback: 6413df9a06fd7c5e1ea037c28dd332c6
+      cluster: prometheus-kernel
+    retry: prod-patch
+    driver: 128.6.190.75
+vendor:
+  proxy:
+    - db3f9256
+    - null
+    - 4750534994db4b597d428fb13c6aa71c
+    - null
+  ldap: null
+  ansible:
+    - object-gateway
+    - btree
+    - false
+  backend: 46bb2c01
+  tls:
+    - null
+    - false
+    - protobuf
+    - null
+udp: true
+crypto:
+  nightly: 122.234.175.78
+  sdk:
+    kernel: c12dd4a123d05ab5
+    sandbox: 507
+    ingress: 7956
+    config:
+      dns: 13.58.170.93
+      ansible: sdk-beta
+      cookie: c265a2de
+      loader: table-staging
+      mocks: 8141
+    scheduler:
+      - null
+      - null
+      - 4698
+  cgroups:
+    topic: 115.56.176.124
+    group: 7767
+    failover:
+      driver: 40.34.219.198
+      api: 5256
+      mqtt:
+        - 7945
+        - true
+        - d1af51fbafb167b7
+        - templates-yaml
+      gateway: 249.144.190.204
+      firewall: scheduler
+    jwt: replica
+column: 097031287082357b66d4d2d5df4fd7f7

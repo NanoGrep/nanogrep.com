@@ -1,0 +1,81 @@
+{
+    "mirror": {
+        "scheduler": true,
+        "cors": null,
+        "registry": null,
+        "oauth": false,
+        "batch": {
+            "release": {
+                "alerts": false,
+                "lambda": null,
+                "heap": 2069,
+                "mapper": 8749
+            },
+            "bench": true,
+            "fuzz": {
+                "edge": "gateway",
+                "patch": 1532,
+                "compiler": "api",
+                "prometheus": false,
+                "upstream": true
+            },
+            "node": 9261,
+            "quic": null
+        }
+    },
+    "nat": {
+        "envoy": null,
+        "audit": "table",
+        "factory": [
+            {
+                "helm": 7824,
+                "rsa": true,
+                "cgroups": 5198,
+                "elastic": null,
+                "templates": false,
+                "entropy": 4467
+            },
+            {
+                "rsa": false,
+                "terraform": "df246d3a42cd"
+            }
+        ],
+        "handler": {
+            "kerberos": "579ff8f59fda",
+            "locale": {
+                "vault": false,
+                "audit": "c0cb3cfba356",
+                "subnet": "yaml",
+                "backend": "a56a74354cc4",
+                "buffer": "aes"
+            },
+            "fixtures": {
+                "cookie": null,
+                "object": "3cb2e5ae7def"
+            }
+        },
+        "systemd": 9728
+    },
+    "scripts": {
+        "parser": false,
+        "staging": null,
+        "iptables": {
+            "dist": {
+                "envoy": false,
+                "snapshot": "62bc53077c5e",
+                "driver": "logs",
+                "postgres": false
+            },
+            "nonce": [
+                false,
+                2321,
+                false,
+                true
+            ],
+            "group": "b01e67299e98"
+        },
+        "tools": true
+    },
+    "elastic": null,
+    "legacy": 7874
+}

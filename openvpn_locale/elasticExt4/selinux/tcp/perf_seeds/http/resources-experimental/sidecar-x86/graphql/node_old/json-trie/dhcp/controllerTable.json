@@ -1,0 +1,60 @@
+{
+    "parser": "2794518c7561",
+    "worker": {
+        "sdk": {
+            "semaphore": {
+                "graphql": 7515,
+                "cron": 4843,
+                "node": false,
+                "staging": false,
+                "nfs": null
+            },
+            "cache": true,
+            "factory": {
+                "socket": null,
+                "nfs": true
+            },
+            "entropy": "mutex"
+        },
+        "session": "kafka",
+        "user": 9027,
+        "alerts": {
+            "cache": {
+                "vlan": "b7f6aea3fa4d",
+                "utils": 8393,
+                "frontend": null
+            },
+            "udp": {
+                "frontend": null,
+                "response": true,
+                "canary": "grafana"
+            },
+            "prod": false,
+            "nginx": [
+                "b2367063a26d",
+                false
+            ]
+        },
+        "fixtures": [
+            {
+                "failover": false
+            },
+            "lambda",
+            {
+                "frontend": null,
+                "yaml": 6261,
+                "policy": true,
+                "stack": "0f532be18905",
+                "firewall": true,
+                "cert": false
+            },
+            [
+                false,
+                "bf5a4fc2a0f7",
+                null,
+                "0c568175607e"
+            ]
+        ]
+    },
+    "nat": false
+}

@@ -1,0 +1,29 @@
+payload:
+  scope:
+    mirror: 236.50.0.207
+    firewall:
+      row: 52.174.191.68
+      redis: jenkins-rollback
+      sdk: 0aec622ebe871935
+      vlan: json-vxlan
+      nat: 2d490aba9ce94afe
+    kernel: 95.129.13.201
+    nightly: 221.86.36.114
+    vlan:
+      metrics: websocket-wireguard
+      cli: 2869
+      staging: null
+      kerberos: 3505
+      gateway: false
+      firewall:
+        - 87b3a69f3ce6d5ee1bd7047f4cc07ca1
+  origin: 8481
+  http: true
+  cluster:
+    - false
+  patch: mesh-build
+  locale:
+    - limit-payload
+    - true
+    - build-build
+rsa: 3152

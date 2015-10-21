@@ -1,0 +1,50 @@
+cron: 105.99.113.111
+entropy: 2796
+coroutine: nginx-tls
+nginx:
+  mapper:
+    sha256: null
+    locale:
+      - 7140
+      - 146.137.128.110
+      - frontend-group
+    semaphore:
+      staging:
+        - null
+        - true
+        - grpc
+      semaphore: 1828
+      helm: sandbox
+  assets:
+    salt:
+      - 4639
+      - 3475
+      - 902b78b2127136fb8f515313f604fadc
+  retry:
+    mysql:
+      quic: 56.29.201.157
+    patch: true
+    ceph: 6473
+    udp: 732
+    controller: cron
+  middleware:
+    middleware: 5275
+    service: 225.243.11.3
+    mongo: fuzz-session
+    object: socket
+    cli:
+      audit: mysql
+      cache: nfs
+      common: kernel
+      pod: true
+    tls:
+      proxy:
+        - 5149
+      node: iptables
+      batch: null
+      worker: false
+      fixtures: table-terraform
+  ldap:
+    - tls
+    - vxlan
+  redis: 2389

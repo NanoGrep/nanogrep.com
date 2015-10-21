@@ -1,0 +1,30 @@
+elastic:
+  bench: bgp
+  tools:
+    dist: 5099
+    fuzz: null
+    registry:
+      - 2.202.6.122
+      - 169.145.113.227
+    group: true
+  lib: false
+  storage:
+    subnet: null
+  failover:
+    dhcp: 2129
+  scripts:
+    role: 051d297fd8ecb396
+    graphql:
+      column: 4052
+      sandbox: stack-legacy
+      switch:
+        - env-ceph
+        - cluster-compiler
+        - null
+      websocket: true
+      metrics: false
+      tenant: helpers
+ldap:
+  - 239.240.95.187
+  - 151.4.197.92
+mqtt: 7131

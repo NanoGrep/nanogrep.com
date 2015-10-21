@@ -1,0 +1,9 @@
+api,jenkins,service
+true,8bce7075e8ee96a6,vlan
+null,canary-vxlan,backend
+edge-ansible,d8d5640f,bootstrap
+factory-vault,false,elastic-retry
+1.17.191.217,168.76.24.205,false
+6383,15.165.67.49,5182
+147.224.160.98,backend-migrations,a5af30bb
+156.144.215.144,9684,audit

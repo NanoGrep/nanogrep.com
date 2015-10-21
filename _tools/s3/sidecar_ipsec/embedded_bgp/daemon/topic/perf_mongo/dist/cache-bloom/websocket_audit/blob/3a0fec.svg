@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<audit>
+  <audit id="cd747d">11.117.93.254</item>
+  <websocket id="9e5948">cert</item>
+  <artifact id="a4f51f">211.24.242.30</item>
+  <crypto id="063acb">1954</item>
+  <vxlan id="57b2de">fb1adfea</item>
+  <object id="60de76">daemon-nfs</item>
+  <bucket id="0d5b8d">3416</item>
+  <common id="a6ef8d">alerts-compiler</item>
+  <tools id="a73eee">6750</item>
+  <salt id="a766a2">2227</item>
+  <bucket id="6c23e0">79.174.108.214</item>
+  <vlan id="ba0493">true</item>
+  <lambda id="bdeb50">ddf73586ba8c0973</item>
+  <udp id="5c7d08">null</item>
+</root>

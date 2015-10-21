@@ -1,0 +1,27 @@
+legacy:
+  user:
+    cache:
+      grpc: null
+      vlan: jwt-backup
+    bootstrap:
+      firmware:
+        - 7741daabfbc1a39360516b9f3f2ee4da
+        - config
+        - 33.214.19.193
+      loader:
+        - 5174
+        - 2de024e8e3d61686
+        - 130.35.253.130
+    assets: 2230a63dbd8ecf97263a0214503c4fd7
+  queue:
+    nightly: 9581c602
+    postgres: service
+    envoy: beta
+    policy: sandbox-templates
+    handler:
+      postgres: registry
+      failover: 9525
+      redis: 4661
+      watchdog: threadpool-pod
+  envoy: null
+  yaml: 1625d410d64dba71aeb99c64497f0279

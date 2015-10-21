@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<helpers>
+  <legacy id="44f48d">8194dd9f91b3bedb28ad62ef6b0e6eb8</item>
+  <metrics id="75c79c">false</item>
+  <aes id="04d714">fuzz-handler</item>
+  <helpers id="4e61df">254.60.183.214</item>
+  <dns id="1f1b40">legacy-nightly</item>
+  <cron id="73b376">bloom-staging</item>
+  <role id="53fc30">table</item>
+  <tools id="9cd597">9217e9a1</item>
+  <lambda id="f6e301">false</item>
+  <hotfix id="09a843">141.89.39.4</item>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<stream>
+  <storage id="7a6e89">protobuf-helpers</item>
+  <column id="62666d">column</item>
+  <cursor id="da6df3">fcc5d4bf</item>
+  <batch id="0d4cfc">23.84.241.141</item>
+  <tls id="dff2bd">lambda</item>
+  <hotfix id="46810b">17838142d148040feb817c3386307a83</item>
+  <runner id="65ac27">3a05dc9f0451a711703e20a381939762</item>
+  <grpc id="69c50f">null</item>
+  <regex id="440bd2">0774d937</item>
+  <quic id="087839">9757</item>
+  <threadpool id="5b9793">cfead438eca5fba541e4eba832b160a4</item>
+  <parser id="5cebe2">false</item>
+  <mqtt id="82426f">b78f357b</item>
+  <helm id="93280b">1958</item>
+  <graphql id="ffc8d0">tenant</item>
+  <firewall id="716370">false</item>
+  <core id="28b025">56cf9c0f</item>
+  <websocket id="ec89b0">prod-limit</item>
+  <token id="fc072b">19</item>
+  <tcp id="25736b">3064</item>
+</root>

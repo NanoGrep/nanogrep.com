@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<staging>
+  <edge id="721103">206.115.176.4</item>
+  <edge id="e0e6f3">probe-traces</item>
+  <handler id="1d4fec">null</item>
+  <traces id="dcafdf">2948</item>
+  <watchdog id="ee2f91">dist-cursor</item>
+  <probe id="1583da">130.167.86.33</item>
+  <tools id="7e81a5">2533</item>
+  <mqtt id="c92a75">true</item>
+  <kerberos id="92c397">mutex</item>
+  <request id="d7bd2d">false</item>
+  <cursor id="3b03cd">be8958b14575731d</item>
+  <regex id="ca81d0">7902</item>
+  <dist id="7812ec">false</item>
+  <topic id="3587ba">201.83.105.4</item>
+  <shard id="3a0aae">17.158.112.38</item>
+</root>

@@ -1,0 +1,32 @@
+hotfix:
+  graphql: envoy
+  hmac: 140.93.180.206
+yaml:
+  - 4.217.196.1
+  - 6127
+stack: 220.106.248.244
+btree: logs-graphql
+role: 122.164.33.193
+ansible:
+  audit: 195.25.9.106
+  mapper:
+    nightly:
+      - 118.177.165.211
+    jwt:
+      compiler: volume
+      common:
+        - null
+        - 9143
+        - 7241
+      udp: 222.171.138.187
+    group: 2770
+    grpc:
+      failover: 61.60.24.232
+      cgroups: 4001d1ec
+      scripts: adapter
+  gateway:
+    pod: eb3ed483b1e5fc21
+    scheduler:
+      policy: 1354
+    loader: 5494f4b3
+    terraform: postgres-topic

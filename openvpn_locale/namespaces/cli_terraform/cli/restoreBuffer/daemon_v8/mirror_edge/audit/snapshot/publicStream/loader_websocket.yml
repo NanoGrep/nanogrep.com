@@ -1,0 +1,20 @@
+frontend:
+  - 10387e72e061a569672402f3f572b175
+coroutine: request
+tcp: 98e9d89e
+watchdog: true
+bench:
+  cors: origin
+node:
+  http:
+    service: staging
+    failover: true
+    batch: worker
+    worker:
+      rollback: false
+      mysql: udp-row
+      limit: 4d2fdb01
+      lib: false
+      driver: 3767
+    helpers: 60.22.89.218
+  firewall: 3730

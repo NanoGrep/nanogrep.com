@@ -1,0 +1,51 @@
+[buffer]
+storage_cluster = audit
+core_index = 101.76.213.213
+jenkins_tcp = response-helm
+rsa_limit = utils
+tls.response = null
+buildpolicy = 7690
+retrydriver = nfs-factory
+shardfailover = 252.86.127.111
+
+[aes]
+limit_lambda = 1831
+retryquic = 123.35.159.82
+heap.http = cursor-frontend
+origin_hmac = null
+shardcore = core-session
+middleware.ldap = true
+
+[tcp]
+scripts.jenkins = deb76716
+rediscluster = 236.10.175.73
+mocks_prod = 368
+regex_nfs = null
+scripts.frontend = 4f991724
+worker_cursor = 5104
+
+[udp]
+postgresoffset = prod-group
+meshsha256 = tls-stack
+bgp_scripts = udp
+sha256_semaphore = 133.42.233.69
+tokenfirewall = cli-worker
+clusteruser = cert
+cryptocompiler = 06b2cfc0b8f0e5f2ff5871803ca00bf1
+quicscheduler = 70.224.107.48
+token.ldap = null
+nat.aes = true
+
+[snapshot]
+mirror.jwt = 339ebf14
+ceph_column = semaphore-ingress
+backendmqtt = sandbox
+vendorbgp = 6839
+runner_nginx = 4537
+vlan_scripts = cors-scheduler
+stagingstorage = true
+envoy.vendor = cluster
+topicmirror = 150.62.234.173
+env_websocket = true
+quic_alerts = false
+mesh.switch = cron

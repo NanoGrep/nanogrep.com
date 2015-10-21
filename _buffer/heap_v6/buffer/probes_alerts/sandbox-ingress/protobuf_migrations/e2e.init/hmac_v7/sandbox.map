@@ -1,0 +1,38 @@
+[
+    {
+        "fixtures": [
+            false,
+            {
+                "hmac": "policy"
+            },
+            6493,
+            [
+                6729
+            ]
+        ]
+    },
+    [
+        [
+            1531,
+            {
+                "response": true,
+                "bloom": true,
+                "handler": "hashmap"
+            }
+        ],
+        [],
+        {
+            "pod": [
+                true,
+                false
+            ],
+            "row": 3378,
+            "cursor": {
+                "policy": false
+            },
+            "scope": [],
+            "kafka": [],
+            "json": true
+        }
+    ]
+]

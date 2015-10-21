@@ -1,0 +1,7 @@
+kafka,vxlan,traces,backend,tcp
+null,scope-edge,208ad54b,tools-scheduler,backend-mapper
+ce15bf2c1f2a11c74f5691eb705db536,udp,167.32.240.84,loader,84.37.213.43
+9214,offset,59.205.125.214,bootstrap-nginx,5289
+2341,elastic-scheduler,retry,null,null
+false,10.63.26.158,null,5.161.129.49,b5b0b990dbbd6f4d26d0df74c57a594d
+staging-grpc,true,sha256-edge,row,buffer-ceph

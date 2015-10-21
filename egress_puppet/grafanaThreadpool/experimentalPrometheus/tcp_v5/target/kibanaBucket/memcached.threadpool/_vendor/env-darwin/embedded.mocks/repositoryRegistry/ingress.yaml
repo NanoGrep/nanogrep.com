@@ -1,0 +1,68 @@
+sha256:
+  coroutine: frontend
+  envoy:
+    cluster: 7261
+    mysql:
+      retry: 42.23.117.37
+      driver: 8119
+      vault: 227.1.130.50
+      parser:
+        - 5714219a6f5b8987f0ea4abdd8d6b46c
+        - 95.141.251.116
+        - false
+    handler:
+      volume: 105.110.103.200
+      probe: false
+      topic: true
+      lib: null
+      role:
+        - 2332e2535ee694bcaecb5af2c92a1d3d
+      table: 1927
+    bloom:
+      - 3807
+      - 56a8a34d
+      - bcdd0f2b
+    helm:
+      index: alerts-helm
+      bloom: 57.17.33.122
+      gateway: true
+      logs: artifact
+      adapter: 247.184.213.63
+  quic:
+    - 109.238.230.105
+  zfs:
+    ldap: 239.191.233.169
+    coroutine:
+      - null
+      - 143.202.12.201
+      - null
+      - null
+    audit: 191.100.190.140
+  tools:
+    cluster: cluster
+    raid: 147.2.233.35
+  node: 9453
+dhcp:
+  metrics:
+    assets: 8365
+    cgroups:
+      nfs: replica
+      json:
+        - bootstrap
+        - null
+        - 0307fd6d4e1f56ea
+      table:
+        - 4271
+      ceph: 1396
+      tenant: 203.196.179.94
+      tls: wireguard
+  tenant: daemon
+  env: true
+  coroutine:
+    terraform: stack-protobuf
+    vxlan: 74d4ee7a6c0c1bb6493f24d96f295e1f
+  request: dd6c1ae918b4c734
+  loader:
+    - upstream
+    - 9238c35b
+    - bench-replica

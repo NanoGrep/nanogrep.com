@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<scope>
+  <queue id="4b4bed">zfs</item>
+  <ingress id="6bf0a8">f877e98ca3248246</item>
+  <replica id="2468b7">yaml-nonce</item>
+  <envoy id="ea2fb8">true</item>
+  <env id="f8b1e6">235.204.251.82</item>
+  <tools id="d23af3">false</item>
+  <metrics id="9e757d">false</item>
+</root>

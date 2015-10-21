@@ -1,0 +1,3 @@
+loader:
+  cursor: heap
+  hmac: common

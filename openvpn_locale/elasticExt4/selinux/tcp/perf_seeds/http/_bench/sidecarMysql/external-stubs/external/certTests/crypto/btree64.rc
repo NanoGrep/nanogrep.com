@@ -1,0 +1,41 @@
+[lexer]
+alerts.dist = 930
+mongo.nfs = cursor-backup
+rollback.snapshot = false
+worker.storage = 76b8c3c3
+hashmap.compiler = 211.68.158.245
+handler_cookie = b2dfdaa2ab6d32e8
+protobuf_elastic = true
+subnet_traces = true
+alertsdns = null
+oauthjenkins = 2332
+request_cursor = 77.0.98.73
+certrollback = handler-controller
+volumeyaml = 9305
+saltbackup = frontend-gateway
+artifactrole = null
+mqttoauth = bucket
+edge.scope = controller
+metrics.beta = 63.246.253.2
+tenant_handler = 202.114.6.20
+jenkins_vault = entropy-group
+hotfixdist = 10.229.2.190
+schedulermigrations = scripts-vendor
+auditvault = true
+tokenbench = b4be16959d6f6dda4f9d660841d17b98
+systemdcron = rest
+helpersmocks = 1800
+batch.hashmap = env-role
+
+[limit]
+upstreamtests = 8433
+lambda.elastic = 347
+prodjenkins = kafka
+registry.nfs = 196.192.123.159
+canarybucket = 67.17.65.47
+threadpool_raid = 6296
+
+[json]
+pipeline_quic = 05f7803406c2f6fd
+group_zfs = 1208
+scope_dns = 9803

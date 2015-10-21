@@ -1,0 +1,12 @@
+mqtt:
+  row:
+    coroutine: 20102eea
+    oauth:
+      service: true
+      postgres: 3060
+      cluster: 218.49.151.166
+      cgroups: null
+      proxy:
+        - 86.94.149.95
+  backup: lambda
+  snapshot: elastic

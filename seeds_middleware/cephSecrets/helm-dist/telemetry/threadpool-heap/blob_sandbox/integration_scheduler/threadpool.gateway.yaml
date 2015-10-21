@@ -1,0 +1,6 @@
+replica: 2651
+mqtt:
+  - 3927
+  - 7189
+oauth: vendor
+dns: 176.116.195.41

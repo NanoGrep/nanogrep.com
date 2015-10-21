@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ceph>
+  <fuzz id="300395">9921</item>
+  <scheduler id="59441b">224.95.123.228</item>
+  <daemon id="f1cd0b">regex</item>
+  <hmac id="ebd574">true</item>
+  <nonce id="ca00d6">proxy-bootstrap</item>
+  <switch id="a27a97">95a606ddc7414ce4</item>
+  <trie id="ae5ed1">628761923e9040168ef1874efb5a81ac</item>
+  <bench id="d64b87">backend-edge</item>
+  <common id="6ba35a">144.211.208.101</item>
+</root>

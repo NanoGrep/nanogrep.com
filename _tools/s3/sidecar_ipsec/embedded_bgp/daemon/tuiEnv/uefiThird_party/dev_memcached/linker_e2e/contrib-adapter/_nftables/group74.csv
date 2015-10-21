@@ -1,0 +1,16 @@
+core,sdk,sha256,rsa
+logs,87.7.75.211,postgres-subnet,5910
+false,cc3c764c,adapter-index,ebc221e2940576c01d37a7fd736e1c84
+199.212.54.118,1964,6152,65318b5f4ff3522d
+nfs-raid,c09cb4e6edf98d39ed45bc10c709a621,92.20.61.22,72626fa9ffd130bb
+6.118.251.89,mirror,true,rest
+8750,false,vault-locale,af480021
+7745,nginx-wireguard,b971ceb8eb498c04,grafana
+hashmap,2eacff7f,false,e358b47da7eabebee97d472314605ba6
+false,false,kafka,null
+mysql,envoy-api,6781,false
+7da4139b86d3ebfb,be20e829,20.80.132.7,142.116.173.45
+false,false,3476,5108
+1420,ldap,router,nat-index
+frontend,c3d98951a9ef9e520232428b67666b19,null,197.58.168.224
+5433faa9c5196781,ingress,1424,ansible

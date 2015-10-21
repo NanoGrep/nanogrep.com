@@ -1,0 +1,4 @@
+role,failover,proxy,sdk
+true,true,2932,8717
+btree,191.66.44.41,upstream-hotfix,pipeline-patch
+hotfix-backup,null,true,136.133.32.240

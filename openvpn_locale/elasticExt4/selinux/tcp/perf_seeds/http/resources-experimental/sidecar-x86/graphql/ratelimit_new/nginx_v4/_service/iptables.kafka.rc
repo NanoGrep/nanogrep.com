@@ -1,0 +1,32 @@
+[aes]
+pipeline.vxlan = 06d86e0b
+queue.daemon = 3132
+cookie.threadpool = 26.28.218.6
+config_build = 181.164.217.210
+oauthshard = config
+kafka.grpc = object
+backup.rest = stream-service
+firewall_sandbox = 107.216.30.245
+groupgrpc = false
+websocketsubnet = nfs
+helpers.role = websocket
+api_hmac = 9481
+pipeline_table = nginx
+routerdaemon = 251.124.213.162
+runner_worker = false
+runnercontroller = 1161
+bucket.snapshot = router
+topic_redis = e40d58477a84a824
+
+[regex]
+tcpbucket = a419f5145adaa141e2ccdd8b06b28a49
+elastic.offset = true
+adapter.alerts = true
+nonce.mapper = 632
+bootstrap.shard = 2336
+tests.mutex = storage-jenkins
+artifactretry = 2459
+sockethelm = 46cce814
+snapshot_pod = 195.86.253.238
+node.canary = c7d663b968e4c433
+wireguardcache = null

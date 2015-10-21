@@ -1,0 +1,17 @@
+helm,snapshot,fuzz,nginx
+nightly,2836,79.71.124.199,5614c87e028909f7
+4019,20.145.45.106,bucket,7723
+0eed8f5aa4cf22fa772c6758a4d07206,271,2127,c769fa39c061da46fe01d29794cccb3d
+null,81.83.202.67,kafka,603c004fb6e46390
+tools-session,8745,null,proxy
+false,167.130.117.159,mapper,1582
+c2fa97ba2ce4de60,6804,nginx,beta
+release,oauth-rsa,router-tls,api
+183.189.147.59,208.227.93.94,lexer-protobuf,true
+105.153.218.146,helpers-zfs,2927,false
+8694,383fcf71,proxy-edge,cache
+stack-rollback,envoy,build,99.95.34.83
+tenant,http,0b654177,112.59.206.134
+heap,true,oauth-failover,bench-cgroups
+f241be2770f2a3e3,lambda,tcp-switch,c1b6e0db7a1d3472
+52a29f80,181.24.51.87,semaphore-router,true

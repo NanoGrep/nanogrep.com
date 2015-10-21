@@ -1,0 +1,22 @@
+nightly: shard
+sandbox:
+  redis: frontend-bench
+  tenant: f38107746599ab9e
+core:
+  request: 2345
+  ldap: build
+  bloom:
+    build:
+      daemon: ddb43d5104ead46c
+      common: 84f4eb57a278a653
+      session:
+        - lib
+        - false
+        - 48.34.109.221
+        - null
+    nonce: 0100e1165e76f4bdd73cf19d0228092a
+    response: session-bucket
+    service: cookie
+    helpers: 176.105.169.206
+    nightly: 1046
+kafka: cli-service

@@ -1,0 +1,15 @@
+daemon:
+  - 8450
+  - fixtures-core
+  - 42.182.226.48
+  - 203.232.68.45
+mapper:
+  mirror: 20.5.164.117
+  api:
+    controller: router-row
+    queue:
+      proxy: canary-yaml
+      backup: 164.210.194.52
+    bgp: raid
+    origin: 7060
+    fixtures: fixtures

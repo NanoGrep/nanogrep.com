@@ -1,0 +1,27 @@
+hotfix:
+  factory: dist-rsa
+  http:
+    - lib-traces
+  semaphore:
+    pipeline: 184.65.189.192
+    api:
+      - hmac-kernel
+      - utils-grpc
+    hotfix: true
+    pod: 78.8.152.244
+    hotfix:
+      salt: 16c05866
+      daemon: factory
+    common:
+      raid: locale
+      trie: 4ecbb58c7ea02c2a2afa2b327a959397
+      ldap: mutex-mesh
+      request: null
+      origin:
+        - 24.32.132.230
+      scripts: false
+  cli:
+    - false
+    - 843
+    - 4156f4ddef1d4ed91b22d471504e497c
+bloom: replica

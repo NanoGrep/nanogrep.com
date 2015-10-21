@@ -1,0 +1,16 @@
+json: mapper
+common:
+  postgres:
+    vendor: mutex-loader
+    common:
+      - frontend
+      - 91.29.102.13
+      - ab2be6b4
+      - fixtures
+  sdk: 141.74.135.180
+  adapter: 2958
+  shard: 1493
+grpc: 3618
+probe: 236.46.17.175
+queue: 251.101.17.234
+vault: 215.61.236.131

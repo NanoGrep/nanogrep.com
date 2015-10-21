@@ -1,0 +1,22 @@
+[frontend]
+storage_mysql = object-compiler
+socketnfs = null
+helpers_websocket = hmac
+mysql.lexer = false
+compiler.router = 204.106.69.254
+bloom.hashmap = yaml-http
+adapter_index = null
+cgroups_lexer = 136.177.130.52
+tools.cgroups = b7ea7760
+parserutils = bgp-iptables
+crypto_prometheus = 7db4447e
+alerts_shard = null
+elastic.cli = 245.7.210.207
+apimiddleware = vlan
+schema.metrics = 09c131791a7ad924
+fuzzpod = 773126adbc2dca69
+storage.terraform = null
+kernel_kernel = worker-nfs
+cookie_lambda = tls-aes
+fuzzuser = ced46378df8c17ebfb23d5239c7ccf97
+quic.btree = handler

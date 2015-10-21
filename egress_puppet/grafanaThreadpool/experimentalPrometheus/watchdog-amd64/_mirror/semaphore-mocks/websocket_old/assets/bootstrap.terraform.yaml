@@ -1,0 +1,40 @@
+hotfix: e7b77384a6d60f997a77edc7210a5696
+retry: null
+prometheus: false
+aes:
+  metrics:
+    - 184.40.243.137
+    - 6a4fc87df7c675f4
+    - 5626
+    - 8.222.206.195
+  mqtt: true
+  failover:
+    ingress:
+      kerberos:
+        - true
+        - true
+      failover: 244.10.109.133
+      parser: fb2d0814
+      backend: storage-common
+    cache:
+      handler:
+        - 4087
+    migrations: af42672cbee315aa6f42b79cf2bba3a0
+  hashmap: 220.154.140.232
+  watchdog:
+    vlan:
+      ingress: 222.8.167.120
+      bgp: false
+      cluster: 6219
+      nonce: yaml
+      build: pipeline
+    api:
+      graphql: buffer-cli
+      cookie: abf2d34c969d137b
+      bgp: 02bb7c70f1939cdbb7a4f2e7709518f1
+      oauth: false
+      firewall: 11.78.23.208
+    cors: ldap-kafka
+    semaphore: ldap-vault
+  trie: 57.174.43.220
+envoy: 2094

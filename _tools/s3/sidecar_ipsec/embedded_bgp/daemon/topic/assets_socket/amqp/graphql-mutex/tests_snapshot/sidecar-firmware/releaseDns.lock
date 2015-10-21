@@ -1,0 +1,70 @@
+{
+  "parser": {
+    "grpc": true,
+    "elastic": 6098,
+    "prometheus": "4b1c17523175",
+    "worker": {
+      "tools": {
+        "udp": 6640
+      },
+      "common": null
+    }
+  },
+  "patch": {
+    "token": "lexer"
+  },
+  "watchdog": [
+    {
+      "cursor": false,
+      "jwt": true,
+      "dns": {
+        "salt": true
+      },
+      "lexer": {
+        "pipeline": null,
+        "ansible": "d5aace26a86c",
+        "config": 114,
+        "tests": 3135,
+        "stack": null,
+        "offset": null
+      },
+      "upstream": null
+    },
+    {
+      "tcp": [
+        4279,
+        null,
+        null,
+        "eeb63e463190"
+      ]
+    },
+    false,
+    {
+      "trie": true,
+      "grpc": "edge",
+      "buffer": {
+        "scope": false,
+        "migrations": true,
+        "session": 1132,
+        "proxy": "b62ca489b393",
+        "replica": false
+      },
+      "zfs": []
+    }
+  ],
+  "sdk": {
+    "topic": {
+      "release": {
+        "regex": false,
+        "bloom": "firewall"
+      },
+      "ceph": {
+        "bucket": false,
+        "nginx": true,
+        "salt": 7926
+      }
+    },
+    "firewall": null,
+    "terraform": false
+  }
+}

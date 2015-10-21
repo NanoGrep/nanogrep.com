@@ -1,0 +1,6 @@
+mapper: d82c442a87e7db53de223932a22ad24f
+websocket: true
+compiler:
+  - wireguard
+  - 215.179.214.237
+mapper: vendor-nfs

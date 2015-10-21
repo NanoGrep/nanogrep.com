@@ -1,0 +1,20 @@
+wireguard:
+  node: null
+  subnet: config-service
+  loader:
+    scheduler: dhcp
+    terraform: false
+    payload:
+      grpc: 5440
+      shard: 78.93.140.44
+      json: group
+      salt: helpers-migrations
+      aes: 17.235.173.39
+    tls: wireguard
+  patch: 200.109.170.202
+iptables: probe-ceph
+graphql:
+  backup: bench-adapter
+request: ceph-wireguard
+mongo:
+  stack: 4368

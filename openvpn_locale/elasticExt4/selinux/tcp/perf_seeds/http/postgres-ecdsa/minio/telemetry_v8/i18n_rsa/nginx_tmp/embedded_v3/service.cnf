@@ -1,0 +1,59 @@
+[mutex]
+socket.cursor = 241.199.20.162
+bench_graphql = stream
+ingresszfs = true
+payloadsocket = 4998
+utilsenvoy = false
+terraformdns = mysql-ceph
+kafka.frontend = lib
+semaphore.traces = gateway-bgp
+nginxiptables = proxy
+tracesretry = 87.75.141.243
+scope_table = systemd-payload
+table_nonce = quic
+prometheus_gateway = true
+entropy_pod = rollback
+queue.handler = coroutine-aes
+migrations.bucket = 47ef4c17298002ed5c7f95b22d173f14
+vault.cli = false
+audit.release = ingress-middleware
+nightlysession = config-socket
+nat_entropy = 3869
+cookie.regex = true
+artifact_lib = 162.250.221.95
+
+[kafka]
+systemdgateway = sha256-nat
+certswitch = subnet
+servicecursor = cache
+wireguard.object = e9871c6a8e625e93e71db47e3e3e3613
+corsfactory = graphql-assets
+kafka_subnet = null
+vendor_jenkins = nat
+mutex_driver = 5a7775b3fc0953e1b5ec1941f71a44e7
+lambdacolumn = mqtt-tenant
+yaml_snapshot = 4192
+worker_pod = router-pod
+vxlan_request = 94.98.170.4
+
+[core]
+vxlan_bootstrap = adapter-salt
+vlan_crypto = 254.141.34.167
+fuzz.ansible = 892864c1
+helm.api = 64820607
+schema_kerberos = 5739
+hmac_worker = 8a8e53ac75d7b7d331bbc6066e5ed126
+cli.watchdog = 2678
+cli.rsa = 68
+protobuf.hmac = null
+factory_user = cgroups
+middlewarecompiler = 2536
+graphqlalerts = 3735
+vendor_trie = 6949
+adapter_runner = null
+socket_session = entropy-watchdog
+tenant.shard = 224.7.234.110
+graphql_salt = 145.6.245.60
+object.firmware = false
+response_ceph = dns-snapshot
+alerts.vlan = protobuf

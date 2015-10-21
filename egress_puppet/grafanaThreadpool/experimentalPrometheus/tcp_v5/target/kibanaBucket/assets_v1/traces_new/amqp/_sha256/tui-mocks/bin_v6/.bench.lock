@@ -1,0 +1,23 @@
+{
+    "prometheus": {
+        "nfs": "29140a7e89ff"
+    },
+    "batch": {
+        "api": [
+            "e0a1e4f822ec",
+            []
+        ],
+        "trie": {
+            "cors": {
+                "rsa": true,
+                "traces": "batch"
+            },
+            "common": [
+                "f7facf4970f2",
+                true,
+                "wireguard",
+                9217
+            ]
+        }
+    }
+}

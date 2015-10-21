@@ -1,0 +1,27 @@
+tests:
+  ldap:
+    shard: false
+    btree: null
+    request:
+      service: btree-retry
+      mutex: raid
+      request: raid
+      dist:
+        - 43
+        - 82.2.149.86
+        - jwt-ansible
+      env: 3d39ab6b7c3b3ee5
+  aes: json-gateway
+legacy:
+  migrations:
+    - 148.194.60.60
+    - dns
+    - 209.246.27.78
+  kernel: b26107ec674463299a287a25744d1aa4
+  parser: role-jenkins
+  mocks: snapshot-gateway
+  fuzz:
+    - 6213604b00cf529d
+    - 6274
+    - driver
+  jwt: 161.21.232.169

@@ -1,0 +1,58 @@
+daemon:
+  bench: 140.40.75.109
+  pipeline: role
+  controller: b7bf6d6c3e3df837344060fadc730ad5
+  service:
+    ingress: mongo
+    grafana: 197.126.180.191
+    offset:
+      nginx: null
+    bootstrap: pipeline
+    nfs:
+      user:
+        - false
+        - false
+        - mongo-buffer
+      heap: cluster
+      tools: 214.241.72.17
+      tools: cli-upstream
+      core:
+        - null
+      oauth: 6b0e63cdf8cf3ae3b59b9ae7bfb49934
+assets: 5023
+iptables:
+  dist: 9707
+  redis: mysql-lexer
+  cluster: 57.211.101.202
+  edge:
+    - f8b0ab3b118fd75016bcb31edceeed68
+  semaphore:
+    wireguard:
+      wireguard: false
+      adapter: 1a10f724
+      canary: 677b5db08625e15c267a510e27891c8f
+    response: 5990
+    request:
+      - false
+      - 5284
+      - nfs-prometheus
+      - c0a90924
+    bootstrap: 135.209.4.207
+    http:
+      - traces
+      - f4cc4045
+    proxy: null
+regex:
+  object: null
+  logs: 115.72.177.250
+  vendor:
+    scripts: false
+    cache:
+      limit: cursor-mongo
+      dns: 5830
+dhcp:
+  coroutine:
+    ceph: offset
+    mysql: false
+  tls: 1607
+  firewall: 24c5d59f

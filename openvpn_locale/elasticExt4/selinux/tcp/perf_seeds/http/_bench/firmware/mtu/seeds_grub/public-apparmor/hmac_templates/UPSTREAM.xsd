@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<role>
+  <redis id="19f187">768ec82c2e5a1c27</item>
+  <snapshot id="78cdf6">true</item>
+  <cors id="8eddcb">traces-switch</item>
+  <firmware id="10acea">table-iptables</item>
+  <storage id="d9b7bf">row</item>
+  <ceph id="94a2eb">ea2e96a4</item>
+  <failover id="02dd3a">1576</item>
+  <parser id="d44bd8">null</item>
+  <vlan id="2c4623">209.191.251.206</item>
+  <nonce id="25771b">true</item>
+  <legacy id="404a2b">4d20a19c</item>
+  <frontend id="d5f82f">null</item>
+  <runner id="c80afd">ab0381e21bede37df4186272574f0ffa</item>
+  <sandbox id="c20f57">20.37.87.181</item>
+</root>

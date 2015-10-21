@@ -1,0 +1,16 @@
+envoy:
+  api: false
+  helpers: wireguard
+  request: false
+build:
+  buffer: 151.173.111.136
+  ldap:
+    - nonce
+    - 4322
+    - false
+  upstream: 7687
+raid:
+  utils: 24.213.86.210
+rest: dns-graphql
+http: 63.171.246.13
+legacy: 56.242.45.172

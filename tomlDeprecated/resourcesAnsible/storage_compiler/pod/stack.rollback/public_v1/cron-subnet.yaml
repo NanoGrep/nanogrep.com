@@ -1,0 +1,19 @@
+ldap: 8174
+vault:
+  grafana: cookie-mysql
+  shard:
+    canary: 3931
+beta:
+  metrics:
+    - 9324eb42
+  hashmap:
+    pod:
+      - true
+    policy:
+      compiler: 5280
+      backup: 7ea151653fe0dbcf48d518351207d2a7
+      sandbox: null
+      salt: session
+      prometheus: true
+      elastic: 229.201.40.223
+watchdog: 44.13.37.192

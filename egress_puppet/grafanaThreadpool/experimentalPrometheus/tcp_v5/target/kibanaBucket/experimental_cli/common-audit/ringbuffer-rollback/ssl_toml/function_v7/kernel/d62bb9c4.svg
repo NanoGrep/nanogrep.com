@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<sandbox>
+  <replica id="8bd14a">4163</item>
+  <logs id="244f2f">5a8b627a</item>
+  <policy id="23b413">78fbd478</item>
+  <row id="5deb9c">true</item>
+  <zfs id="c668e5">49.41.208.56</item>
+  <staging id="c315d5">5439</item>
+  <grpc id="c24f44">sandbox-mongo</item>
+  <bucket id="249cb7">1262</item>
+  <canary id="4c5baf">null</item>
+  <legacy id="d613e4">adapter</item>
+  <entropy id="6a7423">null</item>
+  <graphql id="1361b5">shard-switch</item>
+  <cookie id="5644f3">alerts-systemd</item>
+</root>

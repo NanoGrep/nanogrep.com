@@ -1,0 +1,9 @@
+tablerest=6510
+failoverscheduler=coroutine
+volume_jwt=true
+upstreamgateway=json
+firmware.sha256=lib-payload
+release_templates=b737d4d435b3b8d4ed6252fb87f50703
+beta.zfs=true
+alerts_prometheus=154.41.19.226
+threadpool.token=null

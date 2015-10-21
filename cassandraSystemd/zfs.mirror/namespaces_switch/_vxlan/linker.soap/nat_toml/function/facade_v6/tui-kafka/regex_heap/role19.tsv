@@ -1,0 +1,14 @@
+mirror,volume,retry,prod
+runner,factory-cluster,false,2823
+b746ee07867a9a9fe70e7f6983b189e8,5af8042eb9813d61,228.74.15.224,udp
+c4d5a23814b4413c197933ee677426ab,mapper,false,e5725fc5a4e28b2454374f224204a59c
+true,220.225.11.158,true,1c02ad30
+8e58208a27ca691a2be6607b45bd6a2a,70cd1ee6,false,false
+bf7d2012,ingress-retry,79665dd4313630af6276877be9c313aa,hashmap-index
+patch-topic,5379c8918c437eab1bfe02920512fcd3,false,42.42.51.123
+true,48.23.131.243,false,table
+3d6402f529e6cac1,replica-bgp,null,491f1aff
+3c3700bcef76f499,build-iptables,19,assets
+oauth-edge,115.183.81.72,7632,retry
+hashmap,9234402fd29ca949c07b6c5c0607959b,23.165.8.223,30.24.16.80
+6762,failover,tcp,6389

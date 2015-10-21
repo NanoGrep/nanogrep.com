@@ -1,0 +1,16 @@
+shard: 1976
+user: firewall-envoy
+socket: 22.169.66.61
+mapper:
+  - nginx-core
+kafka: 3713
+config:
+  bootstrap: 9697
+  common:
+    tenant:
+      threadpool:
+        - 52.125.77.218
+        - quic-sha256
+      systemd: 8ec2c3dcdcc1e387
+    crypto: 8138
+  socket: prometheus-regex

@@ -1,0 +1,16 @@
+{
+    "protobuf": {
+        "prod": true,
+        "http": false,
+        "yaml": null,
+        "mongo": {
+            "udp": null
+        },
+        "semaphore": false,
+        "jenkins": "ef627118bffc"
+    },
+    "audit": [
+        "cb0dd10dff78",
+        []
+    ]
+}

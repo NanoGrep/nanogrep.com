@@ -1,0 +1,34 @@
+sha256: prod-tls
+lexer:
+  config:
+    service:
+      migrations: false
+      entropy: batch
+      daemon: false
+      mapper: udp
+      middleware:
+        - 21b4d9598f04c5098780c6d8be945f4a
+        - false
+        - 03bb7a738f361a5f4042f462cc2390e9
+    coroutine: 49e7c7c0
+    cursor: 194.247.118.107
+    nat: staging-cert
+    kafka: 63.117.33.25
+  http: 4320
+  templates: cf0bae0c70d78b01
+kernel:
+  grpc:
+    jwt:
+      hotfix: token-mqtt
+      nat: cors
+  nfs: 141.237.159.1
+  node:
+    failover: 102.142.40.214
+    topic:
+      - helm
+      - 3602
+    tools: 1064
+    core: bootstrap
+    canary:
+      - 3963
+  hmac: 22.204.242.63

@@ -1,0 +1,23 @@
+[payload]
+ansibletemplates = e571d1fc58b442d72738de16428938bf
+ingress.audit = quic-vxlan
+nightly_storage = replica-yaml
+probe_firewall = 14ffde3396eddc2a71ce5ce0f3d0b0f3
+storage_sdk = false
+pipelinelocale = migrations
+cursor.helm = 4704
+kafkarollback = lambda
+staging_mysql = null
+batch_cron = config-btree
+metrics.upstream = null
+response.dist = 4287
+raidkafka = 67a6ff829a109dc8
+kafka_mqtt = 3711
+graphql.upstream = 173.42.101.38
+prometheus.vlan = fc5c192a782987f3
+env.group = 33.22.137.48
+stream.mutex = failover-jwt
+column_snapshot = grafana
+terraform.logs = false
+mirrorfirewall = 57.21.112.213
+topic.vendor = hashmap-vendor

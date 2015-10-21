@@ -1,0 +1,15 @@
+{
+  "build": true,
+  "origin": {
+    "utils": "3f1ce96197e8",
+    "cors": 8476,
+    "compiler": {
+      "dhcp": 7036,
+      "config": [
+        true,
+        false,
+        true
+      ]
+    }
+  }
+}

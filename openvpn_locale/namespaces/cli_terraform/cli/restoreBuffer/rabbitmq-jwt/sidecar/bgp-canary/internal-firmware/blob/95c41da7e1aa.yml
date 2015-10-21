@@ -1,0 +1,37 @@
+helpers:
+  beta: jenkins-response
+  cookie: index
+  bench:
+    gateway: d580ac0e11c8b310
+    vxlan:
+      volume: 165.181.240.182
+      iptables: 105.140.135.190
+      websocket: 2541
+    column: 209.115.9.77
+cgroups:
+  - false
+  - scripts-cluster
+  - a2b02aab4fe371cf
+  - hotfix-trie
+artifact:
+  cron:
+    group: 7329
+    table: common
+    alerts:
+      redis: 71c75b45
+      templates: udp
+  common: batch-cli
+  kernel:
+    rest: 195.81.39.244
+    dist: nightly-scope
+    bench: true
+  regex: 66.200.250.214
+elastic: sdk
+hmac:
+  fuzz: 7826
+  quic: 8709f1331bc147b7
+  pipeline:
+    cache: null
+    driver:
+      - policy
+    schema: upstream-tenant

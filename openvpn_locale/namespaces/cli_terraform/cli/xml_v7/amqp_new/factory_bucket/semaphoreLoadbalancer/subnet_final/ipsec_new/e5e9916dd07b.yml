@@ -1,0 +1,6 @@
+config:
+  - 119.242.183.8
+mqtt: null
+object:
+  - d5d6bd6e4c98e2d5
+logs: true

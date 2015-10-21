@@ -1,0 +1,65 @@
+rest: 44.87.47.82
+group:
+  lib:
+    schema: 7826f291
+    common: 6328
+    legacy: 12.146.235.165
+    ldap:
+      volume: 52.49.48.95
+      threadpool: 201.156.106.189
+      ldap: 46ece133b4ecc5b6efd6f807f3171f23
+      yaml: bc84895c31652ee8014bb4483a68dbc1
+      index: 09205fcf56ec5f04
+    patch:
+      origin:
+        - ldap
+        - 8615
+        - 1782
+        - false
+      zfs: 1152
+      subnet:
+        - 6682
+        - 25.146.240.202
+    offset:
+      grpc: tools-bucket
+      tools: false
+      mirror: legacy-policy
+  oauth:
+    udp: 143.198.179.76
+    row:
+      oauth:
+        - 3071
+  mysql:
+    upstream:
+      cgroups: 42.64.164.158
+      bloom:
+        - true
+        - 3b1d3747
+      firewall: 592be111cc13c774d783679568173c48
+      sha256: helpers
+      raid: mocks-patch
+    migrations:
+      - 7826
+      - 98.176.104.12
+      - bgp
+    release:
+      ceph: 179.79.252.216
+      loader: 92b4704471ef637e5d35ae09c35cdddf
+    tests: true
+    nat: subnet-cli
+    nat:
+      - true
+      - 4941c47db4b98b3c5a1b2680b3fe2a61
+      - storage-aes
+      - 930
+  buffer:
+    - 35.140.61.177
+    - 1570
+prod: wireguard
+salt: fadb06dcfc870e89aeb7ea03bcd2e639
+registry: nginx-regex
+grafana:
+  - nat-ceph
+  - false
+  - dhcp-mesh
+  - 36.128.140.141

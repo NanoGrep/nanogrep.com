@@ -1,0 +1,10 @@
+middleware,json,config,vlan,upstream
+user,091190264ed9cd53,vxlan-utils,socket,78.238.245.71
+false,true,protobuf-factory,null,7159
+59.11.242.24,registry-nightly,95.75.38.238,180.171.66.110,true
+7034,4832,null,null,77.230.150.197
+wireguard-cookie,33d09bc965923a5a6f20fce00f036cab,235.137.242.183,7fffd999c2eb28e52598fc7117137990,d8bbb6c9c25e1932
+false,false,4204204ba683ca74,ae0f60e4c679bcae,oauth-adapter
+semaphore,6756,false,3613,switch-helm
+kafka-snapshot,86a0e27e2c20db27,null,true,assets
+7.187.83.50,4ba7070b,168.19.223.96,column-kafka,91

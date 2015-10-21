@@ -1,0 +1,6 @@
+scripts: null
+grafana:
+  - 9652
+  - 6363
+frontend:
+  metrics: heap-coroutine

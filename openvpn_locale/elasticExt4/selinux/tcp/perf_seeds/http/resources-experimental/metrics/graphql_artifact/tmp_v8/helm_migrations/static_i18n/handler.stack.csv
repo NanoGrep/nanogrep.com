@@ -1,0 +1,7 @@
+tools,templates,vendor,metrics
+true,utils-vault,beta,daemon-iptables
+104.197.45.142,wireguard-dist,6875,122.198.57.216
+4589,104.216.49.50,b25e8cc5cd324bd6,3360
+tls,response,subnet-prod,119.82.184.40
+systemd-tenant,109.152.62.218,789814f6c9d7dfed302ce223e4fd87f6,235.34.176.173
+4104,mapper-mutex,1428,6142

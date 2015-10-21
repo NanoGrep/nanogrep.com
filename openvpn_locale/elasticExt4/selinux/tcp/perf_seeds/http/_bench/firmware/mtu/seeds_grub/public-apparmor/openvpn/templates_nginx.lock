@@ -1,0 +1,44 @@
+{
+  "edge": [
+    [
+      null,
+      [
+        false,
+        "c30cf5918e01",
+        null
+      ],
+      [
+        false,
+        "db94d3ecf136"
+      ],
+      {
+        "frontend": false,
+        "trie": "736bb3e30077",
+        "registry": "b3611f23f9a5",
+        "hashmap": false,
+        "tenant": "65130ff0792e"
+      }
+    ],
+    false
+  ],
+  "upstream": 1207,
+  "dist": "nat",
+  "alerts": null,
+  "locale": {
+    "json": [],
+    "grafana": 8118,
+    "failover": false,
+    "cert": [
+      {
+        "controller": "role"
+      },
+      {
+        "cluster": "07647f5dd174",
+        "node": true,
+        "api": false,
+        "tools": 8223
+      },
+      7181
+    ]
+  }
+}

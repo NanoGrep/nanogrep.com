@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cron>
+  <sandbox id="49f26f">false</item>
+  <compiler id="a057d5">d8fffc9b</item>
+  <hashmap id="29c020">cron-node</item>
+  <heap id="7e58a6">dd373fd5</item>
+  <subnet id="ab7a59">5125f9f518f1e015</item>
+  <bench id="21b7aa">mapper-mocks</item>
+  <service id="c2a7cd">4177a0f0</item>
+  <dist id="2c1c6e">5115</item>
+  <systemd id="2e975c">policy</item>
+  <cookie id="d706b6">fe5d24d2</item>
+  <api id="5f58a3">2304</item>
+  <lib id="b4a9af">regex-socket</item>
+  <helm id="049772">vxlan-grafana</item>
+  <lib id="4400c8">true</item>
+  <factory id="0fa04f">5150</item>
+  <utils id="d60541">env</item>
+  <compiler id="031a5a">http-grpc</item>
+  <audit id="3339dd">6825</item>
+  <nat id="c2f678">api</item>
+  <daemon id="f991c6">null</item>
+  <oauth id="74f0ab">247.98.134.171</item>
+  <ingress id="08f0a6">null</item>
+</root>

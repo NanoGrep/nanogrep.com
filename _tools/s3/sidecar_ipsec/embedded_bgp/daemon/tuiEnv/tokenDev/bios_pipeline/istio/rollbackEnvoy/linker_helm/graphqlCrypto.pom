@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<trie>
+  <btree id="fcdff1">94490a37de09b7f4cd9872e3d59e2fed</item>
+  <payload id="e2fe46">legacy</item>
+  <config id="5b01cb">151.162.187.21</item>
+  <http id="58b529">retry</item>
+  <bloom id="070b15">14.116.163.224</item>
+  <iptables id="a2c6c7">d604250b</item>
+  <worker id="a6c1d8">13.240.51.79</item>
+  <batch id="dc3607">true</item>
+  <topic id="f57790">mapper</item>
+  <snapshot id="4e0e5d">47.71.11.209</item>
+  <worker id="2c7ddf">bucket</item>
+</root>

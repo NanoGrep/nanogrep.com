@@ -1,0 +1,55 @@
+{
+    "role": true,
+    "group": false,
+    "request": [
+        null
+    ],
+    "vault": null,
+    "sdk": {
+        "locale": {
+            "adapter": null,
+            "iptables": {
+                "dhcp": null,
+                "legacy": "9a989db9d536",
+                "retry": "router",
+                "nonce": null
+            },
+            "postgres": {
+                "backend": true,
+                "row": true,
+                "lambda": true
+            },
+            "snapshot": "tcp",
+            "lib": {
+                "regex": false,
+                "beta": 3099,
+                "postgres": "26b0679298ed",
+                "cron": true,
+                "rollback": null
+            },
+            "loader": true
+        },
+        "helpers": {
+            "firmware": {
+                "bench": 7841,
+                "group": true,
+                "daemon": true,
+                "salt": true
+            },
+            "offset": "utils",
+            "factory": {
+                "frontend": true
+            }
+        },
+        "kernel": "d3acf664bf90",
+        "firewall": {
+            "topic": {
+                "mysql": true,
+                "retry": 322,
+                "tests": null
+            },
+            "stream": []
+        }
+    },
+    "metrics": "8f273ca14a70"
+}

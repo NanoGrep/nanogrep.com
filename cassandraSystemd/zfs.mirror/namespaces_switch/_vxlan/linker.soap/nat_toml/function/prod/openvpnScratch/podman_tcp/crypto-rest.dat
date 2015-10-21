@@ -1,0 +1,7 @@
+core,helm,env,vlan
+controller-dns,1dc09bd43d8912d29a933a7e1ee40e9b,salt,5841
+670bef58db17d3ed,111.247.92.249,null,factory-scripts
+envoy-shard,kerberos-hashmap,rest,false
+dns-tools,adapter-snapshot,727452c8,protobuf-graphql
+8735,35.192.40.246,graphql,stream
+5c57c21e617bc5a4ca6933f7b4b00f36,1605,buffer,false

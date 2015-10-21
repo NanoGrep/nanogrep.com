@@ -1,0 +1,45 @@
+envoy: 163.46.23.233
+upstream: runner
+tools: 231.132.38.242
+compiler:
+  hashmap:
+    mocks:
+      dhcp: 6927
+      daemon: 37a036c81b0592cb526e2d8382f876d8
+      canary:
+        - 0a90a352da8db78f
+        - a0e841f2
+        - false
+      fuzz: iptables
+      api:
+        - 8e101ed9
+    ceph:
+      - upstream-offset
+      - failover-threadpool
+    bench: hotfix
+    mongo: nat-hashmap
+  dhcp: ingress
+  buffer:
+    bucket:
+      subnet: 36.74.111.182
+      proxy:
+        - 7373
+      legacy:
+        - dda786c0
+        - rest
+        - 7577
+        - registry
+    cursor: node
+  json: table
+  locale:
+    protobuf: 154.201.47.158
+    firmware: 9665
+  buffer: tcp-patch
+elastic:
+  cron: 192.164.20.140
+  helpers: f4b289ad81483b86
+  mysql:
+    config: dbf7a8fa
+  cgroups: bootstrap
+  regex: false
+  retry: mirror

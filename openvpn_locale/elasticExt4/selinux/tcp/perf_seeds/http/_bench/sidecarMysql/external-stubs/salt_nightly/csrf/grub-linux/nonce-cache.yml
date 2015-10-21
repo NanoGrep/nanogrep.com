@@ -1,0 +1,8 @@
+topic:
+  retry: 52.21.178.9
+  compiler: factory
+core: 4216
+firewall:
+  - true
+  - 30.195.52.100
+batch: 2e8182c1

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<cron>
+  <service id="3f1241">false</item>
+  <vault id="1960c9">tools-ansible</item>
+  <subnet id="f7f86c">933</item>
+  <sha256 id="1c5e69">5bcd96d133146c342ea6ebb0235cf7d7</item>
+  <scope id="fb080b">333d97241dd48ee6</item>
+  <gateway id="d8d9ef">object-mocks</item>
+  <quic id="b41315">8c897781</item>
+  <cookie id="af579c">bootstrap</item>
+  <sandbox id="f3800e">volume-sandbox</item>
+</root>

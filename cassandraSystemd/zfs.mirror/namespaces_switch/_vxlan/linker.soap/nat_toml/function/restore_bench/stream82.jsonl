@@ -1,0 +1,13 @@
+{
+    "lib": false,
+    "mutex": "ccd4d140af41",
+    "subnet": true,
+    "api": {
+        "mutex": {
+            "cors": [
+                true
+            ]
+        },
+        "mqtt": null
+    }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<replica>
+  <logs id="157409">true</item>
+  <scope id="bfde58">storage</item>
+  <registry id="09d174">163843ee2317523b</item>
+  <iptables id="4cfdc5">bf5ea0f833e1cb7a80d438350c9d363b</item>
+  <pod id="7268d7">0c21c725</item>
+  <payload id="cb67e8">dfd21d5b</item>
+  <firewall id="5dd376">watchdog</item>
+  <jenkins id="d34e58">7938</item>
+  <prometheus id="424abb">3742</item>
+  <legacy id="bbb17a">ingress</item>
+  <elastic id="c5330c">65.53.211.140</item>
+  <trie id="8d3969">staging-mqtt</item>
+  <shard id="a8c72c">6029</item>
+  <sdk id="8d91c5">ceph</item>
+  <bootstrap id="689cbd">elastic-loader</item>
+  <origin id="dde116">salt-cert</item>
+  <artifact id="03d1e8">403</item>
+</root>

@@ -1,0 +1,8 @@
+audit,volume,protobuf,elastic,terraform
+7510,nat,null,vxlan,ingress-parser
+storage,7808,8042,user,bfbb18c8474b771e
+false,4431,origin,312274b4,true
+6993,bgp,proxy-lib,zfs,169.141.108.160
+f793f10ada3f7eb1dd60af3e10adbb8e,118.235.16.16,prod,null,true
+role,true,168.173.106.137,oauth-traces,frontend-env
+cert,bgp,23f40a30032a8fed810d65c9b0ed6366,204.59.117.191,254.61.12.144

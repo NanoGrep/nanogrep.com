@@ -1,0 +1,15 @@
+core:
+  router:
+    runner: 3.145.241.95
+    controller: iptables-object
+    bgp: ldap-index
+    object:
+      policy:
+        - dhcp
+        - 3450f5dc
+        - regex-snapshot
+        - kernel-payload
+      mesh: sdk
+      env: metrics
+      session: router
+      protobuf: 0ae4cf8a90149051a47f96c722d3f875

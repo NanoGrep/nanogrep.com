@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<envoy>
+  <lib id="1a3b6f">78.141.145.136</item>
+  <edge id="c5991b">782e98dd</item>
+  <cluster id="1ff891">29.1.189.143</item>
+  <raid id="ee9622">51.122.168.7</item>
+  <compiler id="c9a4ea">2173</item>
+  <core id="15d42d">31.136.238.189</item>
+  <tests id="d8d6a8">table</item>
+  <cluster id="d1b0d3">105.182.54.154</item>
+  <bloom id="0a3ce0">82479b12</item>
+  <router id="8201fa">281</item>
+  <request id="71972e">worker-volume</item>
+  <patch id="dd741c">regex</item>
+  <tcp id="5bcfb3">null</item>
+</root>

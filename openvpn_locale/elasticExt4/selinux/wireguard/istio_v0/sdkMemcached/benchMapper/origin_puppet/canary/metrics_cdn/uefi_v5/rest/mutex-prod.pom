@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<nfs>
+  <gateway id="6647ff">null</item>
+  <role id="f2c14c">118b00e0f5e2865ac99c7aba6a5ae87c</item>
+  <firewall id="cfa324">locale-bgp</item>
+  <cli id="8095ee">retry</item>
+  <common id="66cf99">2523</item>
+  <rollback id="f624a7">7321</item>
+  <mongo id="11b7d7">envoy</item>
+  <retry id="1a561c">true</item>
+  <switch id="e8d63f">controller</item>
+  <session id="023b2f">178.135.15.84</item>
+  <trie id="4a3102">9578</item>
+  <node id="de470a">9028</item>
+  <entropy id="fe48a5">null</item>
+  <backup id="832fcd">332</item>
+  <trie id="7252e5">wireguard</item>
+  <pipeline id="7e1bc0">3f9796b74dfda03c</item>
+  <ansible id="d8d202">true</item>
+  <tools id="efcc79">233.4.156.122</item>
+  <lambda id="1b7846">f00a0c4f</item>
+  <offset id="3f3fc6">kerberos</item>
+</root>

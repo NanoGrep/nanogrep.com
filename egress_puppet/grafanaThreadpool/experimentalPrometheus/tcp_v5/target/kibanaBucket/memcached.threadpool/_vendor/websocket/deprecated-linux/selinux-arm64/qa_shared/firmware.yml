@@ -1,0 +1,41 @@
+udp:
+  - cdbe8b1d526a1652
+bootstrap: daemon
+nfs:
+  websocket:
+    migrations:
+      zfs: fuzz
+      registry: cli
+      cluster: null
+      firewall: 9480
+      core: 2986
+    lib: 1990
+    cert:
+      - 120.13.181.159
+      - 4897
+      - null
+    cli: 2137
+    cookie: false
+  regex:
+    probe: 86.162.229.151
+    zfs: cursor
+    regex:
+      - salt-terraform
+      - loader-mesh
+      - udp
+      - firewall-ansible
+    legacy: 3b0d5472
+  object:
+    service: 561
+    crypto:
+      alerts: response-proxy
+      zfs: 6283
+    sdk: cache
+    aes: 237.41.126.209
+  api:
+    probe: 67.237.251.106
+    gateway: c0781e11c93eb6130300ab382333191a
+  staging: systemd
+core: kernel-stack
+audit: 219.50.174.220
+logs: 9983

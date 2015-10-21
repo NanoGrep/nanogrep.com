@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<hashmap>
+  <stack id="c031c5">envoy-shard</item>
+  <role id="1aaaaa">172.14.48.187</item>
+  <iptables id="1bef12">183.119.7.31</item>
+  <router id="7f41db">regex-migrations</item>
+  <templates id="be3809">16.139.118.111</item>
+  <redis id="b1ca53">nat-batch</item>
+  <dist id="3c1ce7">7892</item>
+  <group id="6da157">metrics-tcp</item>
+  <mysql id="7be590">lexer-storage</item>
+  <proxy id="9d98b9">sandbox-socket</item>
+  <release id="e6fafe">703</item>
+  <core id="30ab1b">9296</item>
+  <elastic id="4f0dcd">3228</item>
+  <vendor id="c2fe6c">98.64.205.145</item>
+  <registry id="79ffcc">183.92.162.34</item>
+</root>

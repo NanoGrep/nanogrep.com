@@ -1,0 +1,15 @@
+canary: 007d76ccf995bfcd
+protobuf:
+  aes: f3e0d6f453579ac2
+  canary:
+    - kerberos
+    - ceph
+    - 97.80.43.112
+    - 75.106.10.110
+cursor:
+  gateway: stream
+mongo:
+  - queue-lib
+  - 94
+  - 6042
+  - middleware-mongo

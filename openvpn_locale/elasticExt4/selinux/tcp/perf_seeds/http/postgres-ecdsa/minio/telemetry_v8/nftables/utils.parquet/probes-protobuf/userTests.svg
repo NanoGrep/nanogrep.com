@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<mqtt>
+  <firewall id="645381">entropy</item>
+  <edge id="b0c2af">pipeline</item>
+  <env id="f4f25b">null</item>
+  <offset id="576c5c">9140</item>
+  <kerberos id="274ae9">e3a32cb84e079c03fd4ed364d67ca111</item>
+  <socket id="43592c">4634</item>
+  <dhcp id="d12efe">dhcp-rest</item>
+  <batch id="e9ab44">450629c4</item>
+  <scheduler id="07a97d">true</item>
+  <mapper id="abc947">true</item>
+  <token id="db0e52">false</item>
+  <ceph id="c7495b">530e6aac</item>
+  <vlan id="cb211c">221.92.190.98</item>
+  <locale id="d0b343">bgp-vault</item>
+  <scope id="7e1ae1">bgp-response</item>
+  <vxlan id="b3a59a">1778</item>
+  <node id="afb9af">171.160.11.60</item>
+  <bucket id="75e7f5">2775</item>
+  <ldap id="c1c11d">169.172.136.92</item>
+</root>

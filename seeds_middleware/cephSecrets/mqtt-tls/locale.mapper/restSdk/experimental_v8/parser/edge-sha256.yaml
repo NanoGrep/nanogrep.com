@@ -1,0 +1,99 @@
+heap:
+  socket:
+    user: 4511
+    bucket: 4899
+    legacy:
+      cgroups: false
+      topic: true
+      adapter: core
+    hmac: 132.154.128.137
+    bootstrap: 19.127.215.35
+  cgroups:
+    ldap:
+      - 230.29.30.35
+      - 2683
+      - 8091
+    runner:
+      utils: a0130c1c568f759f54c1e62ed15b4d04
+      offset: dacde8ecd10a3b7663605c7822913fed
+      cache: 7622
+      cluster: null
+      vlan:
+        - kernel
+      migrations: 3e3e92c7dd51ebf9cc5065e02f8146b0
+    bucket:
+      subnet: sandbox
+      sdk: 6546
+      lib:
+        - false
+        - probe
+      user: null
+  canary: 219.29.89.22
+  common:
+    - 6a4cd5a3
+    - probe
+  volume: config
+  salt:
+    raid: grafana
+    snapshot: 107.61.196.57
+    jwt: 54ff6fd8de7f25aa594833aadddb784a
+    lexer:
+      terraform:
+        - 52327f972772c5a7
+        - batch-worker
+        - 6261
+        - 2308
+      cache:
+        - 139.91.117.142
+        - hotfix
+        - common-dns
+        - 3.76.2.234
+      websocket: null
+    mongo:
+      - 7900
+    compiler: 46.13.16.222
+object:
+  pipeline:
+    jenkins: zfs-wireguard
+    offset:
+      beta: 248.157.143.176
+      backup: 3967
+      row: parser
+      kernel: ldap-worker
+      limit: utils-policy
+    row:
+      rollback: 50.31.122.123
+    kernel: patch-raid
+    aes: 83297751ce66293531d0bb7ab697a795
+group: 18.107.184.163
+elastic:
+  cors: 7594e2ddd23d8704c342086477b84a89
+  nightly:
+    runner: node
+    logs: 5698
+tls:
+  rest: 5680
+  watchdog:
+    dist:
+      - 17.0.27.82
+    proxy: offset-worker
+    jenkins: 53.207.207.87
+    traces: 111.178.92.184
+    ldap: 166.51.152.161
+nonce:
+  index: false
+  snapshot:
+    http:
+      - pipeline-firewall
+      - kernel
+    tenant:
+      probe: regex
+      probe: false
+      json: 50fece49cd39c5d360ee0def9a767e1b
+  migrations: 257
+  worker: cfdeb50d
+  upstream:
+    request: 107.32.26.234
+    cache: switch
+    coroutine: 167a5945
+  wireguard: backup-role

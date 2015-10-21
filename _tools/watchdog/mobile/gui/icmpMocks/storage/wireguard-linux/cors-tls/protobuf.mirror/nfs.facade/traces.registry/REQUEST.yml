@@ -1,0 +1,8 @@
+adapter: config-firewall
+object: 8efac286
+backup: null
+schema: snapshot-scripts
+hashmap:
+  - ea6d2f72cc8e1a29
+  - beta-graphql
+  - 220.84.145.103

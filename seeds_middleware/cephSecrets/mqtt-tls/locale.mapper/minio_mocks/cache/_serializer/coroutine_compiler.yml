@@ -1,0 +1,12 @@
+coroutine: true
+dhcp:
+  ansible:
+    volume:
+      - semaphore-firmware
+      - legacy
+  proxy: jenkins
+  semaphore: grpc
+  json: tools
+  jenkins: false
+index:
+  - 6050

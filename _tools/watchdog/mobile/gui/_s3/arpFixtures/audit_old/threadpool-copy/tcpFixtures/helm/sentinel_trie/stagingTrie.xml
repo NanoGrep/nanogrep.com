@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<daemon>
+  <pipeline id="51cbb9">230.203.154.63</item>
+  <cgroups id="da11a7">null</item>
+  <session id="aacdce">udp</item>
+  <watchdog id="2d103d">watchdog-controller</item>
+  <stack id="ea5adb">true</item>
+  <factory id="1b5a51">233.216.186.50</item>
+  <helpers id="cffafd">f13d37cf721d9b7e6a1221b84ad7139b</item>
+  <controller id="e7829f">191.194.58.124</item>
+  <offset id="59c3cc">false</item>
+  <quic id="23e26a">backend</item>
+  <regex id="c931e5">null</item>
+  <ingress id="db8dc9">rsa-kafka</item>
+  <trie id="baea95">false</item>
+  <websocket id="cbd58e">null</item>
+  <core id="db959e">3753</item>
+  <replica id="bd5614">false</item>
+  <loader id="4e44f7">7865</item>
+  <http id="ccecda">true</item>
+  <templates id="aa5f5b">crypto</item>
+  <pod id="69ccc2">247.164.72.182</item>
+</root>

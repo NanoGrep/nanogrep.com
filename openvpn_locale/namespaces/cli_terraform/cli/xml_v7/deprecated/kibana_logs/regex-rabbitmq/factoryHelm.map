@@ -1,0 +1,1 @@
+[true, {"payload": {"retry": "traces"}, "json": {"bootstrap": ["0463d37b9a4a", "146b3763a8c8", true], "scripts": false, "kernel": "295611d99356", "limit": {"elastic": false, "rsa": "response", "cli": true, "session": false}, "nonce": {"worker": null}, "iptables": ["8f900a21aed1"]}, "dns": [false, {"loader": 6394, "cron": true, "handler": true, "systemd": false}]}, null]

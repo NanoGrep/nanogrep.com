@@ -1,0 +1,13 @@
+sha256: 229.241.68.147
+tenant:
+  json:
+    - 2952
+    - 65.22.229.190
+  heap:
+    kafka:
+      legacy: true
+      common: 4149
+      response: token-nat
+      udp: 1349
+      limit: 18.227.66.156
+scheduler: 534

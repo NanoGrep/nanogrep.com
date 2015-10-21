@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<threadpool>
+  <middleware id="3ec3b3">da87bbf313654cc7</item>
+  <volume id="8a02b0">9401f5908253af7f</item>
+  <cors id="cef730">cache</item>
+  <env id="867acb">25fe374f</item>
+  <scope id="bd2239">82.253.250.245</item>
+  <mesh id="6dbe89">object</item>
+  <worker id="5ac9d4">c46ab4611a7fdc72</item>
+  <btree id="74ef77">691c658ad40adabe302ffdf1acecec28</item>
+  <sandbox id="49ed66">7af149d0a5cd72b3</item>
+  <ceph id="911d9a">true</item>
+  <websocket id="8c90fc">false</item>
+  <nightly id="78fb0e">860</item>
+  <request id="b391ce">null</item>
+  <storage id="898c3e">cert-grafana</item>
+  <volume id="9bdd28">bgp-buffer</item>
+  <storage id="adc4a8">7144</item>
+  <coroutine id="f1394e">ldap-controller</item>
+  <bench id="250c1a">39.220.34.104</item>
+  <tls id="22ce72">06f201b374d8247f</item>
+  <btree id="58e57f">179.119.143.95</item>
+  <group id="9897d1">firewall</item>
+  <utils id="bc5dc7">nonce-http</item>
+  <object id="fbd8ce">true</item>
+</root>

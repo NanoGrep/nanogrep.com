@@ -1,0 +1,13 @@
+{
+  "adapter": [
+    false,
+    true,
+    {
+      "aes": true,
+      "http": [
+        8175
+      ]
+    }
+  ],
+  "cookie": true
+}

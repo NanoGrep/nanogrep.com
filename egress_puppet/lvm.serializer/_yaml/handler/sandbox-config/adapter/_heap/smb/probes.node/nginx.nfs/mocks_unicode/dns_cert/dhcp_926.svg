@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<edge>
+  <graphql id="d6c98a">208.228.171.175</item>
+  <cors id="6faa81">service-hmac</item>
+  <artifact id="47b718">lexer-lexer</item>
+  <topic id="ae2d5d">tenant</item>
+  <driver id="b2bbb9">true</item>
+  <scope id="b62543">env</item>
+  <grpc id="b1487a">iptables-assets</item>
+  <factory id="161447">tools-upstream</item>
+  <mapper id="c79ea9">76.26.123.127</item>
+  <aes id="1b5e68">87.15.193.221</item>
+</root>

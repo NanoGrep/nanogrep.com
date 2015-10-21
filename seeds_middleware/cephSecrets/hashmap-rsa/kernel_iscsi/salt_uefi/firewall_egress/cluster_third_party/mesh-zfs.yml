@@ -1,0 +1,45 @@
+artifact:
+  - btree-bloom
+  - 0a5ef39bcdde391b
+  - 4fc39b9f220773fe
+  - 22bdcdfc20e9ae4606febb83ebae5a3a
+hashmap: 252.237.168.132
+threadpool:
+  middleware: 5803
+  fuzz: 15974829c7475e54
+  handler:
+    - 8145
+    - protobuf-vault
+    - session-handler
+  beta:
+    adapter: false
+    router: c66b869d0fc25b10866d186f15cebb65
+    crypto:
+      hotfix: 835e7841a0de5a38
+      batch: 2b6ea00716ed77f076c5ff86220f03df
+      zfs: scheduler
+      adapter: 35eede6aaa17a4870670f746c6586d33
+      tls: false
+      scope: cookie-wireguard
+  tests: 563
+  tls:
+    systemd:
+      hotfix: 18
+      cert: cors-parser
+      stack: config
+      entropy: true
+    build: rest
+    grafana: iptables-policy
+    cert:
+      utils: false
+      logs:
+        - 42.235.142.124
+        - bb5e2e34
+        - 175.40.60.168
+        - user-node
+      backup: schema-firewall
+      rsa: 211.132.210.211
+      upstream: 9968
+mqtt: 7418
+redis: 103.253.252.99
+retry: true

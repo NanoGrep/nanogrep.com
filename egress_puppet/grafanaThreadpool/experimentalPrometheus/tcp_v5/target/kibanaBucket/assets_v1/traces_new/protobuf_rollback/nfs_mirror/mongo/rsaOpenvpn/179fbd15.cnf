@@ -1,0 +1,22 @@
+[factory]
+coroutine.mqtt = cc114acae39800e3
+bloom_token = 1735
+udp.audit = 3642
+aesgateway = 4652
+zfs_nfs = 116.179.243.204
+oauthwireguard = 254.138.230.243
+quic_elastic = 52dbcb97
+graphql_mqtt = cron-locale
+bufferquic = 131.59.24.207
+protobuf.token = 3231
+queueservice = 162.217.139.140
+auditproxy = 195.141.45.59
+cgroups.ldap = 6928
+bench.schema = 168.2.110.133
+bucket.tls = 1001
+volumeredis = limit-mapper
+postgres_subnet = false
+sandboxcache = 7183
+rsathreadpool = 9313
+cgroups.wireguard = 5762
+originsystemd = 25.172.152.75

@@ -1,0 +1,10 @@
+factory,backup,mongo,volume
+true,2867a076315d21e9,2b2e05cc,8378
+3436,6499,null,fixtures
+true,false,shard,true
+object,115.218.10.172,gateway-backup,4084
+helm-sandbox,entropy,154.73.206.89,service-handler
+bucket-vlan,4742a0627c2663f7afded35eb62d98b9,5161,51.66.21.19
+99a2521910ab00bed104c868a0ca62bc,true,true,215.89.204.84
+api-semaphore,529,5625,coroutine-response
+9b56d074272d331182d6d1a6ca0747b5,mesh-aes,false,dns-response

@@ -1,0 +1,1 @@
+{"storage": false, "oauth": {"regex": [false, false], "salt": 7626, "metrics": [{"threadpool": "c72ff48113e2", "vault": null, "kafka": null}, {"compiler": null, "sha256": 8429, "sandbox": false}, ["beta", false, "bench"]], "parser": ["748d374bce16", [], [false]], "legacy": "99186b683b28"}, "switch": [[], "4051cce228ab", "1a203a7cfa63", [true]]}

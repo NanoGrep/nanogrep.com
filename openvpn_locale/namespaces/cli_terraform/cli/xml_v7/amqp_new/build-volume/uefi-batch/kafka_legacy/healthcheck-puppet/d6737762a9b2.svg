@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<legacy>
+  <buffer id="5ca7a9">dc52a8fc</item>
+  <tenant id="bfb9c0">103.78.140.187</item>
+  <yaml id="c8f452">false</item>
+  <cors id="cc4da5">adapter</item>
+  <scope id="c2d67c">4c0265aa8356a54e</item>
+  <parser id="d6f67a">95.246.151.148</item>
+  <build id="20e5dd">null</item>
+  <tenant id="11e234">1091</item>
+  <mqtt id="26bb3c">1802</item>
+  <protobuf id="c6cf4c">dns</item>
+</root>

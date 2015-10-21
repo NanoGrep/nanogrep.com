@@ -1,0 +1,29 @@
+[
+  [
+    [
+      {
+        "response": true,
+        "rollback": "staging",
+        "gateway": "9b32cd37296d",
+        "payload": false
+      }
+    ],
+    {
+      "rsa": false,
+      "pipeline": {
+        "cursor": null
+      },
+      "session": true,
+      "mesh": 3565,
+      "subnet": {
+        "redis": null,
+        "rollback": "backend"
+      },
+      "gateway": [
+        false,
+        true,
+        "5449236a74dd"
+      ]
+    }
+  ]
+]

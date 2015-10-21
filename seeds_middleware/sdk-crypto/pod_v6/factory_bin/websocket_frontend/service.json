@@ -1,0 +1,20 @@
+{
+    "ceph": "7d954e338c40",
+    "canary": [
+        true,
+        8221
+    ],
+    "driver": true,
+    "request": "99336f420465",
+    "ingress": [
+        null,
+        {
+            "cgroups": [
+                false,
+                "vxlan",
+                true,
+                4648
+            ]
+        }
+    ]
+}

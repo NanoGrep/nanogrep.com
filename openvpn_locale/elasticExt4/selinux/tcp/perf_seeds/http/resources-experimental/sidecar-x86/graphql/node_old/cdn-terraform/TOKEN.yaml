@@ -1,0 +1,13 @@
+heap:
+  mesh: 15a08617
+cursor:
+  iptables:
+    - 235.249.178.103
+    - lexer
+  hmac:
+    - true
+  tcp:
+    - 7111
+    - stream-worker
+    - env
+mqtt: 419f6e93c7581b11

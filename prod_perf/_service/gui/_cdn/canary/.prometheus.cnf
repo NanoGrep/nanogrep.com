@@ -1,0 +1,47 @@
+[upstream]
+parserudp = 6573
+logscert = mocks
+redisrow = 4370d79e
+elastic.fixtures = 5628
+ldap_snapshot = true
+fuzziptables = 9397
+replica.index = 22.76.119.64
+prod_cluster = 758
+
+[mesh]
+build.response = crypto-udp
+mqtt_token = request
+
+[probe]
+retry.scope = handler-threadpool
+kernel.config = cron
+jwtcron = 2f51b5c07ddab302
+dnscrypto = alerts-audit
+firewall.rollback = cluster
+wireguard.edge = heap-jenkins
+crypto_yaml = true
+volume_build = 9830
+tools.lexer = helpers
+
+[fuzz]
+socket_watchdog = cd611111ff8f298e28c0e3f6ca052c18
+staging_logs = 4372
+
+[mocks]
+cookie.btree = 163.99.1.102
+lib.loader = true
+prometheusmigrations = false
+redis_nginx = 3619
+service.yaml = 9297
+daemon.helm = null
+metricssubnet = eab9ffa68fc770ff16c2f9149d4ad941
+websocketlib = protobuf
+requesthandler = 100.90.20.84
+index.tls = true
+vxlan.backup = queue-upstream
+firmware.prometheus = true
+fuzz.factory = user
+apikafka = replica
+proxy.row = 66b97f745b6678f0
+cgroupspostgres = 3506
+group.role = 2672

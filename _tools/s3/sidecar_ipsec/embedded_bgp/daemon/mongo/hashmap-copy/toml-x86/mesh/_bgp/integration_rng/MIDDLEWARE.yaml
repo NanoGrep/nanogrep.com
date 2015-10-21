@@ -1,0 +1,48 @@
+frontend:
+  threadpool:
+    vxlan:
+      tenant: 142
+      mutex: 61bdacc3
+      udp: 3835
+      nat: 1fecce47893de6f12ff0dc7eb39414fc
+alerts:
+  - e2b6ae9074daf8e2
+offset:
+  rsa:
+    common:
+      bloom: 3427
+      templates: cache-policy
+    sandbox:
+      middleware: nightly
+      ansible: 8fcf03a1
+      vault: e0b5f899
+      heap: aes-elastic
+    patch:
+      - bbcf6fb4ee82e89a5aa7b1a6253be867
+      - 5406
+      - 02c99efaa20039eca3f610a6ce1a5494
+    mirror:
+      graphql: fc8a62c9
+      firewall: heap-nonce
+      elastic: 977
+      switch: 23b8d5a0f3cc8191f2301064efde21e7
+      metrics: ingress
+      snapshot: envoy-bgp
+    entropy: 73a20a97a6bec5b8d3183154ead42b1e
+  payload:
+    regex: traces-compiler
+    aes: 3478
+    terraform:
+      object:
+        - bgp
+        - false
+      cookie: 167.243.141.70
+    handler:
+      - 108.36.117.6
+      - sandbox-trie
+    systemd: 1dcd7b7a379a5b5f
+gateway:
+  tls:
+    - 4936
+    - bb4d4409
+  heap: 6698

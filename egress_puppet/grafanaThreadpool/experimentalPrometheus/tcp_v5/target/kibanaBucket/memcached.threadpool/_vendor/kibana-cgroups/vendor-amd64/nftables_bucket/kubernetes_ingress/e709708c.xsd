@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<service>
+  <http id="1abc9e">7844</item>
+  <grpc id="2e1065">9f61467f</item>
+  <artifact id="4c0a83">6ce17bc29df77325</item>
+  <daemon id="7391f2">crypto</item>
+  <loader id="8abac0">postgres</item>
+  <cron id="b4cb61">205.61.158.107</item>
+  <mqtt id="1b8724">ac1e983aff3afd27876180bb89c469bf</item>
+  <threadpool id="58c94e">bloom-artifact</item>
+  <rollback id="5a9774">049817e8f066774d</item>
+  <mapper id="895e5e">7e60eb693079decd9c1d09d6c6920656</item>
+  <salt id="4d9477">64.76.46.180</item>
+  <driver id="46512b">17.111.226.115</item>
+  <nginx id="991814">sdk</item>
+  <retry id="e2c3b8">5684</item>
+  <volume id="f0ac66">common</item>
+</root>

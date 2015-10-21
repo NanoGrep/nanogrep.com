@@ -1,0 +1,56 @@
+{
+    "adapter": {
+        "assets": null,
+        "systemd": {
+            "migrations": {
+                "prod": false
+            },
+            "rest": false,
+            "common": [
+                false,
+                true
+            ]
+        },
+        "object": {
+            "kafka": {
+                "cookie": "5c49a7b34a3e",
+                "nfs": false,
+                "session": null,
+                "scheduler": true
+            },
+            "object": [
+                true
+            ]
+        },
+        "rsa": [],
+        "zfs": {
+            "loader": {
+                "buffer": "70b7cb468153",
+                "grafana": true
+            }
+        },
+        "mirror": {
+            "registry": {
+                "fixtures": 6002,
+                "firmware": "40a14d983e06",
+                "ansible": false,
+                "traces": null
+            },
+            "protobuf": [
+                "a32aa5141a9e",
+                "c5747daaf967",
+                "2220694e0fca"
+            ],
+            "alerts": [
+                "prod",
+                true,
+                true
+            ]
+        }
+    },
+    "patch": [
+        228,
+        "helm",
+        []
+    ]
+}

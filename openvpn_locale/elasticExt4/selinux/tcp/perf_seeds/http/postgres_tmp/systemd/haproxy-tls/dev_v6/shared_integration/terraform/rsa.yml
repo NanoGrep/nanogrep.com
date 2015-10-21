@@ -1,0 +1,30 @@
+build: bucket
+mutex: false
+table:
+  cluster: 7252
+  gateway:
+    ingress: 8edfcdfbc9d109486f8a397ab4ad0fcd
+    policy:
+      controller: tcp-locale
+      nonce: lexer-traces
+      firewall: cookie-utils
+      heap: 64a064fc
+    oauth:
+      rest: raid-mongo
+      shard: lambda-buffer
+      policy: 60519df3e08018f6
+    role: 2819
+    tls:
+      sha256:
+        - 3189
+        - 8464bbb3ea2b9359fe7eb2bf30a97248
+      prometheus: coroutine-metrics
+      pipeline:
+        - 141.14.95.112
+        - helpers-limit
+        - row-tools
+        - null
+      service: fixtures
+    crypto: terraform
+limit: nfs-staging
+socket: 7319

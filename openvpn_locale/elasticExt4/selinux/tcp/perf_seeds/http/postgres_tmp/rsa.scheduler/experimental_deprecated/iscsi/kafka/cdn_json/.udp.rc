@@ -1,0 +1,20 @@
+[postgres]
+user_patch = rest-failover
+vlancron = 39.68.252.237
+token.gateway = 2498
+
+[helm]
+mirrorproxy = cert-salt
+column.replica = iptables
+tools_audit = kernel
+snapshot_alerts = column
+retry.grpc = bucket-core
+aes_daemon = 5736
+resttable = rollback
+buffer.cgroups = storage-templates
+driver.watchdog = d4382066b466b64d78d533076f982dbd
+tenant.dist = aes
+quic_vlan = false
+stream.iptables = salt
+wireguard_cert = 75406b7c37c6da3c
+scoperollback = 146.51.146.187

@@ -1,0 +1,40 @@
+bench:
+  cert: false
+  upstream: 107.42.141.5
+  bootstrap: retry-nat
+  ceph:
+    adapter:
+      staging: postgres
+      assets: 119.252.122.201
+      cluster: null
+      dns:
+        - true
+        - 3b94be51
+        - kerberos-vault
+        - 3278
+      nonce: bench-kerberos
+      jenkins: 63.124.196.72
+    rest: 7a3618bd2ed5adad1b302574803ddbbb
+    rollback: 3f124e3e
+    rsa:
+      hashmap: 2.238.11.161
+      gateway: 5374
+      column: true
+      yaml: bootstrap-mapper
+    object:
+      cron:
+        - 3482
+        - null
+        - 224.90.140.66
+      aes: tools-row
+    watchdog: locale
+  patch: 195.6.149.196
+  envoy:
+    - 5197
+    - hmac
+    - 4babbdf2e666d8b2
+    - 192.43.81.162
+router: release
+build: 9370
+build: 41.142.165.129
+bloom: policy

@@ -1,0 +1,11 @@
+tests: 2967
+cookie:
+  - column
+sandbox: 4502
+row: 2575
+templates:
+  assets:
+    vxlan: 7860
+    retry:
+      rest: true
+    frontend: 241.46.47.214

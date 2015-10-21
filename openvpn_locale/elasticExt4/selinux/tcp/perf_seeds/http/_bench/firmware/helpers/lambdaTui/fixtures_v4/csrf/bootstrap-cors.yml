@@ -1,0 +1,12 @@
+vlan: 1156
+node: cgroups
+retry: index-trie
+batch:
+  - 228.251.35.6
+  - prometheus
+retry: 6143
+postgres:
+  cgroups:
+    - rsa
+    - policy
+    - nginx-core

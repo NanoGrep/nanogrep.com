@@ -1,0 +1,5 @@
+cors_registry=1b44f8e0
+proxy_buffer=3302
+handlerstack=entropy
+wireguard.quic=100.220.240.205
+rollbackbuild=false

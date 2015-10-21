@@ -1,0 +1,4 @@
+ldap: 4399d526db003d905ccfb1d7b570c94e
+dhcp:
+  ceph: c5bd393d89ccb847
+  nonce: nfs-udp

@@ -1,0 +1,76 @@
+shard: volume
+scheduler:
+  policy:
+    kafka: 105.221.126.54
+    systemd: 4058
+    jwt: vxlan
+    redis: 2861
+    topic:
+      stream: 86.230.52.115
+      graphql:
+        - 209bbe2c7628adb7
+        - 2182
+        - 5732
+        - 4603
+      sandbox: null
+      replica:
+        - false
+      parser: 113.83.135.112
+  middleware: 2160
+  canary:
+    - 01842902a2934a18
+    - true
+  iptables: 159.239.228.247
+  redis:
+    topic:
+      node: frontend-build
+      nonce: b0e8bda9b7cb3c93
+      firewall: null
+      parser: 8c536bd9e4acecbc
+    nfs: null
+    parser:
+      switch: prometheus
+      policy: entropy-config
+      origin: mesh
+      policy: oauth
+      limit: terraform
+      schema: 5049
+    storage: pipeline-cgroups
+    staging:
+      - 66.127.2.86
+      - 184.192.243.210
+      - 7037
+      - true
+    loader: websocket-ansible
+  postgres:
+    - socket-vxlan
+    - nfs-origin
+    - patch-vlan
+    - 8b74edae
+volume:
+  mongo: c04a2e42
+  handler:
+    - 0f65638424c56f8b
+  cgroups:
+    protobuf:
+      heap: json
+      dist: ingress
+      jwt: patch-build
+      firmware: false
+      nginx: 3279
+    controller:
+      build: 3976
+      cron: ab6f35ffc441b95a
+      artifact: mapper-utils
+    upstream: false
+  hashmap:
+    - 9427
+    - 154.23.225.16
+    - kernel
+  cache:
+    - 2a543cbec004c632
+    - prod
+nonce:
+  - edge-session
+  - false
+  - alerts-vlan

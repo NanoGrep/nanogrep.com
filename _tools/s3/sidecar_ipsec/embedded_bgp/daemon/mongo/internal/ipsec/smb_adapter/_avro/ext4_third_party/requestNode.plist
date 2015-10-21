@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<rest>
+  <failover id="13646a">4e511e18d79ffa3a</item>
+  <table id="a9d391">canary</item>
+  <parser id="0d2356">retry</item>
+  <index id="f892f4">b1694bd1ce11ed946724e4b2699f46cc</item>
+  <btree id="53e70e">201.169.106.210</item>
+  <sdk id="41c564">mysql</item>
+</root>

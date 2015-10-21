@@ -1,0 +1,57 @@
+mutex:
+  - false
+systemd: null
+alerts: 0582432b460cf0ab
+jwt: 415ea00a
+switch:
+  frontend: config
+  assets:
+    oauth:
+      raid: d3fb89cf087d7794d6cef8459154791c
+      sandbox:
+        - 963
+        - a9e6d136a0c8e7d1
+        - false
+        - false
+      payload: 1018
+  migrations: 9878
+  response:
+    pod: true
+    schema:
+      adapter: jenkins
+      shard: entropy
+      semaphore:
+        - c1246b0c
+    env:
+      - 116.29.218.16
+      - tests
+      - 3360
+  payload: false
+  retry:
+    - a212ea5a0e608e5a2d0be08d39b7592f
+    - 117.119.178.246
+    - 154.248.206.234
+response:
+  column:
+    prometheus:
+      regex: 547
+      object: 4290
+    grafana: 1f3605f4cbea2b25c09b7e9eda819d86
+    firewall:
+      vault:
+        - worker
+        - 04c4287794b91ce14fd015be54a52b43
+        - 8350
+      compiler: 4cbdfd864b0eda8a
+      helm: yaml-role
+      mocks: null
+    factory: null
+    response:
+      scripts: 201.3.136.169
+      factory: 4b6ecb3e4d78f076
+      protobuf: 92.233.9.108
+    traces: 8206
+  websocket: 1983
+  env: cache
+  traces: 8763
+  nfs: true

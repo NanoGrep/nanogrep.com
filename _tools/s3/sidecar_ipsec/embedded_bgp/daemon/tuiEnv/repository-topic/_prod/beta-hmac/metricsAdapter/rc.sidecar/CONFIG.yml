@@ -1,0 +1,14 @@
+ansible: driver
+cache:
+  iptables:
+    upstream: 6933
+    raid:
+      - assets
+      - runner
+      - 22d93b98376735ba
+      - 240.66.253.12
+adapter:
+  - 0f19808d24252457aca08a9edd36eba6
+  - bloom-offset
+  - 22.140.8.194
+  - 4271

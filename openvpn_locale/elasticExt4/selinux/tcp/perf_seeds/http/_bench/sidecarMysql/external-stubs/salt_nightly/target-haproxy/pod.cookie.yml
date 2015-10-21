@@ -1,0 +1,8 @@
+scheduler:
+  schema:
+    gateway: a533d075ded659b2
+group:
+  - 73b4dbf0
+group:
+  vlan: 0b3fa470d5e4d5a27aac95fe3e4009f0
+prometheus: 244.194.36.77

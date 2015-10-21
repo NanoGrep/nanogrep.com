@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cron>
+  <mysql id="ef5d5c">iptables</item>
+  <artifact id="740db6">null</item>
+  <retry id="e93068">2317</item>
+  <frontend id="03d91c">true</item>
+  <jenkins id="8e191f">35fe8421c733afe3</item>
+  <offset id="a569b7">config</item>
+  <mysql id="6aef35">f9da6afb</item>
+  <loader id="f6c6d8">bloom-loader</item>
+  <trie id="7fee43">132.248.72.87</item>
+  <utils id="8e2825">false</item>
+  <object id="5dc6cf">6316</item>
+  <mqtt id="161f5e">core</item>
+  <table id="b29f8d">110.48.166.186</item>
+  <middleware id="ab544a">tls-metrics</item>
+  <failover id="ae7a9d">6670</item>
+  <role id="977162">true</item>
+  <sandbox id="4c1a8a">19.187.132.5</item>
+  <daemon id="b483d0">aes-envoy</item>
+  <bench id="411808">release</item>
+  <udp id="0b0be7">e7ca3586</item>
+  <lib id="991597">null</item>
+  <volume id="1a068b">5681</item>
+</root>

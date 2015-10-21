@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<vxlan>
+  <raid id="974b94">a34c16a4eb87ff2d77a2b463cf4e332c</item>
+  <core id="782101">12.235.80.219</item>
+  <driver id="f2e0a4">1413</item>
+  <hotfix id="8b05c9">9415</item>
+  <switch id="61442d">50.82.29.213</item>
+  <lexer id="d45c45">2940efa1</item>
+  <raid id="033ad0">null</item>
+  <row id="9a5491">234.247.214.32</item>
+  <beta id="87428e">9997</item>
+</root>

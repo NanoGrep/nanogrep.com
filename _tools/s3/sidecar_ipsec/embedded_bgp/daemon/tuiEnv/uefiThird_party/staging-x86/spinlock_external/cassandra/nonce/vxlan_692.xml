@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+  <logs id="95329e">44.139.145.69</item>
+  <kernel id="7edac0">cgroups-policy</item>
+  <probe id="ffe7bf">803fad9d78de70e4</item>
+  <artifact id="950040">row</item>
+  <cgroups id="fb13b5">prod-stack</item>
+  <grafana id="d73c8c">frontend-oauth</item>
+  <group id="1f022c">ef6d0bd4</item>
+  <schema id="03b1d6">null</item>
+  <hmac id="3e0646">033844ad</item>
+  <queue id="74b186">ldap</item>
+  <ldap id="5ea1b5">null</item>
+  <replica id="cf7c50">scripts</item>
+  <protobuf id="014ee6">mapper</item>
+  <sha256 id="7a4cb2">6938</item>
+  <rest id="7c49ae">true</item>
+  <pipeline id="9f62ce">41.124.67.158</item>
+  <registry id="cd0176">true</item>
+  <buffer id="1e39af">64048f83cbcbed7d59d18a9ee65f4204</item>
+  <scripts id="6491be">8974</item>
+  <json id="92ab4e">3368</item>
+  <redis id="db97de">mutex</item>
+  <mongo id="1c82ca">bfd48457</item>
+  <fixtures id="66338b">runner</item>
+  <sandbox id="d535a0">8e58ac3cba9e3c76d627a475d78e0e0f</item>
+  <prometheus id="f17f0c">cron</item>
+</root>

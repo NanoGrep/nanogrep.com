@@ -1,0 +1,11 @@
+artifact,fixtures,release,mutex,failover,loader,frontend
+8323,request,43.117.43.27,6052,7276,6811,2ac045db
+087cf98d35613c31,true,nginx-scope,false,2533,mirror-helpers,true
+037c7968f0d14b81,2599,null,174.80.153.235,null,aaf395b9,210.20.97.130
+kafka-offset,firewall,true,shard,logs-factory,543b069b329038932404e7c0f2d1672f,625
+null,registry,7511,28cd692a,true,false,143.219.228.208
+a757465ee17abaf5759c839970421d68,7165,163.113.225.122,f98deabe,56.18.8.124,162.114.162.146,186.248.200.47
+column,103.200.44.95,edge-bootstrap,124,3010,raid,null
+6935,null,576c2c3d4f0fcc47,e9359c83,hmac,08a7d9f3b707507a0f835624d8196a6c,671f91ca16d2260f4e257e6c68dc03a2
+106.5.248.245,3867b877,worker,router,true,766,7646
+158.14.74.241,socket-row,90.177.167.66,dc0607ff86976b62,snapshot-bucket,399,2142

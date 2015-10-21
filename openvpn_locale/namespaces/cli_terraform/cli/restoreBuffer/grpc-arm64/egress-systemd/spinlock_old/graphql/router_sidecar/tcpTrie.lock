@@ -1,0 +1,89 @@
+{
+  "adapter": {
+    "upstream": true,
+    "redis": "kernel",
+    "sandbox": {
+      "cron": {
+        "tls": null,
+        "proxy": "2733f3b4ed22",
+        "helm": false,
+        "nightly": "73bd9f80b81b"
+      }
+    },
+    "tcp": {
+      "core": {
+        "cli": null,
+        "scope": "5e98ea6674b9",
+        "scheduler": false,
+        "mocks": null,
+        "cert": true,
+        "cgroups": false
+      },
+      "service": [
+        3219,
+        null,
+        true,
+        8061
+      ],
+      "regex": true
+    },
+    "release": {
+      "subnet": {
+        "vxlan": null,
+        "prometheus": true,
+        "cors": null
+      },
+      "origin": {
+        "tls": "5f3bb76169b5",
+        "heap": null,
+        "traces": false,
+        "firewall": 5236,
+        "websocket": "d3766fea9c97",
+        "aes": "11524fbe2181"
+      },
+      "common": {
+        "sdk": false,
+        "iptables": "audit",
+        "fuzz": "4d5fd091d8fe",
+        "cert": "9df6570b76c1",
+        "dns": "33a1b3780b2d"
+      }
+    },
+    "vlan": [
+      [
+        false,
+        false,
+        "c892babf22c0",
+        true
+      ]
+    ]
+  },
+  "response": {
+    "assets": false
+  },
+  "locale": [],
+  "backend": "semaphore",
+  "vendor": [],
+  "utils": [
+    "74b4763e1d44",
+    null,
+    {
+      "kafka": 9804,
+      "logs": {
+        "buffer": true,
+        "crypto": false,
+        "fixtures": 150,
+        "middleware": "jenkins",
+        "templates": false
+      },
+      "tls": "kernel",
+      "tools": {
+        "json": false,
+        "mongo": true,
+        "volume": true
+      },
+      "compiler": 1045,
+      "mapper": true
+    }
+  ]
+}

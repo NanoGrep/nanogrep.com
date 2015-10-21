@@ -1,0 +1,3 @@
+quic:
+  schema: vault
+  nat: buffer-ldap

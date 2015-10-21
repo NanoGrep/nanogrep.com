@@ -1,0 +1,7 @@
+env,core,postgres
+true,null,8111
+false,nfs-daemon,logs-switch
+salt-salt,3324,probe-compiler
+true,789,mirror
+token-threadpool,3b194cf6,2938
+canary-ingress,7987,gateway-jwt

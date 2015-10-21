@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<staging>
+  <limit id="dea08d">dns-lambda</item>
+  <beta id="2d9f87">nginx</item>
+  <staging id="7bee79">retry-service</item>
+  <response id="e56024">false</item>
+  <backup id="7c35bf">snapshot-registry</item>
+  <core id="c950b3">nonce</item>
+  <assets id="1a5451">stack-limit</item>
+</root>

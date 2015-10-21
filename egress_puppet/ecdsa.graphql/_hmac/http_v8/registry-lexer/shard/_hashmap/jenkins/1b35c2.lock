@@ -1,0 +1,21 @@
+[
+  {
+    "hotfix": {
+      "kernel": 1653
+    },
+    "adapter": {
+      "aes": {
+        "buffer": "cgroups",
+        "offset": 4129,
+        "sdk": 6633,
+        "mapper": null,
+        "failover": 4742
+      },
+      "hashmap": {
+        "driver": "frontend",
+        "prod": true
+      },
+      "oauth": []
+    }
+  }
+]

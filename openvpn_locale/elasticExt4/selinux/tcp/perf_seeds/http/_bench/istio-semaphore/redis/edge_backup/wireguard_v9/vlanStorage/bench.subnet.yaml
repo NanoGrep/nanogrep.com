@@ -1,0 +1,18 @@
+websocket:
+  - false
+  - kernel-frontend
+  - null
+tools: null
+cli:
+  origin: cron
+  snapshot: cd472c83
+  core:
+    - a57162b0d60fbe0d
+    - 4647
+    - 162.250.45.62
+  logs:
+    lexer: ebc50c43
+    watchdog: cluster
+  bench:
+    - null
+    - tools-cache

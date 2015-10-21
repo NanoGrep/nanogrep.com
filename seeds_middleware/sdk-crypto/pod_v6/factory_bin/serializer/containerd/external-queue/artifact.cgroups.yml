@@ -1,0 +1,11 @@
+failover: null
+grafana: 189.207.218.24
+salt:
+  - null
+  - cluster-cursor
+mirror: true
+cookie:
+  - mutex
+  - null
+  - helm-traces
+  - 772ad6c9ebed5e0d86c6a87195ead81a

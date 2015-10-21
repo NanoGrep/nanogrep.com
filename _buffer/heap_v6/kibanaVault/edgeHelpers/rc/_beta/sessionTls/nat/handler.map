@@ -1,0 +1,73 @@
+{
+    "fuzz": [
+        {
+            "driver": true,
+            "legacy": "d978f722f70e",
+            "failover": "nfs",
+            "response": false,
+            "edge": {
+                "grafana": true,
+                "limit": "528e68224ec8",
+                "traces": null,
+                "regex": 9698
+            },
+            "bgp": {
+                "column": true,
+                "build": true,
+                "backend": true
+            }
+        },
+        "74760d521276",
+        {
+            "coroutine": "mysql",
+            "salt": "nfs",
+            "btree": false,
+            "storage": [
+                false,
+                true,
+                true
+            ],
+            "config": 1970,
+            "release": {
+                "redis": true,
+                "release": "babc66ff24ff",
+                "regex": false,
+                "locale": "7828b39cbb94"
+            }
+        },
+        true
+    ],
+    "object": null,
+    "frontend": "cli",
+    "mirror": {
+        "policy": [
+            {
+                "snapshot": false
+            },
+            "b0e3f315023f"
+        ],
+        "iptables": [
+            {
+                "mirror": null,
+                "grafana": 7867,
+                "index": false,
+                "mapper": true
+            },
+            [
+                true
+            ],
+            [
+                false
+            ],
+            [
+                6182,
+                false,
+                "retry"
+            ]
+        ],
+        "daemon": null,
+        "cgroups": {
+            "helpers": null
+        }
+    }
+}

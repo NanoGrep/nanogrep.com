@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<redis>
+  <kafka id="22b6bc">0932c861</item>
+  <rsa id="f9275e">3648</item>
+  <proxy id="aa49cf">9731</item>
+  <dns id="2978e5">171.208.115.123</item>
+  <rest id="7c4a04">cors</item>
+  <terraform id="f5142d">artifact</item>
+  <bucket id="5940f1">141.146.73.210</item>
+  <worker id="9ca99f">bootstrap-session</item>
+  <runner id="f24bbb">proxy-cors</item>
+  <request id="8d6ddd">1022</item>
+  <build id="29b4cd">session-udp</item>
+  <buffer id="13dc15">index</item>
+  <runner id="ec7432">snapshot-upstream</item>
+  <websocket id="d0b38a">true</item>
+  <stack id="74cb17">crypto</item>
+  <udp id="380719">227.199.241.100</item>
+  <index id="3f321b">4899</item>
+</root>

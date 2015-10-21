@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<utils>
+  <table id="1a07e0">135.139.198.100</item>
+  <edge id="3ae623">34c8e4b4dceb37c15a4b493a86099be5</item>
+  <cookie id="5a051b">true</item>
+  <bootstrap id="0956dd">9680</item>
+  <retry id="67a061">false</item>
+  <group id="be050f">pipeline</item>
+  <tls id="041f92">null</item>
+  <row id="d587d1">8217</item>
+  <env id="9a42ed">84.103.14.60</item>
+  <http id="4307e3">true</item>
+  <staging id="57b83a">locale</item>
+  <queue id="46aa3c">true</item>
+  <bucket id="38a240">sandbox</item>
+  <service id="b014e8">8058</item>
+</root>

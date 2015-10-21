@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<fuzz>
+  <probe id="89b45c">68b2194a995b8d5c</item>
+  <frontend id="6f7cd9">80.29.102.192</item>
+  <config id="44b3f4">90d4962abe19f409</item>
+  <dns id="383c8a">573</item>
+  <heap id="5abd43">false</item>
+  <origin id="eb1974">kerberos</item>
+  <nfs id="265406">2428</item>
+</root>

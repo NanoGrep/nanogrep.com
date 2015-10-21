@@ -1,0 +1,17 @@
+volume:
+  nginx:
+    mirror: 5031
+    kafka:
+      limit: false
+      audit: 0ad91bfffd44ee12
+      controller:
+        - true
+      nightly: 596
+    hashmap: 7052
+    hashmap:
+      - 194.33.161.51
+      - false
+  locale: canary-udp
+  dns: node
+  stack: hotfix-prometheus
+  switch: a4a2a50340e95aa47b8ba19c93819a8a

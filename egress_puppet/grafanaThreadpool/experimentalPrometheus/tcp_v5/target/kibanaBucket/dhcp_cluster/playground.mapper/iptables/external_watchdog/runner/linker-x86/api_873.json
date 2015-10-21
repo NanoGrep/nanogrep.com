@@ -1,0 +1,64 @@
+{
+  "core": "object",
+  "mirror": {
+    "lambda": {
+      "helm": {
+        "vault": true,
+        "cron": null,
+        "redis": "bootstrap"
+      },
+      "artifact": true,
+      "audit": null,
+      "tests": {
+        "rollback": false,
+        "dist": "0b6045201b36",
+        "backup": true,
+        "rsa": "e83377a47506",
+        "build": true
+      },
+      "build": "a2a632b9d480"
+    },
+    "response": {
+      "migrations": [],
+      "json": {
+        "registry": 1449,
+        "tests": 3022,
+        "kernel": false,
+        "fixtures": "cb8fd60a0baa",
+        "user": 9798,
+        "sha256": 2892
+      },
+      "aes": null,
+      "cert": true,
+      "lexer": [
+        null,
+        true,
+        "origin",
+        false
+      ],
+      "token": {
+        "subnet": "hotfix",
+        "wireguard": "mongo",
+        "staging": null
+      }
+    },
+    "vlan": [
+      true,
+      [
+        true,
+        "d8f72a1f1f6b",
+        "d757da2b0722"
+      ]
+    ],
+    "ceph": "0521631bd0b9",
+    "firmware": {
+      "scheduler": {
+        "adapter": false,
+        "scope": 6866,
+        "stack": true
+      },
+      "cors": 4094,
+      "socket": true
+    }
+  }
+}

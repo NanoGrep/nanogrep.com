@@ -1,0 +1,7 @@
+prometheus,bucket,oauth,loader,cache,adapter
+2767,273,middleware-nfs,6832,null,6291
+true,94aba6628fcc5158,logs-elastic,false,242.184.138.35,true
+7962,quic-tcp,lambda,a165fb1a,null,false
+cache-protobuf,ldap,vault,null,queue,quic-batch
+false,wireguard-switch,4777,true,vault-canary,a2e6942dd018d4f247297073100cd44f
+1005,9bdb192ce3fda05f,4665,true,219.254.202.92,7468

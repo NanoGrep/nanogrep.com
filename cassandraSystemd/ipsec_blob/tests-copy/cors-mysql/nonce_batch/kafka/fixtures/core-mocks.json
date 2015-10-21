@@ -1,0 +1,39 @@
+[
+    {
+        "tcp": false,
+        "object": true,
+        "traces": {
+            "threadpool": "http",
+            "vlan": {
+                "snapshot": "1b00ac398bee",
+                "runner": false,
+                "http": "83cae66d378a",
+                "scheduler": true,
+                "salt": true,
+                "driver": false
+            },
+            "hotfix": [
+                6389
+            ]
+        },
+        "watchdog": {
+            "sdk": [
+                null
+            ],
+            "adapter": {
+                "iptables": "udp",
+                "payload": 3226
+            },
+            "factory": {
+                "origin": 7366,
+                "crypto": "024e3112e783",
+                "cli": false,
+                "firewall": null
+            },
+            "legacy": null
+        },
+        "switch": "bloom"
+    },
+    4319,
+    true
+]

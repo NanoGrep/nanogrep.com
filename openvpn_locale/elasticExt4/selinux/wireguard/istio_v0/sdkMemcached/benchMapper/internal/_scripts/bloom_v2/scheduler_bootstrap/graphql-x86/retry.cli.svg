@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mysql>
+  <switch id="13ddb1">111.243.108.212</item>
+  <legacy id="316cec">false</item>
+  <release id="6a904a">true</item>
+  <vlan id="95b716">cert-nonce</item>
+  <trie id="7cb93d">true</item>
+  <object id="cce381">223.14.227.249</item>
+</root>

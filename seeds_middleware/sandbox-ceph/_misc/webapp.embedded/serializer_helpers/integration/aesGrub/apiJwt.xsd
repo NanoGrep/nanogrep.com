@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<bgp>
+  <nginx id="f78691">lib-role</item>
+  <compiler id="e29a87">2108</item>
+  <heap id="edfaaa">4c6ee614bc5eb2d142517ee872aa960e</item>
+  <schema id="2befa0">237e571ed9b134c64aa2aec150ecb586</item>
+  <assets id="ac2b34">6189</item>
+  <mesh id="bb2de2">598</item>
+  <driver id="eace43">2633</item>
+  <nginx id="59a2cd">24.159.49.184</item>
+  <backend id="e8d39c">9571</item>
+  <stack id="19c20f">envoy</item>
+  <trie id="aba295">80.137.108.72</item>
+  <stack id="2a86e3">8229</item>
+  <rest id="a5c1b6">4272</item>
+  <policy id="ab5a5d">50.30.164.192</item>
+  <ingress id="3b7341">assets-yaml</item>
+  <backup id="ee8eec">null</item>
+  <mirror id="abc475">6398</item>
+  <cron id="620787">false</item>
+  <router id="3c2be6">systemd-sdk</item>
+  <regex id="dd3395">common-tests</item>
+  <semaphore id="437a2a">68.166.160.78</item>
+  <lambda id="fe04a1">pipeline-tcp</item>
+</root>

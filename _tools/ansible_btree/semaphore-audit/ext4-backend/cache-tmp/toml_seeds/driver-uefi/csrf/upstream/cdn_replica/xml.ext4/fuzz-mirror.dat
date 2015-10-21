@@ -1,0 +1,5 @@
+table,dns,replica,rsa,udp
+tcp-snapshot,group-btree,5454,215.183.235.127,84f09636bf56239e
+2409,260152d8630b0079,buffer-cgroups,null,false
+156.249.18.160,5251,2341,adapter-udp,false
+124.144.204.6,loader,traces,lexer-raid,6927

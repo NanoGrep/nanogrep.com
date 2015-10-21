@@ -1,0 +1,30 @@
+protobuf:
+  tools: mirror
+  pod:
+    - 135.131.154.133
+    - 2326
+    - false
+  cert: canary-buffer
+  firmware: stack
+gateway: tests
+migrations:
+  traces:
+    legacy:
+      - 5243
+      - 7c9cf1e39f93f5cc
+      - 1525
+      - a1d69a2f
+    lib: null
+  replica: hmac-zfs
+  wireguard: group-nginx
+  probe: null
+  failover:
+    limit: null
+    assets: 8797c7b0032cec65af1b1f480e184458
+    salt:
+      scripts: false
+    protobuf:
+      firewall: fuzz
+      nat: vlan-buffer
+      cookie: false
+  btree: true

@@ -1,0 +1,4 @@
+retry: cli
+ingress: 3765
+retry: 22.246.48.77
+migrations: false

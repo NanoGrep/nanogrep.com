@@ -1,0 +1,2 @@
+rollback,mongo,http,controller,elastic
+true,tests,mirror-config,3633,true

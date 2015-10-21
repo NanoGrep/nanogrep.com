@@ -1,0 +1,45 @@
+{
+    "beta": {
+        "handler": {
+            "controller": {
+                "factory": "1aa564548b1a",
+                "salt": false,
+                "ingress": "coroutine",
+                "heap": 357,
+                "rollback": null,
+                "templates": 245
+            },
+            "jwt": [
+                6678,
+                null
+            ]
+        },
+        "logs": [
+            null,
+            "rsa",
+            "cors"
+        ],
+        "tcp": {
+            "config": [
+                "prod"
+            ],
+            "hashmap": 9012,
+            "origin": null
+        },
+        "bucket": {
+            "heap": [
+                null,
+                3150,
+                2193,
+                true
+            ],
+            "quic": [],
+            "staging": {
+                "oauth": null,
+                "dist": "templates"
+            },
+            "helpers": 132
+        }
+    },
+    "artifact": "442b44862272"
+}

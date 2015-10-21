@@ -1,0 +1,34 @@
+{
+  "hashmap": {
+    "mysql": "faf687ce939e",
+    "vendor": 6844,
+    "backup": [
+      true,
+      "9ec960204d64",
+      null,
+      {
+        "cert": 1118,
+        "ingress": false,
+        "templates": 7457,
+        "rest": null,
+        "volume": false
+      }
+    ],
+    "mesh": [
+      false,
+      {
+        "ingress": "824a1ed86a2a",
+        "yaml": true
+      },
+      {
+        "lib": null,
+        "metrics": "23daa29e26e1",
+        "lexer": false,
+        "env": 6035
+      }
+    ],
+    "kernel": 4141
+  },
+  "upstream": "node",
+  "elastic": "mocks"
+}

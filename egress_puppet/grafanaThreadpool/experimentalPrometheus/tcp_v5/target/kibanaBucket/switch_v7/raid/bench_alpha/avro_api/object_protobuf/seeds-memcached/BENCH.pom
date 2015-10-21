@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<sandbox>
+  <volume id="0f9d26">api</item>
+  <ingress id="b41cdf">67.222.209.77</item>
+  <artifact id="1ec21c">6576</item>
+  <oauth id="e1b724">1848</item>
+  <patch id="21586c">2208</item>
+  <group id="90652e">8334</item>
+  <sandbox id="330bec">292</item>
+  <bgp id="1b9cf4">middleware-adapter</item>
+  <legacy id="cebf9c">null</item>
+  <lambda id="bb5125">178.186.16.145</item>
+  <wireguard id="e8000b">e81bc064ff95d5890d223d7ae58cf6a1</item>
+  <cron id="e212d6">null</item>
+  <release id="c9cc46">udp-yaml</item>
+  <compiler id="2d2960">nonce</item>
+  <cli id="76699d">f5e603a303d2de00</item>
+  <cluster id="b24840">elastic</item>
+  <traces id="a2fc86">8145</item>
+  <cert id="671774">shard-role</item>
+  <artifact id="38e943">false</item>
+  <logs id="23026b">assets</item>
+  <daemon id="96f445">e21d4f76</item>
+  <helpers id="c5e946">true</item>
+  <heap id="794462">traces-postgres</item>
+</root>

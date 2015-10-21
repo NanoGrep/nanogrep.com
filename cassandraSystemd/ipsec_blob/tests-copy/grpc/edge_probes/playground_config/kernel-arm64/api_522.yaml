@@ -1,0 +1,86 @@
+tools: firewall-snapshot
+tests: 3fcc9e6c35c60824
+grpc: 40f79ad1
+node:
+  locale:
+    socket:
+      rest: 7083
+      worker: redis
+    regex: fuzz-snapshot
+    cluster:
+      nginx: 144.154.140.234
+      rsa: 59.229.57.143
+      hmac: hotfix-coroutine
+      firewall: assets-threadpool
+      bench: prod-storage
+      btree:
+        - 208.219.47.198
+        - logs-pod
+        - false
+        - f07a673a
+    backend:
+      - 94f7f276cfc15c054e0eb1a0e3a49037
+      - semaphore-tls
+    bgp: canary
+    sha256: object
+  patch: 2702
+nonce:
+  traces: 424
+  ansible:
+    legacy: 8091
+    offset: 118.147.228.68
+    gateway:
+      - service-tests
+      - hotfix
+      - 2459da22
+      - 2958
+    role:
+      - kernel
+      - 6370
+      - 109.109.8.174
+      - null
+    lib: null
+zfs:
+  websocket:
+    offset:
+      config: 2286
+      retry: true
+  proxy:
+    service:
+      protobuf: true
+      tenant: 322
+      traces: cert-mqtt
+      ceph: null
+      vault: true
+      metrics: hotfix-trie
+    fuzz:
+      cron: 8474
+      envoy: 1510
+      vault: 743
+      firmware: frontend
+      edge: dhcp
+    pipeline: tenant-fuzz
+    cert:
+      ldap: 4050
+      zfs: true
+      threadpool: 319925bf16513527
+      tests: 383d7c9c
+    envoy: f23e364356afdd0bda5a12fe7ff62fdc
+    scheduler:
+      stack:
+        - 3105
+      driver: compiler
+      role: udp
+      helm: 4630
+      tenant: origin
+  release: lambda-response
+  bloom:
+    scheduler: 1d44094245dc1ba043af0563d1083774
+    nginx: false
+    compiler:
+      - kernel
+      - null
+      - stack
+      - sandbox
+    session: protobuf
+    scope: 093f146b0354dc9929a0766cc1bd61e2

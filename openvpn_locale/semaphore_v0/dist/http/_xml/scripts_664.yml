@@ -1,0 +1,28 @@
+response:
+  cron: 6484
+  runner: prometheus
+  audit: 3245
+sandbox:
+  - false
+  - 1377
+  - 23.9.134.39
+hotfix:
+  - 218
+  - switch-postgres
+  - offset
+  - 3860
+patch:
+  handler: true
+  heap:
+    driver: audit
+    systemd:
+      ldap: 2e3d70bedfda7cfbb2cc256a2894a6e2
+    subnet:
+      object: queue-sdk
+    dist:
+      - 5077
+      - 9d495edb
+      - 248.98.22.69
+      - regex-lambda
+    subnet: false
+failover: fe32b3f8216847db

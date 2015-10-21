@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<artifact>
+  <ansible id="e653a2">5262</item>
+  <ingress id="c8d9e6">parser-bucket</item>
+  <queue id="7936fc">schema-payload</item>
+  <nfs id="de18e4">56821bfb</item>
+  <watchdog id="4b9587">9323</item>
+  <quic id="b1c5ac">kafka</item>
+  <assets id="332dec">semaphore</item>
+  <protobuf id="2980b4">7fb4819789cf960e</item>
+  <fixtures id="0e86b0">middleware</item>
+  <heap id="8f4923">metrics</item>
+  <gateway id="b9ace7">7b1a2ec00a4a7890</item>
+  <kerberos id="696927">4439</item>
+  <redis id="a9a990">proxy-kernel</item>
+  <elastic id="2d7a02">zfs-regex</item>
+  <watchdog id="83dfb9">129.39.27.150</item>
+  <nightly id="daf536">false</item>
+  <runner id="ba4231">envoy</item>
+  <sha256 id="fdd73d">assets</item>
+  <table id="40daad">lexer-grpc</item>
+  <column id="f7929d">157.242.103.98</item>
+  <backup id="a6d363">adapter-snapshot</item>
+  <parser id="f4831d">697bf3574a8be6c4</item>
+  <snapshot id="a8eb76">4196</item>
+  <buffer id="222bde">34.29.52.174</item>
+  <cgroups id="e65c54">11.90.128.15</item>
+</root>

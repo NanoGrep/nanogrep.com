@@ -1,0 +1,82 @@
+{
+  "staging": {
+    "service": {
+      "websocket": 7623,
+      "tls": false,
+      "limit": {
+        "policy": 7039,
+        "salt": false,
+        "nonce": false,
+        "cluster": false
+      }
+    },
+    "http": "91ca50f53201"
+  },
+  "payload": {
+    "staging": false,
+    "canary": true,
+    "regex": "canary",
+    "artifact": {
+      "entropy": {
+        "mongo": true
+      },
+      "pipeline": {
+        "user": null,
+        "pipeline": "7a0186c5c983",
+        "artifact": true,
+        "column": "b30ebd83f762",
+        "raid": true
+      },
+      "vxlan": [
+        true,
+        true,
+        null
+      ],
+      "sha256": false,
+      "systemd": 7771
+    }
+  },
+  "index": {
+    "dhcp": {
+      "entropy": 2158,
+      "prometheus": true,
+      "audit": false,
+      "nfs": [
+        false
+      ],
+      "ceph": 5677,
+      "hotfix": 6692
+    },
+    "tcp": [
+      {
+        "socket": "29841232bd60",
+        "helpers": null,
+        "http": true,
+        "config": 450,
+        "traces": true
+      }
+    ],
+    "cluster": {
+      "logs": {
+        "watchdog": null
+      },
+      "entropy": [
+        true,
+        "212db92ad384",
+        "registry"
+      ],
+      "api": true,
+      "iptables": [
+        "offset",
+        "ldap",
+        2072,
+        true
+      ],
+      "prometheus": null
+    }
+  },
+  "regex": false,
+  "envoy": [
+    true
+  ]
+}

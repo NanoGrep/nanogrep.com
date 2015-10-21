@@ -1,0 +1,37 @@
+{
+    "row": {
+        "schema": {
+            "compiler": {
+                "bgp": false,
+                "fixtures": 2572
+            },
+            "ceph": [
+                "da0a49a6e6ab",
+                null,
+                "object"
+            ],
+            "traces": {
+                "rollback": "62bd6c0cb9dd",
+                "schema": "4f5c19756052",
+                "traces": false,
+                "payload": false
+            }
+        },
+        "build": [
+            {
+                "traces": null,
+                "ansible": "d7f9a233ce25",
+                "stack": 1580,
+                "failover": false
+            },
+            {
+                "mocks": 4690
+            }
+        ],
+        "heap": null
+    },
+    "btree": {
+        "nat": "14e9081081f8"
+    },
+    "object": "frontend"
+}

@@ -1,0 +1,2 @@
+router: worker-common
+upstream: 5167

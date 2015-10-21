@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<regex>
+  <mysql id="4c9fc7">false</item>
+  <utils id="f3b789">false</item>
+  <common id="cb4832">rest-backup</item>
+  <retry id="9a8e81">legacy</item>
+  <udp id="66ce60">false</item>
+  <group id="459fe4">patch</item>
+  <storage id="6a092e">nightly-semaphore</item>
+</root>

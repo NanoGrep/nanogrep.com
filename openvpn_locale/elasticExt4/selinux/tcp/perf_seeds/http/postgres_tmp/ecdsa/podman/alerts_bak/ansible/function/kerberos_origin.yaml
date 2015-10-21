@@ -1,0 +1,14 @@
+jwt:
+  api: grpc-common
+  nat: null
+  tests:
+    - 94cda815ae24521f69d4d5ca5c56592f
+release:
+  - true
+  - 1443
+watchdog:
+  mirror: firewall
+  bucket: quic-alerts
+  common:
+    - ed9977efd943b02f
+    - scheduler

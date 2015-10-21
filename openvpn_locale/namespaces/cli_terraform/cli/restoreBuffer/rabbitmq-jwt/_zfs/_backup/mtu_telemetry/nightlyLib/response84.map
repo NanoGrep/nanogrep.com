@@ -1,0 +1,57 @@
+{
+  "nightly": true,
+  "templates": {
+    "vlan": {
+      "daemon": false,
+      "mutex": "8c5e77b4e754"
+    },
+    "schema": {
+      "locale": null,
+      "index": "9034de351df6",
+      "bloom": {
+        "nfs": 3029,
+        "nat": true,
+        "prod": "64638bf50f48",
+        "handler": true,
+        "topic": true,
+        "elastic": null
+      },
+      "sha256": {
+        "canary": "56ca5e4d1e40",
+        "batch": true,
+        "fixtures": true,
+        "ingress": true
+      },
+      "sandbox": [],
+      "ceph": {
+        "metrics": false,
+        "nginx": true,
+        "protobuf": null,
+        "registry": 4513
+      }
+    },
+    "session": "trie"
+  },
+  "bootstrap": {
+    "traces": null,
+    "loader": {
+      "lib": {
+        "failover": "72f29879f42d",
+        "frontend": "pipeline",
+        "bench": "cert",
+        "vlan": false,
+        "nonce": 5267,
+        "pod": false
+      },
+      "nightly": {
+        "kernel": false,
+        "storage": null,
+        "mapper": "scheduler",
+        "object": "heap",
+        "socket": "topic",
+        "ceph": false
+      }
+    },
+    "prometheus": null
+  }
+}

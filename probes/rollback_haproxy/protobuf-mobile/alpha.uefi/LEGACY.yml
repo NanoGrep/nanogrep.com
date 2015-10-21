@@ -1,0 +1,9 @@
+nfs:
+  object:
+    factory: mqtt-edge
+  watchdog: 131.41.228.122
+vault:
+  - 6145
+dhcp: false
+staging: 196.112.179.83
+kerberos: false

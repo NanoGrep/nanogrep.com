@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<compiler>
+  <kernel id="a7fc86">6960e434e441ecd311f8b0c5286cf677</item>
+  <jwt id="f5c6e1">e4fa6f59</item>
+  <zfs id="086645">182.136.129.160</item>
+  <aes id="d7e8a1">1908</item>
+  <core id="2fcc20">3731</item>
+  <api id="04cbb2">frontend</item>
+  <redis id="af7368">table</item>
+  <build id="86205d">fixtures</item>
+  <nginx id="b8bfe9">69.183.0.122</item>
+  <config id="73775d">6.57.37.223</item>
+  <handler id="1d7544">true</item>
+  <worker id="1e3ad3">fde7ddab412828e7bf3837262c3cfbf3</item>
+  <rsa id="77d06e">mqtt-ceph</item>
+  <socket id="80712c">storage-ingress</item>
+  <cookie id="dbc591">5ecafcb0f6b62dc0</item>
+  <handler id="990aa6">false</item>
+  <buffer id="c44639">ingress-lib</item>
+  <middleware id="89ad27">service-common</item>
+  <migrations id="0505d4">941739cc</item>
+  <mapper id="fcc7e9">103.44.129.98</item>
+  <pod id="44df1a">cache</item>
+</root>

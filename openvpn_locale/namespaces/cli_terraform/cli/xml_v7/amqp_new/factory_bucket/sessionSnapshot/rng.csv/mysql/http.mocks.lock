@@ -1,0 +1,57 @@
+{
+    "stack": {
+        "snapshot": [
+            {
+                "api": true,
+                "logs": null,
+                "cache": false
+            },
+            null,
+            {
+                "scope": true,
+                "quic": 9701,
+                "nginx": true,
+                "protobuf": false,
+                "schema": null
+            },
+            {
+                "heap": false
+            }
+        ],
+        "nginx": null,
+        "salt": {
+            "heap": [
+                true,
+                "ansible",
+                false
+            ],
+            "logs": "elastic",
+            "bloom": [
+                null,
+                "lambda",
+                false,
+                "6bb4f4d783a2"
+            ]
+        }
+    },
+    "tcp": [
+        "service",
+        {
+            "nightly": {
+                "nginx": "oauth",
+                "locale": "c6954814f1c3",
+                "terraform": false,
+                "retry": true,
+                "envoy": "volume",
+                "shard": 5252
+            },
+            "lib": null
+        },
+        [
+            true,
+            null,
+            null
+        ],
+        false
+    ]
+}

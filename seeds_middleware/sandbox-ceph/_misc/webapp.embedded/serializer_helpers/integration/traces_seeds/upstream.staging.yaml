@@ -1,0 +1,94 @@
+stream:
+  gateway:
+    middleware: 4435ea83e35a2b92df78c5d0dce30ae5
+    artifact:
+      redis: parser
+    bench:
+      logs: 162.199.252.131
+      nginx: 31.91.77.36
+      bgp: 7090
+    staging:
+      threadpool:
+        - 511
+        - jenkins-legacy
+        - 6472
+        - worker-gateway
+      postgres: 4470e4b12c819366
+      mocks: 5393
+      trie: mongo
+      probe: user-elastic
+      salt: true
+    grafana:
+      cli: 4461
+      loader: 93.172.33.91
+      kernel: false
+      user: 4126
+  parser: 5d221d46
+  mutex:
+    zfs:
+      - false
+      - 7073
+      - b228c781c1c212cdd6d36a98d50d52c8
+      - 214.7.199.7
+    tests:
+      - object-batch
+    tls:
+      factory: 28.216.35.160
+    bucket:
+      socket: websocket-group
+      mysql: 1ba6c45c
+      postgres: socket
+      node: 127.24.216.14
+    kerberos:
+      fuzz: 701
+      upstream: 0
+      websocket: true
+      jwt: 9.16.181.30
+      fuzz: firmware
+      release: 43118bf6
+  mutex:
+    cursor: false
+  iptables: 3530
+  replica:
+    loader: null
+    queue:
+      semaphore: snapshot-ceph
+      logs: token-cron
+      api: buffer-offset
+      cluster: 112.190.47.48
+    firewall:
+      bootstrap: 7375
+    batch: 7d224ee1
+    vault: 63156242
+hashmap:
+  regex:
+    helm:
+      udp: 56496078
+      column: lambda
+    grafana: stream
+    release: ingress
+    table:
+      ceph: 8b6d805347fccdb94d1e623db93f2b0d
+      migrations: null
+      backend:
+        - 5689
+        - 252.138.141.176
+        - 9150
+      hashmap: null
+      oauth: 253.112.80.54
+    beta: scripts
+    pod: daemon
+  mutex: iptables
+  daemon:
+    - 213
+    - 22.50.221.120
+    - 31dd2423
+    - bfd5f9bc6d69bdf369dbbfbd36db4d3b
+  cert: false
+quic: replica-pipeline
+tools:
+  assets: false
+  token: 4896
+  schema:
+    - 275a426d40969b3d32138b761fd3ae40
+    - 6ab04cf9

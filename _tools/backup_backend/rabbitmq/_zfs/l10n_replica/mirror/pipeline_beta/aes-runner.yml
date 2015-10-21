@@ -1,0 +1,43 @@
+heap:
+  - 96.79.214.76
+  - role
+  - null
+  - 39.48.51.176
+backup:
+  session:
+    mirror: 5650
+    release: 0cc595179d41e6d094ec6e0ed1586951
+    scheduler:
+      quic:
+        - 60.242.110.127
+        - 1047
+      frontend: 6a1c734a647f1dff
+      edge: 6815
+      http: 22.247.187.103
+      node: handler
+      daemon:
+        - 2779
+    artifact: false
+    dhcp: kerberos
+    env: cgroups
+  mutex: 2523
+  column:
+    rollback: true
+    payload: bootstrap-yaml
+    firmware: 4299
+  staging: vault
+  nonce:
+    vendor: 991
+    common: 9734
+token:
+  bucket:
+    aes: 7962
+    queue: 216.54.100.106
+    tls: true
+    nfs: true
+  ceph: 186.159.74.45
+  env: true
+  router: semaphore
+  grafana: bgp
+  tcp:
+    request: 137.172.141.4

@@ -1,0 +1,162 @@
+{
+    "buffer": {
+        "replica": {
+            "stream": [
+                true
+            ],
+            "metrics": true
+        },
+        "websocket": "2a11f7ebca96",
+        "trie": {
+            "mapper": "mapper",
+            "middleware": null,
+            "salt": [
+                false,
+                false
+            ],
+            "service": {
+                "mapper": "role",
+                "helpers": true,
+                "origin": 7019
+            },
+            "bootstrap": true
+        },
+        "mapper": "snapshot",
+        "bench": {
+            "cli": true,
+            "vlan": {
+                "raid": true,
+                "tests": "a98697fa9fdf",
+                "tls": false,
+                "trie": true,
+                "schema": "de15f47c3a1a"
+            }
+        }
+    },
+    "hotfix": {
+        "vendor": "4fb8de04c8d3",
+        "bloom": {
+            "firewall": [
+                false,
+                "53c11ba170ae"
+            ]
+        }
+    },
+    "subnet": {
+        "middleware": {
+            "sdk": false,
+            "staging": "1bc5bf33d748",
+            "audit": null,
+            "redis": null
+        },
+        "artifact": 5877,
+        "logs": {
+            "mesh": false,
+            "table": "ffacd81d37b5",
+            "row": {
+                "volume": true,
+                "trie": 400,
+                "tls": 4716,
+                "regex": "gateway"
+            },
+            "cluster": null,
+            "hashmap": [
+                "jwt"
+            ]
+        },
+        "rsa": {
+            "mysql": [
+                true,
+                7838
+            ],
+            "kafka": {
+                "role": false,
+                "core": true,
+                "migrations": "vendor"
+            },
+            "redis": [
+                1235,
+                null,
+                "nginx",
+                null
+            ],
+            "service": [
+                4772,
+                true,
+                true,
+                true
+            ],
+            "staging": [
+                "mirror",
+                null,
+                "7c5cfb5a1c5f"
+            ],
+            "socket": 4138
+        },
+        "probe": "95fbb89abc41"
+    },
+    "crypto": {
+        "wireguard": {
+            "limit": true,
+            "websocket": {
+                "logs": null,
+                "aes": null,
+                "traces": "3a5a4aca44f4",
+                "cli": false
+            },
+            "column": [],
+            "nonce": "request",
+            "batch": {
+                "heap": true,
+                "hotfix": 83,
+                "backup": "bgp"
+            }
+        },
+        "ldap": {
+            "cookie": "60c602e61de5"
+        },
+        "cursor": 2734,
+        "zfs": {
+            "tcp": "dhcp",
+            "regex": "scripts",
+            "crypto": {
+                "tenant": false
+            }
+        },
+        "cron": {
+            "prod": {
+                "build": true,
+                "trie": false,
+                "shard": "272427cdf58b",
+                "watchdog": null
+            }
+        }
+    },
+    "jwt": {
+        "lambda": [
+            6939,
+            {
+                "payload": "be59192b771f",
+                "tls": false,
+                "adapter": 3219,
+                "cache": "response",
+                "systemd": true,
+                "dhcp": 1636
+            },
+            6836,
+            {
+                "storage": false
+            }
+        ]
+    },
+    "prod": {
+        "upstream": "lambda",
+        "object": [
+            true
+        ],
+        "worker": 5954,
+        "row": 614,
+        "mirror": true,
+        "bucket": true
+    }
+}

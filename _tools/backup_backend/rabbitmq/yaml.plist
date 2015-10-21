@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<semaphore>
+  <service id="b115dc">ldap</item>
+  <handler id="987e4d">user-dns</item>
+  <adapter id="ece5e2">211.184.134.137</item>
+  <loader id="0f0afb">socket-loader</item>
+  <scripts id="b501e9">true</item>
+  <rollback id="3ed053">10797b58aaafba366667021b174c77fd</item>
+  <beta id="126a94">3607</item>
+  <cluster id="cf5463">b63470232d1529c5</item>
+  <pod id="898dd6">request</item>
+  <trie id="fc35d1">switch-compiler</item>
+</root>

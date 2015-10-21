@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<sdk>
+  <oauth id="1cb580">156.34.230.240</item>
+  <middleware id="de1f67">202</item>
+  <salt id="8ad264">user-raid</item>
+  <rest id="351cac">213.131.87.20</item>
+  <cert id="1ea8fb">4aee7908</item>
+  <subnet id="a3e9ee">null</item>
+  <staging id="8c89a0">96.154.178.10</item>
+  <entropy id="9a22d5">58.129.173.227</item>
+  <terraform id="f953cd">group-legacy</item>
+  <regex id="661d1e">compiler</item>
+  <staging id="54f0d1">null</item>
+  <ingress id="0a1ded">column-firewall</item>
+</root>

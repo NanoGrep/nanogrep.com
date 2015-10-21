@@ -1,0 +1,25 @@
+prod: null
+tls: wireguard
+node:
+  probe: cd70b410
+  utils:
+    - 84.170.30.89
+    - tenant-mysql
+    - 53.238.167.169
+    - 45.181.146.244
+  legacy: null
+  crypto:
+    bgp:
+      table: probe-pod
+      controller: 6652
+    bloom:
+      - 99903c6e44666d82
+      - dcf95723341d31b1
+  column: 174.104.11.200
+token: 20.152.199.132
+prometheus:
+  table: 5913
+  response:
+    - 425
+  semaphore: null
+  daemon: failover-snapshot

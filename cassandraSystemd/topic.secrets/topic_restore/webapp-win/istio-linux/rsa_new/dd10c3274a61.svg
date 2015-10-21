@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<semaphore>
+  <release id="a5ad22">true</item>
+  <upstream id="54fa7a">154.51.217.177</item>
+  <nfs id="356d37">null</item>
+  <retry id="0b5c8d">ingress</item>
+  <nat id="39a872">906373081ad28cbb</item>
+  <templates id="af2b4b">subnet</item>
+  <edge id="81d3d8">false</item>
+  <sdk id="1eb91d">9322</item>
+  <kernel id="020fb7">246.237.40.150</item>
+  <rest id="440b0e">rollback</item>
+  <token id="a5dcc3">true</item>
+</root>

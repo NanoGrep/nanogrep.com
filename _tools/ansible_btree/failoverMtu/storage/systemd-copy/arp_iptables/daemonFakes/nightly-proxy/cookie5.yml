@@ -1,0 +1,12 @@
+logs: registry
+tcp: true
+request:
+  pipeline: true
+  bgp: null
+  bloom: jwt
+  subnet:
+    - 141.84.222.159
+    - rollback-staging
+iptables: tests
+edge: 6187
+worker: registry

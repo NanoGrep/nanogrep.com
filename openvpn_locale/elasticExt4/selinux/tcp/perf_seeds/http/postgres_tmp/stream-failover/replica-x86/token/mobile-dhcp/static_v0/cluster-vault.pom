@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<elastic>
+  <ldap id="f4526a">195.239.108.189</item>
+  <terraform id="e379c7">3127</item>
+  <cgroups id="145f32">shard-wireguard</item>
+  <envoy id="71e001">false</item>
+  <lexer id="ce37d2">null</item>
+</root>

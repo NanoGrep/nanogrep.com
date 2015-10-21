@@ -1,0 +1,14 @@
+apitoken=websocket
+failover_cluster=72.38.235.64
+jwt.fixtures=registry
+mapper_quic=09508c97fe94f31c
+ingress.controller=null
+tokenmesh=true
+mysql_sha256=ee3f073ef5706d26
+offsetstorage=902
+offsettrie=envoy-node
+tenant.tools=true
+response_iptables=shard-row
+iptablesmysql=395e9bd3af94ef628eb54cbee5ce798d
+corsalerts=904b6eee228a5ea4430c0a21827e02b8
+sha256_envoy=179.132.249.42

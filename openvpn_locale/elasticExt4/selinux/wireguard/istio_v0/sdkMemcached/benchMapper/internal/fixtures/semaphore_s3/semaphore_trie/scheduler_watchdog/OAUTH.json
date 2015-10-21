@@ -1,0 +1,39 @@
+{
+  "canary": 4459,
+  "nonce": {
+    "index": {
+      "prod": [
+        "node",
+        null,
+        "5bb8f316c0fd",
+        "31f5d1ccf48c"
+      ],
+      "mqtt": []
+    },
+    "json": {
+      "heap": "040cbd241adc",
+      "scripts": [
+        8748,
+        4502,
+        false
+      ],
+      "table": false,
+      "salt": [
+        "queue",
+        false,
+        "46a6cdcbda0f"
+      ]
+    },
+    "vxlan": [],
+    "tools": {
+      "artifact": false,
+      "cache": false,
+      "systemd": 3450,
+      "user": [
+        false,
+        true,
+        true
+      ]
+    }
+  }
+}

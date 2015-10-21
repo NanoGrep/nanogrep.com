@@ -1,0 +1,49 @@
+graphql:
+  trie:
+    fuzz:
+      - gateway-shard
+      - 5197
+    index: 4263
+    jenkins:
+      - 65.67.94.99
+  vault:
+    - 2789
+    - cache
+    - object
+  middleware: envoy
+  tcp:
+    bloom:
+      env: null
+      frontend: 2e9aa81a
+      probe:
+        - 1892
+      udp: true
+      migrations: 173.80.144.90
+cookie: 39ad89ac
+mutex: fixtures-mesh
+mongo:
+  envoy:
+    service:
+      common: vault
+  rest:
+    bootstrap: 776
+    origin:
+      rsa:
+        - fixtures-tls
+        - sandbox
+      oauth: 58.20.246.76
+      prod: env-systemd
+    nfs:
+      ingress: bucket
+      api: dist-dns
+    rest: factory
+    proxy: 243.130.116.134
+    tests:
+      backup: fe4a93d64a8a20c04e5a03a66747d19c
+      edge:
+        - kernel-fuzz
+        - 75.52.123.251
+retry: 8ea9a0a205ee8d93184896fa6e36bc6d
+aes:
+  ldap: 231.0.18.235
+  dhcp: dns

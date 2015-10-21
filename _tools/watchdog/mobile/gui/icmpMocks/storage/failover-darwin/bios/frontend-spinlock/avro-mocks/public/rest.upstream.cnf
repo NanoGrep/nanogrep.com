@@ -1,0 +1,19 @@
+[http]
+auditrouter = true
+protobuf_batch = 6691
+factoryfixtures = true
+grpc_mysql = true
+build.cache = wireguard
+scope.topic = dea3af7380d6f5a0
+compiler_iptables = canary-loader
+compilerceph = 650ccad45cb742efd210a478dbb1ce25
+mqtt_protobuf = 70.218.249.156
+ingress.nginx = 637db660
+originrest = 9462
+audit_build = 209.57.139.148
+hashmap_jenkins = router-udp
+daemon.api = 9223
+upstream_hmac = templates-cron
+terraformtemplates = cert-patch
+heap.raid = postgres-buffer
+trie_topic = 8449

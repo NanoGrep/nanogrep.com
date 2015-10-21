@@ -1,0 +1,7 @@
+postgres: hmac
+firewall: helpers-threadpool
+mutex:
+  payload: 4979
+  mesh:
+    - 06863eba
+socket: be299eaca15935f8a8ab83ca676dedc7

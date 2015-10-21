@@ -1,0 +1,23 @@
+tools: mocks
+table: stream
+cookie:
+  cors:
+    stream:
+      - 9100
+      - false
+    build: grafana-semaphore
+  nonce:
+    index: cbb518ed2814e8a3d4f0d4a3a0e7ace7
+    btree: null
+    limit:
+      - fe4f9db7
+      - pipeline-prometheus
+      - core-vxlan
+    beta: true
+  common: 2593
+  service: null
+  rest: c035e1f5adbe0a2d694fe34c908d1ed7
+  mutex:
+    - 3000
+    - 4100
+    - 180.47.14.110

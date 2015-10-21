@@ -1,0 +1,65 @@
+prometheus: true
+sandbox: 126.112.241.183
+bloom:
+  rest:
+    - 149.33.238.11
+    - 137.157.120.158
+  ldap:
+    firewall: null
+    envoy:
+      cli: staging-failover
+      mqtt: staging
+      env: 5426d3a1d96a0009
+      api:
+        - zfs
+      cli: switch-session
+      upstream: backend
+    scope: null
+    hotfix:
+      sandbox: false
+      lambda: cgroups
+      btree: 48e962574a877a72
+      pod: retry-common
+    request: null
+alerts:
+  tests: cors-proxy
+  adapter: failover-threadpool
+  handler:
+    nightly: true
+    mysql: postgres-shard
+    bgp: redis-cluster
+    tenant:
+      ceph: 4222
+      bgp: 20.253.0.44
+      assets: 75.135.103.190
+      graphql: 1.109.174.254
+      audit:
+        - 72c3a231
+        - 3396
+      sandbox: vlan
+    entropy: sdk
+    upstream:
+      nat: cookie
+      config: zfs
+      patch: true
+      mqtt: 193.179.196.224
+      response: 3a243aec
+      lexer:
+        - compiler-ingress
+  ansible: 6458
+prod:
+  postgres:
+    replica: 7953
+  ldap: 8ce0d8a12059c4c4
+  alerts: 9321
+  origin:
+    - bucket-origin
+    - null
+  switch:
+    ldap: 6174
+    router:
+      - d69a63e43266072d9f8346452f34b23a
+      - mirror
+      - schema
+      - daemon
+nonce: null

@@ -1,0 +1,10 @@
+{
+  "driver": false,
+  "utils": true,
+  "build": [],
+  "vxlan": false,
+  "policy": 300,
+  "alerts": {
+    "service": true
+  }
+}

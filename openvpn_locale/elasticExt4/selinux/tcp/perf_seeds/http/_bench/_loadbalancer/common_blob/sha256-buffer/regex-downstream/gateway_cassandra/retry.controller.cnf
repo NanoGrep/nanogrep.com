@@ -1,0 +1,14 @@
+worker_cache: null
+threadpoolnfs: false
+sandbox_ceph: true
+controllergroup: 4624
+rest_vault: false
+group_envoy: legacy-nonce
+firmwareiptables: 110.130.226.131
+grafana.subnet: null
+meshaes: 199.193.233.224
+backup_adapter: node-metrics
+helm.token: 3251
+registrymapper: null
+socketrow: loader-dist
+utils_mapper: 6861

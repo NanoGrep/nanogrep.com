@@ -1,0 +1,5 @@
+index.ldap=false
+releasebackup=2035
+oauthcors=true
+iptables.envoy=true
+batch_controller=3815

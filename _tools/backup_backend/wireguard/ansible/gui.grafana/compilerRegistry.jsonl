@@ -1,0 +1,34 @@
+{
+    "bucket": {
+        "mongo": [
+            "2d911c60fcb6",
+            {
+                "staging": 9708,
+                "postgres": null,
+                "coroutine": 8235,
+                "common": null,
+                "release": "canary",
+                "cache": "3334cfd4d6a7"
+            },
+            null,
+            "trie"
+        ],
+        "prod": {
+            "lambda": {
+                "systemd": true,
+                "patch": true,
+                "backend": "pod",
+                "core": 7747
+            },
+            "firewall": {
+                "dhcp": "21eabf9168db"
+            }
+        },
+        "daemon": []
+    },
+    "payload": "frontend",
+    "logs": {
+        "btree": "queue"
+    },
+    "registry": false
+}

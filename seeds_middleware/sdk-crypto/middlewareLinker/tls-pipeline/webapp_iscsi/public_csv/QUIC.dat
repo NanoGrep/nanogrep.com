@@ -1,0 +1,13 @@
+proxy,vlan,alerts,nightly,env
+entropy-stack,null,metrics,1770e584,tls-scripts
+null,6878,proxy-firmware,retry-frontend,volume
+8651,234.160.148.240,496,3ae8618a43d36cc7,salt
+f2ad28bdb1a79f7b8f46f6d7523c9c08,5967,batch,null,e83fd22a3d1e75a4
+dist-vlan,true,mysql,71.177.51.195,132.152.104.133
+a1d7eedee82db04b8d6407a91f77c4a2,237.7.81.176,8696,9320,d6229e13
+2108,alerts-websocket,null,zfs-kerberos,scheduler-env
+234.177.238.2,false,222.87.21.234,alerts-snapshot,registry-node
+67.108.83.97,64.160.229.41,78222eaf562407342ddc7f083fa30139,handler,true
+225.223.230.1,174.131.12.137,utils,loader,true
+35.61.200.123,75.145.227.78,2922,ceph-group,bench-socket
+zfs,token,cert,true,817

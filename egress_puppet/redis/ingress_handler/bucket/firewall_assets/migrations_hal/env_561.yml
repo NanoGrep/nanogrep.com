@@ -1,0 +1,29 @@
+canary:
+  build:
+    proxy: e9519212
+    postgres: migrations
+    token: 5fe38acd
+    mapper:
+      iptables:
+        - true
+        - true
+      failover: nginx-queue
+      btree:
+        - 129.65.80.200
+      adapter: 5341
+    prometheus:
+      - 221.102.151.43
+      - scripts
+      - 236.154.177.242
+      - false
+  group:
+    worker: frontend-table
+  traces: 73adf90bdf75795190bc92681573563d
+index:
+  - 5328
+  - 196.21.152.142
+  - 1663
+  - 38.103.24.20
+dist: 69
+protobuf: 153.48.92.47
+schema: 13.207.141.195

@@ -1,0 +1,2 @@
+node.offset: bench
+ansible.table: false

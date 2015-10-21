@@ -1,0 +1,10 @@
+{
+  "socket": {
+    "batch": false
+  },
+  "bloom": "mesh",
+  "tls": [
+    null
+  ],
+  "node": null
+}

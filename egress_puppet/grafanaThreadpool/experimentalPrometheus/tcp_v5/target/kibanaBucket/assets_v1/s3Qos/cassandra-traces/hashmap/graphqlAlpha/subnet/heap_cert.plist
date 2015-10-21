@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<storage>
+  <env id="ad189f">index-templates</item>
+  <elastic id="279dcd">raid-proxy</item>
+  <pipeline id="8c73bd">1877</item>
+  <driver id="1ce8de">true</item>
+  <bgp id="590780">sha256-salt</item>
+  <threadpool id="84c092">ad24ab996b53bb93</item>
+  <buffer id="a223e0">false</item>
+  <buffer id="b2ef6c">null</item>
+  <tests id="29e4c9">229.197.211.18</item>
+  <offset id="c9d175">policy</item>
+  <stream id="4c1d5b">6fdeaa7424f76d5b4f59cfa59605a7aa</item>
+  <snapshot id="7ba4df">firmware-build</item>
+  <compiler id="b675aa">heap</item>
+  <backend id="4b2034">trie-request</item>
+  <rest id="1ad4c2">graphql-canary</item>
+  <queue id="c16d4f">parser-session</item>
+  <btree id="61bb42">5145</item>
+  <env id="63de11">volume</item>
+  <graphql id="d1b93e">jwt-artifact</item>
+  <edge id="e25a36">241.151.181.33</item>
+</root>

@@ -1,0 +1,6 @@
+metrics.stack: failover
+kafkalogs: true
+proxy_cors: nginx-beta
+handler_retry: retry-backup
+canarymiddleware: sandbox
+snapshot.audit: 9656

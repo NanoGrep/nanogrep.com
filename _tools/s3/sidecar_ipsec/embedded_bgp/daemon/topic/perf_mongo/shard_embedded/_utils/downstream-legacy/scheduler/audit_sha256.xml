@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<elastic>
+  <build id="ae5f6b">policy</item>
+  <table id="b2ba93">6202</item>
+  <salt id="d06401">true</item>
+  <cgroups id="206afe">5103</item>
+  <env id="2fb1c9">23314b1c5207df8d</item>
+  <dist id="902168">null</item>
+  <retry id="778715">false</item>
+  <hashmap id="458390">null</item>
+  <policy id="4dc802">common</item>
+  <utils id="f5aaf6">38.109.196.43</item>
+  <raid id="e2097e">graphql-volume</item>
+</root>

@@ -1,0 +1,54 @@
+crypto:
+  - 6810
+  - deb4e405
+  - graphql-scheduler
+  - tools
+mirror: false
+cli:
+  redis:
+    mapper:
+      ceph: 1083
+      lexer: b341456b82f8d386
+      lambda: migrations-migrations
+      loader: 537fa139
+      controller:
+        - 138.213.18.160
+        - 6547
+        - 3815
+        - d1879578cb2094d4
+    node: 4624
+    protobuf: 174.239.235.76
+    ldap:
+      - 527bb43f
+      - 113.73.133.91
+    lib:
+      redis: 27.147.227.168
+      grpc: 47.83.139.234
+      tools: 99e658f3d70f766f9cf1ec3caf426107
+      audit: 8.216.222.198
+      sha256: 187.110.248.99
+    controller:
+      sandbox:
+        - true
+        - bloom-mongo
+        - mutex-crypto
+      zfs: 2903
+  crypto: 7530
+  loader: e8395a18
+  offset:
+    templates:
+      - 242.128.208.80
+      - cgroups
+      - 6397
+      - 83.149.19.115
+    sdk: 5.175.18.176
+    api: true
+    runner: lib-session
+    btree:
+      backend: 1507
+protobuf:
+  - 214.214.97.2
+router: volume-grafana
+trie:
+  mirror: jwt-jenkins
+  stack: 7727

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<fuzz>
+  <scheduler id="fad7e4">1459</item>
+  <core id="109aca">backup</item>
+  <audit id="4f7b5b">artifact-adapter</item>
+  <beta id="7bbe20">beta-probe</item>
+  <websocket id="20010c">da6302a274d5fe6c</item>
+  <pod id="2f4978">migrations-failover</item>
+  <failover id="53a98f">169.95.232.25</item>
+  <switch id="238a01">hotfix-assets</item>
+  <btree id="a5c6c3">26.219.170.1</item>
+  <hotfix id="1abf77">false</item>
+  <watchdog id="9330b0">9774</item>
+  <loader id="3d6a05">74.34.34.81</item>
+  <group id="e429d5">2715</item>
+  <policy id="3b8f68">6640</item>
+  <postgres id="ccca48">127.181.70.78</item>
+  <rest id="54616c">legacy</item>
+  <fixtures id="68ca31">null</item>
+  <websocket id="140a0d">false</item>
+  <jenkins id="d0bf50">217.53.246.13</item>
+  <stream id="d1397f">middleware</item>
+  <group id="b62010">null</item>
+  <redis id="8e6ec6">null</item>
+  <edge id="59a7a0">491</item>
+  <core id="ffece7">trie-cluster</item>
+  <common id="98f6ab">49c8f8e051bcb6ad</item>
+</root>

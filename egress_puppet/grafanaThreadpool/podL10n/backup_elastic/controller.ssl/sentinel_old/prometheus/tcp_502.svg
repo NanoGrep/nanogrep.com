@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<topic>
+  <cert id="196efe">true</item>
+  <assets id="487b01">5468</item>
+  <fuzz id="c1514e">0d45b9c4dac0a97b</item>
+  <tls id="f3e701">2711</item>
+  <subnet id="131cf5">user-bucket</item>
+  <grafana id="fa395c">9691</item>
+  <offset id="c3e4e4">mocks</item>
+  <probe id="b24524">mapper-hotfix</item>
+  <ingress id="114c2c">hmac-crypto</item>
+  <yaml id="518e16">3293</item>
+  <sdk id="b1e1b6">hashmap</item>
+  <vendor id="baf9b2">3267</item>
+  <edge id="6226e8">5944</item>
+  <grafana id="186460">false</item>
+  <worker id="8c5bee">7184</item>
+  <adapter id="c3b74d">kafka-hotfix</item>
+  <jenkins id="ffa094">dns-coroutine</item>
+  <nginx id="87d9a7">7c1199a0</item>
+  <parser id="832ba8">43.75.197.189</item>
+  <backend id="9c5e5b">4920</item>
+  <hotfix id="9ab2d0">false</item>
+  <queue id="93eb67">hashmap</item>
+  <api id="c19de6">e708664e</item>
+  <cookie id="fadd27">120.143.250.195</item>
+  <patch id="6dc393">183.173.159.161</item>
+</root>

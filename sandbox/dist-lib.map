@@ -1,0 +1,47 @@
+[
+    {
+        "row": {
+            "edge": {
+                "config": "0ef6f21b1bcb",
+                "terraform": "edb8733bae60",
+                "traces": null,
+                "mocks": "0da436eccd92",
+                "factory": true
+            },
+            "token": "67e56a24572d"
+        },
+        "middleware": null
+    },
+    [
+        [
+            "d4c4cf8a503f"
+        ],
+        {
+            "factory": {
+                "traces": false,
+                "rest": "btree",
+                "vxlan": "ca3c633c9d2b",
+                "mysql": true,
+                "heap": null
+            },
+            "nonce": {
+                "request": "0b29348e7d56"
+            },
+            "rsa": {
+                "websocket": "dist",
+                "batch": false,
+                "request": true,
+                "graphql": null,
+                "rest": null
+            },
+            "subnet": {
+                "edge": true,
+                "firewall": null,
+                "terraform": false,
+                "lib": true
+            },
+            "mesh": null,
+            "patch": true
+        }
+    ]
+]

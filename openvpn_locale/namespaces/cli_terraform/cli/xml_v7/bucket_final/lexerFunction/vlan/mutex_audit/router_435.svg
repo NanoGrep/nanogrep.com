@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<session>
+  <adapter id="a5d5f1">protobuf-elastic</item>
+  <firewall id="2ee2b5">c1cd4ede</item>
+  <mirror id="8f08a0">214.176.231.120</item>
+  <cron id="167d6f">storage-offset</item>
+  <udp id="b34fe2">144.45.224.167</item>
+  <backup id="b67dfb">cursor-aes</item>
+  <scripts id="999c77">44cbe70f4e2a0fa2</item>
+  <traces id="f434de">session</item>
+  <ingress id="0ad5e8">b6d3110628b4243c</item>
+  <udp id="36807b">199.67.190.207</item>
+  <driver id="7b16b5">3947</item>
+  <scheduler id="64b566">62e175eeec0d0c0b</item>
+  <token id="adffe1">e536f2a9db131f87</item>
+  <mocks id="cf83e7">true</item>
+  <dhcp id="ee714e">common-buffer</item>
+  <env id="26937a">211.123.106.182</item>
+</root>

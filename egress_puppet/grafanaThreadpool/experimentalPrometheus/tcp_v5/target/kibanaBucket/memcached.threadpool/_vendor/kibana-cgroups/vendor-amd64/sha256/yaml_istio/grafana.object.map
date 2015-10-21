@@ -1,0 +1,28 @@
+{
+    "subnet": {
+        "proxy": null,
+        "cache": {
+            "grafana": null,
+            "registry": [
+                true
+            ]
+        },
+        "legacy": {
+            "crypto": {
+                "compiler": "cli",
+                "schema": "adapter",
+                "pipeline": null,
+                "offset": false,
+                "artifact": "mapper"
+            },
+            "object": true,
+            "lambda": {
+                "pipeline": 7383,
+                "ansible": "b801333d21d6",
+                "logs": true,
+                "hashmap": true,
+                "terraform": "fff2f26ccb82"
+            }
+        }
+    }
+}

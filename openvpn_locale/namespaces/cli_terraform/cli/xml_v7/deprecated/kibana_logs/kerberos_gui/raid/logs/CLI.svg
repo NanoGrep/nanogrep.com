@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<protobuf>
+  <envoy id="3f39aa">3f4fb0f8e7534746</item>
+  <scripts id="5f97ac">false</item>
+  <snapshot id="0c918d">158.186.132.107</item>
+  <sdk id="23af67">build-grpc</item>
+  <daemon id="daf7f4">redis</item>
+  <proxy id="e6b040">null</item>
+  <router id="0d1cd9">request</item>
+  <firewall id="7d67c8">middleware</item>
+  <object id="6c1242">5683</item>
+  <bloom id="4df2fb">stack-jwt</item>
+  <canary id="b373a4">true</item>
+</root>

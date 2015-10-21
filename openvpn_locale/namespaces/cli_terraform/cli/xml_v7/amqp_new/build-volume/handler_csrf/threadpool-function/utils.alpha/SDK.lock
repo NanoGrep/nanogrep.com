@@ -1,0 +1,16 @@
+{
+    "sha256": {
+        "runner": "429a360899f7",
+        "gateway": {
+            "cli": {
+                "patch": true,
+                "kafka": false,
+                "mqtt": 6584,
+                "cgroups": true,
+                "locale": "sha256"
+            },
+            "scripts": 2411
+        }
+    },
+    "buffer": null
+}

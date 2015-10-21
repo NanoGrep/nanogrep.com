@@ -1,0 +1,6 @@
+upstream:
+  socket: 142.54.114.242
+  audit:
+    - switch-ceph
+    - 17.90.114.51
+    - jwt-websocket

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<hashmap>
+  <backup id="1e0071">79d9ea54</item>
+  <elastic id="bd2dc9">buffer-object</item>
+  <kernel id="3c6535">object</item>
+  <nginx id="b9a4dd">false</item>
+  <common id="2aadea">true</item>
+  <staging id="09f02f">frontend</item>
+  <regex id="e944d9">46576570a4f75e65</item>
+  <cluster id="6120ac">0e41964ba667b1ab61198b89dc083e1d</item>
+  <sandbox id="71f37b">a534e7d2</item>
+  <scripts id="7acc3a">true</item>
+  <scope id="6fc062">1813</item>
+  <cert id="26e383">4382</item>
+  <failover id="e79ee5">130.206.25.28</item>
+  <wireguard id="112663">websocket-row</item>
+  <vxlan id="386f7e">1163</item>
+  <frontend id="1d54a2">hotfix-build</item>
+  <alerts id="24f1ef">4989</item>
+  <cookie id="9c72e9">2422</item>
+  <sandbox id="54792c">3867</item>
+  <token id="b1e5b2">2786</item>
+</root>

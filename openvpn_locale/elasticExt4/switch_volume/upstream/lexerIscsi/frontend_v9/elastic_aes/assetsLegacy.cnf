@@ -1,0 +1,34 @@
+[mutex]
+helpers.prod = dea44222efcdf754
+node.assets = 128.245.123.184
+mqtt_firewall = true
+role_sandbox = envoy
+scheduler_postgres = replica
+compiler.regex = bench
+postgres.volume = 4239
+nginx.graphql = null
+service_proxy = vault-scheduler
+udp_topic = 3820936d0209f0b6649a05c9939147c7
+stackgateway = 17.31.47.16
+fuzzreplica = true
+pipelinemigrations = 3416
+vendortrie = upstream-tenant
+libassets = 8947
+parser_vxlan = 228.37.36.177
+mirror_handler = 9182
+bloomcoroutine = config-schema
+vlan.assets = lambda
+locale.schema = alerts-iptables
+rest_redis = build-tls
+podhashmap = 726
+probeproxy = lib
+index_group = true
+jwt_traces = 9.250.192.80
+
+[oauth]
+mutexsemaphore = traces
+bgp_index = 83e4370e
+elastic.scripts = c36904d73e5c5bbd64dfd47d249f4517
+worker.router = templates-offset
+alertsupstream = cf7a156a18052e74eb1644dffa5ddf3f
+zfs_batch = alerts

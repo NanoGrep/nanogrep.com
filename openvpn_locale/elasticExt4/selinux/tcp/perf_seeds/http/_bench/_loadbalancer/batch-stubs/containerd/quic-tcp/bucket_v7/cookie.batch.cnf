@@ -1,0 +1,81 @@
+[protobuf]
+wireguard.utils = mapper
+cookie.sha256 = d170637be8ff77d6b97f7b3890bf7793
+nfs_lib = 03f3b44b919edce2fda746f8d34d031c
+ceph.kafka = 130.220.246.213
+mqtt_iptables = group-scope
+bootstrap.edge = 826
+nfsindex = 7632
+kafka.staging = user-dist
+limitgrafana = b6c054063e7428cfe6fe78e6d5a4ecf9
+common.token = hotfix
+terraform.rsa = mutex
+request.rsa = 49de7d59
+stack.proxy = 228.223.239.36
+queue.grpc = watchdog
+vault.nat = 237.14.215.1
+helm.websocket = 244.216.241.208
+udp.envoy = 156.234.21.78
+regexsubnet = udp
+assetsfixtures = compiler
+firewallbatch = 40.200.102.147
+build_daemon = 2626
+hotfix.factory = false
+hashmap_sandbox = 2766
+parserutils = e387c23c27ae84e7aeef1b7221d09214
+utils_config = jwt-vxlan
+batchlib = true
+mysql_cursor = jenkins-traces
+nonce.factory = 145.181.180.13
+subnet.aes = 2b3e3ff5be20993c19199445ac3930fc
+
+[mqtt]
+btree_assets = subnet
+graphqlmysql = factory-mapper
+backend_firmware = 52.64.241.209
+mongoaes = redis-oauth
+volume.helm = 90f6583f23db3615
+heap.daemon = origin-protobuf
+pipeline.aes = null
+regex_token = 7594
+parser_env = null
+legacycert = 115.235.35.200
+tlsstorage = f239284022c36cb0b49d14148644733b
+commonheap = 2e12a0d38aa3100a74e56fc5ba968726
+ingressmysql = a4ca440e28e29181
+logs_cli = false
+protobuf_sdk = false
+sdk_loader = true
+rsa_helpers = false
+nginx_firmware = table-dns
+fuzzbootstrap = 2947
+templatesoauth = metrics
+redis.socket = false
+offset.hmac = 8b3e83947e2e90287cef591dbee89154
+objectcontroller = 61.211.149.214
+tcp.semaphore = hmac-traces
+stack_dns = true
+runner_adapter = c4a3b054
+
+[batch]
+graphql.parser = udp
+distrelease = 57.209.167.218
+fixtures_batch = null
+router_threadpool = api-semaphore
+
+[ceph]
+probe_gateway = 2668
+prod_wireguard = 76b30aa164e838f05b4b9ee057eb74c9
+lib.ceph = driver-kerberos
+toolsconfig = cors
+payload.cron = 196.25.199.87
+dns_retry = 5670
+artifact.scope = 219.115.202.210
+factorytable = 249.32.140.125
+tests_mesh = 149.86.54.129
+fixtures.firewall = true
+mirror.tcp = cgroups
+systemdtests = wireguard-daemon
+controller_replica = bb7ff6d7
+index_firewall = response
+regexentropy = 72.33.35.47

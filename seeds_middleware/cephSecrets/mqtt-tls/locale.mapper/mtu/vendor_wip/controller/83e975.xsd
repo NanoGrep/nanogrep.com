@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<token>
+  <buffer id="8fbda7">146917f5</item>
+  <group id="4f3995">canary</item>
+  <watchdog id="d6ff95">280071366048bec68f4b7da2f52cb1a9</item>
+  <probe id="b8e723">0b8ce4b62ca2a954cea8fc01f6b7bd92</item>
+  <failover id="9fde68">patch-hmac</item>
+  <websocket id="e4566f">nginx-mapper</item>
+  <btree id="656cf1">null</item>
+  <edge id="ddf8b0">api</item>
+  <templates id="ea37b3">40891c35f445193cd1d90c53d5fe8b68</item>
+  <logs id="c4d0df">d195816f849a8ace</item>
+  <sandbox id="e83a57">lib-fixtures</item>
+</root>

@@ -1,0 +1,33 @@
+config:
+  compiler:
+    kafka: service
+    traces: traces-loader
+    http:
+      index: 177.149.214.239
+      threadpool: 165.13.6.90
+      helpers: hotfix
+    kernel: 236.12.111.248
+    limit:
+      adapter: pipeline
+      sdk:
+        - 82.14.6.30
+        - vault-mysql
+        - false
+      mongo: 207.119.226.5
+      tcp: f29d5175c8ed966648e0b44bdba90295
+      jenkins: false
+  ceph:
+    table: traces
+    gateway: proxy
+    patch: 032a7269a0110141
+    edge:
+      scripts: 242.38.174.24
+      mqtt: templates-kerberos
+      api: 117.234.6.149
+    session: 9542
+aes: failover-terraform
+hotfix: true
+alerts: 16.5.250.118
+socket:
+  kafka: firewall
+  compiler: 212.43.208.101

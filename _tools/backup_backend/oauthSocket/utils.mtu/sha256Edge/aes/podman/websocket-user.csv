@@ -1,0 +1,16 @@
+router,regex,mirror,user,prometheus,vlan,trie
+211.245.195.218,controller-kernel,node-trie,false,138.39.116.53,4480,token-worker
+99.10.2.47,true,batch-prometheus,jwt,null,b18b3196002230cad91e494a3d10d8a1,7915
+systemd-jenkins,928,9c2658d4ea033025b874ce75b12c8f4d,3453,null,redis,714a47fada7638c9
+udp,36182072405461ec021ff11b2f251b56,78a115eae45815c0,433f007cae00060b,213d183a,53.199.43.110,vendor-router
+237.18.47.215,limit-cookie,6901,hashmap-grafana,159.39.151.67,true,udp-bgp
+salt,btree-index,29a6ae664781ba3f07154299f1f47a86,197.189.29.18,false,cache,coroutine
+65703a1a,e8e1239389c4523d206bf5cd3fd325c1,125.65.158.183,29.161.229.49,true,563,5362
+3664,7d666cbf,8497,batch-iptables,true,6234,c2345ef6
+108.244.70.68,origin-firewall,196.108.182.148,upstream-mesh,146.142.124.33,5014,59.69.73.38
+hmac,40.63.251.83,topic-udp,mapper-token,647828f9d6b525cf63ddebee1ecb26da,ingress-tenant,handler-mesh
+factory-rest,156.42.39.106,1975,grafana-table,dhcp,true,150
+64.179.42.211,graphql,vlan,heap-ceph,250.187.24.98,stream,126.36.218.42
+054647ca44472649,cluster-mirror,1404,95.29.143.198,64.157.46.232,dhcp-cluster,subnet-kerberos
+snapshot-trie,prod-patch,router,column-iptables,bb4240e284c6ea77d3a5de27bdf53aab,stack,104.196.106.225
+null,socket-cli,graphql-sdk,nfs-object,cursor,false,probe

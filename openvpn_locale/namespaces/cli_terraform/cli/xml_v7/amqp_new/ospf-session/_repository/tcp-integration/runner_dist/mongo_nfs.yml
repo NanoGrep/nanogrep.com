@@ -1,0 +1,7 @@
+coroutine:
+  cluster: scripts-nightly
+zfs: 48.202.143.151
+bootstrap: false
+metrics: index-yaml
+session: watchdog-topic
+sha256: 1627

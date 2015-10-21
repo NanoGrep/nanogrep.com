@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<templates>
+  <cgroups id="bc7629">8032</item>
+  <failover id="994d76">b04169af439364ef</item>
+  <watchdog id="b3ecd8">kernel-volume</item>
+  <compiler id="99c013">a47eb299f244b4f6</item>
+</root>

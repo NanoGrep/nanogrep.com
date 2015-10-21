@@ -1,0 +1,17 @@
+driver: mysql
+shard:
+  socket:
+    elastic:
+      yaml: false
+      router: 8d4edea8
+      oauth: http-dns
+      traces:
+        - true
+    cursor:
+      - 8387
+    snapshot: 8496
+    cron: upstream
+    terraform: 6323
+  config: scheduler-volume
+salt: cookie
+iptables: 253.114.129.138

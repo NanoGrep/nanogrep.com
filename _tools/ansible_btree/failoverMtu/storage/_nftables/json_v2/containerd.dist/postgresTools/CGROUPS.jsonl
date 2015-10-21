@@ -1,0 +1,33 @@
+{
+  "node": {
+    "cookie": [
+      [
+        true
+      ],
+      true,
+      "49aa63147dc7"
+    ],
+    "edge": {
+      "tenant": true,
+      "registry": [
+        null,
+        2203,
+        null
+      ],
+      "rollback": true,
+      "offset": {
+        "shard": false,
+        "artifact": null,
+        "rollback": "375345a8b5fb",
+        "mongo": "107ebcbda063"
+      }
+    }
+  },
+  "controller": {
+    "backend": {
+      "locale": [
+        null
+      ]
+    }
+  }
+}

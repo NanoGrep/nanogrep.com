@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<vlan>
+  <driver id="dfb4e9">false</item>
+  <bloom id="b26af9">b33b519f</item>
+  <cluster id="9389b7">role-daemon</item>
+  <mongo id="f990fa">true</item>
+  <retry id="7e94cc">20.184.51.113</item>
+  <kerberos id="fa5e81">socket</item>
+  <cli id="6d2069">token-offset</item>
+  <trie id="c1b9a2">null</item>
+  <lib id="505f7f">node-build</item>
+  <storage id="7c950f">bench-mocks</item>
+  <request id="1d77b3">false</item>
+  <lib id="ee008c">nightly</item>
+</root>

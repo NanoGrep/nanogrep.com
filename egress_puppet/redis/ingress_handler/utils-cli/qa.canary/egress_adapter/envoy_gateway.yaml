@@ -1,0 +1,30 @@
+coroutine:
+  - e0c6097ebacdb29ebeee6b7bcea1c9df
+  - 742c5ac92bafae1181da662266bf582b
+  - 225.38.150.142
+  - origin
+driver:
+  scope: socket
+  snapshot:
+    payload:
+      oauth: true
+      envoy: 95.228.32.145
+      migrations: 226.149.147.134
+    tls: aes
+    config:
+      grafana: 173.151.93.59
+      proxy: router
+      redis:
+        - 47.203.49.4
+        - ad969931
+        - false
+        - failover
+      json: 9978
+    hashmap: 56.52.93.107
+    buffer: core
+  backup: 21ec0fa748ff3342
+  aes: 845220719f60521fe15428dcf1d46e2d
+postgres: 165.105.223.126
+batch: 10.222.91.73
+vault: 74.191.93.39
+stack: semaphore

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<edge>
+  <lexer id="c4d303">8369</item>
+  <vault id="c06b56">true</item>
+  <zfs id="c5f7ac">6.87.164.59</item>
+  <handler id="bc4b40">false</item>
+  <threadpool id="d64579">prod-batch</item>
+</root>

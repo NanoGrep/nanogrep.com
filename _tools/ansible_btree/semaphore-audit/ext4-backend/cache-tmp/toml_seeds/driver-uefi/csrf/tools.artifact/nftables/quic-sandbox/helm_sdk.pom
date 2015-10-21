@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<vendor>
+  <policy id="7f81a4">true</item>
+  <replica id="400e5d">null</item>
+  <terraform id="c14073">570ad83d</item>
+  <limit id="60c1f1">scheduler-nightly</item>
+  <kafka id="b73933">5056</item>
+  <cookie id="2010ba">4612</item>
+  <tools id="9eeeb5">mapper-index</item>
+</root>

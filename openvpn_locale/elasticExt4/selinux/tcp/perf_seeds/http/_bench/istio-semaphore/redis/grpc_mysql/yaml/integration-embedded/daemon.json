@@ -1,0 +1,1 @@
+{"schema": {"postgres": {"nightly": {"config": "27967d677a95", "helpers": "0d5b9a1ebc8f", "beta": "e7229eff33c0"}, "mongo": ["vault", true], "adapter": ["feb1d786ce42", null, "cursor"], "patch": [false, "8d4cc377b230", true, false], "service": [false, 5216], "alerts": "7a59e5059d3c"}}}

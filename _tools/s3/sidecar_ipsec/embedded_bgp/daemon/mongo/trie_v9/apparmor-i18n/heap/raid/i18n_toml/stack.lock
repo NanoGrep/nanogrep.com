@@ -1,0 +1,9 @@
+{
+    "grafana": {
+        "handler": "wireguard"
+    },
+    "metrics": {
+        "rsa": "cache"
+    },
+    "mesh": false
+}

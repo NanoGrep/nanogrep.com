@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<retry>
+  <kafka id="471b79">b8a1f4f7fe22d62a</item>
+  <dist id="7ae6ea">702</item>
+  <group id="d9942a">mqtt-env</item>
+  <config id="3266d9">ec6071a7</item>
+  <metrics id="73a722">47.244.196.104</item>
+  <grpc id="903d15">200.103.53.28</item>
+  <snapshot id="bc8f01">core</item>
+  <handler id="a9bdd6">false</item>
+  <metrics id="9ef056">4f52e5a6</item>
+  <table id="806ffa">false</item>
+  <scripts id="65796b">crypto-request</item>
+  <rollback id="2de48e">6c11610422941c8233ed7f3e30e8c94e</item>
+  <cli id="9cccfa">1904</item>
+  <session id="464c10">114.149.235.126</item>
+  <cookie id="ce8b1f">2241</item>
+  <router id="fc9ed9">true</item>
+  <object id="aa98ba">702</item>
+  <common id="dd5817">null</item>
+  <templates id="aaf7f0">87.222.35.252</item>
+  <pod id="177e09">router-backup</item>
+  <vxlan id="40724e">true</item>
+  <token id="d8625e">sandbox</item>
+  <ansible id="ac4b14">2765</item>
+  <vlan id="0d5fea">2bb0fa2025fa1bf1</item>
+</root>

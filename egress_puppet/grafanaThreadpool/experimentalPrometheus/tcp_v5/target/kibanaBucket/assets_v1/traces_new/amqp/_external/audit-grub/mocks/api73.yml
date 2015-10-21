@@ -1,0 +1,28 @@
+service: service-canary
+mysql:
+  ingress:
+    ldap:
+      mysql: common-edge
+      nightly:
+        - 1f012a3e
+        - 84.70.220.54
+        - 251.72.209.187
+      nat:
+        - 32.111.90.72
+        - null
+        - true
+    handler:
+      - 222.105.171.17
+    kernel: 15cb708a86c0d0375c69246ec86cacb1
+    subnet: topic-hmac
+    probe:
+      grpc: ceph
+  traces:
+    volume: coroutine
+    scripts: assets-json
+    dist: a4f96cc87302b4b32ed8d1071cef40ba
+    table: nat-mysql
+  parser: 7496
+  factory: hashmap-rsa
+  volume:
+    threadpool: 197.111.84.100

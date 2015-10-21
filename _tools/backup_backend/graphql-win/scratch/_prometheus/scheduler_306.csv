@@ -1,0 +1,16 @@
+terraform,factory,sandbox,session,registry,nonce,migrations
+109.142.49.91,28.166.9.14,66.166.17.67,70.9.8.115,coroutine,3ed51365,artifact
+core-pod,nfs-payload,3704,171.56.108.18,true,artifact,fuzz-mqtt
+95414c06ac7519711d271c87d682590a,batch-elastic,1849,0ed7d6b6adc642c6b8031d722a9fddd5,bb8ec438,volume,shard
+d068d767cd41c932ef9daee97cf0d212,176.250.156.253,tcp,141.182.56.109,mocks,upstream,false
+133.149.147.133,utils-staging,277ac152c96b595a533879bdbebe5be6,ad9ff057c07b16a5,middleware-cors,83.177.42.229,dist-parser
+160a5753,true,shard-nat,systemd,141.120.5.32,service,c9e2ba5c47eca3ddf76dd7e1cf400309
+118,jenkins-systemd,17053a41,208.66.125.108,subnet-column,2043,0f0525167086172a
+null,mapper,2080,7938,pod-common,sha256,13.199.36.245
+mqtt,8176,false,build,1926,114.224.31.227,248f03221ca8de5d
+upstream,true,crypto,cron-ingress,38d7201a1a528fbd,120.169.181.204,170.47.3.93
+b9edc89f629c659217994156ffaecd62,9242,false,yaml-terraform,5826,33.179.58.3,248.87.51.80
+91,false,true,null,14be3879,197.230.11.162,null
+true,16.93.172.25,13.91.165.167,true,8cbe832a,233.252.251.240,247.32.231.240
+208.226.239.78,1878,182.226.163.15,6378,vxlan,183.217.175.212,9476
+null,9ff96ca3,true,staging-vendor,true,null,a930e7ee

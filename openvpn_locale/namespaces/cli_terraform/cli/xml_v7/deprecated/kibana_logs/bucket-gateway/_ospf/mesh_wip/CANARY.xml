@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<scheduler>
+  <sha256 id="1d31be">fb93f204b961b6ffc2738c2b2861ccb8</item>
+  <scheduler id="d172af">null</item>
+  <vault id="186039">103.234.38.134</item>
+  <jenkins id="5a8bbd">null</item>
+  <bucket id="4e65a7">nightly-jwt</item>
+  <scripts id="46987d">7574</item>
+  <dhcp id="f6706d">b0e506a7e21cf02e</item>
+  <policy id="222e0b">true</item>
+  <middleware id="3d989b">6cbb35adc6efec71294053f97144c0bd</item>
+  <assets id="c2cc22">nfs-ldap</item>
+  <cors id="58919a">3244</item>
+  <postgres id="19cbe4">crypto</item>
+  <cert id="aeddf3">trie</item>
+  <nginx id="47ccbc">coroutine</item>
+  <offset id="9a9ca1">false</item>
+  <storage id="0afc62">null</item>
+  <daemon id="32c096">core-core</item>
+  <logs id="38bba2">true</item>
+</root>

@@ -1,0 +1,37 @@
+stream:
+  pipeline: backup-postgres
+  dist:
+    buffer:
+      limit: 8649
+      subnet: 6461
+      iptables: null
+      ldap: false
+      buffer: 109.157.171.96
+    node: null
+    router: 6590
+    node:
+      raid: null
+      index: null
+      canary: 103.103.117.254
+      config: bfcf64813b25b317
+      nginx:
+        - token-btree
+        - null
+        - btree-mutex
+        - stack-mongo
+  kernel:
+    - origin-grafana
+  retry: 233.97.35.41
+  buffer:
+    - 149.92.180.71
+    - 203.233.153.114
+    - b76075e8
+  rsa: e693dfc24f40f8badb4b63bf7e771eea
+tls:
+  replica: prod-rest
+  mutex:
+    probe: 141.62.24.105
+    core: 33.112.5.75
+pod: limit
+tenant: 6338
+bucket: 1606

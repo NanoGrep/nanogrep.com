@@ -1,0 +1,24 @@
+redis: mapper
+config:
+  - true
+  - 1e030e0cc66765f8
+build: 2774
+patch: 2f54b7cdbc6ac83e
+tools:
+  cluster:
+    metrics: 171.233.208.7
+    bench:
+      request: cgroups
+      parser: 8658
+      tenant: mysql
+    config: 156.148.241.187
+    topic: nonce
+    release:
+      role: c1ab4c79080e4d86
+      staging: 829
+      limit: 160.124.205.213
+    subnet:
+      bench:
+        - 5d29cef8617010504c4a9a91d8f8e533
+        - 215.17.102.183
+  utils: true

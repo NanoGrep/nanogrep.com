@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<service>
+  <sha256 id="d43a84">076bc59099aff13f0f03507935d1e65f</item>
+  <templates id="b926e5">buffer</item>
+  <ansible id="96ad2a">48.247.220.120</item>
+  <kerberos id="d14be6">graphql-worker</item>
+</root>

@@ -1,0 +1,39 @@
+{
+  "sandbox": true,
+  "limit": [
+    [
+      null
+    ],
+    "5d34e65f4040",
+    [
+      {
+        "locale": false,
+        "mutex": true,
+        "token": true,
+        "patch": false,
+        "pod": true,
+        "service": true
+      },
+      {
+        "worker": "2b7d6c818e53",
+        "lexer": false,
+        "loader": null,
+        "iptables": 7259,
+        "payload": "mysql"
+      }
+    ],
+    [
+      "api",
+      {
+        "sha256": "6248f6d0a81b",
+        "node": null,
+        "snapshot": false,
+        "helpers": "column"
+      },
+      null,
+      {
+        "metrics": true
+      }
+    ]
+  ]
+}

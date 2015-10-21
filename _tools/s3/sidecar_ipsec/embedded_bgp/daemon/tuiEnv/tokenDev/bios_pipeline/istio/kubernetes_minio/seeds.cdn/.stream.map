@@ -1,0 +1,65 @@
+{
+    "ansible": null,
+    "probe": {
+        "firewall": {
+            "salt": null,
+            "cookie": false,
+            "release": {
+                "origin": "mapper",
+                "assets": "c09a697ca342",
+                "worker": "iptables",
+                "beta": false,
+                "heap": true,
+                "ingress": "mirror"
+            },
+            "lambda": false,
+            "registry": {
+                "nonce": null
+            }
+        },
+        "hmac": [],
+        "tcp": [
+            {
+                "offset": "mesh",
+                "prod": null,
+                "bloom": "f697c3a3cf28",
+                "runner": "redis",
+                "metrics": false,
+                "scripts": null
+            },
+            false,
+            {
+                "kafka": "nonce",
+                "terraform": 1983,
+                "nginx": true,
+                "volume": true
+            }
+        ],
+        "mirror": {
+            "mocks": {
+                "cors": false,
+                "jenkins": false
+            },
+            "dist": {
+                "middleware": null,
+                "group": 2745,
+                "failover": null,
+                "index": 5683,
+                "rsa": "50a9b3189890",
+                "nfs": "47b8a002c169"
+            },
+            "cert": [],
+            "bucket": {
+                "templates": "switch"
+            },
+            "tenant": {
+                "cgroups": null,
+                "object": null,
+                "probe": "d70a1069c719"
+            }
+        },
+        "grafana": true,
+        "schema": []
+    },
+    "cursor": null
+}

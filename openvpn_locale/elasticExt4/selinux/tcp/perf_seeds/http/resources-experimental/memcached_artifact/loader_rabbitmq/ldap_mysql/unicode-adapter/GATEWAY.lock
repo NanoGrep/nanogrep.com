@@ -1,0 +1,89 @@
+{
+  "hmac": "4f5f4ae0d9c1",
+  "tenant": [
+    {
+      "controller": {
+        "backup": false,
+        "upstream": true,
+        "prometheus": false,
+        "adapter": "crypto"
+      },
+      "wireguard": {
+        "vxlan": false,
+        "utils": 3961,
+        "response": null,
+        "config": false,
+        "rsa": true
+      },
+      "nginx": {
+        "snapshot": "da2bcbae982d",
+        "iptables": "nat",
+        "mqtt": null,
+        "cert": "6a4659d4f0ec",
+        "tcp": false
+      }
+    },
+    null
+  ],
+  "row": {
+    "cli": {
+      "mirror": {
+        "oauth": "redis",
+        "utils": true,
+        "origin": 8354,
+        "prometheus": 4341,
+        "postgres": 9727
+      },
+      "tls": {
+        "probe": true,
+        "cert": null,
+        "cron": "a2bc8bb61a09",
+        "backup": true
+      },
+      "offset": {
+        "row": null,
+        "daemon": false,
+        "graphql": null,
+        "vault": "8e45b09d3db6",
+        "stream": null,
+        "payload": true
+      },
+      "iptables": null
+    },
+    "scheduler": "sha256",
+    "ansible": {
+      "adapter": {
+        "backend": "terraform"
+      },
+      "cron": {
+        "rest": false,
+        "migrations": "96dc8a76d4c9"
+      },
+      "batch": null
+    },
+    "origin": {
+      "helm": [
+        3521,
+        true,
+        true,
+        "firewall"
+      ],
+      "coroutine": {
+        "entropy": 8111,
+        "stream": "lambda",
+        "registry": true,
+        "cert": "cli"
+      },
+      "dhcp": {
+        "runner": true,
+        "table": "prometheus",
+        "backup": true,
+        "crypto": "batch"
+      },
+      "sdk": [
+        7669,
+        3254
+      ]
+    }
+  }
+}

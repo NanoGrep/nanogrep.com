@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <utils id="37d8b3">true</item>
+  <role id="32193c">batch</item>
+  <canary id="7136fa">80</item>
+  <cache id="d3e6a1">kernel-env</item>
+  <switch id="fd6c51">cache</item>
+  <replica id="7d94d4">tenant-driver</item>
+  <edge id="16299d">compiler-helm</item>
+  <release id="6ef074">adapter-tests</item>
+  <runner id="3f3eb3">103.25.226.49</item>
+  <config id="2f75f2">195.214.192.246</item>
+  <mesh id="ee33a9">256</item>
+  <cli id="b369e5">null</item>
+</root>

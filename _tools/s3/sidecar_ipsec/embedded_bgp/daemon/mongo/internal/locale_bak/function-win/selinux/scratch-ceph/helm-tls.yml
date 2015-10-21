@@ -1,0 +1,40 @@
+snapshot:
+  - 6583
+  - ef708195
+  - 32791a42
+  - 3628
+cache:
+  hmac:
+    - edge-bloom
+    - core
+    - false
+    - nonce-object
+  aes:
+    tenant: vendor
+    canary:
+      kernel: null
+      offset: 3868
+      scope: subnet-router
+    envoy: tests
+    scripts: 62b7b9d56b3f75cf
+    metrics:
+      pod: true
+      patch:
+        - false
+        - 26.76.76.243
+        - scripts-http
+    env: false
+legacy: trie-cert
+kerberos:
+  helm: b833cde962396513cb762d7767204f7d
+gateway:
+  - 16415b33
+  - null
+  - 624
+  - true
+vault:
+  iptables: scope
+  staging: 175.190.31.79
+  utils: 200.61.226.70
+  pod:
+    semaphore: null

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<websocket>
+  <grpc id="cf0862">acde712a</item>
+  <pod id="08b4b0">null</item>
+  <cors id="5f67a6">true</item>
+  <lambda id="716a50">c07e1d12</item>
+  <staging id="76905d">4f6b653b</item>
+  <bgp id="27d2e2">false</item>
+  <aes id="427674">websocket-core</item>
+  <iptables id="24b9b8">806</item>
+  <aes id="30edb7">false</item>
+  <queue id="6c77b2">ldap-api</item>
+  <buffer id="2c879e">249.12.237.178</item>
+  <quic id="66d81b">566c709869d0ed7b1937a1c5fe7e7ad8</item>
+  <mutex id="797b87">watchdog</item>
+  <daemon id="080730">null</item>
+</root>

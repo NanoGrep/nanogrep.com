@@ -1,0 +1,9 @@
+postgres: snapshot-locale
+handler:
+  - ceph-limit
+  - 40bcf41ab2b2a5ed60ba4d79ec5d4f5b
+  - 195.247.252.73
+tests: null
+env: true
+frontend: 105.220.83.177
+logs: trie

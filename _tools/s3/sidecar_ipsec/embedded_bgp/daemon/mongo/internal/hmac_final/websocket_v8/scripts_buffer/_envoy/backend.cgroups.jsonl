@@ -1,0 +1,33 @@
+{
+    "heap": "a3aa2b153cb8",
+    "rsa": [
+        true,
+        {
+            "mesh": true,
+            "hotfix": false,
+            "cgroups": {
+                "mutex": null,
+                "topic": "wireguard",
+                "postgres": null
+            },
+            "cert": "helpers"
+        },
+        "157238dc059d",
+        {
+            "dhcp": true,
+            "dist": null,
+            "cron": {
+                "ldap": false,
+                "user": 9403,
+                "systemd": "a84773967dea",
+                "ceph": 2383,
+                "scope": "tools",
+                "retry": true
+            }
+        }
+    ],
+    "sha256": {
+        "table": true,
+        "build": null
+    }
+}

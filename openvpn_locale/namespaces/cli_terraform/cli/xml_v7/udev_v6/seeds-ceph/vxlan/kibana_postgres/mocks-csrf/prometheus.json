@@ -1,0 +1,46 @@
+{
+    "proxy": false,
+    "core": {
+        "grpc": true,
+        "mirror": "queue"
+    },
+    "regex": {
+        "row": [],
+        "nonce": "46c427e76133",
+        "locale": [
+            false,
+            "staging",
+            false
+        ],
+        "semaphore": null,
+        "cli": true,
+        "graphql": [
+            {
+                "tls": "9282aca22172",
+                "hmac": true,
+                "retry": "f0dee0f6e0cf",
+                "quic": "common"
+            }
+        ]
+    },
+    "cert": [
+        [],
+        6007,
+        "vault"
+    ],
+    "dhcp": {
+        "cron": {
+            "fixtures": {
+                "regex": "d340ed786aa5",
+                "fuzz": 8322,
+                "iptables": false,
+                "service": null
+            },
+            "ceph": false,
+            "bloom": {
+                "mysql": null
+            }
+        },
+        "helm": true
+    }
+}

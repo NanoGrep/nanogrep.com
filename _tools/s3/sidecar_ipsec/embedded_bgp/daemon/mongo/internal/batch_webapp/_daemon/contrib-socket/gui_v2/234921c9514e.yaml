@@ -1,0 +1,26 @@
+api:
+  firewall: true
+  nonce: null
+  quic:
+    user:
+      vlan: json-tests
+      grafana: 186.157.223.170
+    firewall:
+      ceph: mesh-proxy
+      raid: null
+      middleware: 96e0614accc79812
+      redis:
+        - raid
+        - cors
+      nfs: 102.94.172.91
+    mocks:
+      rollback: 402bfae1
+      postgres:
+        - 7725
+      cookie:
+        - oauth
+        - compiler-sandbox
+    protobuf: true
+  buffer: ceph-wireguard
+  mesh: 28e3ac5c3905dc500f3b638d3cacbb5c
+  token: sha256

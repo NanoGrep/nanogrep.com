@@ -1,0 +1,16 @@
+[
+    {
+        "cli": 3089,
+        "stack": true,
+        "loader": {
+            "traces": null,
+            "limit": {
+                "assets": null,
+                "cluster": "utils",
+                "volume": "b2ef102715d9",
+                "metrics": "postgres",
+                "zfs": false
+            }
+        }
+    }
+]

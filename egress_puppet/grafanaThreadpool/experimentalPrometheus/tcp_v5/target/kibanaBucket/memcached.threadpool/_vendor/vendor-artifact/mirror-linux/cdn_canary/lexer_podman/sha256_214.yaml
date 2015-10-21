@@ -1,0 +1,6 @@
+lexer: scheduler-vault
+dns: lib
+gateway:
+  - 5262
+  - nightly
+  - 611df917a3bcb025e75aefda20a50268

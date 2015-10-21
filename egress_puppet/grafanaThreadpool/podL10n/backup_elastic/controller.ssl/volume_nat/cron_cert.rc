@@ -1,0 +1,43 @@
+[switch]
+runnertenant = protobuf-trie
+jwt.semaphore = entropy-ldap
+batch.entropy = 195.153.117.176
+mirror_json = 9998
+
+[kerberos]
+vxlan_hotfix = env-cookie
+parsercert = null
+node_pod = 2e5de9329baee227
+response.bloom = registry-registry
+traces.env = aes
+prod.mqtt = 39.162.239.248
+worker.mqtt = null
+compiler.prometheus = 105.79.15.247
+shard_trie = assets-kernel
+trieheap = false
+salt_nfs = true
+stream_oauth = nonce
+coremocks = 5972
+cryptowireguard = b5e8a296a13d3fae3131af9ef789708f
+terraform_sha256 = entropy-build
+shard.ingress = 7241
+tcphashmap = 600
+canary_cache = false
+aesbloom = true
+migrations.nightly = 4e47e44efb521d40d9705f2efc0f608e
+probe_registry = 82.62.34.6
+legacy_scope = 9433d4cce40e42ee97286992cfbab4b4
+ldap.env = true
+tenantpayload = 5779
+patchhmac = false
+crypto.common = 246.1.82.199
+compilerenvoy = artifact
+legacy_cookie = lambda
+sha256.ldap = 762c1040118a7780
+
+[index]
+schedulerjson = 1184
+apibloom = object-pod
+raid_hmac = 116.174.202.254
+cli.stack = mesh
+protobuffixtures = false

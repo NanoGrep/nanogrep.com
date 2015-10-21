@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<metrics>
+  <threadpool id="53c54e">null</item>
+  <backup id="d11b72">5245</item>
+  <sdk id="b9d10f">3774</item>
+  <retry id="f22ebe">volume</item>
+  <fuzz id="5bde2f">tools</item>
+  <object id="98bd7d">1d53c5e04ddd2a4a8116d612f7826f58</item>
+  <router id="ad7d4e">237.65.117.199</item>
+  <lexer id="a9633b">ac01dd44</item>
+  <jwt id="f0b627">hotfix-helm</item>
+  <ceph id="a30861">7199</item>
+  <wireguard id="a9c52d">bgp</item>
+  <policy id="34ad43">16ef0207</item>
+  <role id="8a29b2">alerts</item>
+</root>

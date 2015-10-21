@@ -1,0 +1,24 @@
+[watchdog]
+router_aes = trie
+router.stream = gateway-envoy
+
+[socket]
+nginx.tools = policy
+bgp_cli = 5958
+nat_middleware = 93.78.99.71
+rollbackrequest = batch
+prometheus_firmware = false
+nginx.lexer = 3319
+iptables.handler = pod
+scope_user = 2473
+patchkernel = core
+systemd_retry = false
+cors.request = 9581
+tlsalerts = false
+vlan.row = 79254d6c
+controller.scope = 29.226.12.31
+clifirewall = 46abe5832b01166cb644a73c4e2bc58e
+sdk.replica = 67.126.136.89
+frontend.env = rollback-graphql
+ingress_volume = traces
+udp_node = 6144

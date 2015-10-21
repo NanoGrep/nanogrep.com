@@ -1,0 +1,41 @@
+jenkins:
+  buffer:
+    mongo: false
+    replica: column
+    bgp: cert-raid
+    prometheus:
+      http: queue
+      socket: 93.42.86.42
+    iptables: b5634b56ed9a54db
+    lambda:
+      upstream: 2223
+  subnet:
+    - 208.211.251.251
+storage: 128.17.139.15
+salt:
+  storage: fe9ba36272adddd1
+  fuzz: false
+  ceph: 244.60.28.208
+  regex: 104.6.60.17
+  core: grafana-http
+  response: nightly
+cli:
+  migrations: postgres-storage
+  patch:
+    socket: 6914
+    coroutine:
+      scripts: rollback
+      backend:
+        - 7f6501cc
+        - 25.128.186.165
+      semaphore: backend
+    runner: trie
+    payload:
+      tools:
+        - false
+      common: 2135
+      queue: 8.24.193.45
+    aes: 109.86.163.171
+logs: templates-tools
+pod:
+  - 6953

@@ -1,0 +1,26 @@
+daemon: subnet
+helm:
+  pipeline:
+    - 108.79.138.195
+    - canary-jwt
+    - queue-sha256
+  watchdog:
+    - 3571
+    - 744ed341
+  watchdog:
+    grafana:
+      grpc: null
+      nfs: true
+      json: 7825
+      cursor: patch-ansible
+    mqtt:
+      - 748
+      - legacy
+      - null
+      - bucket
+    http:
+      failover:
+        - c671f487
+        - graphql
+        - nightly-ceph
+retry: 2fa250067738225a

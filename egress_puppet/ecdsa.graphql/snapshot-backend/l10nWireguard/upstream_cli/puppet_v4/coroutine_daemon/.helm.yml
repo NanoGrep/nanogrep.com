@@ -1,0 +1,32 @@
+request:
+  trie:
+    storage:
+      - f32abbd62aec2323
+      - request-bootstrap
+    kafka: templates
+    ceph:
+      grafana: null
+      cron: service-udp
+      token: 111.135.13.152
+    helpers: false
+    alerts: release
+    tls:
+      session:
+        - mysql
+  fixtures:
+    factory:
+      - true
+      - 35.163.84.157
+      - 5750
+    shard: 38.57.27.186
+    token: 1248
+  hotfix: 224.138.63.123
+  cgroups: null
+  templates: 4868
+  runner:
+    runner:
+      systemd: handler-socket
+      dhcp: 106.152.209.54
+      ceph: 173.184.230.80
+      mirror: true
+    coroutine: 195.131.106.150

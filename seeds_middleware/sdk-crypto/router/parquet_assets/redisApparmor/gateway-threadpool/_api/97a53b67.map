@@ -1,0 +1,51 @@
+{
+  "upstream": true,
+  "table": [
+    "bgp",
+    {
+      "gateway": 5948,
+      "firewall": 7296,
+      "vendor": {
+        "migrations": "crypto",
+        "elastic": "cli"
+      },
+      "metrics": [
+        true,
+        "7ab8382587db",
+        "postgres"
+      ],
+      "sdk": [
+        "mongo",
+        "de4a09ec1893"
+      ]
+    },
+    7697,
+    null
+  ],
+  "hashmap": false,
+  "payload": false,
+  "cgroups": {
+    "backend": {
+      "index": [
+        false,
+        false,
+        true
+      ],
+      "mirror": false,
+      "quic": {
+        "cert": "6aeb7652f015",
+        "tls": null,
+        "topic": "65e5e821f796",
+        "postgres": "limit"
+      },
+      "postgres": {
+        "templates": 1632,
+        "driver": null,
+        "frontend": null,
+        "nginx": "topic",
+        "firewall": "mirror"
+      }
+    }
+  },
+  "tests": "be8b2810d0ca"
+}

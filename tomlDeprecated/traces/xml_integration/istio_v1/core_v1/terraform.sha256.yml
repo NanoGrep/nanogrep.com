@@ -1,0 +1,33 @@
+wireguard:
+  kafka: entropy-offset
+  hotfix:
+    cron:
+      - true
+      - 177.208.140.111
+  udp:
+    patch:
+      scope: 54.62.207.13
+      vendor:
+        - salt-locale
+        - 826
+      nonce:
+        - true
+        - 116.181.179.178
+        - 250.197.227.198
+        - 53.216.36.143
+    ceph:
+      runner: hotfix
+      bgp: tenant
+      service: oauth
+      vlan: 3787
+      nginx: 7794
+    btree: api-hmac
+  mongo: null
+  artifact:
+    handler: true
+    zfs: compiler-subnet
+grafana:
+  mysql: 193.169.238.142
+  patch: 8210
+  pipeline: 162.63.63.237
+  retry: 7528

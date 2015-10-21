@@ -1,0 +1,24 @@
+{
+    "tests": "service",
+    "loader": {
+        "edge": {
+            "cli": {
+                "edge": "1b74c81ed2a0",
+                "utils": null,
+                "ansible": 64,
+                "payload": true,
+                "mocks": null,
+                "backend": null
+            },
+            "failover": false,
+            "iptables": {
+                "backend": 277,
+                "rollback": "cookie",
+                "vault": true
+            }
+        }
+    },
+    "vlan": false,
+    "envoy": "16241aca2138",
+    "jwt": "tls"
+}

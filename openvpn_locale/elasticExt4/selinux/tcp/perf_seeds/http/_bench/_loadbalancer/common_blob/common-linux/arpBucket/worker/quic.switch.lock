@@ -1,0 +1,84 @@
+{
+    "proxy": null,
+    "offset": {
+        "jenkins": {
+            "compiler": [
+                null,
+                "0a1fc0d1a548",
+                false
+            ],
+            "origin": {
+                "subnet": "postgres",
+                "coroutine": "tools",
+                "payload": 5818
+            },
+            "role": null,
+            "mirror": {
+                "metrics": 9802
+            }
+        }
+    },
+    "patch": {
+        "aes": {
+            "response": [
+                false,
+                false,
+                false,
+                2002
+            ],
+            "templates": {
+                "ceph": false
+            },
+            "table": 7842,
+            "daemon": {
+                "object": false,
+                "mysql": false,
+                "firewall": null,
+                "nginx": "artifact",
+                "jwt": 4902
+            }
+        },
+        "crypto": true,
+        "cluster": 8045
+    },
+    "nginx": [
+        {
+            "kerberos": "index",
+            "bloom": false
+        },
+        "3cf387f4a5c8",
+        false,
+        {
+            "bench": "67564cf1b999",
+            "nfs": "6c1cb949fa81",
+            "cluster": {
+                "failover": true,
+                "backup": "8cb1744cd91f",
+                "mutex": "415f01ac58ea",
+                "crypto": null
+            }
+        }
+    ],
+    "fuzz": [
+        4411,
+        {
+            "cron": {
+                "scheduler": null,
+                "redis": 8962
+            },
+            "envoy": {
+                "worker": true,
+                "controller": null,
+                "snapshot": false,
+                "helm": "udp",
+                "nfs": "410e341ef344",
+                "jenkins": "096dd4794cb6"
+            },
+            "dhcp": {
+                "stack": "6c444dc7cca6",
+                "ldap": "bench",
+                "scheduler": "c15995ee2368"
+            }
+        }
+    ]
+}

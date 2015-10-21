@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<common>
+  <cli id="163249">true</item>
+  <release id="756e70">mysql</item>
+  <nginx id="74eed5">5330</item>
+  <regex id="86a89f">websocket</item>
+  <loader id="c4ca4f">193.158.156.18</item>
+  <runner id="9670dc">df32dab52a4c83b7c978dd715170df6b</item>
+  <backend id="cb64ed">handler-staging</item>
+  <storage id="a382e6">true</item>
+  <offset id="270422">60163d8293fc0b8b</item>
+  <cache id="0e8971">7197d124149c258e222c7a0e7fa06e72</item>
+  <config id="90e2cf">4636</item>
+  <grpc id="1fd9f7">vault</item>
+</root>

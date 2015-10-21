@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<factory>
+  <table id="1f6676">driver</item>
+  <cert id="4937b2">ingress</item>
+  <salt id="25cc9d">58.200.249.6</item>
+  <nfs id="b54d62">null</item>
+  <daemon id="33c77e">4158</item>
+  <mysql id="e245d3">b40ba175</item>
+  <nginx id="56bebc">76.228.157.64</item>
+  <yaml id="378a0c">2545</item>
+  <topic id="21f8ca">locale-router</item>
+</root>

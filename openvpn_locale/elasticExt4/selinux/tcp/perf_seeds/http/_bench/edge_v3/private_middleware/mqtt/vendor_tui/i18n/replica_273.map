@@ -1,0 +1,38 @@
+{
+    "loader": {
+        "session": {
+            "migrations": [
+                "e4cc787d7b6b",
+                null,
+                false,
+                true
+            ],
+            "oauth": [
+                1991,
+                null,
+                6091,
+                null
+            ],
+            "fixtures": "offset",
+            "cert": "payload",
+            "row": {
+                "failover": false
+            }
+        }
+    },
+    "elastic": true,
+    "release": {
+        "udp": null,
+        "row": "2c391541f035",
+        "policy": null,
+        "prod": []
+    },
+    "fuzz": {
+        "factory": false,
+        "coroutine": "sdk",
+        "switch": [],
+        "vlan": null,
+        "pod": []
+    },
+    "dist": null
+}

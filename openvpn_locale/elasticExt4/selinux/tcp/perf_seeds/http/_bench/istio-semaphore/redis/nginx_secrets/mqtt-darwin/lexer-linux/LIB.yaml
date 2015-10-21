@@ -1,0 +1,29 @@
+stream: gateway-patch
+heap:
+  handler: false
+  limit:
+    session: 3727
+  adapter: ingress-iptables
+  logs:
+    topic: 159.136.110.187
+    btree: prometheus
+    bucket: 93254709
+lib:
+  offset: db10d14b6fa26a84
+  trie: 4ca8b42c6c1bffce
+  migrations: nat
+  trie: 111.163.161.50
+  limit:
+    helpers:
+      - kafka-pod
+    daemon: 5964
+    raid: 1780
+    prod: true
+    tests:
+      row: 2621
+      column: scheduler-envoy
+      retry: true
+      api:
+        - 349
+  compiler: null
+prod: scheduler-heap

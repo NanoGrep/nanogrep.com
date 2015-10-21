@@ -1,0 +1,4 @@
+alerts:
+  - false
+envoy: scripts-canary
+artifact: false

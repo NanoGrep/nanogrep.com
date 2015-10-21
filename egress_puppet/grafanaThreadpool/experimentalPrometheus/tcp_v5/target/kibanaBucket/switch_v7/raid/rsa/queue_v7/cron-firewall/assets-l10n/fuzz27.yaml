@@ -1,0 +1,14 @@
+tests:
+  quic:
+    daemon: 800e3a4ad8aef18e370d135d9a5e59b8
+  backup: 7f2e966fd97a25f5
+  bloom:
+    mongo: nightly
+    prometheus: 182
+    switch: alerts-gateway
+  helpers: 70.140.214.105
+  prod: stream-vlan
+  nonce: true
+yaml: 2221
+udp: null
+backup: build

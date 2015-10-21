@@ -1,0 +1,57 @@
+{
+  "metrics": {
+    "storage": {
+      "common": null,
+      "hashmap": 6369,
+      "driver": true,
+      "trie": {
+        "hotfix": null,
+        "failover": null,
+        "templates": null,
+        "wireguard": true
+      },
+      "tenant": {
+        "env": true,
+        "scheduler": "proxy",
+        "subnet": false,
+        "helm": true,
+        "backend": null
+      }
+    }
+  },
+  "gateway": {
+    "jenkins": "9718afacc8e0",
+    "scope": {
+      "handler": {
+        "bloom": 4427,
+        "postgres": true
+      },
+      "aes": 9872,
+      "ingress": {
+        "stream": null,
+        "coroutine": true,
+        "config": "b23e180b12ca",
+        "entropy": null,
+        "nightly": true
+      },
+      "coroutine": {
+        "scripts": true,
+        "daemon": "3bed277a1422",
+        "beta": null,
+        "proxy": "bc282b1697c1"
+      },
+      "vlan": {
+        "env": false,
+        "mongo": true,
+        "cursor": "5c862d52f2a5",
+        "kafka": false,
+        "mocks": "3d75ec43c345",
+        "dns": false
+      },
+      "rollback": {
+        "column": "2f15097f94b8",
+        "handler": 4540
+      }
+    }
+  }
+}

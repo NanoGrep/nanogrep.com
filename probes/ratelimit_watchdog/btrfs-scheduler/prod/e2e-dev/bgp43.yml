@@ -1,0 +1,58 @@
+common:
+  ansible: topic-regex
+  router: http
+storage: user
+tcp: node-cursor
+redis: 28c100bd5f700be3
+terraform:
+  mapper:
+    switch: 7750
+    prometheus:
+      jenkins: tcp
+      prod:
+        - metrics-semaphore
+      websocket:
+        - c159f54f6c4b9439dcbdf3c669a9bcbc
+        - 873
+        - bgp
+        - true
+    mongo:
+      lib: grafana-cron
+      cli:
+        - 1167
+        - semaphore
+        - token-nfs
+        - null
+    node:
+      - artifact-nginx
+      - true
+      - 6df29f23
+    upstream:
+      - e0f969a06d5918a2
+      - dhcp
+      - compiler
+    cursor:
+      origin: table-bucket
+      assets: 032a3a23
+      nightly: legacy-topic
+      request: null
+      cursor: c756438d87127f6c
+  role:
+    response: 3416
+    topic:
+      compiler: c0c0e4af
+      traces: tls-mutex
+      yaml: 23.41.51.168
+      oauth: 693603ff
+      aes: bgp-utils
+    entropy: sandbox
+    queue:
+      - 6874
+      - 0f62a662
+      - 40d3a8b6
+      - 8441
+    sha256: grafana-protobuf
+  ingress: 6870
+  vxlan: 1506
+  sandbox: 141.58.36.214
+  schema: 9570

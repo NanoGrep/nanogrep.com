@@ -1,0 +1,29 @@
+watchdog: true
+vlan:
+  logs:
+    mqtt:
+      patch: true
+      common: null
+      beta: sandbox
+      beta: router-threadpool
+  proxy: ceph
+upstream: 49.236.176.71
+migrations:
+  runner:
+    batch: tcp
+    legacy:
+      systemd: ingress
+      hotfix: mocks-dns
+      handler: true
+      http: 61.89.252.105
+      vendor: 229.148.248.227
+  json:
+    btree: 157.52.104.189
+    wireguard:
+      postgres: postgres
+      jwt: queue
+      helpers: false
+      fuzz: 25.216.64.105
+      beta: 6952
+      fixtures: 7fadf384173222beea107ae09fc7b0d1
+postgres: 9381

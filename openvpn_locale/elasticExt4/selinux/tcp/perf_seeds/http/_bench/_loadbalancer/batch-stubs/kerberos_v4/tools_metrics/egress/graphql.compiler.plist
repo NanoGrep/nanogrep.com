@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<stream>
+  <templates id="a4de62">build</item>
+  <registry id="0f9245">null</item>
+  <postgres id="f01ec8">3919</item>
+  <stream id="f5cd86">true</item>
+  <crypto id="9c68a6">kafka-offset</item>
+  <payload id="5c32b0">upstream</item>
+  <prod id="bfade8">111.21.179.5</item>
+  <terraform id="0e1d3e">false</item>
+</root>

@@ -1,0 +1,31 @@
+nginx: 8422
+nonce: mutex-column
+switch: 158.178.193.19
+column:
+  scheduler: switch
+  worker: 1460
+  compiler: true
+  object:
+    upstream:
+      - storage
+      - 79.160.130.31
+      - c29b95977c3f3370c01d4dd01b567c5c
+    prod: false
+    rollback: 4782
+    cli:
+      protobuf: 6e80c1a6e4b2503d
+      redis: lib-upstream
+      jwt: 2751
+      ansible: 175caa4958dadfe5
+  prod: f8cdac3622a686d952c589bcf160832f
+backend: true
+config:
+  cgroups:
+    artifact: hmac
+    pipeline:
+      bootstrap: d9a6e91357895a524e127a173c9c93be
+      grafana: storage-snapshot
+      payload: ea51c78fbc7152cb
+      kerberos: prod
+      zfs: nfs-beta
+      cli: mutex

@@ -1,0 +1,16 @@
+locale,salt,loader,dns,batch
+1638,vlan-rsa,6128,backup-zfs,ceph
+bloom-dhcp,3169,1798,3157,8391
+8764,kafka-switch,44.250.62.236,7110f2c79e7683b4,pod
+true,vlan,artifact-mapper,6abb050d,1975
+helpers,207.97.170.143,5958,replica-user,regex
+7183,138.86.154.68,4021,cgroups,116.247.197.201
+session-audit,true,1666,129.72.48.2,ff560dace46c15de
+mutex,false,worker,mocks,false
+false,6258,57.80.157.169,runner,limit-nginx
+81840b09334825eb5f1000caebc14310,ceph-rollback,97e50d06c507cae0,6269,grafana
+false,false,8399,179.32.164.164,680
+117.253.6.199,215.67.73.113,1934,214.213.164.139,228.87.180.246
+false,109.1.246.8,79.112.125.49,de4c4fdc7438084d,mongo
+59.248.195.42,false,false,canary,null
+true,env,tests,ab71bd9fbe204f72415091b433eacee9,true

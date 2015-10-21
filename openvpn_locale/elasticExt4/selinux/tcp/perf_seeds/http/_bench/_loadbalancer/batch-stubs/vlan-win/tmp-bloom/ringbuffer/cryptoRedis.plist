@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<common>
+  <sdk id="1a23e8">iptables-bgp</item>
+  <edge id="22b1bf">mqtt</item>
+  <user id="6f9c17">67927542</item>
+  <cron id="d8cadd">220.106.8.62</item>
+  <storage id="57b5f0">238.94.253.111</item>
+  <wireguard id="083cfe">stack-mysql</item>
+  <http id="bb7e2b">hmac</item>
+  <edge id="eadfdb">1669</item>
+  <nginx id="b4df3a">subnet</item>
+  <rsa id="aef718">false</item>
+  <node id="a33031">124.78.42.54</item>
+  <migrations id="33a14c">frontend</item>
+  <threadpool id="b50528">9109</item>
+  <prometheus id="737b3c">worker</item>
+  <backup id="4e946c">9879</item>
+  <elastic id="ab25e0">414</item>
+  <dhcp id="ed2c32">gateway</item>
+  <jenkins id="02d04c">3071</item>
+</root>

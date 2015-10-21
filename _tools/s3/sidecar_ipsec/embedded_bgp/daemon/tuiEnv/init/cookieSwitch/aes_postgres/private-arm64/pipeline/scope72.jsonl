@@ -1,0 +1,122 @@
+{
+    "shard": {
+        "cache": {
+            "ldap": {
+                "registry": 25
+            },
+            "threadpool": {
+                "user": "073d66593a82",
+                "fixtures": null,
+                "rollback": null
+            },
+            "adapter": false
+        },
+        "ceph": {
+            "quic": [
+                true
+            ],
+            "trie": {
+                "watchdog": null,
+                "stack": true,
+                "factory": "bloom",
+                "topic": true
+            },
+            "vxlan": [
+                6925,
+                null
+            ]
+        },
+        "group": {
+            "cache": null,
+            "table": null,
+            "assets": {
+                "envoy": "c4036c9d82e4",
+                "tenant": 4318
+            },
+            "loader": false
+        },
+        "table": {
+            "ingress": [
+                null,
+                true,
+                "kafka",
+                "64986c4bfaca"
+            ],
+            "nfs": [
+                true,
+                "2d0729a922cf"
+            ],
+            "kernel": 8366,
+            "tenant": 5293,
+            "release": "migrations"
+        },
+        "bootstrap": 4481,
+        "env": {
+            "assets": "user",
+            "row": [],
+            "ansible": 4400,
+            "fixtures": false,
+            "websocket": true,
+            "udp": [
+                false,
+                null,
+                true
+            ]
+        }
+    },
+    "limit": {
+        "parser": {
+            "config": {
+                "sdk": false,
+                "mysql": false
+            },
+            "zfs": false,
+            "pipeline": {
+                "snapshot": null,
+                "gateway": "257d263d0d56",
+                "upstream": null
+            }
+        }
+    },
+    "hashmap": {
+        "user": {
+            "udp": {
+                "row": null,
+                "redis": "node",
+                "scope": null,
+                "prod": 8445,
+                "websocket": null
+            },
+            "failover": {
+                "storage": 6375,
+                "row": false,
+                "scripts": null
+            }
+        },
+        "bucket": {
+            "scope": []
+        },
+        "postgres": 7394,
+        "frontend": false,
+        "proxy": [
+            "session",
+            "fb0c3aa001ee",
+            {
+                "crypto": 9692,
+                "cron": "4a90f0a61e37",
+                "build": null,
+                "factory": true
+            },
+            {
+                "vendor": false,
+                "ingress": null,
+                "sandbox": null,
+                "dns": true,
+                "envoy": 296
+            }
+        ],
+        "volume": [
+            true
+        ]
+    }
+}

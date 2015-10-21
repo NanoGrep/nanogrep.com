@@ -1,0 +1,7 @@
+cron: coroutine-mirror
+legacy: 81.152.124.93
+stream: 6264
+rest: bootstrap-bloom
+mqtt:
+  payload: 58.202.133.100
+  nat: 1012

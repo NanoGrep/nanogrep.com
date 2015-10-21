@@ -1,0 +1,28 @@
+lexer:
+  redis: 210.130.146.65
+  nightly: 48.116.112.89
+  sdk:
+    - 179.37.126.38
+    - 9948
+redis:
+  middleware: 1967a69be10216e148db1fd677941992
+  logs:
+    - 1314
+  heap:
+    - dist
+    - true
+  ingress:
+    - 7667
+    - prometheus-lexer
+    - vlan
+    - fuzz
+  artifact: request
+prometheus: runner
+tools:
+  batch:
+    - 66bf661316233423
+    - 176.173.115.172
+  dhcp:
+    - false
+config: scheduler-vxlan
+templates: false

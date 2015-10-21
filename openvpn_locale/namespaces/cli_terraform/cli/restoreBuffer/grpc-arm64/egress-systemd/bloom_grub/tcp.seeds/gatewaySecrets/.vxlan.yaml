@@ -1,0 +1,10 @@
+json:
+  helpers: 128.193.63.176
+  worker: false
+  iptables: 7401
+replica: false
+middleware: dns-vault
+batch:
+  compiler: 9477eb34
+  lambda: 232.75.235.109
+mutex: false

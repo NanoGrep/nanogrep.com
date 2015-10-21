@@ -1,0 +1,21 @@
+{
+    "coroutine": {
+        "driver": [],
+        "bgp": {
+            "stream": {
+                "assets": "patch",
+                "templates": "20d0e68d37ee",
+                "quic": 1046
+            },
+            "bootstrap": {
+                "user": "d298a6c2f6a6",
+                "nonce": 5059,
+                "fuzz": "68aeb1f1d12e",
+                "legacy": "firmware"
+            },
+            "envoy": null,
+            "tools": "mesh",
+            "request": false
+        }
+    }
+}

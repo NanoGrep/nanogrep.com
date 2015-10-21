@@ -1,0 +1,3 @@
+stream: core
+registry: logs
+vault: lib-core

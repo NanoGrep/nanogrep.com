@@ -1,0 +1,40 @@
+quic: b43ac73cb36ad360
+backend:
+  watchdog:
+    udp: table
+    kafka: policy
+    grpc: false
+  canary:
+    factory:
+      mysql:
+        - false
+        - controller
+      rsa: 34f3a203
+      wireguard: 2e89caa39a498b5b
+      tests: 340002220bc97bcc
+      mirror: replica
+    group:
+      batch: probe
+      stack: 6800
+      bootstrap:
+        - 8fe8ab02
+        - rollback
+        - helm
+      service:
+        - 0e5034ec725aa27f04aaa3733eb17beb
+        - snapshot
+      table: 8d1d28b122acef8e200f770d48f30bdd
+      pipeline:
+        - 71.162.238.219
+        - raid
+        - 7786
+        - oauth
+    pod: 403a509c3d274d21a4aac9a6b805cf64
+    grafana:
+      graphql: 130.17.41.54
+      bootstrap: 234.68.124.248
+      systemd: canary-mqtt
+      ldap: session
+    oauth: 164.205.114.72
+    service: 57.180.183.65
+  canary: f50c263a59bcd4c9

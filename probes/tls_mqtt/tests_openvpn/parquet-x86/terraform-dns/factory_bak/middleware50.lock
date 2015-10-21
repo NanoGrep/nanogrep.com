@@ -1,0 +1,38 @@
+{
+    "tls": {
+        "cursor": [
+            {
+                "nginx": false,
+                "nightly": false,
+                "graphql": "d211c9489a87",
+                "grpc": "93df0da0944a",
+                "btree": false
+            },
+            [
+                "heap"
+            ],
+            "feda6deba499",
+            {
+                "grpc": null,
+                "firmware": false
+            }
+        ]
+    },
+    "service": true,
+    "firmware": {
+        "service": null,
+        "lambda": "token"
+    },
+    "queue": false,
+    "vendor": [
+        {
+            "mongo": [
+                "schema",
+                "rsa",
+                "bucket",
+                null
+            ]
+        }
+    ],
+    "raid": true
+}

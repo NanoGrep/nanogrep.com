@@ -1,0 +1,33 @@
+pod: ef092b39
+buffer: backend-assets
+offset:
+  gateway: 97.109.114.62
+  dns:
+    column:
+      threadpool:
+        - a7fb4792
+        - quic
+      logs: 251.80.19.41
+      gateway: 89d1a0ee83864b81
+    adapter: 8698
+  api: 5fce0325
+  compiler: mutex
+  snapshot: e4fbd1226a0f1bd165efebf492427b90
+  nginx:
+    core: 328
+    buffer:
+      staging: 77.129.71.143
+      elastic: sandbox-alerts
+      json: 2a561d74
+      coroutine: hmac-object
+    volume:
+      dns: null
+      vendor: 7265d463de5da89b
+      frontend: tests
+    graphql: bedc3fe0
+mocks: helpers
+buffer:
+  - 72e5b29d
+  - 205.151.61.95
+  - 64.220.133.95
+  - hotfix

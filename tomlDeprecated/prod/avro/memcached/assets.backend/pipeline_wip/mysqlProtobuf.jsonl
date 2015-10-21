@@ -1,0 +1,30 @@
+{
+  "fixtures": [
+    false,
+    null,
+    {
+      "cert": 5461,
+      "hmac": null,
+      "column": {
+        "hotfix": true,
+        "websocket": null,
+        "mirror": true
+      },
+      "mongo": {
+        "schema": null,
+        "cache": "crypto",
+        "rsa": true,
+        "legacy": true,
+        "stream": null
+      },
+      "backup": "c5709923d243",
+      "tcp": [
+        "request",
+        false
+      ]
+    }
+  ],
+  "cursor": {
+    "firewall": true
+  }
+}

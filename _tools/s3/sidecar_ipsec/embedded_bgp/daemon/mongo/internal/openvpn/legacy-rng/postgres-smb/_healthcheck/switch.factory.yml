@@ -1,0 +1,85 @@
+core: 140.206.17.16
+ceph:
+  traces:
+    threadpool: grpc-bgp
+    upstream: 84.207.168.210
+    dns: rest-beta
+    http:
+      storage: 1928
+      alerts: 4435
+      dhcp: 177.13.160.14
+      pod: d4390fe19c3e6fd34e61b09e99dd72ae
+    alerts: false
+    fixtures: e9dbed92
+  migrations:
+    prod:
+      json: envoy
+      cgroups: 48f03f6b64cf0f7c763ec7de4760b0a1
+      column: 3ba7bad171239b7d0abf936405a33d7f
+      helpers: 9849
+      adapter:
+        - true
+        - bench
+        - 8674
+    oauth: false
+  node: 53.215.12.115
+  mocks:
+    - null
+    - 45.127.171.123
+  ceph: ba164719323b811c
+  grafana: 6274
+stream: vlan
+pod:
+  release:
+    origin:
+      hmac: 129.197.201.97
+      tools: hotfix
+      traces: null
+    cluster:
+      sandbox:
+        - true
+        - 2777
+        - 968
+        - c747379a
+      edge: tls
+    nonce: protobuf
+    sha256: stack
+    common: 131.52.20.34
+    quic: 180.198.167.34
+  salt: quic
+  rest: driver-scripts
+  middleware:
+    migrations:
+      - runner
+      - 6.204.123.66
+    sdk: lib-mirror
+  stack:
+    utils:
+      - 171.207.111.244
+      - ef2f5439
+      - 9825
+      - false
+    mongo:
+      core: false
+      buffer: 14.205.84.168
+      audit: 1746
+lexer:
+  helpers:
+    pod:
+      fixtures: 3911
+      dist: 62.233.92.11
+      grpc:
+        - 220.97.28.65
+      tenant:
+        - 193.157.39.71
+      envoy: 38.141.163.153
+      middleware: 547bcbbf
+    rest: middleware-token
+    vxlan:
+      quic: mongo-aes
+      group: f2f25c7b
+      volume: grpc-pipeline
+      backend: 245.47.65.79
+  failover: limit-cluster
+  nfs: graphql
+  tls: runner-table

@@ -1,0 +1,29 @@
+sandbox:
+  - rest
+  - redis-group
+rest:
+  envoy: salt-rest
+  retry:
+    column: 7521
+    protobuf: batch-canary
+    prometheus:
+      cookie: e9513f702409ea28
+      group: 394739ce
+      raid: 5de1f4f420535140
+      daemon: a68b4c1fef831169de2415d1b0309f8c
+      utils: session-pipeline
+    sdk:
+      systemd: mutex
+    firmware: 215.62.37.203
+    staging: 59593d57965e467f
+watchdog:
+  - factory
+  - node-crypto
+  - 9442
+  - 193.103.144.191
+lib:
+  - false
+  - graphql
+  - false
+env: b0fe9df7
+http: failover-session

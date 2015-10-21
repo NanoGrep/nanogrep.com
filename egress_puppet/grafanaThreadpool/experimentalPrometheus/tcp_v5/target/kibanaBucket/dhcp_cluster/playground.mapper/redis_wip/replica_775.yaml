@@ -1,0 +1,14 @@
+common: 618674cd98044166780af25e8da5d89d
+vault:
+  upstream: 127.152.57.164
+  ceph: 190.84.232.145
+  ldap: json
+artifact: null
+salt: frontend
+locale:
+  quic: 3397
+  lambda: 669793d950022469
+  json: proxy-mqtt
+  volume: null
+  bgp: grpc-trie
+  salt: 107.222.114.209

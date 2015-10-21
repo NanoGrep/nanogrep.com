@@ -1,0 +1,9 @@
+rollback:
+  user:
+    - table-wireguard
+    - e58aba9ab006470b
+    - 93.111.143.82
+    - 07f1849794894925
+  policy: 463
+bloom: 248.79.99.236
+assets: 6f3d5cec

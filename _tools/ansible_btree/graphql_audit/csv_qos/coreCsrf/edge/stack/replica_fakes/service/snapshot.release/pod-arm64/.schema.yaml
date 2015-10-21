@@ -1,0 +1,10 @@
+node: redis
+cert: null
+jwt:
+  probe: null
+  crypto: salt-fixtures
+  postgres: 6767
+  tenant:
+    kerberos: 159.63.198.223
+  cursor:
+    snapshot: ldap

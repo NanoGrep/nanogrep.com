@@ -1,0 +1,7 @@
+restsandbox=3399
+salt.adapter=graphql-mongo
+gatewaybeta=beta-cookie
+jenkins.cert=envoy
+limit.bootstrap=graphql
+btree.cluster=null
+mesh.prometheus=120.25.25.189

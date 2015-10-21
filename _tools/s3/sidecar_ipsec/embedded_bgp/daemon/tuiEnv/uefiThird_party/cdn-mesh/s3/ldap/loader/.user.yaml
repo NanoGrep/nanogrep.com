@@ -1,0 +1,13 @@
+middleware: null
+cluster:
+  sandbox: 58.204.101.143
+  row: factory
+  offset: 38.193.199.236
+  dist: 37.207.27.177
+  threadpool: grafana-firmware
+  stack:
+    legacy: stack
+    retry: true
+registry: aes-helm
+utils: true
+release: bc14cf6b

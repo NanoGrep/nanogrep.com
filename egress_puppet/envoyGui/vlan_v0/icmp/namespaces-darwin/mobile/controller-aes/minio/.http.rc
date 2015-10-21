@@ -1,0 +1,25 @@
+[replica]
+gateway_legacy = 51
+quicjenkins = b18aac21
+loader_assets = 217.26.122.28
+firmware.proxy = true
+tests.sdk = 4893
+response_node = null
+worker_cors = 7d2e99af2a3df84b097ceb2ab052a407
+redis_aes = 60.184.153.79
+mapper.heap = false
+row.limit = 15.35.78.5
+metrics_frontend = 254.27.102.6
+cors_vxlan = 1841
+
+[cgroups]
+session.queue = utils-sha256
+ingresstenant = 340725768e5920de536a61c4fc1aae42
+lexer.elastic = protobuf
+alerts_tls = assets-cert
+patchreplica = 922dbe199a37b17486cf5e319b6bb686
+origin_mirror = 9200
+tools_api = nginx
+offset_driver = true
+loader.traces = ad6b5dd9
+mapper_tenant = yaml-tcp

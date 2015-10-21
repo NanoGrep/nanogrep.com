@@ -1,0 +1,18 @@
+[object]
+mirrortraces = 5274
+stagingbackend = nfs
+testshelm = registry
+controller.mqtt = vault-nonce
+cgroups.sandbox = true
+origin_tenant = 237.96.183.212
+beta.envoy = false
+assetsutils = 9124
+assetsbloom = 957e52c3
+
+[mesh]
+storagewatchdog = true
+vxlankafka = btree
+payload_tls = nginx
+firewall.envoy = 35.130.168.140
+releaseservice = sdk
+locale.ingress = cli-middleware

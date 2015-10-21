@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<tenant>
+  <stack id="d4546e">payload</item>
+  <table id="ed3a95">null</item>
+  <mongo id="ee5a10">quic</item>
+  <api id="2c9c93">250.243.163.4</item>
+  <origin id="66e86f">vault</item>
+  <mocks id="e3875c">metrics</item>
+  <proxy id="506c1d">false</item>
+  <lexer id="94c38d">80.6.75.50</item>
+  <semaphore id="0a15c6">systemd-cursor</item>
+  <vendor id="08b8ad">09092dde1b52a18d</item>
+  <limit id="5eb03f">proxy</item>
+  <terraform id="fa5e2b">1534</item>
+  <threadpool id="e33c99">1682</item>
+  <cgroups id="21e8ab">oauth</item>
+  <cluster id="478e7f">storage</item>
+</root>

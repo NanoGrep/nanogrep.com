@@ -1,0 +1,101 @@
+{
+    "oauth": {
+        "cluster": true,
+        "ansible": [
+            {
+                "storage": true,
+                "grafana": "9f1f83d0fbcb"
+            },
+            "btree",
+            8341
+        ],
+        "entropy": {
+            "cron": [
+                true
+            ]
+        },
+        "payload": "cert",
+        "shard": {
+            "scripts": "e565aed8d781",
+            "tcp": {
+                "batch": "5a4ffb6ded02",
+                "upstream": null,
+                "tcp": true,
+                "token": "quic",
+                "scripts": "adapter"
+            },
+            "kafka": false,
+            "canary": false,
+            "jwt": {
+                "compiler": null,
+                "nfs": "ed5f816825f7"
+            }
+        }
+    },
+    "mesh": {
+        "legacy": [
+            {
+                "scope": "2478dc9d6a5a"
+            },
+            [
+                "bd915b5dbf71",
+                "upstream",
+                "mocks",
+                false
+            ],
+            3133
+        ],
+        "payload": {
+            "alerts": [
+                false,
+                "7be78d6f5aa7",
+                "firmware"
+            ]
+        },
+        "jwt": [],
+        "envoy": {
+            "firmware": {
+                "group": true,
+                "grafana": "969e9967b923",
+                "user": true
+            },
+            "queue": "tcp"
+        },
+        "templates": 8798
+    },
+    "daemon": null,
+    "assets": [
+        {
+            "token": false,
+            "mocks": "vlan",
+            "sandbox": "tests",
+            "scheduler": {
+                "kafka": "traces",
+                "rollback": 6611,
+                "wireguard": false,
+                "ansible": false,
+                "quic": "stream"
+            }
+        },
+        "94dbb42c1081",
+        {
+            "origin": false,
+            "cgroups": {
+                "limit": null,
+                "mutex": "topic",
+                "crypto": false,
+                "row": null,
+                "vlan": 5016,
+                "patch": true
+            },
+            "session": false,
+            "router": "offset",
+            "mysql": {
+                "table": false,
+                "logs": null
+            }
+        },
+        true
+    ],
+    "scheduler": "0375fdc16ed2"
+}

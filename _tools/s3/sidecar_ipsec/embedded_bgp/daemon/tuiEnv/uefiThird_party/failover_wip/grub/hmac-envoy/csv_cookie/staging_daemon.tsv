@@ -1,0 +1,13 @@
+ansible,coroutine,replica,socket,lambda,schema
+408b839f,null,78.165.16.104,upstream,false,iptables-fixtures
+true,5303,8978,runner,null,vxlan-scheduler
+kerberos-canary,40361b9b,c180963ffb229e62c99bd9b5aaee3213,309,mocks,regex
+false,74f6ff23,48.19.56.52,5931,api,2064
+9cbbbf2ae72135fdd6cdbe6770451144,jenkins-kernel,d0d6fb32f974c3776337b9f3f41fe12b,656,cron,true
+nginx,entropy,8798,helm,0ad295fa47b8dd0b8bb03cb587802714,612
+253.149.107.220,rollback,108bf0da35138b65,null,177f48bf624671e9a5b1d6f8a69d4062,137.137.71.30
+242.67.70.245,salt-migrations,lib,null,false,ingress
+160.99.76.76,9587,8687,true,cc11459a,mapper
+45.119.118.148,tls,dns,601c9f74006a87af,a6921be8c699a2724313cd7b53bbf00d,115.128.168.27
+3c54d9a8760817e0,228.221.75.222,72.209.156.12,true,16.45.216.242,aecdda1146cf7911252cc510cfee2df7
+upstream-mutex,137.32.152.40,false,142.71.216.41,null,helpers-hmac

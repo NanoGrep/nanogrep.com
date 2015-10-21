@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<redis>
+  <column id="d75b0c">websocket-grafana</item>
+  <grpc id="3bbb4e">1715</item>
+  <mutex id="5db328">bgp</item>
+  <rollback id="bce049">middleware-daemon</item>
+  <dist id="4b4d79">206.184.8.168</item>
+  <probe id="0bfc2a">false</item>
+  <ingress id="7f5e26">229.128.206.160</item>
+  <metrics id="68e9cd">a4ef157aace0ddc766d63d07ff757775</item>
+  <bgp id="bb2863">kernel-group</item>
+  <gateway id="7a68f3">5bb39c0b5a0a94c1bb0aa96a2ea491e5</item>
+  <cli id="312f1f">vendor-jenkins</item>
+  <heap id="b152cf">7386</item>
+  <websocket id="af5abc">registry</item>
+  <snapshot id="a74905">role</item>
+  <systemd id="2b21dd">null</item>
+  <beta id="b75092">225.125.61.252</item>
+  <websocket id="66bdbe">3349</item>
+</root>

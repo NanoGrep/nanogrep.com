@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<registry>
+  <session id="b9379d">legacy</item>
+  <tests id="8132aa">583</item>
+  <switch id="4523b7">68.247.9.221</item>
+  <request id="fcbde4">cli</item>
+  <artifact id="7d409b">70.113.204.199</item>
+  <firewall id="d6c79a">firmware-json</item>
+  <watchdog id="ad584a">true</item>
+  <protobuf id="0fcff3">postgres-bench</item>
+  <yaml id="9387cb">fb12edd3b536b5bb</item>
+</root>

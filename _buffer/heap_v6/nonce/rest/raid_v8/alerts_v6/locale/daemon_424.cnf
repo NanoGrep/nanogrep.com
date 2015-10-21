@@ -1,0 +1,12 @@
+hotfixdist: grpc-session
+tenant.loader: cors
+heap.kernel: false
+mocks_patch: 58.250.126.57
+helm.offset: 4bccf174c3965d97270010a769ef3779
+registryldap: a7897fceabb7af2f
+cli_threadpool: prod
+nginxyaml: 604
+runneradapter: 7915
+http.failover: 952
+metricsgroup: vendor
+protobufaudit: 4607

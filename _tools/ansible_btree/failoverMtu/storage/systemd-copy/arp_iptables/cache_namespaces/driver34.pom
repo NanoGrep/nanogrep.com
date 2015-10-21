@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<session>
+  <gateway id="2064ce">4404</item>
+  <mapper id="760e1f">proxy</item>
+  <sha256 id="e0bd0b">scheduler</item>
+  <aes id="a70043">kernel</item>
+  <logs id="bb20f8">true</item>
+  <salt id="9cbfb3">7021</item>
+  <staging id="fe1932">mesh</item>
+  <backup id="eecc7d">00f2a720c2495d3d5ee04dad4fc52603</item>
+  <rest id="494c51">e3bcb9cf7dbb4c07a7da4e12d22d6344</item>
+  <udp id="8221eb">upstream</item>
+  <backend id="f10343">legacy-runner</item>
+  <patch id="eb8f80">legacy</item>
+  <api id="0b52bf">965</item>
+  <hotfix id="4f2e8d">4c115a37d56a1c5f3bf7d7c9bb50aa0c</item>
+  <cron id="5dafe0">oauth-dns</item>
+  <traces id="d43af3">909dcfafa4369cfd</item>
+  <oauth id="0635f6">8695</item>
+</root>

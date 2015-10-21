@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<assets>
+  <wireguard id="18aa1e">99825daeadf06c6fa9d029756964a939</item>
+  <lambda id="ac2600">873223cb43838ad1</item>
+  <scripts id="2b9378">254.201.100.39</item>
+  <dist id="728aa2">subnet</item>
+  <storage id="b27a2e">sha256-fixtures</item>
+  <mongo id="981d50">e94e44b0</item>
+  <api id="acd8a6">false</item>
+  <cli id="95e8b5">payload-websocket</item>
+  <tcp id="74e86f">1804</item>
+  <iptables id="787eab">watchdog</item>
+  <assets id="5a50ed">false</item>
+  <traces id="f8c20e">19.181.130.248</item>
+  <policy id="f17d69">scope-nightly</item>
+  <terraform id="76df06">f16ec32eb6149eb3</item>
+  <mongo id="b4d6e6">false</item>
+  <oauth id="b729df">d65abbb624c819bc</item>
+  <elastic id="8dca28">52.194.228.133</item>
+</root>

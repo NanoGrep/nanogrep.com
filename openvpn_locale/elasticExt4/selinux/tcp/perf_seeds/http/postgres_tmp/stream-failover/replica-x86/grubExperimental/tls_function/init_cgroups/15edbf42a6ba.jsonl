@@ -1,0 +1,16 @@
+{
+    "prometheus": false,
+    "salt": {
+        "helpers": "d54642c097f0",
+        "aes": false,
+        "backup": [
+            {
+                "ingress": "group",
+                "yaml": 2818
+            },
+            []
+        ],
+        "scheduler": false,
+        "cron": null
+    }
+}

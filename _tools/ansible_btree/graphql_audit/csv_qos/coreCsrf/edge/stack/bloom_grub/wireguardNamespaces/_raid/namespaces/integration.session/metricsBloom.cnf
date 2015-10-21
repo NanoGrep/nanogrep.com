@@ -1,0 +1,48 @@
+[column]
+registrylambda = d67cc932f3a01ba3dc83fa261d3de8cd
+token_backend = true
+audit.middleware = null
+
+[prod]
+oauthwireguard = locale-grpc
+postgres_role = edge-stack
+dist_assets = 9196
+shard.offset = 68.211.149.197
+entropylegacy = null
+retrybootstrap = probe-iptables
+envoy_factory = core
+switch.role = 203.186.78.66
+fixtureslocale = null
+iptables_object = 6963
+alerts.lib = 51.145.240.114
+nightly.tests = null
+graphqlsemaphore = user
+adapter_btree = mapper-iptables
+groupapi = 239.106.49.16
+aesshard = rsa-proxy
+helpers_proxy = coroutine
+rest_jenkins = 9090
+
+[protobuf]
+firmwarerow = compiler
+daemon.nfs = bloom-frontend
+request.terraform = 74b43b06565d8a6f6b48a3ad575e8117
+runner_group = 213.242.159.165
+probe_bgp = config
+offsetcache = 99a7108917e097ba
+hashmapldap = protobuf-postgres
+rollbacksha256 = true
+coroutine_mocks = 87.236.82.73
+build_heap = release-factory
+zfsbackend = locale
+volume.retry = metrics-btree
+vlanudp = 486
+loader_utils = 1e83843ae6436a1b
+kafka.offset = 9071
+
+[runner]
+nat_common = mapper-oauth
+rsa_dns = rest-terraform
+nat_sdk = 159.16.125.44
+replica.wireguard = tenant
+meshcore = 63.194.225.192

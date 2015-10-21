@@ -1,0 +1,40 @@
+scripts:
+  bloom: d380deb749813116
+  jwt: 202.169.247.26
+  frontend: 182.239.208.148
+  api:
+    http:
+      - limit-frontend
+      - socket
+      - null
+    postgres:
+      vlan:
+        - crypto-yaml
+        - failover-vault
+        - 1231
+      sandbox:
+        - efc754c2c5403808
+        - 4cd4cddd
+      websocket: column-volume
+      table: 106.29.99.26
+      http: cron-schema
+    patch: entropy-origin
+    compiler: 6577db71b59d9bdd38a6e041d3683720
+    frontend:
+      alerts: stream
+      raid: d6e5986b8058c417
+      utils:
+        - 8936
+        - 52.104.197.112
+        - migrations-staging
+      shard: rest
+      regex: btree-locale
+    salt: 1117e541b36fdd04
+rest:
+  schema:
+    - 01105903816ca6ceab46bbf8ad1798f8
+    - lexer
+    - true
+  json: mongo-socket
+entropy: 9669
+nonce: bootstrap-hotfix

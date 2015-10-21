@@ -1,0 +1,82 @@
+mongo:
+  semaphore: 39.72.133.27
+  column: ea6022e764d69d73
+scripts: row
+router:
+  trie:
+    role:
+      row: 2aed2cb1bb2b1bc08fb98ce2ac3d219d
+    offset: replica
+    router: 4918
+  backup: batch-aes
+  grpc:
+    release:
+      - metrics
+      - 98.90.87.152
+      - build
+    logs:
+      - 1949
+      - f761017fafeaaf56
+      - null
+      - 211
+    dist:
+      - 1611
+      - 1654
+      - null
+    protobuf: envoy
+    prod:
+      heap: null
+      migrations:
+        - 37dacb183d699fd7
+      token: 43cde41c
+      yaml:
+        - quic
+        - 15a8e83e593c048b705ccbbeba241471
+        - registry-crypto
+  cron: 1742
+  patch: vlan
+  probe: fc548970
+envoy:
+  hmac:
+    envoy:
+      vlan: f1fc04a5634799e0
+      driver: probe
+      ldap: 2044
+      sdk: 96.167.230.217
+      volume:
+        - 3548
+        - 35.132.30.98
+        - postgres
+      tools: service
+    entropy: mysql
+    lambda:
+      - false
+      - 9094
+      - fcf675fb
+      - 19aba6fb
+    hmac:
+      trie: false
+    mysql: prod
+    lambda:
+      user: ddedb0a123718b2b
+  migrations: true
+  policy: 6b26bdf63273a5e7
+  bench: ansible
+  ansible:
+    canary:
+      systemd: 91.158.100.130
+      controller: 486ef2890f4e89700c63ce5e9d3161e1
+      utils: subnet-btree
+    probe: 5778
+  shard: registry
+prometheus:
+  tenant: 149
+  threadpool: 6fc10c0bb3e4c181b6c1a5edcfa3c084
+  utils: core-common
+  wireguard:
+    router:
+      cache: 1812
+      pod: 168.148.58.32
+      cookie: 41.243.241.145
+      socket: 146.125.16.160
+replica: false

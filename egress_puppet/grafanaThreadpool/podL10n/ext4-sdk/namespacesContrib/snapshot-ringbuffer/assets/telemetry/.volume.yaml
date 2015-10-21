@@ -1,0 +1,29 @@
+upstream:
+  request: false
+  terraform: table
+  registry: loader-btree
+  common: cert-build
+  trie: 2536
+  quic:
+    - 2bf4ab83767ac2adf520baa04d17ffae
+    - lib-controller
+    - true
+    - e3a0176d7db074cbd8450b5a0548b12a
+tools:
+  - row-tenant
+  - tls-helpers
+  - mysql-alerts
+  - fcb2710729fd07ad
+token:
+  parser: 142.129.8.122
+  wireguard:
+    salt:
+      redis: 00a08e8adfb804fd3a6525ba270d3269
+    hashmap: kerberos-tests
+    jenkins: cookie-edge
+    aes: hashmap-yaml
+  middleware: bloom-sha256
+  staging: compiler-config
+  retry:
+    - false
+    - 1f19ec01810d29a2

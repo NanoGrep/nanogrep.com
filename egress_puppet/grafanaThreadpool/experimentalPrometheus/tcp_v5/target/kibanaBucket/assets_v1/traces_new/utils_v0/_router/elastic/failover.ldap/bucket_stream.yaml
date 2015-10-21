@@ -1,0 +1,17 @@
+pod:
+  coroutine: 143.136.237.140
+  ansible:
+    cookie: failover-sandbox
+    mqtt: 43.99.92.11
+    websocket: 63.141.186.139
+    topic:
+      shard: 66b08b7c1c17ff1e
+      threadpool: 5047
+      utils: 7668
+      role: null
+      service: proxy
+      service: bucket-adapter
+  volume:
+    - 54.189.150.149
+    - 7495
+  ansible: backup-wireguard

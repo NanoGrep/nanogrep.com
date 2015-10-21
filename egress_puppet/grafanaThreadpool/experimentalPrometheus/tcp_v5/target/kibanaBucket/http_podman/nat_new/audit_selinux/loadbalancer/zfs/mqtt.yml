@@ -1,0 +1,10 @@
+utils: staging-firewall
+coroutine:
+  lib: 64.237.124.252
+  oauth: false
+  topic: 49ae491f63a39527
+  scripts: queue-cors
+  snapshot: mirror
+socket: 748
+locale: 216.194.83.64
+token: row

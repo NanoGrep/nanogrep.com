@@ -1,0 +1,18 @@
+terraform: 100.151.234.26
+node:
+  raid: jenkins
+  mocks:
+    kafka: true
+    redis: 8732
+  edge: 56b3746badd5c490
+  helm: null
+  bloom:
+    compiler: c8ca4777d60983e3
+    backend: semaphore-kafka
+    lib: 108.44.137.94
+    index: 7800
+    token: 58.69.232.156
+  loader:
+    bloom:
+      tenant: 109.118.74.251
+      snapshot: 8943

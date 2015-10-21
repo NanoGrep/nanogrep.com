@@ -1,0 +1,65 @@
+rsa:
+  queue:
+    dns:
+      - 246.58.169.250
+      - 202.75.144.57
+      - 7341
+    trie: 6418
+    assets:
+      regex:
+        - firewall
+        - wireguard-offset
+        - stack
+        - 141.90.72.48
+    aes: cab0971d
+  scheduler: 8423
+  gateway:
+    oauth:
+      http: null
+      daemon:
+        - true
+        - cookie
+      parser: bbb39c5d
+    group:
+      - 6702
+      - entropy
+      - jenkins
+    nginx:
+      bgp: templates
+    storage:
+      - 6694
+      - gateway
+      - middleware-systemd
+    beta:
+      - 5436
+    mirror: bgp
+  threadpool: probe-snapshot
+  compiler:
+    locale:
+      - cron-sha256
+      - http
+      - gateway
+      - vlan
+    websocket:
+      proxy: 04875a0ef0dba31e
+      registry: 2110
+      handler:
+        - false
+        - tls-bloom
+      elastic:
+        - mirror
+        - volume
+        - true
+      sha256:
+        - 5239
+      request: 124.18.29.43
+    artifact: null
+  storage:
+    loader: core-audit
+    snapshot: 9009
+    tcp:
+      protobuf: 179.118.107.240
+      switch: 3013
+      lib: e294f10f5e0e293e
+      nfs: grpc-table
+    udp: 139.129.234.89

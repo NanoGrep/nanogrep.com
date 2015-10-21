@@ -1,0 +1,4 @@
+templates: 6836
+mapper: 220.40.75.96
+tcp: factory
+worker: batch-json

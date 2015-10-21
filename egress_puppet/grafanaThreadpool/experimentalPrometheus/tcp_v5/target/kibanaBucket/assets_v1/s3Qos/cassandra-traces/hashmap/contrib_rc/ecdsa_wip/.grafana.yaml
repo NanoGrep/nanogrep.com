@@ -1,0 +1,5 @@
+controller: raid-socket
+mqtt: null
+oauth: 138.157.6.74
+http: bgp
+role: false

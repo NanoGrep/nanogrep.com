@@ -1,0 +1,6 @@
+tcp,kafka,adapter,common,hotfix,lambda,nonce
+32.62.196.153,assets,5715,crypto-tenant,true,null,6312
+1613,8c3758233f53471c,fixtures-index,true,false,buffer,sandbox
+74.132.123.8,loader-prometheus,frontend-sandbox,true,244.39.21.130,assets-sdk,3a3146f8a000a87e
+compiler,runner-prod,170,true,aeb83905,87.193.112.115,bucket
+6414c38e,null,true,true,8415,jenkins-release,nfs-dns

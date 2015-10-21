@@ -1,0 +1,11 @@
+firmware,loader,lexer,vxlan,socket
+4194,e3a846a77095a0b5,56.219.194.249,subnet,null
+6472,19.29.242.192,5322,true,true
+websocket,cache-bucket,false,239.91.171.169,true
+825,902,205.41.48.132,107.124.152.10,9b758d40d30ffa2d
+71ffa81a,242.90.96.23,1798,7393,templates
+3917,kerberos,17.170.219.65,lib,vlan
+134.253.103.76,227f7641511a1a75,971,cors,helpers
+column-ansible,5099,4f2706904b4a3243430141d424593bca,false,2963
+54.29.195.179,heap,worker-nginx,daaa8d9c01b57b1ee0c328d7bf2ec334,templates
+build-failover,true,compiler-envoy,null,e4952393

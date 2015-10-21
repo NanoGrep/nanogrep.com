@@ -1,0 +1,12 @@
+mqtt_graphql: 2476
+ingressregex: core
+mapperceph: 229.21.163.105
+buildsystemd: ec8cd2499e77419e
+proxycontroller: 9901
+probe_hmac: null
+schemafactory: null
+oauth.rest: 2274
+schema_helm: tcp-snapshot
+regexassets: true
+dns_handler: policy-beta
+nodeadapter: ce531ca278cdf525

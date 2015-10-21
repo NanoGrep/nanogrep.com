@@ -1,0 +1,12 @@
+jenkinsscripts: 101.179.162.179
+iptables.registry: false
+migrations.kerberos: config
+redis_ansible: true
+cache.nat: 237.54.33.148
+migrationscommon: 9012
+response_edge: entropy-patch
+storagetoken: cert
+firewall_templates: 2237
+jenkins.table: 4.169.151.36
+oauthdns: frontend
+vlan_pipeline: 3be70a7f

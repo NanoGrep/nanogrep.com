@@ -1,0 +1,48 @@
+{
+    "daemon": {
+        "cert": {
+            "yaml": [
+                false,
+                true
+            ]
+        },
+        "batch": "7e99aca1d04e",
+        "traces": [],
+        "mesh": [
+            "worker"
+        ]
+    },
+    "cluster": false,
+    "shard": {
+        "tests": {
+            "oauth": false,
+            "rsa": {
+                "dns": false
+            },
+            "cgroups": {
+                "metrics": true,
+                "object": true,
+                "storage": null
+            },
+            "fixtures": {
+                "graphql": false,
+                "regex": "migrations",
+                "bucket": null,
+                "index": false,
+                "table": false
+            },
+            "nightly": null,
+            "socket": [
+                1939
+            ]
+        },
+        "vault": [
+            {
+                "scripts": "utils"
+            },
+            true
+        ]
+    },
+    "backend": false,
+    "session": []
+}

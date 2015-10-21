@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zfs>
+  <elastic id="15c614">true</item>
+  <pod id="ba80d7">true</item>
+  <ansible id="76bcad">2898</item>
+  <patch id="28315d">scripts</item>
+  <utils id="773e46">167.21.57.180</item>
+  <mutex id="846595">nginx</item>
+  <trie id="a34367">4ac323fde75cd410</item>
+  <raid id="0d2b96">true</item>
+  <cors id="bc7b1d">middleware</item>
+  <mapper id="632fd6">197.204.114.14</item>
+  <api id="2ad938">39b5f9b7ba66f75f</item>
+  <kernel id="52c3d4">graphql-locale</item>
+</root>

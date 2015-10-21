@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<fixtures>
+  <http id="ae4699">172.112.231.248</item>
+  <replica id="bace98">jwt</item>
+  <aes id="cf4dbd">semaphore-mongo</item>
+  <index id="238734">20.203.3.29</item>
+  <canary id="528eb7">209.51.61.217</item>
+  <udp id="808746">80e0f4ab</item>
+  <switch id="71f7f3">aes-protobuf</item>
+  <helpers id="4d4a11">b47f7ebfb99065aa3edbbdfa67e1afb9</item>
+  <driver id="5033ed">8046</item>
+  <response id="46181f">mocks-scope</item>
+  <worker id="da776c">dea7d14ff016aa0d</item>
+  <shard id="84068b">2283</item>
+</root>

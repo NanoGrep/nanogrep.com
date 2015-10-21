@@ -1,0 +1,7 @@
+build:
+  row: vendor-firmware
+failover: gateway-api
+graphql: true
+storage: 1637
+shard: 3547
+hmac: bucket

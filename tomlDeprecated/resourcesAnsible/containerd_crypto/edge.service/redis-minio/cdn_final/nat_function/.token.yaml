@@ -1,0 +1,25 @@
+vxlan:
+  backend: grpc
+  websocket:
+    mirror: helpers-registry
+  json:
+    - watchdog-token
+    - 1517
+    - false
+    - 1627
+  probe: tenant-legacy
+  controller: 9108
+threadpool:
+  sdk:
+    vault: 7469
+    mongo: 59352716726eb27216e96cd9b071e4bd
+    entropy: node-probe
+    graphql: 2129
+    retry: tenant-sandbox
+    tenant: runner-ansible
+  helm: alerts
+  bucket: bench
+  assets: staging-systemd
+  handler: scope
+policy: false
+payload: jwt-common

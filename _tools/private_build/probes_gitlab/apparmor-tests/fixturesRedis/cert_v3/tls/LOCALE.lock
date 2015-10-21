@@ -1,0 +1,13 @@
+[
+  {
+    "aes": [
+      "rest",
+      null,
+      {
+        "firewall": "mqtt",
+        "trie": "udp"
+      }
+    ]
+  },
+  false
+]

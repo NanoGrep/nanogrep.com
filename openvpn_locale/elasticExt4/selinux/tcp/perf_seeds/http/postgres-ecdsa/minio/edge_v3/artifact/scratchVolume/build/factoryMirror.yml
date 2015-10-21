@@ -1,0 +1,18 @@
+quic:
+  proxy: 8300d343
+  ingress: false
+  bucket: true
+  cors: env
+nat:
+  firmware: 208.144.240.150
+  cgroups: dns-sdk
+legacy: hmac-cookie
+table:
+  socket:
+    nginx: null
+    mongo:
+      - helpers
+    scope: true
+  metrics: 49.21.71.28
+  driver: d2505ac764c7652d
+retry: origin-release

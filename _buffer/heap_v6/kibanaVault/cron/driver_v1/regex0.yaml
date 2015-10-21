@@ -1,0 +1,38 @@
+wireguard:
+  grpc: 6d15c25c
+  storage:
+    tests: null
+  udp:
+    bucket:
+      session: 3.89.182.167
+      replica: 8345
+      parser:
+        - false
+        - 8e153ec066ba83f6
+        - 228.205.40.211
+        - grafana-terraform
+    request:
+      mysql: null
+      traces: vault
+    migrations:
+      factory: true
+      postgres: 9220
+      coroutine: factory
+      controller: true
+      audit: coroutine
+    ceph: canary-jenkins
+    raid:
+      row: factory-fixtures
+      adapter: build
+      cookie:
+        - grpc-tools
+        - 40.113.120.209
+        - 67f16e316a22ee46
+  semaphore: cf707bad09ad9a69e49cf5e236169b1b
+  cache: 372d62baf20389459a29d05db9d2ce7c
+  buffer: 8763
+worker: d33d473cec7274e03fec53e0231aa462
+cli:
+  canary: 9670
+ingress: lexer
+audit: 9ccd9bfd14ed7d59

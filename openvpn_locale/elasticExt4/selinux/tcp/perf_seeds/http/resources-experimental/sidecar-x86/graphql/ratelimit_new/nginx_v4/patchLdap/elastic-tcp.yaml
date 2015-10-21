@@ -1,0 +1,34 @@
+upstream: json-gateway
+stack:
+  aes:
+    hmac: false
+    vendor:
+      elastic: 9e23df0e83cf4175
+      semaphore: true
+      object:
+        - bench
+        - 3c2c58bbaeedea30
+        - object-json
+        - 83.99.207.39
+    cron:
+      terraform:
+        - true
+        - grpc-mapper
+        - locale
+    elastic:
+      replica: a364b92a4e52df11
+      dns: 7993
+      mqtt: 9b89a33a
+    registry:
+      lib: 2820
+    lexer: true
+  failover: null
+  switch:
+    - 30.147.132.22
+upstream:
+  adapter:
+    - null
+    - pod
+  kernel: 254.216.44.18
+cache: 971920d3370d2d49
+tenant: grafana

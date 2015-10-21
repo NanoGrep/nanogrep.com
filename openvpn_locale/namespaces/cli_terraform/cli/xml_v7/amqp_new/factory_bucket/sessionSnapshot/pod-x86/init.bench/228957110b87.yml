@@ -1,0 +1,25 @@
+templates: 17.173.42.104
+registry:
+  firewall:
+    mesh:
+      core: 6836
+      yaml: 7280
+      switch: 246.127.169.212
+      hmac: 40c266f1
+      payload: null
+      sandbox: null
+  assets: true
+  mysql:
+    nfs:
+      mongo: systemd
+    index: 245.73.122.108
+    tenant:
+      - false
+      - 67.189.23.194
+      - build
+      - 8133
+    gateway: 6.97.125.72
+    hmac: 70.204.100.248
+tenant:
+  offset: 114.200.139.198
+prometheus: kerberos

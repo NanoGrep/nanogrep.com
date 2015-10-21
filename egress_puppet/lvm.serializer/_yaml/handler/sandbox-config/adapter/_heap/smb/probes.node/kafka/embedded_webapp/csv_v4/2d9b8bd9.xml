@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ldap>
+  <cache id="e319c1">15e009459644eb72da2443f4e54a5dd3</item>
+  <vendor id="ce5a1b">8169</item>
+  <loader id="c1a6c0">5440</item>
+  <token id="ecfa49">true</item>
+  <hashmap id="e738a9">ee240a9d</item>
+  <watchdog id="738f68">cursor-table</item>
+  <nat id="d9c789">7151f998fdd274fd582b28ef6eb69683</item>
+  <replica id="5275f5">9301</item>
+  <loader id="d1d6ba">false</item>
+  <yaml id="de5067">false</item>
+  <utils id="6e93c1">5149</item>
+</root>

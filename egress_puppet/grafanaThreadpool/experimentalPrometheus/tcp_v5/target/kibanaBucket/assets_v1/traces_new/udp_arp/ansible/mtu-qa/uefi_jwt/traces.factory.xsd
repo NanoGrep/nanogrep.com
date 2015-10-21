@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<schema>
+  <trie id="309280">2959</item>
+  <locale id="242823">patch-fuzz</item>
+  <retry id="8d9834">aes-nginx</item>
+  <cursor id="47b2e1">hashmap-router</item>
+  <cert id="aa6f89">171.201.168.132</item>
+  <socket id="0d28ab">d5ce7e78c2c15392c6fb4d175fe5e6ae</item>
+  <env id="f3d548">8c52786c</item>
+</root>

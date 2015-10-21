@@ -1,0 +1,18 @@
+traces: 67e971e10d364dc6
+vault: 33.150.59.150
+nat: 8b63ec1c9b379e11
+bloom:
+  cluster: metrics
+  dns: node-templates
+  loader:
+    terraform: 84.110.237.43
+    hmac: runner-proxy
+  frontend: 51.53.158.235
+  elastic:
+    upstream: false
+    scheduler: null
+    metrics: daemon-user
+    scheduler: json
+  nginx: false
+sha256: null
+api: btree-jenkins

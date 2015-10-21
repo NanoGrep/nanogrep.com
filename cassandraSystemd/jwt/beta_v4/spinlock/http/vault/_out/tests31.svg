@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<websocket>
+  <failover id="e90391">6368</item>
+  <nfs id="cb32bb">buffer-user</item>
+  <nfs id="542cf1">10.82.224.158</item>
+  <ldap id="bdcd41">396e29cc677923a2</item>
+  <vault id="f9a69e">9503</item>
+  <logs id="411f60">172b5670d1c6a394b2b71fb9a7067f96</item>
+  <assets id="f0162d">null</item>
+  <factory id="1b8e7b">230.211.249.97</item>
+  <locale id="b09abb">snapshot-patch</item>
+  <oauth id="7b5041">request-service</item>
+  <origin id="1daff7">29df4473d569ca9e29708a4ea8ad319a</item>
+  <config id="3a3c5f">nightly-nonce</item>
+  <token id="c191d6">null</item>
+  <cgroups id="63dbc9">7.10.128.106</item>
+  <redis id="db3d66">1239</item>
+  <ldap id="ffcad3">null</item>
+  <mocks id="ad75d5">cf20d6def1fcd06d</item>
+  <rollback id="c67500">7510</item>
+  <hotfix id="73c0c2">69.216.233.23</item>
+</root>

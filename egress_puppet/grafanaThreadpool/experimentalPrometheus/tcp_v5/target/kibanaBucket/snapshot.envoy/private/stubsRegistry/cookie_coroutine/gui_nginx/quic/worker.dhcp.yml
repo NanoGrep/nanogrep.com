@@ -1,0 +1,9 @@
+group: ceph
+mirror: 9e7bfffb
+prometheus: 99.194.236.46
+core:
+  semaphore: driver-protobuf
+  wireguard: 168.240.9.133
+  helm: dist
+  envoy: 6325
+pod: artifact

@@ -1,0 +1,49 @@
+{
+  "protobuf": false,
+  "redis": true,
+  "batch": null,
+  "mapper": [
+    [
+      {
+        "entropy": false,
+        "websocket": 8123,
+        "prometheus": "pod",
+        "protobuf": "f52342290728",
+        "crypto": 3780
+      },
+      false,
+      false
+    ]
+  ],
+  "row": [
+    {
+      "threadpool": null,
+      "traces": null
+    },
+    {
+      "helm": true,
+      "factory": "fbe1ac1eef9a",
+      "nfs": false,
+      "lexer": {
+        "cookie": true,
+        "stream": false,
+        "protobuf": 8382
+      },
+      "tenant": 3307
+    },
+    {
+      "helm": [
+        "jenkins",
+        null
+      ],
+      "mysql": null,
+      "trie": [
+        false,
+        true,
+        false
+      ],
+      "driver": null
+    }
+  ],
+  "vlan": null
+}

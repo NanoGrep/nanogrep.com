@@ -1,0 +1,47 @@
+dist:
+  stream: offset-tests
+  loader:
+    proxy: dist-pipeline
+    templates:
+      storage: 9751
+      index: true
+      protobuf: true
+      staging: controller
+      rollback: ldap-tools
+      response: 5379
+    row: 6454
+  envoy:
+    helm: e40efdb5ed7040b0
+    oauth: 2573
+    cgroups: 180.75.60.222
+    vxlan:
+      mqtt: null
+      worker: mirror-registry
+  snapshot:
+    - 91.45.244.6
+    - 153.210.157.1
+    - redis-lambda
+    - 2240
+systemd: offset
+vendor:
+  ansible: 97c08687683619007f67023a8398bb7e
+  bench: true
+  scripts:
+    table: true
+    dns:
+      zfs: redis-bench
+      postgres: bootstrap-gateway
+      upstream: cb198a8a
+  jwt:
+    storage: 35.251.134.3
+  tools:
+    gateway: 12.129.26.214
+    object:
+      node: 82.27.6.237
+      prod: 3238b6d3041ef77d
+      buffer: ldap-yaml
+      firewall: d5ffeac6
+      nonce: 254.148.119.251
+  oauth: 1507
+edge: ffe4ab7308c74aac1a625197d47bb515
+runner: false

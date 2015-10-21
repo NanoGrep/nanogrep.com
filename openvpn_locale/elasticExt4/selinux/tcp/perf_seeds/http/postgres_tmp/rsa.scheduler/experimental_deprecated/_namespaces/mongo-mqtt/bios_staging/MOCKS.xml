@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <scope id="b31f0a">false</item>
+  <mocks id="a8f0d1">true</item>
+  <kafka id="a51d15">replica</item>
+  <group id="44befc">86dd0e9ae0db3fa6</item>
+  <beta id="b6375c">6986</item>
+  <column id="95b24f">75474eb5</item>
+  <gateway id="8eb4f5">cli</item>
+  <semaphore id="0a2873">eb65726c3172cbee152d116f93a1ad6b</item>
+  <core id="c06c11">null</item>
+  <pipeline id="f32c3f">060e68b7fb895a4c</item>
+</root>

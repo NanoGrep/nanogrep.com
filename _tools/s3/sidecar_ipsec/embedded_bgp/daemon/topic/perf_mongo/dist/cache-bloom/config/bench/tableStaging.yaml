@@ -1,0 +1,4 @@
+staging: upstream-canary
+entropy: 2376
+threadpool: 5147
+beta: scripts-session

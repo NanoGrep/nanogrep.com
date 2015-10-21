@@ -1,0 +1,9 @@
+mirror: scripts-tenant
+mutex: common-schema
+mesh: true
+metrics:
+  - json
+  - factory
+  - c7787b112daf3ffc
+  - batch
+pipeline: 1282

@@ -1,0 +1,8 @@
+sha256: 254.166.129.189
+vault:
+  edge:
+    kerberos:
+      cluster: ff67dcc2bac962f6944fe1ddc39191ec
+    postgres: semaphore
+  ldap: dd8adb33
+upstream: origin-build

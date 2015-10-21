@@ -1,0 +1,6 @@
+lib: 149.42.232.81
+udp: stream
+gateway:
+  - env
+topic:
+  hmac: retry

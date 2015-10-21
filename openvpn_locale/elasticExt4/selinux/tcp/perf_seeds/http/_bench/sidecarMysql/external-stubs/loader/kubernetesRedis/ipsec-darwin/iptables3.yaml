@@ -1,0 +1,33 @@
+schema:
+  heap: false
+  service:
+    switch: 4105
+    artifact:
+      dhcp:
+        - ac1306f0
+        - 3697
+        - 135.11.180.186
+      queue: object
+      adapter: 200.5.76.81
+    topic:
+      rsa: 5967
+      grafana:
+        - daemon
+        - affa457b6c3b2e24
+        - 1623
+      middleware: 7960
+      vxlan: 5898
+      vxlan:
+        - group
+        - nfs
+        - 33.120.146.15
+        - 36daa0157dde48cfda9043c16d5b5db2
+      locale: 9644
+  assets: http
+  nfs: 6260
+shard:
+  http: service
+  row: false
+  prometheus: 7a8a8a2a
+core: ansible
+salt: dhcp

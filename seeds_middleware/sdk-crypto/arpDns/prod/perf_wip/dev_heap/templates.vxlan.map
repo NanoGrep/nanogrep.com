@@ -1,0 +1,14 @@
+[
+    null,
+    {
+        "rest": "mapper",
+        "table": {
+            "templates": {
+                "dhcp": "a928f398b2fe",
+                "cookie": false
+            }
+        },
+        "fixtures": 3254
+    },
+    false
+]

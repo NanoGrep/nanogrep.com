@@ -1,0 +1,114 @@
+mongo:
+  - 99.104.50.57
+scope:
+  upstream:
+    systemd: 1728
+    kernel: 2626
+    dns:
+      - 8457167b
+    tcp:
+      ceph: true
+      ansible: 229.100.190.239
+      lib: 8bc268ee117228da
+      group: scheduler
+    switch: 8ce666974aa8edf5
+  fixtures:
+    - cert-scripts
+    - 247.3.193.82
+    - 251.95.91.32
+    - 1342
+  backup:
+    bootstrap:
+      redis: nonce
+      lambda: 92d1f181a6397ca6
+      metrics: 136.196.242.245
+      ldap: firewall
+      nginx: null
+    router: request
+    bucket:
+      node: 2813
+      hmac: 6fe6bb0c
+      release:
+        - mirror-tests
+        - 5009
+        - 98.21.24.158
+        - 0367b957
+      release: false
+    nginx: 7063
+    mongo:
+      cache:
+        - 1537
+      bucket: a7d98da0
+  runner:
+    storage:
+      dns: false
+      elastic: 117.221.89.154
+      object: 4606
+      ldap: zfs
+      envoy: 696e5f56
+  adapter: hmac-compiler
+  scope:
+    - 5ddb084e
+    - f002b439
+    - 9424
+envoy:
+  nat: grpc-bootstrap
+tls:
+  trie:
+    cursor:
+      index: false
+      vlan: trie-cluster
+      scheduler: 45.175.247.193
+      helm: terraform
+      prod: e595efb2
+  cookie:
+    - dist
+    - backend
+    - 2129
+    - null
+  cursor:
+    dhcp: 2624
+    cli: nginx
+    dhcp:
+      envoy: 25b126e1
+    ldap:
+      - a74edb62e1964bd4
+      - bucket-rsa
+      - false
+      - mongo-snapshot
+  cluster: true
+  row:
+    - 233.228.66.170
+    - runner
+    - 9433
+    - 2fe15a4fe3fada8d3d02525b5f820765
+envoy:
+  nonce: 39b60fe96fedbc5e89f467180f4cbd80
+  failover: true
+  schema:
+    migrations: 161.32.221.28
+  bootstrap: 7c3ef247da1f06d33987f6c57ea3b160
+  systemd: 26f75d1d6b9cb337720e658b6b3fbc24
+socket:
+  mocks:
+    parser:
+      elastic: null
+      common:
+        - 129.165.14.39
+      websocket: prometheus
+      watchdog: 6978
+  vault: null
+  logs:
+    sha256: ceph
+    prod: 105.58.98.218
+    controller:
+      socket: true
+      worker: 118.118.28.67
+      failover: vendor-common
+      zfs:
+        - false
+        - 80.248.25.249
+        - true
+        - 147.205.14.194
+    protobuf:
+      config: 50.161.71.137

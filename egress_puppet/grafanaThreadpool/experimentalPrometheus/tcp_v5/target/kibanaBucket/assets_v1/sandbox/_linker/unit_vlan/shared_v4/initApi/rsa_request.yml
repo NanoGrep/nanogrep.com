@@ -1,0 +1,33 @@
+role: true
+schema: cache
+fuzz: heap-legacy
+offset:
+  failover:
+    prod:
+      common: cookie
+      wireguard: snapshot-index
+      cert: 3407741b6f21f641609cdac973c925eb
+      sandbox:
+        - null
+        - true
+        - metrics-templates
+        - 103.95.16.232
+      stream: 3f4da26236065e31
+      quic:
+        - 1ac2e2191eef2629
+        - 5738ece08f1dda8e
+        - 167.31.227.26
+    pipeline:
+      - false
+    retry: 205.123.113.157
+    mutex: router
+    group:
+      snapshot: tools-tenant
+      hashmap: 237.36.143.34
+  vendor:
+    - ldap
+  switch:
+    - sha256
+    - grafana-audit
+    - token-policy
+request: 3402

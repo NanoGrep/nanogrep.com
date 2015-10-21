@@ -1,0 +1,27 @@
+cgroups:
+  traces:
+    - 12867a84f99ee997ae7ab89bfe875ecc
+    - 232.236.71.193
+    - 202.249.64.106
+  stack: 2154
+  nfs: dns-http
+  bucket:
+    proxy:
+      row: 3169
+      batch: 9168
+    socket: 3.224.242.248
+    traces: dhcp-stack
+    locale:
+      ldap:
+        - 5d8415d35b863d46
+        - c9719763e2727ba2
+      vxlan: 5.161.243.253
+    rest: 6a7862dac96b6817
+  offset:
+    - 62.102.189.16
+    - response-cookie
+  migrations:
+    - 615
+    - prometheus-terraform
+    - true
+    - runner

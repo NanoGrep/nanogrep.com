@@ -1,0 +1,34 @@
+mesh: null
+handler:
+  hotfix:
+    elastic: null
+    batch:
+      locale: crypto
+      payload: 9119
+      vlan: ldap-daemon
+      build: firmware
+      mapper: zfs-vlan
+    regex:
+      rsa: false
+    watchdog: locale-migrations
+    pipeline:
+      origin: 44.183.78.32
+      kerberos: null
+      elastic:
+        - 8d0eee53
+        - topic
+        - 48e6344fa5919981c191db0b489adff0
+      coroutine:
+        - ldap-vault
+        - 9217
+        - ceph-loader
+      build: 113.84.184.69
+    cert:
+      - prod
+      - 45.109.165.82
+      - 246.235.42.9
+      - cert-schema
+  locale: 193.13.106.28
+  vxlan: 56.250.240.253
+  frontend: handler-failover
+  kafka: true

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<lambda>
+  <limit id="4d4b96">true</item>
+  <lib id="573f2a">runner-shard</item>
+  <regex id="9dbfb0">service-token</item>
+  <lexer id="72614b">true</item>
+  <vlan id="5d5c92">79.61.142.33</item>
+</root>

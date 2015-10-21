@@ -1,0 +1,41 @@
+watchdog:
+  vxlan: batch-nonce
+  envoy:
+    policy: 212.67.35.28
+    graphql:
+      mysql: true
+      registry: 9748f97a525e87b9809f760b08e312e6
+    group:
+      protobuf: rollback
+      utils: 644
+    nonce: true
+    ceph: router
+    cookie: 031dea5d
+  dhcp:
+    - 51.102.117.153
+    - 7900
+    - 0324fd770f828e44c6254de5dfcd6f22
+  offset: mocks
+buffer: false
+tenant:
+  - alerts
+  - null
+  - graphql-protobuf
+cgroups:
+  yaml:
+    - c76f6595
+    - 7f86ed2c9a40afcf75d6de28c270b770
+    - 201.97.56.29
+  beta:
+    legacy: a0900d16031c76c2
+    topic: probe-heap
+    failover: 149.58.138.101
+    logs: kernel-fixtures
+    cursor: false
+    btree: lib-parser
+  traces: fb6650136a9a61a6
+graphql: 4063
+traces:
+  regex: 233.191.181.166
+  row: btree
+  kernel: semaphore

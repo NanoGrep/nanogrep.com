@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<cors>
+  <policy id="5fb71e">6.92.184.153</item>
+  <stream id="62026c">null</item>
+  <lexer id="f0b509">true</item>
+  <alerts id="262107">2718</item>
+  <edge id="446f51">registry</item>
+  <payload id="82c300">true</item>
+  <logs id="87b20a">vxlan-mutex</item>
+  <entropy id="d1daff">handler</item>
+  <traces id="8c9676">topic-btree</item>
+  <edge id="673480">backend-helpers</item>
+  <metrics id="ccdf1d">artifact-policy</item>
+  <api id="2b0e66">184.202.212.143</item>
+  <middleware id="f9d4b8">staging-jenkins</item>
+  <ldap id="3b0b46">9a87d450</item>
+  <switch id="58df3c">15be491c</item>
+  <cursor id="c97152">env</item>
+  <runner id="29b437">cors</item>
+  <token id="b223b3">97.251.17.62</item>
+  <kafka id="823a47">patch</item>
+  <quic id="6dfe6a">adapter</item>
+  <env id="71e3bd">7e136bf12e4a380f</item>
+  <artifact id="83dd4f">8487</item>
+  <sha256 id="e5e374">mysql-compiler</item>
+  <nonce id="25cd78">false</item>
+</root>

@@ -1,0 +1,29 @@
+[
+  {
+    "yaml": [
+      "storage",
+      {
+        "tenant": null
+      }
+    ],
+    "build": true,
+    "aes": {
+      "wireguard": [
+        "4aba1e5601c5"
+      ],
+      "aes": [],
+      "switch": {
+        "coroutine": null,
+        "switch": 1778
+      },
+      "trie": {
+        "worker": "4ba28395da59"
+      }
+    }
+  },
+  {
+    "hmac": "0dfdf37a3f89",
+    "origin": false
+  },
+  "5ebf9418ed26"
+]

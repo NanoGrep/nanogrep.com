@@ -1,0 +1,13 @@
+nat: 8653
+ldap:
+  adapter: false
+  beta: 4930
+  cron:
+    traces: frontend-origin
+    node: false
+tenant:
+  - 98.16.87.245
+queue:
+  jenkins: 5008
+schema: service-offset
+adapter: null

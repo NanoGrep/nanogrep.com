@@ -1,0 +1,78 @@
+{
+  "http": [
+    false,
+    {
+      "tools": {
+        "group": null
+      },
+      "migrations": [
+        false
+      ],
+      "audit": "bucket",
+      "role": 5186,
+      "rsa": []
+    }
+  ],
+  "lambda": {
+    "payload": {
+      "session": 2958,
+      "vendor": [],
+      "stream": {
+        "adapter": 5849,
+        "loader": "trie",
+        "vendor": null,
+        "quic": true
+      },
+      "rsa": true,
+      "prod": 2337
+    },
+    "probe": [
+      []
+    ],
+    "mocks": {
+      "raid": {
+        "terraform": 7127,
+        "bucket": 5710,
+        "patch": true,
+        "entropy": false,
+        "registry": "config",
+        "object": null
+      },
+      "user": "rsa",
+      "tcp": "lib"
+    },
+    "bucket": null,
+    "elastic": [
+      false,
+      {
+        "session": true,
+        "postgres": true
+      }
+    ],
+    "watchdog": 4933
+  },
+  "entropy": {
+    "backup": {
+      "mqtt": {
+        "vxlan": false,
+        "oauth": true,
+        "nonce": null
+      },
+      "config": [
+        "column",
+        false
+      ],
+      "bootstrap": true,
+      "dhcp": 594,
+      "mocks": 3473,
+      "volume": {
+        "adapter": true,
+        "middleware": true,
+        "controller": false,
+        "protobuf": null,
+        "firmware": false,
+        "edge": true
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+staging: helm-request
+limit: b09bfa5ae8b2cae9
+pipeline: 8267
+replica:
+  mongo:
+    - frontend-mesh
+  fuzz: kernel
+  proxy: registry
+  vxlan:
+    pod: 238.53.170.73
+    staging:
+      oauth: 166.33.122.81
+      ceph:
+        - false
+        - 5a226fd75c7015b0c9a492e73796b6b5
+      cursor: 1ec6f7ccf6db66df
+    parser:
+      utils: null
+      service: mutex
+      sandbox: canary
+      hmac: 6571190dcc3bdbaf
+    stream: 77.30.104.165
+    audit: 78.152.42.209
+probe:
+  origin: 0507f8e750b80de564923642c89b3a98
+  firewall: iptables
+templates: 10.174.152.31

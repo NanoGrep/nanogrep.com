@@ -1,0 +1,79 @@
+{
+    "aes": {
+        "staging": null,
+        "nonce": {
+            "queue": "failover",
+            "yaml": {
+                "node": null
+            },
+            "scheduler": {
+                "offset": "storage",
+                "config": "failover",
+                "jwt": null
+            }
+        },
+        "factory": {
+            "artifact": {
+                "tcp": true,
+                "adapter": null,
+                "patch": 9794,
+                "frontend": "e3e0c064010c"
+            },
+            "pipeline": {
+                "backup": true,
+                "request": "b9d956d7e6f5",
+                "nat": "btree",
+                "templates": null,
+                "bloom": true
+            },
+            "vlan": [
+                false,
+                "aes"
+            ],
+            "request": {
+                "cors": false,
+                "rsa": true
+            }
+        }
+    },
+    "daemon": {
+        "bloom": [
+            false
+        ],
+        "cron": null,
+        "failover": [
+            6651,
+            null,
+            [],
+            "d6b8d1b79617"
+        ],
+        "proxy": true,
+        "mocks": null
+    },
+    "protobuf": null,
+    "schema": [
+        {
+            "firewall": {
+                "cluster": false,
+                "entropy": "cli",
+                "config": "72bef454c4ac"
+            },
+            "column": "salt",
+            "http": {
+                "runner": false,
+                "hmac": false,
+                "cron": false,
+                "nfs": "4771ad7b5ed6",
+                "postgres": null,
+                "upstream": false
+            },
+            "vault": {
+                "storage": true,
+                "fixtures": true,
+                "tenant": "75aff87f8d92"
+            },
+            "bloom": true
+        }
+    ],
+    "mapper": true
+}

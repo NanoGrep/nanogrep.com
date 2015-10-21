@@ -1,0 +1,38 @@
+kafka: 7189
+locale:
+  fuzz:
+    salt:
+      bucket: jwt-pod
+      cert: 86.76.187.228
+      handler: http-dns
+      nat: 2828
+      release: true
+    hmac: false
+    hmac: graphql-nginx
+    stack: 148.66.174.84
+  pod: 91befdff2e0b2aa95d6568a4ab6e81aa
+  bench: 15.151.151.108
+  api:
+    mysql: object
+    hashmap:
+      router: null
+      heap: tls-watchdog
+      common: user
+      config: 184.190.218.43
+      nginx: table-request
+  vault:
+    migrations:
+      assets: false
+      websocket: ab7f6154
+    mocks:
+      - 279
+      - mapper-schema
+      - true
+      - 176.218.97.153
+    prometheus:
+      node: 60.248.95.203
+      topic: bd2c7e45
+      scripts: true
+      probe: true
+    tenant:
+      cron: alerts

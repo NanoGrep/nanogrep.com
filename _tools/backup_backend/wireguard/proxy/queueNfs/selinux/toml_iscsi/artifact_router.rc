@@ -1,0 +1,24 @@
+[helpers]
+socketmetrics = ab22becd
+node.backup = config
+registry_env = 161
+response.backup = null
+watchdog.vendor = 3d54cc5b60aba847d1ec3697af2783fb
+bench_coroutine = 166.228.207.250
+
+[yaml]
+adaptersession = cookie-ingress
+prometheus_router = 13.206.14.124
+patch_yaml = schema
+oauthloader = backend-tools
+rollback.prometheus = table
+upstream.loader = registry-quic
+tenant_scripts = 7b4ab84cf3d0cb27
+logs_socket = null
+sha256_offset = tests-graphql
+terraform.semaphore = null
+rest.nginx = frontend
+auditpayload = 7916
+salt_tenant = null
+release_btree = 4ed7dd7b8b1fc5d5
+saltjenkins = 78.136.218.230

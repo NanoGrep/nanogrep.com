@@ -1,0 +1,37 @@
+kerberos:
+  shard:
+    rest: cgroups-quic
+    crypto: 112.6.128.64
+    snapshot:
+      mirror: probe
+      canary: 194.133.1.252
+      controller: 9843
+      aes: raid-tls
+      fuzz: heap
+      daemon: 0b2db6dbd3f8ae211cd78b591675c3a0
+    cli: daemon
+    ldap:
+      helm: 197.144.46.78
+      limit: 8761
+  rest:
+    mocks: mesh
+    nightly: cors
+  env: frontend
+entropy: loader
+tcp:
+  - false
+  - pod-snapshot
+  - probe-session
+vault:
+  bench: true
+  backup:
+    - true
+    - 9010
+  group: 6754
+  rest:
+    - cgroups-rollback
+    - ceph
+    - 73c16adff6c28df7
+  prometheus: 136.202.237.73
+lexer: 1cb34ef0e5e38697b3969de758a66228
+subnet: c717d38c

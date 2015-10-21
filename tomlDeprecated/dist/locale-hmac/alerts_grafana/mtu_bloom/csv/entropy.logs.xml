@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ldap>
+  <proxy id="deb0f2">true</item>
+  <vlan id="8dcf65">318722c8</item>
+  <helpers id="66ff4e">null</item>
+  <lexer id="66ebca">null</item>
+  <grafana id="46ef56">raid</item>
+</root>

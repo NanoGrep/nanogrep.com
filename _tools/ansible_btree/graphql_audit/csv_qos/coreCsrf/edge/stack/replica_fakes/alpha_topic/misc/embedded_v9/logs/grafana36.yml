@@ -1,0 +1,25 @@
+semaphore: 7410
+nonce:
+  vlan: nfs-driver
+  payload:
+    tcp:
+      pod: cli-release
+      regex: prod
+    redis: tenant
+    gateway: null
+    daemon: 9078
+    helpers: true
+    threadpool:
+      - false
+      - tenant-token
+      - 1813
+  rsa: null
+  tools:
+    token:
+      - 39cdab58ebd3e8fb
+      - be59bf89
+      - 6799
+      - driver
+  cgroups: 191.86.90.229
+column: tests-adapter
+tools: ec139fd9aeadbdd8

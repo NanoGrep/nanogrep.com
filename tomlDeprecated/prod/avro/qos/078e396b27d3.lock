@@ -1,0 +1,59 @@
+{
+    "cookie": {
+        "ansible": false
+    },
+    "tcp": {
+        "tests": "bucket",
+        "lambda": 8224,
+        "tools": {
+            "systemd": true,
+            "watchdog": {
+                "kerberos": "fa39ed90b54e",
+                "scope": true,
+                "adapter": "4efdad4dcc8a",
+                "udp": null
+            },
+            "helpers": [
+                null,
+                "switch",
+                true
+            ],
+            "mutex": "mqtt",
+            "zfs": {
+                "vault": true,
+                "config": 6548,
+                "mesh": "fc89cb26fe41",
+                "snapshot": "migrations",
+                "vxlan": "limit"
+            },
+            "iptables": {
+                "alerts": false,
+                "controller": false,
+                "group": false,
+                "cgroups": false,
+                "storage": "6e947120a58b"
+            }
+        },
+        "stack": {
+            "storage": {
+                "retry": false,
+                "helpers": "locale",
+                "limit": false,
+                "ldap": "62e0420ba607",
+                "beta": true,
+                "edge": "0979a93c9ac8"
+            },
+            "build": [
+                "343e5a2c61d4",
+                true,
+                9530
+            ],
+            "http": "df95be4a42a8",
+            "redis": {
+                "shard": 1532
+            },
+            "failover": "switch"
+        },
+        "runner": "8ef144d71c40"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "salt": "17c7e00f2c50",
+    "fuzz": {
+        "udp": 3567,
+        "ldap": {
+            "kafka": null,
+            "graphql": {
+                "helm": "ff61d3fd4f1f",
+                "utils": null,
+                "mysql": "cors"
+            },
+            "socket": {
+                "lib": "c36c8ca82a49",
+                "subnet": true
+            }
+        }
+    },
+    "bloom": [],
+    "elastic": {
+        "legacy": {
+            "patch": [
+                "websocket",
+                "request",
+                "3974e28d2c01"
+            ],
+            "mqtt": true,
+            "handler": [],
+            "bucket": {
+                "registry": null
+            },
+            "router": {
+                "traces": false,
+                "queue": false
+            }
+        }
+    },
+    "backend": {
+        "column": {
+            "lib": {
+                "sha256": 2453,
+                "stream": false,
+                "node": null,
+                "probe": "payload",
+                "dhcp": 9289,
+                "cors": true
+            }
+        },
+        "http": [
+            {
+                "cluster": "threadpool",
+                "mesh": "ceph"
+            },
+            {
+                "vendor": 1371,
+                "buffer": "d914d07902c1"
+            },
+            {
+                "policy": true,
+                "mapper": 9450,
+                "mocks": null,
+                "envoy": "locale",
+                "bootstrap": "nfs"
+            },
+            "json"
+        ],
+        "entropy": {
+            "batch": {
+                "ldap": "144a418252b6",
+                "batch": 2344,
+                "tcp": false,
+                "retry": false,
+                "stack": null
+            },
+            "index": [],
+            "nightly": "4378db365d92",
+            "grpc": [
+                1463,
+                false,
+                3417
+            ],
+            "column": null
+        },
+        "rollback": [
+            {
+                "origin": false,
+                "threadpool": false,
+                "staging": true
+            },
+            {
+                "table": "c125c80d25aa"
+            },
+            true
+        ],
+        "cert": {
+            "storage": {
+                "cluster": null,
+                "threadpool": "c0ddb1b89497",
+                "grafana": false,
+                "pipeline": false
+            },
+            "role": [
+                true
+            ],
+            "regex": null,
+            "traces": "traces",
+            "aes": {
+                "firmware": "9d13c178bf99",
+                "limit": false,
+                "entropy": "row"
+            }
+        },
+        "sdk": null
+    },
+    "socket": [
+        {
+            "systemd": {
+                "crypto": "bac50f40064a",
+                "subnet": 5790
+            },
+            "lambda": null
+        },
+        "batch",
+        "rollback",
+        []
+    ]
+}

@@ -1,0 +1,32 @@
+proxy: 7034
+switch:
+  runner: schema
+  table: 2578
+  retry: 95.63.165.193
+  edge:
+    vendor: vlan-runner
+    cluster: 241.102.183.222
+    tenant: 160f50f39e7c153a42f2790871f75232
+    pod: null
+  logs: false
+schema: null
+upstream:
+  daemon: 5be78e299f022b3c2357d10b95bb2398
+  cgroups:
+    lambda: topic
+    table:
+      controller: true
+      pod: 9245
+      column: 2008
+      cli:
+        - 7563
+        - 124.99.227.131
+        - true
+        - 536
+      factory: 235.4.112.133
+  rollback: 1ef6193ce2032d6d
+  stack: hashmap-scheduler
+  crypto: fbec998a
+  edge: false
+daemon: 18.12.191.37
+socket: 207.0.80.59

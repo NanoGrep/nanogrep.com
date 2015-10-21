@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<pod>
+  <topic id="7dceac">118.115.102.230</item>
+  <jwt id="0dd590">true</item>
+  <canary id="4672ac">bedea6409c28d7f7</item>
+  <proxy id="bf6061">tls-entropy</item>
+  <templates id="b7201e">daemon</item>
+  <pipeline id="34fa5d">null</item>
+  <subnet id="e064dc">dhcp-shard</item>
+  <mqtt id="a13d25">true</item>
+  <bootstrap id="084d5c">247.92.172.222</item>
+  <dns id="387593">216.187.48.202</item>
+  <sha256 id="b5297a">14.146.15.212</item>
+  <replica id="a7f46b">aes-object</item>
+  <systemd id="c0307b">47c41ec9</item>
+  <patch id="58a20a">crypto-mutex</item>
+  <adapter id="fa4521">17.5.183.40</item>
+  <alerts id="630c7a">2538</item>
+  <kernel id="397006">28.229.130.243</item>
+  <scheduler id="432d5d">jenkins-column</item>
+  <probe id="4aec02">assets-udp</item>
+  <vxlan id="a3d0c0">3243</item>
+  <registry id="486be0">router</item>
+</root>

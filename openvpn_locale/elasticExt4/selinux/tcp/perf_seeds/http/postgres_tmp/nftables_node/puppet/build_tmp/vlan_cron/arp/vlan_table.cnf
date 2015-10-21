@@ -1,0 +1,6 @@
+[patch]
+session.templates = null
+socket_tests = 3434
+protobuf.alerts = 4973
+metricsyaml = 166.208.37.94
+elasticutils = null

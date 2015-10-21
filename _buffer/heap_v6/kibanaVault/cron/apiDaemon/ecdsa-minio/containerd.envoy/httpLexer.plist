@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<prometheus>
+  <fixtures id="a22e05">true</item>
+  <cgroups id="f6a69c">205.193.214.119</item>
+  <worker id="de12c7">null</item>
+  <loader id="daa754">c541d9b8215cebd535a2cfdb43e99a83</item>
+  <retry id="489363">true</item>
+  <systemd id="595eaf">group-bench</item>
+  <sandbox id="f77080">limit-nightly</item>
+  <kerberos id="ea12aa">sandbox</item>
+  <socket id="564b52">2307</item>
+  <backup id="fca76c">backend</item>
+  <metrics id="af7d33">upstream</item>
+  <vxlan id="a0b757">70b3b87f6ccc50decdc622600cf66be1</item>
+  <parser id="c62fe5">cluster</item>
+  <offset id="31dd9d">a576160700d8fa96e1b405c05bef237a</item>
+  <locale id="3d34de">compiler</item>
+  <migrations id="cf916e">206.79.53.9</item>
+  <utils id="9c94fb">0c07a3182f7f7d5ae0babb24bfe1765a</item>
+  <jenkins id="b6f23c">6311</item>
+  <dns id="25ed75">loader</item>
+  <cors id="a195cd">28a7cafcbde5ee23</item>
+  <locale id="20a049">2ab26081</item>
+  <replica id="f6a6c9">9251</item>
+  <dhcp id="7c1144">146.211.11.128</item>
+</root>

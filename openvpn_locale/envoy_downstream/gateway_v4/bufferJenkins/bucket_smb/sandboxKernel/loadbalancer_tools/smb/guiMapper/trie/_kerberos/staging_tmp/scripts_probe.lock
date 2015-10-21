@@ -1,0 +1,87 @@
+{
+    "driver": {
+        "mapper": "43ab66faec4f",
+        "cli": {
+            "semaphore": {
+                "scheduler": 8741,
+                "systemd": "ec8c263f5c8a",
+                "watchdog": "migrations"
+            }
+        },
+        "zfs": {
+            "switch": {
+                "env": "22e418fa2541",
+                "firewall": null
+            },
+            "cert": "f63aa2ef91d3",
+            "graphql": {
+                "column": "dhcp",
+                "parser": "583c407dfaa8",
+                "cert": 929,
+                "entropy": true,
+                "sandbox": true
+            },
+            "quic": {
+                "aes": "c6fbae4eba29",
+                "mirror": 1695,
+                "schema": false,
+                "cgroups": null,
+                "iptables": null
+            }
+        },
+        "utils": [
+            {
+                "storage": 8490,
+                "policy": "bc9274ef8dd6",
+                "user": true
+            },
+            {
+                "upstream": "2bbbf3e6e356"
+            },
+            true,
+            {
+                "schema": null,
+                "redis": "dist"
+            }
+        ],
+        "redis": {
+            "cursor": false,
+            "rollback": null,
+            "stream": {
+                "bgp": true,
+                "release": false,
+                "snapshot": 8654,
+                "limit": "4a9e2bf395ae"
+            },
+            "kerberos": {
+                "scheduler": "http",
+                "payload": "4b4c8d4dec5b"
+            }
+        },
+        "nonce": {
+            "jenkins": "row",
+            "cron": true,
+            "terraform": {
+                "zfs": null
+            },
+            "common": {
+                "crypto": "04187ce742aa",
+                "router": null,
+                "nfs": true
+            },
+            "service": {
+                "terraform": 6718,
+                "vlan": "logs"
+            },
+            "yaml": {
+                "audit": "62a37b300053",
+                "storage": "74d7f98edcd4",
+                "lib": true,
+                "dhcp": "replica",
+                "column": "bc234532fdd4"
+            }
+        }
+    },
+    "edge": false,
+    "nginx": true
+}

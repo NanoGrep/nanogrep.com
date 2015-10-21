@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<prometheus>
+  <request id="202946">ldap</item>
+  <factory id="514d19">false</item>
+  <nonce id="5ff509">raid</item>
+  <nat id="49b539">scripts</item>
+  <adapter id="804ac4">true</item>
+  <ldap id="8341a2">request</item>
+  <nat id="5fdd5d">build-rest</item>
+  <proxy id="2d9bc0">false</item>
+  <common id="94f942">6332</item>
+  <kernel id="183f54">6ecbe96927aa221c05c5746bae863e3c</item>
+  <lambda id="71020b">4664</item>
+  <env id="d2cece">sandbox-retry</item>
+  <zfs id="9de2d6">false</item>
+</root>

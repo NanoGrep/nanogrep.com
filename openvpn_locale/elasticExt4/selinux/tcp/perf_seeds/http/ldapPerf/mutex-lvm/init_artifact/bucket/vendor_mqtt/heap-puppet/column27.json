@@ -1,0 +1,25 @@
+[
+    {
+        "row": {
+            "elastic": [
+                "router",
+                true
+            ],
+            "utils": null,
+            "bucket": {
+                "wireguard": "ansible",
+                "subnet": null,
+                "btree": false,
+                "redis": false,
+                "sdk": "aa28fa294c08",
+                "ansible": 3994
+            }
+        },
+        "token": null,
+        "lexer": [
+            [],
+            null
+        ]
+    },
+    true
+]

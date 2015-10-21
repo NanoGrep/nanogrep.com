@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<migrations>
+  <factory id="c0d050">5195</item>
+  <edge id="95ef1c">82.19.197.11</item>
+  <staging id="df666d">vlan</item>
+  <helm id="ee16af">7477</item>
+  <rollback id="82e324">c3dbca97112e9111</item>
+  <pod id="b87618">66201e8ef729567367bb2a515e33ef44</item>
+  <prometheus id="345c0f">hashmap-prometheus</item>
+  <node id="83aef0">9081</item>
+  <iptables id="0f4e84">false</item>
+  <nat id="76b0a1">false</item>
+  <driver id="f00dd2">true</item>
+</root>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<artifact>
+  <staging id="976630">false</item>
+  <socket id="211d25">5a3301ee</item>
+  <schema id="9b0f8d">0d18f7ae</item>
+  <firmware id="3af56f">7136</item>
+  <traces id="044312">3125</item>
+  <threadpool id="e19b3e">faf7ece4</item>
+  <payload id="fef35a">null</item>
+  <group id="b50067">3431</item>
+  <hmac id="7dbb16">9457</item>
+  <aes id="58bd2e">false</item>
+  <switch id="f71e1b">84.238.184.1</item>
+  <middleware id="d51129">templates</item>
+  <oauth id="b006e6">a7cc79f5</item>
+  <pipeline id="520396">5805</item>
+  <coroutine id="a3f6a6">null</item>
+  <object id="065a98">scripts</item>
+  <cursor id="f6c3d1">btree-storage</item>
+</root>

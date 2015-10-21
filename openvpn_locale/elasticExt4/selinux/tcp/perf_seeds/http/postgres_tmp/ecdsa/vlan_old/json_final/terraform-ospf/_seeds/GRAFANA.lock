@@ -1,0 +1,17 @@
+{
+  "policy": true,
+  "volume": [
+    "http"
+  ],
+  "postgres": [
+    [],
+    "cookie",
+    {
+      "audit": {
+        "entropy": "origin"
+      }
+    },
+    true
+  ],
+  "vault": "da3f39af2f28"
+}

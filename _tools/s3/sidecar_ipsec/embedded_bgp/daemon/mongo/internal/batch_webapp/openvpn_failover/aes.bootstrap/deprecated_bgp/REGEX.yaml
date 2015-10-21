@@ -1,0 +1,54 @@
+index:
+  backup:
+    ingress: elastic-json
+    mqtt: redis
+  websocket: false
+  probe:
+    raid:
+      - f1a70df68b74845b
+      - true
+    terraform: 66.106.236.252
+    kerberos: 34.231.246.210
+    legacy: 613
+  tcp: 5396
+  utils:
+    failover:
+      firewall: compiler-column
+      envoy: 219.38.171.52
+      worker: 224.160.205.145
+    mesh:
+      index: 90.163.140.84
+      bench: 128.97.166.180
+      nat: 139
+    tests:
+      pod: postgres
+    trie:
+      index: common-redis
+      cors:
+        - false
+      redis: 61e6156aff08b79af6a1ee01522e8637
+      fuzz:
+        - 1eb5249f
+    topic:
+      dist: 2013
+    cookie: 290ee3d29ddc316d816a62bb9a69e931
+  fuzz:
+    policy:
+      threadpool: request
+      json: schema
+      node:
+        - true
+      tls: vault
+      pod: staging
+    bloom: true
+cache:
+  router: 7c2f8f3ad1776e4ec4c3e6b9653e118b
+  crypto:
+    - cgroups-bloom
+    - 30a4621432b482cc
+    - c30771ca6e580599
+    - edge
+edge:
+  websocket: 4518
+  jwt: 159.162.169.242
+index: json-cors

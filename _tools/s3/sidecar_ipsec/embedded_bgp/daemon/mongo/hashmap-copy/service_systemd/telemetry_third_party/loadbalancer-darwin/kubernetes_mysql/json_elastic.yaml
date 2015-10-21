@@ -1,0 +1,24 @@
+zfs: true
+upstream: 2753
+oauth: 927
+nat: 0e64a0bc3e802de0
+nonce:
+  scripts:
+    cert:
+      websocket: 4d66c0925c546b32da952532a1741ca3
+      nginx: response-rest
+      coroutine: de943947
+      dns: 232.164.63.198
+      dist: 41.46.65.216
+    batch:
+      cron: b7f2f94dccaacfdb
+      grpc: factory-driver
+      core: 2464
+      crypto: true
+    audit:
+      - 9d0b7e22
+    index: 168.172.135.181
+  build: true
+  scripts:
+    - 17.46.158.201
+core: scope-fuzz

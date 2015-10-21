@@ -1,0 +1,66 @@
+{
+    "dhcp": {
+        "dhcp": null,
+        "factory": {
+            "api": false,
+            "elastic": null,
+            "lambda": {
+                "grafana": "cli",
+                "retry": "controller",
+                "edge": "c069dffc1dcf"
+            },
+            "stack": [],
+            "retry": null,
+            "registry": {
+                "session": null,
+                "edge": true,
+                "semaphore": 8926,
+                "mesh": null
+            }
+        },
+        "helm": {
+            "service": {
+                "mutex": 5328
+            },
+            "entropy": {
+                "retry": true,
+                "quic": 4937,
+                "vault": "30bac228b1f4"
+            },
+            "row": [
+                false,
+                true,
+                false
+            ],
+            "prod": [],
+            "sandbox": {
+                "metrics": "dd3e31237054",
+                "zfs": false,
+                "scripts": null,
+                "limit": "3fdb3f53865a"
+            },
+            "traces": [
+                2860,
+                true
+            ]
+        },
+        "websocket": {
+            "nightly": true,
+            "kernel": true
+        },
+        "cursor": {
+            "artifact": {
+                "mapper": null,
+                "helm": null
+            },
+            "request": {
+                "cookie": "bgp",
+                "mutex": true,
+                "zfs": "42400fe8a647",
+                "sha256": "003cf30f7c0f"
+            },
+            "metrics": 4411,
+            "bench": true
+        }
+    }
+}

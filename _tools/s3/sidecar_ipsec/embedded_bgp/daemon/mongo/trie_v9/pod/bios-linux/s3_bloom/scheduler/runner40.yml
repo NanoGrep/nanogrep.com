@@ -1,0 +1,33 @@
+cert: 1959
+semaphore: null
+grafana:
+  nfs:
+    index: 144.231.117.29
+  table: quic
+  templates:
+    threadpool: 7635
+    object: 228
+    dhcp:
+      - 400
+      - 172.16.97.21
+      - wireguard
+    nightly: 12.251.19.100
+    mqtt:
+      - 153.179.207.151
+      - 6390
+      - websocket-sha256
+      - 87.29.197.61
+    probe: null
+  dhcp:
+    common: 251.87.54.198
+    driver: alerts-tenant
+    mysql: stream-origin
+    snapshot: null
+    firewall:
+      cron: 203.11.210.134
+      yaml: 171.7.251.209
+      retry: 213.148.115.222
+      batch: socket-salt
+      parser: mutex-systemd
+      vendor: 162.147.2.41
+  hotfix: 30dcfcd3dbb36665

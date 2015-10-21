@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<alerts>
+  <zfs id="674690">6510</item>
+  <driver id="50f201">tls-mocks</item>
+  <lib id="f596ca">true</item>
+  <queue id="f18b29">1674</item>
+  <protobuf id="1e7301">heap</item>
+  <patch id="4f5cd8">3677</item>
+  <node id="a83d42">31.21.31.66</item>
+  <vault id="312081">5894</item>
+  <parser id="5d9dff">null</item>
+  <assets id="1f3944">5703</item>
+  <kafka id="148936">true</item>
+  <vendor id="5e743f">9792</item>
+  <runner id="a539a4">true</item>
+  <aes id="e99d9f">3915</item>
+  <probe id="11996c">217.162.100.72</item>
+  <cron id="008c79">null</item>
+  <audit id="074bf7">f726152a93a34f31</item>
+  <firewall id="fa0064">9935</item>
+  <vxlan id="27cc34">257</item>
+  <utils id="58296b">true</item>
+  <scope id="e1c6fe">heap-switch</item>
+  <role id="d8e3be">150.45.16.10</item>
+  <watchdog id="f5c1ac">nat-dns</item>
+  <cluster id="c7af90">false</item>
+  <coroutine id="29538c">true</item>
+</root>

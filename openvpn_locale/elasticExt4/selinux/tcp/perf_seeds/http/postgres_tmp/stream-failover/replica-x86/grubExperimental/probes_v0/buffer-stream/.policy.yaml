@@ -1,0 +1,34 @@
+fuzz:
+  queue: graphql-alerts
+  templates: 209.165.34.3
+  hmac:
+    payload:
+      - true
+      - factory-user
+      - 80.7.237.211
+      - migrations-router
+    entropy: 191.67.236.97
+    role:
+      sandbox:
+        - vxlan
+        - false
+      retry: nonce
+      zfs: 158b4777383b5c35
+      patch: 800d2cde0b295a80
+      service: scope-threadpool
+    traces: watchdog-locale
+    vault:
+      staging: assets
+    mongo: proxy
+  dhcp: 5459
+  storage: dns-tcp
+  controller:
+    - 7145b226
+    - 2094
+    - hashmap-ceph
+    - failover-utils
+tools:
+  release:
+    - yaml
+    - 91.248.232.201
+  bench: dec59d8a

@@ -1,0 +1,4 @@
+alerts: true
+pipeline: policy-schema
+api:
+  - null

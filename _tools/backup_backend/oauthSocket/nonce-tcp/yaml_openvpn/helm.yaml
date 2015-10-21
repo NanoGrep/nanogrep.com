@@ -1,0 +1,31 @@
+pipeline:
+  retry:
+    - socket
+    - bootstrap-shard
+  prod:
+    redis:
+      locale: helpers
+      shard:
+        - e687eca47df5cf503a2cffcb63ba39ed
+        - aes
+      schema: group
+      templates:
+        - 118.13.26.247
+        - 68.108.229.60
+      column: null
+      lambda: failover
+    helpers: 90.228.208.216
+    nat: 352
+    coroutine: entropy
+  migrations:
+    migrations:
+      worker: null
+    watchdog: null
+    backup:
+      - kernel-runner
+      - 60bd60b3a5e6d2c24fb1fb95b4a7071f
+      - null
+      - raid
+    group:
+      - true
+    bloom: 105.71.35.211

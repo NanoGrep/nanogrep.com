@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<lexer>
+  <dhcp id="547ba0">schema</item>
+  <config id="36bbd7">250.91.11.75</item>
+  <oauth id="37f92d">29.19.75.51</item>
+  <config id="d7b8ce">true</item>
+  <kernel id="72c46e">helm-middleware</item>
+  <factory id="64a61e">null</item>
+  <templates id="0045fe">rollback-config</item>
+  <crypto id="930271">offset-api</item>
+  <scope id="6a45cf">compiler-cookie</item>
+  <canary id="2a4fda">vlan-elastic</item>
+</root>

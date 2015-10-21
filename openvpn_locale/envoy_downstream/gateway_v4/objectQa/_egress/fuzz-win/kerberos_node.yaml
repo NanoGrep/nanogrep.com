@@ -1,0 +1,35 @@
+quic: 77db8db9
+loader:
+  udp: kerberos
+  migrations: coroutine-patch
+  queue:
+    assets: 6803
+    elastic: adapter-nightly
+    probe: 249.135.94.164
+    ceph: 241.182.167.240
+  systemd: elastic-iptables
+sha256:
+  jwt:
+    volume: f0484eca371c17e8
+    backup:
+      volume: redis-payload
+      fuzz: bgp-heap
+      nfs:
+        - null
+        - jenkins-pod
+        - sdk
+        - true
+      replica: 57.81.215.16
+      table: middleware
+    watchdog: null
+    loader: 229.214.209.151
+    postgres: 8b5a8c78
+    artifact: 2eba0218
+  tcp: cache
+  rollback: 7fa040d954ef8ce002adeb72a9f45ec1
+  assets:
+    - 1b161007d340bd9e35c14009fd9519ff
+    - rest
+  prod:
+    bootstrap: c1990c0b
+    cli: sdk

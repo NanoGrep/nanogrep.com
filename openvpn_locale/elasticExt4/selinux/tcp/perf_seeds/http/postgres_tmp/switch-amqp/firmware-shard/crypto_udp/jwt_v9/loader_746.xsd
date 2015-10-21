@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<beta>
+  <aes id="44bba2">9e4fde69677ee124</item>
+  <fuzz id="49d802">108.201.97.209</item>
+  <prod id="f179c3">cli-cluster</item>
+  <cursor id="49ac91">false</item>
+  <scope id="3cd20e">udp-pipeline</item>
+  <build id="a595fb">2d108168cc51d6e1f4b7bc2aa66e9742</item>
+  <probe id="664e4f">cursor</item>
+  <scope id="541d05">nightly-pipeline</item>
+  <cookie id="1b5d10">125</item>
+  <controller id="358763">43.168.174.31</item>
+  <mocks id="c933d5">74.105.82.200</item>
+  <replica id="4273c6">cors</item>
+  <alerts id="c5d5af">true</item>
+  <fuzz id="80e353">c056eb5dc31e30dbfa070465da113af3</item>
+  <env id="96734b">2080832ffce6b68bd8d5157ab00afa0b</item>
+  <common id="058783">null</item>
+  <nonce id="8383c1">032bea369353f48c</item>
+</root>

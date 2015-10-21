@@ -1,0 +1,4 @@
+loader: 12c4c0bb018a5464
+patch: websocket
+probe: wireguard
+policy: index

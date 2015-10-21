@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<hotfix>
+  <mesh id="3f1cbc">null</item>
+  <parser id="fa0ee6">core-rollback</item>
+  <yaml id="7127c8">54a15253</item>
+  <iptables id="4fa213">146.28.18.214</item>
+  <nfs id="cf3b12">bgp</item>
+  <rest id="8ebe0a">b0b2794d</item>
+  <snapshot id="e1d7a4">true</item>
+</root>

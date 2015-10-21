@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<cert>
+  <fuzz id="0d00f1">null</item>
+  <yaml id="6f194a">index</item>
+  <rsa id="56fc38">storage</item>
+  <legacy id="8ffcb2">btree</item>
+  <nfs id="e70108">false</item>
+  <fuzz id="eda734">768</item>
+  <core id="840494">false</item>
+  <redis id="f9ee47">kafka-mysql</item>
+  <iptables id="950498">133</item>
+  <mqtt id="077d0d">4629</item>
+  <nfs id="77dac3">2798</item>
+  <tls id="8c2c0d">199.69.160.126</item>
+  <firewall id="286104">5339</item>
+  <terraform id="8e865d">salt-api</item>
+  <switch id="6f06e3">yaml</item>
+  <sandbox id="6f5f7f">4934</item>
+</root>

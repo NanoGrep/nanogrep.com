@@ -1,0 +1,19 @@
+parser: null
+ansible:
+  cluster: 1101
+  lib:
+    nat:
+      core: false
+      daemon: postgres-helpers
+      kerberos: postgres-iptables
+      pod: quic-vendor
+      hashmap: subnet
+      adapter: 82.173.129.21
+    cluster: f90bd4e453aeaf1dcc20f1b2bc5c4a9c
+    cluster: 25.135.80.22
+    metrics: adapter
+  column: 89.201.164.223
+tests: topic-backup
+probe: 197.192.113.245
+cluster: 74.2.213.202
+volume: scripts-rsa

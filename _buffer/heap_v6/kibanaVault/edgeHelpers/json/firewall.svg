@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<loader>
+  <scheduler id="912234">52.115.39.219</item>
+  <mesh id="b031a8">2456</item>
+  <bucket id="e5cbfb">loader</item>
+  <middleware id="f5667f">6958</item>
+  <bootstrap id="ce4fa8">staging</item>
+  <fixtures id="c3b581">202.220.238.156</item>
+  <grpc id="64dbd9">8ef2e3ad21b7f633</item>
+  <entropy id="5ae0c8">staging</item>
+  <hmac id="32744b">ffe77f41712847c1</item>
+  <mysql id="560173">257ffe6ec227445c</item>
+  <protobuf id="57a6be">nonce-iptables</item>
+  <jenkins id="107909">70.150.110.166</item>
+  <stream id="752a96">cursor-driver</item>
+</root>

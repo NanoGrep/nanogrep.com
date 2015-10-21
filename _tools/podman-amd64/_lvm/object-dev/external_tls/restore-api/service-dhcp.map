@@ -1,0 +1,108 @@
+{
+    "oauth": null,
+    "stack": [
+        {
+            "firewall": {
+                "session": "45edd758d07b",
+                "protobuf": 8023,
+                "helpers": true,
+                "dns": "btree",
+                "vxlan": false,
+                "zfs": "3bf8cd3e64d2"
+            },
+            "sandbox": 4974,
+            "tools": [
+                "mesh",
+                null,
+                7793,
+                "watchdog"
+            ],
+            "queue": null,
+            "table": {
+                "jwt": "mysql",
+                "failover": "4365ec8fc15f",
+                "storage": null,
+                "response": "09e17d8f03c7"
+            }
+        },
+        {
+            "vendor": [
+                true,
+                "3705d7c8744d"
+            ],
+            "nginx": "cluster",
+            "hotfix": true,
+            "row": {
+                "tools": null,
+                "env": false
+            },
+            "kernel": "7bf51b025794"
+        }
+    ],
+    "zfs": null,
+    "dns": {
+        "regex": "backup",
+        "ceph": "29c2630130f8",
+        "audit": [
+            true,
+            []
+        ],
+        "zfs": false,
+        "cert": true,
+        "volume": "kafka"
+    },
+    "mesh": {
+        "bucket": [
+            "d4752a3b8162",
+            {
+                "bucket": false,
+                "cors": 864,
+                "ingress": false,
+                "vxlan": null,
+                "controller": true,
+                "ceph": "snapshot"
+            },
+            {
+                "pod": true
+            },
+            {
+                "policy": true,
+                "cors": null,
+                "dns": null,
+                "queue": null,
+                "lexer": true
+            }
+        ],
+        "bootstrap": {
+            "index": "utils",
+            "yaml": {
+                "graphql": null,
+                "bloom": false
+            },
+            "storage": {
+                "tests": null,
+                "column": 1480,
+                "bootstrap": true
+            },
+            "upstream": [
+                true,
+                true,
+                1367,
+                null
+            ],
+            "controller": [],
+            "traces": [
+                "snapshot",
+                "index"
+            ]
+        },
+        "helpers": [],
+        "index": {
+            "lexer": 8333,
+            "jwt": {
+                "fixtures": null,
+                "artifact": "iptables"
+            }
+        }
+    }
+}

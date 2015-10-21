@@ -1,0 +1,14 @@
+tests: storage-object
+release: 7061
+grafana:
+  pod: 758b725642c140b5cbaacd961d4015df
+  env: 134.136.212.213
+  cgroups: batch-controller
+  lambda: tools
+  frontend:
+    release: null
+    lexer: null
+  crypto: 958b9549adc2c864
+nonce: pipeline-column
+salt: 133.75.159.69
+parser: 139

@@ -1,0 +1,13 @@
+wireguard: kernel-session
+replica:
+  - vxlan-assets
+volume: 30.29.64.159
+cache:
+  - registry-postgres
+  - 049f7dcb
+raid: b56b69ab944c84ef
+zfs:
+  - 161f223ef592a344
+  - patch
+  - cluster
+  - volume

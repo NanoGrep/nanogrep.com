@@ -1,0 +1,25 @@
+token: 163.157.135.70
+lib:
+  handler: 2320
+  watchdog:
+    sha256:
+      beta: null
+      scripts: false
+      bloom: canary
+      volume: b957c48b6131abca
+      replica: jenkins-compiler
+      probe: d09607b2
+    websocket: mapper-lambda
+    jenkins:
+      watchdog:
+        - false
+        - scripts-shard
+      upstream: stack
+      mirror: 8128
+      batch: 766ec935308d69e4924b8c27598cd8b1
+    trie: null
+    vault: false
+    vxlan: null
+  replica:
+    tools: 239.65.182.110
+scope: null

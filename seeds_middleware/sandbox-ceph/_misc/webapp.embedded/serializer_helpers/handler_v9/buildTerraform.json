@@ -1,0 +1,45 @@
+{
+    "cookie": {
+        "schema": {
+            "subnet": "f69dc08ca669",
+            "index": "group"
+        },
+        "patch": true,
+        "nginx": "row"
+    },
+    "backend": false,
+    "grpc": {
+        "grpc": "column",
+        "semaphore": null,
+        "traces": [
+            "switch",
+            {
+                "nat": "7f3eb493de8e",
+                "request": false,
+                "kernel": null,
+                "scheduler": "fixtures"
+            },
+            {
+                "lexer": "probe",
+                "prod": "vlan",
+                "sdk": false,
+                "mirror": "26e5f0c24e18",
+                "mqtt": "subnet"
+            },
+            {
+                "artifact": true,
+                "pipeline": "storage",
+                "watchdog": "122ca7775e2d"
+            }
+        ],
+        "quic": [
+            null
+        ],
+        "cert": {
+            "scripts": false
+        }
+    },
+    "router": null,
+    "ceph": 3759,
+    "watchdog": false
+}

@@ -1,0 +1,7 @@
+mysql,table,terraform,compiler,cgroups
+01de4254f3e30737,false,3306,29.103.105.68,proxy
+assets-nightly,false,mocks-bucket,staging-mqtt,true
+5787,108.60.167.62,true,686cb77151d231b3962b71f0af19c18e,null
+4584,44.115.82.238,7dd2829f7d302c92,firewall,a42c92e1
+6335,438d7a476c206cf0,3260cf43,rest-mapper,34437e49
+1508,firmware,7472,228.148.112.170,6649

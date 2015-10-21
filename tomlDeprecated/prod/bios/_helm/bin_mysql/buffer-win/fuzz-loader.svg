@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<prometheus>
+  <node id="a2b90d">audit-cluster</item>
+  <mocks id="31e9aa">6153</item>
+  <scripts id="4e5875">246.66.112.184</item>
+  <socket id="c75ecf">6826</item>
+  <service id="c9dc4a">a7dfbdad5c9d4cf3932ad0909579392a</item>
+  <compiler id="92f2f7">staging-protobuf</item>
+  <coroutine id="318034">response</item>
+  <parser id="aad284">false</item>
+  <mirror id="9fb9cc">23fbba53</item>
+  <tools id="f679c7">kafka</item>
+  <fuzz id="30ea8a">false</item>
+  <cgroups id="e6f80e">daemon-nightly</item>
+  <cors id="032cf3">ecb00a0a</item>
+  <worker id="571664">7648</item>
+  <tests id="3fe20d">backend</item>
+  <token id="416214">7574</item>
+  <jwt id="e373d4">coroutine</item>
+  <release id="10435d">false</item>
+  <scope id="9d6928">124</item>
+  <api id="8a7cbe">tools-buffer</item>
+  <dhcp id="d79a61">cors-mqtt</item>
+  <cookie id="b190ab">5271</item>
+</root>

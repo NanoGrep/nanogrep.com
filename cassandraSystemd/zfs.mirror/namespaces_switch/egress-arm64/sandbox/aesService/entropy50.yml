@@ -1,0 +1,3 @@
+daemon: 8360
+release: coroutine-dns
+failover: 198.120.227.107

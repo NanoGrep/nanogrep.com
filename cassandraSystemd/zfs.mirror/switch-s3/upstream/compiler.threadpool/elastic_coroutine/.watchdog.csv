@@ -1,0 +1,6 @@
+schema,kafka,nightly,backend,hmac,cache
+95.34.201.222,true,payload-nat,a63abea9529fc18c,true,115.144.25.163
+69.98.123.196,false,null,mapper,null,false
+6dd5ad6e7a7bd81fc145a196fcbe591d,52bdbeb3,hmac-controller,626cfac9e9b52950,130.35.254.234,patch-tcp
+group-cursor,wireguard,limit,29.242.140.145,2e57cc31,ceph
+207.230.241.10,2427,12.168.84.100,parser,object,stack-daemon

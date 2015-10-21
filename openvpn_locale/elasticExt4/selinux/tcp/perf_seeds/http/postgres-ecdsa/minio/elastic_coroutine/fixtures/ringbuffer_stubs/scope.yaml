@@ -1,0 +1,133 @@
+firmware: registry
+bootstrap:
+  cache:
+    graphql:
+      edge:
+        - 7451
+        - 51.95.79.159
+      tests: 168.176.31.6
+      helm: ceph
+      envoy: 214.200.159.178
+      payload: 92.220.143.224
+      object: true
+    index: fe38c33f892e6b5bc045987cb58c27e4
+    compiler:
+      cors: cursor
+      beta: 199.152.92.4
+      mocks: 1026
+      udp: null
+    firmware: 7422
+    scheduler:
+      token:
+        - true
+        - 149.75.81.133
+        - service-nginx
+        - mocks-trie
+      vendor: cluster-socket
+      nfs: utils
+      ceph: fb9affa9ca9f8f5dd5a84e9df5038973
+      runner:
+        - 590
+    payload:
+      schema:
+        - driver
+        - helpers
+        - 3ca2901becbc3daa
+        - true
+      udp: 2782
+      quic: true
+  redis:
+    mesh:
+      hmac: false
+      adapter: false
+      wireguard: 6beb00dc5cd8bc41532afe672646107d
+      fuzz: 198.187.235.3
+      scripts: 08f67c534c0fed516f9b73364daba86f
+      jwt: true
+    traces: false
+    elastic: fuzz-postgres
+    bench:
+      - 534ca0a753656ac57ad934d866d81777
+      - 7452
+      - 21.129.25.18
+    legacy:
+      bloom:
+        - 72.32.91.137
+      rsa:
+        - canary
+        - 106.240.138.16
+  bootstrap:
+    assets: volume-crypto
+    pod: 251.70.229.198
+    assets: 5239
+    handler: 4863
+response:
+  firewall: migrations
+  shard: salt
+  upstream:
+    payload:
+      iptables: 3342
+      kernel: null
+    rollback: nightly-staging
+    dns:
+      assets:
+        - role
+        - 1.108.43.100
+        - 7191
+        - f04e2acaa580c4867dbfbccb2e0e1a05
+      user: cursor
+      nonce: origin
+      compiler: udp-prod
+      nfs: 5c4638d560fcdf6b
+      envoy: 4245
+    dns:
+      session: 2d06060d631e58a7
+      websocket: 6973e7fa87f4faa3
+      origin: b9b32bdd5c43dcae52d8ae48d11fe46f
+  nfs:
+    tools: tenant
+    iptables:
+      backup: 136.37.39.175
+      hmac:
+        - 3807
+        - envoy-volume
+      rest:
+        - pod
+      controller: 8405
+      vxlan:
+        - cursor
+        - 2361
+        - session-cli
+        - 8041
+    yaml: false
+    common: 305c69ec619e8ce2caa63225e5189429
+    ldap: 238.167.84.66
+  stack:
+    pipeline: 216.4.96.112
+    iptables:
+      - ansible-yaml
+    vlan: 4b038a26df836b1a
+    artifact: 896
+    release:
+      handler: rsa-cookie
+      nat:
+        - 86
+        - false
+        - 9796
+        - graphql-cluster
+      tls: 31bedbcf
+    locale:
+      - 3219
+      - systemd
+  nfs: 202.251.54.31
+helm: 8b3dad41edb09df8
+ceph: false
+storage:
+  firewall: 189.73.99.169
+  mqtt: 605
+  firmware:
+    probe: ansible-lambda
+    storage:
+      grpc: 187.105.236.92
+    vlan: 242.196.68.163
+    zfs: false

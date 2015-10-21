@@ -1,0 +1,11 @@
+elastic: true
+fixtures: false
+column:
+  cgroups:
+    grpc: buffer-jwt
+    protobuf:
+      systemd: 6832
+      coroutine: traces
+      ceph: 0f32b535e20db735ab0e90368a28aa77
+    ldap:
+      snapshot: migrations-cert

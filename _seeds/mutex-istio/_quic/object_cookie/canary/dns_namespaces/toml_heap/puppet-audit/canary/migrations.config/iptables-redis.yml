@@ -1,0 +1,3 @@
+cron:
+  semaphore: 237.140.234.49
+  lexer: sha256-env

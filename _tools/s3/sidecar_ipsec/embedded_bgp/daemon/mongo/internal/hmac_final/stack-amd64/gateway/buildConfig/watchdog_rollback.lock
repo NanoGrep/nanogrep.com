@@ -1,0 +1,111 @@
+{
+    "mapper": "4e9cc9ca6fde",
+    "service": {
+        "row": "tools",
+        "hotfix": null,
+        "origin": {
+            "router": false,
+            "build": {
+                "assets": true,
+                "grafana": false,
+                "templates": null,
+                "watchdog": true,
+                "envoy": false
+            },
+            "nfs": {
+                "table": 3698
+            }
+        },
+        "http": 4372,
+        "stream": {
+            "oauth": {
+                "object": true,
+                "pod": false,
+                "websocket": 2129,
+                "token": true
+            },
+            "bloom": {
+                "replica": "iptables"
+            },
+            "sandbox": false,
+            "quic": [
+                true
+            ]
+        }
+    },
+    "mesh": [
+        {
+            "handler": {
+                "iptables": "migrations",
+                "mocks": "config",
+                "rest": true,
+                "build": true,
+                "column": false
+            }
+        }
+    ],
+    "ingress": [
+        {
+            "jwt": {
+                "audit": false,
+                "vlan": "87eb83e9a7b8",
+                "row": true,
+                "buffer": true
+            },
+            "origin": {
+                "group": true,
+                "lib": "5d0560b8c915",
+                "backend": false,
+                "vxlan": 9373,
+                "heap": "a11147d26e1e",
+                "middleware": false
+            },
+            "row": {
+                "limit": null,
+                "api": "sandbox",
+                "router": true,
+                "policy": null
+            },
+            "nightly": {
+                "nginx": null,
+                "origin": 3170,
+                "dns": 6140,
+                "volume": 6366
+            }
+        },
+        "volume"
+    ],
+    "vendor": false,
+    "snapshot": {
+        "dhcp": {
+            "lexer": {
+                "user": false,
+                "backend": "9cca70a474ba",
+                "elastic": null,
+                "object": false
+            },
+            "coroutine": "e04549c10aae",
+            "pod": {
+                "gateway": true,
+                "ldap": null,
+                "session": false,
+                "failover": true
+            }
+        },
+        "scripts": {
+            "backend": {
+                "registry": true,
+                "websocket": "497d4a981d69",
+                "kafka": "traces"
+            },
+            "prometheus": true,
+            "mocks": {
+                "legacy": "49af505046fb",
+                "column": "0f9b6063e067"
+            },
+            "vlan": "2701d2366f1d"
+        },
+        "jwt": "ldap",
+        "build": 8339
+    }
+}

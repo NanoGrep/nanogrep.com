@@ -1,0 +1,23 @@
+[
+    {
+        "zfs": "61438129c315",
+        "tests": null,
+        "firmware": {
+            "http": {
+                "regex": false,
+                "alerts": null
+            },
+            "lib": [
+                "iptables",
+                true,
+                true,
+                true
+            ]
+        }
+    },
+    [
+        446,
+        "f6db96d63b21",
+        true
+    ]
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<replica>
+  <helm id="387ef0">daemon-iptables</item>
+  <heap id="bc6661">6136</item>
+  <systemd id="a58901">vendor-templates</item>
+  <handler id="1e9179">6300</item>
+  <parser id="5273e4">cursor-mutex</item>
+</root>

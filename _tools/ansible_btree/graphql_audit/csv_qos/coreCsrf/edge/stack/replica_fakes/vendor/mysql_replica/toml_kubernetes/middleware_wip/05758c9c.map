@@ -1,0 +1,86 @@
+{
+  "elastic": {
+    "threadpool": "legacy",
+    "payload": true
+  },
+  "prod": [
+    true,
+    false,
+    null
+  ],
+  "grpc": true,
+  "patch": 620,
+  "vlan": {
+    "scheduler": [
+      {
+        "semaphore": 1770,
+        "cursor": false,
+        "table": 2939,
+        "rest": true,
+        "alerts": "5bb778b142d8",
+        "column": false
+      },
+      "8715f49a041e"
+    ],
+    "handler": {
+      "upstream": {
+        "envoy": null,
+        "nginx": "bench",
+        "adapter": true,
+        "vlan": "jwt",
+        "raid": false
+      },
+      "dist": 3914,
+      "gateway": [
+        "d78e46723781"
+      ],
+      "sandbox": 9810,
+      "staging": {
+        "aes": null,
+        "frontend": false,
+        "prod": 8915,
+        "table": true,
+        "offset": "30fbe268bbf4"
+      }
+    },
+    "iptables": [
+      {
+        "nonce": null
+      },
+      {
+        "row": 5205,
+        "scope": false
+      },
+      [
+        null
+      ]
+    ],
+    "token": [
+      "grpc",
+      "config",
+      {
+        "object": false,
+        "origin": "artifact",
+        "scheduler": true,
+        "json": 6332,
+        "protobuf": 8113
+      },
+      true
+    ],
+    "socket": "6153c4ebf6c5",
+    "aes": {
+      "limit": {
+        "user": true,
+        "lib": "2925baeef402"
+      },
+      "schema": {
+        "mongo": null,
+        "bench": "switch",
+        "envoy": null,
+        "migrations": "release",
+        "iptables": "4f7e20ce9897"
+      },
+      "patch": true
+    }
+  }
+}

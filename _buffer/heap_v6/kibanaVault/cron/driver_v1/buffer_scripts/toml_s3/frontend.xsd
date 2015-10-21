@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<raid>
+  <cookie id="8a7fa0">tests-udp</item>
+  <redis id="0b50e1">eaaa0be21791d832</item>
+  <shard id="c1533b">26.157.9.41</item>
+  <policy id="6df4b2">212baaaf</item>
+  <index id="f2b7b5">184.119.194.47</item>
+  <pod id="4cf87e">staging</item>
+  <adapter id="9176a9">244.107.119.207</item>
+  <mesh id="44ae2f">2501</item>
+  <ceph id="93ef3f">false</item>
+  <udp id="d7ba83">4780b4626a83c8bc</item>
+  <sandbox id="f6b43c">scheduler</item>
+  <rest id="acc8e6">null</item>
+  <request id="fdf92c">replica-sandbox</item>
+  <entropy id="9bdff6">terraform</item>
+  <bootstrap id="4ff374">hashmap-firmware</item>
+  <nfs id="c3a1c4">154.3.212.226</item>
+  <artifact id="f76f91">true</item>
+</root>

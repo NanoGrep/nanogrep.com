@@ -1,0 +1,55 @@
+nfs:
+  - 34ae829f762caeb6e84375f60a4a643a
+  - 28cf2879d6cd53fb0ef7842d4f81e231
+runner:
+  table:
+    subnet: 839bce179ca1b995a4b474c6028ebba3
+    topic:
+      - 153.13.198.111
+      - sandbox
+      - false
+    service:
+      - 47e431717b9ee4b0
+      - 72.210.77.237
+      - 7409
+      - entropy
+    iptables: logs
+    backup: controller
+  row:
+    mqtt: null
+    prometheus: 831df7b33746cf45
+    factory:
+      systemd: buffer
+      heap: 146.40.116.182
+      mysql: 9020
+      tenant: null
+      switch: false
+    utils: 2809
+    tools: 159.64.135.190
+    prod:
+      edge: mqtt-socket
+      role: 1737
+      backup: null
+      cursor: 4d6bdb1758e3b16e
+      build: dns-staging
+  gateway:
+    - 124.214.179.200
+    - 4666
+    - d2aa97fa83233a21c424c4a90489356a
+    - adapter-mocks
+  dist:
+    crypto:
+      - true
+      - regex
+      - common-aes
+    response: row
+    patch:
+      prod: hmac-index
+      stream: 126.33.24.147
+      cache: false
+    batch: 127.131.130.211
+    utils:
+      - 8c9d52be575a0618
+      - 3674
+      - true
+    pod: tools

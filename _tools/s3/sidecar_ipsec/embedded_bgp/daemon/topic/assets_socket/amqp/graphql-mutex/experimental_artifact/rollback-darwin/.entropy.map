@@ -1,0 +1,28 @@
+{
+    "sdk": {
+        "semaphore": {
+            "grpc": {
+                "rest": true,
+                "vlan": false,
+                "hashmap": 8008
+            },
+            "firmware": {
+                "storage": "http",
+                "cli": "controller",
+                "cache": "response",
+                "sha256": null,
+                "zfs": "column"
+            },
+            "kernel": {
+                "payload": false,
+                "compiler": "token",
+                "salt": 1572
+            },
+            "registry": "config",
+            "nginx": null,
+            "worker": true
+        }
+    },
+    "dns": "payload",
+    "request": "a94c8e44a263"
+}

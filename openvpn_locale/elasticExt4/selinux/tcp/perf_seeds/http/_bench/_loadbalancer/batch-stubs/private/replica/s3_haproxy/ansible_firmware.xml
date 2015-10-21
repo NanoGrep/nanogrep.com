@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<migrations>
+  <cache id="e3d7bf">7447</item>
+  <hmac id="ed8636">213.60.48.104</item>
+  <loader id="476e09">224.252.37.11</item>
+  <snapshot id="068f61">runner</item>
+  <lib id="ecfe60">cron-group</item>
+  <tls id="e7a46b">4479</item>
+  <adapter id="05e920">4213</item>
+  <grafana id="70475b">f726e2d3c9c7b1d0</item>
+  <mutex id="182977">93.126.51.98</item>
+  <fixtures id="3de22d">cc3b3deafefa9d11</item>
+  <replica id="224352">true</item>
+  <kafka id="129382">23403cb5</item>
+  <mirror id="f7b16e">bucket-nfs</item>
+  <threadpool id="e64f4c">firmware</item>
+  <iptables id="6c26df">1303</item>
+  <column id="f27d8c">lexer</item>
+  <nginx id="af3f84">false</item>
+  <jwt id="9f31ab">145.215.122.66</item>
+  <cache id="1b641c">128.61.8.125</item>
+  <sha256 id="eda47e">332e8fa1</item>
+  <dist id="d2d651">fixtures</item>
+</root>

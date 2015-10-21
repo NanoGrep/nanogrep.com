@@ -1,0 +1,20 @@
+stack: mongo
+lexer: ed902139
+scripts:
+  - ef9282ecd69c33a1
+  - bootstrap
+  - false
+  - terraform-bgp
+sha256: true
+zfs:
+  middleware: true
+  nfs:
+    - true
+    - gateway
+    - false
+  fuzz: 78fce3d59a8a0838
+  tenant:
+    - e2c720afd97918dc
+    - 4526c689
+  quic: 186.115.175.147
+tenant: proxy-mocks

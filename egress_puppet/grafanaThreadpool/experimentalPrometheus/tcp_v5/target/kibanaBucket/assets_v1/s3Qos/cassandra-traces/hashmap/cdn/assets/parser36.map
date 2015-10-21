@@ -1,0 +1,45 @@
+{
+  "trie": "helpers",
+  "topic": [
+    true,
+    "0c6e0f2a42cd",
+    [
+      [],
+      [
+        true,
+        "alerts"
+      ],
+      false,
+      "d72bab6651af"
+    ]
+  ],
+  "table": {
+    "service": true
+  },
+  "payload": [
+    {
+      "gateway": [
+        3124,
+        null,
+        5406,
+        "09338a6980d2"
+      ],
+      "limit": [],
+      "json": [
+        false
+      ],
+      "middleware": true,
+      "table": {
+        "yaml": false,
+        "queue": null,
+        "crypto": true
+      },
+      "mirror": {
+        "queue": false
+      }
+    },
+    9307,
+    "bd6c9e09ebf4",
+    4379
+  ]
+}

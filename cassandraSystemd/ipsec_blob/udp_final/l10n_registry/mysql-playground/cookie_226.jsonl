@@ -1,0 +1,81 @@
+{
+    "handler": {
+        "response": "7e7ed5a31a00",
+        "envoy": [
+            [
+                false
+            ],
+            {
+                "mutex": null,
+                "failover": "f8674cee2aa7"
+            }
+        ],
+        "driver": [
+            {
+                "core": 300,
+                "stream": true,
+                "parser": null,
+                "user": "d39c617313b6",
+                "mongo": false
+            }
+        ],
+        "topic": {
+            "cors": true,
+            "mirror": {
+                "core": 290
+            },
+            "prod": "c70dd7848acf"
+        }
+    },
+    "zfs": {
+        "nfs": 2590,
+        "firmware": {
+            "bench": {
+                "raid": true,
+                "storage": true,
+                "vendor": "kerberos",
+                "alerts": true,
+                "scheduler": "dee3d8f7fa53"
+            }
+        },
+        "group": {
+            "entropy": true,
+            "grpc": {
+                "staging": null,
+                "graphql": false,
+                "parser": true,
+                "locale": "websocket",
+                "vlan": 6746
+            },
+            "subnet": {
+                "zfs": "1220752a779c",
+                "crypto": true
+            },
+            "queue": {
+                "volume": "65b137d33e64",
+                "upstream": null
+            },
+            "heap": [],
+            "wireguard": {
+                "mutex": 6365
+            }
+        },
+        "nightly": "sha256",
+        "legacy": {
+            "fuzz": false,
+            "udp": true,
+            "cluster": false,
+            "volume": {
+                "core": 8219,
+                "systemd": 2798,
+                "envoy": true,
+                "vlan": true
+            },
+            "policy": [
+                6766,
+                false,
+                "36003603ce71"
+            ]
+        }
+    }
+}

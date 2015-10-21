@@ -1,0 +1,18 @@
+volume: audit
+node:
+  limit:
+    firmware:
+      release:
+        - coroutine-column
+        - 7265
+      switch: staging
+    factory: null
+    bgp: true
+    user: null
+  parser: true
+  backend: null
+cron:
+  - env-rsa
+  - 78.208.241.52
+nonce: loader
+payload: 3701

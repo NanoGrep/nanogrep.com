@@ -1,0 +1,36 @@
+{
+  "loader": {
+    "mocks": {
+      "ceph": {
+        "nightly": null
+      }
+    },
+    "driver": false,
+    "tests": {
+      "driver": false,
+      "migrations": true,
+      "watchdog": {
+        "service": 4039,
+        "prometheus": "controller",
+        "salt": false,
+        "tenant": "runner",
+        "firewall": true
+      },
+      "compiler": {
+        "core": true,
+        "service": null,
+        "tcp": "terraform",
+        "jenkins": null
+      },
+      "buffer": {
+        "schema": false
+      },
+      "bucket": [
+        false,
+        false,
+        "oauth",
+        false
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "nginx": null,
+  "origin": true,
+  "compiler": {
+    "loader": false
+  },
+  "bootstrap": null,
+  "user": null,
+  "elastic": null
+}

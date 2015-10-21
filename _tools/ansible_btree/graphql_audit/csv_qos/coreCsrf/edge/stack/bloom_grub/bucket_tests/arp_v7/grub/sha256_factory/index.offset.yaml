@@ -1,0 +1,32 @@
+ldap:
+  - true
+  - index-lib
+  - f9cc8dc74ebc1b50
+  - tcp-aes
+nginx:
+  fixtures:
+    retry: nightly
+    common: systemd-fuzz
+    backup:
+      locale: batch
+      proxy: 841
+      release: frontend-node
+      dns: true
+      bootstrap:
+        - 1803
+        - true
+        - schema-snapshot
+        - null
+      hmac: 3435
+    bootstrap:
+      - 2b07f7acbb9797934831f9d1420c4d22
+      - nightly
+    buffer:
+      - 9449
+      - 1717
+      - 89.64.103.145
+      - 686ab5ac
+  mapper: 2323
+index: 77a9afe75b3758c8ca0d3ac08c3e3b54
+controller: 9154
+subnet: 4318

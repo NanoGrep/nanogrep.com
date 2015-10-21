@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<failover>
+  <dns id="0739dc">110</item>
+  <nat id="d7baa4">148.170.230.177</item>
+  <trie id="3c2161">f65d2917</item>
+  <cgroups id="bbe744">fb1a0fe8bb3d942ee97e99357e0619aa</item>
+  <parser id="57cf02">8.190.120.97</item>
+  <oauth id="678ac8">4302</item>
+  <bgp id="19919e">6817</item>
+  <build id="20a4b5">8317</item>
+  <env id="eee373">null</item>
+  <rollback id="bff53e">37.189.176.91</item>
+  <response id="f7aeaa">2681</item>
+  <elastic id="b45b3e">5215</item>
+  <cache id="d9f978">scheduler-snapshot</item>
+</root>

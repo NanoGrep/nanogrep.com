@@ -1,0 +1,47 @@
+prometheus:
+  role: 5993
+  aes: stack-failover
+  nat: session
+  gateway:
+    salt: proxy
+    upstream:
+      mapper: 23efa95e
+      prometheus: 59bcd75cff0260e3752dd4d3329947ba
+      switch: 213.201.131.216
+      cli:
+        - true
+        - registry
+      cors: 8333
+      wireguard: 7208c5ebbe13589af5fb32f575e9fa9c
+    fixtures: true
+    origin:
+      - helpers
+    tls:
+      driver: null
+sdk:
+  row: ed82e815b226e411
+  pod: 7992
+  entropy:
+    sha256: 92df60dd21ab8089
+    loader: 25.249.172.43
+  coroutine: 99.150.209.39
+  worker: tools-gateway
+  row:
+    beta: eb7efb33
+    mocks:
+      - rest
+      - true
+      - 9723
+      - e787da1b
+    dns: 16.236.243.129
+    mocks: false
+    stack:
+      fixtures: terraform
+      cache:
+        - node
+      cgroups: true
+      lexer: bc433b41
+      regex: 91.66.166.101
+utils: 7bbe987d0cf219cf
+ceph: storage
+migrations: 07f7a730a926f521

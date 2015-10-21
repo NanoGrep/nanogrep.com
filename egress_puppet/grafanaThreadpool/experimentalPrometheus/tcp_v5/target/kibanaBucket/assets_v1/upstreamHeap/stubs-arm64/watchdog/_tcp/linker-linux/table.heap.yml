@@ -1,0 +1,31 @@
+pod:
+  cors: 82452c9be32322b7
+user: 630107e9
+envoy: trie-crypto
+handler:
+  frontend:
+    - 4645
+    - 156.100.177.17
+    - 8004
+  cors:
+    backup:
+      helm: 133.171.171.135
+      topic:
+        - 29dc5735
+      cache: 211.168.112.233
+      prometheus: env
+    nginx:
+      audit: vlan-bench
+      socket: queue
+      kerberos: origin
+    logs: ebe3914b
+    scripts:
+      - terraform
+      - 89358fc0f9bce4138be62e77b6bf871d
+      - 6497
+    alerts:
+      - 219.52.211.217
+      - 7520
+      - 4562
+      - udp
+  adapter: 4181

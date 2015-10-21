@@ -1,0 +1,25 @@
+group: 90.225.71.138
+salt:
+  - 65d4fbb8
+  - true
+  - bench
+alerts:
+  middleware:
+    ansible: cgroups
+    staging:
+      runner: null
+      sandbox: loader-tenant
+    group: bootstrap-snapshot
+    tenant: 105
+    vault: vlan-salt
+  env:
+    failover: sdk-lexer
+  proxy:
+    mongo:
+      limit:
+        - 9175ba66c502569be839a673a4d318a2
+      role: hotfix-mutex
+      service:
+        - cc872f9ae48f36a48b9495a16eb96efa
+        - 231.16.103.220
+        - null

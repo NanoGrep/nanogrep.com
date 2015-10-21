@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "snapshot": {
+                "retry": "hashmap",
+                "fuzz": true,
+                "origin": 5705,
+                "mysql": true,
+                "proxy": true
+            },
+            "queue": 1891,
+            "coroutine": [
+                null
+            ],
+            "legacy": []
+        },
+        "hashmap",
+        {
+            "runner": "b2cac6b1a9fe"
+        }
+    ],
+    {
+        "batch": null,
+        "parser": {
+            "envoy": "9bf73f5e390c",
+            "http": true,
+            "salt": {
+                "bloom": null,
+                "storage": false,
+                "cgroups": true
+            },
+            "tenant": "409144ad9111",
+            "metrics": "139b492896f3",
+            "websocket": {
+                "quic": null,
+                "nginx": 9970,
+                "release": null,
+                "policy": 7663
+            }
+        }
+    },
+    [
+        null,
+        "222f9fa0153d"
+    ],
+    {
+        "bootstrap": 8029
+    }
+]

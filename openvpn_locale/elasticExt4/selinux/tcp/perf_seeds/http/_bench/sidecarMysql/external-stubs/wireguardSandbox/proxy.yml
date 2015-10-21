@@ -1,0 +1,6 @@
+replica: traces-prometheus
+lambda: 4528
+jenkins:
+  - runner
+  - 3870
+  - fuzz-sha256

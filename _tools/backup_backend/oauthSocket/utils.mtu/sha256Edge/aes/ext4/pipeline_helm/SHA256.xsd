@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<scope>
+  <loader id="b0109c">common</item>
+  <helpers id="610e94">wireguard</item>
+  <buffer id="cd582a">100</item>
+  <quic id="8de6f0">97.111.176.71</item>
+  <daemon id="3be9c8">60560846</item>
+  <iptables id="7d7b0e">vlan</item>
+  <btree id="d90dc6">redis</item>
+  <edge id="a39cc7">audit</item>
+  <envoy id="16f7f4">ingress-nfs</item>
+  <helm id="a414ff">nfs-gateway</item>
+  <bloom id="14511e">null</item>
+</root>

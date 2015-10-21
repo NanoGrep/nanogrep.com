@@ -1,0 +1,62 @@
+rollback:
+  sandbox: mesh-coroutine
+  http: 46.62.168.77
+  cache:
+    mutex:
+      postgres: 173.176.177.140
+      vxlan: 9270
+      tls: router
+    hashmap: 24.97.132.105
+    patch:
+      - 7548
+      - 7618
+      - true
+      - 3575212f6c639f760f4913d5f7ccf54e
+  threadpool: 4521
+raid:
+  subnet:
+    shard:
+      driver: btree-compiler
+      mapper: handler-udp
+    entropy:
+      cache: 147.66.232.1
+      edge: 3073
+      adapter: 95.184.243.222
+      beta: ec2cbb9c657583a908c772679a91ef56
+      bucket:
+        - volume-factory
+        - 174.182.34.119
+        - c3ce51a7bc02f60e4abce4f286353d2a
+        - 1104
+  middleware:
+    - release-json
+    - group-cert
+    - watchdog-snapshot
+    - 210.138.117.249
+  adapter:
+    aes:
+      mysql: f4294176
+      mocks: pod-core
+      salt: env
+      raid: redis
+      cookie: 144.74.202.69
+  tls: 3.78.16.78
+  cache: tcp-user
+daemon: 108.29.49.167
+cgroups:
+  bgp: assets-bloom
+  mesh:
+    middleware: null
+    lambda: false
+    env: upstream-column
+    column:
+      storage: snapshot-mysql
+      staging: factory
+      legacy: 7789
+      lexer: 6a79007d7dd0e8c2c250a62fa5aeafc6
+  legacy:
+    - node-stream
+    - def5d80eb0745a071b43843fd0004379
+    - 16.129.91.132
+    - 946
+  vxlan: trie

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<staging>
+  <firmware id="05a8a3">null</item>
+  <parser id="ed8a25">1831</item>
+  <mysql id="6db419">fixtures-queue</item>
+  <sdk id="24aff0">false</item>
+  <mqtt id="1b6ff6">a8317c31d21a2cac58bf6b6ccdedffea</item>
+  <protobuf id="a09f70">jenkins</item>
+  <kafka id="f200db">regex-response</item>
+  <firewall id="b20c25">trie-http</item>
+</root>

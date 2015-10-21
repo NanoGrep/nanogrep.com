@@ -1,0 +1,2 @@
+subnet: cron-service
+cors: true

@@ -1,0 +1,25 @@
+scope: true
+row: udp
+mirror:
+  sandbox: 4573
+  snapshot: socket
+  envoy:
+    - 31.242.201.165
+    - 1d0284873a079454
+    - 231.51.78.71
+  backend:
+    - 22.106.149.164
+scheduler:
+  user:
+    kernel: 3605
+  utils: role-heap
+  scheduler: 203.58.186.168
+  stack:
+    loader: websocket-socket
+    bootstrap: quic-aes
+    scheduler: true
+    cert: dist
+cookie:
+  - mirror-traces
+  - 77.175.112.131
+  - 8222

@@ -1,0 +1,18 @@
+{
+  "middleware": {
+    "schema": [
+      "eb9b2b92f407",
+      [
+        "index",
+        false
+      ],
+      {
+        "kerberos": false,
+        "zfs": "a76e471bea16",
+        "dist": null,
+        "oauth": "mapper"
+      },
+      false
+    ]
+  }
+}

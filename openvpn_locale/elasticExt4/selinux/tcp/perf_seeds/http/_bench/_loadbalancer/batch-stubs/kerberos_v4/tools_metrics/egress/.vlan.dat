@@ -1,0 +1,12 @@
+adapter,crypto,dns,sha256,release
+true,11.150.244.142,d7e1370df2bdb0fb,dist-controller,null
+703,426fd25fd61abcec,d3e6c3766c56ddd61870fa6af6eec536,49.151.10.215,helm
+4748,false,8654,null,54.237.189.36
+env,scheduler-iptables,20ebbd09,cee7b4b99b8e93cc156114f12331935b,7e813c94
+response,helm-legacy,env,core,compiler-quic
+websocket,175,false,null,registry-role
+1e8facc6bd4d0f61c063742731fd30d5,true,1fc758eb52f3cf6c,b34b1b02097416daba367565c4cd187a,hashmap-registry
+2560839366dfbfa5e56aeb0619b04e65,regex-batch,scripts-switch,72.89.113.5,failover
+nat,legacy,true,row-templates,234.97.232.92
+fe5626e9,topic-beta,null,e2f2423f2ae8b132,nat
+false,0bad1926,http,http,211.18.46.50

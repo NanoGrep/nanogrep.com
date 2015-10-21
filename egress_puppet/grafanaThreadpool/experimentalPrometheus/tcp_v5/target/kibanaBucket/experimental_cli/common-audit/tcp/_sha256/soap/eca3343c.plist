@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<replica>
+  <mysql id="7ac392">116.184.161.199</item>
+  <registry id="0bc28c">5216</item>
+  <yaml id="415065">null</item>
+  <factory id="199a03">lexer-nonce</item>
+  <schema id="8a4d48">worker</item>
+  <semaphore id="8c11b8">helpers</item>
+  <volume id="2dee73">fe9e9213</item>
+  <lexer id="5929fb">true</item>
+  <group id="b8a2fe">cgroups-worker</item>
+  <config id="e205d8">c37b8f89</item>
+  <registry id="e9a208">null</item>
+  <build id="a0c5de">ed1e070ea86dc8d7f617ad049070d8bd</item>
+  <elastic id="162b4d">be62edda</item>
+  <daemon id="8453dc">mysql</item>
+</root>

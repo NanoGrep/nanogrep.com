@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<row>
+  <daemon id="bbd3df">5962</item>
+  <response id="006484">144.231.122.17</item>
+  <offset id="f9f3e5">b163a64b</item>
+  <node id="66a1d8">04191f65b94a6015</item>
+  <legacy id="23ebd0">helpers</item>
+  <vault id="aa4e4f">7bc2b824</item>
+  <oauth id="7d89da">17.48.87.50</item>
+  <api id="c05a39">common</item>
+  <scope id="df7d94">firewall</item>
+  <locale id="5d6bf5">175.167.137.212</item>
+  <stack id="8f4b0f">196</item>
+  <socket id="36416c">5113</item>
+  <quic id="be6574">yaml</item>
+  <btree id="53dec9">35bb5179f9975932cc2a928f9d1b2d02</item>
+  <firewall id="60be20">false</item>
+  <legacy id="2dfb16">volume</item>
+  <offset id="2127ce">null</item>
+  <hashmap id="9730e9">9024</item>
+  <queue id="5df322">31.67.40.68</item>
+</root>

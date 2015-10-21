@@ -1,0 +1,20 @@
+batch: 247.94.92.46
+jenkins:
+  object: metrics-nightly
+  cert: proxy-build
+  factory: nfs
+  gateway:
+    mesh: null
+    cgroups: payload-firewall
+  stream: 13.61.107.196
+  sha256: ceph
+systemd: 105.191.117.190
+grpc:
+  sandbox:
+    - 215
+    - 565993497cdd1cf9
+    - d50389c874a1120a66ea92c1328ceb6b
+  column:
+    - crypto-bucket
+    - 875f6d01cb9a4ca0
+  snapshot: wireguard-tls

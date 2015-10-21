@@ -1,0 +1,38 @@
+tls:
+  - 143.238.57.73
+bloom:
+  pipeline:
+    - 10.69.243.59
+    - column-lambda
+  proxy:
+    env:
+      buffer: false
+    table: cors
+    helpers: 4414
+    vendor: d8af6183
+scripts:
+  group: 48.195.147.78
+  firewall:
+    dhcp:
+      - 0012ff48aaa8cacf120848748d505f20
+      - cache-policy
+    schema:
+      - middleware-prod
+      - 225004e8aa4a7c364bac348b2502eb0e
+  tools:
+    sandbox:
+      bootstrap: 20ab10cc549049360a74508bf442522e
+      zfs: 125.252.30.32
+      rollback: null
+      dns: sandbox-semaphore
+      cron: ef34e3621a61d4ff9bf27e20a521f052
+    kernel:
+      helm: b3c36354c4693697
+      socket: 1d9c8169374ccb84
+      cache: 9817b6013f17fb6c
+      canary: mutex-mongo
+      payload: 66e4c41c
+      mysql:
+        - proxy
+    aes: false
+  mutex: canary-salt

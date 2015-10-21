@@ -1,0 +1,39 @@
+adapter:
+  - response-upstream
+  - 167.227.156.48
+  - 8141
+api: 8.126.218.34
+canary:
+  batch: 90.94.206.240
+  compiler: false
+  policy:
+    rsa:
+      prod: 64.202.207.11
+      bgp: null
+      bucket: 3bfe74fb98347959e0e2cf2edd50ae03
+      tls: 19941c8b
+      daemon: sha256
+      driver: 183.184.186.236
+    iptables: entropy-patch
+  hotfix: false
+  origin: scheduler
+cert:
+  sha256:
+    mesh: 8441
+    sandbox:
+      role: failover
+      edge: false
+      topic: 8298
+    locale:
+      coroutine: storage-mirror
+      bootstrap:
+        - graphql-payload
+        - b6595dd6
+        - 7061
+        - frontend-hashmap
+    rsa: buffer
+    regex:
+      - 2597
+      - true
+      - 192.39.5.204
+      - subnet-cache

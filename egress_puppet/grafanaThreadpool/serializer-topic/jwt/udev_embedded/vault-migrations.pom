@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bgp>
+  <edge id="dfca1f">true</item>
+  <cluster id="e36c54">cert-shard</item>
+  <audit id="afb101">149.54.81.242</item>
+  <loader id="bd5da6">6adc8984e832a1e87b4ceff356938496</item>
+  <hotfix id="5fa09c">true</item>
+  <cache id="c20b8b">ldap</item>
+  <response id="fae530">tenant</item>
+  <nightly id="8cf59e">upstream-limit</item>
+  <common id="7b28a4">2360</item>
+</root>

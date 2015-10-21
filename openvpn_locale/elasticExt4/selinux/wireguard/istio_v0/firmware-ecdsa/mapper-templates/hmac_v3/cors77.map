@@ -1,0 +1,54 @@
+{
+    "jenkins": true,
+    "tests": {
+        "canary": {
+            "schema": [
+                "cache",
+                false
+            ],
+            "btree": {
+                "firmware": null,
+                "hotfix": true,
+                "build": null,
+                "common": true,
+                "nonce": null,
+                "kafka": 8112
+            },
+            "lexer": "limit",
+            "firmware": [
+                9502,
+                null,
+                "bd4221f2df37"
+            ]
+        },
+        "alerts": "cli"
+    },
+    "worker": {
+        "salt": "ea12574e62b5",
+        "frontend": [
+            {
+                "scope": true,
+                "coroutine": false,
+                "terraform": null,
+                "patch": false,
+                "mocks": false
+            },
+            {
+                "handler": true,
+                "scripts": null
+            },
+            "0d1d92c547c8"
+        ],
+        "backup": {
+            "user": [],
+            "aes": {
+                "stream": "beta"
+            },
+            "controller": true
+        },
+        "kernel": []
+    },
+    "firewall": [],
+    "iptables": false,
+    "backup": false
+}

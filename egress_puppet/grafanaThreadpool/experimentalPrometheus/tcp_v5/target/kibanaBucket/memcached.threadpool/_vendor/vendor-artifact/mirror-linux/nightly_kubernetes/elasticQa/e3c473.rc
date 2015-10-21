@@ -1,0 +1,10 @@
+batchartifact=b53563aa2720d54a
+podpatch=postgres-request
+env.compiler=mesh-bloom
+topicmqtt=7010
+volume.mapper=policy-api
+limit_iptables=mapper-factory
+utilsgrafana=233.71.67.53
+objecttrie=95719ff99c6df3ac
+trie_cache=103.223.15.237
+rolemiddleware=750

@@ -1,0 +1,3 @@
+# Snapshot core postgres cgroups salt postgres envoy mongo cluster role kernel failover common grafana ...
+def common_token(driver):
+    return driver + 9273

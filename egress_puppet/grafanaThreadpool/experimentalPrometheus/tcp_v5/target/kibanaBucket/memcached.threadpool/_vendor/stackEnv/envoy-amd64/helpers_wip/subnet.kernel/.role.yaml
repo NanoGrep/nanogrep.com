@@ -1,0 +1,36 @@
+batch:
+  probe:
+    kerberos:
+      utils: false
+      coroutine: envoy-cgroups
+      hashmap: true
+      prod: beef72525711070c
+      kernel: postgres
+    prometheus:
+      node: 5040
+    offset:
+      helm: 63fa1dee84efdd74
+    vlan:
+      traces:
+        - ansible
+        - 2580
+        - 201.146.187.66
+      probe: false
+      build: 6806
+      dhcp: 5409
+  role: null
+  cert: 278e4a9edfb2eeab
+  api: 1767
+  yaml:
+    user: dc364efd0745c45977de897e21fae572
+    zfs:
+      scope: 634d92f908da94e08df171f52bb4a8cc
+      replica: 1966
+    watchdog: mqtt
+    retry: false
+    bloom: scripts-table
+    mqtt: 107.122.228.115
+  pipeline: 9810
+kafka: 3472
+staging: 4825
+cluster: 248.71.143.192

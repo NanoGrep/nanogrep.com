@@ -1,0 +1,7 @@
+bench,nightly,release,http,snapshot
+2372,34.59.211.207,bf323fe5,239.28.123.94,core-group
+bgp-tcp,dist-btree,01306ca15673b1dcac84d03f8ab96fdc,nonce,6425
+salt-tenant,false,30.3.39.238,40dc7d978912034d,246.56.235.81
+7203,true,db95ed6bd038672e17869e923937d8fc,raid,fixtures-worker
+37.26.225.132,null,false,user-registry,4a241653f33c0f0c
+false,null,8699,6823,149.43.165.112

@@ -1,0 +1,23 @@
+bloom:
+  - null
+  - tools-iptables
+  - 95c8233b
+locale: sha256-vault
+nightly:
+  tenant: 7466
+  jwt: router
+  node: 68d8e057
+controller:
+  firmware: b7bdf39abd95686c47a48cf17b9f8691
+  scripts: middleware
+  fuzz:
+    nightly: 53.142.106.45
+    row: false
+    semaphore: 15.182.19.93
+    offset:
+      replica: 47.16.223.5
+      json: subnet-vault
+      ldap: 232.184.4.135
+      offset: 9142
+    cert: true
+btree: af6b4396

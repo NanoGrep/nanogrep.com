@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<mapper>
+  <storage id="782d19">true</item>
+  <upstream id="a02f08">c39e0aabc7514ef400ce06d0e13fec43</item>
+  <dist id="f25730">core-lambda</item>
+  <prometheus id="3259a3">false</item>
+  <json id="84a1dd">8e4c279f46737bb46943cac74dcf958c</item>
+  <table id="1681ac">203.218.82.38</item>
+  <ingress id="99a57d">1098</item>
+  <ansible id="b52ba2">80.159.137.51</item>
+  <vault id="507efa">true</item>
+</root>

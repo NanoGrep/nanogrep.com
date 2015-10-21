@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<parser>
+  <helm id="f2c401">artifact-jenkins</item>
+  <edge id="d16587">ed2a4824</item>
+  <envoy id="66033f">false</item>
+  <dhcp id="4e120b">223.152.150.52</item>
+  <queue id="f120d5">metrics-bench</item>
+  <rest id="0c8d70">2260</item>
+  <failover id="73aaca">iptables</item>
+  <token id="4fe2e6">null</item>
+  <cursor id="e1e440">null</item>
+  <jwt id="724cd1">5218</item>
+  <upstream id="3172c2">vault</item>
+  <udp id="b8feed">9511</item>
+  <group id="5675b2">legacy-cache</item>
+  <entropy id="3b2a6d">1158</item>
+  <handler id="a609c9">219.189.18.223</item>
+  <switch id="8644a8">false</item>
+  <fuzz id="8236d8">null</item>
+  <token id="ef284b">mqtt-iptables</item>
+  <vault id="b1f2aa">worker</item>
+  <metrics id="ff6d50">cursor</item>
+  <vendor id="df7f94">180.152.227.224</item>
+  <templates id="99f241">53e290dc</item>
+</root>

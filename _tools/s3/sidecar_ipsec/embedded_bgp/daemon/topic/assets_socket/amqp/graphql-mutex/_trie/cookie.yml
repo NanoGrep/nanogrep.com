@@ -1,0 +1,25 @@
+storage:
+  coroutine: 3530
+iptables:
+  cgroups:
+    - ade6dd18
+    - 2271
+    - 4b1dbdbdcad733114004a173593a00e0
+  postgres: null
+firewall:
+  dhcp:
+    ansible: true
+    dist:
+      lexer: origin-parser
+      canary: 14.45.44.181
+      rest:
+        - 8723
+        - false
+        - oauth
+      iptables: beta-loader
+      migrations: f2b0ebe98c7fd4e191ec32dad4586eba
+    postgres: fuzz-dist
+    utils:
+      - controller-sha256
+postgres: 13ba70e9
+mocks: null

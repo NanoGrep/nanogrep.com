@@ -1,0 +1,13 @@
+cert: a9751a5f
+cgroups:
+  locale:
+    group: pipeline-oauth
+    nginx:
+      - 81.59.50.126
+      - 61.219.28.118
+      - api
+  ldap: 6e890439
+  group: row
+  socket: jwt
+session: 38.1.151.126
+cli: true

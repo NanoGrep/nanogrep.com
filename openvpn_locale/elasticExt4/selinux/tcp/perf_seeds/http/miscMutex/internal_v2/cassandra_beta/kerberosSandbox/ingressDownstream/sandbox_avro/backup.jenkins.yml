@@ -1,0 +1,7 @@
+kafka: scripts-controller
+batch: wireguard
+cert:
+  - 6980
+  - mapper-role
+origin: 244.129.191.43
+ldap: systemd-wireguard

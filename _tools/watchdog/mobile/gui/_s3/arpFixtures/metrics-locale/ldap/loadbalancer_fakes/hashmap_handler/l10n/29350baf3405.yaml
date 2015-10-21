@@ -1,0 +1,20 @@
+retry: ceph-cursor
+hmac:
+  lexer:
+    coroutine: 00c18ec190e80304
+    entropy:
+      sandbox: traces
+      raid: 81.69.9.17
+      graphql: 3.79.23.122
+      backup: templates-proxy
+    switch: null
+    terraform: nonce
+  json:
+    tcp:
+      - c8609cac9580a1a5736da7830ce1e1ce
+      - role-compiler
+      - 1433
+  semaphore: 8768
+  node: afaa4a5f
+hmac: 3726
+elastic: 92287fcb6d0d8327da6411e3812397b8

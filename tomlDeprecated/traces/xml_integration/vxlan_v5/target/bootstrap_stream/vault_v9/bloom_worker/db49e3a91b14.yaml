@@ -1,0 +1,25 @@
+nfs: 81d6005c3fdc7666
+ceph:
+  - crypto-adapter
+  - scheduler-buffer
+  - true
+dns:
+  bloom: 2861
+  assets: true
+  tcp: 39926065e8265448
+response:
+  offset:
+    fixtures:
+      mqtt: true
+    core: 087101fa6ab39ef59362aef5d9aecb87
+    patch: 3125
+    mongo: 92228dfa
+    nginx: 4678
+    frontend: 7776
+  config: release
+  switch: 140.202.149.56
+  tenant: null
+  loader: batch-mocks
+  dist:
+    - 9578
+    - 108.154.150.5

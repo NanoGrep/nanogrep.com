@@ -1,0 +1,4 @@
+sdk: 7160
+elastic: mocks
+websocket: 1
+tcp: 99783dd93cb246167f923a06f699f176

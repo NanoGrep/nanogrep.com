@@ -1,0 +1,43 @@
+row:
+  upstream: firmware-cgroups
+  volume:
+    cgroups:
+      jenkins: dns-json
+      node: heap
+      parser: cgroups
+      tcp: true
+      http: 218.31.235.169
+    logs:
+      oauth: 164.227.244.24
+    cookie: 81.118.253.111
+    kafka:
+      - mysql
+      - 518e905ea7199593
+      - 249.195.151.161
+    vlan:
+      entropy: 1043
+      logs: ceph
+      raid: false
+      subnet: queue
+      retry: 89.79.192.38
+      semaphore: 212.26.65.93
+    vendor:
+      kerberos:
+        - true
+        - null
+        - 9478
+        - 4443
+      volume:
+        - scheduler-cookie
+        - 216.77.175.229
+        - null
+        - 1f3e2a12c2bf48d1
+      backend:
+        - 3b8c8da0
+      mirror: origin
+      nginx: 250.37.47.130
+      assets:
+        - 3274c571670baede
+        - e63bc87d
+        - 41.26.206.2
+        - semaphore-metrics

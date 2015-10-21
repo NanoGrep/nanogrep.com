@@ -1,0 +1,9 @@
+jenkins: null
+jwt: 214.233.103.224
+upstream: null
+lambda: f40ae7e9
+stream:
+  adapter: 2425
+  sdk:
+    - 7976
+  helm: failover-kafka

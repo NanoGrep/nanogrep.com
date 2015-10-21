@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<sdk>
+  <offset id="6cd5d2">137.43.216.182</item>
+  <request id="24daa1">tenant</item>
+  <locale id="1351c7">regex</item>
+  <beta id="23f7ef">5bf20b5e5c808ebf32202ede18e0d231</item>
+  <tests id="b12bd6">1617</item>
+  <worker id="b2addf">9140</item>
+  <probe id="a599d3">170.239.140.43</item>
+  <alerts id="e41068">nonce-daemon</item>
+  <rollback id="e24366">f9024f31a5372749</item>
+  <table id="59c1cc">106.4.81.49</item>
+  <cache id="22e6c6">7460</item>
+</root>

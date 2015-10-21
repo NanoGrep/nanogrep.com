@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mapper>
+  <prod id="6ad541">060401d69dac6a87</item>
+  <websocket id="268471">tls</item>
+  <nonce id="fcba32">rest</item>
+  <bucket id="ea5350">a4f5282d</item>
+  <index id="5bc8fe">9792</item>
+  <aes id="b404d6">hmac</item>
+  <grafana id="42a29b">4.39.17.162</item>
+  <terraform id="26ee8c">e269226d</item>
+  <legacy id="af3958">patch-session</item>
+  <cors id="cfda72">sha256-node</item>
+  <semaphore id="4fd815">true</item>
+  <buffer id="ad38a8">5615</item>
+  <column id="2afdb7">iptables</item>
+  <rollback id="962a12">4330</item>
+  <cgroups id="da8c92">4687</item>
+  <sandbox id="dcaed1">aes</item>
+  <vault id="e715b4">53.106.154.148</item>
+  <table id="03cc76">20.83.246.182</item>
+  <upstream id="30e934">scripts</item>
+  <cron id="817f01">row</item>
+  <helpers id="35b796">null</item>
+  <rollback id="275aba">false</item>
+  <http id="2736e9">null</item>
+  <queue id="317989">index-socket</item>
+  <mutex id="5f8aa3">cert-nightly</item>
+</root>

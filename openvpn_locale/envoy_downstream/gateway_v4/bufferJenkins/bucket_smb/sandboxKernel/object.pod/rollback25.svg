@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<mirror>
+  <threadpool id="d2eb74">null</item>
+  <cursor id="376bba">214.33.153.140</item>
+  <vault id="b18b4e">false</item>
+  <queue id="7410fc">failover-canary</item>
+  <mapper id="90ff7a">backup-mutex</item>
+  <group id="657d4f">25.158.91.134</item>
+  <wireguard id="cca28d">87.234.19.214</item>
+  <traces id="e6c4bc">4311</item>
+  <json id="bc9cc1">canary-driver</item>
+  <common id="5932c9">762542e2</item>
+</root>

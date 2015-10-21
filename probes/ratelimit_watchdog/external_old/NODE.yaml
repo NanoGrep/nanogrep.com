@@ -1,0 +1,31 @@
+pipeline:
+  yaml: null
+  sdk: 5f13cc3b4a29b5f1
+  socket: utils-coroutine
+  heap: scope
+  vlan:
+    - queue-mutex
+  zfs:
+    - 937
+    - 196.220.49.24
+    - bench
+protobuf:
+  compiler: 7905
+  switch: artifact
+mocks: true
+watchdog: tcp-firmware
+adapter:
+  origin:
+    systemd:
+      metrics: 2533718e4fa31972
+      templates:
+        - mongo
+      handler: 63.3.226.50
+      migrations: true
+      systemd: 174.44.109.232
+      tests: 2100a5f0
+  dist:
+    - 8953
+    - null
+    - fixtures-threadpool
+staging: 6825

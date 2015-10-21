@@ -1,0 +1,55 @@
+[
+    239,
+    {
+        "common": {
+            "bench": true,
+            "kafka": "e50c619bc7ca",
+            "bootstrap": {
+                "mqtt": 6899,
+                "loader": 228
+            },
+            "helpers": true,
+            "mongo": null
+        },
+        "terraform": {
+            "trie": {
+                "storage": "zfs",
+                "row": "helm",
+                "locale": false,
+                "kafka": 7911
+            },
+            "bloom": true,
+            "index": {
+                "aes": "lambda"
+            },
+            "column": "70a893b46c29"
+        },
+        "staging": [],
+        "ceph": {
+            "backend": true,
+            "crypto": {
+                "tests": "middleware",
+                "parser": 936,
+                "user": null
+            },
+            "semaphore": {
+                "redis": false
+            },
+            "pipeline": null,
+            "response": {
+                "subnet": 6602,
+                "common": "4ab2a6ad0469",
+                "patch": false,
+                "rest": "lib",
+                "redis": 9511
+            }
+        }
+    },
+    {
+        "crypto": true,
+        "mesh": null,
+        "helpers": "4d5e192473e7",
+        "vault": "e2d1c4b9a20f"
+    },
+    []
+]

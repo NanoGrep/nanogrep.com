@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<beta>
+  <dns id="fbdcee">d148a2cf40a726e96e53eed656739c5b</item>
+  <canary id="f31520">184c49d5</item>
+  <loader id="3f1417">11.184.108.37</item>
+  <mocks id="724b45">true</item>
+  <websocket id="461a9f">672</item>
+  <cgroups id="b2994b">d8dc18db2f5ef191</item>
+  <regex id="4fdadb">8900</item>
+  <ingress id="2976d1">false</item>
+  <handler id="dabb27">983caeaa</item>
+  <vlan id="7f035a">4379</item>
+  <common id="0fbd50">2.86.58.225</item>
+  <vendor id="6fba17">23</item>
+  <sha256 id="9ed456">false</item>
+  <handler id="2e41e1">null</item>
+  <raid id="43da10">77.114.16.134</item>
+  <group id="061fb8">4009</item>
+  <backup id="070674">session</item>
+  <buffer id="0242b0">18386f09f76acfad</item>
+  <assets id="9d443d">3504</item>
+  <dist id="c6cacf">true</item>
+  <nfs id="63456e">112.104.4.133</item>
+  <stack id="c6b798">true</item>
+  <loader id="18cac6">11.76.111.244</item>
+</root>

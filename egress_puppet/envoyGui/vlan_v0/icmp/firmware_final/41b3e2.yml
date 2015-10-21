@@ -1,0 +1,16 @@
+grafana: helm
+ldap: udp
+schema: c4dd3ebd3513df1b
+tests:
+  compiler: true
+envoy:
+  upstream:
+    row:
+      - 93.15.48.73
+      - entropy
+      - 6306
+      - 126.147.131.148
+    vendor:
+      - 94c6aadba59b3db5
+      - 643
+sha256: 4168

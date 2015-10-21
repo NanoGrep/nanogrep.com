@@ -1,0 +1,7 @@
+http,factory,coroutine,locale,mongo,wireguard,backup
+1780,null,false,37991db3,bucket,340,router
+1293,7208,false,staging-snapshot,null,203.32.222.19,row-release
+2250,mocks,95.44.61.141,migrations-nginx,mongo,177.84.6.1,6733
+65.197.141.52,tls-btree,299ab5394d49f6a2b6895245e51f4bd6,false,199.248.48.64,5345,storage
+scheduler,204.199.149.18,ceph-proxy,ansible,2906,false,d97ff1ea
+templates,c0b35602b7a922bad2bd214d7e2ffd3a,true,oauth-group,b40184d51504d0cd,222.6.229.129,cache-graphql

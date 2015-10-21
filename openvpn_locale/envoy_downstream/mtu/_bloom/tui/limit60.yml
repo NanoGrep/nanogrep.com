@@ -1,0 +1,5 @@
+lib: 197.107.237.56
+dns:
+  iptables: retry
+  snapshot: 161.137.249.198
+  limit: topic

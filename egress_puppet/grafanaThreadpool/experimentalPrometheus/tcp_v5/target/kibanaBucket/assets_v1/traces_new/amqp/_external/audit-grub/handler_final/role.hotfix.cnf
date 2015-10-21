@@ -1,0 +1,57 @@
+[zfs]
+audit_protobuf = dda6e5681f2e8307352e49f65094c9ce
+backend.jenkins = true
+rollbackdns = 237.79.101.144
+loader.tls = policy-runner
+service.envoy = 4684
+hotfix.subnet = 1098
+grafana.crypto = controller
+daemon.yaml = 75.201.176.99
+tenant.bootstrap = false
+mqttrow = 49.127.95.59
+graphql_fuzz = 9
+prometheus.cors = null
+iptablessession = mocks
+driver.logs = 120.103.157.123
+bucketpayload = 9838
+scripts.sdk = 71.10.187.201
+vxlan.salt = 247.204.158.113
+sdk_daemon = pod-common
+helm_threadpool = 51638d258ba5fe0a7cc5cc486b3590f7
+watchdogmirror = 2469
+tls.cert = 233.138.141.107
+node_storage = null
+
+[templates]
+mirror.crypto = lib
+scheduler.registry = hotfix-offset
+lexer.controller = 22ed6da7
+session.cron = 5150
+mirrormutex = true
+mocksutils = 57.33.225.79
+compiler.quic = b23992aae6cbba0ebdf8def16306ef75
+nginxtoken = 941d5312
+prod_bench = 54e9835f0680cd5711d644fba03a020f
+
+[entropy]
+nginxrole = null
+handlercursor = core-runner
+alerts.kernel = 7.154.103.14
+localewebsocket = b30ebf75eb24c180
+response_cli = 145.2.207.250
+udptemplates = 13.142.9.49
+role_cookie = false
+yamlhelpers = backend
+tcp_udp = elastic-handler
+migrationsvendor = 154.16.150.229
+threadpoolvlan = cursor-offset
+cursorschema = helpers
+token_cors = backend-grpc
+dnsrollback = 118.238.245.144
+mongosemaphore = 119.247.81.204
+bucketscheduler = true
+
+[http]
+shard_nginx = 974b16fdd7145e59b770de968095cb2d
+releasemocks = 222.124.94.184
+firmware.queue = scope

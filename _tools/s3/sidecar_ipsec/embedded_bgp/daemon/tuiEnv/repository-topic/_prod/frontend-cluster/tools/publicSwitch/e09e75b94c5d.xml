@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<edge>
+  <bench id="1753e7">7691</item>
+  <probe id="d4cec4">222.48.114.208</item>
+  <templates id="3d677c">6686</item>
+  <postgres id="beadbf">14.31.63.213</item>
+  <helm id="8730ba">1899</item>
+  <cors id="7105a7">table-postgres</item>
+  <hashmap id="096630">true</item>
+  <config id="66f8b7">e2d300051db3e574548ec728667946ba</item>
+  <backup id="fa4c14">2167</item>
+  <schema id="bd72ac">6ec9c038</item>
+  <bootstrap id="5daf90">9.43.221.129</item>
+  <rest id="b1289b">true</item>
+  <dist id="37fcd9">null</item>
+  <payload id="e49073">0d5792896b7dd5827a2bde20dcaa4cda</item>
+  <utils id="c9c01d">firmware</item>
+  <watchdog id="e60a33">3934</item>
+</root>

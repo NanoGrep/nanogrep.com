@@ -1,0 +1,26 @@
+column:
+  prometheus:
+    terraform: 8228f67896ec60eb871b391761a13bad
+  sdk: 6017
+  shard: 7b0345f8295c6966
+  parser:
+    oauth:
+      cluster: websocket-sandbox
+      ansible:
+        - 4590
+        - 142.34.154.134
+      adapter: 56927d2f
+      socket: 376c2d8b6e67841b
+    staging: lambda
+    snapshot: true
+    cors: null
+    regex: null
+    storage: 159.182.126.134
+  tcp: 9aeb3b87abd12999f824835a6c57284b
+mutex: staging
+metrics: scripts
+kerberos:
+  - 56.76.146.71
+  - c333fad47e681e8aaa8e203ef092bd0c
+  - cors
+  - 9999

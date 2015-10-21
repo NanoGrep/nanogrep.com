@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<pipeline>
+  <wireguard id="506240">semaphore</item>
+  <cgroups id="f52269">null</item>
+  <build id="171661">245.119.99.99</item>
+  <pod id="6ada7c">4.31.106.252</item>
+  <elastic id="3bf604">77.174.133.251</item>
+  <parser id="4ad153">838</item>
+  <tests id="d3d199">proxy-fuzz</item>
+  <scripts id="3fb58b">null</item>
+  <middleware id="700951">6724</item>
+  <graphql id="fc3617">alerts</item>
+  <ceph id="d8cb2a">197.171.223.32</item>
+  <locale id="8db93b">false</item>
+  <api id="2fe3fc">iptables-index</item>
+  <envoy id="f89e90">build</item>
+  <mapper id="2fd11e">227.152.217.42</item>
+  <migrations id="4ef19d">adapter-core</item>
+  <adapter id="530dc6">false</item>
+  <jenkins id="41111e">true</item>
+  <iptables id="74746f">mutex</item>
+  <aes id="ff30f8">raid-redis</item>
+  <systemd id="c4a111">8998</item>
+  <response id="e14bee">null</item>
+  <response id="e222fb">8639</item>
+</root>

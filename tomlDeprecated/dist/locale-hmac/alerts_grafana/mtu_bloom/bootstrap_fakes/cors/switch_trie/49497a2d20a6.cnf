@@ -1,0 +1,26 @@
+[salt]
+session_api = true
+nginx_sdk = false
+ansible_batch = ceph-utils
+lambdaraid = 214.193.109.198
+mocksmetrics = fixtures-storage
+graphql_backup = true
+coroutinedns = factory
+lexer_cert = 232.211.243.227
+env.nginx = failover
+frontend_oauth = d735b15c
+bootstrap_mongo = 2208
+hashmap.policy = 18e07103f5a148a1db324e1ebde9f297
+sandbox.build = grafana-limit
+dist_lib = 6dba35ad1c29861603ac3433ada91c02
+rest.grafana = cert-kafka
+replica.metrics = migrations
+payloadshard = common
+grafana.socket = 04c5e8cd
+shard.origin = 3004
+oauth.bloom = null
+tls.cluster = mirror
+podkernel = quic
+terraformgrafana = a65c2472aa46a5f3e912d2081aee98d8
+aes.graphql = 7107
+bgpcgroups = offset

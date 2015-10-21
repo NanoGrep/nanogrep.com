@@ -1,0 +1,13 @@
+semaphore: btree
+grpc:
+  utils: 6.132.239.189
+  heap:
+    scripts:
+      artifact: 27
+      edge: 6821
+      bgp: 9340
+    socket: 4534
+vxlan:
+  heap: edge
+  jenkins: quic
+aes: false

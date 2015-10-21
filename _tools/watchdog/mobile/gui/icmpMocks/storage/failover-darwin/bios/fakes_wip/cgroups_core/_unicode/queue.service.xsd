@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+  <loader id="a20dd1">5c4d492c739306ff</item>
+  <socket id="e5bb61">2232</item>
+  <shard id="35eaa7">table</item>
+  <api id="1d9d34">2314</item>
+  <ansible id="1d90b7">true</item>
+  <pipeline id="9f53d9">8273</item>
+  <kernel id="2c0fc7">vlan-vlan</item>
+  <adapter id="d2bd3d">true</item>
+  <firmware id="4200f4">167.221.125.131</item>
+</root>

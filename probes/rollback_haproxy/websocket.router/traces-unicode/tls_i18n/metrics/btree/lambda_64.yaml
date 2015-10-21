@@ -1,0 +1,16 @@
+mocks:
+  aes:
+    nat: bloom-vendor
+    cgroups: 5690
+    bootstrap: queue
+    daemon: 1192
+  hotfix: 46d8b19abaef9d67
+stack:
+  - 190.48.23.189
+  - true
+  - a8066814
+  - 52.232.50.253
+token: true
+http:
+  cursor: 5958
+crypto: false

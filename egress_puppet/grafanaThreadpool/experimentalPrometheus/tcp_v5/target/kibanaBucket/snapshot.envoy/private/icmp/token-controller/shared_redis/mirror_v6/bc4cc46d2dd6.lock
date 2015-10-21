@@ -1,0 +1,60 @@
+{
+  "json": {
+    "watchdog": {
+      "logs": false,
+      "quic": null
+    },
+    "driver": "mocks",
+    "scope": {
+      "payload": "audit",
+      "policy": "zfs",
+      "schema": [
+        false,
+        5958,
+        7606,
+        null
+      ],
+      "systemd": "session",
+      "config": 5749,
+      "mqtt": "79f1f2c41ca6"
+    }
+  },
+  "queue": {
+    "cgroups": [
+      [
+        true,
+        false,
+        null
+      ]
+    ],
+    "templates": true,
+    "origin": false,
+    "firewall": {
+      "templates": {
+        "cache": null,
+        "postgres": true,
+        "hashmap": false,
+        "bucket": false
+      },
+      "row": {
+        "cache": null,
+        "fixtures": "ef7962d3479e"
+      },
+      "registry": {
+        "kerberos": false,
+        "ingress": "05c6f7fa801f",
+        "systemd": 566,
+        "driver": false,
+        "release": "b604cd6dd70f"
+      },
+      "node": {
+        "watchdog": true,
+        "runner": "625e71453a20",
+        "grafana": "fac97ac01692",
+        "backup": null
+      }
+    }
+  },
+  "service": "319d431e23ae",
+  "threadpool": "3add50e4ab84"
+}

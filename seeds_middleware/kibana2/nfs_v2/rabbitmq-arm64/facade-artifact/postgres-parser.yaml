@@ -1,0 +1,37 @@
+nightly:
+  - 7932
+  - 1c1ae9bfe2182634
+  - 1048
+  - iptables
+btree: false
+role:
+  upstream: locale
+  middleware: grafana
+  helpers:
+    cert:
+      schema: parser-controller
+      middleware: 9aaa3d1e0d15fa7faa22b197773e3b59
+      jwt: 3242
+  helpers:
+    gateway: http-graphql
+  nonce: 8b3afa47
+  factory:
+    mirror: 6.144.147.77
+    oauth:
+      adapter: 0e22425cd2dcc953
+      role: 2274
+      crypto: sandbox-tests
+      vendor: 246.251.203.32
+    sdk:
+      rest:
+        - 011c9cb2
+      probe: 104.148.77.201
+      driver: 3580
+      trie: 125.111.104.30
+      retry: 231
+    entropy:
+      subnet: bdcfca165f0a31e6
+      response: group
+      request: 14720736c002d3bfabffd5bd1f831b6b
+replica:
+  group: wireguard-ingress

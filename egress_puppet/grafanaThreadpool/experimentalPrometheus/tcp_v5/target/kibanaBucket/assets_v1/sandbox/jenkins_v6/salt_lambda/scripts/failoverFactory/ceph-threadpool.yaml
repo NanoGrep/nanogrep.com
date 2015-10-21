@@ -1,0 +1,22 @@
+group: 2d64cb2d
+ldap:
+  patch: migrations
+  mqtt: role
+  buffer:
+    ansible: 24.78.124.224
+    nightly: true
+    tcp: false
+    semaphore: tenant-vlan
+    envoy: websocket-entropy
+    prod:
+      mqtt:
+        - 2162
+      tcp: 7234
+      volume: oauth
+      volume:
+        - false
+  cors: beta
+firmware: 1249
+rsa:
+  - 87.184.250.163
+  - audit

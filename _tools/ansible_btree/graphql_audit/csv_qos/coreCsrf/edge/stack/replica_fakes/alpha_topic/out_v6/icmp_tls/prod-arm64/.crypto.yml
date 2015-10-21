@@ -1,0 +1,27 @@
+traces: 215.248.179.193
+iptables:
+  socket: traces
+  utils: 242.46.146.234
+  jwt:
+    firewall: batch
+    backup: object
+    legacy: null
+    beta:
+      hotfix: true
+      worker: 9477
+      offset: fixtures
+    artifact: 5079
+  parser:
+    prometheus:
+      common: row-assets
+      ingress:
+        - 7966
+        - 6dbd63ed
+        - salt-pod
+      mutex: true
+      mapper: null
+      rest: legacy
+      role: true
+salt: stream-cache
+middleware: 4519fd7a563aad04
+token: true

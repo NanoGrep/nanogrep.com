@@ -1,0 +1,14 @@
+protobuf:
+  salt: 9737
+  bloom: nat-socket
+  factory: mongo
+alerts: 9107
+cluster: 13
+lexer: json-backend
+api:
+  - cache
+common:
+  - 159.228.56.184
+  - 6da9a7e3
+  - 145.65.141.245
+  - bbad96ea72aa1d44c6e27536f7d4c619

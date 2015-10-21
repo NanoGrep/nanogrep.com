@@ -1,0 +1,49 @@
+{
+    "websocket": true,
+    "tenant": {
+        "router": true,
+        "sdk": {
+            "retry": {
+                "schema": null,
+                "env": true,
+                "websocket": true,
+                "response": true
+            },
+            "terraform": {
+                "migrations": true,
+                "jwt": false,
+                "handler": false
+            },
+            "prod": {
+                "policy": 7734,
+                "vxlan": null,
+                "topic": false
+            },
+            "raid": {
+                "mapper": false,
+                "grafana": "aes",
+                "rest": "1fa57c01abc0",
+                "retry": null,
+                "assets": 6867
+            }
+        },
+        "env": [
+            {
+                "switch": "fixtures"
+            },
+            {
+                "regex": 8122
+            }
+        ],
+        "nfs": {
+            "tls": false
+        }
+    },
+    "driver": {
+        "request": "01cc0ee2a707",
+        "cert": []
+    },
+    "worker": false,
+    "stack": false,
+    "user": 4922
+}

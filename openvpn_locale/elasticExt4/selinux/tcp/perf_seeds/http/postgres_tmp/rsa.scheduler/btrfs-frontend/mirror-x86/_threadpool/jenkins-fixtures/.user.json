@@ -1,0 +1,72 @@
+{
+  "udp": [
+    244
+  ],
+  "vlan": "ldap",
+  "registry": null,
+  "router": {
+    "subnet": true,
+    "pod": {
+      "api": 2909,
+      "storage": [
+        6473
+      ],
+      "backup": {
+        "row": null,
+        "cookie": "e01fb6d25848",
+        "terraform": false,
+        "origin": false
+      }
+    },
+    "schema": [
+      null,
+      {
+        "api": null,
+        "aes": 7974,
+        "iptables": 8377,
+        "redis": "6efee3a6c00e",
+        "policy": "e8362a59f1ef"
+      }
+    ],
+    "websocket": false,
+    "hmac": {
+      "cgroups": {
+        "hmac": true,
+        "stream": "daemon",
+        "dhcp": "mapper"
+      },
+      "bench": {
+        "traces": false,
+        "sandbox": "677608c8e201",
+        "storage": 6605
+      },
+      "cron": false
+    },
+    "daemon": true
+  },
+  "build": {
+    "fuzz": [
+      {
+        "cgroups": "66478bba4567",
+        "nginx": "240dcbe994e6",
+        "schema": "core",
+        "vendor": true
+      },
+      {
+        "prod": "6b04a7f3943e",
+        "terraform": true,
+        "raid": 7847
+      },
+      [
+        "84ad39814795"
+      ],
+      [
+        false,
+        5669,
+        null
+      ]
+    ],
+    "scope": "3b6b581d9e31",
+    "ingress": "assets"
+  }
+}

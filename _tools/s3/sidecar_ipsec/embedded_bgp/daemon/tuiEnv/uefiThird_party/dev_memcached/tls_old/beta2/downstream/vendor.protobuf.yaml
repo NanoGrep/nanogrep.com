@@ -1,0 +1,11 @@
+batch: 14.13.239.200
+controller: 680
+udp:
+  salt:
+    cache:
+      nonce: 243.4.210.113
+      graphql: 117.195.57.231
+  origin:
+    graphql: 227.102.23.177
+  threadpool: 8790
+alerts: cgroups-payload

@@ -1,0 +1,32 @@
+proxy: false
+batch: sdk
+nat: f76abbdf
+mysql:
+  crypto:
+    prometheus:
+      index: false
+      session: 2c89b7e4
+      group: 65
+      semaphore:
+        - 5830
+        - nat
+        - env
+      failover: true
+      proxy: 169.236.78.46
+    hashmap: 44.203.96.141
+    nginx: offset
+    snapshot:
+      semaphore: null
+      scripts: systemd-watchdog
+      firewall: 234.86.225.104
+  backend:
+    probe:
+      - 7983
+      - request
+      - 9320
+      - compiler-fuzz
+    http:
+      - vxlan-common
+      - 4067
+      - true
+  subnet: null

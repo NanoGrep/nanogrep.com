@@ -1,0 +1,8 @@
+cert:
+  - null
+  - 8447
+  - 8.110.224.22
+mutex: null
+failover:
+  vault: 3734
+  protobuf: 3317

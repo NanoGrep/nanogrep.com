@@ -1,0 +1,47 @@
+[staging]
+patchnginx = 1252
+queue.legacy = 138.91.137.220
+wireguard_migrations = 225.198.173.47
+retryedge = assets-group
+bench.yaml = 3e36ea33
+gateway_redis = 62.128.3.22
+session_ceph = 141.169.16.151
+cgroupsmqtt = true
+factory_trie = 2798
+terraformpolicy = cedb77e20ef18d0f2bbe3599af4bc964
+api_traces = false
+crypto.common = hmac
+testsbootstrap = 110.126.1.169
+user.parser = 216.204.72.79
+subnettopic = 64.186.204.21
+rowpipeline = fef1e98f69ddf70a48a92adcac89344a
+mutex_nfs = 17.199.22.132
+
+[helm]
+vxlan_frontend = 3e6a9120c9648f4c0378d8f2ae8cc63d
+ceph.utils = upstream
+bloomquic = cfe9066522f42627
+envoyrunner = 77.131.177.12
+distbootstrap = 3b1c06eeb308996381c02daca578a8f9
+grpc.row = b24402be66dbaf6f
+common_column = release
+loader.redis = 158.158.236.25
+request_policy = b9995100
+prometheus_scripts = nonce-snapshot
+ingressregex = cli
+ceph_patch = 187
+tablevault = 75.224.203.19
+rollback.heap = mongo-adapter
+graphqltcp = 83.247.112.238
+lib.mocks = prod-retry
+nightly_http = envoy
+hashmap.postgres = dbba3539
+parser_tcp = backend-schema
+mongo.json = 5e30877b
+ingresswatchdog = websocket
+compilerstaging = mesh-tcp
+volume_nonce = 119.97.133.151
+runner.dhcp = mesh
+udpprotobuf = 4646
+schemaobject = 3eb9d7ac697c3ce5
+postgres_patch = false

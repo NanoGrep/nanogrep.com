@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<hotfix>
+  <mapper id="b7a1e4">protobuf-cli</item>
+  <http id="faf350">backend</item>
+  <assets id="ad8aa8">7471</item>
+  <coroutine id="508fbd">bootstrap-metrics</item>
+  <grafana id="a7dfb3">d2dc6f3460ba2b1da2017792b3fa5bfb</item>
+  <snapshot id="f67f04">6ea3691320c7a2a3</item>
+  <mysql id="6fb475">postgres-parser</item>
+  <tls id="8c5375">9577</item>
+  <cookie id="df9139">150.252.56.251</item>
+  <mongo id="1dfb5f">1f95adc44aa3c22a</item>
+  <env id="301407">4673</item>
+  <cert id="be1625">3673e1deedf5f26abdde86f01ce5e345</item>
+  <assets id="c7bca9">82.21.170.136</item>
+  <zfs id="0ab74d">139.146.167.203</item>
+  <envoy id="bacddc">logs-semaphore</item>
+  <common id="c3b373">62b01e4d6ec8ebcd3a30c734082d23eb</item>
+  <ingress id="74d5f1">mqtt-column</item>
+  <column id="098981">42.66.120.40</item>
+  <semaphore id="e34057">tls</item>
+  <vendor id="c8663e">traces-column</item>
+  <frontend id="bfd0aa">salt-staging</item>
+  <sdk id="a3bcc5">tests-tls</item>
+</root>

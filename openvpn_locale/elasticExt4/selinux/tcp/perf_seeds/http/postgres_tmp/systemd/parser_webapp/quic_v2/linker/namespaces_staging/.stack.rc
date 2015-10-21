@@ -1,0 +1,63 @@
+[parser]
+snapshotlexer = 683edeffae9fc502
+grpcwireguard = 236.149.77.118
+assets.cli = core
+heaprollback = 96.236.49.203
+parser_scope = 8968
+jenkins_vxlan = middleware-mutex
+vendor_hmac = lambda
+scheduler.batch = rsa-pod
+shard.user = 253.219.154.65
+controller_salt = role
+requestsandbox = rest-bootstrap
+vendorcursor = mirror
+bucket_firmware = true
+bootstrap_mirror = row-batch
+middleware_registry = ba47428d4b706de5
+mutexassets = 1751
+
+[udp]
+proxyhelpers = 178.183.213.111
+gateway_websocket = rollback
+firewallcanary = role-mqtt
+prodcli = crypto-cors
+offset.crypto = 2769
+frontendgrpc = payload
+topicrouter = canary
+bloom.subnet = false
+triecrypto = 94.240.205.179
+
+[common]
+btree.object = null
+firmware_response = 6252
+artifact.topic = 70671200
+nginxrole = postgres-locale
+cgroups.subnet = user
+cert_payload = 135.196.175.208
+cookieprometheus = 9378
+stackhelpers = yaml
+schemajenkins = null
+user_limit = registry
+tests_stream = probe
+daemon.semaphore = entropy
+kerberosbuild = rollback-shard
+cgroups.entropy = false
+offsetproxy = 1757
+regex_pipeline = 37.101.186.45
+
+[bgp]
+protobuf.crypto = utils-prometheus
+wireguard.scripts = tenant
+policy_websocket = grafana
+envoy_config = e3b4ed71a537040a577de9f7952d7d5a
+alerts.raid = null
+protobuf.prod = fe361df16e9fe4c1d02f37c5fd3223b1
+lambdaresponse = 118.187.169.254
+quic.vendor = vlan-udp
+corsrole = 4568
+env.batch = d8d604f1eca8bf2de173c92afc677d96
+scheduler_grpc = null
+firewallnfs = artifact-socket
+controllerbench = c3e03209
+release_http = 78047e8cc9d03350c24aa6de3adcc315
+canaryoauth = salt

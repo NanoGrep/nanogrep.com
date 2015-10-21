@@ -1,0 +1,40 @@
+trie:
+  config: false
+  stream: 12.98.179.212
+  btree:
+    object: 1874
+    grafana:
+      config: 105.11.223.34
+    coroutine:
+      daemon: firewall-sha256
+      sandbox: null
+    index:
+      scripts: request-compiler
+      queue: false
+      staging: true
+      vendor: 147.182.218.51
+      ceph: shard
+    kafka:
+      request:
+        - locale-bloom
+        - 4338
+        - iptables-buffer
+      socket: volume-jenkins
+      graphql: cb47b1a415ea71fc
+      lambda: 6214
+      mapper: scheduler
+  subnet: 9283
+  locale: protobuf-trie
+vault: ed419c66095e93ca0b39f667347ba86a
+entropy: 1453
+worker: 6000
+dns:
+  volume:
+    rest: false
+    mysql: 183.24.219.237
+    btree: crypto
+    lib:
+      scheduler: true
+    adapter: cors
+  session: 84.135.152.251
+heap: nfs-jenkins

@@ -1,0 +1,20 @@
+[
+  "daemon",
+  {
+    "ingress": [
+      [
+        "mongo"
+      ],
+      [
+        "ee4ef9e21177",
+        null
+      ],
+      [
+        2654,
+        true,
+        false,
+        true
+      ]
+    ]
+  }
+]

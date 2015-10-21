@@ -1,0 +1,30 @@
+[retry]
+coroutine.handler = bucket
+compilerkafka = 244.47.179.169
+commoncursor = 11.78.126.35
+cert.api = parser
+failover_firmware = 4053
+regex_vlan = false
+tls_dns = e59818231a3f0f6c3266de19c28e3011
+systemdcli = rest-tls
+middleware.assets = templates-queue
+nginxingress = 215.132.148.29
+group_stream = 4306a92e08f15a05
+
+[upstream]
+factory.daemon = null
+runner.mqtt = true
+runner.controller = artifact-dhcp
+rest.http = 871
+jwt_firmware = 17.130.51.243
+handler_btree = nonce
+prometheus_replica = false
+daemon.cluster = null
+topic.nightly = null
+tools_cluster = 210.193.43.197
+build_sandbox = 205.9.250.127
+tests.sha256 = 2a3fd6d1f4700fe2
+heapjson = null
+utils.backup = 1893
+canary.object = handler-watchdog
+protobufnat = true

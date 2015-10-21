@@ -1,0 +1,16 @@
+{
+    "audit": [
+        {
+            "group": true,
+            "dhcp": {
+                "systemd": false,
+                "traces": "d8292feeba1e",
+                "proxy": false,
+                "wireguard": 1247
+            },
+            "udp": true
+        }
+    ],
+    "controller": false,
+    "factory": "gateway"
+}

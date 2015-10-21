@@ -1,0 +1,7 @@
+registry:
+  - 1959
+  - c04a22d1
+  - 42.246.197.245
+cli: vxlan
+stack: fbe665c6337ef4bcc00d7bb6366e5200
+ceph: 673

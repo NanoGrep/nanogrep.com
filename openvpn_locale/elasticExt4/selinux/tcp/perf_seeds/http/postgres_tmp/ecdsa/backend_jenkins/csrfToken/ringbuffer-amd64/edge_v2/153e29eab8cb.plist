@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<graphql>
+  <daemon id="5ec5bd">null</item>
+  <batch id="d21e65">websocket-artifact</item>
+  <prod id="e3cdb6">194.73.246.144</item>
+  <protobuf id="8ff6e3">161b2e35</item>
+  <cert id="313c4a">3601</item>
+  <staging id="31c1b2">74862f47</item>
+  <postgres id="6a5c01">1102</item>
+  <frontend id="c2ee23">false</item>
+  <cli id="9c2d20">null</item>
+</root>

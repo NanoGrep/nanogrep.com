@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<cgroups>
+  <cluster id="2cee7f">661fc308d6f50fc63d979a67f73a629f</item>
+  <topic id="bad6da">false</item>
+  <tools id="63a6b0">prod</item>
+  <response id="4bd2e0">helpers-limit</item>
+  <protobuf id="a5c35f">true</item>
+  <canary id="b5f0fb">jwt</item>
+  <mesh id="cfed14">true</item>
+  <entropy id="bb824b">233.32.18.122</item>
+  <lexer id="30bca0">ac75ba79e672a7bc</item>
+  <common id="29abef">6442</item>
+  <udp id="4f1120">sdk</item>
+  <vendor id="f9de0e">compiler-limit</item>
+  <fixtures id="d9319e">tenant-payload</item>
+  <proxy id="e16f27">dhcp-artifact</item>
+</root>

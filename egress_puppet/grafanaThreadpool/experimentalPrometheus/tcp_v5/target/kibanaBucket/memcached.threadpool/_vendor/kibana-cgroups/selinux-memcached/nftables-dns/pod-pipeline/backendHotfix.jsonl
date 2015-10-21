@@ -1,0 +1,55 @@
+{
+    "audit": {
+        "retry": [
+            {
+                "batch": "fuzz",
+                "common": true
+            },
+            null,
+            true
+        ]
+    },
+    "jenkins": [
+        true,
+        {
+            "alerts": "594235663012",
+            "worker": true,
+            "sandbox": {
+                "column": true,
+                "redis": 7313,
+                "tools": 6238,
+                "mesh": true
+            },
+            "common": null,
+            "nat": {
+                "middleware": null,
+                "firmware": null,
+                "ldap": "storage",
+                "hotfix": "0fe70617fc42",
+                "dns": 9579,
+                "fuzz": true
+            },
+            "request": {
+                "factory": true,
+                "cluster": 2647,
+                "http": true,
+                "scope": true
+            }
+        }
+    ],
+    "legacy": {
+        "coroutine": {
+            "websocket": "6a6158c1a6f1",
+            "backup": 5693,
+            "tenant": {
+                "mongo": false,
+                "systemd": false,
+                "router": 7167
+            },
+            "threadpool": null,
+            "nginx": "8e6a9d163e49"
+        }
+    },
+    "middleware": "e8710a337c00",
+    "tenant": 3084
+}

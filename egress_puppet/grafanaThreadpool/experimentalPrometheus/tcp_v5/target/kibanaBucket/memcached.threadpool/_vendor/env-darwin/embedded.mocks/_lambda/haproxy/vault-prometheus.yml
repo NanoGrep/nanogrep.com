@@ -1,0 +1,43 @@
+ingress:
+  object:
+    locale:
+      edge: legacy
+      session: logs-table
+      mqtt: buffer-session
+      patch: 66.63.100.229
+      policy: parser
+      vxlan: jenkins-websocket
+    dns:
+      worker: env-mqtt
+    watchdog:
+      nfs: true
+      helm: cron-response
+      metrics: 64.38.56.73
+      node:
+        - 5398
+        - common
+        - 30e9129b
+      rsa: true
+      gateway: rsa
+  mqtt:
+    - nginx-patch
+    - dns-backup
+    - null
+    - artifact
+  bgp: 9167
+  response: 4774
+btree:
+  terraform: udp-parser
+  payload:
+    bgp: bgp
+  release: true
+  yaml:
+    - null
+  aes:
+    cron: limit
+  kafka:
+    - null
+registry:
+  retry:
+    - mesh
+    - 1666

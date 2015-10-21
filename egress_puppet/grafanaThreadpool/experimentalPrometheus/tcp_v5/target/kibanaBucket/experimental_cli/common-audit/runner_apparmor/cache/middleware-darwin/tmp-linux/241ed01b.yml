@@ -1,0 +1,32 @@
+beta: 961
+cron:
+  storage:
+    rsa: ansible
+    hmac: 43d275f14da0dd31
+    cli: 6195
+    btree:
+      heap:
+        - true
+        - 3580
+      lexer: false
+      coroutine: 519
+      bootstrap: release-failover
+      systemd: null
+    firewall:
+      backup: terraform
+    audit:
+      env: cc2362ae9ef4cf254e31f1c2a503f4b7
+      ingress: 47111fcd7666d721
+  factory: de284791
+  offset: fixtures
+  policy: 6236
+  tenant:
+    pipeline:
+      node:
+        - 226.39.159.249
+        - vlan
+        - null
+      token: api
+  legacy: lexer-entropy
+storage:
+  - fd030fa0

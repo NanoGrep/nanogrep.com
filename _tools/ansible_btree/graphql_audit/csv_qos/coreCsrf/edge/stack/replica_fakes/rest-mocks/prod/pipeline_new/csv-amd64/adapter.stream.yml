@@ -1,0 +1,15 @@
+quic:
+  - prometheus
+  - table
+  - coroutine-worker
+  - cgroups
+mqtt:
+  schema: 8225
+  service: elastic
+  volume: b09dd9ae3d9fea2bce143a12cfca570c
+mutex:
+  - 231.205.6.51
+  - 01584d75
+  - prometheus-bench
+  - 25258ff52f7b0611
+queue: be136fb1

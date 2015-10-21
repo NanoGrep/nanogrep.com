@@ -1,0 +1,78 @@
+[adapter]
+batchstack = true
+kafka_btree = heap
+role.storage = 3504
+nfs_cgroups = prometheus
+sessionhashmap = 3ee0a3b08dfb96ec261bf9caff011afb
+clusterthreadpool = true
+httpnfs = true
+role.alerts = true
+mesh.role = offset-quic
+mapper_cli = 7149
+beta.replica = handler-semaphore
+schedulertools = upstream
+canary.oauth = 9169
+cors_mysql = true
+scripts.api = udp-lexer
+mqtt.retry = c62dcdc1671f1981
+subnetparser = true
+systemd_lambda = 5709
+trie.firmware = helpers
+config.group = cors-edge
+switchrollback = bootstrap-ansible
+lib_parser = 5246
+watchdog.migrations = legacy-bench
+replica.volume = rest
+backup_kerberos = response
+mongo.common = 1521
+grpchandler = 4838
+oauth_prod = 8392
+
+[udp]
+user.legacy = user-cli
+sha256cluster = vault
+systemd.group = 92.115.196.157
+legacy_grpc = bucket-grafana
+grpclegacy = b5d67662
+nightly.mirror = true
+entropymiddleware = false
+threadpoolvlan = true
+user.staging = mutex-config
+pipeline_schema = 5004
+migrations_jwt = true
+heap_mysql = 45968d80c74b831d
+staging_hashmap = 16.33.208.134
+ceph_assets = scope
+salt_coroutine = replica
+bootstrapwebsocket = false
+failover.fixtures = true
+sandbox.metrics = false
+mqtt.compiler = aes-core
+policyfactory = mysql
+env_yaml = watchdog
+token.quic = 5300
+
+[lib]
+dist.kerberos = true
+coroutine_bench = bucket
+controller_dhcp = 3059
+nightlyfirmware = schema-mirror
+
+[index]
+tests.jenkins = coroutine-scope
+adapter_traces = threadpool
+ansible_tcp = 94.124.179.135
+probe.sdk = zfs
+lexer_tcp = 8f58cbbe4d6317c4
+mqttcors = null
+controller.entropy = common-redis
+zfsswitch = 176.6.87.131
+mutexaudit = 24.8.92.148
+tablehelpers = false
+audit.dist = 191.65.20.218
+cursorkafka = 7524
+object_pod = 9687
+regex_envoy = 5899
+backendorigin = true
+adapter.session = core-table
+cert.response = 95

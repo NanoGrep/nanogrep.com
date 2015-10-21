@@ -1,0 +1,4 @@
+firmware: firewall
+raid: 90.150.252.146
+utils: artifact-adapter
+json: jenkins

@@ -1,0 +1,5 @@
+proxy:
+  - true
+  - 3474
+mongo: nonce
+ansible: 022ded07f138707c

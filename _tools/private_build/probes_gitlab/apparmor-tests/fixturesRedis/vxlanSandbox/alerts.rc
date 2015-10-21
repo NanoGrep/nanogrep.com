@@ -1,0 +1,80 @@
+[http]
+shard_coroutine = firewall
+hashmap.hashmap = c033304a0879c65c2838f2c1132c215b
+tokengrafana = false
+semaphoremigrations = 89a044d0
+config.bench = 175.142.48.151
+bucket_http = 1914b62f18c7b44cc0134af489b407e4
+object.patch = 8640
+hashmap.middleware = shard
+env_driver = buffer-coroutine
+dns_cron = upstream
+shardnginx = 214.66.139.115
+upstreamcrypto = ae191c26639a1377
+postgrescli = lib-cursor
+request.mesh = 9e780ea592dba572
+
+[pod]
+volumehttp = controller-config
+heapwireguard = 1778
+graphqlsystemd = 9450
+
+[object]
+edgehelpers = mongo
+router_legacy = 9138
+traces.graphql = redis
+regextraces = 238.117.191.216
+
+[upstream]
+threadpool_nfs = artifact
+runner.user = lexer
+staging.cgroups = null
+socket.bench = 125.1.142.112
+helpersmigrations = 3297
+rsa.lambda = 3196fdf6523a3777
+lambdapod = bgp
+btreetemplates = bdf07f9258b9cebbd4962b1580271f8f
+adapter.kerberos = 0208faee
+frontendbatch = true
+stagingpolicy = 9935
+json.pipeline = false
+kafka_origin = 111.162.243.95
+tenantalerts = queue
+audit_object = cursor
+rollbackcookie = 95.75.252.40
+cursor.handler = c146605a1615be26
+pod.shard = 191.94.64.25
+jwt.trie = 4401
+snapshotvolume = true
+queuepostgres = 168.70.18.1
+mutexmapper = api-config
+
+[iptables]
+switchshard = index-beta
+backendaudit = 3805
+queue.driver = null
+subnet_graphql = upstream-lambda
+gateway_patch = 69
+runnermongo = volume-policy
+ingressscope = null
+nightly_tools = false
+daemonbloom = 7435
+build_user = c20f66d0
+certrest = b5ee9d65e41d3084
+restupstream = 4954dca07a431bc7577c2c069aa947d7
+origin.handler = 2130
+dns_bucket = hotfix
+tenanttls = false
+parser.locale = 248.184.123.105
+envoyaes = 83.6.136.29
+lib_compiler = true
+crypto.scheduler = 130.246.127.97
+policy.entropy = 43e36f68
+prometheus_frontend = loader-switch
+batch.api = true
+mapper_nfs = null
+middlewarecanary = true
+switch.frontend = 58.130.3.36
+groupfailover = 81b36628
+stream_scheduler = 6473197ec5af792d
+frontend_factory = bootstrap-stack

@@ -1,0 +1,6 @@
+firmware: backend-factory
+mirror:
+  - null
+  - 1a8d16cd235f0002ab9a50a8dbbdde92
+  - helm
+  - 6.80.128.174

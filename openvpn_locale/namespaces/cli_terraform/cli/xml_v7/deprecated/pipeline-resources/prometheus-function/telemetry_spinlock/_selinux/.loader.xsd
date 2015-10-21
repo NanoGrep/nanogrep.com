@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ingress>
+  <trie id="5c7b53">jenkins-oauth</item>
+  <websocket id="958187">false</item>
+  <env id="3cb702">f6e456a1e7d9c371</item>
+  <failover id="f8d465">90f9c421c9d212b2</item>
+  <request id="f318dc">240.174.2.47</item>
+  <oauth id="178672">4776</item>
+  <crypto id="52b1d2">5716</item>
+  <nfs id="c030c5">4324</item>
+  <helpers id="dbbe36">134.107.29.179</item>
+  <batch id="5bfba1">dfb34e543462e3ffc42e5bd261a45e4c</item>
+  <mqtt id="1566d8">e4b0b16c5d0b8c2d</item>
+  <queue id="5e6676">383609f099413546</item>
+</root>

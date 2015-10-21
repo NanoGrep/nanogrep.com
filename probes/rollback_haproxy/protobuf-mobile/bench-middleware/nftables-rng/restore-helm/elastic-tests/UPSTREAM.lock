@@ -1,0 +1,123 @@
+{
+    "hmac": {
+        "envoy": null,
+        "user": null,
+        "subnet": {
+            "build": [],
+            "http": {
+                "runner": "78275ec2c14a",
+                "service": "e3b6f71fbd31",
+                "dist": false
+            },
+            "row": "patch"
+        },
+        "group": true
+    },
+    "failover": "cgroups",
+    "lib": {
+        "pod": true,
+        "artifact": null,
+        "fixtures": {
+            "coroutine": {
+                "buffer": "5e2e809cc951",
+                "grpc": null,
+                "patch": true
+            },
+            "scheduler": {
+                "graphql": true,
+                "controller": true,
+                "switch": "ceph",
+                "legacy": true,
+                "topic": 3666,
+                "jenkins": "ceph"
+            },
+            "api": [
+                "dc21f54f5347",
+                "salt",
+                false
+            ],
+            "traces": false,
+            "terraform": "35a015fe7fd1"
+        },
+        "hashmap": {
+            "fuzz": {
+                "pipeline": "267b3773516c",
+                "batch": null,
+                "registry": "7b30f09d591f",
+                "payload": "c71a5b34077f"
+            },
+            "grpc": [
+                "005db5fd0587"
+            ],
+            "hotfix": "73d118e0ba2e",
+            "utils": "450ee3e646b1",
+            "mapper": [],
+            "replica": {
+                "trie": false,
+                "helpers": null,
+                "elastic": null,
+                "cron": null
+            }
+        }
+    },
+    "aes": [],
+    "origin": "bucket",
+    "sha256": {
+        "kerberos": null,
+        "traces": [
+            {
+                "registry": "460241ef8ad0",
+                "systemd": false,
+                "jwt": "elastic"
+            },
+            {
+                "assets": false,
+                "subnet": true,
+                "bloom": "a0e446d527ed",
+                "parser": null,
+                "iptables": 245,
+                "offset": true
+            }
+        ],
+        "worker": {
+            "backup": false
+        },
+        "locale": {
+            "group": {
+                "sandbox": null,
+                "daemon": null,
+                "tests": 9922,
+                "bootstrap": false,
+                "logs": false,
+                "cron": "84bde5608747"
+            },
+            "cursor": {
+                "http": "lambda",
+                "payload": "2cd7b159392b",
+                "udp": "d315bed3a522",
+                "audit": false,
+                "mesh": 4106
+            },
+            "topic": {
+                "row": null,
+                "kernel": null,
+                "mesh": "templates"
+            },
+            "oauth": {
+                "kerberos": true,
+                "payload": "fuzz"
+            },
+            "firewall": [
+                "7d9a6143fe92",
+                true
+            ]
+        },
+        "user": {
+            "cluster": [
+                null,
+                true,
+                140
+            ]
+        }
+    }
+}

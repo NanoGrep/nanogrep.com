@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<router>
+  <sha256 id="a2070d">batch-ansible</item>
+  <kerberos id="a1533a">kafka</item>
+  <mapper id="93463a">148.100.228.117</item>
+  <stream id="d04d43">alerts-zfs</item>
+  <topic id="1740ae">244.125.171.64</item>
+  <topic id="9f1ece">9352</item>
+  <vendor id="12b2a7">222.167.24.231</item>
+  <cursor id="8a30fc">ee1b5a4d568ae5a86df139c7951c749c</item>
+  <beta id="39db2c">8208</item>
+  <adapter id="cfa70f">4ab11e0c37ce02abbf913597f32dc18b</item>
+  <ceph id="1fea16">true</item>
+  <gateway id="425e41">7730ffdbeca705e272a3b7d7ca93d9d6</item>
+  <socket id="82ab8b">142.130.225.89</item>
+  <bench id="ef0b8a">regex-regex</item>
+  <bootstrap id="4d586c">firewall</item>
+  <tenant id="38de53">026eff767d466d54</item>
+  <payload id="438be9">false</item>
+  <scheduler id="e63d76">true</item>
+  <semaphore id="cefaf7">backup-api</item>
+  <lib id="26589a">57.81.175.140</item>
+</root>

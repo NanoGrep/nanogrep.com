@@ -1,0 +1,26 @@
+[proxy]
+user_btree = mocks
+firewall_vendor = cursor
+templates_coroutine = prod
+websocket_pod = locale-websocket
+node.redis = redis
+sandbox.queue = 196.16.4.159
+scripts.role = 5c1110b2
+bloomsystemd = 7870484c6d2e27a1836f6430fa9be9d2
+probemapper = 43.226.241.242
+token.cache = 5163
+sandbox.node = helpers-cert
+groupthreadpool = 77.219.65.28
+upstream_postgres = false
+mapper_daemon = true
+legacy.metrics = 3291
+clusterindex = firewall-offset
+snapshot_registry = a2504375
+factory.snapshot = 66.114.225.253
+row_loader = api-yaml
+volume.nat = 6654
+tenant_vxlan = 1968
+quic.audit = sha256
+retryprobe = false
+salt_adapter = locale-sha256
+rest.lambda = 2ba34ee995bee3e4668dd0dcdbdf548c

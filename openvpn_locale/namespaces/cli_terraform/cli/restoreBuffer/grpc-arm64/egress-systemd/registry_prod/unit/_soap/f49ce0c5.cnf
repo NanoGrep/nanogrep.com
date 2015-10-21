@@ -1,0 +1,44 @@
+[pipeline]
+regexlocale = false
+failover.proxy = c741af547f22873e
+frontend_replica = 76.164.92.15
+
+[fixtures]
+release_column = cd610f4451dfdeeb
+columnrole = router-batch
+loader_fixtures = column
+bgptraces = 3
+patch.pipeline = null
+scheduler_topic = cli-vault
+fuzz_envoy = null
+tokentenant = firewall
+terraform.proxy = pod
+router_canary = d7e3e364833e783b
+registry_service = true
+threadpoolbackend = 960
+sdk_btree = 0c09b2fb
+watchdog_kafka = parser-kernel
+alertshelpers = nat-daemon
+fixtures_worker = 7314
+kernel.proxy = 5227
+restdns = envoy
+crypto.mocks = false
+kafka.token = 5394
+aes_subnet = 6799
+nonce.yaml = null
+
+[cert]
+tls.scope = true
+coreraid = null
+jwt_lexer = queue
+mysql.tests = pod
+crypto.build = 4396
+sdk.ingress = false
+templates.nat = 9ac8a5ee13e0b9e3
+replica_raid = daemon
+
+[driver]
+vendor_proxy = 1aab425d
+ingressjson = socket-jenkins
+cors_firewall = 7820
+kerberos_http = 137.69.202.170

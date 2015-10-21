@@ -1,0 +1,16 @@
+quic: 363ef80dd3ed91d7
+limit: null
+mutex:
+  helm:
+    - 8182
+    - 1252
+  kafka: 9240
+  vxlan: ldap-cookie
+  patch: false
+pod: 222.249.4.29
+yaml: udp-heap
+vxlan:
+  - batch-cursor
+  - 162.141.143.163
+  - 23
+  - 3206

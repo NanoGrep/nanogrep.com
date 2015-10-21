@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zfs>
+  <scripts id="e00c03">row-terraform</item>
+  <kafka id="5e482d">38.63.207.82</item>
+  <assets id="abc89d">4c236d956aac129ac65e66954666070b</item>
+  <canary id="d97e23">124.24.219.21</item>
+  <edge id="3bf7ac">eed99db358b6bb84fd18748900af9ee4</item>
+  <migrations id="fb1b0e">cli-assets</item>
+  <mirror id="972def">4732</item>
+  <http id="fadd2d">acf42110</item>
+  <tenant id="1cbdc2">origin</item>
+  <sdk id="ec19aa">173.224.124.159</item>
+  <pod id="b770a7">runner-graphql</item>
+  <elastic id="537437">wireguard-mesh</item>
+</root>

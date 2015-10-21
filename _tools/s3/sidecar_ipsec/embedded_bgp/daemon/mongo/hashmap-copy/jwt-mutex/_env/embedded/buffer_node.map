@@ -1,0 +1,193 @@
+{
+    "cache": {
+        "ingress": "tls",
+        "origin": {
+            "nat": {
+                "upstream": false,
+                "cron": false,
+                "table": false,
+                "nginx": false,
+                "index": null
+            },
+            "token": true,
+            "logs": true,
+            "regex": {
+                "trie": "threadpool",
+                "object": true,
+                "index": "b3952281957f",
+                "locale": "ecdec497f220"
+            }
+        },
+        "jenkins": {
+            "daemon": [
+                null,
+                "f314665dc94a",
+                775,
+                4729
+            ],
+            "mongo": [
+                "firmware",
+                3187,
+                "58105d2248df"
+            ],
+            "fixtures": [
+                "b91b32e45939"
+            ],
+            "role": null,
+            "graphql": 2415,
+            "postgres": {
+                "locale": "adapter"
+            }
+        },
+        "entropy": {
+            "sha256": true,
+            "rollback": {
+                "utils": false,
+                "semaphore": null
+            },
+            "gateway": {
+                "patch": "audit"
+            },
+            "limit": "40c140c14db3",
+            "mysql": {
+                "nfs": true,
+                "cors": null,
+                "cgroups": "daemon",
+                "vlan": false
+            },
+            "raid": "a459fcdac0d5"
+        },
+        "subnet": {
+            "snapshot": {
+                "kafka": "dae7377805f2"
+            },
+            "bootstrap": "semaphore"
+        },
+        "fixtures": {
+            "elastic": "metrics",
+            "probe": false
+        }
+    },
+    "hashmap": false,
+    "helpers": {
+        "vxlan": [],
+        "backup": {
+            "edge": "topic",
+            "shard": 9509,
+            "tls": {
+                "grafana": "runner",
+                "cron": true,
+                "migrations": true
+            },
+            "traces": {
+                "bootstrap": "handler"
+            },
+            "rollback": [
+                "bd4ec9c0bc00",
+                null,
+                null,
+                null
+            ],
+            "websocket": {
+                "heap": false,
+                "alerts": "e0f56a864228"
+            }
+        },
+        "ldap": [
+            [
+                false,
+                "factory"
+            ],
+            {
+                "storage": 4161
+            },
+            {
+                "salt": 9398,
+                "loader": "9acdba2418b4",
+                "envoy": "terraform",
+                "staging": true,
+                "limit": "f1053e3c02ba",
+                "threadpool": true
+            }
+        ],
+        "scope": "fa20051cefdd",
+        "mocks": [],
+        "redis": {
+            "core": true,
+            "service": {
+                "patch": "firewall",
+                "daemon": null,
+                "session": false,
+                "kafka": "dbcb756b4c82",
+                "controller": null,
+                "canary": false
+            },
+            "heap": null,
+            "nightly": [
+                "tls",
+                "cli"
+            ],
+            "salt": {
+                "bgp": "c2de3e5b6f28",
+                "vendor": "e875dd2128e1"
+            }
+        }
+    },
+    "cluster": {
+        "nfs": [],
+        "tests": [
+            {
+                "config": "quic",
+                "fuzz": false,
+                "middleware": "patch",
+                "fixtures": "6117005bf9bd",
+                "request": false,
+                "cors": null
+            },
+            {
+                "artifact": false,
+                "salt": "controller"
+            }
+        ],
+        "oauth": {
+            "legacy": [
+                false,
+                9333,
+                "ingress"
+            ],
+            "gateway": [
+                null,
+                "gateway"
+            ],
+            "heap": {
+                "scheduler": "terraform",
+                "object": "alerts",
+                "btree": "terraform"
+            }
+        },
+        "vendor": [
+            true,
+            "cron",
+            {
+                "replica": null,
+                "handler": true,
+                "migrations": "ansible",
+                "stream": true,
+                "nat": 2647
+            }
+        ],
+        "group": {
+            "nightly": {
+                "patch": false
+            },
+            "ingress": {
+                "shard": "elastic"
+            },
+            "payload": "oauth",
+            "middleware": "58a154033474",
+            "artifact": [
+                null
+            ]
+        }
+    }
+}

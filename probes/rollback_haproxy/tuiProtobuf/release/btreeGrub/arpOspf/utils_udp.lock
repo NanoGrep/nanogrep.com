@@ -1,0 +1,169 @@
+{
+  "threadpool": {
+    "patch": {
+      "assets": {
+        "logs": false,
+        "rollback": "nfs"
+      },
+      "compiler": {
+        "limit": null,
+        "daemon": true,
+        "vendor": null,
+        "hotfix": "quic"
+      }
+    },
+    "templates": {
+      "kerberos": null,
+      "logs": {
+        "bucket": "jenkins"
+      },
+      "legacy": 1866,
+      "migrations": {
+        "quic": null
+      },
+      "helm": "logs",
+      "systemd": []
+    },
+    "threadpool": {
+      "sha256": "cookie",
+      "cursor": [],
+      "response": false
+    },
+    "adapter": {
+      "btree": {
+        "backend": false
+      }
+    }
+  },
+  "websocket": [
+    {
+      "systemd": "526eac3ccc0d",
+      "quic": false,
+      "mqtt": [
+        "447b78d97337",
+        true,
+        "token"
+      ]
+    },
+    {
+      "common": {
+        "udp": true,
+        "sandbox": null
+      },
+      "protobuf": {
+        "tenant": 3771,
+        "grpc": 9349,
+        "postgres": true,
+        "payload": true
+      },
+      "table": true,
+      "role": "dhcp",
+      "group": {
+        "prod": "7a30a69814f0",
+        "dns": true,
+        "crypto": true,
+        "helm": "e8b6e1e65179",
+        "handler": false
+      }
+    },
+    "4167a1e15ed6",
+    true
+  ],
+  "cert": {
+    "cookie": [
+      [
+        null,
+        4316,
+        "proxy",
+        "a51760ca5ea9"
+      ],
+      false,
+      {
+        "cgroups": "4000001aa249",
+        "stream": true,
+        "bgp": true
+      }
+    ],
+    "staging": {
+      "vendor": [],
+      "patch": false,
+      "heap": {
+        "firmware": false,
+        "frontend": "dcb37fbd3cab",
+        "env": true,
+        "bgp": "upstream",
+        "request": false,
+        "cache": "dbda6eabf89f"
+      },
+      "payload": "b286ac22d294",
+      "offset": {
+        "pod": "registry",
+        "object": "helpers",
+        "upstream": true
+      }
+    },
+    "threadpool": null
+  },
+  "bucket": {
+    "oauth": {
+      "scheduler": {
+        "rollback": null,
+        "audit": 210,
+        "semaphore": "mesh",
+        "tls": "5a3fe37cf1a8"
+      },
+      "semaphore": {
+        "mongo": 1278,
+        "vault": "64be5f87f660"
+      },
+      "ingress": [
+        true
+      ],
+      "utils": []
+    },
+    "retry": {
+      "role": false,
+      "offset": true
+    }
+  },
+  "nginx": {
+    "switch": false,
+    "batch": {
+      "canary": {
+        "oauth": true,
+        "legacy": "c99bf9815673",
+        "cgroups": 2304,
+        "ceph": null,
+        "bootstrap": true
+      },
+      "policy": {
+        "vault": "bgp",
+        "tcp": null,
+        "quic": false,
+        "salt": false,
+        "bgp": false
+      },
+      "prometheus": [
+        "cb6be87c5679",
+        null,
+        false,
+        "backup"
+      ]
+    },
+    "session": 9064,
+    "mocks": {
+      "compiler": {
+        "nonce": "prod",
+        "kerberos": null,
+        "mapper": 4254,
+        "common": 751,
+        "lambda": false
+      },
+      "stack": 1000,
+      "user": {
+        "cookie": 432
+      }
+    },
+    "btree": "common"
+  }
+}

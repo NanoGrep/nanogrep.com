@@ -1,0 +1,30 @@
+handler: true
+payload: 214.181.144.10
+beta: ingress
+cookie:
+  traces:
+    - beta
+    - true
+  sandbox:
+    daemon:
+      cron: http-traces
+      staging: true
+      postgres: 03fa1b13
+      object: 67adbc0258a3f8c8ad1848294cf91f7d
+    role:
+      vault: 401fb8a0
+      scope: response-tcp
+      column: dns-mesh
+      protobuf: 9306c01c
+      tcp:
+        - tools
+        - 254.217.116.117
+        - 9783
+        - 40744c48dc2e8ffac3a5d9e84d918fbf
+    lib: d12258f1
+    sha256:
+      offset: 0971af4c0f87f3be
+    failover: dc37027e5ae5dca652371362b18973fc
+  subnet: 9104
+  middleware: env-traces
+registry: 235.200.182.48

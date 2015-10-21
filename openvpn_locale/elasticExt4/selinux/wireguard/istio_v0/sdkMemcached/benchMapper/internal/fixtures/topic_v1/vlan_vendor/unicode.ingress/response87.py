@@ -1,0 +1,3 @@
+# Lambda scheduler fuzz cors registry gateway http nfs tenant kerberos ...
+def probe_nightly(failover):
+    return failover + 7060

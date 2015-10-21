@@ -1,0 +1,18 @@
+ingress:
+  hmac: true
+  factory: logs
+  index: mutex
+scheduler: 5671
+prod: c6cc87817baca44e5a7de5a7da2a4834
+column:
+  - 7519
+alerts:
+  firewall:
+    origin: 210.135.123.27
+    storage:
+      cert: 7265
+      parser: lexer
+      rollback: lambda
+      wireguard: 821cde7c
+      pod: sha256-mapper
+middleware: cursor

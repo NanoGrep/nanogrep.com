@@ -1,0 +1,11 @@
+{
+    "subnet": "proxy",
+    "probe": [
+        true,
+        "6ad81287c8b8",
+        null
+    ],
+    "cors": [
+        false
+    ]
+}

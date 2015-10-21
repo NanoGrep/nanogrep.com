@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<nat>
+  <row id="daf51e">153.83.3.218</item>
+  <bench id="e14e43">probe-shard</item>
+  <rsa id="01194e">topic</item>
+  <object id="c9264d">146</item>
+  <cgroups id="ee2bb0">3e7d7abd3f40e81e</item>
+  <crypto id="65fbad">true</item>
+  <socket id="b1865f">e6877704aff7e6920acf7d5c4292d663</item>
+  <mesh id="cc8124">env-oauth</item>
+  <migrations id="e5dc9b">topic</item>
+  <hmac id="b2ffc1">beta</item>
+  <upstream id="e84612">42.1.123.112</item>
+  <offset id="2e592c">null</item>
+  <topic id="47468b">94a729e60b24d6b4502f02397ddd0440</item>
+  <pipeline id="014f7a">stream</item>
+  <frontend id="3a84f9">sha256-batch</item>
+  <loader id="841fc2">42.64.50.79</item>
+  <pod id="6cf104">50.60.48.45</item>
+</root>

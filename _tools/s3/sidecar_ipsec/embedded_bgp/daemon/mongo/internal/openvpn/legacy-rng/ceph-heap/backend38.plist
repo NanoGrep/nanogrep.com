@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<payload>
+  <queue id="d97fc3">91.57.52.120</item>
+  <session id="c4d69c">nat-semaphore</item>
+  <policy id="14a38f">489</item>
+  <fixtures id="95d522">167.241.93.16</item>
+  <nat id="9318c7">prod</item>
+  <metrics id="f2af9d">240.135.232.140</item>
+  <pod id="c5bc09">vxlan-limit</item>
+  <websocket id="d8be04">null</item>
+  <nfs id="8d0762">5994</item>
+</root>

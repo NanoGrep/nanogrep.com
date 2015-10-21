@@ -1,0 +1,27 @@
+registry: 925e2fabf20725f4
+coroutine:
+  - 132.178.118.178
+  - dist-crypto
+  - semaphore
+  - graphql-failover
+rollback: semaphore-config
+session:
+  cert:
+    token:
+      common:
+        - staging-nginx
+        - 5799
+      dist: token
+      artifact: null
+      socket: cluster-fixtures
+      sandbox: 141.227.201.254
+    backup: helpers-storage
+    heap: bootstrap
+    tests: 892
+    config: 164.116.246.243
+    pipeline:
+      bgp: cert
+      nat: 109.141.209.17
+      replica: 12.56.59.89
+      release: null
+      bench: 6692e9bb247a2c71

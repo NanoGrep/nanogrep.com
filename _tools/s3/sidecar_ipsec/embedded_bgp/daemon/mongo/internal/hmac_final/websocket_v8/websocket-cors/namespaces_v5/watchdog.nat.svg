@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<prod>
+  <cache id="0ea733">212.145.26.206</item>
+  <entropy id="d4519c">807cc30e91a161a9505264c44d680ea2</item>
+  <locale id="e5c193">6534</item>
+  <metrics id="73cd74">null</item>
+  <cache id="eb633f">heap-zfs</item>
+  <vxlan id="29cbc0">subnet</item>
+  <cert id="6eb386">canary-regex</item>
+</root>

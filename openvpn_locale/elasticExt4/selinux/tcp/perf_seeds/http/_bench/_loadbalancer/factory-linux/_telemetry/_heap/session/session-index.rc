@@ -1,0 +1,53 @@
+[dist]
+rolebackend = 37.169.100.166
+upstream_patch = false
+batch_kafka = false
+proxy_rest = websocket-prod
+limit.snapshot = null
+systemd.http = 2b1a847383bdee36
+mirror.mocks = 0950c5629e329471
+replicaoauth = 186.72.135.252
+subnet_hashmap = 71b4a579c258d382
+backend_postgres = tenant
+postgrespolicy = iptables
+scheduler_locale = 235.50.8.78
+systemd.artifact = btree
+api.threadpool = 013de09dc4ea9f6c
+mapper_middleware = 6011cd4a
+response_index = locale-templates
+hmac.beta = rest-websocket
+backupraid = false
+
+[router]
+proxy.node = 3019
+router.locale = core-sha256
+bufferfailover = 181.87.247.83
+cacheaudit = e633b1eaf11fd34f163b6c8dfba908ef
+rsa.batch = 2126
+driver.canary = null
+logsprometheus = 9154
+protobuf.dist = release
+snapshotrole = 145.213.129.34
+btree.regex = 2d5284d095ba12cb
+patchmetrics = 1001
+audit_probe = 91.105.216.107
+hotfixcanary = 9466
+servicebtree = 39d018b34a6ad5b8
+localeprobe = bootstrap
+response.config = true
+
+[vxlan]
+scripts_traces = mutex-lib
+rollbackartifact = 9771
+objectrouter = 5111
+mqtt_kerberos = 114.161.116.131
+limit.scope = 159.221.43.27
+hmacrunner = 7612
+websocketcanary = 786bac0896f767b5
+upstreambatch = lib-bootstrap
+patch.lambda = true
+adapterzfs = null
+cron.daemon = true
+session.api = node-pipeline
+socket.quic = 1453
+stagingnat = 9077

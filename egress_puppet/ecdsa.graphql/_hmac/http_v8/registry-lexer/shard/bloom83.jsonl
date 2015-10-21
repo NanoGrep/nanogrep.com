@@ -1,0 +1,128 @@
+{
+    "kafka": {
+        "response": null,
+        "bench": {
+            "metrics": {
+                "regex": "row",
+                "threadpool": null,
+                "audit": false
+            },
+            "table": [
+                true
+            ],
+            "firewall": [
+                "8ee6e04b8aa1",
+                false,
+                3480,
+                "http"
+            ],
+            "registry": {
+                "cors": 3759,
+                "lambda": false,
+                "mesh": "7f8dd56789c0",
+                "socket": "4b9657c8dd21",
+                "staging": false,
+                "runner": "worker"
+            },
+            "topic": false
+        },
+        "nginx": {
+            "salt": null,
+            "tls": {
+                "helm": true,
+                "proxy": "596ba7de1f36",
+                "object": false,
+                "api": null,
+                "raid": null,
+                "redis": "mesh"
+            },
+            "tests": {
+                "redis": 4078,
+                "gateway": "808e46fa5fe1",
+                "sdk": "44dda77b65aa"
+            }
+        }
+    },
+    "tcp": null,
+    "router": {
+        "cli": "486bdfc908df"
+    },
+    "compiler": false,
+    "bench": {
+        "cache": {
+            "pod": "22ffde667319",
+            "dist": "e8ec15d846e9",
+            "kernel": [
+                "tools",
+                "graphql"
+            ],
+            "service": "cors"
+        }
+    },
+    "shard": {
+        "runner": 3097,
+        "legacy": "01390cfb89ff",
+        "envoy": {
+            "handler": {
+                "mocks": true
+            },
+            "node": {
+                "storage": "51667474e1e4",
+                "logs": "833ec7e0adf7",
+                "user": true
+            },
+            "ansible": {
+                "sha256": null,
+                "gateway": true,
+                "parser": false,
+                "staging": "a587ae0ced0f",
+                "adapter": 4782
+            },
+            "entropy": "cca784b22bc1"
+        },
+        "mutex": {
+            "migrations": "2a211b82e3e0",
+            "udp": {
+                "core": true,
+                "index": false,
+                "hmac": false
+            },
+            "rsa": {
+                "audit": "64f425e21814",
+                "subnet": 6200,
+                "btree": null,
+                "graphql": false
+            },
+            "storage": {
+                "vendor": false,
+                "mysql": true,
+                "failover": 7570,
+                "http": false
+            }
+        },
+        "canary": {
+            "cookie": true,
+            "table": {
+                "kerberos": true,
+                "nat": true,
+                "queue": 3633,
+                "firmware": "object",
+                "aes": "prometheus",
+                "bootstrap": "65764943d40a"
+            },
+            "json": null,
+            "topic": {
+                "heap": true,
+                "runner": null,
+                "cors": null,
+                "legacy": "83860ab27bb0",
+                "lexer": "env",
+                "mirror": "f51cec3ad1bc"
+            },
+            "probe": false,
+            "upstream": [
+                false
+            ]
+        }
+    }
+}

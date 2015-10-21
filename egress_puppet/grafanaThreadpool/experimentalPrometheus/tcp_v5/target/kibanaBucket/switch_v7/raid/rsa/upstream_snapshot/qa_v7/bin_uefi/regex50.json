@@ -1,0 +1,60 @@
+[
+    {
+        "offset": {
+            "gateway": {
+                "registry": false
+            },
+            "switch": {
+                "nightly": false,
+                "upstream": "8067122de86c",
+                "artifact": true,
+                "kafka": 9275,
+                "heap": 6481,
+                "helm": "mongo"
+            },
+            "registry": {
+                "offset": "table",
+                "schema": false,
+                "watchdog": true,
+                "beta": "vxlan",
+                "row": false
+            },
+            "locale": {
+                "failover": "batch",
+                "ansible": null,
+                "offset": true,
+                "raid": true,
+                "mongo": true,
+                "fuzz": 2436
+            },
+            "table": [],
+            "row": {
+                "stream": true,
+                "nginx": 4684,
+                "api": true
+            }
+        },
+        "hmac": 924,
+        "legacy": "cff1d5f701f3"
+    },
+    {
+        "quic": "cursor"
+    },
+    [
+        true,
+        false
+    ],
+    [
+        "65315aa0a205",
+        {
+            "pod": {
+                "core": null,
+                "btree": true,
+                "sandbox": "registry",
+                "failover": "systemd"
+            },
+            "bucket": "8df05e5305d6",
+            "traces": true
+        }
+    ]
+]

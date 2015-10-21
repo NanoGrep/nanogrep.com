@@ -1,0 +1,95 @@
+[helm]
+mongo.bootstrap = 157.243.74.216
+salt_zfs = jwt
+hmac.group = 42423754
+cgroups_node = 415d13b3
+cert_request = 106.218.0.240
+mqtt.crypto = 8463
+cli.stack = 03b1263ab2320204
+cephmutex = policy-proxy
+releasefailover = 83.83.248.39
+mutex.envoy = b0a413c3
+jwt.build = 233.122.215.17
+user.service = 2861
+mqtt_legacy = 53.172.158.124
+sessionsession = 193.54.254.184
+audit_daemon = false
+nginxservice = null
+jsontls = null
+protobuf.backup = upstream
+scope.node = 0ff235fac958d224
+logscgroups = null
+firewallredis = worker-cache
+hashmap.socket = 6719
+lambdaregistry = audit
+parserprotobuf = beta-cert
+
+[registry]
+lambdaaudit = false
+canaryassets = 66b1a2af707af53c
+kernellimit = false
+scheduler.protobuf = replica
+frontend.cache = 5342
+
+[volume]
+loader.parser = 5.126.28.4
+prod.alerts = migrations
+tokenstaging = 3323
+testsfuzz = 8770
+requestmesh = null
+templatesbatch = 178.15.203.133
+cluster_legacy = gateway
+staging.cookie = d0afce3a
+templates.backend = false
+meshceph = rsa-mqtt
+tcp_nginx = dns
+redis.build = router-jwt
+audit_frontend = true
+lexerscripts = vxlan-replica
+ldap_redis = false
+canary.retry = 14.62.140.76
+yaml_bloom = true
+service.jwt = cluster-prometheus
+
+[sha256]
+failover_nat = d5154065
+registry_subnet = 349c4275c763120d695d9bb5c2749f78
+locale.grafana = canary
+releaselocale = a8b3c6f7
+cors.compiler = cc5b56ec33f2a8d45921b8d589fda444
+regex.fuzz = null
+prometheus.ceph = artifact-grafana
+middlewaresystemd = 2006
+indexcert = 727
+pod.firewall = null
+meshfirewall = middleware-entropy
+index_scripts = 129
+stagingrole = null
+fixturesnfs = false
+stack.wireguard = 3750
+replica.udp = f451eb83
+quic.jwt = 9817
+env.retry = false
+websocket.udp = mocks
+indexfuzz = d773864f446d89ef236dd436e716ec74
+heap_dns = true
+nodemetrics = false
+mirror.vxlan = 8626
+beta_queue = iptables
+mocksswitch = 9878
+jwtwireguard = postgres
+threadpool.lib = 3143
+hashmap.frontend = 2177
+clinfs = 38e4adb40f0615bd
+redis_grafana = true
+
+[router]
+table_proxy = udp-tls
+helperspolicy = 9b6c644f
+zfs.cert = nightly-grpc
+nightlyredis = dce5c635c6b7430c
+tcphashmap = 0f445a2e
+elastic.dist = graphql
+metrics_dns = de01e48d
+helpers.entropy = 37.103.205.104
+hashmap.nonce = kernel

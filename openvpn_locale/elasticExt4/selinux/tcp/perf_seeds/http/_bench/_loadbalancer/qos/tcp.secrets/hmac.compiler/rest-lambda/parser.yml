@@ -1,0 +1,14 @@
+token:
+  - 8712
+  - 7142
+  - false
+  - 1d4cc972e208125d
+pod:
+  nightly: 127.254.181.29
+  firmware:
+    - 209.186.156.215
+    - mqtt-edge
+  heap: terraform-core
+  config: backend
+  heap: 90562336d236bdce
+controller: 2099

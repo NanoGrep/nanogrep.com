@@ -1,0 +1,97 @@
+{
+    "cgroups": {
+        "grpc": "coroutine",
+        "cache": {
+            "switch": "bench",
+            "mocks": {
+                "registry": true,
+                "proxy": null,
+                "cookie": null,
+                "systemd": true,
+                "rest": false
+            },
+            "limit": false,
+            "kerberos": [
+                null,
+                null,
+                null,
+                false
+            ]
+        },
+        "cron": [
+            "release",
+            {
+                "audit": 9115
+            },
+            true
+        ],
+        "payload": null
+    },
+    "cluster": {
+        "kernel": true,
+        "daemon": "failover",
+        "user": null,
+        "ingress": "tenant"
+    },
+    "nat": true,
+    "rest": {
+        "stream": {
+            "scripts": [],
+            "helpers": "protobuf",
+            "pod": "vault"
+        },
+        "backup": [
+            true,
+            "user"
+        ],
+        "ansible": [
+            [
+                null,
+                true,
+                true,
+                "89bb7f911fc4"
+            ]
+        ],
+        "user": [
+            [],
+            "prometheus"
+        ],
+        "api": [],
+        "btree": 4177
+    },
+    "hashmap": {
+        "volume": "graphql",
+        "frontend": [
+            null,
+            {
+                "scheduler": true,
+                "mqtt": "2608cba71d93"
+            },
+            true
+        ],
+        "bootstrap": null,
+        "coroutine": {
+            "lambda": {
+                "tenant": true,
+                "sha256": "5c4475b5e298",
+                "coroutine": false
+            },
+            "terraform": 5807,
+            "factory": {
+                "kerberos": true,
+                "batch": "artifact",
+                "vxlan": 7945,
+                "scripts": 9648
+            },
+            "policy": {
+                "edge": true,
+                "scheduler": false,
+                "prod": 6707,
+                "common": 8194,
+                "logs": false,
+                "parser": false
+            },
+            "runner": 817
+        }
+    }
+}

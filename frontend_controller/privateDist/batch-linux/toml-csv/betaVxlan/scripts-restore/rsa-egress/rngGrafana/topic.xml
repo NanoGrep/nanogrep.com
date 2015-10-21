@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<kafka>
+  <mesh id="c2452c">8036</item>
+  <handler id="2e6b9d">true</item>
+  <worker id="e71701">243.11.112.122</item>
+  <iptables id="506270">entropy</item>
+  <heap id="7a2db9">queue-watchdog</item>
+  <pod id="51fb45">ldap-alerts</item>
+  <nfs id="4ffefd">token</item>
+</root>

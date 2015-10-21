@@ -1,0 +1,8 @@
+mirror: false
+aes:
+  mapper: 8175
+  group: 0c117db0
+artifact: 066b7368
+mesh:
+  - audit-hmac
+  - mongo

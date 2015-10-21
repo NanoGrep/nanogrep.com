@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<cron>
+  <patch id="c74c8e">replica</item>
+  <alerts id="fc12b0">4774</item>
+  <oauth id="e09aa1">9165</item>
+  <adapter id="1e9564">object-migrations</item>
+  <cron id="6b1cbc">4681</item>
+  <env id="fab6d6">6566</item>
+  <api id="a315db">2ea3cd9c</item>
+  <upstream id="4d864c">16.11.56.97</item>
+  <helpers id="5f01c2">pod</item>
+  <fuzz id="91ac14">false</item>
+  <ceph id="eba8cb">1068</item>
+  <mapper id="c7ed7c">null</item>
+  <audit id="5ddff3">1221</item>
+  <locale id="f45c82">daemon-compiler</item>
+  <json id="d41264">null</item>
+  <bucket id="b57f4a">ceph-subnet</item>
+  <origin id="d35e0c">17.130.107.179</item>
+  <bootstrap id="1aac05">223.78.208.221</item>
+  <envoy id="393d9d">30.162.93.186</item>
+  <coroutine id="153b29">false</item>
+  <firmware id="95a706">87b61eda</item>
+</root>

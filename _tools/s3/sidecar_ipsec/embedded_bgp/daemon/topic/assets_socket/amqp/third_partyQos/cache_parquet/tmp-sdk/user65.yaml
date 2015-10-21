@@ -1,0 +1,48 @@
+sandbox:
+  gateway:
+    scheduler:
+      websocket:
+        - null
+        - pod-sdk
+      driver: true
+      cache: index-ldap
+      node: 1.114.138.10
+      worker: 543d0c00ed6435b0678712a7861b5a58
+      jwt: threadpool
+    handler:
+      hashmap: false
+      tenant: false
+      frontend: mutex-rest
+      firewall: 2183
+      patch: 128.34.218.26
+    grpc:
+      bench: 465
+      bloom: 32fe5e7e5e4c3c9c
+      patch: assets-group
+      registry: true
+      subnet: 190.107.10.97
+      udp: rsa
+  mqtt: 6de5c848a4712d3c73bc0e435beba6fb
+tools:
+  firewall: null
+  user: e07c9b1d
+  yaml:
+    utils: 2bd9d413542cd7907aed07f4add749b8
+    kernel: b65690ff
+    env: 3246
+    parser:
+      storage: e118e46abc38f4c7
+      request: cc6b9497
+      terraform:
+        - 30495837997544770bfe2f057c254cc3
+        - f75cebdf63387389
+        - subnet
+        - 1634
+    templates:
+      tools: 1817
+      regex: false
+      fixtures: 69f1306697a30b5357406301684b3c3c
+      staging: parser-parser
+      pipeline: prometheus-zfs
+    threadpool: null
+kerberos: kernel-kernel

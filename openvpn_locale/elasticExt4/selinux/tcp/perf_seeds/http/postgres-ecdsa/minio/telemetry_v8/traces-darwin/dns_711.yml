@@ -1,0 +1,17 @@
+elastic: 9527
+daemon:
+  upstream:
+    - 154.210.79.95
+    - 33bcef3805afb7f0541d620011d9da92
+    - 74.201.235.219
+release: 34.238.87.39
+worker:
+  - 4265
+  - null
+  - cron
+stack: 31.107.198.35
+dhcp:
+  quic:
+    - tenant
+    - 65.93.75.50
+    - 30.156.120.21

@@ -1,0 +1,17 @@
+grafana,metrics,mesh
+adapter-stack,b767740cd2ae48e0,3.252.168.195
+null,3815,5152
+4219,false,patch
+queue,221.117.221.81,96e47ec0
+4924,7810,79.186.125.225
+proxy-worker,2500,regex-metrics
+6615,6408,lambda-prod
+probe,51.177.46.131,45.159.110.10
+watchdog,bootstrap,nat
+bootstrap-vxlan,true,135.107.16.166
+driver-regex,true,lexer
+router,null,332f5e92
+0536fe13153f7561,af05b272195fa2e3,133.203.63.203
+3e2524cf2c2b460d72ad2e8bfb2c21d3,raid-cors,174.132.157.78
+9f81ea56,null,16d078441843ad3c6043571819fb4797
+false,1060,79706a720e4d5fb4

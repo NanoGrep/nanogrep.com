@@ -1,0 +1,82 @@
+[controller]
+schema.build = bgp-middleware
+hmac.entropy = loader
+sha256.envoy = null
+helm_scripts = true
+mongo_nightly = true
+vxlantools = 98.48.137.134
+
+[config]
+metrics_proxy = object-threadpool
+corenonce = 200.9.161.198
+patch.group = 4250
+betabloom = salt
+locale.request = heap-utils
+nightly.batch = e324ae4da9d74766935b6fabdda130aa
+elastic.node = null
+middleware_controller = socket-user
+driver.cookie = false
+nightlycluster = 144.138.52.242
+dns.mutex = build
+rollbackkernel = 221.187.83.224
+snapshot_tests = gateway-hashmap
+build_raid = graphql
+vlan.registry = 409
+apiartifact = 99.154.53.228
+mapper_mysql = null
+btree_buffer = f2c68314effb5ade
+frontend_retry = 5ac72c62
+firmware_hmac = response-scripts
+
+[http]
+meshmigrations = middleware-migrations
+groupoauth = 13.69.107.236
+redispostgres = mesh
+raidnfs = false
+kerberostrie = 79.42.198.171
+pipeline_ansible = null
+quicfirewall = logs-semaphore
+httpbucket = adapter
+stagingfailover = staging-ingress
+cors_object = 56.52.69.196
+udpvlan = 159.3.148.132
+wireguardvxlan = btree-salt
+stackudp = 176
+subnetlegacy = true
+jwtpostgres = 08fab2b569d35a8bda0e2d9bd428237c
+websocketbench = 7792
+service_jenkins = false
+session_stream = cors-rest
+tracestcp = 183.22.39.110
+firewallredis = tcp
+
+[pipeline]
+cache_vendor = 5939
+dist.mirror = 108
+ldapgraphql = null
+probe.limit = 9380
+tcp.vault = 9345099cf8340b9a
+sdkcluster = runner-mqtt
+entropycors = backup-jenkins
+certsocket = tls
+bucket.mutex = shard-nightly
+objectkafka = parser
+dhcp.jenkins = firmware-mirror
+factory.legacy = 7525
+rollback.object = 5.69.74.192
+upstreamorigin = 224.189.43.95
+pod_service = 34.34.51.190
+dhcp.iptables = b4306d2e
+
+[tenant]
+policy.vault = 227.71.182.20
+build.token = false
+prod.core = 7518
+jenkins_http = 411
+tcprow = null
+failoverparser = 9084
+build_kafka = false
+buffer.oauth = true
+postgres.node = true
+tcp.watchdog = vendor-bootstrap
+stagingpipeline = traces-shard

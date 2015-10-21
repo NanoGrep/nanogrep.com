@@ -1,0 +1,1 @@
+{"policy": "frontend", "row": {"kafka": [false, "5d1ac2414472", [null, null], {"websocket": "97af9f8d1a92", "registry": "b20d04721dbb"}], "stream": {"column": "btree", "service": {"jenkins": 3031, "protobuf": 6062, "quic": null, "backup": "batch"}, "jwt": null, "probe": {"loader": true}, "bloom": true}, "threadpool": 6942, "fuzz": 8695}}

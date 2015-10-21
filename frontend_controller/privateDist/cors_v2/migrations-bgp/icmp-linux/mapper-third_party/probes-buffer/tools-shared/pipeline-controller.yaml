@@ -1,0 +1,29 @@
+semaphore: null
+upstream: f3d3334bf63ab0cc
+user:
+  lambda: router-kafka
+  mirror:
+    - 03a195bdb4e7b6971d32741b2eb2b67e
+    - b5839368e56ca2c3c428780612d96482
+    - kerberos-http
+  traces: retry
+  mqtt: json
+loader: watchdog
+registry: 74addca5d81cad4e
+upstream:
+  elastic:
+    bloom: graphql
+    worker:
+      tenant: bloom
+    driver: false
+  parser: index-mirror
+  cache: aaf1310d78717811942a5307ebe5c60f
+  sdk: true
+  fixtures:
+    hmac:
+      buffer: 145.217.118.109
+      registry: false
+      tools: legacy-btree
+      stream: helm-audit
+  group:
+    - null

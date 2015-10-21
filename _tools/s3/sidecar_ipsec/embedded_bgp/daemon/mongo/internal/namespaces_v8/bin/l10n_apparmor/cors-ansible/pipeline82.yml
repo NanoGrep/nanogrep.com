@@ -1,0 +1,7 @@
+wireguard: false
+redis: ldap
+dist:
+  cli: 37.193.78.190
+  service: scheduler-helpers
+http:
+  - 89482c5a

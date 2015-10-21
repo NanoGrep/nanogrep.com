@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<nat>
+  <retry id="358efd">false</item>
+  <daemon id="bb1379">btree-user</item>
+  <factory id="b09fa1">e9816ab0</item>
+  <ansible id="29c3d3">true</item>
+  <frontend id="a47649">211.101.164.223</item>
+  <storage id="694620">grpc-firmware</item>
+  <btree id="8ddce3">99.195.162.137</item>
+  <token id="38bce9">46.204.0.149</item>
+  <tools id="ad1acc">8a46779c</item>
+  <prometheus id="a5912d">false</item>
+  <group id="157260">0ababe1394e78af1d8f630fba3c2b48f</item>
+  <grafana id="f21e97">false</item>
+  <elastic id="e3aa9a">202.87.169.87</item>
+  <artifact id="ceab2f">221.84.141.227</item>
+  <env id="ae6092">eea2c691</item>
+  <tenant id="9aaeed">tests</item>
+  <response id="ed38f4">prometheus-metrics</item>
+</root>

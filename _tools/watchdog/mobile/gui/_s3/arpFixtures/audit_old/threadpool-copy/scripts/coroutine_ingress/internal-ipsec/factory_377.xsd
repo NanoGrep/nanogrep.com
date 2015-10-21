@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<tls>
+  <metrics id="ba46db">upstream</item>
+  <hashmap id="8972ce">replica-worker</item>
+  <handler id="53e65e">8616</item>
+  <pod id="1e46ea">ldap</item>
+  <staging id="9d8620">true</item>
+  <service id="672322">9dea66d9</item>
+  <beta id="630893">118286f583aa5e94</item>
+  <entropy id="c54475">119.59.233.163</item>
+  <dhcp id="54fe01">false</item>
+  <topic id="00a828">7684</item>
+  <ceph id="9389e9">70.142.147.142</item>
+  <zfs id="f06ffe">160.82.177.73</item>
+  <systemd id="0b28e8">6206</item>
+  <tenant id="7caa99">14</item>
+  <udp id="1b9b0c">24a04f4e</item>
+  <tests id="6d62d5">35f448b0</item>
+  <prod id="a59a8e">7ae2ffb187a496ada4cc3d068ba2cb67</item>
+  <switch id="c06e11">186.178.118.73</item>
+  <object id="1398c4">3160</item>
+  <retry id="4f289b">cli</item>
+  <driver id="aba7b9">3264</item>
+  <mesh id="bcd366">loader-loader</item>
+</root>

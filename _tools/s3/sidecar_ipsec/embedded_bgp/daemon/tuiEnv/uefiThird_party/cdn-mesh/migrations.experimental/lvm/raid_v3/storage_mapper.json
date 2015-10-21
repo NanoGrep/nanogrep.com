@@ -1,0 +1,30 @@
+[
+    {
+        "traces": {
+            "runner": {
+                "daemon": null
+            },
+            "helm": [],
+            "btree": false,
+            "failover": {
+                "probe": null,
+                "staging": false
+            },
+            "cors": false,
+            "raid": {
+                "protobuf": false,
+                "storage": "registry",
+                "locale": null
+            }
+        },
+        "tests": false,
+        "websocket": true,
+        "artifact": null,
+        "alerts": "table",
+        "cookie": [
+            {
+                "backend": "assets"
+            }
+        ]
+    }
+]

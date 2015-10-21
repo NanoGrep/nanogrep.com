@@ -1,0 +1,43 @@
+factory: null
+nfs: null
+bootstrap:
+  handler: gateway
+  payload:
+    snapshot: 2762
+    tcp:
+      - 58a04e71cf4cba5e
+      - 01d74926
+    nginx: lexer-firmware
+    assets: 6f1ce7589103f5b653ff963e34ce1728
+    legacy: threadpool
+    common: mutex-service
+  common:
+    hotfix: 234.251.131.166
+    sha256:
+      metrics: null
+      ceph: 4bb9ed14
+      vlan: true
+    role: 3405
+    metrics:
+      lexer:
+        - 937d2f70
+        - raid
+        - nonce-stack
+        - cert
+    raid: 1922
+    wireguard:
+      - 6c7977e113f14560fc1969caba0ee38d
+      - 39.181.74.45
+      - f4e36cd35b3d6d08a2aef08c43e90d6e
+  retry: socket-kerberos
+  cli: true
+  systemd: gateway
+metrics: true
+coroutine:
+  traces: a7ce1f96589004eb8395dd748f451774
+  entropy: lexer
+  mysql:
+    - 91.232.2.120
+    - 3874
+    - false
+  ingress: 7784243229a27870

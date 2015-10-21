@@ -1,0 +1,4 @@
+tls_kafka=env-terraform
+entropy.ceph=null
+threadpoolrow=9065
+corskerberos=4fdbe899e87c22b64fa6a25db376cf5a

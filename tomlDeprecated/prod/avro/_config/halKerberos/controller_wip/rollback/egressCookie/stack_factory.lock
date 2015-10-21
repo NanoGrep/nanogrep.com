@@ -1,0 +1,76 @@
+{
+    "http": {
+        "heap": false,
+        "vault": null,
+        "legacy": 7090,
+        "nat": [],
+        "websocket": [
+            {
+                "heap": false
+            }
+        ],
+        "kerberos": {
+            "cookie": [
+                "assets",
+                true,
+                null
+            ]
+        }
+    },
+    "assets": [
+        {
+            "redis": {
+                "vxlan": "97e3605d60ff"
+            },
+            "core": {
+                "crypto": 5207,
+                "middleware": "helpers",
+                "release": 1097,
+                "helpers": "vlan",
+                "common": "584e52033eab"
+            }
+        },
+        {
+            "helm": {
+                "postgres": null
+            },
+            "vlan": {
+                "raid": true,
+                "udp": "18a1439bec3b",
+                "mysql": null,
+                "adapter": "498d23be1dd5",
+                "metrics": true
+            },
+            "bench": {
+                "middleware": true,
+                "mongo": "08be6efae418"
+            }
+        },
+        null
+    ],
+    "env": [
+        {
+            "origin": {
+                "switch": "bench",
+                "batch": "shard",
+                "dist": 9507,
+                "tools": 9030
+            },
+            "cookie": {
+                "topic": "oauth",
+                "kafka": false,
+                "jenkins": "45e77970c040",
+                "replica": false
+            },
+            "group": {
+                "postgres": null,
+                "row": false,
+                "regex": "e1b909c0c51d",
+                "firewall": "76e96c41616c",
+                "offset": true,
+                "subnet": "volume"
+            }
+        }
+    ],
+    "ansible": 8069
+}

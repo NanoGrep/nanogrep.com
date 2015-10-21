@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<oauth>
+  <upstream id="1c025e">common</item>
+  <nfs id="2a6ee0">07cdb6f68c25114213bb0315b3ff7c01</item>
+  <redis id="009ea2">218.8.71.217</item>
+  <env id="3a45dc">b46ad6b4fdf6c4f7</item>
+  <core id="f734f7">5220</item>
+  <middleware id="b2bd9d">14.118.224.244</item>
+  <threadpool id="2bae41">98.60.157.46</item>
+  <sdk id="9a2f6f">false</item>
+  <lambda id="e17640">tcp-coroutine</item>
+  <rsa id="2aae53">6589</item>
+  <dist id="1c613c">false</item>
+</root>

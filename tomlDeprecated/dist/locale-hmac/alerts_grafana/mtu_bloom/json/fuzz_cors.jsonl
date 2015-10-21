@@ -1,0 +1,16 @@
+{
+    "hmac": {
+        "schema": null,
+        "failover": {
+            "alerts": "stream"
+        },
+        "queue": "c54f4e2e750d"
+    },
+    "router": {
+        "http": {
+            "trie": "schema",
+            "firewall": true,
+            "fixtures": false
+        }
+    }
+}

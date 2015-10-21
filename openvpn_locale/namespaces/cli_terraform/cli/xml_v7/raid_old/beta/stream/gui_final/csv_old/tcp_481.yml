@@ -1,0 +1,19 @@
+batch:
+  - topic
+  - beta-mesh
+worker: 2.46.197.237
+lib:
+  replica:
+    firewall:
+      udp: true
+    mapper: false
+    loader:
+      cookie: false
+      payload: 7918
+      templates: topic
+      firewall: cluster-tcp
+    scripts: 1534
+  adapter: 6386
+  daemon: 5743
+  pipeline: 3a73d8aa
+  sha256: 811

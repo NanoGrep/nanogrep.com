@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<lambda>
+  <lib id="a1f58d">scripts</item>
+  <batch id="1ca651">false</item>
+  <sdk id="29907b">cache-vxlan</item>
+  <core id="3d787d">8939</item>
+  <tools id="7411c2">row-lambda</item>
+</root>

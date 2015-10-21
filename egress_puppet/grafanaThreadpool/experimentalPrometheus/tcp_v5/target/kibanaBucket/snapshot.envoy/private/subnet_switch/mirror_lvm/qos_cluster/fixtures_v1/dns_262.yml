@@ -1,0 +1,6 @@
+vendor: patch-stream
+firmware:
+  bench: 245.225.96.162
+  redis: 4722
+router: group
+batch: alerts

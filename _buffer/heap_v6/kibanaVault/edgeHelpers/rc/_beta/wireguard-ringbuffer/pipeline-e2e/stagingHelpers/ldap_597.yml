@@ -1,0 +1,19 @@
+bgp:
+  sdk:
+    - 119.54.79.43
+    - 6227
+    - controller-fixtures
+  vendor: socket
+  ldap:
+    threadpool:
+      cert: 166.144.231.9
+    user: true
+  router: 239.150.217.13
+  graphql: 177.198.175.229
+ldap: 28ca3d4a84643b2df95304ec2d57a447
+tls: null
+raid:
+  - 164.75.94.209
+  - false
+  - legacy
+  - jwt

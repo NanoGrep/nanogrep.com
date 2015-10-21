@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<utils>
+  <frontend id="f7362b">131.115.190.198</item>
+  <zfs id="2ff391">208.89.16.51</item>
+  <kafka id="1da90a">253.240.23.117</item>
+  <nginx id="34cf45">6967</item>
+  <watchdog id="cb9512">234.109.30.252</item>
+  <compiler id="b6d13b">1bde7d80</item>
+  <proxy id="d9909d">controller</item>
+  <envoy id="5b9e64">6223</item>
+  <table id="5df42e">parser</item>
+  <queue id="4b3a4b">env</item>
+  <topic id="1be06b">vxlan</item>
+  <legacy id="3449c8">94.75.111.128</item>
+  <dhcp id="bf4408">7349267d4e0e804a</item>
+  <cluster id="19d26c">grpc-cli</item>
+  <firmware id="0e7718">true</item>
+  <graphql id="499c35">helpers-utils</item>
+  <tls id="5bd561">nfs</item>
+  <cgroups id="50eb2b">storage-zfs</item>
+  <yaml id="c2ceb2">false</item>
+  <logs id="c178fc">128.108.251.196</item>
+  <socket id="44adaa">147.249.64.43</item>
+  <api id="addb27">630</item>
+  <upstream id="ae8f6e">cron</item>
+  <hmac id="b509d0">6234</item>
+  <middleware id="83e667">pod-entropy</item>
+</root>

@@ -1,0 +1,12 @@
+subnet: 5.178.250.149
+nonce: 7345
+vendor: 111.106.189.25
+crypto:
+  fuzz:
+    - 936
+    - true
+    - parser-elastic
+  patch: 3917
+registry:
+  - true
+compiler: 56.182.52.129

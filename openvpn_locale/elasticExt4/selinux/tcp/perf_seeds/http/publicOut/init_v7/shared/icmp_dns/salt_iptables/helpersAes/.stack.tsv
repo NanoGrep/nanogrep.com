@@ -1,0 +1,16 @@
+firewall,api,token
+5275,null,true
+release-prometheus,null,27.192.153.39
+17.11.97.69,mocks,103.123.96.159
+watchdog-tests,payload-bootstrap,controller
+150.83.207.209,509,16.222.232.7
+bdd913453c4c896d,cursor-fixtures,lib
+f3143f1914a45277,42.92.245.147,pipeline
+ingress,68c72d7c5d0819733bf3280aa9c4f4d0,72.53.51.162
+21.122.230.77,59.249.184.152,35.160.202.220
+9a35f9eca323aa25eacd79e95c4b3c44,true,b1a82b41
+true,driver,limit
+dfc567ce,logs,da04007e
+role-raid,08c5a30c575d1e3753bac63279322802,128.125.110.66
+07a4e0a0,8742e0f8,835a6621
+grafana,helpers,9462

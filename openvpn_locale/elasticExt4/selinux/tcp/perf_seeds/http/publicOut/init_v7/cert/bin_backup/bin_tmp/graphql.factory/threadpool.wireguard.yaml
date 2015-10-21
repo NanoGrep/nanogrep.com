@@ -1,0 +1,27 @@
+postgres:
+  - 4c19d10d
+  - kafka
+  - topic-dhcp
+cli:
+  json:
+    salt: cert-volume
+    queue:
+      bgp: 113.178.231.233
+    ingress: watchdog
+    hashmap: trie-cert
+    mirror:
+      snapshot: systemd-salt
+      helpers: helpers
+      response: null
+      node: kafka
+      dist: token
+  dns: redis
+  probe: 212.138.153.42
+scheduler:
+  audit:
+    nightly:
+      scheduler: 163.196.248.68
+    sdk: websocket-request
+    migrations: nginx-ingress
+    offset: dc0a9e54
+  http: true

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<service>
+  <crypto id="f9b58a">retry</item>
+  <storage id="cdaa51">924c66ea748dcd10d0bc619acb87d26a</item>
+  <kernel id="be812a">199.72.241.138</item>
+  <vendor id="467e12">2642</item>
+  <storage id="ee90f9">btree-nfs</item>
+  <rest id="7cb102">d962a44208d029978a0201abe8c44b4d</item>
+  <mysql id="030ddb">bd722cc41a06ad2e</item>
+  <worker id="aeed93">false</item>
+  <postgres id="23f433">websocket-stack</item>
+  <upstream id="4d141a">646</item>
+  <retry id="20b9bf">7152</item>
+  <coroutine id="125908">197.222.49.24</item>
+  <quic id="fa9e8c">ff521045de0d17a8</item>
+  <json id="050e2e">14ffa6b0</item>
+  <locale id="451def">173.181.108.130</item>
+  <kernel id="4a0115">volume-middleware</item>
+  <hashmap id="8ef76b">5694</item>
+  <cors id="048c46">utils-queue</item>
+  <bench id="fe1440">ea98474a</item>
+  <elastic id="4807ce">group</item>
+  <config id="23bd42">214.40.18.117</item>
+  <limit id="3c983a">nfs-http</item>
+</root>

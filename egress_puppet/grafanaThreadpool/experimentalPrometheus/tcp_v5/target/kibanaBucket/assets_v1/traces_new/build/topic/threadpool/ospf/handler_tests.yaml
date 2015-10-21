@@ -1,0 +1,9 @@
+mesh: semaphore
+mutex:
+  - 2196
+  - 226.4.180.18
+  - 1306
+  - env
+lib: tenant
+migrations: false
+group: bootstrap

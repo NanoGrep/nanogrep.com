@@ -1,0 +1,27 @@
+{
+    "edge": [
+        "terraform",
+        [
+            8614,
+            {
+                "snapshot": "session",
+                "ansible": "nfs",
+                "trie": true,
+                "cluster": false,
+                "config": false
+            }
+        ],
+        "daemon",
+        {
+            "heap": {
+                "driver": "logs",
+                "mysql": true,
+                "json": "3cc33e152734",
+                "grpc": 399
+            },
+            "mqtt": null,
+            "nginx": false,
+            "ldap": false
+        }
+    ]
+}

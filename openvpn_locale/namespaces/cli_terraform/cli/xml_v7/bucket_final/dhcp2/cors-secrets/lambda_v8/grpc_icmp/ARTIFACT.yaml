@@ -1,0 +1,35 @@
+json: c8d32ecfb339728f50841728346eb1e9
+storage: null
+tls: 210.73.136.26
+backend:
+  worker: 6aece7831a1741c8
+  nfs: 0611f34b
+  column: lib
+  middleware: router-driver
+  alerts:
+    wireguard: 79.32.68.111
+    kafka: 0f38957cc6c083a1233fc40f3bca39c4
+    tools: row-firmware
+    scheduler:
+      worker:
+        - 2800
+        - 1342
+        - 0131aae730669117
+        - 5209163518de2019913e74d03b00301a
+      gateway: 8634
+      cgroups: true
+      frontend: null
+      rollback: null
+    role: 139.33.43.216
+    failover:
+      ceph: 39.64.41.176
+      grpc: false
+      queue: 5610
+  firewall:
+    - 175.187.58.5
+policy:
+  - 69.2.201.24
+  - dist
+  - false
+  - batch-entropy
+table: 226.8.132.214

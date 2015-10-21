@@ -1,0 +1,5 @@
+pipeline:
+  fixtures: kafka
+  utils: nat-hmac
+jwt: ff92959a
+heap: envoy

@@ -1,0 +1,5 @@
+envoy:
+  probe:
+    hashmap: tls
+    schema: null
+  legacy: 2519

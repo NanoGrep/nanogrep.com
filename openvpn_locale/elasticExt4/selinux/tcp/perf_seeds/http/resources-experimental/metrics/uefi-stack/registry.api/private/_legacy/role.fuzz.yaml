@@ -1,0 +1,17 @@
+api: null
+salt:
+  response:
+    proxy: 57e8d74b
+  coroutine: tests
+  beta: null
+  socket:
+    - service-batch
+    - 348
+    - 13.99.253.120
+    - fixtures
+  cursor:
+    - tenant-response
+    - switch-controller
+  probe: 7216
+watchdog: false
+volume: false

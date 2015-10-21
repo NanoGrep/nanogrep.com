@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<replica>
+  <driver id="fb8901">false</item>
+  <wireguard id="587d2d">bootstrap</item>
+  <rsa id="a5044b">wireguard</item>
+  <scripts id="377eb4">137.118.30.199</item>
+  <payload id="47a1ca">4165</item>
+  <limit id="f4d4bc">grpc</item>
+  <cert id="fe5ef5">false</item>
+  <scheduler id="24ecb4">null</item>
+  <router id="9c1c67">btree-buffer</item>
+  <adapter id="a43ee5">dacf6092cd3789bc1f2195676de6f692</item>
+  <salt id="28bb31">terraform-adapter</item>
+  <table id="3c03c6">4750</item>
+  <response id="041bc3">f616833627fcb5a14891015b64069b20</item>
+  <cert id="b0142c">162.49.75.27</item>
+  <grpc id="ce3794">nat</item>
+  <websocket id="e1e711">false</item>
+  <bloom id="4ff40f">semaphore-payload</item>
+  <backup id="12564e">false</item>
+  <yaml id="ee5031">c17d7764</item>
+  <lib id="78e8a3">assets</item>
+  <table id="547899">false</item>
+  <templates id="bbfc15">28924e8a08da6145</item>
+  <udp id="34cd90">node</item>
+  <middleware id="ea27fc">pipeline-gateway</item>
+  <fixtures id="5e5df8">parser-factory</item>
+</root>

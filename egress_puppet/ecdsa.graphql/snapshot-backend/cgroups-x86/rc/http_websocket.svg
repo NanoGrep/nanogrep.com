@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<retry>
+  <origin id="a5c111">hmac-switch</item>
+  <sandbox id="6306d6">10.210.74.10</item>
+  <upstream id="609a1f">6221</item>
+  <group id="efc7ca">null</item>
+  <bloom id="3f9f08">stack-salt</item>
+  <session id="7c40dd">true</item>
+  <role id="ffcc6e">736a009e3530f978</item>
+  <buffer id="d2c1b0">alerts</item>
+  <grafana id="ad443a">failover</item>
+  <utils id="c76659">4aa6532318e418bad724376cdece9a54</item>
+  <artifact id="b6c10e">gateway-gateway</item>
+  <tenant id="af3006">raid</item>
+  <yaml id="c5e2c4">1875</item>
+  <locale id="cc4e80">env</item>
+  <oauth id="91501c">6649</item>
+  <stack id="72d7c4">null</item>
+  <service id="a2dede">90e76aa9</item>
+  <kerberos id="6dcfe4">false</item>
+  <user id="18146a">7808</item>
+  <mocks id="bf75a3">oauth</item>
+  <systemd id="f4f245">209.68.144.6</item>
+  <replica id="e660e0">oauth</item>
+</root>

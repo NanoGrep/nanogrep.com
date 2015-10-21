@@ -1,0 +1,27 @@
+websocket: fda772f9
+coroutine:
+  - config
+  - 33087aebb1c15cca9333387f22c39bdd
+  - 9f7b050ec4630f9d
+  - edge
+daemon:
+  mongo:
+    ceph: stream
+    http: dns-scripts
+  user: nightly-parser
+  driver:
+    aes: 6837
+    hashmap: 3602
+    bloom: prometheus-router
+  elastic: 5757
+  build:
+    canary: mocks
+    threadpool:
+      service: e893be148fbfecd6
+      prometheus: ceph-batch
+      vendor: false
+      wireguard: a7b604199489ac2a73136c16e5ef9bd5
+      bench: 4191
+    stack: a5294cd7
+    aes: staging
+fuzz: mqtt

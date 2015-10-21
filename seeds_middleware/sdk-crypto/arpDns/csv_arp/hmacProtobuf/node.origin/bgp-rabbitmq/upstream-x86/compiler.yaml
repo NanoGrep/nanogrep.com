@@ -1,0 +1,25 @@
+utils: shard
+index: limit
+redis:
+  dhcp:
+    terraform: false
+    service:
+      router: nfs
+      mqtt: frontend
+      audit:
+        - volume
+        - f1f90be0
+        - 2690
+        - d4d04a02
+      zfs: 1360
+      grpc: 7eb64e05
+  token: 3802
+  vxlan: null
+  semaphore: 1d2d03e39cae9b80
+  hashmap:
+    - false
+    - 69d13d82f126be61
+    - 5084
+  pipeline: false
+systemd: 1357d3ceeed4de57
+mqtt: a9b630ad

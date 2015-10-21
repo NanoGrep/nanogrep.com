@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<threadpool>
+  <parser id="8cb2db">shard</item>
+  <stream id="f6e3f3">edge</item>
+  <cursor id="36106f">a4eb9753656b25bf</item>
+  <entropy id="fbf3c0">false</item>
+  <proxy id="68facf">mirror-websocket</item>
+  <nginx id="da3465">13.184.91.24</item>
+  <volume id="878d46">216.43.180.101</item>
+  <staging id="a5c9de">150e0152fcb8f8abfd80d343e6f2f8eb</item>
+  <queue id="053ab1">93.20.29.3</item>
+  <queue id="b12e5a">4228bd7f139e5865667563a52a1a4259</item>
+  <nfs id="fc1d51">socket</item>
+  <env id="efdf29">a30e7248fe430f56a994d0dd6bb6f3ae</item>
+  <fixtures id="6adbfa">locale-terraform</item>
+  <oauth id="591e9b">false</item>
+  <grafana id="7d626d">true</item>
+  <ingress id="e29d1d">iptables</item>
+  <jenkins id="406f75">controller</item>
+  <build id="ed5915">fixtures</item>
+  <mapper id="1e1775">8401</item>
+  <bgp id="c282c3">true</item>
+  <cert id="8095d4">canary-pod</item>
+  <legacy id="74d49d">cluster-cert</item>
+  <kernel id="1223c8">177.37.64.202</item>
+  <trie id="d41515">764</item>
+</root>

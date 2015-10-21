@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<payload>
+  <lexer id="9c0ae0">70.117.175.7</item>
+  <sdk id="a2e9f2">139.220.174.227</item>
+  <mongo id="6f3a75">6810</item>
+  <metrics id="ba6909">retry-oauth</item>
+  <edge id="af5cc5">91.221.140.214</item>
+  <lib id="4e4cac">8441</item>
+  <envoy id="11425e">58.245.20.131</item>
+  <switch id="747d2f">staging</item>
+  <common id="8f60eb">1610</item>
+  <stream id="fad46a">null</item>
+  <prod id="37347d">246.84.8.128</item>
+  <cors id="066f34">e0ddb0d1</item>
+  <raid id="9fd916">true</item>
+  <compiler id="3a5d7c">2951</item>
+  <request id="39765d">160.148.20.60</item>
+  <replica id="3e5775">entropy</item>
+  <cli id="9256ff">sandbox-nfs</item>
+  <bootstrap id="3418cc">6a1a154f5e72bd711b25cc9c175f6234</item>
+</root>

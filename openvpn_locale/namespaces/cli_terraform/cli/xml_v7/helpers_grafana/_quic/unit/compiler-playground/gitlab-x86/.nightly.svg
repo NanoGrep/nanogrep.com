@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<group>
+  <staging id="1d2ca3">58f59e5d</item>
+  <locale id="80f5fb">47.194.127.243</item>
+  <switch id="2f9382">firmware-column</item>
+  <retry id="703208">be733df5</item>
+  <vault id="e12bbf">7322</item>
+  <retry id="b252a2">1924</item>
+  <jwt id="aaa1c9">64bc00126a9179d8</item>
+  <nonce id="ba4158">user-pipeline</item>
+  <bgp id="baab81">cookie-origin</item>
+  <cluster id="fb86f1">1957</item>
+  <gateway id="7792b4">gateway</item>
+  <kerberos id="0a9f78">false</item>
+  <vendor id="8e1a38">208.93.148.58</item>
+  <release id="102977">c2ab40cd</item>
+  <proxy id="eccb09">volume</item>
+  <vlan id="b12a45">cgroups</item>
+  <volume id="579ee5">runner-socket</item>
+</root>

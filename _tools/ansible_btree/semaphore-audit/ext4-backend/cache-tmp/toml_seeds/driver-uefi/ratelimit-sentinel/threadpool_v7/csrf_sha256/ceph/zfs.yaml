@@ -1,0 +1,7 @@
+vxlan: 65.230.37.219
+env: table-gateway
+scheduler: 80.5.209.140
+api: null
+ansible:
+  hashmap: 160.27.84.120
+  limit: storage-nfs

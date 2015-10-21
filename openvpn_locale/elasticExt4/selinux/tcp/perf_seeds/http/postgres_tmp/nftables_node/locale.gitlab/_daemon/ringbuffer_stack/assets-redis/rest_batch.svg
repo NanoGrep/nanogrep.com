@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<env>
+  <websocket id="784223">123.91.76.108</item>
+  <jwt id="7137a7">helpers</item>
+  <kernel id="4b31b6">cert</item>
+  <heap id="d4620b">7215</item>
+  <subnet id="bf5a16">fe2019c4f84d26b6</item>
+  <vault id="eaf0fb">3.95.248.124</item>
+  <common id="37cbad">true</item>
+  <nightly id="24c092">null</item>
+  <coroutine id="8b1c61">97b48d58c8cdfd1bbe26725cad5bb1e8</item>
+  <vault id="c70e24">failover</item>
+  <sha256 id="d4d48c">false</item>
+  <tests id="d9c32b">9371</item>
+  <lib id="b9546c">kernel-factory</item>
+  <factory id="8fa103">metrics-stream</item>
+  <vxlan id="adbea9">null</item>
+  <lib id="39aa30">4fd25615317d3ac5</item>
+  <build id="56c373">false</item>
+  <request id="ac7752">97aad6dd</item>
+  <logs id="eeff5a">5198</item>
+  <tools id="0948f9">9173b93a</item>
+</root>

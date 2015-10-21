@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<http>
+  <snapshot id="0c815a">6901</item>
+  <dns id="f97c23">true</item>
+  <patch id="debf1b">true</item>
+  <build id="6698ee">5875</item>
+  <ingress id="f2db08">4394</item>
+  <dist id="e11047">false</item>
+  <hashmap id="a10fc8">false</item>
+  <rest id="b8450b">stack-cors</item>
+  <traces id="5e9715">queue</item>
+  <fixtures id="8ee16f">true</item>
+  <firewall id="5bb22b">50.79.110.1</item>
+  <grafana id="cc5d41">null</item>
+  <prometheus id="2ac021">c963e778997b69f40cd6fafc4c61b995</item>
+  <iptables id="6bfcab">183.202.246.141</item>
+  <hmac id="23c532">5eb9b730e2d4c83d</item>
+  <session id="8dbb89">dist</item>
+  <schema id="1afcdc">batch-mirror</item>
+  <mqtt id="93d1e6">terraform-backend</item>
+  <config id="a99411">154.120.11.207</item>
+  <limit id="1d6eb5">null</item>
+  <rollback id="6b90c6">controller</item>
+</root>

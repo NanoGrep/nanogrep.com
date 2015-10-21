@@ -1,0 +1,30 @@
+quic:
+  - compiler
+  - cgroups
+  - 2982ef56
+jenkins:
+  scripts: pod-entropy
+  envoy:
+    regex:
+      templates: rsa
+      prometheus: c03595aab814330b
+      hmac: 5.167.78.132
+      nfs: 2517
+      parser: 6368
+      probe: env-release
+    raid:
+      - 6897
+      - 7257164295bb0365108d5f6b8f0b02e9
+    service: scope
+    pipeline: 51938e2e6be70ec7954faa4104d30766
+    origin: 19.120.177.161
+    nat:
+      scope:
+        - prometheus
+        - sandbox-alerts
+      router: 0f27be861f864bc3e11fde676a53e4dd
+      mutex: false
+      helpers: 206.250.118.137
+      websocket: 5790
+      envoy: 0e698afb2ba27195
+nightly: false

@@ -1,0 +1,41 @@
+[
+  [
+    [
+      4737,
+      false
+    ],
+    [
+      {
+        "table": false,
+        "stream": null,
+        "firmware": false,
+        "index": null
+      },
+      false,
+      {
+        "daemon": null,
+        "artifact": null,
+        "mapper": false,
+        "oauth": "06366f9d54a2",
+        "fixtures": "f53cdf529c09"
+      },
+      {
+        "release": "cron",
+        "driver": "bb3473725f15",
+        "protobuf": 7398,
+        "policy": "1e7aa33b612d",
+        "response": 7371,
+        "cache": null
+      }
+    ],
+    {
+      "locale": null
+    }
+  ],
+  [
+    "ceph",
+    true,
+    true
+  ],
+  true
+]

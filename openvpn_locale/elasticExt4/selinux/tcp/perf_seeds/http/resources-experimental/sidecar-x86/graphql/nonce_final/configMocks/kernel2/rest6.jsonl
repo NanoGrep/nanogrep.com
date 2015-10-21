@@ -1,0 +1,69 @@
+{
+    "ceph": [
+        [
+            "79a5c936215c"
+        ]
+    ],
+    "lexer": {
+        "vault": false,
+        "metrics": {
+            "switch": [],
+            "cgroups": 3233,
+            "jwt": {
+                "canary": "8acf828a637b",
+                "jenkins": "c05737233127",
+                "nightly": true
+            },
+            "oauth": null,
+            "websocket": {
+                "tests": 9473,
+                "tls": false,
+                "ansible": "f37e057384ed"
+            }
+        },
+        "aes": [
+            null,
+            false
+        ],
+        "bootstrap": [
+            [
+                true,
+                null
+            ],
+            null,
+            "edge",
+            false
+        ],
+        "cert": {
+            "templates": {
+                "row": "9cda6826ce2a",
+                "stack": "storage",
+                "zfs": 7949,
+                "bootstrap": "01d0c3c4b5a9",
+                "jwt": 9624
+            },
+            "retry": "role",
+            "json": {
+                "locale": "cache",
+                "replica": null,
+                "factory": 1503
+            },
+            "row": [
+                "631fa9104222",
+                true,
+                true
+            ],
+            "switch": {
+                "role": "4e5c3a62fa3f"
+            },
+            "factory": false
+        },
+        "vlan": {
+            "cookie": 3707
+        }
+    },
+    "upstream": null,
+    "router": {
+        "bgp": null
+    }
+}

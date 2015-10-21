@@ -1,0 +1,37 @@
+{
+    "retry": [
+        [],
+        {
+            "ingress": false,
+            "scheduler": [
+                null,
+                5075,
+                false,
+                null
+            ],
+            "assets": {
+                "stream": false
+            }
+        },
+        "frontend"
+    ],
+    "grafana": "batch",
+    "elastic": false,
+    "websocket": [
+        false,
+        "worker",
+        {
+            "canary": {
+                "middleware": 6271,
+                "legacy": null,
+                "fuzz": true,
+                "assets": false,
+                "replica": "a2464f747eef",
+                "gateway": null
+            }
+        },
+        "grpc"
+    ],
+    "bootstrap": "socket",
+    "user": []
+}

@@ -1,0 +1,18 @@
+fixtures:
+  - 79.96.26.199
+  - cursor
+locale:
+  driver:
+    sha256:
+      aes: salt-env
+      elastic: 173ae868072c74c2a2f7422bf4c09acf
+      token: true
+      kafka: volume-response
+  salt: false
+  session:
+    dhcp: true
+  dist: d6e8b241022f12c4ff964133fe263d76
+staging: 9118
+canary:
+  - 79a4e66a77d17b22
+  - c82579571e2d01f0

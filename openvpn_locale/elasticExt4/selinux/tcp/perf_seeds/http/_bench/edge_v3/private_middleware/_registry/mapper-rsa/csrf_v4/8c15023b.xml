@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+  <tls id="5686f3">oauth</item>
+  <failover id="dd0647">true</item>
+  <buffer id="d41689">cron-grafana</item>
+  <staging id="809527">242.231.29.151</item>
+  <env id="66c139">117.245.133.134</item>
+  <nat id="4f59ea">jenkins</item>
+  <entropy id="5791b9">factory</item>
+  <yaml id="f3129f">9366</item>
+  <rsa id="f7c178">false</item>
+  <session id="92ec2e">174.51.49.145</item>
+  <backend id="2af7c5">78.145.160.59</item>
+  <canary id="a674a3">true</item>
+  <scope id="8df0a2">44cd8237dc699959b00d870786ccf63b</item>
+  <role id="329fb4">dns-scripts</item>
+  <utils id="e9e027">build</item>
+  <mapper id="9eae4b">false</item>
+</root>

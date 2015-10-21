@@ -1,0 +1,29 @@
+[
+    false,
+    {
+        "rsa": {
+            "factory": {
+                "jwt": true
+            },
+            "cron": "2c01c932461a",
+            "btree": {
+                "firmware": true,
+                "nonce": null,
+                "node": "storage",
+                "topic": true,
+                "sdk": "coroutine",
+                "helpers": false
+            },
+            "shard": {
+                "metrics": "6807021b396a"
+            }
+        },
+        "audit": true,
+        "fixtures": [
+            "common",
+            "subnet"
+        ]
+    },
+    [],
+    9967
+]

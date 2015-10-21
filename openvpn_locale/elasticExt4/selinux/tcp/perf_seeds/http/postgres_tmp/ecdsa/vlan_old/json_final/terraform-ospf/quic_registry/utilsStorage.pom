@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<patch>
+  <assets id="9ad07b">bootstrap-retry</item>
+  <node id="840c51">mutex-middleware</item>
+  <probe id="129d25">1524ce2af117928f</item>
+  <protobuf id="ca90f6">2619</item>
+  <canary id="e0fd4c">1450</item>
+  <probe id="ae25e9">4000</item>
+  <failover id="cd9b39">794</item>
+  <mocks id="4997b3">fixtures</item>
+  <queue id="da51a5">null</item>
+  <oauth id="3044f8">216.27.241.45</item>
+  <config id="3de1c9">d9eb9eb78095be5b927726b3959f7419</item>
+  <prometheus id="82a16b">true</item>
+  <backup id="4a160a">payload</item>
+  <locale id="e29931">rollback</item>
+  <cookie id="fa6d74">2365</item>
+  <mocks id="37732c">2382</item>
+  <beta id="16ddf7">vault-elastic</item>
+</root>

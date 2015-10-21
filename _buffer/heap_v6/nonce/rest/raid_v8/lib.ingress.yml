@@ -1,0 +1,95 @@
+pipeline:
+  request:
+    release:
+      index:
+        - staging-router
+      logs: sha256-hashmap
+      entropy: 66409d84eb810aa63141d8e0591ff4e3
+    rest: 24.254.90.253
+    mirror:
+      bloom: prod-btree
+      role: null
+    schema:
+      cron: vault-rollback
+    pipeline: 3025
+    cluster: nfs-mapper
+  nginx:
+    zfs:
+      release: a1b3d3aa25228d38
+      mutex: true
+      batch: 109.20.120.112
+      gateway: 8322
+      middleware: origin
+      factory: scope-tools
+    replica:
+      socket: http-bgp
+      volume:
+        - alerts
+    compiler: 65.7.98.123
+    zfs:
+      - 2471
+    parser: 6c2e0ee8f9d71e6f
+    edge: grpc
+  token:
+    bloom: 5731930d
+    patch: 245.219.10.180
+    hotfix:
+      mqtt: sandbox
+      protobuf: hotfix
+    proxy: f12e7dcb
+  loader: 5771
+  limit: 241.124.125.240
+  quic:
+    switch:
+      replica: true
+      dhcp:
+        - true
+        - redis-oauth
+        - rest
+      pipeline: fed79799
+      kafka: 76.71.199.38
+      shard: true
+    cursor: 64f11dd62a7bc87e
+    canary: null
+    protobuf:
+      frontend: 8f9d050a5f56497ed5ad60e58ebd84c3
+vault: null
+bucket:
+  - tests
+  - coroutine-zfs
+tests: 06cf4b16
+row:
+  node: 97.208.164.116
+  release:
+    metrics: 14.236.70.75
+    crypto:
+      cron: heap-stack
+      controller: nfs-common
+    stack:
+      frontend:
+        - 1927
+        - false
+        - ansible-nonce
+      subnet: postgres
+      systemd: 8600b70366f336a3bba25e710fcb1492
+      probe: 213.253.8.61
+      trie: 112a210abb13ac3f
+  logs: 54.226.12.51
+  buffer:
+    - 232.194.24.148
+    - 2789
+    - 5796
+  wireguard:
+    cluster:
+      - gateway-firewall
+      - d991afec8ffe5b7a
+      - e6be9c22f28aa03a
+    mqtt:
+      - 63.158.105.120
+      - 162.153.0.84
+      - 4.181.184.126
+      - token
+  templates:
+    - 7786523e
+    - mapper
+firmware: 104.193.12.134

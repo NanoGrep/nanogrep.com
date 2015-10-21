@@ -1,0 +1,50 @@
+{
+  "failover": [
+    4927,
+    {
+      "build": {
+        "tls": "782c1d78c199",
+        "kerberos": false,
+        "protobuf": 3023
+      },
+      "env": [
+        true,
+        true,
+        "0e8911e5d60b",
+        "kernel"
+      ],
+      "crypto": [
+        "ca910d4a4a97",
+        4253
+      ]
+    }
+  ],
+  "crypto": true,
+  "cert": {
+    "pipeline": null,
+    "middleware": [
+      "hmac",
+      6404,
+      null,
+      true
+    ],
+    "coroutine": {
+      "nat": "bench"
+    }
+  },
+  "runner": false,
+  "daemon": {
+    "rest": "entropy",
+    "vlan": 6164
+  },
+  "cookie": [
+    {
+      "watchdog": [
+        true,
+        false,
+        true
+      ]
+    },
+    "48215454d4d0"
+  ]
+}

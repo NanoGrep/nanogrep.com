@@ -1,0 +1,12 @@
+mocks: 163.76.29.41
+rollback: prod-registry
+tests: 30.232.60.115
+policy:
+  lexer: 763ecdd9cea93c1d
+  cron: quic
+  runner: true
+  config: true
+  upstream: true
+  bgp:
+    - 1829
+    - null

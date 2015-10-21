@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<cron>
+  <metrics id="90ce17">socket</item>
+  <upstream id="fe364d">dhcp-dist</item>
+  <nat id="567866">null</item>
+  <config id="5f80ed">201.137.56.66</item>
+</root>

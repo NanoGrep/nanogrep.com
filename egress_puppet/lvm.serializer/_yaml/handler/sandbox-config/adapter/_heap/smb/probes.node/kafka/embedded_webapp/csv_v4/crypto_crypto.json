@@ -1,0 +1,30 @@
+[
+  {
+    "replica": {
+      "buffer": {
+        "cluster": false,
+        "middleware": "ansible",
+        "release": false,
+        "json": 4756,
+        "dns": "batch"
+      },
+      "retry": 8611,
+      "nightly": [
+        null
+      ],
+      "runner": {
+        "cron": "bucket",
+        "vault": "599929548178",
+        "batch": true
+      },
+      "lambda": {
+        "storage": 9800,
+        "response": "b4547b1d680b",
+        "subnet": false,
+        "staging": "response",
+        "jenkins": false,
+        "rollback": true
+      }
+    }
+  }
+]

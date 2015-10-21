@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<vendor>
+  <backend id="13ae39">7658</item>
+  <semaphore id="9a5e39">1925</item>
+  <upstream id="4d3906">null</item>
+  <grpc id="e5e83d">elastic</item>
+  <lambda id="83a5f4">7910</item>
+  <env id="cc9040">249.168.152.230</item>
+  <templates id="8dc799">null</item>
+</root>

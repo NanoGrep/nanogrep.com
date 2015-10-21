@@ -1,0 +1,25 @@
+rollback:
+  build: 4930
+  mirror:
+    semaphore:
+      utils: grafana
+      audit: 171.161.154.153
+      frontend: false
+    trie:
+      - 61.225.161.132
+    registry: 2604
+    logs:
+      traces:
+        - scheduler
+        - 244
+        - compiler-semaphore
+        - f2ece3cc9b76804d
+      bootstrap: 9390
+      hotfix: 347e027b
+      cgroups: 489d19ed
+      loader: offset
+      wireguard: 6727
+    legacy: stream
+    schema: policy
+  kafka: subnet-group
+  tools: null

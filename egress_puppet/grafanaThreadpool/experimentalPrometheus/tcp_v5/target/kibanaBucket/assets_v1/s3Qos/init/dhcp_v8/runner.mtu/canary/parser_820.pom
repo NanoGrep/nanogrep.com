@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<stream>
+  <kerberos id="ae902f">nat-prod</item>
+  <mongo id="2444bf">prometheus-bootstrap</item>
+  <yaml id="259ed2">true</item>
+  <replica id="c2163e">5092</item>
+  <wireguard id="c2bcd4">4910250ada6026bb7cfc1e2495638b1b</item>
+  <traces id="a02b69">utils-shard</item>
+  <nightly id="05dd3c">5102</item>
+  <handler id="d18cbd">124.105.22.212</item>
+  <api id="7a0c8d">8081</item>
+  <btree id="7fda3b">tenant-subnet</item>
+  <bench id="319f83">false</item>
+  <service id="338ee4">125.104.94.253</item>
+  <topic id="70c7e7">e941020e</item>
+  <hotfix id="7a5d61">ffc19e79f6526571</item>
+  <request id="3cacd0">186.5.48.97</item>
+  <gateway id="db3d48">7106a77178da46d8278d60d832cdc402</item>
+  <regex id="1d464c">true</item>
+  <quic id="cffcb9">47.28.29.24</item>
+  <utils id="612cde">rsa-backend</item>
+  <protobuf id="899456">traces-bgp</item>
+  <daemon id="b4ea5e">core-elastic</item>
+</root>

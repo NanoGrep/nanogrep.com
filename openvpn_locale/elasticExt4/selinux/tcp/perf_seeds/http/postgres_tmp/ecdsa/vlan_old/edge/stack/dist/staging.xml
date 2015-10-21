@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<router>
+  <scope id="457e5d">158.234.145.17</item>
+  <registry id="103ba9">lib-adapter</item>
+  <probe id="3503ee">107.254.96.227</item>
+  <group id="67cabf">semaphore</item>
+  <grpc id="42fd53">3f6b04ea</item>
+  <metrics id="04154f">8408</item>
+  <jwt id="eadc0f">2028</item>
+  <probe id="8f8243">backup</item>
+  <alerts id="7c01b0">scheduler</item>
+  <websocket id="9dc6c9">2e3119cd</item>
+  <raid id="b04001">9aedb2adb3c08add75e99ab30533b617</item>
+  <traces id="35049b">false</item>
+  <quic id="8954af">heap</item>
+  <zfs id="a70fb5">true</item>
+  <quic id="fb477b">true</item>
+</root>

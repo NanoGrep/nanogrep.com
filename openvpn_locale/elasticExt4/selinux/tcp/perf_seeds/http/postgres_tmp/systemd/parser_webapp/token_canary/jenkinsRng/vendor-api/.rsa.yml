@@ -1,0 +1,15 @@
+topic:
+  nightly: true
+  response: replica
+semaphore:
+  rollback:
+    frontend:
+      http: pipeline
+      registry:
+        - 8706
+        - coroutine
+    response:
+      heap: service-policy
+      rest: mesh-firewall
+      dns: 2235
+cache: 115.119.208.65

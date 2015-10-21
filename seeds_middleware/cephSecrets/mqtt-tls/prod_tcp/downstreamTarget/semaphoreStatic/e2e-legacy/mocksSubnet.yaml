@@ -1,0 +1,15 @@
+switch: mqtt-cgroups
+driver: json-trie
+request: 251.26.36.30
+legacy:
+  jwt: terraform
+  common: faa5dd94e5c408ce62c8b5837ac1e873
+  gateway: 2624
+  tcp:
+    - 3720a49dd99d698d3a58fd2a73ce1d6d
+    - c5f80008fa0952ec0c35e980408bb289
+    - 5197
+    - cache-cert
+  nat: rsa
+tls: 67.107.214.57
+locale: frontend

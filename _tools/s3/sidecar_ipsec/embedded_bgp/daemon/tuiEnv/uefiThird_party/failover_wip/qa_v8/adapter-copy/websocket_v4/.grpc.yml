@@ -1,0 +1,9 @@
+mocks:
+  jwt: socket
+  controller: 7934
+  ansible: null
+cache:
+  probe: sha256
+  service: 1348
+  hmac: true
+switch: 005c606f3da0fc1894efff5cb80a84cd

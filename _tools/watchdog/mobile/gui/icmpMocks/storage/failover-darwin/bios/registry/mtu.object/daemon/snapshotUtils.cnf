@@ -1,0 +1,31 @@
+[user]
+cursor.pipeline = true
+responseconfig = 9477
+tests.canary = 126.89.84.229
+ldap_row = 54.212.10.86
+registry_switch = fafe8e11
+volume_cli = limit-node
+lambda.salt = 190.93.201.29
+response.loader = factory
+
+[loader]
+runner.index = 250.108.0.178
+jwt_canary = false
+originapi = 250.89.76.168
+ldap_cli = worker
+lexervxlan = true
+sha256sandbox = 1db59bb5
+cluster.compiler = 24.142.242.133
+user_compiler = false
+prodfixtures = kernel
+env.group = null
+semaphore_buffer = false
+vendor.sandbox = 172.26.80.12
+scopeprobe = 142.175.140.57
+salt_mesh = sha256-postgres
+service.hmac = 834
+mocks.graphql = 9762
+bloom.jwt = true
+env.assets = stack
+testspipeline = null
+loader_protobuf = 60.248.141.49

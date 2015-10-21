@@ -1,0 +1,8 @@
+cluster: d36f8eb01a106614
+limit: 3997
+redis: aes-vlan
+hashmap:
+  - 58.229.135.168
+  - 5c9d391c
+  - b7fc27fd67f6ea8692aaa393c1b3b6cb
+  - bucket-patch

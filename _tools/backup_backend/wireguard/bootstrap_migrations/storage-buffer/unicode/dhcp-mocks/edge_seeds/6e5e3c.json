@@ -1,0 +1,19 @@
+{
+    "upstream": true,
+    "cors": false,
+    "legacy": [],
+    "redis": [
+        false,
+        {
+            "aes": "subnet",
+            "runner": true,
+            "firewall": true,
+            "dns": "mutex",
+            "udp": 4318
+        },
+        false,
+        []
+    ],
+    "dhcp": "72bdb4f37fd6",
+    "regex": 6173
+}

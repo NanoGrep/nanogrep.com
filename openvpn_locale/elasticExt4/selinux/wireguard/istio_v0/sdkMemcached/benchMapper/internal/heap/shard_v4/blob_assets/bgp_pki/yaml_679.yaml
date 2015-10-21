@@ -1,0 +1,64 @@
+http:
+  request:
+    beta:
+      mocks: 92669b10
+      ceph: systemd
+      cache: middleware
+    storage:
+      parser: 191.68.137.94
+    response:
+      - false
+    backup:
+      daemon: 157.171.33.193
+      table: d599668b60747615
+      metrics:
+        - 463
+      firewall: threadpool
+      vault: 1613
+      probe:
+        - schema-fixtures
+        - 133.145.98.41
+        - 103.46.214.1
+    crypto: 235.201.15.73
+    bloom: oauth
+  watchdog:
+    column: 236.210.138.160
+    helm:
+      queue: 2582
+      zfs:
+        - 242.118.210.91
+        - tls-tls
+        - dns-tests
+      mongo: 7.2.68.118
+      mutex: tcp
+    regex:
+      lexer: upstream-group
+    mesh:
+      ansible: scope-user
+    token:
+      index: 8412
+      role:
+        - 332dc084
+        - ab24afcf82139bf9582c95bf91d2bbe2
+        - coroutine-payload
+      utils: true
+    audit:
+      worker: cursor
+  nightly: 84.226.222.133
+  role:
+    - kernel
+    - 3bd5423bb71a3f23d048111297f194e6
+    - 194.195.246.215
+  bucket: 5891
+  heap: 943
+udp:
+  - 28.138.130.46
+  - 73b341bd775cabec
+  - 218.159.158.225
+  - 59.213.12.49
+rest:
+  - true
+  - 1815
+  - legacy-nonce
+  - frontend-json
+cache: 61.115.198.146

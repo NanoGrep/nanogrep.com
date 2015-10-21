@@ -1,0 +1,97 @@
+{
+  "sandbox": [
+    {
+      "upstream": [],
+      "http": {
+        "cursor": false,
+        "batch": 2066,
+        "protobuf": false,
+        "buffer": "origin",
+        "yaml": false,
+        "tenant": "hotfix"
+      },
+      "dns": true,
+      "canary": {
+        "handler": null,
+        "helpers": true,
+        "scope": false,
+        "mocks": "handler",
+        "mysql": true,
+        "cluster": 3393
+      },
+      "websocket": {
+        "pipeline": true,
+        "queue": null,
+        "grafana": false
+      },
+      "cache": null
+    },
+    {
+      "origin": [
+        "jenkins",
+        null
+      ],
+      "pod": "6386e458d636",
+      "limit": [
+        null,
+        true,
+        true,
+        394
+      ],
+      "row": 8105,
+      "utils": {
+        "payload": "scheduler",
+        "protobuf": "batch"
+      },
+      "dns": {
+        "token": false,
+        "terraform": null,
+        "utils": null,
+        "mapper": "dns"
+      }
+    },
+    "redis"
+  ],
+  "pipeline": {
+    "daemon": "elastic",
+    "adapter": null,
+    "dns": {
+      "snapshot": "234357f7d30f",
+      "factory": {
+        "request": 3427,
+        "kafka": "831e341aeb28",
+        "yaml": "df0e20a35491",
+        "prod": "kerberos",
+        "kernel": "vendor"
+      },
+      "alerts": {
+        "dns": false,
+        "response": "common",
+        "parser": "42ea28ac364f"
+      },
+      "lexer": [],
+      "ldap": [
+        null,
+        8651,
+        "pipeline",
+        false
+      ],
+      "cgroups": false
+    },
+    "controller": 8344,
+    "mysql": {
+      "config": null,
+      "vendor": false,
+      "cors": [
+        "vendor"
+      ],
+      "scripts": {
+        "mqtt": "cursor",
+        "artifact": null,
+        "proxy": 4549,
+        "sandbox": true
+      },
+      "heap": "fe50bd6029e0"
+    }
+  }
+}

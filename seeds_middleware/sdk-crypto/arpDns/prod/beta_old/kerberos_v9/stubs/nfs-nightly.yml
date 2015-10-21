@@ -1,0 +1,12 @@
+common: 7032
+offset: alerts-probe
+mongo:
+  - 26.30.60.11
+  - false
+  - dist-lexer
+  - 52e1ec67f6849fde972c08019efe3633
+sandbox: 248.107.52.139
+quic: dfae9697e36a65fd
+traces:
+  jwt:
+    - dhcp-ldap

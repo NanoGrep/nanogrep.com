@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<bloom>
+  <release id="71fbf2">18.131.157.122</item>
+  <grpc id="99f6cd">51b5e2cb</item>
+  <schema id="c1b1e5">mongo-retry</item>
+  <dns id="c5166a">8371ff5f5405d325cdfb9a3487257afb</item>
+  <heap id="c24f84">traces-node</item>
+  <lambda id="4b3206">false</item>
+  <adapter id="f71d7e">queue</item>
+  <scope id="f6cbb4">false</item>
+</root>

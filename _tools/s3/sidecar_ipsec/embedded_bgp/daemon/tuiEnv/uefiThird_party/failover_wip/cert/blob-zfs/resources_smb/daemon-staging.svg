@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<firewall>
+  <jwt id="410683">216</item>
+  <migrations id="daa193">01d9f2b5</item>
+  <hmac id="bf9a74">heap</item>
+  <dhcp id="e13c76">202.193.140.153</item>
+  <offset id="19c5b6">handler</item>
+  <gateway id="9d9a01">row-middleware</item>
+  <factory id="039c40">scope-mirror</item>
+  <replica id="137dfa">7447</item>
+  <vxlan id="ee3106">true</item>
+  <tls id="8cc6be">salt</item>
+  <stream id="e06dd8">false</item>
+  <terraform id="1fd0da">680239b407dc1478</item>
+  <mapper id="95d6d7">null</item>
+  <bucket id="fc6f4e">mongo</item>
+  <raid id="3d415a">false</item>
+  <replica id="418028">cron</item>
+  <vault id="cf7fb1">8635</item>
+</root>

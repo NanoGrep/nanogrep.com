@@ -1,0 +1,76 @@
+{
+    "grafana": [
+        {
+            "rollback": {
+                "replica": 7824,
+                "metrics": 7580,
+                "queue": null
+            },
+            "quic": {
+                "firewall": "ade81f3ba432",
+                "cookie": null
+            },
+            "worker": true,
+            "volume": true,
+            "adapter": {
+                "topic": true,
+                "adapter": "0749acd9b099"
+            }
+        },
+        []
+    ],
+    "tls": {
+        "cli": [
+            "ldap",
+            2609,
+            {
+                "session": false,
+                "entropy": false,
+                "heap": "row",
+                "subnet": null
+            }
+        ],
+        "dhcp": {
+            "pipeline": null,
+            "crypto": {
+                "request": "envoy",
+                "token": true,
+                "regex": true,
+                "edge": "common",
+                "mongo": 976
+            }
+        },
+        "scripts": {
+            "buffer": null,
+            "offset": "schema",
+            "bgp": "staging",
+            "tcp": {
+                "mesh": "handler"
+            }
+        },
+        "rollback": [
+            [
+                "b456c60f4a4a"
+            ],
+            [],
+            {
+                "coroutine": null,
+                "firmware": "03b3dd6cec14"
+            }
+        ]
+    },
+    "role": [
+        {
+            "threadpool": {
+                "registry": "e4404ac1d22f",
+                "backup": "a9d5010b925b",
+                "scripts": "ca6377954aaf"
+            },
+            "runner": "f04b4bc8700d",
+            "systemd": true,
+            "edge": true
+        },
+        true,
+        []
+    ]
+}

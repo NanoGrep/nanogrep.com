@@ -1,0 +1,5 @@
+compiler:
+  ingress: iptables
+  kerberos:
+    table: fdb41ebf
+kernel: sha256

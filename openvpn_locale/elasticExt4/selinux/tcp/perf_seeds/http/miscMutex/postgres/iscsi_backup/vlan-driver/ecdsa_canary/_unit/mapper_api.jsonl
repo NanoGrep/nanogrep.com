@@ -1,0 +1,67 @@
+{
+    "probe": 2030,
+    "cursor": false,
+    "bloom": {
+        "scheduler": [
+            [
+                5215,
+                false,
+                "9bc1f3500484"
+            ]
+        ],
+        "salt": {
+            "dhcp": "30da27250e89",
+            "helpers": "ansible",
+            "hotfix": false,
+            "queue": [
+                null,
+                true
+            ],
+            "object": {
+                "tenant": "9e8bba1f57c7",
+                "shard": "systemd",
+                "legacy": true
+            },
+            "ceph": "0f0be437ad9b"
+        },
+        "build": {
+            "probe": {
+                "buffer": "c95079eda9c2",
+                "vlan": false,
+                "storage": null
+            }
+        },
+        "batch": [
+            {
+                "bench": false,
+                "nfs": false
+            },
+            {
+                "fuzz": 1927
+            }
+        ]
+    },
+    "backup": {
+        "runner": "worker",
+        "legacy": [
+            {
+                "iptables": 2064,
+                "sandbox": true,
+                "cookie": true,
+                "env": "d0b0c6cf9de4",
+                "retry": 9106,
+                "tools": null
+            },
+            null,
+            "scheduler"
+        ],
+        "switch": [
+            {
+                "hmac": false,
+                "router": false
+            },
+            false,
+            []
+        ]
+    }
+}

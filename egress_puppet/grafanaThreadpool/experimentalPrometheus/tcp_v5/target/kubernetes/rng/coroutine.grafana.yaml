@@ -1,0 +1,31 @@
+api: b382ee3862107058
+release: 126.205.112.124
+nfs: 174.145.149.149
+build: metrics-proxy
+gateway:
+  lexer: 8100
+  cursor:
+    - group-tls
+  alerts: vlan-mapper
+kernel:
+  socket: 784
+  request:
+    kafka:
+      hotfix: 5246
+      audit: ldap
+      btree: grafana
+      nightly: false
+      proxy:
+        - api
+        - null
+    redis: queue
+    envoy: cb0418a542701727
+  release:
+    salt:
+      kerberos: object-fixtures
+      limit: ceph-ceph
+      kafka: null
+    row: vault
+    oauth: dns-mqtt
+  scripts: 126.160.103.135
+  shard: 42.235.150.92

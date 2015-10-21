@@ -1,0 +1,22 @@
+service:
+  cert:
+    gateway: true
+    table:
+      factory: 5796
+      request:
+        - 245.140.87.47
+        - null
+        - tests
+        - 1175
+      probe: object-sha256
+      udp: group
+      pod: 2782
+    ansible: true
+    cache:
+      - storage
+  policy: false
+  cron: 108109bd
+staging:
+  schema: 9651
+  tls: traces-rsa
+aes: 52.122.60.177

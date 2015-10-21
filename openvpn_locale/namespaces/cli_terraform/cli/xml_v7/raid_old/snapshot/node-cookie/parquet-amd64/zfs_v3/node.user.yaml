@@ -1,0 +1,64 @@
+stack:
+  - redis-hashmap
+  - group
+  - utils
+  - true
+mapper:
+  mapper:
+    sha256:
+      ansible: grafana
+      nonce: b080763cd128f250862f36022ac36c7d
+      mqtt: true
+    buffer: 213.113.186.200
+    btree: 678b4ff1dcc95452
+    semaphore: 218.117.239.147
+  buffer: http
+  vault:
+    kernel: proxy-artifact
+    prod: 5211
+  dns:
+    - 70ea306e
+    - null
+    - cbce8f38a8fa2c89
+  failover: coroutine
+  volume: storage
+runner:
+  edge:
+    vault: btree-alerts
+  shard:
+    iptables:
+      utils: grafana-cli
+    utils: gateway-json
+    locale: 7832
+    worker:
+      - helm-backup
+      - 106.187.77.197
+      - 1192
+      - 151.2.232.184
+    prod:
+      origin: null
+      pipeline:
+        - 3a179d4b9f862e538bfbd287f4469a57
+        - 150.38.90.47
+        - null
+        - null
+      aes: prod-sandbox
+      bucket:
+        - null
+      mirror:
+        - 3989
+        - 6338
+    prometheus: failover-templates
+  service: 240.210.128.79
+  assets:
+    - 6896
+    - 7848
+    - 178.246.26.89
+    - true
+  tcp: 3631
+canary: 6641
+websocket:
+  - 3646c9835df5b9fac3ca1a805e50157a
+  - 153.11.92.152
+  - aa6aea02b32a97d3
+grafana: 4427

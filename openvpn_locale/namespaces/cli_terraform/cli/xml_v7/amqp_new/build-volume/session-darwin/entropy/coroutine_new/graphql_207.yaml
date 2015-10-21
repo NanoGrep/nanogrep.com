@@ -1,0 +1,32 @@
+shard: 167.37.4.11
+adapter:
+  registry: 5744
+  offset: 97738780cf251431
+  yaml:
+    schema: 141.129.236.153
+tests:
+  nat:
+    nat: 16.95.177.38
+    request: postgres-oauth
+    build:
+      index:
+        - 221.1.31.52
+        - e4d3261d251635e4125200de0f24f992
+        - 2540
+      scheduler: 9410
+      table: null
+      pipeline: null
+      bloom: 5dda2f54
+    dist: 4.243.189.143
+    cron: failover-aes
+    postgres:
+      snapshot: dcf08113262063c6df94c2202cc1bd4d
+      btree: 8343
+      release:
+        - 18.111.228.170
+        - 10.124.248.45
+        - false
+      mocks: 142.167.241.41
+      oauth: 26.186.168.195
+      tenant: false
+rest: 8064

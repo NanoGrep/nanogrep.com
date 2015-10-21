@@ -1,0 +1,1 @@
+[{"ansible": {"dhcp": true, "shard": "cron", "cluster": [], "scripts": {"bench": 8776}, "hotfix": "5ab4c3bd7c8a", "probe": false}, "staging": {"runner": ["compiler", 4068], "threadpool": [347, "9e6d01cef36d", null, true]}, "registry": ["buffer", {"backend": 9361, "bootstrap": true, "upstream": null}, false], "tools": null, "lexer": []}]

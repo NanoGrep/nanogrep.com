@@ -1,0 +1,9 @@
+registry,ldap,user,trie,wireguard,watchdog
+salt-scheduler,true,c9294373,kafka-vendor,middleware,kernel
+172.205.43.42,nginx,null,backend,bucket-watchdog,1959
+142.73.58.68,alerts,null,locale,limit-nginx,84.129.108.172
+json-grafana,e27b97e7,66.116.64.29,89610cce,sandbox,8a160d5cca03c25b2ec0de9be10a5ca8
+false,driver-jenkins,yaml,8041,129,f22f95ac4c3d3dc480164f6916e28eb1
+115.253.220.43,false,196.6.35.223,batch-replica,false,router
+false,68e29e24,804d35de,b4f533e82a7514133f897a1af68db67b,c080f3f656dfbbd3,3184
+d105701e47c5a25e,4499,2626,scope,3408,audit

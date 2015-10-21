@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<kerberos>
+  <cluster id="013cb9">null</item>
+  <upstream id="fde50f">5341</item>
+  <worker id="ac0491">false</item>
+  <user id="3c6d93">false</item>
+  <tenant id="abe19e">3750</item>
+  <failover id="e57897">2398</item>
+  <edge id="bee42f">config</item>
+  <templates id="f78046">72841bf9</item>
+  <bgp id="82395f">25226797342affa103dc10f67fb6b8e4</item>
+  <switch id="653d37">6318</item>
+  <sandbox id="c0479f">193.94.132.144</item>
+  <bench id="f80580">4194</item>
+  <templates id="c8c090">lambda</item>
+  <cache id="74875f">65.224.74.169</item>
+  <raid id="6748f6">router-queue</item>
+  <role id="e27289">166.107.95.192</item>
+  <mutex id="9ca025">4768</item>
+  <backup id="f09320">adapter-stack</item>
+  <watchdog id="e96828">cert</item>
+  <api id="461141">9e2c22ce83f999fd4df72196bbd4e34a</item>
+</root>

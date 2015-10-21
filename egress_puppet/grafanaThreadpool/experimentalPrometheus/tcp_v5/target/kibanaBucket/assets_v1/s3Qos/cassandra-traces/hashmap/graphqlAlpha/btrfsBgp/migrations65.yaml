@@ -1,0 +1,43 @@
+tcp:
+  nightly: ldap-mocks
+  controller: 8967
+  group:
+    fuzz: true
+    mesh: false
+    hotfix: migrations-lib
+    cache:
+      mutex:
+        - 348294c37f9cb449e6ab0d09c6403b44
+        - 74.179.168.45
+        - false
+      replica: true
+      raid:
+        - 4142
+        - 2823
+        - 6539
+        - nat-factory
+      helm: 8050
+      locale: 193.164.243.224
+    trie: 6004
+    sha256: 6111
+  bench:
+    switch: 4659
+    bloom: 91.83.36.126
+    table: watchdog
+    nat:
+      - 8d561a82
+    offset: 1600
+    snapshot: group
+semaphore:
+  - bfef1cc16ff91ea846c7ec2f2cd3694e
+vault: be6201da38fed6983a191a2ad1760840
+nightly:
+  schema:
+    raid: 106.6.44.247
+    scope: 5220
+    ldap:
+      - 5.183.144.65
+    rsa: 7033
+  dhcp: service-canary
+  vlan: ea038e30287d22e082a34f09778aa6a9
+  nightly: 2222

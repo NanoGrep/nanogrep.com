@@ -1,0 +1,42 @@
+common: bootstrap
+patch:
+  probe:
+    dhcp:
+      - nat
+      - factory-canary
+    controller:
+      - 3248
+      - 5702
+    service: 8.148.220.60
+    lambda: token-vendor
+websocket: handler-btree
+dhcp:
+  mutex:
+    shard: e7db28ca5ae2e202
+    bloom:
+      - true
+    pod: null
+    volume:
+      grpc: true
+      traces: e36657be52bcd671e40c90c942c7d935
+    salt: 2bed6b6c57609e8923ce2d77be16bed1
+    sdk:
+      watchdog:
+        - 3046
+        - quic-traces
+        - a9c393df39c19d67918c18b9c0321e83
+        - semaphore-traces
+      dist: tools
+      kerberos: 5495d45f
+      scope: 6944
+      mirror: cron
+      cookie: role
+  migrations:
+    policy: cursor-patch
+  gateway:
+    - ad096ef84e62f42126b6c0f3405c4a63
+    - 69baf4a4
+    - 6969
+  systemd: sha256
+hotfix: 4336
+adapter: 250747b12a17a2839e32f120a1a6a166

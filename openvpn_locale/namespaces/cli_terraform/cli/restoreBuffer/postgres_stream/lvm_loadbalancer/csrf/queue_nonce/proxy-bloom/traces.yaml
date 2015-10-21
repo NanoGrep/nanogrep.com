@@ -1,0 +1,17 @@
+router:
+  - false
+tests:
+  sandbox: null
+  patch: socket
+  btree:
+    payload:
+      - 60.137.76.205
+      - schema
+      - 77566646
+      - 253.242.83.36
+    vxlan: nfs
+  migrations:
+    vault: null
+watchdog: 3505
+core: null
+bench: 27b9c118e99774b7c9bd950dc3f60313

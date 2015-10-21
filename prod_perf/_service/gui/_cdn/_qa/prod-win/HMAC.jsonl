@@ -1,0 +1,96 @@
+{
+  "loader": 1710,
+  "ldap": {
+    "raid": {
+      "mutex": [],
+      "backup": {
+        "metrics": 1539,
+        "rsa": null
+      },
+      "redis": null,
+      "bench": {
+        "hashmap": false,
+        "row": true,
+        "cookie": false,
+        "sandbox": 4317,
+        "envoy": "bgp",
+        "legacy": false
+      },
+      "adapter": {
+        "lib": "b8e476775bb1",
+        "ldap": "b8c92b3c3b75",
+        "systemd": false,
+        "stream": true,
+        "watchdog": false
+      }
+    },
+    "vault": {
+      "cli": {
+        "btree": null
+      },
+      "lexer": [
+        false,
+        true,
+        "2f1015afd0a3",
+        false
+      ],
+      "yaml": {
+        "fuzz": null,
+        "ldap": null,
+        "legacy": true,
+        "mapper": true,
+        "index": "sha256",
+        "oauth": false
+      }
+    },
+    "stream": "scope",
+    "elastic": true
+  },
+  "cookie": [
+    {
+      "helm": [],
+      "logs": {
+        "cluster": true
+      },
+      "fixtures": {
+        "graphql": false,
+        "common": "threadpool",
+        "mysql": false,
+        "fuzz": "grpc",
+        "bootstrap": true
+      },
+      "tenant": null,
+      "fuzz": "95277df0ce83",
+      "legacy": {
+        "graphql": 1470,
+        "prod": "switch",
+        "cors": true
+      }
+    },
+    true,
+    true
+  ],
+  "mapper": "socket",
+  "coroutine": {
+    "cache": true,
+    "limit": true
+  },
+  "frontend": {
+    "mqtt": {
+      "audit": [
+        true
+      ],
+      "mapper": true
+    },
+    "core": 5437,
+    "tls": {
+      "btree": "watchdog",
+      "batch": [],
+      "subnet": {
+        "gateway": null,
+        "bootstrap": true
+      }
+    },
+    "assets": true
+  }
+}

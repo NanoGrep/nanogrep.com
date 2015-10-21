@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<vlan>
+  <upstream id="2cfdb3">58.159.214.110</item>
+  <sha256 id="6c9b15">vlan</item>
+  <upstream id="fb6d11">7105</item>
+  <failover id="8b1b69">group-backup</item>
+  <bloom id="0600b4">mirror-parser</item>
+  <tls id="cbdefe">policy</item>
+  <switch id="75bca3">stream-crypto</item>
+  <http id="70d1fb">patch</item>
+  <replica id="141ba0">topic-rest</item>
+  <adapter id="9cb330">5d4d75d87f24095c</item>
+  <dns id="fd5020">24de2576</item>
+  <session id="357dd8">52edef796766c112</item>
+  <sha256 id="d2b614">socket</item>
+  <ceph id="459bb6">37.90.124.53</item>
+  <index id="34c132">false</item>
+  <terraform id="b6ba7c">242.0.6.169</item>
+  <grpc id="163bc9">terraform</item>
+  <utils id="dd449a">668</item>
+  <helpers id="e13bc3">true</item>
+  <offset id="66fbee">2673f9dd</item>
+  <socket id="f19d12">null</item>
+  <fixtures id="d22d2d">pipeline</item>
+  <gateway id="76efd5">websocket-grpc</item>
+</root>

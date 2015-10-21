@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<build>
+  <buffer id="286de1">1811</item>
+  <helpers id="004401">27.197.192.214</item>
+  <locale id="e0ccba">ca1e7fe2a505b330</item>
+  <row id="687722">0d23cd44</item>
+  <rest id="4b5ee4">false</item>
+  <hotfix id="8f5941">cursor-sha256</item>
+  <cert id="c35d25">yaml-router</item>
+  <request id="33d3a3">4993</item>
+  <user id="abf0f4">cursor</item>
+  <proxy id="0f1a34">3393</item>
+  <bloom id="f39be1">8720</item>
+</root>

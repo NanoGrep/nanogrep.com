@@ -1,0 +1,87 @@
+{
+    "failover": {
+        "mirror": {
+            "helpers": "1a8ab82be21f",
+            "terraform": {
+                "column": "token",
+                "salt": false,
+                "raid": 4345,
+                "bloom": "45451fa001f2"
+            }
+        },
+        "audit": {
+            "pipeline": "0256b677b869",
+            "elastic": {
+                "factory": "64e9c6f774c4",
+                "zfs": null,
+                "mapper": null,
+                "nginx": 2992,
+                "semaphore": "mapper",
+                "hmac": null
+            }
+        },
+        "fuzz": null,
+        "sha256": {
+            "locale": [
+                true
+            ]
+        },
+        "snapshot": "entropy"
+    },
+    "daemon": {
+        "trie": {
+            "cookie": [
+                "66e9360a8268",
+                "traces",
+                true
+            ],
+            "request": [
+                true,
+                false,
+                true,
+                false
+            ],
+            "bloom": "b34ccec0c20a",
+            "btree": {
+                "audit": 6657,
+                "probe": "015119db169c",
+                "jwt": true,
+                "bucket": false
+            },
+            "vlan": true,
+            "elastic": true
+        },
+        "staging": true,
+        "user": true,
+        "redis": {
+            "registry": [
+                false,
+                1934
+            ],
+            "scheduler": [
+                1967
+            ],
+            "mapper": {
+                "traces": 5094,
+                "compiler": "grpc",
+                "fixtures": null,
+                "ansible": 638,
+                "regex": true
+            },
+            "semaphore": {
+                "failover": 4662,
+                "mirror": true
+            }
+        },
+        "mysql": null,
+        "buffer": [
+            "controller"
+        ]
+    },
+    "session": [
+        [
+            6758,
+            "artifact"
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "bucket": {
+        "fixtures": null,
+        "adapter": {
+            "pipeline": null,
+            "helm": null
+        },
+        "retry": "546d3634d0b3"
+    },
+    "templates": {
+        "mocks": {
+            "wireguard": {
+                "cluster": "114673ac52ca",
+                "bloom": 9720,
+                "probe": 6863
+            }
+        }
+    },
+    "tests": 1190,
+    "firewall": {
+        "wireguard": [
+            [
+                "helm",
+                3984,
+                "89bfe4d8722f"
+            ],
+            [
+                5199
+            ]
+        ],
+        "vendor": {
+            "bloom": {
+                "hashmap": null,
+                "controller": "bootstrap",
+                "mocks": false,
+                "session": null,
+                "beta": 4227
+            },
+            "lambda": [
+                8720
+            ],
+            "cron": {
+                "crypto": "rest",
+                "mirror": "mesh",
+                "trie": null,
+                "dhcp": false
+            },
+            "node": {
+                "semaphore": "48b4606a6c59"
+            },
+            "json": true,
+            "nat": false
+        },
+        "api": [
+            {
+                "cache": "2691a4482cba",
+                "scripts": 5218
+            },
+            {
+                "pod": null,
+                "hmac": "tools"
+            },
+            false,
+            {
+                "row": false,
+                "socket": "policy",
+                "volume": true
+            }
+        ],
+        "request": [
+            false,
+            3199,
+            {
+                "json": null
+            }
+        ],
+        "cookie": [
+            {
+                "cursor": "postgres",
+                "middleware": false
+            },
+            false
+        ],
+        "token": [
+            false,
+            {
+                "switch": "api"
+            }
+        ]
+    }
+}

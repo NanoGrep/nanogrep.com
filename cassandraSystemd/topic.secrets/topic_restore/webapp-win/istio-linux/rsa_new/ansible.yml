@@ -1,0 +1,11 @@
+scope:
+  kernel: btree-graphql
+  pipeline: 251.215.136.72
+  ldap: 6784
+  cors: null
+  volume: false
+release: batch-vendor
+btree: tests-cli
+ceph: true
+firewall: 6272
+artifact: 184.193.251.148

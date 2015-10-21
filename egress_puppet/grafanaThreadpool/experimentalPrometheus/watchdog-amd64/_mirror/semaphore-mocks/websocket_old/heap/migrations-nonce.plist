@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<salt>
+  <failover id="3f354e">build</item>
+  <migrations id="056bfd">3535</item>
+  <cron id="e2d8f0">5461</item>
+  <env id="ba4f00">false</item>
+  <patch id="9ce7b2">3.7.172.194</item>
+  <scheduler id="66d478">ed6d6baa7de05d726cffe3b757782ea3</item>
+  <watchdog id="94ab8c">7026</item>
+  <nonce id="0469fb">request-fuzz</item>
+  <dist id="f54d3a">core</item>
+  <utils id="c4505d">213.113.115.166</item>
+  <storage id="daa3eb">d1abfced17f501b4</item>
+  <parser id="c63eff">tests-vlan</item>
+  <snapshot id="59abe2">config</item>
+  <gateway id="c6372e">4144</item>
+  <snapshot id="2d5132">sha256</item>
+</root>

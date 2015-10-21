@@ -1,0 +1,26 @@
+[
+    {
+        "trie": [],
+        "ingress": [
+            false
+        ],
+        "lambda": [
+            6725,
+            {
+                "core": false,
+                "cron": "nonce",
+                "pipeline": 947
+            },
+            {
+                "artifact": true,
+                "daemon": "af22ef1c0a0b",
+                "backend": true,
+                "utils": "scheduler",
+                "watchdog": "60afed664afa"
+            },
+            [
+                false
+            ]
+        ]
+    }
+]

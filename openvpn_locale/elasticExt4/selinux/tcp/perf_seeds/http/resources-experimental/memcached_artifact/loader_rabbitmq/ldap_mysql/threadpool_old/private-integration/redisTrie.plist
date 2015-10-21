@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<stack>
+  <core id="7238d5">2421</item>
+  <envoy id="4e7540">db65de20</item>
+  <probe id="f5d0e0">null</item>
+  <hotfix id="07631c">269</item>
+  <controller id="01631a">21.231.202.154</item>
+  <user id="9ec6cc">upstream-runner</item>
+  <retry id="b36cd2">false</item>
+  <kerberos id="cd3f83">3102</item>
+  <bucket id="259dea">true</item>
+  <regex id="967241">82b730d9</item>
+  <oauth id="0035d3">2481</item>
+</root>

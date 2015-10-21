@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<cors>
+  <iptables id="fb35b8">228.244.92.227</item>
+  <frontend id="fa0b26">null</item>
+  <prod id="eadf09">8022</item>
+  <scheduler id="30b7bf">7820</item>
+  <dhcp id="69d47f">firewall-payload</item>
+  <cron id="fd319c">30f9edfe709a0b20d9bd50a0d8e4f053</item>
+</root>

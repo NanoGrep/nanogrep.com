@@ -1,0 +1,12 @@
+locale,lib,lambda
+82.24.93.101,true,cert
+true,null,locale
+ab71e653d3d3bd764ac4a2acb2b06c8e,jwt,23.171.244.118
+gateway-elastic,205.20.129.227,eb67d1c073c7d53f04522445dedca56c
+oauth,registry-tools,true
+false,239.65.109.63,queue
+54.20.49.24,dist-bgp,null
+protobuf-mongo,sha256-artifact,35.1.151.250
+5664,migrations,5d5e0e71
+5cbfd2ff,regex-handler,196.245.141.137
+169.236.89.161,firmware-watchdog,0ddc50a4

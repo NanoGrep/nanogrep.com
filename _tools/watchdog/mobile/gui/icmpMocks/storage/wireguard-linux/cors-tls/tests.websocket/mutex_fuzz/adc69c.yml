@@ -1,0 +1,5 @@
+backend: 1c86903236982fafb42feecc469f5cc7
+origin: 4028e03b3430610b
+bgp:
+  adapter: 1933
+  envoy: scope

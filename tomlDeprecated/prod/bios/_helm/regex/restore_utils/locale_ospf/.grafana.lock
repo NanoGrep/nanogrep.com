@@ -1,0 +1,79 @@
+[
+  {
+    "hmac": {
+      "nightly": {
+        "bootstrap": true,
+        "iptables": "pipeline",
+        "role": "a8d052a23f2e",
+        "elastic": true,
+        "proxy": false
+      },
+      "sha256": 4086,
+      "payload": {
+        "cli": true,
+        "staging": "failover",
+        "nginx": false
+      },
+      "loader": {
+        "systemd": 8999,
+        "heap": false,
+        "ldap": null
+      },
+      "bloom": {
+        "nonce": "d6ee12bcd46c",
+        "replica": "f6607d671d8e"
+      },
+      "canary": {
+        "dns": false,
+        "replica": false,
+        "topic": true,
+        "ansible": "b641fbc4d29b",
+        "stream": "rest"
+      }
+    },
+    "rest": 4958,
+    "iptables": {
+      "subnet": [
+        "7bd476f362bb",
+        null,
+        "yaml"
+      ],
+      "common": "6343712a5f4a"
+    },
+    "assets": null
+  },
+  {
+    "gateway": {
+      "crypto": {
+        "canary": null,
+        "udp": true,
+        "traces": "0d56e4aae29e",
+        "build": 9895,
+        "staging": false
+      },
+      "origin": {
+        "replica": false,
+        "aes": true,
+        "parser": false,
+        "runner": 5946,
+        "scripts": "handler"
+      },
+      "mesh": "hotfix",
+      "mongo": {
+        "btree": false
+      },
+      "elastic": "kernel"
+    },
+    "websocket": {
+      "watchdog": [],
+      "dns": false,
+      "iptables": [],
+      "terraform": null
+    },
+    "heap": false
+  },
+  {
+    "bgp": 5771,
+    "bootstrap": "envoy"
+  }
+]

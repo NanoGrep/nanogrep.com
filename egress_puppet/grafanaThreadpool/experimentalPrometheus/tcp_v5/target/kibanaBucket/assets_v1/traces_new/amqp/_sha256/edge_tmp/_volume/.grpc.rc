@@ -1,0 +1,15 @@
+[systemd]
+udp_dns = 1224
+middlewareyaml = 8428
+batch_scheduler = true
+storagestream = assets
+snapshot_yaml = a18b1b279a642cc8
+backupcache = 86f8139b
+sdk_upstream = fuzz
+helm.nginx = 147.160.207.49
+vendor_switch = mutex-payload
+handler_hashmap = 22.160.83.94
+
+[sandbox]
+table_vlan = 3360
+grouptrie = regex

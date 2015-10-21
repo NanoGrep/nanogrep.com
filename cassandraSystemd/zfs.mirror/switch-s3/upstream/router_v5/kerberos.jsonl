@@ -1,0 +1,1 @@
+{"response": true, "aes": "locale", "adapter": 7070, "cli": {"lambda": true, "edge": {"switch": true}, "controller": [], "prometheus": {"audit": "runner"}}, "mesh": true, "elastic": [null]}

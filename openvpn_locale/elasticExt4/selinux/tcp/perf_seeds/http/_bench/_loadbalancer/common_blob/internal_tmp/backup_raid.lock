@@ -1,0 +1,32 @@
+[
+    {
+        "table": {
+            "dist": {
+                "tcp": "dist",
+                "edge": null,
+                "grpc": 1483
+            },
+            "retry": false
+        },
+        "cert": "session",
+        "lib": "5d06f0430a75",
+        "entropy": [
+            false
+        ],
+        "tcp": {
+            "nfs": {
+                "replica": null,
+                "cache": 4935,
+                "staging": false,
+                "pipeline": "jenkins",
+                "jenkins": "protobuf"
+            },
+            "cors": "websocket",
+            "locale": 6956
+        }
+    },
+    {
+        "ldap": true,
+        "assets": true
+    }
+]

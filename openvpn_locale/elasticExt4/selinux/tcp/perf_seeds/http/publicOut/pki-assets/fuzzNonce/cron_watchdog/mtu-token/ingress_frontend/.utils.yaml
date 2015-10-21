@@ -1,0 +1,7 @@
+cache: 251.10.186.58
+assets:
+  factory: 263cff369c8bff073234252b5b3ed0d4
+  edge: 19.119.13.69
+grafana:
+  registry: 19d00e004f136ae6524db02a1ceff661
+  http: 9333

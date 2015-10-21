@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<helpers>
+  <sandbox id="5baf80">a4af7b32f9534f9679d46a45ddfd51dc</item>
+  <vendor id="dac3d6">57f6cd5a</item>
+  <beta id="08c94e">230.201.154.110</item>
+  <mysql id="ac0027">58.114.95.40</item>
+  <mongo id="e06632">3637</item>
+  <bloom id="ad2469">16e4f38a</item>
+  <canary id="05b6c6">build</item>
+  <role id="663186">209.130.24.162</item>
+  <tcp id="9afb68">2975</item>
+  <upstream id="f9edbf">37.15.42.251</item>
+  <assets id="e46a51">payload-raid</item>
+  <core id="059ac4">c8bae6bc1160950d</item>
+  <tests id="5f83cf">stream-staging</item>
+  <replica id="ceb409">true</item>
+  <proxy id="c97e7e">jwt</item>
+  <templates id="90a0a3">9ee458d633ed8e72434798af9de9f477</item>
+  <pipeline id="2a5c57">242.201.135.248</item>
+  <cluster id="333c81">null</item>
+  <tests id="6a77ec">7ffc17d81b7d74a2</item>
+  <runner id="5ec3bb">12.124.235.240</item>
+  <hotfix id="e5c05f">parser</item>
+  <object id="9f4bf0">kerberos-frontend</item>
+</root>

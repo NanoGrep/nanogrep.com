@@ -1,0 +1,44 @@
+{
+  "release": [
+    {
+      "rollback": false,
+      "backup": {
+        "controller": "btree",
+        "hotfix": "sdk",
+        "volume": false,
+        "hmac": "b0679937f1cc"
+      },
+      "threadpool": {
+        "frontend": false,
+        "migrations": "21d4bc7ee54b",
+        "artifact": 2108,
+        "lambda": true
+      }
+    },
+    {
+      "queue": {
+        "common": "stack",
+        "nginx": null,
+        "policy": false
+      },
+      "role": {
+        "heap": null,
+        "hashmap": "mesh",
+        "api": "16c43f057303"
+      },
+      "dist": {
+        "registry": "middleware",
+        "kafka": "c8723ebe21f0"
+      },
+      "regex": "1543de20f32e"
+    },
+    {
+      "ansible": {
+        "systemd": "a4963bc5de17",
+        "prod": "d5fd0c20ab2b",
+        "patch": "json"
+      }
+    }
+  ],
+  "storage": []
+}

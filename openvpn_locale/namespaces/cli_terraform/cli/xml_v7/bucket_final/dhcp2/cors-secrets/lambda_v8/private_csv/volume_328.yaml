@@ -1,0 +1,12 @@
+storage: 2befb634f16e57642e7313b182879dac
+sandbox:
+  router:
+    - nightly
+    - false
+  snapshot: null
+  driver: e5a8bdf70fbd24f9
+  nfs: redis-tcp
+  tenant: fixtures
+patch: 9370
+vault: proxy-tcp
+payload: true

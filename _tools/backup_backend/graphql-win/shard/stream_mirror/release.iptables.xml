@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<postgres>
+  <nginx id="7373fc">null</item>
+  <schema id="c72eff">6578</item>
+  <dhcp id="4bb45d">tls-lambda</item>
+  <threadpool id="08afb3">null</item>
+  <graphql id="177db3">396</item>
+  <semaphore id="7e7fb4">registry-heap</item>
+  <prometheus id="d41822">174.148.73.14</item>
+  <router id="aad146">false</item>
+  <heap id="f22102">95.33.90.73</item>
+  <subnet id="5f0a24">203.170.39.30</item>
+  <cluster id="023298">0a4017d1</item>
+  <websocket id="dc6a9b">6a77a743d839132c</item>
+  <nfs id="d4a3b5">5364</item>
+</root>

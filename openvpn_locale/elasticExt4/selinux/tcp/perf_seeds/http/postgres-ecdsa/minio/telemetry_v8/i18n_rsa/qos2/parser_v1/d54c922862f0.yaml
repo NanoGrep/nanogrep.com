@@ -1,0 +1,24 @@
+btree:
+  firewall:
+    quic: 6568
+    artifact:
+      gateway:
+        - switch-coroutine
+        - 9532
+      heap: 16090b2dedcb9c5b
+backend: bea11911
+release: 1727
+worker:
+  bucket:
+    - hmac
+    - 36a31656dde7ee752160b9133903774e
+  helpers: 1777
+  systemd: true
+  mesh:
+    lambda: row-wireguard
+    tls: shard
+  build: token-sha256
+  ceph: 82.125.248.130
+compiler: tls-mirror
+hotfix:
+  - dhcp-offset

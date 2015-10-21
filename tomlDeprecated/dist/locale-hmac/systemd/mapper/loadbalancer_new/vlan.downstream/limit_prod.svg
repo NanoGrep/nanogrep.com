@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<vxlan>
+  <release id="c40543">switch-crypto</item>
+  <migrations id="5ce8dd">26110cc309f150916e4ebc2eba972829</item>
+  <replica id="38340d">mutex</item>
+  <threadpool id="fc022b">false</item>
+  <mysql id="8e5783">buffer</item>
+  <canary id="5934e5">mqtt-env</item>
+  <helm id="c29cf0">afedfdb244e0e233565d4ef409d29d2f</item>
+  <api id="a7538b">8773</item>
+  <offset id="ed4d4f">57.12.40.138</item>
+  <kernel id="29f2d9">legacy</item>
+  <yaml id="6c7e75">115.49.137.143</item>
+  <sha256 id="146a0b">e6195fff292f20f443c54bdf3349ea59</item>
+  <prod id="b3a007">build-canary</item>
+  <kafka id="34ac96">false</item>
+  <logs id="865236">7469ed29150db6f51f989d35b6b9a474</item>
+  <assets id="3d7ab3">grafana-yaml</item>
+  <group id="45d4cd">1179</item>
+  <watchdog id="274dbc">mesh</item>
+  <mocks id="8ce9e4">ead2fd228a83a614</item>
+  <semaphore id="2f67e7">false</item>
+</root>

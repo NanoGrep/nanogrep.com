@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<cursor>
+  <daemon id="7be920">true</item>
+  <buffer id="2c2e37">true</item>
+  <dist id="7759a6">0cdbf54de4c45b2cd24849037e29f010</item>
+  <wireguard id="718113">true</item>
+  <mirror id="b90312">96.54.100.20</item>
+  <group id="5f4837">nightly-pipeline</item>
+  <queue id="8fcbe1">true</item>
+  <dhcp id="90958c">null</item>
+</root>

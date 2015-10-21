@@ -1,0 +1,13 @@
+audit,config
+48.36.64.81,80cc609312b1e0801a8e0d39369cef6d
+null,false
+elastic,mongo-api
+prometheus,index-ldap
+03680d052608138e,null
+227.18.82.231,9817b1f4f1507d4836348b36e2a09b80
+e4b519d2,590a4143
+3072,true
+false,false
+false,nfs-scheduler
+97c4b7bde793c0ff160e2a4a5169cc95,mesh-nfs
+service,fixtures

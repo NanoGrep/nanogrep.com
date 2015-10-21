@@ -1,0 +1,5 @@
+{
+    "ldap": null,
+    "queue": [],
+    "ansible": true
+}

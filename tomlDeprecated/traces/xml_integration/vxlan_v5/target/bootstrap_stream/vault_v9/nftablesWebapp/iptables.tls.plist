@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<terraform>
+  <user id="c4ba9a">2083</item>
+  <topic id="b97a5a">btree-protobuf</item>
+  <frontend id="5657b9">patch-driver</item>
+  <shard id="18320e">artifact-table</item>
+  <handler id="962d35">7980</item>
+  <heap id="9136f8">3ef6c95d</item>
+  <raid id="bcec0f">6009</item>
+  <origin id="cc453e">firewall-cert</item>
+  <registry id="072346">3717</item>
+  <group id="96d586">b80facb033c916a3</item>
+  <schema id="bf8bb7">210.187.81.67</item>
+  <ansible id="0101c5">92.70.68.150</item>
+  <mysql id="9f1364">scope</item>
+  <tools id="aec21d">26.22.92.238</item>
+  <iptables id="ef3704">8995</item>
+  <mongo id="74f2e8">buffer-http</item>
+  <nightly id="4090a8">4876</item>
+  <gateway id="e4fb06">9322</item>
+  <cache id="580323">194.136.4.116</item>
+</root>

@@ -1,0 +1,6 @@
+session,common,rest,templates
+8445,false,653,prometheus
+162.63.129.189,true,cert,heap-limit
+2614,loader,sha256-trie,mqtt-crypto
+logs-staging,b0207cc7,index,8633
+factory-registry,shard-backup,rest-logs,b9a997ca

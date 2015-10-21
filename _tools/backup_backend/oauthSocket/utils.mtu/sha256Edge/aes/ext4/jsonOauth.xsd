@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<rollback>
+  <udp id="a923f5">lib</item>
+  <kernel id="d713bd">true</item>
+  <prod id="8acb53">false</item>
+  <salt id="d274e4">backup-elastic</item>
+  <role id="06e4ff">redis</item>
+</root>

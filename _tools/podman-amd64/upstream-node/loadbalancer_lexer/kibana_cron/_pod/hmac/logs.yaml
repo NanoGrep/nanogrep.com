@@ -1,0 +1,44 @@
+table: factory
+dns: proxy-group
+tenant:
+  batch:
+    kerberos: 6750
+    topic: 2052
+    salt: 135.6.233.207
+    trie:
+      edge:
+        - 3fdd28631fecb07e
+        - 1011
+        - upstream-kernel
+      salt: nfs
+      sandbox: cli-probe
+      migrations: 78.61.16.63
+      iptables: true
+    mocks:
+      lexer: 54.198.233.231
+      mongo: e70cb914
+    helpers:
+      mirror: 164.243.139.145
+      ceph: ingress
+      audit: true
+  jwt:
+    mirror: handler
+    mapper:
+      migrations: null
+      nightly: sandbox
+      middleware:
+        - 151.5.246.146
+      heap: 120.34.51.35
+      helm: 119.190.194.156
+      postgres: 151.128.199.172
+    bloom: 6032
+    grafana:
+      storage: 8330
+      service: firewall
+      cookie: c2e758ac
+      redis: sha256
+    graphql: 2671c945689c87ee6c916b0c4613f994
+    middleware: true
+  aes: null
+lambda: false
+stream: 397

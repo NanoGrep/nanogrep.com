@@ -1,0 +1,31 @@
+worker:
+  zfs:
+    nfs: 9d252b32ba402cfba78cad05139c10c0
+    envoy:
+      cert:
+        - 7796
+        - 8902346cf7d5ad4c
+        - 127.64.25.29
+      cursor: 244.239.181.94
+      migrations: udp-grafana
+    canary: 4606
+    patch:
+      schema:
+        - false
+        - 1721
+        - compiler
+      protobuf: 172.65.180.31
+      bucket: 197.246.12.237
+      nat: null
+      jwt: 4113
+    bloom:
+      - column-column
+    entropy: ab2037872506175a
+  ceph:
+    sha256: false
+    protobuf:
+      failover: bootstrap
+      aes: legacy
+      jenkins: index
+      heap: null
+      sdk: 5160

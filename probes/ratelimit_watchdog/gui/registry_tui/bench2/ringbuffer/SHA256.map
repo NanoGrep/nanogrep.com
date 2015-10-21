@@ -1,0 +1,100 @@
+{
+    "failover": {
+        "storage": {
+            "failover": {
+                "nightly": 4561,
+                "canary": true
+            },
+            "websocket": {
+                "group": 1676,
+                "bucket": "769c2ad2609a",
+                "kafka": "189e9292ecb1",
+                "cors": "role"
+            },
+            "mapper": {
+                "subnet": false,
+                "backup": true,
+                "trie": true,
+                "legacy": null
+            },
+            "prometheus": "volume"
+        }
+    },
+    "bgp": {
+        "cron": "d0fab61b663f",
+        "user": [
+            "d8e3a7f5d103",
+            []
+        ],
+        "row": [
+            "14f4978c91b1",
+            false
+        ],
+        "dist": {
+            "sandbox": {
+                "mirror": true,
+                "limit": false,
+                "artifact": "5459b237b1f2",
+                "compiler": "mesh",
+                "vault": false,
+                "shard": 4502
+            },
+            "watchdog": {
+                "snapshot": "mutex",
+                "dist": null
+            },
+            "elastic": [
+                "7b8d4a234a2a",
+                "offset",
+                5429,
+                null
+            ],
+            "session": {
+                "token": true,
+                "backend": false,
+                "runner": false
+            }
+        },
+        "scheduler": {
+            "backup": [
+                true,
+                "2e71ae2240eb",
+                null
+            ],
+            "fuzz": {
+                "vxlan": null,
+                "rsa": true
+            },
+            "session": {
+                "cluster": true,
+                "mapper": true,
+                "beta": false,
+                "cursor": null,
+                "config": 4844
+            },
+            "oauth": {
+                "redis": 1687,
+                "terraform": null,
+                "stream": "ead7328bbf75",
+                "mqtt": "cache",
+                "batch": null
+            }
+        },
+        "failover": [
+            "b9ed7476c29f",
+            [
+                "72c1afbce1e7",
+                null,
+                "vendor",
+                true
+            ],
+            "0f40a4e92c94",
+            [
+                "a7aa949ebac9",
+                "af0023c26f83",
+                null,
+                false
+            ]
+        ]
+    }
+}

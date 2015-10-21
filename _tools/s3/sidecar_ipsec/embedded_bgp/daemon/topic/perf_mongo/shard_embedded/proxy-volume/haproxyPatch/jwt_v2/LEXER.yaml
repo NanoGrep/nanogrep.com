@@ -1,0 +1,25 @@
+dhcp:
+  - zfs
+  - threadpool
+  - 115.250.130.152
+  - fuzz-trie
+firmware:
+  vendor:
+    - 5bf914eb
+  env:
+    edge: 1f8c8b529bfbf11bd8f9ee95fd395c31
+    socket: probe
+    yaml:
+      queue: false
+      assets: null
+    proxy: 1ec864d4a6b789e3967e33279539b79a
+    yaml: traces-cluster
+  gateway:
+    loader:
+      heap: 141.141.49.8
+    artifact: 138.16.77.200
+    bootstrap: null
+  locale: 2363
+  dns: build
+api: 2be7df6f
+worker: bgp

@@ -1,0 +1,75 @@
+{
+    "jenkins": false,
+    "prod": {
+        "mysql": [
+            "8dec9175e192",
+            {
+                "legacy": 681,
+                "vxlan": "a056151005ce"
+            },
+            {
+                "metrics": "topic",
+                "cache": "helpers",
+                "pipeline": "patch",
+                "rest": "offset",
+                "pod": true
+            },
+            {
+                "replica": false,
+                "cluster": true,
+                "row": "e358c8dc66cd",
+                "json": false,
+                "templates": true,
+                "handler": "pod"
+            }
+        ],
+        "json": {
+            "upstream": {
+                "backend": null,
+                "service": false,
+                "artifact": "migrations",
+                "dns": true,
+                "systemd": "f19190e59f87",
+                "build": 8148
+            },
+            "grafana": {
+                "subnet": true
+            },
+            "btree": "732f670833ce",
+            "cert": {
+                "helm": "6c0da2205082",
+                "scripts": false,
+                "cursor": 6237
+            }
+        },
+        "semaphore": 9339,
+        "scripts": [
+            false,
+            4353,
+            {
+                "bucket": false
+            }
+        ],
+        "fuzz": [
+            {
+                "mysql": 309,
+                "runner": null
+            },
+            {
+                "mapper": "kernel",
+                "policy": "queue",
+                "protobuf": false
+            },
+            {
+                "batch": null,
+                "parser": "ingress",
+                "sdk": true
+            }
+        ]
+    },
+    "buffer": "origin",
+    "storage": [],
+    "vendor": {
+        "vault": null
+    }
+}

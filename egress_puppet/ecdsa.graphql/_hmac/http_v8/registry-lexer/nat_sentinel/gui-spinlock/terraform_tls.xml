@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<tools>
+  <lib id="0f744e">scripts-traces</item>
+  <storage id="b11e68">f3cfef1e</item>
+  <fixtures id="577a8e">63.246.84.164</item>
+  <grafana id="43183f">7da98ca79064b995</item>
+  <vendor id="387a0e">audit-release</item>
+  <column id="8ab13f">null</item>
+  <volume id="ec3afd">kafka</item>
+  <token id="2bcd48">7fcf902b4383e1802f427fb4e1a9d009</item>
+  <group id="4a927d">false</item>
+  <threadpool id="63c15d">4391</item>
+  <queue id="672162">loader-bgp</item>
+  <scripts id="78be40">125.91.38.52</item>
+  <build id="315e1b">false</item>
+  <patch id="cd8f41">38bf074bb0d6c5df</item>
+  <jenkins id="03c062">2814</item>
+  <ceph id="81fee9">acf0037f5cd97016</item>
+</root>

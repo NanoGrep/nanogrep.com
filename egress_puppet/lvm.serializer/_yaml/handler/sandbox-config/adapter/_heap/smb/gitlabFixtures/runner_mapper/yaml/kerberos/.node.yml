@@ -1,0 +1,8 @@
+shard:
+  grafana: topic-elastic
+  sha256:
+    aes: prod
+    adapter: 132.93.113.226
+  nat:
+    - true
+    - request-env

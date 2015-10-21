@@ -1,0 +1,133 @@
+{
+  "adapter": {
+    "utils": [
+      null
+    ],
+    "crypto": null,
+    "quic": {
+      "alerts": {
+        "column": false,
+        "stack": 4230,
+        "mutex": false,
+        "upstream": 1095,
+        "cgroups": true,
+        "tests": null
+      }
+    },
+    "scripts": {
+      "iptables": {
+        "offset": "loader",
+        "column": null,
+        "sdk": "topic"
+      },
+      "dns": [
+        "compiler",
+        true,
+        false
+      ],
+      "cron": [],
+      "mapper": true,
+      "postgres": null,
+      "batch": {
+        "jenkins": "core",
+        "ingress": "22f5b01ca1b3",
+        "grpc": false,
+        "queue": "graphql"
+      }
+    },
+    "tools": null
+  },
+  "nginx": {
+    "json": [
+      false,
+      true
+    ],
+    "envoy": {
+      "index": {
+        "rollback": null,
+        "heap": false,
+        "nightly": null
+      },
+      "gateway": null,
+      "protobuf": {
+        "factory": null,
+        "handler": "0164f8426739",
+        "shard": false,
+        "coroutine": "a2952b69f89f",
+        "tcp": "cafc63e548ba",
+        "bucket": 9912
+      }
+    },
+    "tenant": {
+      "cgroups": {
+        "subnet": 9435,
+        "pipeline": true,
+        "origin": "bc3e8e2a8a83"
+      }
+    }
+  },
+  "row": {
+    "helm": true,
+    "pipeline": {
+      "dns": "61b994333236",
+      "vault": {
+        "tls": true,
+        "aes": false,
+        "mysql": true
+      },
+      "regex": []
+    },
+    "batch": [
+      {
+        "bucket": null,
+        "coroutine": 3342,
+        "edge": 795,
+        "cursor": true
+      },
+      "eb389691ba25"
+    ]
+  },
+  "jenkins": [
+    {
+      "edge": false,
+      "bench": [
+        true,
+        "origin"
+      ],
+      "audit": [],
+      "hashmap": [
+        true
+      ],
+      "firmware": {
+        "tools": 7998,
+        "mutex": "baa89e5f33de",
+        "grpc": false,
+        "wireguard": 5615
+      },
+      "websocket": {
+        "envoy": null,
+        "tenant": false,
+        "ldap": 6786,
+        "legacy": true,
+        "kerberos": false,
+        "terraform": "semaphore"
+      }
+    },
+    "shard",
+    false
+  ],
+  "helpers": {
+    "beta": true,
+    "cluster": {
+      "patch": true,
+      "release": {
+        "grafana": false
+      },
+      "postgres": [
+        "f1f540d0af95",
+        true
+      ]
+    }
+  },
+  "failover": false
+}

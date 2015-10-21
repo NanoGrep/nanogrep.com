@@ -1,0 +1,9 @@
+ingress:
+  - 175.120.61.236
+cookie:
+  firewall: index-daemon
+  websocket: failover-service
+  subnet: 801811f03ef7d8ce
+  dns: 224.199.44.97
+  vlan:
+    mapper: 8414

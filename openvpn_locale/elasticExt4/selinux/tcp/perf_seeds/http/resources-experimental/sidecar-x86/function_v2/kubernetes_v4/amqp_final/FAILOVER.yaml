@@ -1,0 +1,9 @@
+group: d5ce9ba516d02e75
+origin:
+  - 576
+cert: socket-frontend
+lexer: tcp
+stream:
+  column: topic
+  postgres: bucket-canary
+  ansible: compiler

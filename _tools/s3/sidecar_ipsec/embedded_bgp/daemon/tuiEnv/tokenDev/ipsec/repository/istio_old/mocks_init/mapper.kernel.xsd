@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<volume>
+  <registry id="8705cd">29e242e3</item>
+  <worker id="d56057">null</item>
+  <systemd id="1926ff">ef067f9e969d4f5b</item>
+  <hmac id="053b51">templates-switch</item>
+  <prometheus id="50f240">243.178.0.103</item>
+  <legacy id="c7751e">164.175.106.228</item>
+  <rsa id="d5b9d3">fd67ade44b2028c0</item>
+  <scripts id="db286c">20.95.69.151</item>
+  <loader id="fd67ca">fuzz</item>
+  <socket id="ee44f5">helm</item>
+  <policy id="2ac5e9">89c1469115693ce2</item>
+  <driver id="f86d8f">grpc-kernel</item>
+  <parser id="cf2b18">78c8317646502cedc5196079a6fff7e2</item>
+  <release id="c987f0">7b0c1e8138b63fb6</item>
+  <tests id="4198b5">5944</item>
+  <mongo id="1ddfa6">entropy-migrations</item>
+  <cluster id="434ea7">3316</item>
+</root>

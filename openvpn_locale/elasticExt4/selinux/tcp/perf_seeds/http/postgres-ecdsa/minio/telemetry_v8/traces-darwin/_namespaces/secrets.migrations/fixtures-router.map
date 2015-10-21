@@ -1,0 +1,28 @@
+{
+  "user": 1697,
+  "elastic": false,
+  "schema": null,
+  "vxlan": {
+    "assets": {
+      "fuzz": [
+        "node",
+        true
+      ],
+      "cache": false
+    }
+  },
+  "replica": {
+    "token": {
+      "firewall": false,
+      "vault": true,
+      "assets": {
+        "ingress": "969ac484f14f",
+        "websocket": false,
+        "semaphore": true,
+        "limit": true,
+        "coroutine": "column",
+        "scope": true
+      }
+    }
+  }
+}

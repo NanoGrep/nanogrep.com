@@ -1,0 +1,17 @@
+storage:
+  pipeline:
+    helm:
+      driver: 5118
+      canary: hmac
+      snapshot: 60.207.213.126
+      rollback: 1283
+      cookie: false
+  mesh: shard
+  compiler: 7687
+  runner:
+    - 6691
+    - build
+    - true
+    - 1150
+cli: audit-postgres
+policy: grafana-salt

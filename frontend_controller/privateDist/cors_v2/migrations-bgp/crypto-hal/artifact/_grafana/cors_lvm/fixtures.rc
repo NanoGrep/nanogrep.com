@@ -1,0 +1,15 @@
+hotfix_kernel=216.13.143.127
+cluster.dist=17b2616c872ed1dce3a9c43b0d4eb02c
+mqtt_core=6fe909f933712df2
+cron_socket=aes-adapter
+httputils=8965
+bgpmapper=firmware
+salt_udp=106.200.10.52
+cors_redis=123.145.192.212
+failover_role=dd0f0bec306bcac0453230cbc00343d7
+buffertable=volume-parser
+dnsscope=243.109.98.136
+regexrollback=cf3fb71e
+grpcmiddleware=alerts
+scripts.controller=67.118.162.102
+tools_regex=retry

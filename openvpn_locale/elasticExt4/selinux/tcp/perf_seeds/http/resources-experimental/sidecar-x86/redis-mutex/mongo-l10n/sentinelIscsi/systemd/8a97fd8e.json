@@ -1,0 +1,75 @@
+{
+    "mqtt": {
+        "cors": 6782,
+        "hashmap": {
+            "tls": {
+                "registry": "bootstrap",
+                "quic": "envoy",
+                "oauth": 7906
+            },
+            "rest": {
+                "tcp": null,
+                "canary": null,
+                "buffer": 8949,
+                "node": "0f67154f82a9"
+            },
+            "audit": {
+                "dns": null,
+                "switch": true,
+                "grafana": true,
+                "tcp": 4205
+            },
+            "nat": false,
+            "schema": {
+                "queue": false,
+                "mutex": 3662,
+                "bench": "b862a408011b"
+            }
+        },
+        "threadpool": {
+            "websocket": [],
+            "cli": [
+                false,
+                "39a6df3b94f6"
+            ],
+            "vendor": true,
+            "lexer": null,
+            "cursor": {
+                "tests": null,
+                "wireguard": true,
+                "nginx": null,
+                "replica": "e3f4eeeab67d",
+                "patch": "782f3d9801e1",
+                "limit": true
+            },
+            "stack": [
+                "6075c1003690",
+                false,
+                "tests",
+                false
+            ]
+        }
+    },
+    "storage": "scope",
+    "handler": false,
+    "column": {
+        "socket": [
+            "worker"
+        ],
+        "btree": false
+    },
+    "worker": [
+        null,
+        [
+            {
+                "queue": true,
+                "mapper": "bench"
+            }
+        ],
+        [
+            "ansible",
+            true
+        ]
+    ],
+    "failover": true
+}

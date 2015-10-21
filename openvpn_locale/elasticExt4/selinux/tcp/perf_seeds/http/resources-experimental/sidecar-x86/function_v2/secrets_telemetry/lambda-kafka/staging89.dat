@@ -1,0 +1,12 @@
+aes,core,index
+cors-stream,33cd7a352063b051731a216a7ca3f9d2,false
+api-worker,storage-failover,postgres
+ef8981c36679a696,566,152.102.139.142
+116.189.157.204,5120,fixtures
+true,68fd13bfd3a01d9df02c0d0604cffded,false
+shard-firewall,e5e6a4fbf93ab22e69d8e4b9a104f283,3296
+3408,7c4aff37,102.250.32.232
+232c5abc459f35f007bcef32b893f5d0,9908,738d7002
+48.87.70.23,1609d808dfe25d44,trie-scheduler
+73.51.106.22,worker-daemon,28c6d4d944598f8c
+3.201.82.94,faea0644,worker-runner

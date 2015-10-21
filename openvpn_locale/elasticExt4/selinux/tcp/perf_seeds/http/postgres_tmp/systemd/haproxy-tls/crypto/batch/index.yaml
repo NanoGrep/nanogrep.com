@@ -1,0 +1,18 @@
+kerberos:
+  hotfix:
+    - null
+    - 122.75.19.128
+    - threadpool-elastic
+    - 1971
+  failover: 9103
+  runner:
+    mqtt: 200.87.100.236
+    kafka:
+      hashmap: 4802
+    cursor: 01008eea2a5c8667907f01d396c952a5
+  cache:
+    - null
+failover: true
+pipeline: null
+http: null
+sdk: 3.234.145.38

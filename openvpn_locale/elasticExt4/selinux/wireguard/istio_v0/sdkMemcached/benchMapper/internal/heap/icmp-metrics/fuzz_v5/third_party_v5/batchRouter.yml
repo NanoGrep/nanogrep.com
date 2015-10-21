@@ -1,0 +1,45 @@
+fixtures:
+  buffer:
+    cache: 813c765a222a637e914c66356b18bc99
+    websocket: 113.71.68.199
+  env: 15.64.208.154
+  iptables:
+    lambda: btree
+    bgp: 3f81e0a8
+    object: 37.51.8.196
+    token:
+      subnet: 9335
+      regex:
+        - hmac-fixtures
+        - 193.16.100.83
+        - config
+        - vault-vault
+      cluster: true
+      vault: 6.87.163.75
+      sdk:
+        - 70.16.232.130
+        - 45ebb3ca710f8a4a
+        - mutex-jenkins
+      group: 928
+  dist: false
+  compiler:
+    vendor: 6c43184b24bb29fbbc096079528a6038
+    rest:
+      daemon: false
+    rollback: 5.115.94.45
+    regex: 191.45.190.190
+    rest: true
+    beta:
+      prod: 115.191.171.40
+      backup: threadpool-canary
+      dhcp: fixtures-regex
+      tls: 15.119.57.187
+  pod:
+    bucket:
+      - regex-dhcp
+      - 26.198.128.27
+loader:
+  table: threadpool
+nginx: 186.92.253.249
+logs: 111.149.133.106
+helm: null

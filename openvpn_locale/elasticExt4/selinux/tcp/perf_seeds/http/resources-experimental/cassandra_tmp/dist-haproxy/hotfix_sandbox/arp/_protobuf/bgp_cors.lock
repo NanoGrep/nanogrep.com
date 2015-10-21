@@ -1,0 +1,39 @@
+{
+    "grafana": "943dcb1db77f",
+    "parser": {
+        "handler": false,
+        "bootstrap": "153a78c11251",
+        "offset": true,
+        "daemon": {
+            "heap": false
+        },
+        "factory": "firmware",
+        "lexer": {
+            "mocks": {
+                "rest": false,
+                "vendor": 8901,
+                "origin": false,
+                "crypto": null,
+                "locale": true,
+                "bootstrap": null
+            },
+            "mqtt": {
+                "scheduler": true,
+                "cors": true,
+                "mocks": null
+            },
+            "nightly": {
+                "policy": null
+            },
+            "bench": {
+                "common": "d5109029af05"
+            },
+            "staging": "8073cc7eb3b3",
+            "api": []
+        }
+    },
+    "storage": null,
+    "rsa": "b5915a0c254c",
+    "nonce": true,
+    "dhcp": true
+}

@@ -1,0 +1,24 @@
+logs: jenkins-storage
+oauth: null
+bloom:
+  mapper: 991
+  scheduler:
+    rsa: response-group
+    elastic: 26.215.196.56
+    traces:
+      backend: role-rest
+      row: bba12a507c3a233f72643e2d2dafe812
+      storage: mqtt
+      dhcp: rollback
+      dist: 4380
+    daemon:
+      quic: policy-redis
+      bloom: 5c41e54a0f671a51
+      row: grafana-threadpool
+      graphql:
+        - probe-grafana
+        - true
+      cron: 7d844a9d
+    switch: 25.82.139.28
+  http: 149.1.186.152
+elastic: 6780

@@ -1,0 +1,6 @@
+bootstrap: volume
+table:
+  - null
+  - 4006
+elastic: false
+scripts: fa60e8a54c12d598

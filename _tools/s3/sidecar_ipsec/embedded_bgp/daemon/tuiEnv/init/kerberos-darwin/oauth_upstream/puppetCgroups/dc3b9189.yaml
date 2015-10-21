@@ -1,0 +1,14 @@
+oauth: mongo-postgres
+rsa: null
+protobuf:
+  firewall: 8f0c2db758b526e2c79cd707c2f6d561
+  proxy: true
+  ldap: 8335
+  cli: true
+nfs:
+  - watchdog-topic
+oauth:
+  - zfs-audit
+tenant:
+  - 0c8bee7c3561a390
+  - edge

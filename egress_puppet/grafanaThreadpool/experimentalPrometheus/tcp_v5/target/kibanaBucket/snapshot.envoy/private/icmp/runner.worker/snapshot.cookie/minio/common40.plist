@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<switch>
+  <tests id="4bf076">44cabf23</item>
+  <helm id="f1639f">true</item>
+  <subnet id="815c34">ad775f6a</item>
+  <subnet id="d79ca3">4539</item>
+  <compiler id="f13c44">9644</item>
+  <mocks id="584216">true</item>
+  <tenant id="6c6ed2">044a7e4b98a7b7b3</item>
+  <regex id="e5c7c2">null</item>
+  <proxy id="0352ae">bloom</item>
+  <helm id="913307">rollback-lib</item>
+  <websocket id="87c308">7394</item>
+  <alerts id="fb2491">false</item>
+  <ceph id="33f79c">legacy-cert</item>
+  <scripts id="87c1fe">2422</item>
+</root>

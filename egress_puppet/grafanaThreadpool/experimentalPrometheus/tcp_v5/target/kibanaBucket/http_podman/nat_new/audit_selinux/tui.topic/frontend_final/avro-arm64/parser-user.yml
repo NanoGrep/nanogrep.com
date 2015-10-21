@@ -1,0 +1,48 @@
+logs:
+  redis: 9.109.68.211
+  patch: 9827
+  lib:
+    traces:
+      tls: false
+  compiler: null
+mongo: d05107b2
+raid:
+  heap:
+    node: 8652
+    sandbox: mongo-scope
+    env: 183
+    build: 243.230.124.33
+  node:
+    node: 0ac14bbe8bf53c97c5dad8dc806b3f8f
+    lib:
+      iptables:
+        - 11.102.47.222
+        - 10672bf7
+        - 59.149.45.159
+        - compiler
+      proxy: 5999
+      websocket:
+        - rest-response
+    metrics: 9e560d2e1766e3e962c93b417b3bacc4
+    vendor:
+      release: 1442
+      threadpool: 68.24.139.139
+      mysql: beta-runner
+      volume: 147.66.112.208
+      redis: false
+      ansible: true
+    factory: 175.184.8.93
+  driver: false
+  service:
+    helpers: staging
+  loader: 64.187.103.96
+  column: 103.29.144.54
+schema:
+  raid:
+    cursor: bc84f4b4
+  ingress:
+    - heap
+    - false
+  scheduler: 2682
+origin: null
+http: 7992

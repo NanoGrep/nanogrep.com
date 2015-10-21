@@ -1,0 +1,57 @@
+env:
+  router: 4318a704b7219c97
+  group:
+    middleware:
+      bootstrap: null
+      queue: sha256
+      kernel: 894
+    cookie: true
+    mqtt:
+      driver: null
+      parser: 66bebd4f
+      dhcp: ce00dc0aa6f1d124bc2bb048f8a1694e
+      fixtures: 36.106.39.153
+      router: 103.5.234.61
+    row:
+      proxy: 4167
+      mirror:
+        - templates
+        - 17.238.167.131
+        - 8231
+        - assets
+      backend: config
+      regex: bootstrap
+      fuzz: 467dde660df7bed01e160f1a8c11afa3
+      batch: 26.115.134.223
+    firmware:
+      - prometheus
+      - ddaf038f
+      - false
+      - column-cli
+  grpc: null
+  replica: 0a922dcf448109cad4e2f1d32e4b9663
+  mongo:
+    fuzz:
+      bloom: 1952
+      watchdog: 3f2c56bdd3313516
+      index: 3861
+      table: null
+    group:
+      - false
+      - 7721
+    storage: null
+    probe:
+      graphql: legacy
+      helm:
+        - null
+        - false
+        - false
+        - 2306
+      batch: 1ec6bdbf3e5e3d8d
+      audit: 2181
+      elastic: bucket
+pipeline: wireguard
+volume: threadpool
+worker: daemon
+entropy: 1f4f892fc050f3a79898083f5b64e894
+cookie: 7.94.153.19

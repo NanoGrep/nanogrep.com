@@ -1,0 +1,20 @@
+scripts: 37.99.72.22
+templates:
+  socket: raid
+  token:
+    - 57141f4d744a79f3
+    - legacy
+  protobuf:
+    worker: buffer
+    ldap: audit-utils
+  wireguard:
+    - 117.63.97.194
+    - 109.160.38.76
+  jwt: 59.128.177.50
+  snapshot: 868f54f3ace7e79f3b83072a59e0976d
+nat:
+  - volume-cookie
+  - 3bbe87d4ac920a54
+  - 0f98bc42
+entropy: 1502
+ldap: 7b9c0942cd233bed

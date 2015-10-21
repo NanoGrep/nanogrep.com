@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<storage>
+  <canary id="d2e525">null</item>
+  <storage id="9293a7">6adb4a58ceeba46f</item>
+  <metrics id="9ca5a1">controller</item>
+  <cache id="a7232e">index</item>
+  <terraform id="27307c">nat-audit</item>
+  <terraform id="e26b29">null</item>
+  <cgroups id="d5e30f">258</item>
+  <mocks id="fd1fa3">141.90.38.192</item>
+  <stack id="2a8913">dc6b140abbd46389cf5d520d7f31bb30</item>
+  <rollback id="2a7ad7">false</item>
+  <parser id="a27de5">false</item>
+  <prod id="8e8ce1">hotfix-session</item>
+  <runner id="2b9959">790</item>
+  <vxlan id="d8d51c">systemd</item>
+  <daemon id="2196bc">2818</item>
+  <zfs id="4bb48d">firmware-stream</item>
+  <nat id="ee83f4">worker</item>
+</root>

@@ -1,0 +1,28 @@
+backend: 28.105.116.209
+middleware:
+  - traces-build
+  - 4730
+  - c08c2a02aaf995fe49aaf75b48b2a823
+  - 832177aa
+daemon:
+  audit: false
+  raid:
+    - true
+    - false
+  regex: b49a436f
+  failover: 216.220.59.9
+  mesh: oauth-backend
+mesh: e8b61625745fd695
+mapper:
+  buffer:
+    staging: null
+    sdk:
+      - nonce
+      - false
+      - dbe35e1987341cddee7f58491a210d02
+  cors: false
+row:
+  tcp:
+    envoy: e6819d9da1a1edc48edda7098357b93f
+  build: batch-backend
+  bucket: 186.222.43.246

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<parser>
+  <threadpool id="df973e">6686</item>
+  <retry id="b25333">117.90.166.123</item>
+  <scripts id="c7d7cf">1440</item>
+  <middleware id="4aa549">6686621d51dd8e67</item>
+  <locale id="6a10c9">2293</item>
+  <policy id="e241f0">208</item>
+  <lexer id="5a3362">7ac38dff</item>
+  <socket id="59a5e5">cert-audit</item>
+  <snapshot id="ca1d23">dhcp</item>
+  <handler id="e4f919">bca3e86d791580f6</item>
+  <sdk id="f82a46">9398</item>
+  <factory id="e5ac0e">7493</item>
+  <migrations id="b7b8bf">4e4b34207b5ed462b77a1a97dc62eeca</item>
+  <udp id="f8cabe">487b65b8248dfc58b516e6b6f83c5098</item>
+  <parser id="bb5922">helm</item>
+  <driver id="d174fe">108.198.195.97</item>
+  <assets id="594991">elastic-scheduler</item>
+  <adapter id="4b68cd">cluster</item>
+  <core id="b21396">kernel</item>
+  <bucket id="e428ed">heap</item>
+  <json id="c0b119">protobuf-cron</item>
+  <helpers id="745c4b">167.104.127.5</item>
+  <ansible id="e80f99">111.249.26.95</item>
+  <frontend id="dc4e9b">null</item>
+</root>

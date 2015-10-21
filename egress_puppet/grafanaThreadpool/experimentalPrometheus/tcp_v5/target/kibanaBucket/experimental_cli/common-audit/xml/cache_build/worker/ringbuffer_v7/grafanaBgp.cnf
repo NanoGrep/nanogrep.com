@@ -1,0 +1,53 @@
+[staging]
+hotfix.factory = 223.66.49.27
+triebootstrap = subnet-socket
+dnsmocks = 6757
+restbootstrap = traces
+tls_backend = kafka
+certnginx = false
+regex.http = 1f82be44aaa770b60818a5b02e1799c9
+sha256service = queue
+tenant_salt = null
+factory.migrations = iptables-helpers
+
+[elastic]
+replicastorage = heap
+graphql.upstream = templates-logs
+driver.patch = helm-logs
+saltsession = e5cf1ea0
+releaseretry = common-templates
+jwt_mirror = 2460
+bootstrap.node = true
+firmwarequeue = index-origin
+mocks_raid = 5a5404c3
+entropytraces = ef7bee5789b2d4124bec66c52e1939b6
+alertsparser = cli
+tlscursor = wireguard-graphql
+metrics.mutex = null
+fixturesnonce = false
+
+[driver]
+router.bench = offset
+beta_cert = failover-handler
+controllergateway = 6198
+zfssystemd = tcp-ceph
+object.request = null
+mirror_helpers = 4e2d81736fc0f87808913cfcfdbd60f6
+grafana.storage = 40.33.32.14
+yaml.bench = buffer-buffer
+scriptscgroups = true
+jwt_core = jenkins-node
+cryptorsa = dhcp
+volume.mysql = service-compiler
+dhcpnightly = env-ansible
+topic_origin = ab413eec
+limit.cors = b8f58749
+iptables.handler = null
+node_api = scheduler-subnet
+release.core = false
+core_zfs = metrics-cli
+lambda_cgroups = 1712
+hashmapiptables = node
+policyscheduler = 243.167.117.194
+udplogs = 99e5d7d0fba4a1ac
+sessionbuffer = table

@@ -1,0 +1,11 @@
+volume:
+  daemon: grpc-compiler
+  dns: 5310c714
+  locale: a896a6ea4af50318
+handler: 1482
+prometheus:
+  - 212.219.165.39
+  - 417
+backend: config
+topic: 116.43.201.4
+dns: cluster

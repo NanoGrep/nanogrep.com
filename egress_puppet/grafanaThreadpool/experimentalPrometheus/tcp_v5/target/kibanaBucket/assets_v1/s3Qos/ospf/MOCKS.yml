@@ -1,0 +1,7 @@
+ldap: 1.79.107.68
+jwt: false
+core: 56
+audit: 95.117.202.87
+mirror: 1d223b13c8d820841101007f578ac73f
+mqtt:
+  middleware: offset

@@ -1,0 +1,84 @@
+mysql: core-hotfix
+graphql:
+  worker: b6b899783fa5d43f
+  envoy: adapter-bench
+  legacy: 148.57.5.60
+  trie:
+    adapter: logs
+    column:
+      - mirror
+      - true
+      - postgres-nat
+    upstream:
+      firewall:
+        - 3478
+        - role-lib
+        - null
+        - 6233
+      nightly: true
+      origin: topic-envoy
+      core:
+        - mesh
+        - 729
+    hotfix: 5183
+    frontend:
+      build: 9506
+      lexer: user
+    kernel: middleware-origin
+  terraform:
+    - 7.198.199.100
+    - 1619cbb9d5d72bae
+    - 10542f6b
+aes:
+  beta: 4daa367f
+  scripts: 8664
+  vault: null
+  vault: 5841
+  rest: cookie
+  fixtures:
+    postgres:
+      tcp: 246.110.75.181
+      token: ldap
+      offset: 134.152.243.27
+      rsa: 8610
+    aes:
+      patch:
+        - b4c39d53
+        - 8a497e1408061984
+      utils: false
+      sdk: helm-envoy
+    tcp:
+      firmware: c7a3c076bb7baaef
+      hmac:
+        - cgroups
+        - 36ba9e5a9edf484a
+        - 236.216.223.222
+        - entropy-semaphore
+      retry: audit-mocks
+    proxy: controller
+    vlan: null
+    regex:
+      runner: hmac-udp
+      jwt: 0157b13c
+      nat: api-scope
+audit:
+  prod:
+    lib: lib-ingress
+    middleware: c49cf33cbb5c9d53
+  request: config
+  buffer: true
+  canary: 40.74.182.237
+  stream: scope-logs
+  migrations:
+    router:
+      traces: 7369
+      raid: scheduler-wireguard
+      mirror: 71.164.144.157
+      tenant: dhcp-factory
+      vlan: 107.250.50.137
+      buffer: router
+    mongo: rollback
+    node: d0565d1b296c3ad0
+storage: a223f2ff715328c1838fbaa663bba479
+tenant:
+  ansible: true

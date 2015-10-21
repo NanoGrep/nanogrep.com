@@ -1,0 +1,9 @@
+{
+    "socket": {
+        "ansible": true
+    },
+    "tcp": true,
+    "trie": "beac604e6ae0",
+    "mongo": 6330,
+    "scope": "ansible"
+}

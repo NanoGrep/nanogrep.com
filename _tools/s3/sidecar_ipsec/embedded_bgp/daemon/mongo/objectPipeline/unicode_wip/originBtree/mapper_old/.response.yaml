@@ -1,0 +1,55 @@
+nat:
+  - 86069197b81a4b30498aed2a5183b807
+  - salt
+  - sandbox-locale
+  - 9809
+hashmap:
+  parser: 170.175.154.4
+ansible:
+  hotfix:
+    protobuf: 7602
+    backup:
+      - dfede213d9fcfcdc
+      - 80.144.141.144
+    oauth: 154.49.149.198
+    bench:
+      postgres: 2163
+      cron: dedbc71de2e2ce4a62ad760e604e5217
+      hashmap: 2.89.171.204
+      dist: 9480
+      helpers: nightly
+    vendor:
+      - null
+  locale:
+    probe: 3117
+    origin:
+      bgp: 69.66.223.156
+      service: cli
+    firewall:
+      - cluster-edge
+      - rollback
+    ldap:
+      - null
+      - 8474
+      - 2789
+    protobuf:
+      router: elastic
+      probe: true
+      build: de0fe0dd668ab306506f54cd03942aae
+      oauth: mapper
+      vault: d35bd305
+      mocks: 42c4244a777c6f25b50c093ddeb2cd5c
+    semaphore: regex-traces
+  threadpool:
+    payload: 5154
+    coroutine: cgroups-oauth
+  redis:
+    fuzz: false
+    dns: 44.90.251.147
+stack:
+  buffer: 99.109.116.98
+  env: mongo
+  helpers: c5ccab2a
+  locale: 1938e1a311ff623c
+  graphql: true
+  firmware: raid-gateway

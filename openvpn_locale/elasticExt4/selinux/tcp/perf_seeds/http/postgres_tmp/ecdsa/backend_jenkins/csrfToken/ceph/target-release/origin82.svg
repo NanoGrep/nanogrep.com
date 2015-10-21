@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<nonce>
+  <lexer id="e13aab">sha256-column</item>
+  <switch id="48de9b">true</item>
+  <shard id="4fedd9">9071</item>
+  <trie id="664210">fixtures-lib</item>
+  <shard id="df2e6f">8774</item>
+  <terraform id="c5ee94">false</item>
+  <prod id="b3dd99">8.72.209.23</item>
+  <firmware id="1309d8">cron-table</item>
+  <vxlan id="f79abc">a0d16f94</item>
+  <daemon id="25ab6a">cli</item>
+  <origin id="b4bbd5">75.242.41.17</item>
+  <fixtures id="446439">8968</item>
+  <buffer id="16e65f">prometheus-hotfix</item>
+  <shard id="451c23">nginx-lambda</item>
+  <ceph id="2bf153">44.36.154.197</item>
+  <terraform id="2681c0">70.244.90.236</item>
+</root>

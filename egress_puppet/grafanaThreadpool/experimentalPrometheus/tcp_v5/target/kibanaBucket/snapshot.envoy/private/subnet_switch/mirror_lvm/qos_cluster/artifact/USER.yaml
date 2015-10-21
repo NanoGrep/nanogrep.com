@@ -1,0 +1,13 @@
+raid: 7663
+envoy: true
+rest:
+  postgres: volume-config
+  staging: nonce-index
+  edge: 2289
+  offset: 31
+  nonce: 9931
+  yaml: 96.136.145.140
+raid:
+  postgres: false
+  controller: iptables
+topic: gateway

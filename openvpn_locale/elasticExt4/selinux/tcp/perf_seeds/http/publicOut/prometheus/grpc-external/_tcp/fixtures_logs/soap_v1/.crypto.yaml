@@ -1,0 +1,10 @@
+row:
+  wireguard:
+    vlan: 5894
+    daemon: 1470
+    watchdog: user-limit
+    scope: tls
+    service:
+      - 0c3eaab4
+      - mongo-origin
+fixtures: 5210

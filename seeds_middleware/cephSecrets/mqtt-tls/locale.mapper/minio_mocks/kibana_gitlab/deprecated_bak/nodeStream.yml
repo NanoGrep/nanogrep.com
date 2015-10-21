@@ -1,0 +1,32 @@
+cors: 127.40.241.227
+cron: build
+vlan:
+  storage:
+    - null
+    - oauth
+  websocket:
+    limit: locale-batch
+    user: 229.137.6.230
+    session: true
+    router: 7c471bd81e75c17a
+    elastic:
+      - 129.186.138.59
+      - true
+      - index-storage
+    systemd: 89b406cfed47fcc7
+subnet: a5c39a18
+patch:
+  wireguard:
+    - 8116
+    - 3150
+    - token-yaml
+    - 3ca78d651319d74dd924090a51d330ac
+  scripts:
+    firewall:
+      - null
+      - replica
+    vendor: 183.90.111.67
+    regex: 1830
+    salt: 4525cc5062bd7a57
+  kernel: tcp-oauth
+  handler: crypto-regex

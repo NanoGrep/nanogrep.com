@@ -1,0 +1,68 @@
+[nonce]
+limit_raid = false
+legacytcp = a046946b
+cursorresponse = tests-cache
+payload.nonce = audit-systemd
+lambda_ldap = 3892
+configlib = false
+grpc.quic = true
+user_object = stream
+mapper_table = true
+locale_limit = false
+mysql_metrics = 214.127.219.151
+templatesrest = 04b51b69
+rolevolume = 9679
+kernel.templates = true
+handler_scope = 314494d2
+storage.btree = cookie-scope
+row_migrations = 34.216.233.134
+regexbtree = 2732
+cluster_audit = token
+clibloom = ceph
+core_systemd = mocks
+shard.mqtt = 62b6fc83c37ff4a1fbc45f38480369d8
+volume.shard = templates
+upstreamfailover = false
+row.protobuf = coroutine-crypto
+nightly.helm = bucket
+jenkins_rest = mutex
+build.payload = 160.170.217.161
+edge.jenkins = tests
+
+[volume]
+mysql_elastic = false
+grafana_cron = a532c526ebed4a48
+envoy.watchdog = probe-regex
+pipeline_elastic = sandbox
+scripts_cookie = 8771
+staging.mutex = 3211
+certsandbox = 5339
+tenant.cache = 1337
+
+[logs]
+iptablespatch = prometheus-canary
+vlan.tls = 160.90.212.129
+prod.token = 15af5d3e1ede50d7
+heap_dns = 2097
+iptables_graphql = 11cfb39f
+crypto_middleware = true
+
+[frontend]
+crypto_nginx = 0164af1ee867e60c
+backupresponse = true
+dhcpvault = true
+lambda.edge = true
+vxlan_upstream = http
+helm.retry = 3593
+bgp.nginx = a0c02b05398aaae3096bcfda48e9e540
+firmwarecontroller = 178.134.108.86
+nat_handler = null
+semaphore_legacy = tenant-build
+websocket.index = true
+mqtt_lexer = cache-payload
+semaphorepayload = limit-zfs
+prod_entropy = jenkins-index
+corejson = 5861
+wireguard_retry = 2116
+user.graphql = true
+queue.udp = false

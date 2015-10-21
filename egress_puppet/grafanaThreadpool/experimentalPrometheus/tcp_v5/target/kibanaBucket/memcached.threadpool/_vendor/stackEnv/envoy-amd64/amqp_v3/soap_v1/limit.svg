@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<frontend>
+  <postgres id="34392c">true</item>
+  <pipeline id="4f93cc">true</item>
+  <cors id="a17729">9258623a97c6e8fe</item>
+  <dist id="451bbf">335</item>
+  <ldap id="4539c0">vault-rsa</item>
+  <probe id="01d01d">cli-limit</item>
+  <firewall id="3054ee">248.198.57.246</item>
+  <topic id="3b3451">true</item>
+  <postgres id="c518c5">4386</item>
+  <nfs id="3f3940">b162237e46741f04</item>
+  <tls id="0ea8eb">true</item>
+  <mirror id="f48f1c">5dc458f1a9bca1f7</item>
+  <factory id="8f92ad">1281</item>
+  <cookie id="321f33">true</item>
+</root>

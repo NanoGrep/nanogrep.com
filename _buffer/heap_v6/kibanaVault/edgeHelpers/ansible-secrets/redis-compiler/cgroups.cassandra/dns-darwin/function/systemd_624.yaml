@@ -1,0 +1,27 @@
+dist: request-cgroups
+utils: false
+wireguard:
+  cli: assets
+  buffer: 132.163.122.173
+  index:
+    buffer:
+      - 5672
+      - audit
+      - 4724
+      - 6039dcee5a675dacfbf987b43d58175d
+    user:
+      threadpool:
+        - null
+      middleware: 41.4.56.36
+      firmware:
+        - 0b3de5ef227ba6b9
+      terraform: false
+      traces: 6206
+      tools:
+        - false
+        - null
+        - service
+    index: 203.106.150.75
+  offset: locale
+proxy: driver-utils
+redis: object

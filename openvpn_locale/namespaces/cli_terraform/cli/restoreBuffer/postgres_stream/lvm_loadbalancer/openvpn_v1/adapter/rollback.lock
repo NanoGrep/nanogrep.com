@@ -1,0 +1,39 @@
+[
+    false,
+    {
+        "btree": {
+            "http": {
+                "gateway": null,
+                "edge": "raid",
+                "kerberos": "ca5ffdd3ed0f",
+                "protobuf": false
+            }
+        },
+        "mysql": {
+            "controller": false,
+            "coroutine": false,
+            "crypto": [
+                false,
+                "cf80ba3a1fd5",
+                "6e1a10b81a9b"
+            ],
+            "retry": {
+                "terraform": "core",
+                "quic": false,
+                "regex": "policy"
+            },
+            "user": {
+                "audit": true,
+                "helm": "d6da97e4665e",
+                "migrations": false
+            }
+        },
+        "release": null,
+        "tests": {
+            "tcp": [
+                "13d6f9dbe20c"
+            ],
+            "tools": null
+        }
+    }
+]

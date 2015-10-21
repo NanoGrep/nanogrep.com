@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<release>
+  <audit id="23eb69">105.218.200.211</item>
+  <topic id="146301">null</item>
+  <env id="d45bd2">false</item>
+  <jenkins id="c48a99">parser-response</item>
+  <row id="15e672">false</item>
+  <shard id="2b6a58">6047</item>
+  <table id="0903cc">ce8c445fb86927a1938b2728079a0a7a</item>
+  <loader id="c7f57c">nfs-cluster</item>
+  <handler id="17a04b">logs-beta</item>
+  <offset id="171b12">redis</item>
+  <env id="a4d206">07705fcf</item>
+  <aes id="c94526">71.57.154.112</item>
+  <rollback id="c7540a">4036</item>
+  <ansible id="f9df5d">group-build</item>
+  <lambda id="51d6ed">2619</item>
+</root>

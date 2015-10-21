@@ -1,0 +1,38 @@
+frontend:
+  websocket: afd1f3328b35b936a165eaabfd8787ea
+  column:
+    row: 84bc70ca
+    mongo:
+      mutex: nat
+      terraform: 95.208.164.236
+      payload: 846f9119cbb83333
+      patch: 9714
+    firmware: null
+    firmware:
+      api: index-tcp
+      middleware: f825e77e72043bee795b27d7c23dcbf0
+      index: 76.91.208.15
+      nat: cursor-legacy
+      ansible: dns-vault
+      wireguard: ldap
+    redis: 5831
+  cluster: false
+  crypto: postgres-cluster
+  mongo: 5700
+  object:
+    grafana: 8904
+    adapter: adapter-parser
+    ansible: true
+    prometheus: null
+    factory:
+      runner:
+        - 4648c2e94a4e62430cc243befab9718f
+        - null
+        - 104.231.144.52
+        - 2786
+    vlan: 9416c78c
+logs: heap
+column: role
+upstream: 2104
+core: token
+artifact: 29.44.220.80

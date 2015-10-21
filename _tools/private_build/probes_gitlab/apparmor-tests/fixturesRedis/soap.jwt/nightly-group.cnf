@@ -1,0 +1,74 @@
+[websocket]
+adapter_parser = 17.39.31.106
+distmiddleware = true
+factoryvendor = core-role
+legacyrouter = bench-policy
+
+[release]
+postgres_handler = envoy-mysql
+parser_vxlan = 1331
+payload_backend = volume
+prometheus_replica = beeb53181abb44d6
+switch.middleware = 1619
+offset_fixtures = 3218
+objectcursor = fuzz
+vault.mutex = 201.192.164.19
+factorytrie = 206.154.233.202
+natrollback = bd0cb9051a673cfb
+rollback_table = 4110
+shardregex = request
+nonce.frontend = proxy
+dist.scope = 44.249.15.228
+controllersandbox = watchdog-hmac
+fuzz.volume = tenant-retry
+raid_ansible = d367f5276463fc24
+retryartifact = release-stack
+http.column = coroutine
+hmac_kerberos = null
+firmware_postgres = pod
+gateway_ceph = true
+logs.terraform = 46.214.148.91
+table_handler = 9539
+rollbackpolicy = false
+stream_zfs = beta
+loader.coroutine = proxy
+
+[bench]
+ceph_patch = 04f0b193
+nonce.alerts = cbdef5bb
+queue_failover = null
+scripts.heap = 74.143.29.119
+raid_controller = 198.169.42.186
+dns_nfs = assets-column
+cronzfs = mesh
+staging_audit = 104.21.63.189
+ansible_object = 3030
+stack_http = 57.13.66.244
+betalogs = 780eac77
+switch.templates = 2374
+sha256_fuzz = true
+parser_role = subnet-templates
+mongo.dns = coroutine-subnet
+
+[graphql]
+alerts_oauth = 138.105.193.3
+tls_aes = null
+router.websocket = service
+raidfactory = false
+core.probe = 4248
+stack_tenant = 174.45.65.21
+fixtures_alerts = false
+retrypod = rest
+mapperceph = 107.191.239.37
+fuzz_request = true
+row.subnet = 639054fd702a416f52cab2872ed8142a
+rolemongo = 5020664e4d958abbb54107a5b8029bb5
+cursorcert = 3129
+cursorhandler = false
+batch.templates = 56.59.209.112
+volume_traces = 226.195.40.25
+dns_storage = false
+parserorigin = 8649
+podjson = 4583
+ingress_scheduler = policy-fuzz
+assetstable = null

@@ -1,0 +1,77 @@
+[
+  {
+    "fixtures": {
+      "kafka": true,
+      "wireguard": false,
+      "ingress": {
+        "controller": true
+      },
+      "volume": [
+        "snapshot",
+        false,
+        false
+      ],
+      "kerberos": {
+        "kafka": false,
+        "core": true,
+        "canary": 7616,
+        "hmac": "backend",
+        "ceph": true,
+        "coroutine": "mysql"
+      }
+    },
+    "nat": [
+      [
+        6945,
+        "4f33aae0bc2b",
+        true,
+        false
+      ]
+    ],
+    "router": {
+      "bloom": "mocks",
+      "udp": {
+        "fixtures": 5651,
+        "proxy": "65ba3026ba2e"
+      }
+    },
+    "service": [
+      {
+        "envoy": true,
+        "helpers": "sha256",
+        "rollback": null,
+        "volume": 9769,
+        "replica": 5251,
+        "logs": true
+      }
+    ],
+    "index": "prometheus"
+  },
+  {
+    "heap": {
+      "node": {
+        "yaml": "2a7bd771cc79"
+      },
+      "metrics": {
+        "role": "e6bd4ed50491"
+      },
+      "redis": [
+        "31577b96f65e"
+      ],
+      "mapper": {
+        "quic": true,
+        "request": 9449,
+        "artifact": "crypto",
+        "threadpool": null
+      },
+      "cert": 5721,
+      "mesh": "cdd3a16d6849"
+    },
+    "payload": false,
+    "utils": {
+      "ansible": "45491526f570"
+    },
+    "schema": null
+  },
+  1772
+]

@@ -1,0 +1,21 @@
+payload: http
+role:
+  controller:
+    watchdog: 172.108.202.195
+    vlan: 545eae18b282128b
+    nonce:
+      cluster: replica-hotfix
+      role:
+        - bd32e68c
+        - 9252
+      snapshot: 2690
+      router: null
+      storage: storage
+      jenkins: be921c8ca716df1899a4323cef1eb364
+    lib:
+      crypto: 148.64.54.252
+    session: caca74321f9c5ed606bfdba6045e6d60
+  salt: 7699
+  canary: ceph
+  cert: 3241
+  session: 91350b27

@@ -1,0 +1,17 @@
+redis: 231.75.148.175
+legacy:
+  sdk: 144.138.52.13
+  mocks: 4954
+  btree:
+    adapter:
+      - null
+    tests: 4cd2660298019acf7ab968d07e7f7587
+  request:
+    payload:
+      column: sdk
+      service: user
+offset: 6904
+socket:
+  - 141.125.194.201
+  - 235.189.117.168
+bloom: core-edge

@@ -1,0 +1,38 @@
+[
+  false,
+  {
+    "topic": {
+      "shard": true,
+      "firewall": {
+        "gateway": "ingress",
+        "templates": 7665,
+        "runner": 35
+      },
+      "pod": null,
+      "driver": [],
+      "ceph": {
+        "backup": "compiler",
+        "probe": 1531,
+        "systemd": true,
+        "cgroups": "d7203cca5021",
+        "hmac": 702,
+        "stream": true
+      }
+    },
+    "ceph": {
+      "common": {
+        "audit": false,
+        "postgres": false,
+        "trie": "token",
+        "index": true,
+        "tools": "ansible"
+      }
+    },
+    "aes": "4a8c3ffe07fc"
+  },
+  {
+    "core": "ee4f7f19ff28",
+    "node": "eecb794bcd86"
+  },
+  8266
+]

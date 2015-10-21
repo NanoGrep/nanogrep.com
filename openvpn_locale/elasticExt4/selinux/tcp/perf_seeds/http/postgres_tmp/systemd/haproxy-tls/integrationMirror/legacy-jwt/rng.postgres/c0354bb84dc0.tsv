@@ -1,0 +1,14 @@
+jenkins,kafka,service
+db6263ba831cce2e9c4821d312ca3b0a,backup-mirror,false
+2c49e561c006fc19,null,92.166.248.199
+mirror-nginx,30b39604,canary-protobuf
+null,7595,mongo-websocket
+true,245.7.198.75,45f441d9c9e68749
+volume-vault,156.112.95.237,null
+jenkins-nat,acee98414c28b50a1f28681e3700ccb6,352
+true,6145,traces
+watchdog-elastic,6315,systemd-rest
+58.35.50.208,5d4da3be5a2ee21c5f53a3168a02d14a,nightly-schema
+row,tests-zfs,93.33.15.176
+false,frontend-bloom,8af91e35b5962905d636cc34ff534e5b
+980b53319c277af7,9421,true

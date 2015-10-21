@@ -1,0 +1,75 @@
+[elastic]
+tenant.runner = 6761
+trie_tools = bucket
+mongo_mocks = semaphore-stream
+mirrorsubnet = 17.134.210.11
+envoyaes = alerts
+tests_migrations = salt-firewall
+tracesvolume = 97.44.218.72
+mapper_heap = tcp-buffer
+sha256.nfs = null
+lambda_index = 20.65.137.50
+rediskernel = false
+
+[sandbox]
+btree_parser = false
+nightlycore = grpc
+socket.json = api
+upstreamnightly = true
+templatesbuild = 63bf0f2d4fe7499c
+jenkins_env = factory
+hotfix.logs = subnet
+yaml_traces = false
+regex.fuzz = true
+threadpool.grpc = locale
+ceph.cookie = tenant
+limit_hotfix = fbcd656d2e616982c890897fc27bc3e1
+betaenvoy = build
+semaphore_table = stack-ingress
+daemoncluster = cli-tests
+traces.ldap = null
+cookiehashmap = 689
+driver_regex = 8195ae7144526cf7c6db38d0d08416ab
+kerberos_bucket = ingress-scripts
+metrics_cli = 9808
+cursor.kerberos = 5392aee0
+stagingwatchdog = prod
+traceslimit = salt
+entropy_batch = helm
+
+[vxlan]
+upstream_release = true
+traces_worker = 019fbda17fe67fa5
+graphqlfirewall = 1008
+threadpoolsession = null
+compiler.nonce = 40.237.60.60
+dist.staging = 2514
+node_queue = 9076abbbc814c029
+beta_cursor = 4354
+nginx.bloom = false
+rsa_graphql = json
+scope.traces = 159.193.179.215
+tests.alerts = false
+
+[pipeline]
+mongo.mysql = staging
+object.kernel = 9363
+helpers.helm = d1a0974f
+router_heap = 243.104.124.14
+driver.helm = dns
+udpvxlan = 8481
+benchmesh = true
+columnsession = 513
+dns.controller = systemd-mutex
+handler_mqtt = locale-storage
+router_kernel = 4d66210604822666a4d483e95e223738
+limit.scripts = audit
+websocket_tcp = ingress-policy
+sandbox_tenant = 44.12.0.170
+core_traces = 65.237.224.156
+mesh.common = 5318
+
+[column]
+limittests = false
+threadpool.legacy = false
+hashmapscheduler = true

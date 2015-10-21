@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<nfs>
+  <postgres id="040fab">1dec30ba8c56ab2772c612a8bd778095</item>
+  <jwt id="4051e6">false</item>
+  <stack id="15d13c">systemd</item>
+  <oauth id="5b8f11">2330</item>
+  <postgres id="4ba4c4">8790d973867fc1ff</item>
+  <jenkins id="db7c26">false</item>
+  <assets id="46d4be">ea958a18d19e95a362f9a137b3c0451b</item>
+</root>

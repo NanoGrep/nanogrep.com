@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<cgroups>
+  <api id="3c2c43">cache</item>
+  <backup id="e0b75a">4df8e6cb44e5972b596ccf2b92a013ce</item>
+  <entropy id="fd966c">bucket-nightly</item>
+  <failover id="fe82e3">4ce91f339c1f44a9</item>
+  <cli id="6992f7">b6ab6ca75c49f2ef</item>
+  <http id="a53777">false</item>
+  <column id="97e18c">107.58.208.219</item>
+  <lib id="767d3f">1547</item>
+  <dist id="218adf">18.177.184.86</item>
+  <trie id="386dcb">4576</item>
+  <dhcp id="28653e">traces-helpers</item>
+  <mongo id="913649">5790</item>
+  <handler id="0eafcf">factory</item>
+  <ceph id="19222f">true</item>
+  <cursor id="99a4e8">12.7.153.58</item>
+  <node id="d12578">tls</item>
+  <logs id="ddebad">index-scope</item>
+  <probe id="9ef111">iptables</item>
+  <mqtt id="0a5ec6">769cc697</item>
+  <kerberos id="4b18e8">true</item>
+  <scheduler id="544f53">40.44.6.79</item>
+  <controller id="43c5d1">233.161.56.69</item>
+  <replica id="0e7dc6">1459</item>
+  <upstream id="352cfc">ae16992e3e196268262a51e099d8c9f2</item>
+</root>

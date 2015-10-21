@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<mapper>
+  <bloom id="a173f9">435eb1ca</item>
+  <jenkins id="0f76cc">197.159.53.161</item>
+  <audit id="c907dd">3706</item>
+  <group id="c07b16">170.71.52.142</item>
+  <scheduler id="1f18ce">91.48.82.209</item>
+  <common id="4fd39d">2007</item>
+  <cursor id="a8df78">23591b24839b26cd</item>
+  <handler id="ed36d5">null</item>
+  <parser id="049563">4727</item>
+  <vendor id="84fdf3">68.91.161.110</item>
+  <mocks id="5fd665">4c48d63bd3735eae899505952ef5b793</item>
+  <volume id="b263fe">false</item>
+  <envoy id="fbf96b">response-nfs</item>
+</root>

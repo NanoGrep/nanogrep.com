@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<lib>
+  <postgres id="9b9efe">2675</item>
+  <kafka id="a1c38f">30.224.222.173</item>
+  <retry id="d1d4f1">legacy</item>
+  <object id="e9d8ad">true</item>
+  <jenkins id="70e125">456be80dedf0ce74</item>
+  <core id="4afa40">canary-terraform</item>
+  <subnet id="0417ac">a90b16ada2a273dd</item>
+  <btree id="aa7966">2282</item>
+  <oauth id="3d633d">71623c64</item>
+  <audit id="6b33c3">9286</item>
+  <cli id="d9162e">4208</item>
+  <migrations id="9a6604">b5a9371be6bbaf878f72b8712b42118f</item>
+  <redis id="bf3b68">systemd-nginx</item>
+  <column id="435995">4400</item>
+  <redis id="26de82">8b00e1833e973a4f</item>
+  <entropy id="074f06">origin</item>
+  <mirror id="2c58b8">ce87cfbc8eb7b9dc</item>
+  <mirror id="f32716">null</item>
+  <aes id="36ead5">mqtt-batch</item>
+</root>

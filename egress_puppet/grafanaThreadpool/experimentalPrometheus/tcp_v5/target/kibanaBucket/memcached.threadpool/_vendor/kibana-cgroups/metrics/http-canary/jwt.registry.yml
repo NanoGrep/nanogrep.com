@@ -1,0 +1,15 @@
+request: group-firmware
+common:
+  systemd:
+    - 6cbfcc9626358eacc0ad6959d815204c
+    - 8359
+  config:
+    tcp: traces-rsa
+    schema: null
+    common: true
+    utils: zfs
+    entropy: 73e24b13e70bc3be
+  coroutine: 54aba67d
+  iptables: alerts
+  envoy: nightly
+  mysql: 8ebc70312d7fd3e44cc04caa67076303

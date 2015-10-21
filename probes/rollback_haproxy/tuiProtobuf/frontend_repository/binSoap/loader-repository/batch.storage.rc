@@ -1,0 +1,65 @@
+[snapshot]
+grpc.build = build
+heap.grafana = 246.110.152.11
+
+[adapter]
+artifactrest = true
+artifact_index = true
+tcp.redis = true
+sandbox.mutex = 8261
+semaphore.crypto = null
+handler.artifact = 5154
+groupscope = nfs
+build_kerberos = 59.8.229.37
+proxy.limit = 431ae68a61cacd86
+tcpbgp = dns
+redispostgres = 4429
+ldapvolume = true
+coroutine.shard = 7691c0f56df075a0
+cursorjwt = 1518
+core_redis = 7e2d08f786b5077f3a0e943a70f7b5d8
+scheduler.user = 133.238.40.1
+podsocket = 0a549ff097adb22e65d114abbeb781e9
+vlan.vendor = 242.182.87.231
+trie_lib = null
+
+[cookie]
+cephbatch = 4128
+scheduler_raid = ed697ff9103cc2b04d1993eadccfaee7
+tlsschema = true
+routershard = null
+assetssystemd = 750dda09
+mesh.regex = 4442
+api.stack = 8dbc3270cf01de8749b2376fd274b602
+common.canary = mongo-storage
+subnet_websocket = 250.133.111.193
+corebgp = parser
+compiler.quic = false
+entropybuffer = 119.101.217.66
+ansible_crypto = role-systemd
+payload.prometheus = 114.24.3.145
+zfs.registry = true
+vxlan_offset = 96d86ce9dd595a25237c2e2f819acf18
+
+[nfs]
+role_adapter = 2862
+helpers.adapter = 3195
+mocks.tcp = payload
+hashmap.jenkins = true
+registry.hashmap = 2860
+tools_buffer = null
+grafana_driver = 5368
+watchdog.templates = e9386424
+toolswatchdog = 64f94ea570eae7fa6b911a3658745447
+storage.response = 4132
+hmac.driver = true
+buildworker = feeb7376d17f9d7a
+group.trie = grpc-row
+kernelprotobuf = 215.217.6.92
+backupcron = 9635
+tcp_cors = stack
+firmwarerunner = false
+offsetcache = 6356
+common_mocks = 9998
+ansiblemiddleware = b0236cd2c7ade9ab
+lexergrafana = middleware

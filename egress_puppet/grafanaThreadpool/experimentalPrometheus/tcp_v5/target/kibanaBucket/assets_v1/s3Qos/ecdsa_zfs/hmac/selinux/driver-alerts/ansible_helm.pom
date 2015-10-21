@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<response>
+  <postgres id="cf6122">config-mysql</item>
+  <column id="4c92c2">6656</item>
+  <sdk id="5e79ca">2706</item>
+  <kernel id="0a8e1f">vault</item>
+  <token id="296c44">ingress-vault</item>
+  <fuzz id="6ce8c3">column</item>
+  <parser id="2b0ce2">110.51.16.115</item>
+  <iptables id="6e2a54">false</item>
+  <canary id="963a81">schema</item>
+  <replica id="ac76af">98.109.222.20</item>
+  <cert id="6f7b01">assets</item>
+  <backup id="aa11e8">18.201.233.208</item>
+  <nat id="5f3520">scheduler</item>
+  <dhcp id="7eb134">5903</item>
+  <prometheus id="2972ed">191faaec</item>
+  <service id="1f394d">904</item>
+  <bench id="b8b340">6e1b3c3e</item>
+</root>

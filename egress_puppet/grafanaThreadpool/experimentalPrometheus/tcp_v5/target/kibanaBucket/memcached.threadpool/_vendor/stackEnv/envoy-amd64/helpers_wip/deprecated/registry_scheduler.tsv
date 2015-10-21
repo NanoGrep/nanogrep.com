@@ -1,0 +1,15 @@
+switch,bgp,semaphore
+true,edge,frontend
+113.193.161.29,8908,748b70023cbfca70129df4505c9bc9a2
+b592564cfbcb528b,5084,1c92c59aa3b8ddeb
+108,service,storage-snapshot
+null,stack-nightly,mongo-sandbox
+176.95.72.181,2946,false
+ed47f3d1df41ddc2,135.224.106.187,salt-redis
+false,241.143.175.65,36.125.97.219
+1e809684afa696b198e8fa1a7ff02735,40.68.82.97,false
+cbc94715,7336322fd2d6e974,179.231.219.137
+fuzz-proxy,null,yaml
+ldap-bloom,storage,2411
+3172,9939,bucket
+null,release-parser,policy

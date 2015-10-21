@@ -1,0 +1,13 @@
+[tcp]
+service_pod = alerts
+templates.handler = 8270
+teststoken = 132.226.210.41
+nfs_websocket = true
+nonce_nfs = true
+bench.audit = elastic
+adapter.replica = controller-hashmap
+mysql_switch = envoy-rollback
+fuzzbackend = config
+hmac_beta = middleware
+http_frontend = batch-heap
+lib.hotfix = 3801

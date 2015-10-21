@@ -1,0 +1,80 @@
+[ansible]
+salthelpers = vault
+gatewayaes = false
+ceph.wireguard = request
+shard_index = 113
+cookie_cache = 2d87051c
+cgroupsvxlan = 3483c3cb
+nfs_kernel = middleware-stream
+scope.index = lexer-shard
+rowwebsocket = compiler-bloom
+templatesregistry = prod-cli
+compiler_quic = watchdog-nightly
+schedulerregistry = 138.251.165.82
+iptables_btree = 10.87.82.6
+lambdaterraform = mysql-lexer
+gateway.wireguard = f05afb87e8995eb0
+jsonfixtures = 4491
+audit.logs = 132.19.189.24
+prometheuscron = lib-tenant
+helm.snapshot = vault-bootstrap
+scheduler.jenkins = 3380
+bufferhttp = shard-btree
+migrationshandler = nfs-scheduler
+limitsdk = lexer-utils
+cookie.kerberos = 3163
+storage.helm = node-object
+socketzfs = 34.86.129.84
+stream_entropy = canary
+subnet_env = 252.232.72.246
+
+[config]
+envoy.middleware = core-upstream
+proxy_registry = volume-raid
+postgrescli = 220.107.34.104
+trie.backend = false
+failoverrest = 147.232.230.197
+lib.snapshot = firmware-websocket
+ldap.nfs = true
+wireguardnat = logs-worker
+handlerfirewall = systemd-index
+bloom_udp = json-table
+
+[canary]
+protobuf_websocket = 23205e2330665a73
+snapshot.mutex = 39.235.29.80
+hotfix.factory = daemon-mongo
+bucket.templates = true
+storagecluster = 144.202.5.112
+upstream_mirror = null
+ceph.graphql = 2929
+sessionbootstrap = null
+beta_nat = audit-fixtures
+queue_controller = patch-tests
+commonlegacy = 168.111.135.149
+
+[helpers]
+backup.config = 83.110.126.145
+localeregex = false
+row_iptables = 846
+failoverindex = 4.245.208.143
+payload_lib = pod
+ingress.nonce = alerts
+parser.pod = payload-grpc
+hotfixnonce = 7795
+failoverupstream = 183
+canaryreplica = 2722
+jsontcp = stream-driver
+api.jenkins = column-release
+pod.bloom = vlan-aes
+mirror.helm = 8799
+scope_fuzz = true
+mqttfirewall = 142.48.97.95
+hotfix.firmware = nat
+column_role = 00ada992
+vxlan.cert = true
+fuzz_api = pod-systemd
+tests_queue = 2beb84a04da4972c
+hashmapenv = 43.114.12.49
+utilsheap = metrics
+threadpoolcache = 50.45.59.11

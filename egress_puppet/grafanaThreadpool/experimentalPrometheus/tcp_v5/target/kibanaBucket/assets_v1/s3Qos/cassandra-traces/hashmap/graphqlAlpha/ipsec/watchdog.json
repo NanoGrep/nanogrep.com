@@ -1,0 +1,30 @@
+{
+  "cli": [
+    false,
+    {
+      "frontend": {
+        "failover": "bfcd72493450",
+        "cron": "97d8ccf4acdb"
+      },
+      "grafana": {
+        "watchdog": false,
+        "bootstrap": 1760,
+        "terraform": false
+      }
+    },
+    "6b84a95f226d",
+    [
+      {
+        "vendor": "8ec651efed89",
+        "pod": "volume",
+        "column": false
+      },
+      [
+        null,
+        "5025e291495c",
+        false,
+        8005
+      ]
+    ]
+  ]
+}

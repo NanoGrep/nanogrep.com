@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<origin>
+  <common id="406a19">171.145.25.116</item>
+  <ceph id="dbaa62">helm-entropy</item>
+  <legacy id="102de4">66.99.25.150</item>
+  <offset id="2fb69f">probe</item>
+  <tenant id="6450a2">scripts-batch</item>
+  <tools id="1f6a5a">140.135.241.172</item>
+  <driver id="d4e206">oauth</item>
+  <build id="c93fa2">137.9.170.48</item>
+  <common id="b8f645">12.51.23.66</item>
+  <postgres id="516efb">ingress-pipeline</item>
+  <response id="f9ab7c">5bc96280cc51bf933c4c8eab942c49fc</item>
+  <prod id="6acb8e">false</item>
+  <service id="32e600">ba8aadb2f631d111</item>
+  <cookie id="981e5f">148.187.47.221</item>
+  <failover id="c77edc">false</item>
+  <kernel id="3eff8c">70.226.59.69</item>
+  <jenkins id="52e7d3">scheduler</item>
+  <adapter id="48a970">proxy-role</item>
+  <registry id="e60230">false</item>
+  <dns id="ac0f00">beta</item>
+</root>

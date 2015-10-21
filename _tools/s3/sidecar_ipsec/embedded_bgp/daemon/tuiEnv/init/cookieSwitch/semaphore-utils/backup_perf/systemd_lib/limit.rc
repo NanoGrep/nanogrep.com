@@ -1,0 +1,3 @@
+release_nightly: alerts-locale
+queue_ldap: 965147c9
+triescheduler: 222.229.208.249

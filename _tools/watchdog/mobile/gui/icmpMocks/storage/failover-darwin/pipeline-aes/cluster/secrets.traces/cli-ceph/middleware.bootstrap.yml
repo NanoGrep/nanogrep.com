@@ -1,0 +1,6 @@
+heap: 090a171387016f5afebc902307380b07
+nat: b74e0a9528dbe1433e2479c120afc9f9
+threadpool: prometheus
+column: false
+mirror: switch
+topic: ldap-cache

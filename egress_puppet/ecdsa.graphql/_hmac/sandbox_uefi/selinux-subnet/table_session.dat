@@ -1,0 +1,14 @@
+gateway,mqtt,helpers,firewall,regex,iptables
+sdk-logs,122.87.181.243,registry,config-upstream,watchdog-tls,197.48.82.90
+cert-service,session-storage,7342,rollback-release,scripts,419
+frontend-config,a50d4202b4fdd0d0,6359,3938,24.127.228.27,177e934ac94981601975cad84cf94f59
+040f8fbfcc5f8c4d,4.72.234.210,213.183.245.241,1630,role,runner
+240.138.31.57,buffer,false,null,31.19.227.161,logs-entropy
+149.90.122.7,cf7e516b0b6699c4,null,tests-adapter,true,5.103.80.107
+9995,nat,stack,d920fca369ed021e,213.171.3.149,kernel
+d7baf5f1,true,7937,grafana,session,upstream-origin
+4305,3102,metrics,3435,parser,736b41b6
+6825,false,1159,true,a86dc19f,100.199.171.27
+null,jenkins-role,115.141.35.234,127.16.209.174,7602,fbd136deaa41acd48e9e7e3791eb95a2
+4b413769412ce723,125.153.126.73,true,vault,redis-yaml,null
+56.214.133.209,268f7804f432ff1bb8e98970e053c0f3,6806,null,9568,daemon

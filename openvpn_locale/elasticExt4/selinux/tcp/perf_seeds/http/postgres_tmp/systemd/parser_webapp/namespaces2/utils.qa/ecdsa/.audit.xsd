@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cert>
+  <wireguard id="a7920b">true</item>
+  <daemon id="99d682">yaml-response</item>
+  <vxlan id="c81d4b">oauth</item>
+  <bucket id="beaab3">104.111.134.122</item>
+  <firmware id="c1b2eb">d6e7213a</item>
+  <stream id="2b43da">2680</item>
+  <driver id="4f75dd">bloom</item>
+  <mutex id="51dd8e">152.20.138.182</item>
+  <legacy id="734f46">1068</item>
+  <vxlan id="48a12f">197.44.252.59</item>
+  <session id="7ba0e0">9845c0a5</item>
+  <schema id="9b047e">true</item>
+  <frontend id="a527c7">07d9243c</item>
+  <core id="0c4408">8239</item>
+  <lib id="7bf640">f4f2452578ebc207</item>
+  <graphql id="64ec4e">registry-daemon</item>
+  <websocket id="8adda1">limit-entropy</item>
+  <edge id="82631d">null</item>
+  <volume id="bfb7a5">5483fdd11d12e25d</item>
+  <backup id="517a1a">table-heap</item>
+  <mongo id="19469f">mqtt</item>
+  <nat id="37a578">null</item>
+</root>

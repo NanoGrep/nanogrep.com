@@ -1,0 +1,6 @@
+scope:
+  env: c802e3ce
+  redis:
+    - d7c8f501
+    - helm
+    - true

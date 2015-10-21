@@ -1,0 +1,12 @@
+loader: rsa
+ingress:
+  legacy: 122.212.56.118
+  utils: 1debdb5d92f6b796
+  logs: 70.174.166.33
+  crypto:
+    - table
+    - subnet
+    - true
+  rest: batch-mapper
+  scripts: 2042
+nginx: 4839

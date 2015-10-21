@@ -1,0 +1,46 @@
+[
+  "alerts",
+  [
+    null,
+    false
+  ],
+  {
+    "mysql": [
+      {
+        "quic": "5c22a9a182ff",
+        "socket": 650,
+        "locale": "origin",
+        "build": null
+      },
+      {
+        "prometheus": 8048,
+        "vxlan": "helm",
+        "subnet": null,
+        "row": 7596
+      },
+      [
+        4982,
+        "061a423d66bf",
+        true
+      ],
+      5029
+    ],
+    "storage": [
+      null,
+      "logs",
+      {
+        "semaphore": "payload",
+        "parser": true,
+        "lexer": false
+      }
+    ],
+    "buffer": [
+      [
+        true,
+        null
+      ]
+    ],
+    "registry": true
+  },
+  true
+]

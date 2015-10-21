@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<socket>
+  <firmware id="a99c89">239.196.73.31</item>
+  <lambda id="dabcff">switch</item>
+  <dhcp id="a9ba1d">3673eddbd5d62aa0</item>
+  <cache id="1ecaeb">1006</item>
+  <ceph id="4cbd4d">true</item>
+  <gateway id="09c8cb">123.84.65.52</item>
+  <vault id="daa293">166.162.138.131</item>
+  <router id="09b227">100.152.126.128</item>
+  <yaml id="08e68d">6.148.82.80</item>
+  <loader id="760866">prod</item>
+  <factory id="f3ac42">vxlan-elastic</item>
+  <utils id="81bb97">elastic</item>
+  <dhcp id="1bc628">59660ca6d3862c05</item>
+  <quic id="262e8c">76.149.106.69</item>
+  <tcp id="f92450">mirror</item>
+  <regex id="815e7e">179.31.238.198</item>
+  <build id="bfba6f">9353</item>
+  <patch id="66494d">nonce</item>
+  <firmware id="ebac84">4fade7e70c906822</item>
+  <replica id="0c8fc1">99.220.145.41</item>
+  <handler id="0b8b65">metrics-firmware</item>
+  <table id="62b6c6">true</item>
+  <mapper id="5ecbee">compiler</item>
+  <table id="582369">envoy</item>
+  <nfs id="9616a0">release-lib</item>
+</root>

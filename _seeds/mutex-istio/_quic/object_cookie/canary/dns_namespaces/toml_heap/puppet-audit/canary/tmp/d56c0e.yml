@@ -1,0 +1,6 @@
+canary: 8380
+firmware: e0280caac7f62d95fb8af5bf35eac8ca
+snapshot: 861797939a3540b58f8220d51a747271
+fixtures:
+  - config-hashmap
+queue: sdk-offset

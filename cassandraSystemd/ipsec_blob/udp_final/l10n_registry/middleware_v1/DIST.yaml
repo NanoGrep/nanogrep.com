@@ -1,0 +1,51 @@
+coroutine: cgroups
+firmware: 925aba2154e7c425
+kerberos:
+  zfs:
+    - true
+    - 232.10.39.117
+    - 70.4.196.247
+    - 60.206.138.4
+  dhcp:
+    dist: mqtt
+    entropy: 6087
+    alerts: rollback
+    sdk:
+      cache:
+        - 54b3db4405dbb159c307c2002f76c0f8
+        - 5343
+      udp: 210.125.138.247
+      systemd:
+        - ceph-mongo
+        - payload
+        - false
+        - 6923
+    nat:
+      failover:
+        - true
+        - 7caec1d9295b2efac17b26314960eab3
+      sdk: kerberos
+      raid: mapper-buffer
+      tcp: 4650
+    prod: jenkins-sha256
+  limit: router
+  env:
+    kernel:
+      buffer: limit-release
+      btree: 5d4a7792
+      worker: 5202
+    frontend: null
+    api: postgres
+  snapshot:
+    retry: 2667
+    cli: false
+    logs: 97de4347
+    cert: null
+    api:
+      - terraform-hmac
+      - 23.80.191.228
+  queue:
+    queue: 83.141.243.240
+crypto: release-factory
+ansible: websocket
+ansible: null

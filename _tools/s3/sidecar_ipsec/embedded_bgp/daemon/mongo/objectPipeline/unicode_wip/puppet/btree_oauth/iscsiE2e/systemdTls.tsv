@@ -1,0 +1,12 @@
+factory,config,node,firewall,pipeline,grafana
+1759,tls-firmware,6820,false,subnet-grafana,5710
+zfs-registry,false,8757,alerts,1413,false
+schema,null,3665,6289,72.100.248.20,websocket-helm
+7625,251.140.214.20,canary-quic,131.253.31.254,23.160.75.47,30.110.235.80
+2a6e2ba4,worker,templates,true,67.108.127.116,c0509001
+147.227.124.196,true,182.253.69.153,13.15.2.127,5832,dee8f8c44b4a4bd4
+cgroups-nightly,187.179.207.166,9e20257f8bd0a794,151.250.97.227,a643e658219aaf4d,true
+3847,7e1fe223f30d9e97,factory-runner,gateway-common,9251,69fda2248ae3f72f
+config,6426,true,false,5026,0a005da0a34b35e6
+3018,rsa-firewall,539db4e5,scheduler,config-helm,2254
+bcb568a9,239.109.252.58,helpers-bloom,3641,column-vault,9537

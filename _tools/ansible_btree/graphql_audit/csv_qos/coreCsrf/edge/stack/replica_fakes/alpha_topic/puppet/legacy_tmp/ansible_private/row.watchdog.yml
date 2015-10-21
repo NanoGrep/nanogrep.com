@@ -1,0 +1,11 @@
+handler: 24.86.68.141
+helpers:
+  yaml: staging-payload
+  tcp:
+    alerts:
+      ansible: config
+      sha256: 6.98.238.42
+      mocks: b17d8bbb
+      watchdog: false
+    driver: 1653
+nginx: bc5e8234

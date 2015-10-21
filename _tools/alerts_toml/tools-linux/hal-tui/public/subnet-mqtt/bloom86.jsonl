@@ -1,0 +1,33 @@
+[
+  {
+    "websocket": [
+      [
+        false,
+        "artifact",
+        null
+      ]
+    ],
+    "mocks": {
+      "heap": {
+        "row": true,
+        "cron": "8979e6109d76",
+        "failover": "templates",
+        "fuzz": true
+      },
+      "jwt": [
+        true
+      ],
+      "adapter": [
+        true,
+        false,
+        null
+      ],
+      "trie": true
+    },
+    "tests": true,
+    "role": 5944,
+    "artifact": null
+  },
+  "http",
+  false
+]

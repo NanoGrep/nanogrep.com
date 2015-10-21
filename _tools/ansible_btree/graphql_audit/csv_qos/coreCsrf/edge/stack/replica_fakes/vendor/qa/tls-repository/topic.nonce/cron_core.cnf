@@ -1,0 +1,6 @@
+prodpipeline=cgroups
+tenantdaemon=d39e67867bb5a49fedcdeece7387ce90
+json_heap=167.158.196.99
+userudp=false
+grafanakafka=rest-router
+stack.jenkins=90.12.141.40

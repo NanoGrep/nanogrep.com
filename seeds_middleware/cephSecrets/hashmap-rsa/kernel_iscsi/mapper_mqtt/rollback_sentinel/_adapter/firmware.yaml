@@ -1,0 +1,7 @@
+yaml: dist
+compiler: 7945
+batch:
+  - f0351fd1c77657ad
+  - 7075
+  - null
+stack: factory-jenkins

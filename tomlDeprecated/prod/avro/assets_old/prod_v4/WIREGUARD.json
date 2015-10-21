@@ -1,0 +1,27 @@
+{
+    "aes": {
+        "grafana": false,
+        "redis": {
+            "bench": 6673,
+            "service": "b1f14e20d080",
+            "bloom": [
+                false
+            ]
+        },
+        "user": "sha256",
+        "templates": {
+            "ansible": true,
+            "beta": null,
+            "api": false
+        },
+        "metrics": {
+            "pipeline": "5f98dd21cd18",
+            "mirror": "cfb79acb3624",
+            "controller": [],
+            "watchdog": [
+                false,
+                true
+            ]
+        }
+    }
+}

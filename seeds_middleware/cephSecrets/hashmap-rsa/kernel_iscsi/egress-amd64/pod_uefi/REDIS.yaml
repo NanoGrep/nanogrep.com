@@ -1,0 +1,18 @@
+legacy:
+  nonce: 115.195.206.28
+  factory:
+    daemon:
+      mysql: 100.5.64.234
+      nonce: zfs-vlan
+    offset: 5489
+    helpers:
+      frontend: 7.154.142.130
+      stream:
+        - 94d5829a
+        - hmac
+      raid: rest
+      adapter: null
+      queue: 6811
+buffer: 180.28.76.111
+nonce: mqtt-systemd
+raid: false

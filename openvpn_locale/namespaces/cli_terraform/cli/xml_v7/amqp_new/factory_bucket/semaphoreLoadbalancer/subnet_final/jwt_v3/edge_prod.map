@@ -1,0 +1,51 @@
+{
+  "websocket": {
+    "core": true,
+    "prod": [
+      null,
+      {
+        "group": "logs",
+        "trie": true
+      },
+      false,
+      true
+    ],
+    "alerts": {
+      "logs": 1711,
+      "sdk": [
+        false
+      ],
+      "api": {
+        "beta": "5228e8eb3800",
+        "ceph": 2230,
+        "grpc": true,
+        "kernel": 5743
+      }
+    },
+    "edge": [],
+    "migrations": {
+      "topic": {
+        "volume": null,
+        "raid": "mesh",
+        "semaphore": false,
+        "origin": false,
+        "retry": false,
+        "terraform": null
+      }
+    }
+  },
+  "driver": true,
+  "yaml": null,
+  "prod": false,
+  "volume": {
+    "queue": "cert",
+    "salt": {
+      "patch": false,
+      "middleware": {
+        "btree": null,
+        "http": false,
+        "driver": 1011
+      }
+    }
+  }
+}

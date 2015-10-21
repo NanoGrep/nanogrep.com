@@ -1,0 +1,67 @@
+[
+    "6c23561842b5",
+    {
+        "mocks": {
+            "buffer": {
+                "beta": null,
+                "prod": false,
+                "nfs": "d749a9c8b458"
+            },
+            "logs": [
+                "7a93c74bd5cb",
+                null,
+                4932
+            ],
+            "tests": {
+                "lambda": 4984,
+                "nginx": false
+            },
+            "snapshot": {
+                "prod": 4510,
+                "upstream": "upstream",
+                "regex": true,
+                "migrations": "78fe03b5da3e"
+            }
+        },
+        "cookie": false,
+        "token": {
+            "traces": {
+                "gateway": 8431,
+                "storage": true,
+                "lexer": null,
+                "udp": "common",
+                "staging": true
+            },
+            "helm": {
+                "policy": "cookie"
+            },
+            "grpc": {
+                "locale": null
+            }
+        },
+        "prod": {
+            "scheduler": "payload",
+            "group": true,
+            "hmac": null,
+            "build": true,
+            "hotfix": [
+                4072,
+                9040
+            ]
+        },
+        "nat": [
+            {
+                "cron": 1475,
+                "index": "scope",
+                "object": null,
+                "firewall": "scope"
+            },
+            {
+                "sandbox": 2457,
+                "mongo": true,
+                "scripts": null
+            },
+            "acfc72c62084"
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+scope: ceph
+assets: jenkins-ldap
+queue: null
+aes:
+  coroutine: false
+  wireguard:
+    protobuf: true
+cert:
+  - 28196d86
+  - null

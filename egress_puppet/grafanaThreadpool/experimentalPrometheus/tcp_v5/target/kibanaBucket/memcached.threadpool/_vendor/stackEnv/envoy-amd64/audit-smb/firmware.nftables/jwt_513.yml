@@ -1,0 +1,46 @@
+token: null
+assets:
+  snapshot: 252.187.222.224
+  utils: mongo
+  kerberos: false
+  buffer:
+    salt:
+      - e09696b9c660fd81
+      - vendor-storage
+      - bootstrap-service
+    build:
+      assets: release
+      router: backend
+      regex: mongo
+      fixtures:
+        - false
+        - 8419
+        - true
+        - 54295a3e
+      nfs: 0e59ad45198b35ef4104c70f0c98123f
+      threadpool: 7033
+    nginx: bdfd8ff9c7d8f6e6
+    cookie: firmware-sha256
+    loader: daemon
+schema: 4724
+bloom: 58.65.197.54
+postgres:
+  cache: 4824
+  rollback:
+    mongo: user-topic
+    tools: bench-vlan
+    nfs:
+      - lexer-scheduler
+      - 7106
+    beta: 7684
+    prometheus:
+      daemon: 1660
+      kafka: false
+      proxy: cron
+      dhcp: 6643
+  core:
+    postgres: utils-middleware
+    envoy: 2067
+    ansible: 161.96.211.92
+  legacy: ingress
+  storage: postgres

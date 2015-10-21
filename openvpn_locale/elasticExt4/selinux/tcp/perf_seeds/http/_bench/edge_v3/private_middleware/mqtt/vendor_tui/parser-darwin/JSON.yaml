@@ -1,0 +1,19 @@
+pod: envoy-tcp
+kerberos:
+  semaphore:
+    object: cache
+  audit: c4c60789a47d1087cac709da3721a390
+  lambda:
+    systemd: 4750
+    logs: tools-compiler
+    cookie: 4495
+    bloom:
+      postgres: jenkins-cluster
+      row:
+        - cron-legacy
+        - 65.232.45.87
+      role: heap
+    env: 6425
+  cache: table
+prometheus: true
+replica: rollback-kernel

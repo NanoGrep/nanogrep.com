@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<regex>
+  <probe id="539a8e">tenant-alerts</item>
+  <quic id="2211a9">mutex</item>
+  <nightly id="96f663">296f246fa6421a39</item>
+  <jenkins id="d65c91">vlan-quic</item>
+  <topic id="9a71e0">mqtt-handler</item>
+  <tools id="e2dae8">763e98f67a77764f20fa445e0c176dcc</item>
+  <fixtures id="69be87">backend</item>
+  <offset id="0d4033">true</item>
+  <worker id="2276b3">null</item>
+  <grpc id="c864fc">16.164.117.170</item>
+  <http id="b8ef2b">61.83.217.33</item>
+  <vault id="2a68a7">1968</item>
+  <rollback id="9bcaa7">dist-response</item>
+  <tenant id="424ff1">nightly</item>
+  <firmware id="f643a4">9373</item>
+</root>

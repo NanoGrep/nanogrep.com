@@ -1,0 +1,106 @@
+yaml: protobuf-handler
+mysql: 109e23383d3278da9ed31ae6fe9c38e5
+regex:
+  sha256:
+    factory:
+      - 43.100.106.33
+      - runner-compiler
+    build:
+      env: 21b7c8995d9e0326
+      switch: 2547
+      bootstrap: 20.93.192.211
+      api: false
+      pipeline: f1ca1620a91be763
+    core:
+      helm: false
+      logs: 6140
+      kernel: null
+    registry: 7d5e01872d3cfae3
+    scope:
+      nfs:
+        - 2943
+        - 128.184.92.178
+        - 9275
+      kafka:
+        - 3072
+        - 1135
+        - env
+        - 4838
+      user: 4816
+      traces: null
+    vlan: 1523
+  dhcp: 245.31.34.172
+  helm:
+    cgroups:
+      aes: artifact-storage
+      firewall: false
+      column: ingress-firewall
+      traces: 6c56dcb6
+      jwt: 167.243.250.138
+    tcp:
+      index: oauth-dns
+      utils: 114.238.54.108
+      fixtures: buffer-response
+      utils: 27259e674e74cf4e
+      postgres: jwt-lib
+      grpc: 72.38.238.32
+    regex:
+      postgres: true
+      canary: node
+      bgp: policy
+      kernel: a6acbe412ee72674
+      vault: nginx-core
+      env: 471
+  firmware: 141.130.120.151
+  sandbox: 5374
+  bench:
+    - tenant-core
+    - 6937
+    - null
+vxlan:
+  token: true
+  bootstrap:
+    role: 7c048d499809168c15d173d805fc6f8f
+    fixtures: 45.128.117.200
+    row: 203.116.93.247
+    mirror:
+      retry: vendor
+      adapter: topic-build
+      http: 22874bf5f440a86b5234123cd92d913a
+      wireguard: 1473
+      crypto: cache-driver
+    fixtures: runner
+    compiler:
+      request: null
+      replica: watchdog
+      sandbox: cache-node
+      edge: 9ec9a2250cca700cc6460232d26e5875
+      crypto:
+        - trie-schema
+        - true
+        - true
+  wireguard:
+    jwt: 68.152.237.78
+    core: mirror-payload
+    elastic: common-lib
+    bench: assets
+  artifact:
+    raid:
+      bootstrap: f8bcbb841fd07e3c21c46c562f00bbec
+      cert:
+        - 247.81.0.112
+        - true
+        - 8766
+        - true
+      buffer: false
+      sha256: true
+      adapter: pipeline
+      api: false
+    stack:
+      mesh: 1875
+    cgroups: 7000
+nightly:
+  factory: postgres-rollback
+  protobuf:
+    - 53.165.92.196
+hashmap: nfs

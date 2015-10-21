@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<helm>
+  <registry id="b9f03d">7251</item>
+  <response id="419730">f1d9951c760bda6137ac4e7e60154f9a</item>
+  <tools id="457e5e">980</item>
+  <cors id="4dc244">null</item>
+  <mocks id="dbb14c">false</item>
+  <hotfix id="68f46d">4808</item>
+  <mongo id="797e68">aes-bgp</item>
+  <loader id="70c2ad">wireguard-rollback</item>
+  <cgroups id="4dcfa5">3199fdaa</item>
+  <config id="ebb67f">nat</item>
+  <loader id="1047c7">mocks-grpc</item>
+  <migrations id="a280d0">173.167.66.173</item>
+  <traces id="b8d903">9e61865bef8d4143</item>
+  <mesh id="2743ff">3827</item>
+  <worker id="8dfc5f">cf61f796</item>
+  <traces id="baea0b">7747</item>
+  <cursor id="a03d08">false</item>
+  <cors id="4fc235">130.32.16.32</item>
+  <semaphore id="2e4a42">64.253.71.103</item>
+  <worker id="1e1908">column</item>
+  <ceph id="9ad149">67.36.166.187</item>
+</root>

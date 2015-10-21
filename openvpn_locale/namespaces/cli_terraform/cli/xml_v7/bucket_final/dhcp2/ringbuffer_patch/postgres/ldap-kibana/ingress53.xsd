@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<socket>
+  <offset id="32e122">2100</item>
+  <snapshot id="1c4de4">null</item>
+  <cgroups id="e9b605">probe-iptables</item>
+  <scheduler id="e34d5c">25.92.87.216</item>
+  <policy id="f7d907">4235</item>
+  <legacy id="cb51ed">storage-ingress</item>
+  <snapshot id="a8979b">116.167.203.87</item>
+  <cert id="0ca778">173.174.159.56</item>
+  <adapter id="5a1a09">fuzz-row</item>
+  <switch id="6b14f1">52.84.16.180</item>
+  <tests id="0f9fcb">768</item>
+  <payload id="6f069e">4395</item>
+  <volume id="a56add">6.149.231.1</item>
+  <config id="bab119">4784</item>
+</root>

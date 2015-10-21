@@ -1,0 +1,25 @@
+policy:
+  jwt: rollback
+  crypto:
+    kafka: 952
+  backup: 9672
+  scope:
+    cgroups:
+      - 8401
+      - 4000
+      - true
+      - 206.52.26.135
+    node:
+      dns:
+        - fixtures-mocks
+        - false
+    vendor:
+      cache: 56.131.195.240
+      canary: request-zfs
+      mocks: 067431bf
+      rollback:
+        - build
+        - 1962
+        - null
+        - 176.234.89.254
+    envoy: 186.180.192.91

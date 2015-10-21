@@ -1,0 +1,29 @@
+parser:
+  edge:
+    socket:
+      - 124.206.120.101
+      - config
+      - 3263
+      - 190.125.46.229
+    vendor:
+      staging:
+        - false
+        - 8b2d7da6a20a624e9ae8a5c07710df3b
+      locale: true
+      cert: 5991
+      json: 2974
+      traces: e7a29957772d43bc
+      policy: parser
+    shard:
+      - true
+      - prod
+    proxy:
+      core: 72.84.166.160
+  sha256: mesh-envoy
+  fixtures: policy-replica
+  worker:
+    volume:
+      nonce: null
+      mqtt: 131.194.205.75
+      runner: replica
+      elastic: true

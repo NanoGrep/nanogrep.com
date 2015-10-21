@@ -1,0 +1,26 @@
+vxlan:
+  beta:
+    router:
+      lib: e5cb07294bbf5c2f
+    edge: 207.179.201.109
+    mysql: e1ee40ce
+    aes:
+      firmware: graphql
+  trie:
+    nightly: bgp
+    edge: 229.25.131.8
+    worker: true
+    factory:
+      - 2b3a048ab5bd3f9c9f11a3863ec0b76a
+      - c59b3250
+    hashmap: node
+    request: 56.111.215.45
+  grafana: artifact-node
+cron:
+  - null
+vault:
+  - cursor-schema
+  - 245.3.122.243
+  - crypto-cgroups
+common: regex
+nginx: 765eae6d7b7c0b94

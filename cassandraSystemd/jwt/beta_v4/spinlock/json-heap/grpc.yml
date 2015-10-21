@@ -1,0 +1,9 @@
+cluster: 1871
+session:
+  rollback: 1430
+  hashmap:
+    scope: dc2da747
+request:
+  lib: batch
+redis: 295f9f53
+frontend: true

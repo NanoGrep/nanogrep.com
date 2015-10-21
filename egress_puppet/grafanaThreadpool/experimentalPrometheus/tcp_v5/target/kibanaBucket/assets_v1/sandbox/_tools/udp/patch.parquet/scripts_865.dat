@@ -1,0 +1,15 @@
+replica,subnet,adapter,cors,cache
+templates-tests,2151a403,shard,6c9b3a89c2c507f1,170.202.65.135
+7166,20.231.251.209,cgroups,4811,e224d5eb9fb9337f5ec16ba58cea4e27
+schema-legacy,snapshot-handler,8139,session,a0c7f82c
+null,lexer,5756,7cffb0c6,234.107.78.183
+null,pipeline-router,166.110.11.62,8314,179.52.215.16
+4876,131.119.221.222,20.247.103.249,true,6dadd10d
+5035b5a3349641f44e5b8cf0af80b8df,b5b60c06,190.239.24.59,2c605191,null
+8fab7f75,32c1df6c331a773a,09e957b1b996e31ad1245b24d8df13e5,5426,9848
+8a00483cd026a0c06a2a5d265f0c4bd4,true,cluster,false,210.61.68.221
+131.78.129.214,17e6528a4478411b,633,snapshot,ingress
+42bf3f479c38791e2df90981ad4c4e60,fixtures-handler,buffer-websocket,mysql-retry,null
+412ab3377e6cb54b95fc8d8c9a4de8fc,null,c14821b3,139.156.250.235,38c12cb6
+224.142.214.180,251.160.215.217,9877,8e2b5968aff34471a5f80891412af71f,ingress
+12.22.54.35,router-worker,hotfix-cluster,1719,233d4233

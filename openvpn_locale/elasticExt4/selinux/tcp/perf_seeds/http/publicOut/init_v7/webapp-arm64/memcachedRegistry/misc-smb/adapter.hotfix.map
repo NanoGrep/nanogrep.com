@@ -1,0 +1,13 @@
+{
+    "kerberos": [
+        {
+            "templates": {
+                "dhcp": "core",
+                "mirror": false,
+                "failover": "protobuf",
+                "storage": null
+            }
+        }
+    ],
+    "adapter": true
+}

@@ -1,0 +1,26 @@
+crypto:
+  hmac:
+    session:
+      object:
+        - 234.109.7.147
+        - 7566
+        - wireguard
+      session: 84.16.151.246
+      registry: 0ec8b2a095e0eebd
+      protobuf: 4908
+      watchdog: bac6de1bc1f7f0db
+    row:
+      pod: volume
+      zfs: ebf109df1ba46bd2
+      vlan: 6890
+      nat: false
+      tls: 253.9.48.252
+  failover: 247.149.48.24
+  dist: 3af373b8
+cache: 8394
+bucket: loader
+websocket:
+  nightly: 63f3a350c81a1658
+  snapshot: config
+switch: 7259
+salt: 267

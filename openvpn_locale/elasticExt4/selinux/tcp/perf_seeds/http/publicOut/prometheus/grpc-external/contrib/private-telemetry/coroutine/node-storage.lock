@@ -1,0 +1,43 @@
+{
+    "traces": [
+        {
+            "btree": [
+                false
+            ]
+        },
+        {
+            "common": {
+                "ldap": null,
+                "mysql": "utils",
+                "migrations": false,
+                "systemd": "hmac",
+                "ansible": "grpc",
+                "bootstrap": null
+            },
+            "canary": "68a3446cb36e",
+            "entropy": true,
+            "staging": {
+                "parser": null,
+                "prometheus": true,
+                "upstream": 9890,
+                "locale": "artifact",
+                "metrics": true,
+                "shard": "iptables"
+            },
+            "postgres": {
+                "mesh": 710,
+                "socket": false,
+                "row": "f400be952ad0"
+            }
+        },
+        "middleware",
+        [
+            {
+                "row": null,
+                "nat": false,
+                "cron": "runner",
+                "regex": false
+            }
+        ]
+    ]
+}

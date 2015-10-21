@@ -1,0 +1,29 @@
+zfs: false
+snapshot: prod-edge
+config: mqtt-pipeline
+failover:
+  edge: false
+  tcp: null
+  frontend: grafana
+  gateway:
+    entropy: 1635
+    build: 7699a300
+    beta: scope
+    stream: 2dbfe74d46a13bc7
+    controller: graphql
+  ceph:
+    audit:
+      - 4.200.51.22
+      - 165.109.252.39
+    wireguard:
+      nginx:
+        - nfs-watchdog
+        - 8387
+    middleware: aes-beta
+    canary: systemd
+grpc:
+  - 8686
+  - 252.72.66.215
+  - 237.210.34.33
+  - limit
+build: null

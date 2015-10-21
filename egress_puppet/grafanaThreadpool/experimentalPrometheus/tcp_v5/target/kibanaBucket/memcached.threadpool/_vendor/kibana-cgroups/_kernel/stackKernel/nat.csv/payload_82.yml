@@ -1,0 +1,48 @@
+ldap: null
+kerberos: regex
+build:
+  raid:
+    middleware: session-artifact
+  column:
+    hmac:
+      - 139.102.209.207
+      - 9113
+      - 7584
+    artifact: cursor
+  worker:
+    response: 191.76.240.104
+    user: null
+    bucket:
+      driver: 6775
+      gateway: 5651
+      mirror: semaphore
+      storage: 7b8f82ee
+      crypto: c2075ffc
+      rsa: 5232
+    bench:
+      offset: yaml-raid
+      env: dist
+      rest: 7adf44a6a065fb99
+      worker: controller
+      wireguard: session
+      bench: postgres
+    websocket: e4b2d7cf1e1341b265b373d4ca948660
+batch:
+  crypto:
+    scripts: semaphore
+    release: cors
+    batch: cors
+    bench:
+      entropy: true
+      mqtt: 8751
+      jwt: true
+    firmware:
+      - 112a97540b6a31d9
+      - driver
+      - 231
+  utils:
+    - backend
+  artifact: stack
+  gateway: false
+  mapper: 6364
+mirror: 214.215.66.125

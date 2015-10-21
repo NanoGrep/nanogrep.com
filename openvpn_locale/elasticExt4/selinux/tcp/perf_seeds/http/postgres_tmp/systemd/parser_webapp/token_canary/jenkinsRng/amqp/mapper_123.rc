@@ -1,0 +1,16 @@
+helperswebsocket: mesh-cursor
+protobuf.backup: 5118
+redisproxy: 6825
+mirror.service: 203.217.4.182
+entropy_aes: driver-threadpool
+iptables_rollback: terraform
+index_queue: shard
+parsernfs: false
+token.pod: 49502f58ae7096a2
+sdk.audit: false
+prodmirror: true
+scriptsqueue: true
+coroutineupstream: 236.171.64.164
+terraform.grafana: 42.80.214.189
+cachefrontend: null
+meshobject: 9802

@@ -1,0 +1,44 @@
+btree:
+  mapper:
+    cert:
+      metrics:
+        - 4315
+        - 9432
+        - audit-patch
+        - 2684
+      bloom: a3fd0518e6af4d84
+      session: null
+    cors:
+      group: 6029
+      sdk: 6827
+    coroutine: json-proxy
+    trie: sha256-env
+  nginx:
+    index:
+      nat:
+        - templates
+      mysql: 49.60.234.143
+      mutex:
+        - 96.124.232.159
+        - 135ecd29274df8a2
+  scripts:
+    - json
+    - terraform-tests
+  migrations: 134.5.15.210
+  request:
+    pipeline: 4aee5489da3864d19bd4a30a95efeac7
+    fixtures: mirror
+    kerberos:
+      - 1450
+      - upstream
+    middleware:
+      heap: null
+      policy: false
+      vxlan: 165.196.154.6
+      semaphore: 163.16.168.237
+    heap: dns
+    tcp: scheduler-session
+firewall: 1534
+policy: 6.67.20.137
+ceph: release
+postgres: d7d22ebb

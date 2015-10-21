@@ -1,0 +1,24 @@
+lambda:
+  vault: subnet
+  scripts: semaphore-grpc
+  config:
+    index:
+      mocks: true
+      cache:
+        - 4807
+        - ansible-locale
+        - audit
+        - mapper
+      object: adapter
+      semaphore: 29.242.108.63
+    watchdog: true
+env: false
+elastic:
+  vault: false
+  node: 7415
+  sdk:
+    common: 53.209.107.165
+    config: legacy
+    grpc: nat
+    common: cluster-scheduler
+  topic: ingress-cgroups

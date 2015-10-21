@@ -1,0 +1,3 @@
+# Protobuf salt fixtures nginx ...
+def yaml_replica(locale):
+    return locale + 9273

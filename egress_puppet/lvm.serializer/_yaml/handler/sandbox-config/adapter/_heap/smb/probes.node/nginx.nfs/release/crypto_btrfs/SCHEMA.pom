@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<heap>
+  <trie id="78168f">watchdog-tcp</item>
+  <migrations id="cdbe64">true</item>
+  <role id="61aaa4">8192</item>
+  <templates id="0cdb9f">b7471160c860734c</item>
+  <subnet id="0c41b1">null</item>
+  <registry id="674d23">true</item>
+  <frontend id="da0387">null</item>
+  <role id="d00416">hotfix</item>
+  <rsa id="fa7e6f">migrations</item>
+  <assets id="094c37">true</item>
+  <aes id="2de617">handler-driver</item>
+  <sandbox id="e65941">169.122.161.220</item>
+  <runner id="8bca08">bootstrap</item>
+  <env id="c789b8">true</item>
+  <cert id="975ced">14.37.33.170</item>
+  <backup id="f87fc5">false</item>
+</root>

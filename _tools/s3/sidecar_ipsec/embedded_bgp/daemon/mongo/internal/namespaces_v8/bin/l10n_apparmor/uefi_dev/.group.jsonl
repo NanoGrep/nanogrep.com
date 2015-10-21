@@ -1,0 +1,42 @@
+{
+    "group": {
+        "offset": null,
+        "table": []
+    },
+    "build": [
+        {
+            "queue": {
+                "common": true,
+                "registry": true,
+                "lexer": "ca8d08c0b2a0"
+            },
+            "user": {
+                "proxy": false,
+                "rollback": "7c72dcbf1fc9",
+                "traces": 9977
+            },
+            "table": {
+                "edge": false
+            }
+        }
+    ],
+    "hmac": {
+        "group": "tls",
+        "heap": false,
+        "buffer": [
+            [],
+            "c9ba246d9e2a"
+        ],
+        "lib": {
+            "sandbox": {
+                "mutex": "eefe81da2242",
+                "role": "nfs",
+                "cors": 2364,
+                "json": "cc4ecf05969f",
+                "mesh": 4259,
+                "compiler": true
+            }
+        },
+        "ldap": false
+    }
+}

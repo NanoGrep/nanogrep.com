@@ -1,0 +1,29 @@
+{
+    "elastic": {
+        "cli": false,
+        "env": false,
+        "audit": {
+            "aes": {
+                "hotfix": 6231
+            }
+        },
+        "probe": {
+            "config": [],
+            "replica": {
+                "beta": false,
+                "postgres": 8771,
+                "entropy": false,
+                "mongo": false,
+                "topic": "6a23d45a766d"
+            },
+            "yaml": {
+                "cluster": false,
+                "raid": true,
+                "firewall": false,
+                "grafana": "common"
+            }
+        },
+        "registry": true
+    },
+    "regex": false
+}

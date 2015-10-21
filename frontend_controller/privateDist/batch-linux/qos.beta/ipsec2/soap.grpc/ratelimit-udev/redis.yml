@@ -1,0 +1,36 @@
+build: canary-token
+watchdog:
+  env:
+    row: 5623
+    semaphore: 191.251.14.135
+    alerts:
+      http: 751065f9
+      helm: null
+    service:
+      registry: utils-backend
+      hotfix: 16e71916dbf47f43
+      entropy: 2262
+      sha256: true
+    kernel: node
+    loader: true
+  socket:
+    traces: utils-hashmap
+    salt: switch
+    postgres: true
+    tcp: assets
+    logs:
+      - 195.233.133.204
+      - 6b47595ff56a1bd8
+      - cursor
+      - daemon-buffer
+    watchdog:
+      cursor: true
+      bench: 8468
+      hotfix: policy-envoy
+      logs:
+        - 5745
+        - 8cb8300dee59d36e
+  grafana: null
+  bgp: null
+release: b7c4d87b21e10ac8
+nonce: 9475

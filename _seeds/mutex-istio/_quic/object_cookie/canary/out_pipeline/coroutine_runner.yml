@@ -1,0 +1,5 @@
+factory: sandbox
+fixtures:
+  - 105.225.187.79
+  - stack-scheduler
+policy: 241.248.43.160

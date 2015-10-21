@@ -1,0 +1,155 @@
+{
+    "helpers": {
+        "role": [
+            [
+                4200,
+                "artifact",
+                true,
+                "replica"
+            ],
+            {
+                "hmac": true,
+                "entropy": false,
+                "ingress": 6575
+            }
+        ],
+        "canary": {
+            "ldap": {
+                "replica": "udp",
+                "driver": "pipeline",
+                "artifact": false,
+                "entropy": null
+            },
+            "hmac": {
+                "templates": "pod",
+                "queue": null
+            },
+            "common": true,
+            "service": {
+                "metrics": null,
+                "backup": "kerberos",
+                "gateway": false,
+                "cli": "failover",
+                "sha256": false
+            },
+            "helm": {
+                "metrics": 613,
+                "cors": "e8a2f53154cc",
+                "helpers": "envoy",
+                "grpc": true,
+                "oauth": "459aafcf754e",
+                "handler": "e7b8bf5f7dfb"
+            }
+        }
+    },
+    "sdk": {
+        "raid": {
+            "cert": [],
+            "templates": {
+                "subnet": "user",
+                "templates": false,
+                "parser": "04cf8102c2fb",
+                "aes": false
+            },
+            "watchdog": false
+        },
+        "sha256": {
+            "websocket": {
+                "crypto": "regex",
+                "logs": true,
+                "buffer": 4762,
+                "cookie": null,
+                "failover": false
+            },
+            "env": "6ef8f13103fb",
+            "json": {
+                "release": "5dabf4770bf9",
+                "tools": "systemd",
+                "rsa": null
+            }
+        },
+        "postgres": {
+            "scripts": [],
+            "edge": {
+                "group": true,
+                "bucket": false,
+                "offset": "31da16d41ecb",
+                "api": "b90f5630c42f",
+                "hashmap": false,
+                "rest": null
+            }
+        },
+        "graphql": true
+    },
+    "sandbox": {
+        "bgp": [],
+        "table": "6c5928126789",
+        "artifact": {
+            "legacy": {
+                "group": 9797,
+                "mesh": true,
+                "vlan": null
+            },
+            "worker": null,
+            "vault": {
+                "ceph": null,
+                "api": false,
+                "rollback": "4d0901f19ffe",
+                "stream": null
+            },
+            "lexer": {
+                "mqtt": 6443,
+                "parser": "hotfix"
+            },
+            "semaphore": {
+                "nightly": null,
+                "firmware": "redis",
+                "policy": 4438,
+                "templates": 7042,
+                "sdk": false,
+                "grpc": null
+            }
+        }
+    },
+    "metrics": {
+        "tcp": [
+            "b227ed00c5ed"
+        ],
+        "cert": {
+            "kernel": {
+                "assets": false,
+                "kafka": "3f8aa948ca08",
+                "bloom": false
+            }
+        },
+        "terraform": {
+            "node": "5df6a91bc3bf",
+            "runner": false,
+            "topic": {
+                "snapshot": "620c6962009d"
+            },
+            "graphql": false,
+            "middleware": [
+                true,
+                true,
+                true
+            ],
+            "mutex": "3d148b81cb43"
+        },
+        "pod": true,
+        "lexer": {
+            "postgres": null,
+            "dist": {
+                "canary": "mysql"
+            },
+            "retry": {
+                "scheduler": null,
+                "parser": "8941d5d843dd"
+            },
+            "firewall": {
+                "grpc": 6431
+            }
+        },
+        "lambda": false
+    }
+}

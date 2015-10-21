@@ -1,0 +1,20 @@
+retry:
+  - loader-tests
+  - row-runner
+traces: d19d43cef7595f0f6393fc03b5a7f9b8
+regex: kerberos-switch
+rollback:
+  - salt
+  - 8782
+  - false
+  - cookie-env
+elastic:
+  canary: 58.165.98.13
+  ingress:
+    kafka: 149.220.97.18
+  daemon:
+    request:
+      nfs: 4164
+    jenkins: 5650
+    column: nginx
+    canary: retry-lexer

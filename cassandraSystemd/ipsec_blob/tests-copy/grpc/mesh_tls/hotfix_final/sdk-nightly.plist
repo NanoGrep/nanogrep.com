@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<utils>
+  <subnet id="79e649">129.99.238.213</item>
+  <tests id="e8a3c5">traces-udp</item>
+  <cert id="6809df">replica-sha256</item>
+  <cgroups id="5acb81">true</item>
+  <core id="9bad30">true</item>
+  <failover id="c9c1c7">salt</item>
+  <role id="67ed23">tcp</item>
+  <heap id="a92def">6289</item>
+  <jenkins id="8f95f7">shard</item>
+  <loader id="4a9395">false</item>
+  <mutex id="6ad4ee">125.94.77.53</item>
+</root>

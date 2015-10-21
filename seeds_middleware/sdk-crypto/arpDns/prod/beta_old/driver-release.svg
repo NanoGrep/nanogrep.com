@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mongo>
+  <runner id="317316">1687</item>
+  <build id="76258b">17.227.7.245</item>
+  <prometheus id="4d84ce">d8ca9fbc6c1e6454</item>
+  <offset id="023e16">audit</item>
+  <fixtures id="4849b0">8a337ff60c945eaf</item>
+  <grpc id="9458b4">7236</item>
+  <logs id="42c445">proxy</item>
+  <systemd id="7145b1">6f1e307c672f40c573f6b9795cb96a0b</item>
+  <row id="4daced">28246e58730ab3e054fb8f7e95a66e82</item>
+  <origin id="09fcf5">true</item>
+  <regex id="1f597e">144.236.175.134</item>
+  <config id="bd9c18">row-json</item>
+</root>

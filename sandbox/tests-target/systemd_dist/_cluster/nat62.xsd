@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<btree>
+  <storage id="7a0ed1">107.144.153.86</item>
+  <grafana id="0b8c13">null</item>
+  <frontend id="d1b328">4348</item>
+  <salt id="66e82e">7b0197415a93ddd6</item>
+  <traces id="b5ccd5">offset</item>
+  <registry id="970ade">cron-wireguard</item>
+  <replica id="ea9684">72accbec164560c98b2544e4f73118f0</item>
+  <kerberos id="47d763">a94a771a524a2632</item>
+  <vxlan id="d35e22">249.142.212.52</item>
+</root>

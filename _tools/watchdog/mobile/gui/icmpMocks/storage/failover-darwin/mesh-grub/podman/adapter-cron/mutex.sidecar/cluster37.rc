@@ -1,0 +1,4 @@
+objectschema=hmac
+scriptsprobe=probe-terraform
+table_router=artifact-nightly
+clinat=core

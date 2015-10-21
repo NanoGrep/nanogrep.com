@@ -1,0 +1,41 @@
+[shard]
+sdk_dns = a17984540997fe21
+terraform.dns = cron-scope
+adapter.bootstrap = null
+bootstrapcursor = nat
+scheduler_runner = 7297
+hotfix.middleware = null
+raid_graphql = a2217af6
+runner_fuzz = cluster-adapter
+tests_semaphore = 226.231.177.202
+routerbgp = 7906
+common.object = 117.237.73.117
+graphql_semaphore = 71abb5f17def54db
+legacy_tools = entropy-object
+switch_bucket = lambda
+udpfirewall = salt-row
+dhcp_registry = 2806
+assetslimit = 235.18.171.172
+limit.probe = 2173a6ca332d12ce
+btreescripts = null
+retry.role = 238.159.168.28
+
+[mongo]
+systemdpostgres = bgp-graphql
+assets_pod = 8.54.172.182
+bgp_release = redis-aes
+snapshot.env = 7304
+graphqljenkins = hotfix
+buildrollback = 20.107.31.64
+semaphore_nightly = 3789
+payload_cache = utils
+mutex_wireguard = null
+node_elastic = 6665
+sandbox.backup = abf1cd471e82da5d
+loader_yaml = true
+limit_policy = 8f93783bbd95a5b8f67021d66acd211d
+kerberos.topic = e5c86dfad78f43c2
+tcp.rollback = true
+metrics_jenkins = 7500
+entropycert = artifact-adapter
+compiler_common = 5b6ee5ce

@@ -1,0 +1,10 @@
+stack: templates-mqtt
+middleware: 107.1.246.98
+jenkins: 177.140.94.219
+kerberos:
+  helpers:
+    traces:
+      - 176.53.205.41
+      - 0bc125b410bee2b7
+      - metrics
+  factory: false

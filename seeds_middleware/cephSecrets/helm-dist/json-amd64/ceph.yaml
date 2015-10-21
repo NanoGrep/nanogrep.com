@@ -1,0 +1,36 @@
+btree: null
+bucket: 250.117.28.77
+sdk: null
+zfs:
+  request:
+    locale: 8ea6d1442d0a57d30da647c91651eeb8
+    nat:
+      table:
+        - rsa-dns
+        - lambda-core
+      redis: mqtt-user
+      storage:
+        - null
+        - terraform-object
+        - 06cf665071e67b1f
+        - patch-socket
+      locale: false
+    runner: 2599
+    websocket: 778f68704a01d5e3a0f14627a58f6e31
+    sha256:
+      - true
+      - 375
+      - f2b5e9c8
+      - false
+    vendor:
+      cli:
+        - null
+        - false
+        - 5951
+        - daemon-logs
+      origin: frontend-loader
+      shard: true
+      gateway: registry
+  session: mirror
+socket: daemon-terraform
+hmac: 563

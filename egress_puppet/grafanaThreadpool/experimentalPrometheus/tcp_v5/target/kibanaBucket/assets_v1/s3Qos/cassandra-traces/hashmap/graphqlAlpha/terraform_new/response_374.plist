@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<router>
+  <replica id="57d2af">true</item>
+  <release id="b26dc8">false</item>
+  <release id="3f74e6">241.112.74.215</item>
+  <nat id="e7a73a">644bae99</item>
+  <btree id="f9fcc7">probe-grpc</item>
+  <helpers id="15bfc1">246.18.235.109</item>
+  <backup id="9a943c">cache-logs</item>
+  <raid id="b5175c">null</item>
+  <beta id="83361b">node</item>
+  <kerberos id="fde20c">false</item>
+  <assets id="295a93">true</item>
+  <registry id="7d5470">false</item>
+  <rest id="107223">kafka</item>
+  <fuzz id="f927d0">7339</item>
+  <audit id="bbe404">192.115.138.130</item>
+  <aes id="758f05">null</item>
+</root>

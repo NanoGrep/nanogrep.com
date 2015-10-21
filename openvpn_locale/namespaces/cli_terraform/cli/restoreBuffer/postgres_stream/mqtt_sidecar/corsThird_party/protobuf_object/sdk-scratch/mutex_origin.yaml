@@ -1,0 +1,6 @@
+btree: 50.112.206.78
+ansible:
+  - 90.178.21.69
+  - gateway-crypto
+  - false
+  - 6618

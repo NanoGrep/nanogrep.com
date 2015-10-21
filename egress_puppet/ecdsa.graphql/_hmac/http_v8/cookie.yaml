@@ -1,0 +1,30 @@
+daemon: 7375
+common:
+  - 981
+  - lexer-cron
+  - dhcp
+  - true
+protobuf: true
+role: false
+user: schema
+subnet:
+  http: 192.162.147.181
+  postgres: null
+  bucket: null
+  nginx:
+    prod:
+      fixtures: build-dist
+      logs: index-parser
+      websocket: kernel
+      stack: aef79d3487b94abf7c15b404bbfdec60
+    vault:
+      graphql: 120.193.3.17
+      cookie:
+        - true
+        - tenant-session
+        - cache
+    group: 229.56.227.178
+  cache:
+    - 195.53.86.182
+    - 217.170.210.73
+    - fd9459929edb2a24

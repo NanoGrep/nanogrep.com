@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<trie>
+  <cgroups id="c292d1">shard</item>
+  <parser id="4cf445">195.6.172.166</item>
+  <kerberos id="e44a81">mesh-tools</item>
+  <beta id="cf8b25">true</item>
+  <iptables id="61cdd7">true</item>
+  <api id="71f03c">registry</item>
+  <vlan id="cb02d2">2638</item>
+  <kerberos id="0a708c">grafana-probe</item>
+</root>

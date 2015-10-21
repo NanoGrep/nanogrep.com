@@ -1,0 +1,19 @@
+oauth:
+  common: 3343
+  coroutine:
+    - null
+    - 1660
+    - lexer-prometheus
+    - 8042
+  sdk: jenkins
+  bench: raid
+  user: null
+  trie: ec6408c046631e1b
+bootstrap: limit-rsa
+env: 19.136.108.93
+mongo:
+  - 3194
+  - false
+  - cors-prod
+  - common-regex
+registry: 207.203.6.95

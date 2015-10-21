@@ -1,0 +1,20 @@
+{
+  "registry": {
+    "schema": "44dca72a2277",
+    "parser": 3614
+  },
+  "cert": [
+    {
+      "canary": {
+        "tools": true,
+        "ceph": "9172141de60f",
+        "btree": "assets",
+        "kerberos": true,
+        "beta": "fc5e1bc2c082",
+        "crypto": true
+      }
+    }
+  ],
+  "envoy": "coroutine",
+  "protobuf": []
+}

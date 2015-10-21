@@ -1,0 +1,56 @@
+[
+    {
+        "trie": {
+            "cors": {
+                "nonce": null,
+                "response": false,
+                "mocks": false,
+                "kernel": "cf60f331f65f",
+                "volume": null
+            },
+            "replica": {
+                "kerberos": "common"
+            },
+            "crypto": {
+                "ldap": 4480,
+                "table": "mapper",
+                "nightly": null,
+                "protobuf": "a84d7e890d8f",
+                "jwt": "73835f0d8374",
+                "cache": null
+            },
+            "semaphore": {
+                "loader": 1847,
+                "compiler": false,
+                "stack": false,
+                "sandbox": 5672,
+                "canary": "locale",
+                "fuzz": "514aa0c57e3e"
+            },
+            "switch": [
+                "0aae09b22847",
+                null,
+                null
+            ],
+            "rsa": {
+                "loader": "volume",
+                "tools": true
+            }
+        }
+    },
+    {
+        "tenant": {
+            "nat": [
+                false
+            ],
+            "bloom": [
+                "worker",
+                2908,
+                "2261170de2d5",
+                "nat"
+            ]
+        }
+    },
+    false,
+    1435
+]

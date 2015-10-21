@@ -1,0 +1,42 @@
+http:
+  cron:
+    registry:
+      mapper: 764e0d60b5f568a2
+      heap:
+        - 7068
+        - deb07a47
+        - cors-coroutine
+      btree: hmac
+      scheduler: false
+      index: 11e5fb53
+      payload: session
+    sandbox:
+      tests: 101.72.221.53
+      audit: 9049
+      mutex: 05aa729cf4fd417b1a869ac76f9265d1
+    worker:
+      lib:
+        - e3419c3a
+      tls: 115.18.24.132
+      json: trie-mysql
+      cookie: 254.216.128.43
+      mapper: null
+    ansible:
+      - true
+      - 193.51.92.137
+      - token-nginx
+    regex: 505ffd4e
+  common: 248.159.18.77
+  cookie:
+    - cookie-request
+    - 340243549411697f
+  mysql: 207.201.65.136
+  grafana: 8102
+  mutex: cebd07a6
+row: null
+migrations:
+  request:
+    - 24.93.172.58
+    - 152.251.42.154
+  backend: hmac
+kernel: true

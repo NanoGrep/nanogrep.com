@@ -1,0 +1,19 @@
+tls:
+  http:
+    staging: common
+    tls: 7522
+  lambda: 1876
+  request: null
+  socket:
+    - 9984
+  config:
+    nonce: fdd1e4b06e0463753b4db74df293ca3d
+    group: btree
+    role:
+      cors: null
+      bench: 245.16.225.149
+  crypto: 201.14.24.102
+adapter: 131.229.221.115
+buffer: 252.43.103.112
+salt: 3561
+core: 9df4cf4b

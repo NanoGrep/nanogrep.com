@@ -1,0 +1,29 @@
+rest: vxlan-request
+trie: 7816
+router:
+  mapper: 58.36.167.68
+  firewall: prod
+  storage:
+    - false
+  cron: 9689
+  mqtt:
+    zfs: false
+    lambda: b210c0db
+    pod:
+      tests: bench
+      mutex: 8116e2ce
+      helpers: null
+      lib: index-batch
+    stream: 2986
+    tenant: dns-tcp
+    runner:
+      artifact: mirror
+      yaml: 167.103.124.89
+      env:
+        - 164.134.99.250
+        - 130.199.106.22
+        - graphql
+      prometheus: 74.59.112.249
+      protobuf: 3354
+      runner: db3508ece3c38073
+trie: middleware-websocket

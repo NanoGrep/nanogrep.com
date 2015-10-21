@@ -1,0 +1,12 @@
+ansible_iptables=nat
+auditpolicy=node-shard
+nginx_cluster=171.5.11.42
+lexer.cluster=113.254.21.116
+nginxcontroller=null
+locale_api=1335
+proxy.shard=1adf2b5205f0719240d101668fa1d44b
+benchfuzz=threadpool-mapper
+lambda_sandbox=daemon-policy
+row.stream=192.207.148.189
+storage.threadpool=false
+groupassets=5d2ed7b28416924c1ab170bfb2e17a9c

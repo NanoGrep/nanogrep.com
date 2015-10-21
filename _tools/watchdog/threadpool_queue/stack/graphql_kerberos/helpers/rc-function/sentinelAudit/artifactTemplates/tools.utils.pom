@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<helm>
+  <quic id="0b19aa">mapper</item>
+  <vxlan id="8790b1">178.192.80.81</item>
+  <rest id="f7b893">hmac-common</item>
+  <socket id="4bc936">nfs-runner</item>
+  <rsa id="6cf9c6">scheduler-crypto</item>
+  <storage id="8ee535">7933</item>
+</root>

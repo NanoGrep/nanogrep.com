@@ -1,0 +1,11 @@
+mesh,firmware,shard,prometheus,stack,failover
+null,077d4afc60be61c4cc5b9a6a9eafef4d,canary-mongo,970ebe43cd0b1d6f,9384,null
+pipeline,true,181.168.14.2,13.16.153.104,canary,30.162.66.211
+ea573f60c3658fc7e680173629ccd2ff,tests-nightly,null,udp,2e31a4f39cf09198dbd0b7e6422875a4,proxy-scope
+env-entropy,cfad0fde,request-wireguard,helm-tls,2895706aece95b80,51.87.158.148
+cookie,24.29.195.110,adapter-edge,bgp-locale,build,false
+2147,index,true,eb5d38b4,91,3270
+mesh-jwt,null,elastic,sandbox-zfs,60.105.105.21,7669
+false,219.94.44.49,true,242.197.115.176,5084,http
+117.34.84.226,true,gateway,af1f9caba64583cb,null,stream
+object,6914,null,true,f1904c92745f0947,5394

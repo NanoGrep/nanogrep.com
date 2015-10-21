@@ -1,0 +1,14 @@
+failover:
+  - 8373
+  - snapshot
+  - 221.130.146.144
+oauth:
+  - tools
+  - 1e08d0f91253f599
+  - tls-daemon
+patch:
+  helpers: handler-loader
+  cookie:
+    pipeline: metrics
+    ansible: f2702eb5
+    mysql: 8053

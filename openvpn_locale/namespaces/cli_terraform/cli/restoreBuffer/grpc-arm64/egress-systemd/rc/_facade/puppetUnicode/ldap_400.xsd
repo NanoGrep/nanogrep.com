@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<patch>
+  <staging id="46b1e8">b93159d201eaa591e96a2849c71e45e7</item>
+  <role id="5416a0">common</item>
+  <mesh id="c1156a">http-dhcp</item>
+  <switch id="19ded3">1.203.100.101</item>
+  <session id="b3bc53">54.145.65.109</item>
+  <api id="e9c578">hmac</item>
+  <nonce id="3ade3c">traces</item>
+  <nonce id="167547">301</item>
+  <ldap id="8c3d77">regex-nfs</item>
+  <response id="6f3fd6">true</item>
+  <grpc id="747567">8696</item>
+  <bgp id="20bd74">artifact-nightly</item>
+  <ingress id="b63473">watchdog</item>
+  <cgroups id="ba15f4">214.210.60.181</item>
+  <grafana id="ce9db9">true</item>
+  <locale id="2561c3">53.100.27.161</item>
+  <worker id="860b32">tcp-prod</item>
+  <gateway id="0739cd">middleware-core</item>
+  <middleware id="194b54">mirror</item>
+  <group id="ef717c">134.91.109.230</item>
+</root>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<payload>
+  <ansible id="deb4c1">3413</item>
+  <jenkins id="4bd79f">5414</item>
+  <ldap id="408a7e">8b5f6382</item>
+  <parser id="6ff666">102.82.68.149</item>
+  <artifact id="b6187f">ldap</item>
+  <storage id="afcf79">alerts</item>
+  <api id="f6ad80">true</item>
+  <payload id="af60db">6265a4c813ea9a6e</item>
+  <object id="5c1a52">98ba4299acc5c075</item>
+  <token id="2f3620">147.198.35.167</item>
+  <request id="790698">36.248.37.244</item>
+  <migrations id="b67bdc">110.227.134.201</item>
+  <cron id="50b2ef">77.181.207.76</item>
+  <mapper id="37ca0a">130.50.197.2</item>
+  <mesh id="7a2ba4">6b97c10f2615736d</item>
+  <btree id="b0f2c8">211.150.98.130</item>
+  <iptables id="3e7600">null</item>
+  <fixtures id="2da91c">failover-nonce</item>
+  <role id="e3d061">limit</item>
+  <bootstrap id="614723">aes</item>
+  <mutex id="5d3017">aee05cd2</item>
+  <kafka id="4cd898">proxy</item>
+</root>

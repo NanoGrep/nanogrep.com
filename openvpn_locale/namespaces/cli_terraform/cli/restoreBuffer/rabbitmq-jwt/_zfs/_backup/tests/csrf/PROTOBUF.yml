@@ -1,0 +1,39 @@
+rest:
+  mirror: topic-handler
+  tests:
+    driver: core-envoy
+    metrics:
+      volume: 101.180.242.11
+      cron: null
+      watchdog: driver-firewall
+    daemon: metrics-oauth
+    token:
+      grafana:
+        - c577f10fc82648ab
+        - true
+        - threadpool
+        - 3457
+    redis: 61.220.54.211
+    mocks:
+      adapter: 9665
+      kernel: null
+      queue: e7c57e92
+      prometheus: null
+      storage: user-parser
+  canary:
+    - build-bootstrap
+  gateway: 105.174.15.168
+grpc: locale-cookie
+protobuf:
+  limit:
+    coroutine: ccded086
+  oauth: 148.40.77.23
+  beta:
+    - false
+    - 3127
+    - crypto-aes
+    - watchdog
+  protobuf: 41.250.20.253
+zfs: false
+worker: 7983
+helm: 4519a1c5a423375f

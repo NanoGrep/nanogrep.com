@@ -1,0 +1,101 @@
+{
+    "mqtt": {
+        "ingress": [
+            {
+                "nat": false,
+                "sandbox": null,
+                "utils": 329,
+                "nonce": false,
+                "dhcp": 6754
+            },
+            {
+                "bgp": "column",
+                "zfs": "factory",
+                "stream": "bench",
+                "batch": "57f0295b896b",
+                "middleware": true,
+                "tenant": null
+            },
+            "traces",
+            [
+                "14b092047d70"
+            ]
+        ],
+        "user": "jwt",
+        "jwt": {
+            "nginx": "6eda0f7b4783"
+        },
+        "probe": "cdd89354bda1",
+        "sdk": []
+    },
+    "runner": {
+        "column": {
+            "helpers": {
+                "column": true
+            },
+            "role": []
+        },
+        "token": "3263c03267f9",
+        "hashmap": {
+            "response": null,
+            "quic": {
+                "canary": false
+            },
+            "entropy": null,
+            "cors": {
+                "crypto": true
+            }
+        }
+    },
+    "group": {
+        "factory": "51cf176104a2",
+        "scripts": {
+            "bench": [],
+            "postgres": [
+                true,
+                "487bb7fc2fff",
+                false
+            ],
+            "scripts": {
+                "mirror": false,
+                "tls": "2c31ae3a453f",
+                "udp": "tests",
+                "response": true,
+                "graphql": true,
+                "helpers": null
+            },
+            "stream": true
+        }
+    },
+    "compiler": {
+        "tools": {
+            "dns": {
+                "daemon": false,
+                "nightly": "ad9d98a0f1ab",
+                "vendor": 6379,
+                "cache": "bloom",
+                "wireguard": false,
+                "ansible": 9596
+            },
+            "grpc": [
+                2796,
+                null,
+                null
+            ],
+            "node": [
+                false
+            ]
+        },
+        "postgres": "9de02ef0e7f8",
+        "json": {
+            "entropy": {
+                "systemd": false,
+                "terraform": 9082,
+                "config": false,
+                "logs": null
+            }
+        },
+        "semaphore": 753,
+        "templates": 1872
+    }
+}

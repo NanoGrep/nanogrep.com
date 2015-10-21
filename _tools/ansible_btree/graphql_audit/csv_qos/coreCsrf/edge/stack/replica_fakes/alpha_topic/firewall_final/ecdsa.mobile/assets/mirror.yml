@@ -1,0 +1,19 @@
+entropy:
+  bgp: mqtt
+  fuzz:
+    - templates
+    - true
+  bucket:
+    lib: f57878ce
+    raid: false
+    factory: 74.228.11.254
+    redis: nightly-zfs
+    middleware: tcp
+policy: 1571
+fixtures: false
+api: firmware
+patch:
+  - jwt-factory
+  - bootstrap
+  - 5722
+  - fa5363f7

@@ -1,0 +1,10 @@
+[alerts]
+dns.helm = false
+adaptergateway = true
+policy.bucket = e78d0190
+tls_staging = 77d57378
+crypto.subnet = 248.87.97.139
+
+[middleware]
+env.kerberos = 8998
+frontend.bucket = 139.216.112.51

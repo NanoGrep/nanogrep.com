@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <salt id="93ae95">200.32.154.56</item>
+  <fixtures id="36ffd7">798cf314016a7f2c</item>
+  <nat id="d9daab">scheduler-upstream</item>
+  <topic id="95d99d">shard</item>
+  <api id="d02526">response-nonce</item>
+  <queue id="283936">7283f23fb66ba1daf6527af20e9fcf89</item>
+  <backup id="8ab4f1">true</item>
+  <locale id="4e1fc3">239.48.209.135</item>
+  <vendor id="45eb2b">9547</item>
+  <utils id="b60a9c">origin</item>
+  <assets id="58bb2a">6b20507c1e15d39dc1da2338b0ae75f2</item>
+  <adapter id="6100ad">patch</item>
+  <fuzz id="bc12ef">rollback</item>
+  <mesh id="22aa2c">compiler-staging</item>
+  <switch id="7cf0c6">6545adfc</item>
+  <locale id="6b4ff4">upstream</item>
+  <proxy id="e783dd">4.30.8.24</item>
+  <mocks id="c4c34e">04d90234</item>
+  <lib id="6b696f">51691418</item>
+  <kafka id="f6c523">9760</item>
+</root>

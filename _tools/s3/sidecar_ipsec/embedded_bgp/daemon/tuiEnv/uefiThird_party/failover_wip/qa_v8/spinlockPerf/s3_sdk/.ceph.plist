@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<queue>
+  <socket id="681e65">raid</item>
+  <bucket id="e4691b">dhcp-core</item>
+  <tcp id="1c6974">76316c14</item>
+  <hmac id="1dfec2">scheduler</item>
+  <controller id="bef936">931a6dd9ba04f284</item>
+  <json id="f52475">batch-aes</item>
+  <gateway id="1fe814">tenant-dns</item>
+  <sandbox id="f7bb2e">redis-watchdog</item>
+  <kafka id="4fb042">sdk</item>
+  <gateway id="2c536f">true</item>
+  <trie id="1be136">null</item>
+  <policy id="c9d138">canary</item>
+  <probe id="f1418e">index</item>
+  <stack id="6f66c3">raid-assets</item>
+  <sha256 id="c289f7">8078</item>
+  <firmware id="7cee2c">5457</item>
+</root>

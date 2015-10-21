@@ -1,0 +1,61 @@
+[dns]
+buildbatch = 3011
+hotfixfirmware = false
+logs.fixtures = 6577
+probe_config = 228
+schema.artifact = raid-cert
+cors.semaphore = 233
+runner_grafana = null
+mesh.api = proxy
+runner.hotfix = 126.247.103.25
+graphqlcontroller = 8717
+vendorgroup = kafka-rollback
+retry.subnet = volume-tenant
+limit.ldap = prometheus-middleware
+alerts_legacy = 94ca0c2bc83afdb65b8f8b430fc6093c
+pipeline_policy = batch-firewall
+cursorcanary = 4c35a3a623efa2b3ba02aae62bde32f3
+jenkinsgrpc = fb872e60d16e8781
+lambdametrics = shard-offset
+subnet_hmac = heap
+utilspipeline = pod
+mongo.rollback = middleware
+hashmap.vault = snapshot
+tenant_aes = 0d0b015a0bd50e80af94eb9a1cc9410a
+runner.mysql = hmac-stack
+index_assets = c752698e
+cache.kerberos = true
+
+[utils]
+tcp_handler = snapshot-volume
+redismirror = 4181
+fuzz.vlan = 536
+postgres.topic = 1806
+limit.switch = http-tls
+tlsvolume = false
+jwt.cache = traces-oauth
+yamlregex = heap-traces
+websocketupstream = templates-object
+tokencontroller = dba12be26efaa819
+vxlan.helm = subnet
+jwt_salt = router-nginx
+hotfixrest = true
+batch_mutex = true
+zfscommon = null
+firmware.tests = 77.175.120.58
+regex.traces = 6718
+mysql.hmac = null
+handler.failover = 3353
+fixtures.retry = 1875
+coreansible = 57.146.113.159
+
+[jenkins]
+assets_utils = semaphore-hotfix
+mesh.bench = handler
+lexer_worker = rollback-sdk
+firmwareshard = bloom
+websocket.vault = 38966ab1
+patch_scheduler = alerts-worker
+helpers_rest = 5319
+prometheusthreadpool = af25041b06bcb723
+heapaes = d3dfc9c25325fb75

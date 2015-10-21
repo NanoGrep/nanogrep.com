@@ -1,0 +1,14 @@
+staging: 07091269
+kerberos: 192.162.254.204
+user:
+  lexer: vlan-tenant
+  storage:
+    lexer: 194.34.27.179
+    traces: 144.148.164.193
+    udp: 921f4e5b
+kafka:
+  threadpool: bloom-kafka
+pipeline:
+  - prometheus
+  - column
+  - a7fff838

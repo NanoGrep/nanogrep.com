@@ -1,0 +1,6 @@
+{
+  "aes": false,
+  "bucket": {
+    "cors": false
+  }
+}

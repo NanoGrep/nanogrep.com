@@ -1,0 +1,28 @@
+elastic:
+  scheduler: true
+  terraform: 76.114.81.247
+  subnet: 571
+  role: 42.51.177.115
+  index: 00f05bfa4a291d25
+  bootstrap:
+    rollback: 94.19.45.149
+    terraform:
+      legacy: yaml
+      limit:
+        - ingress-replica
+    cluster:
+      regex:
+        - 4742
+        - 70.215.31.86
+      common: 219.133.227.150
+      legacy: true
+      shard: 3259
+      cache:
+        - systemd
+      buffer: 194.8.160.229
+    mirror: 4619
+    hotfix:
+      - d4307691397c00c8a8ec07f4aa908367
+      - replica-nightly
+      - tls-session
+nat: 41.224.132.247

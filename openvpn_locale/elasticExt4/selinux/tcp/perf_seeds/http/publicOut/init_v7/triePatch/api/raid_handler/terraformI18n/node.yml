@@ -1,0 +1,17 @@
+user:
+  websocket: graphql
+  rest:
+    alerts:
+      queue: null
+      release: 108.105.103.239
+    snapshot:
+      scheduler: 6432
+  lib: worker-mirror
+origin: 3135
+tenant: 114.54.117.239
+vlan: 9741
+cert: probe
+mirror:
+  salt: firewall-parser
+  kerberos: templates
+  ceph: true

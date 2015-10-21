@@ -1,0 +1,27 @@
+jwt:
+  token: 2951
+  bloom: 6049
+  storage: beta
+  group:
+    cert:
+      table: 7905
+    trie: null
+    edge: null
+    ceph: 9fc0ba72
+  graphql: 14.40.219.111
+  hotfix:
+    grafana:
+      mapper:
+        - btree-assets
+        - bucket-topic
+      legacy: 50028ad2
+      kernel: mutex-batch
+      beta: bench-edge
+      locale: true
+      failover: 195
+sdk: volume-fixtures
+fixtures: true
+group:
+  core: null
+  mesh: 111.53.165.71
+  socket: bgp

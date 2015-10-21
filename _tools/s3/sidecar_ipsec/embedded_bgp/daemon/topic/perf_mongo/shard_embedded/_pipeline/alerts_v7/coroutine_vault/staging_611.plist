@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<nonce>
+  <audit id="f1077e">9e2e703f5c861d0544a846fee0652123</item>
+  <scheduler id="9afed1">replica-bootstrap</item>
+  <helm id="dc1eb2">regex</item>
+  <common id="b153b1">cache</item>
+  <vendor id="581338">bgp-daemon</item>
+  <grafana id="9b079d">2501</item>
+  <proxy id="6630e6">trie-json</item>
+  <upstream id="64c21e">2107</item>
+  <nat id="2a690a">163.199.184.238</item>
+  <grafana id="cfb6b8">d5fa26c78fec176c31b809b622510bbb</item>
+  <trie id="2cbef9">6901</item>
+  <http id="37081c">volume-oauth</item>
+  <build id="d1b597">migrations-cluster</item>
+  <zfs id="b66f90">1e1e72b5</item>
+  <jenkins id="816fc7">probe-scheduler</item>
+  <yaml id="f1c4d0">udp-grpc</item>
+  <canary id="c1814e">object-jenkins</item>
+  <beta id="9c63a2">993161d8f6e2d8f5</item>
+  <upstream id="051ff2">oauth</item>
+  <aes id="9d539e">6079</item>
+  <kerberos id="48e162">true</item>
+  <scripts id="71df66">storage-ansible</item>
+  <volume id="77e222">lambda-tests</item>
+</root>

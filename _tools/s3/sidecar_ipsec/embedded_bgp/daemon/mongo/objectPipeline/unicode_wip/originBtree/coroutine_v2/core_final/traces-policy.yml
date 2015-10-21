@@ -1,0 +1,21 @@
+tenant: 9461
+staging:
+  - dist-policy
+bench:
+  pod: false
+  zfs:
+    nginx: 6489586d8780b461
+    frontend: 4115
+  cert:
+    storage:
+      - false
+      - udp
+    socket: f8ee296c3abf44e3
+    cors: 9860
+    terraform: 5787
+    policy:
+      payload: null
+      rest: 127.213.167.180
+      socket: 226.247.86.124
+      bench: kernel-vlan
+  subnet: null

@@ -1,0 +1,12 @@
+iptables: 1745
+ansible: true
+vxlan:
+  stack: false
+  vendor: false
+  nightly: true
+queue:
+  - 119.235.247.99
+  - 129.152.212.23
+  - payload-dns
+token: kernel
+tenant: 27b42b0f84969a50e489ff31f45fce4b

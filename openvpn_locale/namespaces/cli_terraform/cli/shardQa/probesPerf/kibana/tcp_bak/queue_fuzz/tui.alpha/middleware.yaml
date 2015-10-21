@@ -1,0 +1,16 @@
+trie:
+  - 628
+  - 5274
+  - bgp
+  - null
+frontend:
+  legacy:
+    udp:
+      common: 221.154.195.6
+      elastic:
+        - 9651
+    mongo:
+      socket: 77.21.201.176
+      audit:
+        - kerberos
+  index: node

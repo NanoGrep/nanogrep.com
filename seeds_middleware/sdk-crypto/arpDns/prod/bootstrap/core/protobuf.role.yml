@@ -1,0 +1,5 @@
+oauth: elastic
+traces: 8949
+crypto: true
+sandbox:
+  - 0679f700

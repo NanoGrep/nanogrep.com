@@ -1,0 +1,42 @@
+{
+    "mysql": {
+        "socket": true,
+        "mongo": null
+    },
+    "upstream": {
+        "helpers": [
+            [],
+            {
+                "origin": "schema",
+                "threadpool": false
+            },
+            false,
+            {
+                "offset": true,
+                "vendor": false,
+                "scripts": null,
+                "tenant": null,
+                "sha256": 4376
+            }
+        ],
+        "fixtures": {
+            "beta": {
+                "oauth": 4468,
+                "nat": "mongo",
+                "stack": "nat",
+                "mqtt": "a97d315346ef",
+                "vxlan": null
+            },
+            "api": {
+                "vxlan": "3c2a093c019b"
+            },
+            "stream": {
+                "table": "3a51f5be6bff",
+                "mongo": false,
+                "handler": null
+            }
+        },
+        "replica": "b1010aa35ac4",
+        "object": "59379c0f6de2"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "migrations": {
+        "entropy": {
+            "websocket": {
+                "backup": "08afc9d62d4c",
+                "core": null
+            },
+            "sandbox": {
+                "daemon": "443d01dae6d8",
+                "release": 6560,
+                "core": "index",
+                "elastic": "tls",
+                "nightly": "44c60f374131",
+                "kernel": "systemd"
+            },
+            "cert": false
+        },
+        "router": [
+            true,
+            {
+                "column": "cluster",
+                "utils": false,
+                "heap": false,
+                "quic": null,
+                "fixtures": null
+            },
+            {
+                "ldap": true,
+                "column": false,
+                "pod": 1526
+            },
+            []
+        ],
+        "bloom": {
+            "metrics": 2633,
+            "schema": {
+                "bench": "fde0633f7ae2",
+                "traces": 201,
+                "mqtt": "97fe5bd075c6",
+                "templates": 4081,
+                "failover": "cors"
+            }
+        },
+        "common": [
+            "ceph",
+            {
+                "volume": "watchdog",
+                "websocket": "44a95349cb76",
+                "common": "4986b5f2e474",
+                "threadpool": 3150
+            },
+            null
+        ],
+        "volume": {
+            "envoy": "edge",
+            "terraform": false,
+            "probe": "0a1826817332",
+            "tools": {
+                "row": "b80c6a2ef0b3"
+            },
+            "nat": {
+                "cert": null,
+                "topic": true,
+                "grafana": true,
+                "jenkins": true,
+                "controller": false,
+                "socket": null
+            },
+            "shard": null
+        },
+        "table": "0b3158a9bf09"
+    }
+}

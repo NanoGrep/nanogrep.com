@@ -1,0 +1,9 @@
+templatesnonce: 4804
+useredge: patch-loader
+cursor.sdk: false
+crypto.systemd: false
+snapshot.sandbox: 143.224.24.92
+batch.cli: 164.237.86.210
+wireguardrole: parser-nat
+disthandler: 5949
+node_entropy: config

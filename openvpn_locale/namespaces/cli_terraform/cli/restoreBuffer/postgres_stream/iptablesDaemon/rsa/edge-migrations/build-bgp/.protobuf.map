@@ -1,0 +1,47 @@
+{
+  "regex": false,
+  "zfs": "c298a66db3df",
+  "wireguard": {
+    "stream": true,
+    "response": true
+  },
+  "helpers": {
+    "registry": {
+      "role": {
+        "table": false,
+        "mocks": 5158,
+        "cli": null,
+        "tenant": "nat"
+      },
+      "socket": false,
+      "audit": "1a52b4fc2d93",
+      "common": {
+        "alerts": null,
+        "jenkins": "9c42cf981dc0",
+        "gateway": false,
+        "zfs": true,
+        "adapter": false,
+        "raid": false
+      },
+      "elastic": false
+    },
+    "tls": "row",
+    "vendor": "0b22382570ee",
+    "graphql": {
+      "hotfix": "pod",
+      "vxlan": null,
+      "cli": true,
+      "vault": {
+        "ldap": null,
+        "kernel": null,
+        "udp": 5799,
+        "bootstrap": null
+      },
+      "salt": "bucket",
+      "edge": false
+    },
+    "scope": 9261,
+    "legacy": false
+  },
+  "registry": false
+}

@@ -1,0 +1,11 @@
+[terraform]
+mutex.systemd = 9750
+common.handler = false
+ingresscommon = 16.161.191.164
+kerberosswitch = 3501
+websocketnode = 6.50.190.182
+legacy_graphql = stream
+mocks.redis = 90.102.141.7
+pipeline.api = 206.90.119.127
+buffer.release = prometheus-quic
+restsubnet = 9896670e976ca835

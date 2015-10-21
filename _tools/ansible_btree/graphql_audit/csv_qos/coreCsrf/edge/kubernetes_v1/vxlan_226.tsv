@@ -1,0 +1,11 @@
+shard,prod
+udp-fixtures,ceph-env
+aca5946cfec665479a2224f425cef3ae,4a5ae99f0861cd42d4c058f00eb2a2e4
+false,9109
+true,true
+7e7e9673a4cbe01c,replica-nfs
+true,7418
+225.114.76.136,9495
+true,6.53.13.129
+null,8074
+164.239.245.179,false

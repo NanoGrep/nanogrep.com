@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<nightly>
+  <sandbox id="ea0089">null</item>
+  <rsa id="c5e1af">2089</item>
+  <websocket id="2b8bf0">cgroups-nginx</item>
+  <heap id="610df2">switch-parser</item>
+  <stream id="9db2d0">3f0b08de</item>
+  <replica id="0a6d81">dist</item>
+  <column id="98dd70">rsa-cron</item>
+  <factory id="5dda75">migrations</item>
+  <factory id="28b9dd">131.165.136.212</item>
+  <stack id="9dfd43">247.162.50.157</item>
+  <api id="fdc8fe">0d37b83a</item>
+</root>

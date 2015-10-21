@@ -1,0 +1,32 @@
+{
+    "bgp": {
+        "row": {
+            "metrics": [
+                "ca2ecb13197e",
+                8674,
+                null,
+                "worker"
+            ],
+            "zfs": false,
+            "traces": true
+        },
+        "middleware": {
+            "cors": null
+        },
+        "dns": true,
+        "mocks": {
+            "payload": {
+                "ldap": 6253,
+                "socket": 2014,
+                "semaphore": "740c5bc091f5",
+                "switch": null,
+                "lambda": 4598,
+                "registry": true
+            }
+        },
+        "origin": []
+    },
+    "traces": "handler",
+    "mocks": true,
+    "oauth": "rest"
+}

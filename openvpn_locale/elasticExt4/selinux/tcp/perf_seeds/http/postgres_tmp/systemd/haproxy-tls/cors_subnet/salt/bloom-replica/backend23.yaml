@@ -1,0 +1,27 @@
+schema: snapshot
+adapter: cert
+env:
+  - true
+  - false
+  - 6586
+edge:
+  migrations: aes
+  stream: 1133
+  kafka:
+    - payload-oauth
+    - b5965fc0e4c4b1595de2872b4e6ce4a7
+    - 103cfbcb
+  stack:
+    firmware:
+      vxlan: yaml-node
+      patch: adaf49c1b2e75fd171c6d143d2c228c1
+      elastic: null
+      parser: 963ff782ffe92b50
+      mirror: 3b1f2ed96f28eff7
+    env: aes
+    salt: 330
+    systemd: 2096
+    mapper: cluster
+  probe: utils
+registry: heap-env
+quic: pod-role

@@ -1,0 +1,5 @@
+mocks: ad962e424e3f4b4a62ee2bb53e5bfeae
+prod: 6099
+bloom: 733
+scheduler:
+  table: kerberos-cron

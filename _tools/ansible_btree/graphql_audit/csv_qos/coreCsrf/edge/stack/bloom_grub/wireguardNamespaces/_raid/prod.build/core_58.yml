@@ -1,0 +1,23 @@
+common: null
+common:
+  - 38.34.253.161
+  - 00f7a65ee1815db486f135a3cc00042c
+fuzz:
+  semaphore:
+    cursor: 0cf06cc6
+    cursor: salt-table
+    tls: worker
+  proxy:
+    - jenkins
+    - f4099f7b
+  logs:
+    - kernel-subnet
+    - 76.238.21.205
+  btree: null
+  threadpool:
+    - 2127
+    - 8.238.190.248
+    - 179.217.132.174
+  socket: firmware-ansible
+cluster:
+  tcp: release-dhcp

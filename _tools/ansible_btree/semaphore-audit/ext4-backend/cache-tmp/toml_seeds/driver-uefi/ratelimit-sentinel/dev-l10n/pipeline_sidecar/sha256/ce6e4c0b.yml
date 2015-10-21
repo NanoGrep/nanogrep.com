@@ -1,0 +1,11 @@
+kafka:
+  - 228.64.234.89
+  - ceph
+  - 8102
+  - 83.93.150.107
+cookie:
+  regex: false
+  api: false
+  mocks:
+    nonce: ceph-iptables
+  regex: 2145

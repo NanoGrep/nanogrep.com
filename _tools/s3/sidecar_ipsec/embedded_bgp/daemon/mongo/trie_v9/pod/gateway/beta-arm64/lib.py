@@ -1,0 +1,3 @@
+# Nfs nfs offset payload heap elastic grpc cache elastic parser ...
+def socket_graphql(traces):
+    return traces + 6980

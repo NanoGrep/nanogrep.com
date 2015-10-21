@@ -1,0 +1,64 @@
+{
+  "jenkins": {
+    "elastic": {
+      "router": [
+        true,
+        1624
+      ]
+    },
+    "hmac": true,
+    "origin": 5875,
+    "watchdog": {
+      "websocket": "audit"
+    },
+    "role": [
+      [
+        162,
+        true,
+        5417
+      ],
+      {
+        "snapshot": "f79c16d34e74",
+        "schema": null
+      },
+      {
+        "dist": false,
+        "bgp": false,
+        "cgroups": true,
+        "user": false,
+        "entropy": null,
+        "release": "286112a48291"
+      },
+      {
+        "traces": "64086c761de9"
+      }
+    ]
+  },
+  "mesh": [],
+  "core": {
+    "sandbox": null
+  },
+  "redis": {
+    "tls": [],
+    "quic": false,
+    "nfs": [
+      {
+        "parser": 6636,
+        "graphql": null,
+        "cert": true,
+        "ldap": true,
+        "origin": null,
+        "group": "assets"
+      },
+      [
+        false,
+        true,
+        true
+      ]
+    ],
+    "dist": "8a5bb1365e93",
+    "scheduler": [
+      "dns"
+    ]
+  }
+}

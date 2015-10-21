@@ -1,0 +1,53 @@
+{
+  "nightly": false,
+  "origin": {
+    "worker": 878
+  },
+  "build": "backup",
+  "jenkins": {
+    "aes": [
+      false
+    ],
+    "batch": {
+      "offset": {
+        "legacy": "de2021c2a133"
+      },
+      "mesh": false,
+      "dhcp": {
+        "response": false,
+        "protobuf": "queue"
+      },
+      "traces": 4224
+    },
+    "index": {
+      "token": 9065,
+      "websocket": {
+        "api": "stream",
+        "payload": null,
+        "entropy": "backup",
+        "scripts": "efaf2327e102",
+        "assets": "worker"
+      },
+      "release": {
+        "proxy": null,
+        "lexer": "cgroups",
+        "cors": null
+      },
+      "firewall": {
+        "kafka": true,
+        "assets": 1026,
+        "helm": null
+      },
+      "object": []
+    },
+    "scope": {
+      "edge": 4032,
+      "redis": true,
+      "snapshot": {
+        "backup": null
+      }
+    },
+    "canary": "locale"
+  },
+  "canary": null
+}

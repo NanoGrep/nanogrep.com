@@ -1,0 +1,31 @@
+[
+  {
+    "bench": {
+      "tcp": {
+        "hotfix": 5049
+      },
+      "helpers": []
+    },
+    "raid": {
+      "row": true,
+      "controller": [],
+      "vault": {
+        "fixtures": true,
+        "staging": null,
+        "heap": 4135,
+        "prometheus": false,
+        "assets": "legacy",
+        "fuzz": "dae50c13b627"
+      },
+      "templates": {
+        "object": "socket"
+      },
+      "ldap": {
+        "offset": false
+      }
+    }
+  },
+  {
+    "column": null
+  }
+]

@@ -1,0 +1,7 @@
+topic: 1248
+mirror: oauth
+firewall:
+  - 91.79.51.144
+  - 136.147.232.197
+  - 195.30.156.141
+offset: true

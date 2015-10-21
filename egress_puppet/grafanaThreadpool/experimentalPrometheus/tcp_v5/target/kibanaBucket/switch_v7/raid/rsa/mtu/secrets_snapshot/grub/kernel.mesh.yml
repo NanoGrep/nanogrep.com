@@ -1,0 +1,33 @@
+schema: 3563
+firmware:
+  templates:
+    jenkins: edge-factory
+    mqtt:
+      adapter: 371
+      response: env
+      postgres: 6320
+      mapper: null
+      redis: build
+      jenkins: false
+    mysql:
+      stack: 32ccac5384dad663
+      compiler:
+        - schema-jenkins
+    nightly: stack-rsa
+    nonce:
+      prod: payload-alerts
+      nat: 6420
+      tcp: token-cursor
+      pipeline: retry-vendor
+    rsa:
+      ceph: false
+      worker: 51.81.31.67
+      replica:
+        - 1034
+        - mapper
+        - table
+        - null
+      snapshot: tcp-staging
+      gateway: false
+sandbox: false
+proxy: nonce

@@ -1,0 +1,60 @@
+proxy: false
+token:
+  node:
+    build:
+      topic: quic
+    volume: 156.225.162.205
+    artifact: 477
+    cursor:
+      lib:
+        - 2646
+        - 8089
+      systemd: build-crypto
+    redis: 34.70.17.208
+    cgroups: true
+  ldap: a796801a5c200fe5
+  hotfix: 122.252.250.75
+  helpers:
+    assets: null
+    beta: controller
+    graphql: bootstrap-salt
+    switch: false
+    nat: 216.227.245.175
+  vault: 7603
+  cache:
+    - 214.201.57.200
+    - 8471
+    - graphql-dhcp
+zfs: 1104
+ceph: 5001
+switch:
+  vxlan:
+    limit:
+      migrations: adapter-worker
+      websocket: 2943
+      edge: redis-prometheus
+    service: 4325
+    storage:
+      compiler: 149.84.11.251
+      probe: null
+    mongo: 218.7.83.118
+    stream:
+      edge: 28.102.56.132
+      batch: 3477391337a70bde
+      response: 219.200.41.80
+      queue: 214.124.212.206
+      index: 90.199.156.239
+      mysql: bench-subnet
+    bootstrap: 7e81fbe5
+  router:
+    bgp:
+      tests: true
+      lambda:
+        - 246.25.49.183
+    nginx: 187e0995
+  utils:
+    - 6.146.21.247
+    - 191.79.249.53
+    - 235.136.151.83
+    - null
+  parser: 4961

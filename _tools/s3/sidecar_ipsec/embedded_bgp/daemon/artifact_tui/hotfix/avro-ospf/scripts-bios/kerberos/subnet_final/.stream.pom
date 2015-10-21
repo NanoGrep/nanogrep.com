@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<tls>
+  <cache id="ebb10d">245.224.72.139</item>
+  <kerberos id="2a089c">ceph-http</item>
+  <role id="bb81ee">true</item>
+  <service id="65374e">salt-dist</item>
+  <cert id="64e606">queue-session</item>
+  <alerts id="e062e2">af21322334bfc9c40c2ff0399841689f</item>
+  <api id="614594">queue-kafka</item>
+</root>

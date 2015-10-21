@@ -1,0 +1,41 @@
+{
+    "assets": null,
+    "daemon": {
+        "heap": 3408,
+        "regex": {
+            "aes": [
+                729
+            ],
+            "metrics": null
+        },
+        "snapshot": null,
+        "tenant": {
+            "kerberos": {
+                "tests": "cors",
+                "websocket": "8fcbbf0793df",
+                "helpers": 3187
+            },
+            "quic": [],
+            "lexer": {
+                "pipeline": "f49c2199c2ec",
+                "graphql": 1026,
+                "websocket": false,
+                "protobuf": null
+            },
+            "scope": false,
+            "volume": false,
+            "snapshot": "9c39e49940e5"
+        },
+        "object": [
+            "prometheus",
+            null,
+            "7936c432f4e9"
+        ]
+    },
+    "tests": {
+        "btree": "0272bc900219"
+    },
+    "queue": null,
+    "pod": null,
+    "tools": 1099
+}

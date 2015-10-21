@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<core>
+  <tools id="562317">group-artifact</item>
+  <tools id="d0a465">87.96.112.220</item>
+  <bgp id="c4bfef">jwt-upstream</item>
+  <grafana id="3493bf">mysql-http</item>
+  <nginx id="fb82de">true</item>
+  <batch id="b7e7ba">lib-column</item>
+  <yaml id="45c7fc">null</item>
+  <helpers id="1d2732">true</item>
+  <btree id="a8a700">4196</item>
+  <object id="f20fe3">cors-proxy</item>
+  <regex id="d3f617">6259</item>
+  <canary id="1c3e34">1909</item>
+  <edge id="e2d8a2">mocks-daemon</item>
+</root>

@@ -1,0 +1,107 @@
+{
+    "systemd": {
+        "postgres": [
+            {
+                "zfs": "ec4937c2db84",
+                "helm": 6621,
+                "pipeline": 6162,
+                "terraform": null,
+                "grafana": true,
+                "prod": false
+            }
+        ],
+        "rsa": {
+            "ldap": 7912,
+            "column": {
+                "cert": "shard",
+                "regex": null,
+                "column": false
+            },
+            "prod": {
+                "assets": 7286,
+                "factory": false,
+                "snapshot": 6374
+            },
+            "mysql": {
+                "subnet": "cron",
+                "backup": true,
+                "quic": "0c69e4543146",
+                "response": true
+            },
+            "vxlan": [
+                true,
+                8398,
+                null
+            ]
+        },
+        "replica": [
+            "511db11b1f32"
+        ],
+        "vault": null
+    },
+    "nat": [
+        [
+            true
+        ],
+        {
+            "sdk": {
+                "parser": "threadpool",
+                "build": "storage",
+                "jwt": true,
+                "mocks": true,
+                "logs": true,
+                "postgres": "request"
+            },
+            "websocket": 4622,
+            "mocks": [
+                369,
+                "393f8a733f02",
+                null,
+                8340
+            ],
+            "topic": {
+                "grpc": "mqtt"
+            },
+            "audit": false
+        },
+        []
+    ],
+    "nfs": false,
+    "factory": "hashmap",
+    "cert": {
+        "payload": [
+            null
+        ],
+        "nat": false,
+        "cgroups": {
+            "index": {
+                "grpc": false,
+                "postgres": true,
+                "prometheus": null,
+                "scripts": "1159c39c027f"
+            },
+            "lambda": {
+                "patch": false
+            },
+            "iptables": {
+                "coroutine": null,
+                "json": 3763,
+                "hotfix": "cookie",
+                "common": 2759,
+                "http": "fc6a46007d80"
+            },
+            "terraform": [
+                2956
+            ],
+            "helpers": {
+                "ansible": false,
+                "registry": true,
+                "hotfix": false,
+                "shard": true,
+                "traces": false,
+                "regex": null
+            }
+        },
+        "proxy": true
+    }
+}

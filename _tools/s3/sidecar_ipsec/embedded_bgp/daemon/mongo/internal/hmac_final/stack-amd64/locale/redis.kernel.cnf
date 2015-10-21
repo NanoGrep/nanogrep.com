@@ -1,0 +1,31 @@
+[retry]
+ceph.semaphore = trie-trie
+buffernightly = socket-daemon
+lambdalib = 9937
+session_cache = 7210
+kafka.handler = mirror
+fixturesrelease = db6bcefb316c8a430514d2a6eba9f654
+sdkyaml = e1228449c7091a27e97b9a0b1cebc1d6
+firewall_elastic = ceph
+session.mongo = 126.72.142.72
+cursor_upstream = 2990
+sandboxhandler = mirror
+jenkinsfixtures = 02e8102c4469f4d2c98a4273e51edeb2
+
+[cli]
+backup.kerberos = 7245
+fuzzcache = 228.28.123.80
+wireguard.cursor = 9320aa589ba81cab
+tools_router = rollback
+utilsoffset = cdd8137dcce8b5d7
+grafana_buffer = pod-cert
+salt_parser = 84a24622ee76ce84
+cursor_hmac = 135.184.126.197
+offsetparser = crypto-postgres
+iptables_vault = 41ac2b8c
+zfssalt = 1773acfa3c718d80
+alertsbuffer = 93d4ba100018f3b8d6f7c36bc5d4b94c
+volume.tcp = 220.200.53.54
+protobuforigin = 49.246.51.118
+rsabuild = 9397
+limit_frontend = b1589708

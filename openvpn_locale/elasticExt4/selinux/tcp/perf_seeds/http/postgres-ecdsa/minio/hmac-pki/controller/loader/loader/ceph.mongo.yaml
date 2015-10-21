@@ -1,0 +1,24 @@
+legacy: true
+envoy: false
+grpc:
+  index: 39b03d77f83064d0
+  fuzz:
+    - 39
+    - 6954
+  topic: 170.124.3.35
+  mongo: ingress-fixtures
+  registry: table-watchdog
+  bench:
+    shard: true
+    node:
+      mocks: null
+      session: canary
+    config: mesh-socket
+    wireguard: loader
+    vendor:
+      bench:
+        - 5497
+        - 9440
+        - 131.9.57.105
+    offset: 9418
+factory: 1f922c920bdf70b7

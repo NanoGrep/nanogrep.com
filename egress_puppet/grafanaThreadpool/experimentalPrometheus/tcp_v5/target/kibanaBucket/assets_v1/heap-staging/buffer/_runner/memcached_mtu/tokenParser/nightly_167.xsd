@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<elastic>
+  <mesh id="38d39e">6aa3daaeff4d570b</item>
+  <driver id="83da11">false</item>
+  <node id="d5a5b8">7434</item>
+  <parser id="ef17ce">7124802952008ccc</item>
+  <origin id="dee5da">131.32.184.220</item>
+  <firmware id="223fed">9753</item>
+  <column id="d83176">lexer-object</item>
+  <crypto id="e9313b">wireguard-kafka</item>
+  <topic id="fbaa4b">3bba1496</item>
+  <nonce id="26c02c">670c9387efbd4de5087698f277d97274</item>
+  <frontend id="0075cc">rollback-grafana</item>
+  <bootstrap id="fae5a9">null</item>
+  <backup id="7f3204">200d7891</item>
+  <firmware id="15ded1">83.24.251.137</item>
+  <token id="962f04">89.53.183.174</item>
+  <cli id="2787aa">ceph</item>
+  <sha256 id="5d1c7a">nginx-group</item>
+  <fuzz id="a751ca">6302</item>
+  <iptables id="4eaff8">topic</item>
+  <socket id="c2e2f3">false</item>
+  <bgp id="ad3cae">false</item>
+  <entropy id="dd2ad4">iptables</item>
+  <batch id="d9ed8a">ee7818928e338bc5</item>
+  <user id="6a9be5">2612</item>
+</root>

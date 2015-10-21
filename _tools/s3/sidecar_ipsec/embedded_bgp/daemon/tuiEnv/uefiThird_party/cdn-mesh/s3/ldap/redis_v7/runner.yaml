@@ -1,0 +1,50 @@
+stream:
+  assets:
+    - null
+    - nginx
+  ldap: mongo-retry
+  lib: cluster-proxy
+  proxy: 4e100cdc16b1952394a0f352db254f7e
+  udp:
+    elastic: quic
+    scheduler: cluster
+    scope: fff10656c2e6615b3cbd043c11aa575c
+    mqtt: artifact-cert
+    rest: false
+    udp:
+      - null
+      - vlan
+  cluster: 3319
+hotfix:
+  node: false
+  group:
+    - null
+ingress: a6491a6060c34914f4825a27df7cb39b
+role: null
+gateway:
+  mongo: b602500f337a4da0a5dbab4adedca1ca
+  rest:
+    nginx:
+      response: 5765
+      adapter: firmware
+      btree: false
+      mapper: afa71f41
+      prod: audit
+    ingress: mesh-quic
+    stack: 4138
+    config: env-nginx
+    mesh: table-mapper
+  assets:
+    grafana: 231.104.170.99
+    aes:
+      gateway: 7802
+      mqtt: 91.187.23.71
+      grpc: null
+      tenant: 82f2610f200906ad
+    beta: false
+    mesh:
+      - worker-proxy
+      - proxy
+      - cookie-aes
+      - nginx
+    sha256: 80.211.224.8

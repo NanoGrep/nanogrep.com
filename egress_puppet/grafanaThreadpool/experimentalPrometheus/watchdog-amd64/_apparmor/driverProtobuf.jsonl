@@ -1,0 +1,40 @@
+[
+    {
+        "cert": [],
+        "buffer": {
+            "cursor": {
+                "canary": "ff254893cfda",
+                "buffer": true,
+                "salt": false
+            },
+            "metrics": false
+        },
+        "yaml": [
+            {
+                "bgp": "retry",
+                "volume": false,
+                "offset": "03bf182741a5",
+                "mongo": true
+            }
+        ],
+        "tenant": {
+            "alerts": {
+                "helm": false,
+                "registry": "3256d157ecde",
+                "stack": true
+            },
+            "topic": [
+                null,
+                "firewall",
+                5617,
+                null
+            ],
+            "staging": {
+                "locale": true,
+                "handler": true
+            },
+            "logs": null,
+            "btree": null
+        }
+    }
+]

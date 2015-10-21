@@ -1,0 +1,29 @@
+parser: 190.134.79.220
+bucket:
+  cache: ee9a68a737490b18
+pipeline: 9570
+rollback:
+  iptables: null
+  gateway:
+    - 186.215.118.158
+    - 59a8a411
+    - 7698028a
+  envoy: bd934b3ea2ac8bfb
+  canary: stream-topic
+  snapshot:
+    - true
+    - grpc
+  scheduler:
+    mapper: 5718
+pipeline:
+  dist: true
+  controller: 9472
+  nfs:
+    - null
+    - ceph
+    - 6519
+    - 105.163.195.14
+  dist:
+    - migrations
+  retry: 5254
+  nginx: 5640

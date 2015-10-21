@@ -1,0 +1,2 @@
+gateway,vxlan,bloom,bucket,alerts
+15.105.177.165,postgres,trie-cert,switch-config,true

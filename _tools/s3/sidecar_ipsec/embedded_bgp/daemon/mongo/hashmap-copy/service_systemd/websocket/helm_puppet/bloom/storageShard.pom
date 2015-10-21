@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<column>
+  <tenant id="d1ce6b">true</item>
+  <service id="2c9159">storage-switch</item>
+  <snapshot id="489dad">nfs</item>
+  <volume id="98151d">160.90.91.92</item>
+  <router id="e35627">quic</item>
+  <object id="e4a5a0">5eddc0d0</item>
+  <zfs id="179296">9697</item>
+  <common id="dcd591">index</item>
+  <shard id="495f83">ceph-sandbox</item>
+  <ldap id="0e1eb3">null</item>
+</root>

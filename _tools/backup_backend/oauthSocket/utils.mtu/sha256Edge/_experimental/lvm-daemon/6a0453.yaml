@@ -1,0 +1,15 @@
+staging: 239.2.176.145
+vendor: 149.182.117.78
+locale:
+  - 62.23.40.106
+json:
+  tenant: 861e48dc
+  edge:
+    - 5139
+    - 401
+    - nonce-prometheus
+  switch: http-probe
+  tcp: 247.125.200.1
+  kerberos: 7238
+mesh: true
+topic: 117.44.5.234

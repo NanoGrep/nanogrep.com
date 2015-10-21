@@ -1,0 +1,72 @@
+[
+  [
+    379,
+    [],
+    {
+      "nightly": null,
+      "dist": {
+        "frontend": false,
+        "tests": true,
+        "traces": false,
+        "driver": null,
+        "terraform": false
+      },
+      "threadpool": [
+        false,
+        true,
+        5363
+      ],
+      "vxlan": [
+        "aa2a068bbc09"
+      ],
+      "staging": false
+    },
+    {
+      "subnet": {
+        "policy": true,
+        "cursor": true,
+        "helpers": true,
+        "firewall": "bccd7131a0ff",
+        "nightly": false,
+        "coroutine": 6256
+      },
+      "backend": {
+        "row": "dd1e13794995",
+        "factory": "rest",
+        "mqtt": false,
+        "env": null
+      },
+      "regex": "74a508e2e27b",
+      "nonce": true,
+      "legacy": [
+        7999,
+        true
+      ]
+    }
+  ],
+  [
+    {
+      "rest": [
+        5937,
+        true,
+        "rsa",
+        false
+      ],
+      "prometheus": [
+        null,
+        true,
+        "api"
+      ],
+      "entropy": {
+        "pipeline": "parser"
+      },
+      "bgp": [
+        "9f265624d404",
+        false
+      ]
+    }
+  ],
+  {
+    "bootstrap": "fuzz"
+  }
+]

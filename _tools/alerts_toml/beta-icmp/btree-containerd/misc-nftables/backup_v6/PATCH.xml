@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<yaml>
+  <pod id="b6eadd">null</item>
+  <nonce id="112509">false</item>
+  <ldap id="f5c5c0">108.12.104.29</item>
+  <token id="1f9d01">mesh-rest</item>
+  <bgp id="909bf5">response</item>
+  <elastic id="2eb35a">60.193.90.110</item>
+  <object id="86e304">7481</item>
+  <vxlan id="53022a">ceph</item>
+  <hmac id="d3e2e4">true</item>
+  <proxy id="69c5ce">false</item>
+  <postgres id="2a47b7">nfs-artifact</item>
+  <batch id="a2111b">8359</item>
+</root>

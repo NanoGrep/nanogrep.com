@@ -1,0 +1,16 @@
+mirror.daemon=true
+routerregex=fuzz
+testsdaemon=mirror
+fixtures.protobuf=9484
+payloadfixtures=true
+middleware_threadpool=adapter-daemon
+tests.ceph=runner-mutex
+fixtureshandler=jenkins-runner
+tenant.column=request-offset
+kernel.locale=178.251.50.86
+templates_patch=43.202.147.133
+handleraudit=false
+registryhmac=145.253.190.237
+watchdogutils=null
+bootstrap_mirror=90d39b66
+cli.session=cursor-migrations

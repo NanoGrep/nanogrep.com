@@ -1,0 +1,30 @@
+sha256:
+  schema: lambda-common
+  migrations: tests-mysql
+env:
+  - 176.34.119.8
+bloom: 1f2a0782d5d6adb6
+cache: 235.98.222.142
+vlan:
+  bloom:
+    loader:
+      fixtures: 9491
+      alerts: dist-postgres
+    group:
+      - column-service
+      - false
+      - 6128
+    backup:
+      - jenkins
+      - 43b5fcdae10009402d02a35cb2aef1f0
+  probe:
+    postgres: 1694
+    group: true
+    buffer:
+      graphql: firewall-controller
+      queue: 4540
+      loader: 2211
+      envoy: mutex
+      watchdog: true
+      cluster: cluster
+cron: true

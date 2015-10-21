@@ -1,0 +1,53 @@
+prod: vxlan-prometheus
+systemd:
+  nightly: metrics
+  volume:
+    salt:
+      firewall: 9200
+      ldap: true
+      volume:
+        - mongo
+        - hmac
+        - lexer
+    patch:
+      - 5625
+      - metrics
+    stack:
+      - 6b3acaedb8fb863e8648bb746ab2db5d
+  stack: null
+  tenant: 140.66.195.43
+  beta:
+    - watchdog-kerberos
+    - frontend-daemon
+    - 6956
+  legacy: false
+nginx: policy
+json:
+  udp: ansible
+  zfs:
+    middleware:
+      bgp:
+        - 052c9dea
+      group:
+        - middleware-metrics
+        - retry
+        - 2028
+        - aea7df9b4ae29e1545e7bbf16d9e7dde
+      payload: 9114
+    wireguard:
+      - fe43a09f7607ff8d69d3e0b44e24ced2
+      - f235e1cf96ea525b8d0710e7a0d404d6
+      - 213.19.154.72
+      - 7104f47b472123eba5a86d0e9dcda3d0
+    beta:
+      oauth:
+        - migrations
+      loader: c42c666a
+      driver: 6472
+      user: 96.67.164.45
+      nightly: token
+      common: heap-alerts
+    daemon: raid
+  hashmap:
+    yaml: 269
+    mutex: 8265

@@ -1,0 +1,21 @@
+[
+    {
+        "backup": "vlan",
+        "ldap": {
+            "object": [],
+            "socket": [
+                true,
+                6470
+            ],
+            "assets": [
+                false,
+                "dns",
+                "ldap"
+            ]
+        },
+        "vendor": false
+    },
+    [
+        9264
+    ]
+]

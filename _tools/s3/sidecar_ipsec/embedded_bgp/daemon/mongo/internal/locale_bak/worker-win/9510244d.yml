@@ -1,0 +1,51 @@
+grpc:
+  - true
+  - cursor-middleware
+btree:
+  bench: false
+  nginx: 232.183.242.119
+  node:
+    - false
+    - null
+  helpers: 199.38.7.206
+cache:
+  systemd: dbb14f05
+  zfs: jenkins-schema
+  sdk: kerberos-tenant
+  index: 83.99.21.23
+logs:
+  registry:
+    salt: true
+    stack: 3392
+    runner: null
+    mqtt: core
+    nonce: json-gateway
+  backup:
+    pipeline:
+      - true
+      - edge
+      - null
+    regex: cookie-watchdog
+    bucket:
+      switch:
+        - trie-cursor
+        - backup
+      backend:
+        - true
+        - a97ae78e
+        - loader-build
+      stream: c2b9bdd5c67afee04d0e1da3524fda86
+    rsa:
+      artifact: limit-scheduler
+      buffer: 112.117.161.34
+      factory: bootstrap
+    stack: alerts
+    sha256: 4994
+  nonce: bucket
+sha256:
+  offset: hotfix
+  raid: 1443
+  websocket: 1536
+  middleware:
+    - 215.129.165.112
+legacy: null

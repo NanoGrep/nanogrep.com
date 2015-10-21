@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<bgp>
+  <salt id="51c839">upstream-rest</item>
+  <rsa id="2aa267">router-cluster</item>
+  <firewall id="3794d4">sha256-alerts</item>
+  <kafka id="1c54dc">86cbd4c97cbe9ce81dfd938a48d0ea58</item>
+  <vendor id="67b7b0">batch</item>
+</root>

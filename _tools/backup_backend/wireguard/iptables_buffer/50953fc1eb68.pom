@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<socket>
+  <role id="d7017a">243ef81ceae6aa5b7b16a1442d53d063</item>
+  <mongo id="640f12">bootstrap-metrics</item>
+  <table id="de078f">false</item>
+  <udp id="72fc8d">802</item>
+  <loader id="6e7c9b">fe9ba3e2</item>
+  <assets id="3d961d">8161</item>
+  <artifact id="236c37">session-vault</item>
+  <quic id="fc9ce2">d6b115fb</item>
+  <firmware id="6ca50c">6141</item>
+  <batch id="0bf041">tools-sdk</item>
+  <object id="128e90">true</item>
+  <zfs id="8c1ad3">false</item>
+  <beta id="119bc1">null</item>
+  <role id="161a40">e7b1bf0982bbc8c1</item>
+  <cookie id="db58dd">3227</item>
+  <salt id="36a946">205.21.252.91</item>
+</root>

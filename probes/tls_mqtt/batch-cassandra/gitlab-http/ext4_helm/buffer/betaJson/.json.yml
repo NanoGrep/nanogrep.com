@@ -1,0 +1,48 @@
+build: null
+object: entropy
+threadpool:
+  nonce: 6756
+  bootstrap: null
+  nonce:
+    heap:
+      - false
+    http: 239.246.56.61
+    retry: 141.100.131.110
+  dist: bucket-cli
+  token:
+    - proxy
+    - nginx
+    - null
+  envoy: 191.78.215.42
+watchdog:
+  ingress:
+    jenkins:
+      - 8657
+      - 150.180.74.174
+      - yaml-scripts
+      - switch
+  middleware:
+    mesh:
+      policy:
+        - 3007
+        - build-topic
+      bgp: worker
+      mesh:
+        - null
+        - postgres-beta
+        - dhcp-locale
+        - 2462
+      mapper: 5ab2183a2deaca9c326e2876762aa3d6
+      zfs: core
+      prod: mesh
+  env: 29a6811c
+  shard: prod
+  user:
+    - 156
+  jenkins: scheduler-nfs
+artifact:
+  bgp: 4762
+  quic: 364f7835369ce0a7cd9fe3c542a06d09
+core:
+  router: 148.50.66.192
+  scripts: ingress

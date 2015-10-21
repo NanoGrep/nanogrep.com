@@ -1,0 +1,74 @@
+api:
+  protobuf: dist
+  fixtures: false
+  websocket: http-compiler
+  regex:
+    edge: ded481d27d07eb16
+    rest:
+      systemd: 6369
+      cli: 0a31e391a3b3406a
+    prod: release-grafana
+    jenkins: 35.145.115.59
+    cookie: btree-api
+  watchdog: 201.209.125.244
+  limit: handler-scripts
+router:
+  - false
+  - compiler
+scheduler:
+  - 3352
+  - a41836c26eff61c04b9334b7bf20940d
+  - 130.32.132.26
+  - false
+socket:
+  elastic:
+    replica: ebfa81b0f73b6107
+    jwt: 1936
+    compiler:
+      ceph: 71.171.168.21
+      utils: b07f6fb5e276fb1c
+    config:
+      frontend: cli-backup
+      release: false
+      loader: b009cfd4fb4842b9
+      templates:
+        - 215
+        - 47.83.2.232
+    bloom: user-cursor
+    elastic: 94.171.99.250
+  audit: 1b10b7f4
+  session:
+    - null
+    - 867cabd8d567983ec1dcb4fc360b97b2
+staging:
+  bgp: 58114ff9
+  heap:
+    prometheus: 3389
+    yaml: 9833
+    response:
+      vault:
+        - gateway
+        - e56d4fd8d37c82f2e8286e70e6114123
+      driver: true
+      mirror: 3615
+      systemd: snapshot
+      metrics: false
+    gateway:
+      ceph:
+        - false
+        - false
+        - true
+        - false
+      aes: 1144
+      beta: true
+iptables:
+  systemd:
+    api:
+      - 140.106.230.4
+      - jenkins-crypto
+      - 8468
+      - null
+    offset:
+      jenkins: 3.68.169.59
+    cgroups: 8ea5e68e
+  cookie: 201.154.167.9

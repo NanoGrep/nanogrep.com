@@ -1,0 +1,21 @@
+{
+    "artifact": "backend",
+    "tools": [
+        {
+            "nat": [
+                3820
+            ],
+            "trie": {
+                "socket": true,
+                "cors": false
+            },
+            "udp": "prometheus",
+            "migrations": {
+                "ceph": "8eda0f79c24f",
+                "sandbox": null,
+                "helm": false
+            }
+        }
+    ],
+    "terraform": "6dfeb417d3dc"
+}

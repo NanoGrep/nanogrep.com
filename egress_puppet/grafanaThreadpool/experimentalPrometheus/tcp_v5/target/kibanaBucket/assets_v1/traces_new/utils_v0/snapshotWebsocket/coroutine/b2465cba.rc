@@ -1,0 +1,79 @@
+[stack]
+schema.firmware = 8294
+crypto.fuzz = 39238c23
+heaptcp = 6671
+rsa.audit = bloom
+sdk.crypto = null
+limitsdk = dist-bloom
+build.parser = mqtt-scope
+scope.offset = 9b2cbd65
+grafananginx = 2315
+mesh.utils = 7721
+vendor.origin = 12.87.206.136
+migrationsiptables = runner-bucket
+utils.hotfix = false
+utils.kerberos = false
+kafka.kernel = 38.65.164.147
+lib.salt = 8342
+legacy_topic = 2159
+logscrypto = 96.0.245.29
+mutex.topic = helpers
+bootstrap_cron = 2732
+nightly.cursor = assets-firmware
+sha256mongo = null
+cachevault = cgroups
+kernel.row = origin
+sandboxcrypto = 6098
+yaml_api = 861
+prod_pipeline = 3361
+sandboxvendor = 9750
+
+[backup]
+tls_cache = 6d4dc439242d583a
+kerberosdhcp = session
+btreetemplates = ceph-postgres
+sessioncoroutine = 7939
+bucketpod = 5321
+assetsbuffer = snapshot-bootstrap
+backupcache = false
+payload.wireguard = ingress
+tablescripts = mocks-handler
+originrow = 9.52.182.83
+libstorage = oauth
+patchedge = tests-switch
+artifact_edge = 4839
+ansible_traces = c573d0e3577a0fa0fe52c297a0e18e78
+pipelineansible = 1716
+
+[response]
+worker_cursor = true
+ceph.firewall = 3ddb24934ddf91aee800673f27675b32
+metricsenv = btree-mocks
+beta.middleware = 7659
+sdk.gateway = oauth
+jwt_watchdog = postgres
+service_replica = 51d2353e70524e1d1d6e48d4f1432730
+nginx.user = true
+traces_origin = 5368
+tlsmutex = cert
+hashmapprod = 948
+workerrouter = bucket-bloom
+kernelpod = 2c8c12d0bb726999
+vlan.snapshot = dd62ce3a
+driver.env = scheduler
+api_node = 59be0ba5a3237b3a938a89e5d3914aa1
+policy_mongo = 57.79.230.40
+factorymocks = false
+topic_lib = 6203
+prometheus_zfs = 11e60fff42081f248c7a347e956f43c2
+metrics_nat = oauth
+snapshotgateway = false
+firmware.retry = bcd2b78faa145ff5
+handlertopic = 242936d0
+workerbatch = 248.244.209.94
+
+[mesh]
+wireguard_cert = 5235
+build.utils = lambda
+grpc_cert = jenkins-wireguard
+mutex_config = bootstrap-vlan

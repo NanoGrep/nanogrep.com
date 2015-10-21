@@ -1,0 +1,56 @@
+envoy: factory
+cron: 251.195.129.37
+group:
+  factory:
+    locale:
+      policy: 125.106.197.65
+      upstream: controller
+      alerts: jenkins-hmac
+      pipeline: 7270
+    pipeline:
+      cookie:
+        - helm
+        - coroutine-batch
+      bootstrap: 51.198.233.41
+  grpc:
+    dns: edge-jwt
+    batch:
+      - 151.113.226.81
+    ceph:
+      - user-socket
+      - 9760
+      - 47dc70cb7942bccee2cc3a0909a24a08
+    mesh: 6695
+  token:
+    pod: false
+    cgroups: pipeline
+    websocket:
+      - upstream-websocket
+      - null
+      - 4708
+      - bdb30115ba75cc35
+    tools: subnet-ingress
+    mqtt:
+      bgp: 103
+      grafana: dist
+      postgres: a864bded696594c4726e7eca02502969
+      prod: 245.232.44.163
+      http: 1036
+      artifact:
+        - false
+        - index-threadpool
+        - 73123634539e5e54ddda2b43702a7a58
+    policy: 231.53.66.133
+  nginx: 165.229.56.5
+  raid: cors-storage
+  batch:
+    legacy:
+      mapper: null
+      edge: true
+      traces:
+        - true
+        - 701eaf6539cb47c0f46fa758268c3e3b
+        - pod-cli
+      artifact: 63.53.96.242
+upstream:
+  - cfbdcbbc

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<aes>
+  <kerberos id="cdaf1c">cache</item>
+  <jenkins id="97904a">false</item>
+  <assets id="ec5cb7">189.98.252.1</item>
+  <middleware id="a56dd0">salt-common</item>
+  <failover id="5e461e">semaphore</item>
+  <nfs id="045358">middleware</item>
+  <nginx id="8e7cee">6910</item>
+  <kafka id="cc1db1">storage-storage</item>
+  <fuzz id="d824e2">false</item>
+  <cert id="3599e8">lib</item>
+  <snapshot id="531423">alerts</item>
+  <request id="4ce7e8">alerts</item>
+  <volume id="051c52">4701</item>
+  <fixtures id="a54c95">null</item>
+  <zfs id="4d44b7">7569</item>
+  <prod id="5fec41">41.241.8.14</item>
+  <offset id="daa802">mongo</item>
+  <controller id="212c97">2663</item>
+  <env id="ecb0cd">237.70.39.158</item>
+  <backend id="6e6700">false</item>
+</root>

@@ -1,0 +1,8 @@
+tests: 102.168.64.15
+loader:
+  - true
+  - buffer-kafka
+  - 22.39.67.17
+common: c05c0acf532023a80656338f2a5736bc
+heap: 4358
+batch: 76.201.157.230

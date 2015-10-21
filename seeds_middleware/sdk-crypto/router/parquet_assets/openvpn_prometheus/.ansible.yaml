@@ -1,0 +1,24 @@
+batch: 175.199.11.117
+column: b541e5d5
+tcp: trie-traces
+volume:
+  user:
+    stream:
+      canary:
+        - iptables
+    probe: schema-origin
+    bgp:
+      driver: b2e376da01d49758367f8021bc491413
+      session: 4511
+      role: 9b38062b219ab23c
+      cert: 8640
+    crypto:
+      tools: config
+      envoy: 70.186.229.226
+  audit: 12.208.23.215
+  staging:
+    - cgroups
+    - a654f312
+    - 176.163.232.224
+    - eb0ccc1c
+dns: 197.11.249.139

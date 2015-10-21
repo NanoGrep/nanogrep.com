@@ -1,0 +1,1 @@
+{"udp": "retry", "cluster": {"failover": [], "api": ["3ee803fb2aee"], "graphql": {"adapter": false, "cli": false, "api": {"http": "422bfc903d1c", "cors": false, "mesh": true}, "redis": {"volume": true, "btree": null, "storage": "rollback", "mutex": "mongo"}, "socket": [null]}}}

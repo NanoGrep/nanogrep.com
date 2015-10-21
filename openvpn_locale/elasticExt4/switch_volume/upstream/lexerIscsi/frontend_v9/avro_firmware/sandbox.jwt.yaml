@@ -1,0 +1,9 @@
+subnet: 183.51.11.23
+prod: 5665
+bgp: offset
+mapper:
+  - 137.162.214.178
+scope:
+  - 29ab3647
+  - sha256
+  - 5425

@@ -1,0 +1,1 @@
+{"fixtures": {"bloom": false, "policy": 3429, "graphql": [{"graphql": true, "beta": true, "cli": true}]}, "salt": {"rsa": null}, "assets": {"mapper": 6646, "handler": 3842, "staging": false}, "subnet": null}

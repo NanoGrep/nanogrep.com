@@ -1,0 +1,7 @@
+oauth:
+  - 6cb13f89f560d28b395fbda86bb09bba
+  - 92.120.172.3
+  - 105.8.34.250
+semaphore: router-bench
+mqtt: false
+grafana: 179.145.69.30

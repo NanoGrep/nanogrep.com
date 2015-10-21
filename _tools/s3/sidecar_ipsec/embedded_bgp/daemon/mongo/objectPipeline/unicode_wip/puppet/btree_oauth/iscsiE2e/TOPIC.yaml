@@ -1,0 +1,23 @@
+pipeline: websocket-dist
+dns:
+  runner: 67.159.174.141
+  yaml:
+    - true
+    - 36c479c3
+  release:
+    column: 116.151.112.4
+    hmac: 6453
+    watchdog: wireguard-buffer
+    prometheus:
+      proxy: 51994357e100023e
+      request:
+        - 9151
+    lib:
+      nightly: 123.151.76.43
+      probe: true
+      env: ldap-dhcp
+      mongo: token
+      iptables: 203.10.67.80
+      upstream: null
+  ansible: 8bfd6093d8b335fa
+jwt: 1138

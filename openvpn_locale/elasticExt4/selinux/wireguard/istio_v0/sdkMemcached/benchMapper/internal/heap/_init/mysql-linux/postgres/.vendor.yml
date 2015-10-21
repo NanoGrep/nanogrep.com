@@ -1,0 +1,38 @@
+crypto:
+  - true
+  - salt
+  - 03b6781c16530766d4bee4a7fd8952d8
+shard: logs
+tls: 948
+batch:
+  envoy:
+    ldap: 169.225.201.44
+    stack: 5d335cf87fe93dfd
+    bootstrap: migrations-hashmap
+    legacy: null
+  service:
+    queue:
+      logs: 3621
+      pod:
+        - 2740
+      handler: false
+    metrics:
+      crypto: null
+      hashmap:
+        - sha256-node
+      aes: 1340
+    envoy: 144.245.242.208
+  stack:
+    json:
+      coroutine:
+        - mongo
+      locale: 3301
+    common: 7226
+oauth:
+  socket: null
+  tests: 937
+  vxlan: 471
+  fixtures: 177.107.111.192
+  ceph: 2682
+  threadpool: 9730
+logs: legacy

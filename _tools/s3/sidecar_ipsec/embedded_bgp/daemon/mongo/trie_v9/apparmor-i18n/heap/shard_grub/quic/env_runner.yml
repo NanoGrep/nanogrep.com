@@ -1,0 +1,21 @@
+daemon: false
+router:
+  mesh:
+    firewall:
+      backend: 6215
+      tls: 2f5acc5982d2374e
+      grafana: dca2338f
+      table: lib-crypto
+      loader: nightly-staging
+      cors: kernel-ldap
+    nonce:
+      fuzz: helm
+      cluster: ldap-worker
+      stream: stack-cors
+    postgres: 7116
+grafana:
+  session: 7867
+  regex: 677986d5
+  ansible: upstream
+stack: entropy
+vendor: object

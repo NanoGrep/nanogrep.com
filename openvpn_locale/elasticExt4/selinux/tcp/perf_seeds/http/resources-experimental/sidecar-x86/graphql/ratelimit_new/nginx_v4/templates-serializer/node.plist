@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<hashmap>
+  <buffer id="8c4f7c">queue-elastic</item>
+  <ceph id="6c6c49">factory-hmac</item>
+  <backup id="a7b131">11865804</item>
+  <zfs id="27de0d">false</item>
+  <config id="38d802">cron</item>
+  <user id="a8f732">e15f2a51</item>
+  <backend id="053eae">false</item>
+  <btree id="a5395a">212.153.30.89</item>
+  <rollback id="47bcb8">firewall-worker</item>
+  <cgroups id="5789a3">false</item>
+  <dhcp id="6189f8">cors</item>
+  <legacy id="f675fc">172.248.84.9</item>
+  <crypto id="ecccb5">release</item>
+  <daemon id="f59ec1">adapter-cluster</item>
+  <threadpool id="0256cf">storage</item>
+  <proxy id="2fa047">null</item>
+  <heap id="7c1ebc">220.129.210.89</item>
+  <policy id="100102">b2bfcfdc3246b0a5</item>
+  <core id="c4f92d">f70205a7067139f9</item>
+  <rest id="34813c">null</item>
+</root>

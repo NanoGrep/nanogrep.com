@@ -1,0 +1,30 @@
+ingress:
+  offset: false
+  bootstrap: worker
+  queue: lib-utils
+nightly:
+  - 7b8df3e1
+  - f53b31e61149589ff56a7ee332bd584e
+response:
+  tools:
+    cron:
+      protobuf: 2633
+      fixtures: c0095fae22e31034
+      mocks: redis
+      ceph: group-heap
+      gateway: 141.211.84.34
+    watchdog:
+      node: cursor-sandbox
+      jenkins: 4220
+    rsa: 57.113.34.28
+  switch:
+    crypto: false
+    adapter:
+      - edge-tenant
+      - tools
+    alerts: frontend-sha256
+    patch: de514047fa0c0247b87750c6495ea326
+sdk:
+  - 148.6.194.253
+  - 31.219.107.74
+  - terraform-cgroups

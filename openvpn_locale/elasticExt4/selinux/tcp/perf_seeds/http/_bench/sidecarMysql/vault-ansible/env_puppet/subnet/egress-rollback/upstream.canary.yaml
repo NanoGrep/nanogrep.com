@@ -1,0 +1,14 @@
+nat:
+  grpc: 69372ee5
+  mongo: 1303
+  mesh:
+    buffer: 100.175.112.84
+    ansible: true
+    limit:
+      api: 40.1.157.104
+      volume: 4005
+      tests: true
+      pod: templates
+      token: 103.126.221.242
+    socket: 08342de8f95823684ed03e219fbc9bbd
+offset: 20.186.81.245

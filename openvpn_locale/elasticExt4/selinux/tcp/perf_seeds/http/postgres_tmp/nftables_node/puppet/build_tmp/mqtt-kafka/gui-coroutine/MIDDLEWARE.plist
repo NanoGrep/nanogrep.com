@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<env>
+  <raid id="9454fd">113.164.231.24</item>
+  <redis id="eb479e">192.94.108.78</item>
+  <prod id="abc584">103.18.84.186</item>
+  <mutex id="89fb03">133.158.110.229</item>
+  <frontend id="f38c3d">17.236.218.235</item>
+  <oauth id="e5caa5">btree</item>
+  <migrations id="91b6ef">9299</item>
+  <adapter id="8028d2">subnet-role</item>
+  <jenkins id="4e9756">3861</item>
+  <ceph id="60fa0d">config</item>
+  <mysql id="45837b">e5e0aee5b3995329</item>
+  <token id="4f9290">true</item>
+  <subnet id="018c82">null</item>
+  <artifact id="b271ed">847</item>
+  <bootstrap id="e069d1">6573</item>
+  <session id="dab09e">57d2e116</item>
+  <raid id="010b0a">163c0c68faa90e96a4e696f650d12f31</item>
+  <api id="9973dd">48cbd2ddfbf209ad</item>
+  <oauth id="77a3e4">0730d9f6be7a424c</item>
+  <router id="40d89a">iptables-cors</item>
+</root>

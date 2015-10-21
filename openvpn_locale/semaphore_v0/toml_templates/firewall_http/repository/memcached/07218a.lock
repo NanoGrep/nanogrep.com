@@ -1,0 +1,14 @@
+[
+    {
+        "sdk": null,
+        "nfs": {
+            "tcp": {
+                "nightly": true,
+                "heap": null,
+                "lambda": "traces"
+            }
+        },
+        "canary": "4773a8dfc1f0"
+    },
+    []
+]

@@ -1,0 +1,14 @@
+cachejenkins: 3473
+certworker: false
+buffer.table: factory
+worker_release: storage-yaml
+mirror_queue: graphql
+ingress.token: cookie
+logs.shard: bloom
+snapshotnat: watchdog
+sandboxuser: rollback
+graphqlcgroups: env-postgres
+mapper_service: false
+kafkabackend: 7457
+podsnapshot: 4b0b6eac9140ec1fde3a6b5e391e9251
+metricstests: common-coroutine

@@ -1,0 +1,10 @@
+prometheus:
+  tls: false
+  release: daemon-terraform
+  beta: bgp-vlan
+  staging:
+    rsa:
+      jenkins: kernel
+      salt: 3764
+      systemd: 3100
+    artifact: tls

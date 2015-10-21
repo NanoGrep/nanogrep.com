@@ -1,0 +1,39 @@
+[
+  [
+    {
+      "factory": null,
+      "pod": {
+        "socket": null
+      },
+      "retry": 3986,
+      "firewall": [
+        true,
+        false,
+        false,
+        true
+      ]
+    },
+    [
+      {
+        "helpers": true,
+        "beta": "lexer",
+        "nginx": false,
+        "buffer": false,
+        "limit": false,
+        "grafana": null
+      },
+      {
+        "lambda": null,
+        "shard": true
+      },
+      {
+        "nfs": true,
+        "fixtures": "vendor",
+        "limit": "61c9e9f4cb03",
+        "oauth": 3986
+      }
+    ]
+  ],
+  false,
+  false
+]

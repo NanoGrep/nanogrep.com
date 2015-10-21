@@ -1,0 +1,31 @@
+{
+    "controller": "cert",
+    "prod": {
+        "wireguard": "zfs",
+        "scheduler": [],
+        "json": "object"
+    },
+    "vendor": [
+        "2bdbb1d431c8",
+        true,
+        [
+            {
+                "envoy": false,
+                "scope": "d49e94617f03",
+                "artifact": true,
+                "watchdog": 2500,
+                "mocks": null
+            },
+            "b8fc8fe261d6"
+        ],
+        false
+    ],
+    "mesh": {
+        "wireguard": true,
+        "cert": [],
+        "assets": true,
+        "nginx": "022e4408f15f"
+    },
+    "jenkins": null,
+    "policy": "3c2d1333310d"
+}

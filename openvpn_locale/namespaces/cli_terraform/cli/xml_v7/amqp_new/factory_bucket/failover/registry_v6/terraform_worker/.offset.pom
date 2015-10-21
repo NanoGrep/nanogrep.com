@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<failover>
+  <envoy id="66e1fc">5d44faa4a0ed57a7</item>
+  <bucket id="67e3cf">token</item>
+  <token id="ba4a75">prometheus-env</item>
+  <replica id="133758">119.233.102.3</item>
+  <group id="bf39bf">67272e41c52bc695</item>
+  <table id="bc203e">systemd-fuzz</item>
+  <bench id="9602fa">role</item>
+  <mqtt id="221b11">backup</item>
+  <websocket id="ee7f4f">graphql</item>
+  <subnet id="8be593">00d9efcb5c2fe67b</item>
+  <object id="c1ba2b">true</item>
+</root>

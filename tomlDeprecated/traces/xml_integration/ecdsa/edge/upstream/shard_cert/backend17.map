@@ -1,0 +1,1 @@
+[null, {"ceph": {"payload": 1927, "wireguard": "stream", "nonce": "f1bb7e099c9e"}, "staging": {"logs": true, "entropy": {"cgroups": false}, "pipeline": [false], "canary": "ansible", "schema": [true]}, "entropy": false}, {"nonce": false, "ceph": "4dcb70867e2f", "websocket": "cb95e0b6f421", "user": 7992}]

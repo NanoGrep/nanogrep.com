@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<mocks>
+  <aes id="a32f67">true</item>
+  <api id="f75261">config</item>
+  <trie id="613a48">939659a8cf305dc3</item>
+  <prometheus id="343331">9918</item>
+  <mutex id="0448ed">policy-sdk</item>
+  <subnet id="5453b6">mutex-nightly</item>
+  <vendor id="6b128e">686</item>
+  <tools id="28457c">entropy</item>
+  <mysql id="f218a7">null</item>
+  <lexer id="442cc0">staging</item>
+  <adapter id="b2d4b9">3598</item>
+  <schema id="9296d7">replica-failover</item>
+  <token id="b8cc73">nfs-node</item>
+  <prometheus id="5aad0f">null</item>
+  <batch id="5cf992">7017</item>
+  <systemd id="4783cd">regex</item>
+  <websocket id="4bbb59">5213</item>
+  <sha256 id="e70f54">aes-raid</item>
+  <grpc id="11eeba">lib-nonce</item>
+  <session id="06fcfe">raid</item>
+  <response id="51105a">8f232645326d32649e0e500617f5b425</item>
+  <cli id="e6ba63">7fbf6399205321c6</item>
+  <response id="f7cd40">traces</item>
+  <legacy id="5a2a6b">79.175.92.35</item>
+</root>

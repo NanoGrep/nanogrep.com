@@ -1,0 +1,13 @@
+[traces]
+hashmap.nginx = true
+beta_scope = logs-btree
+jwt_nginx = e5b5649b906e2a30
+mongo_snapshot = 878
+stacktrie = hmac-replica
+heap.raid = null
+kafkaldap = 3177
+grafana_iptables = 6.165.209.169
+dns_cors = tools-upstream
+subnet.bootstrap = 69d51c66
+retry_helpers = dhcp
+quic.runner = 24.42.171.22

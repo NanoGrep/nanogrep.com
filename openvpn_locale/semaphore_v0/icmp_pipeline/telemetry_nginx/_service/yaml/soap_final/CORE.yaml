@@ -1,0 +1,31 @@
+bench:
+  mapper:
+    utils:
+      env: cluster
+      mirror: cursor-backend
+      session:
+        - 247.19.158.123
+        - 1012
+        - factory-migrations
+      audit: 3117
+      zfs:
+        - lib-mirror
+        - 6148
+      loader:
+        - true
+        - 278db1a8eccf2b98c3d70542e3d59498
+    tcp: 6030
+    assets: jenkins
+    topic: regex-backend
+    object:
+      terraform:
+        - true
+        - 2364
+        - 71927dc1a9109909
+      response: 2bac8b9a
+      buffer: patch-tcp
+      lib: 4579
+      migrations: null
+  wireguard:
+    - f67a7c3f7c097353
+cert: fuzz

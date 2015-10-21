@@ -1,0 +1,8 @@
+backend:
+  vault: 6263
+  kernel: protobuf
+  jenkins:
+    frontend: driver
+    socket: alerts
+    env: 6ee2338d
+  switch: 3599

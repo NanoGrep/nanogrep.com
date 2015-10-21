@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<mutex>
+  <cursor id="5014ab">64.75.21.143</item>
+  <cert id="52621c">9868</item>
+  <tests id="d8ad33">true</item>
+  <factory id="81647f">true</item>
+  <staging id="c6d9b7">true</item>
+  <build id="94f5ec">145.67.235.112</item>
+  <btree id="20d8b0">true</item>
+  <handler id="bfe87d">56b5ae2bfc6f3b02</item>
+  <graphql id="46bdb6">lexer</item>
+  <helm id="181f1c">firewall-helpers</item>
+  <token id="7ff7e0">false</item>
+  <group id="34bf32">null</item>
+  <mysql id="571fa3">factory-env</item>
+  <systemd id="afaaf8">8756</item>
+  <hmac id="6fec06">nfs-vault</item>
+  <metrics id="008ae4">cors-fuzz</item>
+  <stack id="76eb6f">dcd4c5228b619cf9106720234d7d99d5</item>
+</root>

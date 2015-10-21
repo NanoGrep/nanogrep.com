@@ -1,0 +1,17 @@
+hmacalerts: 41.109.116.225
+scope_stack: 6002
+mqtt_parser: null
+json.grafana: 180.111.112.117
+crypto_rest: 215.120.24.238
+topiccanary: 5914c93621fe1673
+hotfix.schema: 2982
+terraform_tenant: cert
+kerberosalerts: true
+api.pipeline: 84ba3a4f
+systemd_ansible: elastic
+wireguard.udp: 9221
+nightlybatch: 942cd34e37aaeb189aacb6e9a7952227
+backup_firewall: f7c3479f804362d0
+dnssocket: 179.132.190.137
+node.rollback: iptables-failover
+build_tenant: 51d7103b47b21444151c4cf94583aa17

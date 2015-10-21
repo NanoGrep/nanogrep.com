@@ -1,0 +1,22 @@
+alerts:
+  rest:
+    dhcp:
+      raid: middleware
+      mongo: frontend-backup
+      ceph: 44fc0f06cb72eada
+      patch:
+        - heap-kernel
+        - null
+        - 4138d86e3341c759cdb2245a5078114a
+        - 252.95.84.102
+    parser:
+      mqtt: d57e24cf
+      policy: 83.187.32.173
+      hashmap: 6f3bba6f
+      cgroups: semaphore
+      salt: trie
+  migrations: false
+  cron: d376c9c1c5492645120ce9f9bb2839bf
+  envoy: ac7571ec
+  build: tcp-daemon
+nightly: false

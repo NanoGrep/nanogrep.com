@@ -1,0 +1,8 @@
+{
+  "patch": "migrations",
+  "subnet": "kernel",
+  "handler": {
+    "compiler": "8da4dc04bc43",
+    "cache": "mongo"
+  }
+}

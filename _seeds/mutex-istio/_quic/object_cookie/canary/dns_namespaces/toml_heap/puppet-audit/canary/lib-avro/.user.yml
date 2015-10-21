@@ -1,0 +1,12 @@
+cert:
+  queue:
+    - websocket
+    - null
+  dhcp:
+    raid: cbee7770638c3ca9
+    json: redis
+tcp:
+  column: vendor
+backend: 2909
+worker: 9799
+node: 14d44761

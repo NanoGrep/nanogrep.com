@@ -1,0 +1,12 @@
+core:
+  legacy: middleware
+  replica:
+    - null
+    - 8306
+    - ed89bb7251cdae5f36b1fe54caeb0217
+    - origin-node
+  coroutine: 47b81e5c
+  nginx: env
+  router: a310561b3435c4efb5e0f5df616949ea
+  row: null
+lib: 149

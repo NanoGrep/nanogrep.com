@@ -1,0 +1,93 @@
+[policy]
+heapcommon = lib-rest
+service_cors = 81.29.134.6
+request.yaml = column
+shardtenant = logs
+node_backup = index
+quic.locale = 4565
+semaphore.semaphore = false
+logs.ldap = 211.53.90.208
+response.limit = null
+metricsobject = token
+routervolume = object
+firmware_build = registry
+btree.nonce = false
+middleware.migrations = 2277
+schema_websocket = true
+vlan_yaml = 1640
+fixturesenv = 2745
+legacydriver = d9f3b283
+retryqueue = 142.235.68.200
+cgroups_cgroups = 9273
+
+[iptables]
+mongocontroller = shard-ceph
+queue.response = api-canary
+entropy_beta = templates-cache
+common_hashmap = false
+yaml_probe = false
+storage.middleware = 33.250.164.50
+sha256.session = 187.198.192.8
+stack.dist = 132.66.39.221
+patch_schema = 9063a690050b4c2bc470b846ced28ab9
+
+[object]
+sha256.role = 57a6bd458f6c75cd82beea46e33198bb
+prodlib = 173.78.96.175
+stackservice = 216.205.254.253
+volumekafka = 194.162.131.2
+fixturesheap = 245.27.230.96
+kerberosheap = 90eee9d9
+iptables_elastic = 78.36.82.123
+hotfix.cron = session
+config_bench = staging-cursor
+cgroupstraces = driver-bloom
+bloom_controller = false
+scripts.elastic = locale-subnet
+tls.iptables = 139.167.161.91
+requestbackend = 652e0607674b544f99140f57368adc8d
+tenant.vendor = 230.137.49.146
+hmac.grpc = ea603be1
+gateway_jenkins = eacbaa93
+trieudp = 1542
+mocks.kafka = 695d73a26e620e25
+systemd.prometheus = null
+noncefirewall = cookie-json
+policy_regex = 54c2db3d
+batch.coroutine = false
+gatewayassets = aes-queue
+adapter_vendor = 1864
+sessionldap = 3426
+mysql_hashmap = firewall
+release.offset = true
+
+[object]
+assets.driver = 3a4de47f
+assets.ceph = 37.232.252.242
+sha256prometheus = 11.197.154.186
+worker.queue = vxlan
+core_edge = 2.213.52.64
+quiccluster = 1600
+controller.vendor = yaml
+storage.canary = tcp
+limithmac = scheduler-grafana
+systemd.terraform = pipeline
+bucketprod = user-legacy
+rowrouter = 9990dcb913b7012cb186768c2d3a2e4d
+
+[pipeline]
+semaphore.user = snapshot-mqtt
+role_request = 4372
+sha256_scripts = aes-jwt
+index_failover = 7193
+salt.tools = true
+http.mirror = 34.69.92.64
+beta.response = zfs-udp
+locale.ingress = fc0a0aef
+redis.table = env-artifact
+mapperreplica = watchdog-artifact
+terraform.logs = 444
+storage.tls = 8f210dd958aca9cd
+factory.mqtt = 139.16.52.86
+nat.oauth = 4716
+queue_kernel = 100.39.59.243

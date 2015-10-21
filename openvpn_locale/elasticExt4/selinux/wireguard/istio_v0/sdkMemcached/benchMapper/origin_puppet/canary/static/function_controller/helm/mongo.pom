@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gateway>
+  <backend id="3740ea">table</item>
+  <graphql id="cf4d79">rest</item>
+  <salt id="b84102">201.21.69.64</item>
+  <logs id="62a732">b27ae64f06186e0e15e70c19f180d03d</item>
+  <mesh id="9697cf">8292</item>
+  <sdk id="5af9df">true</item>
+  <terraform id="9f62e4">true</item>
+  <threadpool id="ceb312">c12afa380e15a4f4</item>
+  <scope id="1532b7">systemd</item>
+  <batch id="add816">stack</item>
+  <batch id="228f30">socket-limit</item>
+</root>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<scope>
+  <volume id="4cd9f9">254.27.66.91</item>
+  <dhcp id="f839e1">prometheus</item>
+  <probe id="a042b4">envoy</item>
+  <table id="5ad7d6">quic-redis</item>
+  <sdk id="d62dea">489</item>
+  <tests id="2e8395">2972</item>
+  <btree id="a44c3e">sandbox-sandbox</item>
+  <snapshot id="d7e95e">99.24.154.33</item>
+  <mqtt id="ac1bf6">7acca0ad8d7362da</item>
+  <canary id="4ae5ff">1.223.47.208</item>
+  <dhcp id="0e6f61">shard</item>
+  <table id="183cdc">mesh</item>
+  <schema id="aad5f3">redis</item>
+  <replica id="18efd5">null</item>
+  <cors id="574c90">5ccc2352fcd2687b40fbc1f4ea68bb74</item>
+  <adapter id="40f2be">parser</item>
+  <threadpool id="f1e763">192.90.226.81</item>
+  <group id="59d5ff">session-column</item>
+  <zfs id="5a28fc">payload</item>
+  <config id="e5123f">false</item>
+  <trie id="7907be">origin-retry</item>
+</root>

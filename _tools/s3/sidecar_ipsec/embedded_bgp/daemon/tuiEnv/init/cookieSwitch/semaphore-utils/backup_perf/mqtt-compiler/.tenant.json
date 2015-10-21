@@ -1,0 +1,10 @@
+[
+    {
+        "bgp": false,
+        "session": {
+            "prod": true
+        },
+        "scope": [],
+        "kafka": "service"
+    }
+]

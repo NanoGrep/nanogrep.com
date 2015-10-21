@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<artifact>
+  <helpers id="9ed0c6">null</item>
+  <terraform id="b30a0b">node</item>
+  <retry id="277636">null</item>
+  <dhcp id="33c72d">9916</item>
+  <handler id="69733e">0cf13be8329f809c</item>
+  <scope id="7cacdf">graphql</item>
+  <salt id="83d497">651</item>
+  <middleware id="e213c2">firewall</item>
+  <gateway id="f917c8">snapshot-lexer</item>
+  <bgp id="fdf1c2">70.90.196.134</item>
+  <nightly id="3e4fbb">cbff33e6</item>
+</root>

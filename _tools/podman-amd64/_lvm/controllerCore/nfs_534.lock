@@ -1,0 +1,32 @@
+{
+    "nightly": [
+        "d126491d4863",
+        null
+    ],
+    "graphql": [
+        3768,
+        {
+            "audit": null,
+            "controller": {
+                "hmac": "payload",
+                "json": null
+            },
+            "tls": [
+                "91eda6e3663f",
+                "worker",
+                1446,
+                "aedc6be68065"
+            ],
+            "staging": true,
+            "cache": {
+                "proxy": true,
+                "cors": false,
+                "retry": "d66d4104b06b",
+                "fixtures": "terraform",
+                "audit": "38fa87148afd"
+            }
+        }
+    ],
+    "ldap": false,
+    "rest": "6c013f932518"
+}

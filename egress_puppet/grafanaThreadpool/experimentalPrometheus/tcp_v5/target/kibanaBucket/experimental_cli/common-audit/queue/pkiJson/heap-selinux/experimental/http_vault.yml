@@ -1,0 +1,17 @@
+assets:
+  - true
+  - 181.213.113.116
+mirror:
+  pod:
+    config:
+      - storage
+    api: 4865
+    offset: f60e4f51
+    token: 154.139.39.144
+  mysql: yaml-kernel
+firmware:
+  kerberos:
+    - false
+    - topic-backup
+    - null
+  index: 119295a4d15204d609092fe7ba781cab

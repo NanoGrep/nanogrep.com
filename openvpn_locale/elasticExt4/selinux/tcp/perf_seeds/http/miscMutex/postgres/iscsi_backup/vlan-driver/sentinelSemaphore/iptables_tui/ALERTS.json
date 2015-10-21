@@ -1,0 +1,23 @@
+{
+  "aes": {
+    "upstream": {
+      "scope": "role"
+    },
+    "cluster": "token",
+    "router": true,
+    "locale": {
+      "jenkins": "ansible",
+      "core": true,
+      "json": [
+        null
+      ],
+      "tests": "bloom"
+    },
+    "response": [
+      false
+    ],
+    "graphql": {
+      "tenant": "35947ea29695"
+    }
+  }
+}

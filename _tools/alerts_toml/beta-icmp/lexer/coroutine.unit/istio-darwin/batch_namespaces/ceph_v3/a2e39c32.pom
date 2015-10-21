@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<lib>
+  <upstream id="fc7534">zfs</item>
+  <router id="64c63f">daemon-config</item>
+  <pod id="cb754c">16.228.16.158</item>
+  <response id="3e78de">7072</item>
+  <iptables id="1cd00a">index</item>
+  <loader id="606ab9">token-nonce</item>
+  <ceph id="74151e">true</item>
+  <gateway id="bd5b50">gateway</item>
+  <shard id="7c3b2d">2e3f81f51e168f395c2e6c7e8d137bb4</item>
+  <vault id="d69c8d">false</item>
+  <cache id="f46e9e">109.46.52.33</item>
+  <vault id="ee1ee3">1278</item>
+  <watchdog id="024c3e">90.65.243.225</item>
+  <middleware id="fc4292">0a45be82</item>
+  <volume id="d89c3c">cert</item>
+  <dhcp id="b096b8">backend</item>
+</root>

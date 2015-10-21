@@ -1,0 +1,20 @@
+nat:
+  mongo: kerberos
+  nonce:
+    scope: 111.213.4.34
+    parser: mysql-ceph
+    websocket: 167.129.33.89
+    prod: 95.80.108.72
+    threadpool: 65.235.160.81
+    lambda:
+      volume: 80.128.169.167
+      config: 1e57092dc1cbc49c
+      raid: 9060
+      kafka: true
+      edge: d3b53bb1968e6cd3818ccafa1594959b
+      semaphore: 4930
+  queue: helpers-row
+  session:
+    - 207.178.161.27
+    - audit-fuzz
+  middleware: release

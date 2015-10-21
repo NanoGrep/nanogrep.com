@@ -1,0 +1,30 @@
+helpers:
+  core:
+    quic:
+      kafka:
+        - cb580b65c64af4a3e999e49bff536de1
+      ceph:
+        - 23.14.127.46
+        - adapter
+        - tenant-request
+      driver: 32d10a75620e45d0
+      proxy: false
+      systemd: 6080
+      elastic: 232.167.57.169
+    raid: true
+    retry:
+      shard: fixtures
+      vault: protobuf
+      lib: upstream-frontend
+    dns: parser-terraform
+    ingress:
+      edge: f2296bc8
+      artifact: true
+    terraform: 138.178.7.56
+  core: 8a9c2e54fdb2d1ee
+zfs:
+  nat: 6862
+  nginx: 241.24.9.23
+  traces: 3906
+kerberos: true
+policy: handler-btree

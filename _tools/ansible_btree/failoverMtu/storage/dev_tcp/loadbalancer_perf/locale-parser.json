@@ -1,0 +1,48 @@
+{
+    "router": "release",
+    "audit": {
+        "controller": [],
+        "sdk": "daemon",
+        "adapter": {
+            "bloom": 1186,
+            "grafana": [
+                "lexer",
+                "lexer"
+            ],
+            "cron": {
+                "index": "1f8ae719c169",
+                "cgroups": false
+            }
+        },
+        "zfs": {
+            "frontend": null,
+            "handler": {
+                "tenant": null,
+                "artifact": true,
+                "tls": "d9c205175c41",
+                "nat": false,
+                "trie": null
+            }
+        },
+        "mongo": true,
+        "vxlan": [
+            [
+                true,
+                983
+            ],
+            {
+                "compiler": null
+            },
+            {
+                "jenkins": null,
+                "registry": "162bd91e7c68"
+            },
+            false
+        ]
+    },
+    "bench": {
+        "user": true,
+        "row": null
+    },
+    "fuzz": 126
+}

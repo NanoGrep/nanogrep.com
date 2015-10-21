@@ -1,0 +1,36 @@
+[
+  {
+    "trie": 7706,
+    "nfs": null,
+    "mesh": "30a7d829e529",
+    "beta": {
+      "yaml": {
+        "http": 7952,
+        "ingress": null,
+        "rest": true
+      }
+    },
+    "backend": {
+      "schema": {
+        "http": true,
+        "release": "vlan"
+      },
+      "backup": false,
+      "yaml": {
+        "pod": 7786,
+        "runner": "node",
+        "bootstrap": 6249,
+        "tests": "91f39f2579e0"
+      },
+      "jwt": false
+    },
+    "helpers": [
+      {
+        "runner": "2586c180cac0",
+        "stack": false,
+        "bench": true,
+        "jwt": true
+      }
+    ]
+  }
+]

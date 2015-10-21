@@ -1,0 +1,19 @@
+policy:
+  zfs: grpc
+  scope:
+    - proxy-bloom
+    - cache
+    - 2abbd6a0
+    - edge
+  http:
+    rest: 158.24.61.144
+    watchdog:
+      ldap:
+        - prometheus-dist
+        - failover
+      ceph: 78.102.221.120
+cli: bucket
+protobuf: raid
+upstream: wireguard
+websocket:
+  ceph: 34f66dbbe8d5a3e62835d2122583afa2

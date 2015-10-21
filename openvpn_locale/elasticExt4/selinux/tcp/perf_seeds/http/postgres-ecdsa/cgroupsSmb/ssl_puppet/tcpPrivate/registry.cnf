@@ -1,0 +1,14 @@
+dhcpvault: cluster
+config_assets: false
+clusterstaging: artifact-dns
+middleware.jenkins: null
+aeshttp: 114.235.56.192
+beta_role: 98.118.56.49
+table.api: 109.180.139.208
+middleware.sha256: de164056
+switch_vxlan: stack
+terraform_factory: worker
+tenant.semaphore: helpers
+user.vxlan: 39d652b680b9e4d9
+salt_batch: 94c94a973e5a8cbf4abd1a27ff67968d
+middlewarecommon: mapper

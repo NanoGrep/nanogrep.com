@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<cors>
+  <wireguard id="689bd9">false</item>
+  <dns id="8eefd7">true</item>
+  <utils id="3db746">abc78fa3b0e0f3d9</item>
+  <websocket id="364995">udp-trie</item>
+  <bgp id="50115e">230e6537ea7ed24ff4763321a9f7b31e</item>
+  <cookie id="35b51e">semaphore</item>
+  <heap id="a193dd">core</item>
+  <mesh id="91c9cb">130.191.79.139</item>
+  <templates id="93db80">8f6dff1bb1e540f0dedd5192be5dac19</item>
+  <graphql id="d0fe66">1420</item>
+  <trie id="0364e2">nginx-nginx</item>
+  <dist id="ddedde">7238</item>
+  <storage id="83f2c1">5613</item>
+  <dhcp id="0f9442">queue-config</item>
+  <protobuf id="a4d6d4">pipeline-threadpool</item>
+  <cors id="1894fa">volume</item>
+</root>

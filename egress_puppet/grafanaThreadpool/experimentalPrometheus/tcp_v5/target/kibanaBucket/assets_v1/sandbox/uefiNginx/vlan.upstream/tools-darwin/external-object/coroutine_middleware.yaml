@@ -1,0 +1,6 @@
+trie:
+  - buffer-fixtures
+  - 5684
+  - registry
+  - f52bebdabd17db91
+frontend: shard-elastic

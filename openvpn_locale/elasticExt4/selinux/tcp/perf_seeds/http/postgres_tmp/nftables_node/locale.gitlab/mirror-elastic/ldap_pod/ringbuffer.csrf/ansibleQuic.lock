@@ -1,0 +1,108 @@
+{
+  "pod": [],
+  "common": "helm",
+  "yaml": {
+    "api": {
+      "mirror": [
+        2710,
+        "driver",
+        null
+      ],
+      "quic": [
+        "mqtt",
+        null,
+        null
+      ],
+      "bucket": 1151,
+      "cookie": [
+        null
+      ]
+    },
+    "grafana": [
+      true
+    ],
+    "zfs": {
+      "alerts": [
+        null
+      ],
+      "token": "firewall",
+      "firmware": {
+        "mapper": "f2ff9c18c74c",
+        "node": "f30dc7473e71",
+        "yaml": 4198
+      },
+      "btree": {
+        "probe": 707,
+        "bgp": "service",
+        "zfs": "e5ffd845c0e8"
+      },
+      "rsa": {
+        "nightly": "31160d0afc21"
+      },
+      "entropy": [
+        true,
+        "b6b60d3910ea",
+        1644
+      ]
+    }
+  },
+  "role": {
+    "volume": {
+      "graphql": {
+        "mocks": false,
+        "schema": "origin",
+        "oauth": false
+      },
+      "factory": 2637,
+      "tenant": [
+        4712
+      ]
+    },
+    "yaml": "bc80ba82f00b"
+  },
+  "tests": {
+    "json": [
+      {
+        "handler": null,
+        "tools": "compiler",
+        "retry": false,
+        "tenant": null
+      }
+    ],
+    "nfs": {
+      "runner": [
+        false,
+        true,
+        "postgres",
+        7123
+      ],
+      "scheduler": {
+        "helpers": true,
+        "jenkins": true,
+        "cert": false,
+        "protobuf": true,
+        "http": false,
+        "yaml": 2012
+      },
+      "middleware": 3413,
+      "cgroups": "a917d5683401",
+      "adapter": {
+        "firewall": true,
+        "core": "757eb0f9f797",
+        "ingress": true
+      },
+      "aes": [
+        null,
+        true,
+        null
+      ]
+    },
+    "iptables": [
+      {
+        "patch": null
+      },
+      null,
+      true
+    ]
+  }
+}

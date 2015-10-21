@@ -1,0 +1,4 @@
+http: build
+mocks: tenant-api
+config:
+  handler: 215.161.41.104

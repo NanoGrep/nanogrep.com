@@ -1,0 +1,9 @@
+replica: canary
+nat: envoy-runner
+bench: protobuf
+terraform:
+  - firmware
+  - edge
+  - 1c44ecda52df9544
+  - true
+migrations: true

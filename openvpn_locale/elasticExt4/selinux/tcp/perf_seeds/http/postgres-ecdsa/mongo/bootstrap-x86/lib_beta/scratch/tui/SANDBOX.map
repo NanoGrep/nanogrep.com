@@ -1,0 +1,1 @@
+[{"proxy": {"prod": 8130, "compiler": null}, "mapper": [], "socket": 3781, "bgp": {"hashmap": {"request": "vlan", "stack": true}}}, {"switch": true}]

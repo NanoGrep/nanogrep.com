@@ -1,0 +1,80 @@
+storage:
+  dhcp: 99.61.25.222
+  postgres: 146.48.172.78
+  wireguard:
+    limit:
+      - regex-router
+    grpc:
+      storage: aes-group
+      lexer: 4415
+      core: 5832
+      wireguard: 62.134.87.226
+      kafka: 1247
+  mirror:
+    hotfix:
+      probe:
+        - build
+    volume: ae48f9937fc8e34171262026fb571cff
+    retry:
+      - null
+      - 32.156.72.33
+      - 7d294d1f3793a8d3
+      - 245.13.109.158
+    router:
+      threadpool: f3d84a5f
+      bootstrap: null
+      topic:
+        - df9ed84d0dd48766aca3e2ccb94d8c69
+    cursor:
+      hotfix: origin-stream
+      prod: 4.137.215.196
+      locale: backup-fuzz
+      iptables: true
+    env: 29724d6d1c690174c237a20060bc6378
+  alerts: limit-handler
+  loader: 56.123.180.211
+bootstrap:
+  runner:
+    json: null
+    backend: 197dd76fa072b248dd7497408c48baf1
+    firewall: proxy
+  bootstrap: 168.139.90.90
+  logs: parser-hotfix
+  nfs:
+    schema:
+      firewall: 4e9fbf86273a801f536ebcdb4dd28e65
+    ingress: common-retry
+    terraform: router-table
+    beta: false
+    subnet:
+      mongo:
+        - null
+      mutex: 137.204.191.7
+      cgroups: null
+      registry: 111.108.30.131
+    salt:
+      - true
+      - schema-systemd
+  offset: topic
+  websocket:
+    cert:
+      nonce: 227.182.109.145
+      scheduler: 165ad3e82d583a65
+      ansible: sha256
+      btree: 70e08ca706681e1867546f1ccdead8d6
+    role: canary
+    firewall:
+      - 6842
+    object:
+      heap: 3874c13e
+    buffer: 232.69.10.168
+    nginx: 8657
+scheduler:
+  - 167.224.19.114
+limit:
+  systemd: 237e5d46fd74a6e3
+  cursor: 1638
+  nfs: elastic
+  mocks: 7058
+adapter: 83afeaa164eb2382caa640976adb2326
+ingress: grpc

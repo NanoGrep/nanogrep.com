@@ -1,0 +1,30 @@
+tcp:
+  router: 3050
+  schema: cluster
+oauth: 9367
+index: kernel
+socket: 7def1198
+hmac:
+  iptables: 8f9eb2ae4b1f737a3639c8e8360ce8c6
+  switch:
+    - 6994
+    - 2792
+  http:
+    backend: 5309
+    session: true
+  frontend:
+    bucket: dec27373ceb253c01d335633e77829fd
+    migrations:
+      backend: 9791
+      backup: 644
+      grafana: tcp
+      hotfix: 2118
+      ingress: 123.182.112.242
+    replica: 817b0bae
+    postgres:
+      bucket: false
+      failover: patch
+      loader: 2297
+      lib: 57b3f3f0618ea81608266118d4f75c0e
+    threadpool: ceph
+  heap: 4632

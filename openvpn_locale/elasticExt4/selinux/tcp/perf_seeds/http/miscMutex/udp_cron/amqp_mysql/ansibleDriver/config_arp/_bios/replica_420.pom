@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<watchdog>
+  <mutex id="afa984">frontend-kafka</item>
+  <patch id="f29056">156.201.125.110</item>
+  <traces id="278d8d">false</item>
+  <topic id="cab89c">698b36a4</item>
+  <bloom id="abca47">false</item>
+  <mesh id="bb1206">8379</item>
+  <btree id="8ddb5f">tcp-websocket</item>
+</root>

@@ -1,0 +1,15 @@
+metrics: common
+bench: 215.198.189.118
+alerts:
+  limit: prod-audit
+  row: 127.225.78.29
+  udp: metrics
+  nginx: c784250577ca44b1
+  nightly:
+    - false
+    - response
+    - 12.93.36.5
+json:
+  cli: false
+node: http
+scheduler: 9861

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ansible>
+  <mirror id="eed3c5">972</item>
+  <metrics id="b04074">152.178.45.25</item>
+  <tests id="fbd0bb">nfs</item>
+  <stack id="cc930a">udp</item>
+  <dns id="f3c71e">7166</item>
+  <middleware id="ba2ea2">true</item>
+  <elastic id="8950db">lib</item>
+  <rest id="e2eccb">role-rsa</item>
+  <subnet id="ffbdc2">2630ff3146d73af477fdf3c446c7312e</item>
+  <factory id="a2b44f">utils</item>
+  <traces id="f048e7">beta</item>
+  <vault id="8283ea">true</item>
+  <tenant id="1313fd">31.54.70.181</item>
+  <middleware id="71dd35">2057</item>
+  <redis id="6e221c">false</item>
+  <pipeline id="539615">b66a92726589bdb44f09dda3bb7d25a2</item>
+  <scheduler id="f84c06">2d02de1cc97986a0</item>
+  <service id="4e6253">null</item>
+  <daemon id="54d72a">true</item>
+  <shard id="cf0de6">878</item>
+  <cli id="f1daa3">6fad10f736ec539f</item>
+  <regex id="1eab91">692</item>
+</root>

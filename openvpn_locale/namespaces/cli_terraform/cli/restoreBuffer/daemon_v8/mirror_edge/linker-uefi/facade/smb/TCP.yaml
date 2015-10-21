@@ -1,0 +1,15 @@
+sandbox:
+  request: ab532125
+sha256: 3369
+pod:
+  - null
+regex: false
+helpers:
+  jwt: 40.19.127.92
+  firmware: 69.150.126.145
+  buffer: 135.63.63.67
+  hotfix: 12.247.176.159
+  semaphore:
+    - cgroups
+    - 175.134.141.19
+    - true

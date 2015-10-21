@@ -1,0 +1,20 @@
+rollback: 21e63c57652ef1cb
+patch: 8202
+request:
+  logs: lib-ceph
+  assets: cgroups-mysql
+  common: 195.9.42.65
+  api: 9253
+  trie: adapter-factory
+cli:
+  - 26.234.127.172
+  - false
+  - b3e2c289
+  - failover
+migrations:
+  tools: redis
+  mutex: true
+  shard: 29.26.236.3
+  mesh: pod
+  helpers: worker-shard
+  lambda: json-logs

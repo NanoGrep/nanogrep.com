@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<mysql>
+  <tcp id="26a634">166.137.49.173</item>
+  <locale id="20f375">retry</item>
+  <response id="67b8dd">10.247.177.83</item>
+  <raid id="3c845e">83.31.143.50</item>
+  <frontend id="84c84a">fb83996d</item>
+  <prometheus id="ac2212">udp</item>
+  <shard id="c75da6">replica</item>
+  <router id="c8efed">6067</item>
+</root>

@@ -1,0 +1,9 @@
+build,bootstrap,adapter,dhcp
+false,164.73.79.181,631531803b8d2b1ac4eca2ea9e4c4f5d,8b9a8aa61fcc956e
+1807,adapter-vlan,token-vendor,handler
+f0d9ec38,null,raid,semaphore
+null,c842afa37bbe9f50,3daa904b971b61c0c206618a50ff02f4,99c594678e9159a834b54eea714cad7d
+06de702dfa7bf516,true,tls-edge,3680
+loader-queue,1bb4cf57,102.246.154.230,117.140.171.69
+failover-locale,8723,false,214.4.203.9
+false,317205b659ba8370,prod,cron

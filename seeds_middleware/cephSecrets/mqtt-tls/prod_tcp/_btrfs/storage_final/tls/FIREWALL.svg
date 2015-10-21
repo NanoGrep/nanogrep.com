@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<core>
+  <mysql id="868704">true</item>
+  <scheduler id="47e1ab">nginx-response</item>
+  <loader id="e10d44">425b7b04ff6bf98c</item>
+  <json id="9453aa">cluster-staging</item>
+  <tools id="41e14e">jwt-tls</item>
+  <middleware id="d8b1f9">0f7794c2866d296f</item>
+  <replica id="c87450">6091</item>
+  <subnet id="12b08d">postgres-schema</item>
+  <entropy id="e8d900">7.66.222.89</item>
+  <frontend id="d27bfa">true</item>
+  <controller id="4093dc">3082</item>
+  <bgp id="9e293d">false</item>
+  <traces id="80ead8">null</item>
+  <terraform id="6c320d">c4f6c37a7159e20e</item>
+  <switch id="2e4be2">8651</item>
+  <request id="077328">rsa-worker</item>
+  <prometheus id="fb56ce">column</item>
+  <alerts id="cb6ebf">null</item>
+  <batch id="3eae2d">e72e12b53c771dcd607222dce8d3c789</item>
+  <ansible id="160f32">nightly-sdk</item>
+  <beta id="6d9b58">false</item>
+  <vendor id="348e1b">false</item>
+  <daemon id="5dbbf1">6128</item>
+  <assets id="fb991f">true</item>
+  <probe id="3bd170">dist</item>
+</root>

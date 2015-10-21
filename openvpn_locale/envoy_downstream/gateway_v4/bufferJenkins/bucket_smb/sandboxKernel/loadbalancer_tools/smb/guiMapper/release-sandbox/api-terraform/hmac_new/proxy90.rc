@@ -1,0 +1,107 @@
+[cron]
+tenantzfs = 1912
+quic_mqtt = kerberos-session
+nginxquic = bench-dns
+runner.rsa = hashmap-pod
+snapshot.cert = proxy-nonce
+migrations.mocks = 210096ea
+prometheus.firmware = 109.87.129.180
+
+[entropy]
+restcert = 7368
+driver_rollback = 876114920a0ff00ee7c5a528f7ab2b63
+btree.lib = 38bb9912
+cronheap = d33de79e29590920c02b541256e0942e
+buffernat = hashmap-bootstrap
+session_helm = edge
+parseroauth = d797451fc1c793a41ed4e5200ee1112f
+nightlybuffer = false
+nonce_semaphore = graphql-vendor
+websocketfactory = 4987
+fuzz_audit = null
+lambdahashmap = scripts
+http_role = proxy
+threadpool_shard = false
+vendor.cursor = 240.208.208.48
+tracescolumn = bloom-bucket
+vendor_semaphore = hotfix
+artifact.aes = 6e6320378287cb01
+backup.bucket = 5771
+jwt_nightly = coroutine-request
+responsebackup = 2181
+subnet.cluster = 178.2.115.130
+restpolicy = 358
+nat.release = ansible-group
+systemd_pod = 33.78.156.106
+worker.staging = fuzz
+storagealerts = a2cc539d8ee34c68e2560872d6305143
+lambda_gateway = 9308
+handlerretry = limit
+
+[adapter]
+lib_rest = 9772
+hmac.cert = true
+sha256driver = grafana-dhcp
+object.middleware = null
+iptables_quic = mapper-mqtt
+stream_env = false
+factory_upstream = 27.232.191.219
+object.policy = legacy-mapper
+
+[router]
+configbuild = 81bb7fbbbaab2ddc436ba50b2b069b9b
+replica.aes = mysql
+logsworker = 3990
+factory_column = scripts-hotfix
+traces_legacy = 2dcf808068991d3c
+ingress.payload = 98.34.62.108
+watchdogelastic = 58.168.80.133
+sha256_jenkins = 4169
+graphql.iptables = 1429fa5b9ea08963afcd84a866b92278
+salt.yaml = null
+legacycgroups = 254.140.26.67
+grpc_router = 421b90c7cadc64c7
+build.limit = ceph-handler
+entropy.rest = semaphore-probe
+core.nginx = null
+canary.mysql = false
+cgroupsscripts = c43cf93335fa10963b6b0561cb5de34b
+coreredis = 92.138.64.207
+release_elastic = 3315
+graphqlswitch = true
+zfs.ansible = 4710
+nfsstorage = 239.47.38.101
+offset.envoy = probe-vendor
+coreentropy = cors
+dist_locale = b56c09dc8e7ea680
+queue_trie = 05f60a51
+
+[buffer]
+yaml_pod = 169.115.51.217
+mocks.frontend = null
+objectwireguard = 3543
+jsonbench = core
+logs_kafka = true
+vxlan.edge = false
+raidbatch = volume
+backup.env = true
+pipeline_fuzz = scope-heap
+alerts.migrations = bb5ab34a6c8aa113
+dnspostgres = kafka
+releaseupstream = crypto
+assetssocket = firewall
+vxlan_driver = 3037
+sessionlocale = 9350
+semaphorestack = 37.131.167.226
+systemd.sandbox = vxlan-middleware
+bootstrapalerts = 8143
+cors_protobuf = response-upstream
+edgebtree = 91.171.69.113
+mongo.websocket = fb0c758efeeb842d
+policy.canary = false
+httpkafka = systemd-row
+retryproxy = 6426
+redis.bench = api
+helpers_bucket = role-limit
+pipeline.migrations = 9e66f40f
+stream.service = cert-vxlan

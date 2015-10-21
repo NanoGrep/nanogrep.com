@@ -1,0 +1,37 @@
+{
+    "nat": [
+        "6291730693d0",
+        {
+            "backup": {
+                "jwt": "090ff7a42acb",
+                "scope": null,
+                "payload": null,
+                "buffer": "fe938fd46452",
+                "switch": null
+            },
+            "quic": "daemon",
+            "trie": true,
+            "stream": {
+                "mesh": 1872,
+                "btree": "registry",
+                "assets": true,
+                "watchdog": false,
+                "object": true
+            },
+            "ldap": null
+        },
+        {
+            "tests": null,
+            "elastic": true,
+            "schema": false,
+            "group": {
+                "cursor": true,
+                "build": "entropy",
+                "gateway": "regex",
+                "probe": "9a211a36ec69"
+            },
+            "user": "87f34c39f65f"
+        },
+        null
+    ]
+}

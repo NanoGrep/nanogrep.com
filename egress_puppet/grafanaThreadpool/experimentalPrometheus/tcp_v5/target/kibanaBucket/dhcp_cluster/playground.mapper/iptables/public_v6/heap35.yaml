@@ -1,0 +1,10 @@
+mocks: 6645
+redis: false
+cli:
+  - 1015
+  - 8cdbf50d
+  - 9496
+  - 108.16.101.58
+btree: parser-mapper
+json: 7910
+failover: group

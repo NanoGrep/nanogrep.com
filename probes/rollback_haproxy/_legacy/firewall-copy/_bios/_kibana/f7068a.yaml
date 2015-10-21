@@ -1,0 +1,20 @@
+shard: 5b984377
+proxy:
+  - zfs-tls
+  - 2aaab4a2
+crypto: 01482c34f64978fade18203415405d87
+wireguard: user
+jwt:
+  mirror: 374d7c02
+  buffer: 6c506d254f7042bc
+  replica:
+    build:
+      origin: 6589
+      column: 223.217.127.118
+      cache: middleware-request
+      canary: 162.249.60.228
+      raid: envoy-mirror
+      core: 242.66.91.49
+  templates: false
+  mapper: 571
+  socket: mqtt-regex

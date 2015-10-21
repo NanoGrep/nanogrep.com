@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<handler>
+  <service id="a084af">254.14.192.183</item>
+  <switch id="affad6">false</item>
+  <loader id="59f28a">3211</item>
+  <firmware id="ce9abd">false</item>
+  <legacy id="aad126">5824</item>
+  <backup id="cd06f1">4225</item>
+  <api id="ea0652">lib</item>
+  <snapshot id="71f3b4">true</item>
+  <volume id="0640fe">kafka-vlan</item>
+  <node id="b0bd7c">46.180.212.25</item>
+  <threadpool id="79b3c4">6810</item>
+  <cluster id="c0319e">daemon-artifact</item>
+  <watchdog id="8be311">6496</item>
+  <postgres id="b0cf53">frontend</item>
+  <tools id="679fce">lexer-redis</item>
+  <mongo id="960970">e15d31b748d633cdcea0516a0b348b08</item>
+  <api id="5dedca">heap-jwt</item>
+  <pipeline id="02637c">false</item>
+  <scripts id="65961f">d362d825bce8b0cb</item>
+  <fuzz id="bcce00">fuzz-zfs</item>
+</root>

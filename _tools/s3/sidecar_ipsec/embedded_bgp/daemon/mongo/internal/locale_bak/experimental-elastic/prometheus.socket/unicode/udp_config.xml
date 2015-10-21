@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<object>
+  <probe id="6b0382">row-nginx</item>
+  <btree id="139e29">8300</item>
+  <cert id="ad44a4">44.139.234.86</item>
+  <user id="9b5899">7cb9d37bbd4e77c2</item>
+  <sandbox id="e2cdfb">8369</item>
+  <cache id="3cd677">1b38aec2</item>
+  <regex id="631a1c">825623b802b5717bc1e02f3ab279b7d3</item>
+  <limit id="5b43dc">150.245.135.96</item>
+  <redis id="ba0c3c">2519</item>
+  <json id="f4eda8">true</item>
+  <rsa id="4e2784">d22080d8</item>
+  <api id="459f12">1165</item>
+  <traces id="709eaa">artifact-backend</item>
+  <envoy id="fb9a47">5299</item>
+  <utils id="a5e3b5">165.193.47.22</item>
+  <crypto id="505a39">firmware-legacy</item>
+  <systemd id="b0023f">9d59c900</item>
+  <nginx id="13b906">offset</item>
+</root>

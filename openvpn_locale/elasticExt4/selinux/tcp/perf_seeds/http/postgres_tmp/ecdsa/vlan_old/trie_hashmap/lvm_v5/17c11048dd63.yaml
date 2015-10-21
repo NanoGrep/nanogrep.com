@@ -1,0 +1,48 @@
+assets: envoy
+entropy: 36.124.221.61
+systemd: true
+queue:
+  websocket: 73.24.134.234
+  http:
+    - true
+    - null
+    - 179.138.203.145
+queue: jenkins
+topic:
+  vxlan:
+    ceph: null
+    scripts:
+      - node
+      - 1a957fad7c11bc50b0a264a1c7ca78a6
+    switch:
+      redis: 162.139.154.4
+      canary: f3be0eea82ff7841
+    origin: 75.211.150.230
+    hmac:
+      - 4508
+      - 4612
+      - false
+    cli:
+      - 11.60.164.246
+      - crypto-storage
+      - mirror-index
+  http:
+    cluster: 3428
+  assets:
+    user:
+      - schema-row
+    scripts:
+      - 82.143.28.83
+    core: 5931
+    release:
+      lambda: 251.183.200.140
+      user: 90.187.30.27
+    queue:
+      watchdog: 2328b7ce7c5a402f
+      lambda: 7341
+      upstream: 7904
+      heap: 2815
+      json: false
+      cookie: firmware-http
+    column: 7514
+  http: vault

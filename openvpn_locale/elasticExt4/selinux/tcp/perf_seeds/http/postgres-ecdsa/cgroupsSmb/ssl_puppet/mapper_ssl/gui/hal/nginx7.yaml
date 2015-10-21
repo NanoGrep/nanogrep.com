@@ -1,0 +1,24 @@
+tenant: 7118
+sandbox:
+  helpers: aes
+  limit:
+    socket: replica
+    traces:
+      raid: true
+      gateway: 7212
+      templates: firewall
+      bucket: 175.180.247.172
+      edge: 1810
+mongo:
+  fuzz:
+    bootstrap:
+      mongo: 2d56990905c9af30
+    tcp: stack
+    rollback: loader
+    entropy:
+      adapter: true
+      backend: null
+      topic: ca996996e1be5a3d
+    mysql: grafana-router
+  graphql: null
+  yaml: 87.26.94.184

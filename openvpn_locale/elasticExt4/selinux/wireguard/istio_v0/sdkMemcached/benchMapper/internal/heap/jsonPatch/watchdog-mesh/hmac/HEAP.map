@@ -1,0 +1,1 @@
+{"topic": {"cgroups": [{"schema": "6cc1c5f4d139", "json": "sandbox", "vendor": null}, {"lib": true}, {"json": false, "templates": "bab0f27ee0d5"}, {"grafana": false, "oauth": false, "switch": false}]}, "lambda": [null, true]}

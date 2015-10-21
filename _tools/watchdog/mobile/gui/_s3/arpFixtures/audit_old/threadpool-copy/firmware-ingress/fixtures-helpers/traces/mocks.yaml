@@ -1,0 +1,39 @@
+request: tools-tools
+pod:
+  origin:
+    regex: prod
+    tenant: 06c14c42
+  cache:
+    aes:
+      lib: utils
+      assets: response-utils
+      hashmap: bucket
+    grpc:
+      nonce:
+        - 6118
+        - assets
+      build: false
+      config:
+        - 13.205.26.3
+    assets: crypto-parser
+    assets:
+      templates: true
+      stream: null
+      alerts: 213f02d5
+      compiler: rsa-proxy
+      systemd: 343301f6b2514d1ff7a7c98accc7274a
+    payload: node
+  mqtt:
+    kafka: backend-rollback
+    oauth: 6918
+parser:
+  request:
+    bgp: 19
+    retry:
+      - true
+  prod:
+    - user-semaphore
+    - true
+    - 68.200.167.127
+    - true
+metrics: tls-dist

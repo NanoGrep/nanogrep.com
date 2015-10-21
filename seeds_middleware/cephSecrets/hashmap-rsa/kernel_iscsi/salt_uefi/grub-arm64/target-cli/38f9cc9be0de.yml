@@ -1,0 +1,3 @@
+postgres:
+  tests: 329
+ansible: 187.49.1.207

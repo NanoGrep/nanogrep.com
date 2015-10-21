@@ -1,0 +1,15 @@
+prometheus_zfs=2182
+prometheus.user=27.68.24.18
+benchfirmware=36.93.145.142
+topic_dns=vxlan-jwt
+role.wireguard=true
+factory.hmac=484
+cluster.edge=lexer-index
+vendor_mocks=35.174.63.232
+frontend.controller=node
+beta.jwt=sha256-topic
+origin_metrics=cli
+watchdog_dns=false
+batch.rsa=195.244.227.106
+patch.ingress=78.229.151.216
+metricsnode=stack-vault

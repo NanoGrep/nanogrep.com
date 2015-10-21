@@ -1,0 +1,12 @@
+json,router,handler,grafana,mysql
+batch-factory,tenant,2db27a0a45f28c99,1394,release
+7541,true,cursor-scripts,aa64b9e4a09c3042,8a093ed8
+5327,node,25.107.241.17,5970,graphql-assets
+12.90.81.11,99.4.238.208,config,108.157.69.15,staging-bucket
+mocks,systemd,9742,896,108.216.14.235
+9730,291a742ee371ef8c17956ab9fdc2eeb3,3323,batch,8499
+assets-regex,stream,runner-config,23.45.5.13,38fda01ee6cd4db6
+739e7351,51d4a48b69fbcad546e1dc0c44ae09fd,7fbd67e5,193.62.7.81,caed2ca8
+d67ba86bab468ada,8149,null,231.214.205.73,batch-core
+json,278e352802816ba3a41faa5e570fff1a,true,iptables-daemon,cert-vlan
+null,coroutine,false,ec7dbf6ae0cdc4a678dd7018cc650b27,11.177.114.43

@@ -1,0 +1,30 @@
+api: 247.122.207.18
+subnet: worker-compiler
+lambda:
+  wireguard:
+    vault: 1ecccb6c50f2e1aff9054dd35a81ec3e
+    iptables:
+      vxlan: 8616
+  beta: null
+  mesh: node
+  gateway:
+    - 73.95.184.74
+replica: 1835
+stack:
+  scheduler: ec774d81
+  raid:
+    response: offset
+    service:
+      - switch-ansible
+      - grafana-migrations
+    handler: vxlan
+    vendor: common-column
+    nat:
+      - 945
+      - true
+      - 9662
+      - fea07ac04bb25da5397804dfd3f3f302
+  bgp: 9113
+  rsa: null
+  envoy: 6104
+  user: loader

@@ -1,0 +1,25 @@
+{
+    "backup": true,
+    "aes": "canary",
+    "response": true,
+    "semaphore": [
+        "backup",
+        "eedef0ed9390",
+        {
+            "udp": "2ac106dd657f",
+            "regex": {
+                "pod": null,
+                "entropy": "tenant"
+            },
+            "pod": null,
+            "api": "ec160e71b775"
+        },
+        {
+            "terraform": [
+                5658,
+                null,
+                null
+            ]
+        }
+    ]
+}

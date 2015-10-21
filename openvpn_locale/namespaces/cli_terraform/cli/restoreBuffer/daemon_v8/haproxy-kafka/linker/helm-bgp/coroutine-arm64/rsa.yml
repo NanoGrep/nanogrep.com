@@ -1,0 +1,14 @@
+batch:
+  upstream: 236.72.254.7
+  mapper:
+    postgres:
+      - 1997
+      - 9034
+      - false
+      - policy-buffer
+  cors:
+    - 639702a3
+    - stream
+    - false
+    - true
+  token: 197.169.239.36

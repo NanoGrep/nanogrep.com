@@ -1,0 +1,2 @@
+loader: ansible
+systemd: gateway-group

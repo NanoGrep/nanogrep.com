@@ -1,0 +1,69 @@
+limit:
+  utils: 9fbc957a
+legacy:
+  handler: 133.224.123.153
+  nonce: table
+  object:
+    common: 9729
+    registry:
+      aes: switch-router
+      cgroups: cd2fbf13
+      jenkins:
+        - 6228
+        - 4c2da56ab8aeb6dbe35d4ac348671220
+        - 1676
+      proxy: f5ef04dd8e0e295a
+    cron: null
+    locale:
+      token:
+        - metrics-aes
+        - ff146294
+        - row-mirror
+      cursor: 101.74.65.223
+  fixtures:
+    - parser-proxy
+  tenant:
+    request: sha256-release
+    vlan:
+      proxy: 73.51.15.159
+    scheduler:
+      stack: 1a876581f2efe3ce
+      templates:
+        - compiler-regex
+        - 64ba44a09604eaad0a8973c43298f9c6
+        - 430
+        - 42.228.107.60
+      prometheus: true
+      bootstrap: json-column
+      bgp: null
+    cli:
+      rsa: buffer-crypto
+      rsa: edge-prod
+stream: false
+beta:
+  trie:
+    udp: true
+    kernel:
+      patch:
+        - 3709
+        - d94c160c476bc3dc2fea00e9450fa09e
+        - true
+      audit:
+        - yaml
+        - 6ca79024
+        - 378
+    patch:
+      systemd: 3906
+      lib: 6345
+      frontend: pod
+      controller: canary-handler
+    switch: 2216
+    volume:
+      tls: tcp-hmac
+      dhcp: 4fe1a4d256e78937077e3a35dc8ab486
+      offset: b7045736e7de358c27618fcce00596d8
+      config: firewall
+    table: 8050
+  buffer:
+    hotfix: 3269
+    cert: firewall-fixtures

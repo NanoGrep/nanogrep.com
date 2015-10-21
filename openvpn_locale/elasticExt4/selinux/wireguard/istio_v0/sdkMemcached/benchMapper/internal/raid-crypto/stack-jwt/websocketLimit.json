@@ -1,0 +1,50 @@
+{
+    "patch": {
+        "tests": [
+            false,
+            false,
+            2065,
+            "b6a96e335d4b"
+        ],
+        "origin": {
+            "factory": {
+                "ingress": true,
+                "metrics": "ldap",
+                "bloom": 1793,
+                "bgp": null,
+                "request": null,
+                "parser": true
+            },
+            "vendor": {
+                "nightly": "mutex",
+                "adapter": 5316,
+                "hashmap": "b4f146344f67"
+            },
+            "backup": null,
+            "parser": true
+        },
+        "mysql": [
+            {
+                "subnet": "fixtures",
+                "legacy": false,
+                "mutex": "32c87568fb9a"
+            },
+            [
+                4583,
+                "a3515b1ef869",
+                "lexer"
+            ]
+        ],
+        "grafana": {
+            "switch": null,
+            "edge": null,
+            "ldap": {
+                "terraform": null,
+                "heap": 3333,
+                "worker": "cdb84f00586c",
+                "env": true
+            },
+            "beta": "ef00d0c33b9a"
+        }
+    }
+}

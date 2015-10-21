@@ -1,0 +1,3 @@
+volumehmac: elastic-driver
+grafana.coroutine: snapshot-payload
+object.cursor: false

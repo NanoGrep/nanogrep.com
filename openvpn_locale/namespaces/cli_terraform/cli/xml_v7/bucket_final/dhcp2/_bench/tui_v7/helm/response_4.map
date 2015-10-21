@@ -1,0 +1,90 @@
+{
+  "schema": {
+    "replica": {
+      "scripts": null,
+      "tests": "d5b0de7c042b",
+      "daemon": {
+        "hotfix": "heap",
+        "crypto": 9912,
+        "object": "4bb36ca62bf3",
+        "firewall": false,
+        "switch": "af3d9540cc5b"
+      },
+      "probe": false,
+      "oauth": {
+        "mysql": null,
+        "rollback": null,
+        "storage": null,
+        "helpers": "tools"
+      }
+    },
+    "cgroups": {
+      "redis": {
+        "nonce": "ee1bc0ecc19c",
+        "cron": null,
+        "artifact": "object",
+        "backend": "switch"
+      },
+      "replica": {
+        "policy": 1817,
+        "jwt": false,
+        "core": true,
+        "handler": true
+      }
+    }
+  },
+  "tls": {
+    "payload": true,
+    "traces": true,
+    "hotfix": []
+  },
+  "tests": {
+    "runner": {
+      "bucket": {
+        "queue": false,
+        "heap": null,
+        "mesh": "2fcf2db67ca8",
+        "node": null,
+        "release": "postgres"
+      },
+      "postgres": "1f09442768ff"
+    },
+    "tls": 817,
+    "policy": {
+      "elastic": [
+        false,
+        7620,
+        true,
+        null
+      ]
+    },
+    "limit": [
+      false,
+      false,
+      [
+        "70fc3ea8167c",
+        true
+      ]
+    ]
+  },
+  "grpc": [
+    {
+      "controller": {
+        "hashmap": true,
+        "sha256": true,
+        "audit": null,
+        "lambda": "jenkins",
+        "grpc": false
+      },
+      "beta": {
+        "token": true
+      },
+      "session": [],
+      "gateway": [
+        false,
+        true,
+        true
+      ]
+    }
+  ]
+}

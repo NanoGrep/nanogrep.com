@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<session>
+  <parser id="28d333">f7e711f5</item>
+  <mapper id="dd1fbf">4386</item>
+  <retry id="b61278">08af1c18</item>
+  <shard id="9f8cdc">223.137.200.81</item>
+  <nightly id="587d59">4578</item>
+  <switch id="ad107f">6717</item>
+  <cgroups id="cfb989">27</item>
+  <compiler id="580e1b">780</item>
+  <topic id="0a2782">true</item>
+  <volume id="cc7779">1652</item>
+  <cron id="7cf5c7">null</item>
+  <dist id="72139e">trie-protobuf</item>
+  <wireguard id="18ca97">ff10e91d</item>
+  <failover id="cd73f8">controller-mqtt</item>
+  <router id="ff0d28">false</item>
+  <json id="e9fa38">7732</item>
+  <mongo id="9d0405">false</item>
+  <rollback id="b23c1c">aes-middleware</item>
+  <mirror id="20cc34">proxy-beta</item>
+  <migrations id="840f73">ca8610816b8ce2bb</item>
+  <grafana id="f868ea">bootstrap-http</item>
+  <terraform id="448457">trie</item>
+  <nat id="fdbab9">nonce-lambda</item>
+  <release id="53c8c0">user</item>
+</root>

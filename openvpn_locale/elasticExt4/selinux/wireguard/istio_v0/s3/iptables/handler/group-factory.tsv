@@ -1,0 +1,11 @@
+ingress,controller,wireguard,group,kernel,migrations
+udp,vault,dhcp-adapter,null,utils,0d791bf4ead3d1d7fa21d180522232dd
+tenant,141.195.62.190,semaphore,2784,42.152.228.125,5760
+7447,mapper,config,66ed389c,75.8.49.138,wireguard-offset
+vault-retry,dc54156cd18bb97e,5228,daemon-pod,hmac-alerts,4591
+null,48.131.194.201,true,true,true,97.161.194.193
+false,72a3e1ac,redis,0944d1448cc04641,helpers,2776
+bloom-token,table-failover,false,90b98698,1691cba452ecd1ec,migrations-row
+fuzz,utils-staging,8349,6130a3c9ab46365f29cb2961acde66aa,7d38ef6e,9dfc9a19
+01c5f5bca5080610,backend-aes,patch-yaml,watchdog-core,driver,backup
+true,watchdog-systemd,metrics,failover-mirror,189.206.168.122,6579

@@ -1,0 +1,28 @@
+firewall:
+  wireguard: helm
+  mocks: 6683
+  stream: 91.169.100.219
+  session:
+    sha256: 154.179.183.4
+    frontend:
+      mapper: null
+      heap: http
+    backup: 250.211.205.49
+    payload:
+      compiler: backend-locale
+      redis:
+        - true
+        - tests
+        - true
+      ceph: 7336
+    hashmap: 135.62.12.96
+    registry: c752c130
+  snapshot:
+    api:
+      daemon: null
+      tests: false
+      lib: object-nonce
+      alerts: policy-compiler
+      volume: 87.26.147.238
+    dist: 289bad7c0b12f9c8
+    hmac: 3321

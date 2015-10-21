@@ -1,0 +1,21 @@
+bootstrap:
+  - 2849
+middleware: replica
+threadpool: session
+entropy:
+  snapshot: 92.92.199.119
+  table: 218.102.95.21
+  sha256:
+    - udp-traces
+    - proxy-stream
+    - false
+lib:
+  registry:
+    kafka: group-json
+    cache: 1a1a5c153a82239f27369da1a152d453
+    grpc:
+      - rest-artifact
+      - 151.174.151.145
+      - 2fce5f313126a154
+  queue: f166b0a7df68f49fc9a516c896456ef6
+  stack: 9890

@@ -1,0 +1,16 @@
+adapter: 19.190.0.77
+payload:
+  fuzz: audit-firmware
+  helm: true
+  rollback: 00efd3cc4f5bb2b93c331bbc413d33c6
+  raid:
+    origin: true
+    env: false
+    cgroups: metrics-cron
+    vlan: null
+    group: firmware-volume
+  logs:
+    bootstrap: 7e773ca1
+    staging: proxy
+backend: redis-vault
+zfs: 3402

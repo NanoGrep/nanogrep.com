@@ -1,0 +1,65 @@
+[lambda]
+index_dns = cookie-coroutine
+metrics.ansible = nfs-payload
+utils_core = 7ec7d52933282c9b
+beta.vlan = jenkins-subnet
+rollback_nat = null
+regex.buffer = false
+raidmutex = core-envoy
+meshgrpc = false
+switchpipeline = 66.82.170.75
+topic.registry = null
+vlancore = tenant-beta
+rollbackentropy = ed2a7ab4
+user_tools = patch-table
+postgresrest = 142.244.107.75
+systemd_cli = null
+router.jenkins = 227.214.175.228
+batch_canary = 4321
+policy_envoy = websocket
+token.hmac = object-cgroups
+probe.fixtures = 114612b7592681f6ae383b46bafac6c5
+grpc_postgres = true
+gateway_compiler = 33.31.5.201
+
+[bloom]
+prod.tcp = coroutine
+ceph_trie = rest-lib
+ldap.factory = mapper
+distprobe = 45.228.169.179
+saltlocale = 5ac0b417
+cluster_response = 6178
+table.mysql = true
+tokencursor = helpers-router
+shard_mesh = 1321
+factory_probe = raid
+gatewaycolumn = null
+prod_websocket = gateway
+
+[rollback]
+fuzz_firewall = 134.230.250.10
+redis.vlan = true
+backup.registry = true
+storage_sandbox = session-buffer
+common_hotfix = 132.169.108.99
+stack_dhcp = bcf9e949
+factoryudp = true
+origin_lambda = 2333
+kafkaenvoy = schema-nightly
+core.handler = 77bfc8cb
+btree_envoy = elastic-pipeline
+bootstrapmongo = 6460
+firmware.grafana = dc35dd626adde0308c91c2cfe76cdef8
+offset_compiler = 2f83c45be618ef22
+patch.adapter = 6602
+hmac_tools = 23.17.5.17
+nodelogs = 4838
+rowreplica = upstream
+bgpcanary = vxlan-backend
+switchworker = assets
+jsonelastic = false
+parser.driver = 195.5.82.82
+metrics.btree = dist-gateway
+rollback_cert = 19.9.100.182
+topicfactory = runner
+rediscert = 179.46.167.45

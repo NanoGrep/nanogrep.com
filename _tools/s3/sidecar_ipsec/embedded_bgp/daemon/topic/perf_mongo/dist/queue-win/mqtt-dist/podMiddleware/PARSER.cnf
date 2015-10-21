@@ -1,0 +1,12 @@
+entropy.staging: false
+iptablesdns: failover-index
+corefirmware: false
+upstream_response: 7ac172e3441f74e7
+rest_table: false
+factory_tests: router-semaphore
+nginx.rollback: env
+quic.locale: null
+vlan_tools: 8076
+cli_heap: patch-cluster
+cluster_object: null
+node_role: column-json

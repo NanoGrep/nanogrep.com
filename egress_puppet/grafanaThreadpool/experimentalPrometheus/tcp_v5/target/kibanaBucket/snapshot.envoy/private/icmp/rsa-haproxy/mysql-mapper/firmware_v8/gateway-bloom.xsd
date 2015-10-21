@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<sdk>
+  <sdk id="840ef6">hashmap-service</item>
+  <backup id="e30e21">ab7c7a2e</item>
+  <release id="7413d3">251.62.197.70</item>
+  <buffer id="86f25f">d1711ccb</item>
+  <compiler id="0c94b9">8465</item>
+  <index id="a57cd5">126.144.177.21</item>
+  <cors id="b4c73e">null</item>
+  <cors id="e3eee8">false</item>
+  <utils id="8d1602">true</item>
+  <migrations id="2d93aa">69.161.127.203</item>
+  <scheduler id="825f89">733de03ef6ba33babd2c0291739ee0d1</item>
+  <firmware id="c49527">211.130.157.108</item>
+  <env id="77d133">api-cgroups</item>
+  <sha256 id="f0b3d2">b0c81d3f3d075250a9a44ebcf54de11a</item>
+  <env id="d87fe2">queue</item>
+  <policy id="0e7e0a">f367e8e9d5da9381</item>
+</root>

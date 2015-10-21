@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <kerberos id="0e7993">2756</item>
+  <failover id="74313b">false</item>
+  <node id="4ee571">tools-pipeline</item>
+  <jenkins id="614017">node</item>
+  <storage id="e3ecce">audit</item>
+  <btree id="6a9cda">45.31.176.68</item>
+  <parser id="1a95fd">68.145.115.80</item>
+  <offset id="72c0a8">6257</item>
+  <controller id="4aafd7">7424f0a22ede78e1</item>
+  <cert id="dd5dd4">3195</item>
+  <policy id="7f2162">ingress-rsa</item>
+  <prod id="9efcb8">94.97.83.29</item>
+  <build id="6967b4">154.147.134.213</item>
+  <audit id="72e24f">factory-trie</item>
+  <cache id="245fae">4827</item>
+  <ldap id="247541">null</item>
+  <tenant id="6e9f5c">110.210.50.154</item>
+  <sandbox id="ed45bb">184.241.35.238</item>
+  <hmac id="4aa0ac">98.234.198.216</item>
+</root>

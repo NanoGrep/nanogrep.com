@@ -1,0 +1,48 @@
+parser:
+  service:
+    mongo:
+      cgroups: crypto
+    logs:
+      jenkins: 981
+      nfs: 3761
+  compiler: 910
+  locale:
+    mesh: 1726
+    mocks:
+      storage: true
+      shard: a89b0a48
+      btree:
+        - prometheus
+        - sha256
+        - null
+        - assets
+      vendor: 9281
+      mutex: 53.166.56.186
+      kafka: 78.89.77.151
+    backend: 1191c7341ebaaa5f82db970db4fa8616
+    role: aes
+    websocket: common
+  staging:
+    watchdog: 6938
+    runner: 972
+    tests: dns
+    failover: cc809410
+    rollback: 162.12.109.215
+    cors: 1af42ebe65bef5f5d957f1eaf437c5a8
+  mysql: null
+  udp:
+    shard:
+      - buffer-switch
+    cookie: cache-retry
+    parser:
+      - offset-pipeline
+      - false
+    json: kerberos-tools
+    topic:
+      nonce: fc93464843f23d9a
+      core: 2799
+      tools: null
+      helpers: false
+    queue: true
+utils: 3da2a177
+btree: false

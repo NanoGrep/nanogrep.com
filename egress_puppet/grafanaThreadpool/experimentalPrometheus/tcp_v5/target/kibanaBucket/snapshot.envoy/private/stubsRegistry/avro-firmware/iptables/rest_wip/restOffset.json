@@ -1,0 +1,220 @@
+{
+  "frontend": {
+    "rest": {
+      "shard": {
+        "cluster": false,
+        "heap": 4957,
+        "kafka": false
+      },
+      "middleware": null,
+      "kerberos": {
+        "env": true
+      },
+      "scope": true
+    },
+    "salt": {
+      "cors": false
+    }
+  },
+  "middleware": {
+    "canary": {
+      "pipeline": "49a678c9487f",
+      "object": [
+        "bench"
+      ]
+    },
+    "mocks": 5378,
+    "factory": {
+      "payload": null,
+      "lib": false,
+      "driver": {
+        "btree": null,
+        "volume": true,
+        "batch": "volume"
+      },
+      "btree": [
+        true,
+        "grafana",
+        false,
+        "d89d621b3579"
+      ],
+      "frontend": [],
+      "nightly": {
+        "cert": "d87accfbb97e",
+        "logs": 5242,
+        "hmac": "pipeline",
+        "kernel": false,
+        "heap": null,
+        "assets": "9f652481120a"
+      }
+    },
+    "daemon": {
+      "runner": 5995,
+      "watchdog": {
+        "release": false,
+        "queue": "jwt",
+        "sandbox": null,
+        "snapshot": "4dcde1e10bdb",
+        "envoy": "logs"
+      },
+      "release": {
+        "adapter": true,
+        "fixtures": 7891,
+        "mirror": false,
+        "frontend": 9463
+      },
+      "dist": 2582,
+      "nfs": true,
+      "snapshot": {
+        "runner": "coroutine",
+        "stream": "locale"
+      }
+    },
+    "proxy": {
+      "protobuf": {
+        "edge": 6246,
+        "logs": true
+      },
+      "user": "ldap",
+      "backend": {
+        "envoy": null,
+        "nginx": "rest",
+        "prod": true,
+        "storage": "7ca624eca20e",
+        "nonce": null,
+        "hotfix": null
+      },
+      "offset": [
+        false,
+        true
+      ],
+      "cache": "e9ae3777013c"
+    },
+    "worker": [
+      true,
+      6149
+    ]
+  },
+  "replica": {
+    "pipeline": false,
+    "grafana": [
+      "46a3d916f78a",
+      {
+        "request": 8087,
+        "probe": false
+      },
+      "migrations",
+      {
+        "adapter": null
+      }
+    ],
+    "payload": "probe",
+    "rest": {
+      "metrics": {
+        "metrics": "48648c000de4",
+        "edge": true,
+        "dist": false
+      },
+      "tests": {
+        "vlan": null
+      },
+      "backup": {
+        "handler": 7520,
+        "volume": "worker"
+      },
+      "rollback": 109
+    },
+    "mqtt": {
+      "cert": {
+        "bootstrap": "9d2349cbc118",
+        "traces": "metrics",
+        "topic": "be3b49989def"
+      }
+    }
+  },
+  "controller": {
+    "session": "2238e548ca1a",
+    "index": {
+      "limit": {
+        "tenant": null
+      }
+    },
+    "traces": {
+      "mutex": {
+        "ceph": 8359
+      },
+      "grafana": "helm",
+      "upstream": {
+        "request": "5d9f67c3134f",
+        "ldap": 1303,
+        "jwt": "ab4773c7e091",
+        "handler": null,
+        "kafka": false,
+        "salt": "63a17289053d"
+      },
+      "websocket": {
+        "loader": null
+      },
+      "regex": [
+        false,
+        null
+      ],
+      "fuzz": {
+        "btree": false,
+        "logs": "queue",
+        "bootstrap": null,
+        "adapter": 4620,
+        "rest": null
+      }
+    },
+    "driver": {
+      "firmware": [
+        true
+      ],
+      "fuzz": 2711,
+      "policy": {
+        "upstream": 2058,
+        "scope": false,
+        "prometheus": null,
+        "heap": false,
+        "limit": false,
+        "dhcp": true
+      },
+      "daemon": {
+        "build": "metrics",
+        "cache": true,
+        "quic": "kerberos",
+        "heap": "024b2ea67b09",
+        "schema": true,
+        "daemon": "96619e45d49f"
+      }
+    }
+  },
+  "migrations": {
+    "batch": [
+      {
+        "storage": "frontend",
+        "salt": "mqtt",
+        "nightly": null,
+        "prometheus": true,
+        "sandbox": false
+      },
+      null
+    ],
+    "postgres": 9639,
+    "nginx": "230f1ba6c9ce",
+    "origin": {
+      "beta": "cb6d1282fb66"
+    },
+    "bucket": [
+      {
+        "tools": "hmac",
+        "frontend": null,
+        "elastic": null,
+        "tests": true,
+        "prod": "legacy"
+      }
+    ],
+    "switch": false
+  }
+}

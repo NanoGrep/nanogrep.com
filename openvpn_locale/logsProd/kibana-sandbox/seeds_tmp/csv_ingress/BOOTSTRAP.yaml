@@ -1,0 +1,11 @@
+bloom:
+  table: 8914
+  oauth: 83eddb5e
+helpers:
+  - ansible
+  - false
+dist:
+  - null
+  - shard-rest
+  - null
+  - f49ed802

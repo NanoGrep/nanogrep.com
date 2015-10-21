@@ -1,0 +1,10 @@
+{
+  "cli": "redis",
+  "firewall": true,
+  "alerts": {
+    "watchdog": true
+  },
+  "release": {
+    "bloom": "626713e07f5b"
+  }
+}

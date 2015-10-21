@@ -1,0 +1,36 @@
+prod:
+  stack: sha256-column
+  retry:
+    wireguard: 82.25.69.214
+    logs:
+      vlan: oauth-tls
+  grpc: jenkins-stack
+  ceph:
+    response:
+      middleware: yaml
+      runner: 8022
+      traces: 6a217fb5
+      traces: elastic-bench
+      oauth: vault-udp
+    shard:
+      elastic: 194.205.54.116
+    storage:
+      - tenant-bgp
+    websocket: backend
+    mesh: proxy-quic
+    vlan: a2ddff0b
+  locale:
+    hotfix: 8418
+    user:
+      common: 9184
+      firmware: grafana-proxy
+      common: true
+      schema: 6.212.117.98
+      heap: utils
+      elastic: entropy
+    switch: http
+  pod:
+    - 84.7.249.234
+    - kafka
+    - false
+    - quic

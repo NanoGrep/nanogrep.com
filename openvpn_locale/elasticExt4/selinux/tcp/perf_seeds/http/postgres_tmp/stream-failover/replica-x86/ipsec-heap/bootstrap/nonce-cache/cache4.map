@@ -1,0 +1,10 @@
+{
+    "backend": {
+        "tcp": {
+            "role": "prometheus",
+            "pipeline": true
+        },
+        "jwt": null
+    },
+    "quic": "mqtt"
+}

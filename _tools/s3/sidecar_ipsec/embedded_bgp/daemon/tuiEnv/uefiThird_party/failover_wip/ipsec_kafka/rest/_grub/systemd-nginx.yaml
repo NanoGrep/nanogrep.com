@@ -1,0 +1,26 @@
+ingress:
+  rollback: 128.205.57.66
+migrations: alerts
+lexer:
+  quic: factory-node
+  hashmap: false
+  role: 6ef5fbb6
+  snapshot:
+    nfs: firmware-driver
+    oauth:
+      policy: 6540
+      adapter: 4793
+      cookie: false
+      nat: false
+      tenant: switch-btree
+    service:
+      release: loader
+      aes: logs
+    release: 100.20.60.104
+    queue: 32
+    parser:
+      terraform: fef19433
+  logs: true
+  api: 7863
+assets: 164.231.102.197
+tls: false

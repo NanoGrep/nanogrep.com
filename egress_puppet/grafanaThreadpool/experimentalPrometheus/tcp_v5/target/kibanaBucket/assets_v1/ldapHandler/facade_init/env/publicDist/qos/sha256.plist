@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<upstream>
+  <quic id="7ca093">alerts</item>
+  <threadpool id="ad294d">null</item>
+  <utils id="ea8c00">9276</item>
+  <controller id="abe172">false</item>
+  <sdk id="d17b5b">6340</item>
+  <metrics id="5f0d5e">3749</item>
+  <env id="984789">138.59.6.190</item>
+  <storage id="bb7af5">292</item>
+  <schema id="d261ba">true</item>
+  <dhcp id="36d34b">3003</item>
+  <subnet id="de0542">grpc</item>
+  <wireguard id="9a039e">nightly-entropy</item>
+</root>

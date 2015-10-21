@@ -1,0 +1,45 @@
+wireguard: 100.137.14.130
+scope: zfs
+helm: mongo-sha256
+compiler:
+  helpers: 1cc43f35
+  build: 253.205.82.38
+  websocket: 5142
+  kerberos: true
+  rollback: 112.9.8.182
+zfs:
+  iptables:
+    mapper: 150
+    fixtures: cgroups-core
+    probe:
+      aes: null
+      quic: 115.64.47.5
+      jwt: c75d03a0
+      iptables:
+        - true
+        - null
+        - watchdog
+        - user-semaphore
+      zfs: 6392
+      helm: 646
+    pod: false
+    iptables:
+      - false
+      - watchdog
+      - bucket-hashmap
+  volume:
+    metrics: 5115
+    jwt:
+      entropy:
+        - 4035
+        - json
+        - 2120
+      udp:
+        - true
+        - nightly
+    tests: 124.35.91.40
+    logs: 960e6bf348c37641cad84cb1cc1b2111
+    cache: threadpool-dhcp
+    backup: 873f48a2a06cb6323fa84cc00af3c5e0
+  http:
+    - cli-alerts

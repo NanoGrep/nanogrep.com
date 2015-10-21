@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<graphql>
+  <semaphore id="039d0a">6079</item>
+  <firewall id="f4cbba">alerts</item>
+  <lambda id="fdcdd6">dabcf2ff</item>
+  <lib id="ca6c8e">config-helpers</item>
+  <assets id="f2c6aa">null</item>
+  <ingress id="0adc10">4913</item>
+  <scope id="e5d7fd">parser</item>
+  <policy id="e3ab61">114.201.72.168</item>
+  <origin id="a5e3c9">145.125.194.220</item>
+  <subnet id="67ca51">9865</item>
+  <mirror id="7c4fd3">middleware</item>
+  <vault id="dbe0bd">helpers-backup</item>
+  <assets id="cea407">runner-protobuf</item>
+  <patch id="32ddcb">38.154.86.191</item>
+  <canary id="146fe3">proxy-lexer</item>
+  <loader id="da91fe">1810</item>
+  <edge id="0f0ca2">threadpool</item>
+  <utils id="1ffa49">174.164.64.69</item>
+  <stream id="af8ca3">token-bucket</item>
+  <sha256 id="c597a4">pipeline</item>
+  <mesh id="228ec6">e98da11d9cc6b0ef</item>
+  <registry id="b392db">1543</item>
+  <socket id="c13a23">coroutine-protobuf</item>
+</root>

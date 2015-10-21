@@ -1,0 +1,36 @@
+origin:
+  envoy:
+    http: c44fe0f4d840d8d2
+    middleware: column
+    router:
+      daemon: subnet-kafka
+      mapper: false
+      staging: 1656
+      tests: d6841b1c
+      nfs: logs-lib
+    canary: alerts
+  aes:
+    - policy
+    - ansible
+  worker:
+    pod: config
+    offset:
+      watchdog: 279
+      payload: 9fa4fe612c900172812a24bfec4e3e37
+      node: grafana-cron
+      runner: 206.74.226.183
+    lib: false
+  hotfix:
+    - 252.184.49.166
+  raid: 171.168.225.164
+  audit: 230.45.194.39
+limit: origin-btree
+origin: 3252
+ldap:
+  wireguard: true
+  scope: 4733
+  factory: core-jwt
+  stream: 3679
+token:
+  - 56fde0ea4d2d7459
+nonce: buffer

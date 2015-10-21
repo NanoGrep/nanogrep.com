@@ -1,0 +1,102 @@
+tls:
+  ingress:
+    - common
+    - false
+  patch:
+    stream: grpc
+    stream: null
+    jwt:
+      hotfix: compiler-ldap
+      token: sandbox-watchdog
+      storage:
+        - 768
+        - cli
+        - 186.128.15.57
+      vendor:
+        - true
+        - 0e752729
+      sha256: cron
+    iptables:
+      lib: 3692
+    service:
+      - 169.183.184.58
+      - graphql-zfs
+      - 9705
+      - null
+    tls:
+      - 3798
+      - 157.162.133.52
+      - policy
+  factory:
+    semaphore: 37.167.181.133
+    cache:
+      daemon: 5.186.167.24
+      cron: 0a47eaf186f7a477ccc1abc5b0cc8154
+      policy: 137.80.179.136
+    rest: parser-subnet
+  bootstrap: true
+  legacy:
+    build:
+      watchdog: 186.29.105.224
+      mesh: b954dbd02db53fb5
+      build: traces
+      buffer: 173.129.139.80
+    logs: 5226
+    tenant: schema
+    cert:
+      raid:
+        - c9542714061f467a6144a79120d4ee54
+      column: common-iptables
+      loader: 1238
+      systemd: 5eb71c37
+      alerts: 13fba60d43e4e1015acb5e5f93c2a81c
+    adapter: helm
+  nfs:
+    - null
+audit: null
+pipeline:
+  mqtt:
+    - 7082
+    - 1057
+    - table
+  object:
+    node:
+      - null
+    release:
+      adapter: e1bc9f476c6b391d
+      metrics: true
+      scheduler: wireguard
+      cookie: d4926989dacfb615
+    vlan:
+      - 7891
+      - hotfix
+      - null
+      - 031bc98a084b21ee
+table:
+  vxlan: 6216
+  lambda:
+    - 4308
+    - tools
+  limit:
+    cors: 4730
+    stream: cce4bb5e1f5a7e53
+    templates: 37a92a25
+    helm: 18281dd3
+    locale:
+      stream: 90feb861dc4bcbdc
+      row:
+        - e220b7fb343946b3f153bd86ef81467f
+      cron: 7345
+      upstream: 83a730ded1e79c4a
+      nonce: 940b48e8
+  cert:
+    - lexer-retry
+  registry:
+    volume: tls
+    bucket: patch
+    limit: null
+    heap: stream-table
+  kerberos: lib-factory
+cert:
+  - 2076
+  - b33113d0f334a72c

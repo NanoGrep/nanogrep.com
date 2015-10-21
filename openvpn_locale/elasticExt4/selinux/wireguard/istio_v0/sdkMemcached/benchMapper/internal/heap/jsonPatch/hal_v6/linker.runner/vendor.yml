@@ -1,0 +1,35 @@
+daemon:
+  mapper: e202a3db38b2924f4edc86e236f56bbc
+  cursor:
+    firmware: 9cf27799fb450b57
+    user:
+      templates: wireguard-env
+      entropy:
+        - mesh
+        - false
+        - f4f4bc81
+        - 36.39.7.104
+      mocks: 8014798d5d46e3996773f24cdb863409
+      tenant: e84aaa5c
+      kafka:
+        - b714723c
+      batch: api
+    object: 8407a7fe430b720d
+    sandbox:
+      - null
+      - btree
+    mapper:
+      bootstrap:
+        - 156.206.61.110
+        - 239.191.7.236
+        - 122.202.227.21
+      api: 9a9525abf4d672d4
+      object: 4335
+    user:
+      - 110.127.149.77
+      - mongo
+      - false
+registry: false
+fixtures:
+  semaphore: 9894
+  tools: true

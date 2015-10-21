@@ -1,0 +1,16 @@
+fixtures,group,session
+44.80.217.159,5653,191.151.172.73
+4e01e3119aad1fe3,3195,loader
+9505,201.109.164.129,bd13be96
+132.125.92.10,release-failover,envoy
+6ce67c36,5379,7283
+157.19.186.20,systemd,entropy-mutex
+kafka-locale,build-oauth,tests
+nightly,57e80432,null
+208.58.161.73,null,user
+session-vendor,column,retry-sha256
+e047bf4a08ba8081a9dd6cb2c9b26126,2759,elastic-offset
+449bb1ab2cb6c19fb2f5abd10f4bd3b0,vxlan,d008bada703207135b608043e8272a4f
+socket-cli,ldap-controller,null
+false,true,7902
+false,7053,true

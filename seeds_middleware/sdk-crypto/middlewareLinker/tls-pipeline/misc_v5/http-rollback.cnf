@@ -1,0 +1,51 @@
+[iptables]
+cluster_kerberos = 4636
+ingressdns = 6362
+schedulermqtt = ingress
+shard.oauth = false
+natorigin = 6707
+controllerprometheus = 8146
+dns_factory = 60e0bbfe
+dist.ingress = 235.148.18.10
+udp_bgp = 2.59.178.74
+replicahttp = 240.226.15.194
+scheduler_request = salt
+release.column = 4.245.42.103
+role_beta = elastic
+stream.compiler = fe7790f6
+entropy.switch = artifact-staging
+grafana.batch = replica
+grpcenvoy = postgres
+daemonregistry = mirror-row
+column.quic = true
+grpc_elastic = release-loader
+stackceph = null
+stack_canary = dist
+yaml.router = false
+jenkinsindex = 763e6960f8e6a7eff9cc7052622b8c27
+envoy_firewall = mesh-handler
+worker_storage = locale
+metrics.batch = mesh-mirror
+
+[origin]
+requestfixtures = null
+fixtureskafka = 7215
+replica_canary = backend
+
+[legacy]
+payloadjwt = bddb403ed3a29621
+request_row = true
+shardindex = topic-cron
+nonce_release = sdk
+aes.config = http
+sdk_session = 42b6c8b6d1cd25afa292b4eccc766533
+kafkasession = 76
+
+[factory]
+protobuftcp = 7696
+localecommon = 2fa6f9f7b2a622f7
+postgrestls = coroutine-grpc
+bucketpayload = daemon-cache
+bucket_stack = 211.228.144.98
+postgres_semaphore = 8215
+bucketfirewall = 146.23.122.6

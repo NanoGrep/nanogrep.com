@@ -1,0 +1,61 @@
+[
+    {
+        "utils": 1759,
+        "traces": {
+            "assets": "a2d045e94fe6",
+            "column": {
+                "response": 4620,
+                "fixtures": null,
+                "column": false,
+                "subnet": false,
+                "mesh": 2025,
+                "canary": true
+            },
+            "retry": {
+                "runner": true,
+                "mutex": false
+            },
+            "ansible": null,
+            "nginx": {
+                "storage": false,
+                "lexer": 7392,
+                "role": "grafana",
+                "firewall": true,
+                "kafka": 7176
+            },
+            "policy": [
+                "bucket",
+                null,
+                5922,
+                2999
+            ]
+        }
+    },
+    {
+        "build": {
+            "daemon": {
+                "policy": true,
+                "iptables": true,
+                "common": true
+            },
+            "scheduler": {
+                "api": null,
+                "json": "stack",
+                "watchdog": null
+            }
+        },
+        "nat": {
+            "nonce": false,
+            "nfs": "ca1160c9f124"
+        }
+    },
+    null,
+    {
+        "core": {
+            "ceph": false,
+            "jenkins": null,
+            "hmac": "41243de597ed",
+            "regex": false
+        }
+    }
+]

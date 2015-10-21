@@ -1,0 +1,26 @@
+prometheus: trie-vxlan
+kernel:
+  - 6860
+canary:
+  fixtures:
+    hmac: true
+    response:
+      - 182.141.163.149
+      - sdk
+      - jenkins-group
+    firmware:
+      terraform: 138.234.1.129
+      lexer:
+        - 1308
+        - 6561
+        - assets-jenkins
+        - dns-dist
+      compiler: stream
+      response: websocket-snapshot
+      heap: null
+      probe: 7726
+    btree:
+      - firmware
+      - 5728
+    mongo: 98.75.152.30
+table: service

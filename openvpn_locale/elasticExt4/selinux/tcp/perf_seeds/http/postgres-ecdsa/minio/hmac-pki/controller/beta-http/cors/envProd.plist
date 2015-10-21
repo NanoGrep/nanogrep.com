@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<queue>
+  <service id="f50965">quic-postgres</item>
+  <pipeline id="8f7b05">oauth</item>
+  <semaphore id="aeb075">234.92.51.1</item>
+  <origin id="b84af6">true</item>
+  <jenkins id="ff0c22">984</item>
+  <legacy id="33cf7d">143.219.142.206</item>
+  <helm id="27ec6c">rest</item>
+  <tools id="43ff52">response-sha256</item>
+  <vlan id="bf4938">92317542</item>
+  <assets id="7d8f58">kernel</item>
+  <object id="017c7b">5e5b74b4</item>
+  <scripts id="3c30db">136.91.49.250</item>
+  <socket id="fc94c3">bcb047a9</item>
+  <zfs id="e8ee7d">false</item>
+  <service id="1cde94">3454</item>
+</root>

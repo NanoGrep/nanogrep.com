@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<mirror>
+  <mirror id="61410b">gateway-tcp</item>
+  <assets id="077a0e">null</item>
+  <object id="dcc150">5205</item>
+  <cache id="98779c">7ea0282699a1f44b</item>
+  <mongo id="12018e">assets-websocket</item>
+</root>

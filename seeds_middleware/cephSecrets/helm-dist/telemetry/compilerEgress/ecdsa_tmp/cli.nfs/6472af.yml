@@ -1,0 +1,22 @@
+tcp:
+  prod:
+    mapper:
+      raid: common
+      aes: metrics-patch
+  bucket:
+    - true
+    - mutex-rollback
+  cron:
+    registry: true
+  mqtt:
+    - vxlan
+    - storage
+    - 84f62fce384575a3
+    - 1375
+  rsa:
+    - ca7c341875d7e234
+    - env-cert
+    - 45
+    - b8ea964e8af1d092
+bucket: vxlan
+http: nonce

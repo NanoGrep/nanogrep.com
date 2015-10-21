@@ -1,0 +1,9 @@
+volume: true
+common: compiler
+graphql: 165.248.21.112
+templates:
+  - loader-assets
+  - 5cce2ac444310a1e95b6530d6592549d
+  - 2225
+schema: canary-scheduler
+migrations: 228.86.47.94

@@ -1,0 +1,55 @@
+dist: true
+elastic:
+  edge:
+    - parser-kafka
+  sdk:
+    - systemd
+    - logs-artifact
+    - column
+    - null
+  logs: 3724
+  ingress: 7134e723ea7f978a
+  cluster: 5066
+audit: vxlan-row
+protobuf:
+  bootstrap:
+    middleware:
+      origin: salt-websocket
+      bench: buffer
+      response:
+        - worker-mqtt
+        - 226.41.231.69
+      retry: null
+      stack: false
+      mqtt:
+        - 8083
+        - null
+        - true
+    scheduler:
+      scope:
+        - 8eed6353f7f892e9676f90b6680c7608
+        - 9143c6e013df9971a53cde4707cc241c
+        - snapshot-rest
+        - 128.159.64.44
+      graphql: lexer
+      hmac: tls
+    group:
+      proxy:
+        - http
+        - true
+        - false
+        - true
+    buffer: 3598
+    templates: 73d94c2e
+    lib:
+      postgres: 7422
+      switch: df879d5a64325e18eb292d8eb50c22f2
+  frontend: false
+  helpers: shard-stack
+  cookie: false
+  driver: 142.109.8.53
+assets: websocket
+session:
+  heap: 111.68.167.36
+  scope: f4f5217b
+  legacy: wireguard-adapter

@@ -1,0 +1,11 @@
+coroutine.user: 184.100.153.8
+utils.json: true
+fixturesmutex: pod
+policy_envoy: ldap-tls
+payload_mysql: hashmap
+pipeline_tests: staging
+rsa.ldap: c1029dd140ec647c
+config_sha256: 60cd5865
+factory.worker: cache
+tls_salt: 73.129.247.67
+kafka.logs: a1178c10

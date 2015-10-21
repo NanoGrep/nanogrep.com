@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<nightly>
+  <prod id="b5162e">protobuf</item>
+  <payload id="4b5c52">postgres-hotfix</item>
+  <salt id="651a4b">20f58a7402b50929e996a97abb245f6a</item>
+  <crypto id="c03014">subnet</item>
+  <nat id="7c451c">threadpool</item>
+  <systemd id="3a7b5b">object</item>
+  <controller id="57312b">true</item>
+  <hashmap id="3863bf">null</item>
+  <pipeline id="7a0e69">mesh-storage</item>
+  <scope id="fb621c">dfbad1ca</item>
+  <rest id="d276a9">b21e7f7a5bc5bcf5a53e46bdbb30b391</item>
+  <tenant id="62a534">df90b31309e74457</item>
+  <elastic id="a3de05">9123</item>
+  <artifact id="d0435e">254.200.213.61</item>
+  <cgroups id="eea1a4">prod-snapshot</item>
+  <scope id="e81af0">threadpool-cookie</item>
+  <api id="e2948f">prod</item>
+  <retry id="712a6b">154.157.173.72</item>
+  <cron id="6d51ac">migrations-terraform</item>
+</root>

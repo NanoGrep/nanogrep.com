@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<edge>
+  <batch id="aca083">967</item>
+  <sdk id="0b7957">096582f5</item>
+  <ldap id="d131e5">286</item>
+  <topic id="ef4a45">false</item>
+  <salt id="352f54">runner-legacy</item>
+  <pipeline id="d596f8">c6232203</item>
+  <quic id="c98b07">socket-graphql</item>
+  <edge id="4e2d4d">assets</item>
+  <assets id="fe035f">true</item>
+</root>

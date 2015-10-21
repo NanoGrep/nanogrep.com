@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "build": false,
+      "terraform": null,
+      "vault": [
+        "f40ac5e0a14d",
+        true,
+        true,
+        "9cbe297139f1"
+      ],
+      "ceph": "table",
+      "locale": {
+        "bloom": "fixtures",
+        "lambda": 7334
+      }
+    },
+    {
+      "schema": "upstream",
+      "bootstrap": null
+    }
+  ],
+  [],
+  {
+    "socket": [
+      null
+    ],
+    "lambda": "9e38dca3e5c4",
+    "raid": {
+      "row": true
+    },
+    "aes": {
+      "templates": {
+        "quic": null
+      },
+      "handler": [
+        6365
+      ],
+      "parser": {
+        "watchdog": "router",
+        "service": true,
+        "handler": false
+      },
+      "lib": 9407
+    },
+    "backend": {
+      "router": {
+        "aes": false,
+        "rollback": "86336f3b7ef0"
+      },
+      "nightly": {
+        "jenkins": null,
+        "crypto": true,
+        "parser": "batch",
+        "vault": true,
+        "api": "quic"
+      },
+      "retry": {
+        "mocks": "39813f2aee6d",
+        "firmware": false,
+        "cluster": true,
+        "storage": "backend"
+      }
+    }
+  },
+  false
+]

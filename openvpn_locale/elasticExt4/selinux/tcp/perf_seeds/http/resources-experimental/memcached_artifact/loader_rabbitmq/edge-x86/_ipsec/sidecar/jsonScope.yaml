@@ -1,0 +1,62 @@
+table: user-postgres
+tenant: 118.51.123.227
+token:
+  replica:
+    - fc9c180d374e4cae
+    - storage
+  nightly: sdk-fixtures
+udp:
+  failover: 2ef52a25
+  jwt:
+    limit:
+      subnet:
+        - true
+        - 228c106e
+        - c5b69946
+      daemon: null
+      cron: a0f0d2ef
+      stream:
+        - 3f5db057dc566ac32934a79b9dccf5b3
+        - 252.238.210.1
+        - 98.208.193.58
+        - volume-traces
+      backend: shard-batch
+    prometheus:
+      mongo:
+        - 96add7e0e037950dacc9ee6eecf47097
+        - false
+      gateway:
+        - 5747
+        - assets
+        - table
+      sdk: 78.25.206.142
+      btree:
+        - true
+        - 9bd7337d
+    kafka:
+      index: null
+  cache: 8747
+  storage:
+    dns:
+      lambda: iptables
+      templates:
+        - 12521b0c9fb8236e
+      runner:
+        - request
+        - 292a262ed700062c
+        - null
+    canary:
+      backup: dbbc994ac9582a0e65e8236edeb34c2b
+      tenant: controller-role
+    subnet:
+      build: 198.28.146.34
+      mqtt: false
+      stack:
+        - 9abd4265497096df
+        - null
+    redis: null
+  grafana: ldap
+  traces:
+    salt: false
+    schema: 93ff564b5f94bffd
+edge: loader-audit

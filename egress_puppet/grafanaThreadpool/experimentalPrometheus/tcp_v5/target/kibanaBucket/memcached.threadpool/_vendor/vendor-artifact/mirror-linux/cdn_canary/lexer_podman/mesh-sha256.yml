@@ -1,0 +1,17 @@
+mongo: router
+nfs: metrics
+retry:
+  - runner
+  - true
+  - false
+  - 10f32cc6d93a5b9b
+payload:
+  driver:
+    tenant: 174cba67
+    edge: parser-cookie
+  failover: 63.67.247.15
+vlan:
+  - a9e3945bfd9e16d5
+  - 773b4903a5d8db8c
+  - null
+  - 93.174.239.44

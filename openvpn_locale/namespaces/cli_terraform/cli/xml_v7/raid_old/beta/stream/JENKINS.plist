@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<index>
+  <migrations id="0276f8">c190427d48df01110b90ab4745edefc5</item>
+  <postgres id="5aa380">254.116.117.58</item>
+  <gateway id="a75136">60675b767d52f93089d9a23d0959efd7</item>
+  <staging id="c53c65">null</item>
+  <patch id="e1da12">99.194.137.169</item>
+  <node id="d9c926">false</item>
+  <rsa id="8fe419">2222</item>
+  <heap id="7d77ba">3960</item>
+  <entropy id="9a8bfe">traces-bootstrap</item>
+  <scheduler id="5cc324">origin-switch</item>
+  <helm id="93dd05">6407</item>
+  <router id="f6605d">factory-storage</item>
+  <service id="89b17c">ldap-dhcp</item>
+  <locale id="bbe231">payload</item>
+</root>

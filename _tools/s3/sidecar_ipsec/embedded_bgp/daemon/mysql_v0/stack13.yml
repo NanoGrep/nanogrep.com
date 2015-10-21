@@ -1,0 +1,18 @@
+mesh:
+  mutex: 5e78ecc7d3b939de3834ce6bc972dae0
+  mqtt:
+    cookie: trie-kafka
+    stack:
+      udp: e6831874
+      switch: column-mongo
+      index: 6336
+      threadpool: 5d704fdbc050e9076c957378c117f7fc
+      request:
+        - 211.221.140.184
+        - graphql
+        - bench
+      entropy: true
+  grpc: api-api
+  coroutine: 9344
+  artifact: 5042
+templates: null

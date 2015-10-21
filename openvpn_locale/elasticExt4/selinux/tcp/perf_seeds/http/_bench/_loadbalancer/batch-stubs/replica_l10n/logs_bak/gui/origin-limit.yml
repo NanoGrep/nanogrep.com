@@ -1,0 +1,15 @@
+cookie: 36afd5c1
+tls:
+  common:
+    - null
+  loader: false
+  grpc:
+    - parser
+    - core
+    - false
+    - 36b8c039b11c843462737214c30e0fdc
+  topic: sdk
+  switch: fixtures-nightly
+  row:
+    api:
+      http: 6849f8e6107a809b9c15007f4f0e1372

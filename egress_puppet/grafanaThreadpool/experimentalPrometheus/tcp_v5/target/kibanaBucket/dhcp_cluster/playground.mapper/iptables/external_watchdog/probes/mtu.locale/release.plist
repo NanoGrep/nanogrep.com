@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<nginx>
+  <queue id="d319eb">95ce444e</item>
+  <schema id="7c06a5">2103</item>
+  <group id="2f61cb">rsa</item>
+  <vlan id="3a5468">schema</item>
+  <mutex id="90f3ba">null</item>
+  <grpc id="12e8a4">1029</item>
+  <factory id="7a622f">137.22.80.83</item>
+  <dns id="a28228">null</item>
+  <tls id="35c73b">ingress</item>
+  <tcp id="0aa5f3">7021</item>
+  <zfs id="dcb9d7">247.1.132.8</item>
+  <cluster id="dc98d4">232.151.102.221</item>
+  <proxy id="1e47c8">a5e694f7282924a1a14ed6712f0e2460</item>
+  <fixtures id="539f3b">vlan</item>
+  <tenant id="ff5630">scope-tcp</item>
+  <postgres id="4d36eb">2512</item>
+</root>

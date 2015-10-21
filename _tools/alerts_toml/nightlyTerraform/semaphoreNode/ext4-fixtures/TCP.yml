@@ -1,0 +1,88 @@
+elastic: build-grafana
+locale: f4f19dec358ec3b0
+tls:
+  cursor: null
+  canary:
+    mesh: 235.173.33.229
+    subnet:
+      origin: null
+      salt: 9495
+    websocket: 1598
+    storage:
+      - 2134
+      - false
+      - 6a5f6da637524df151ae19462a411f61
+      - b902c07b
+    controller: true
+  alerts: 5235
+  edge: mesh-kernel
+  common: wireguard-zfs
+  stack:
+    watchdog:
+      middleware:
+        - a28d6a0df1ae3326
+        - legacy
+        - b1d267e1
+      bgp:
+        - 109.223.57.237
+        - parser
+      rest: ldap-nightly
+      bucket: dns
+      role: origin
+      registry: 897fc8a7
+    tcp: true
+    role:
+      response: adaa199f2a1c002f79b97437262d8e4e
+      worker: 0087e48b4ceee4f492aa31f391b1cc48
+      table: 38dfd7cebc8bd6ae
+      common:
+        - ingress
+        - udp
+        - 0c8d37bca9af280a4792f5972c51d5e6
+        - patch-bootstrap
+    index:
+      tcp: 7443
+      websocket: 3601
+      cert:
+        - true
+        - false
+      prod: 3aac49acbd530c3c403215303459f2c4
+      cluster: helpers
+    mqtt:
+      sha256: null
+      parser: null
+    mutex: 59.169.223.243
+firewall:
+  wireguard: cors-coroutine
+  upstream: 194.125.92.44
+  frontend:
+    batch:
+      - 4775
+      - 6823
+      - false
+    aes: 145.232.118.187
+    limit:
+      loader: 77.244.32.40
+      env: 9959
+      config: snapshot
+      mocks: 3059
+      traces:
+        - handler
+        - 123.154.76.130
+      btree:
+        - 56.131.59.9
+        - true
+        - 4046
+    nat:
+      firmware:
+        - 6476
+        - 4340
+      stream: bb3bd6e65283cda3eb6963f6441f64c8
+      prod: prod-config
+      zfs:
+        - 8154
+        - 0fff2e2d9bd2ad89e0a5fd98be698050
+        - ef6b164b53bd7540
+        - grafana
+    postgres: session-dist
+    upstream: 154df308157de714

@@ -1,0 +1,4 @@
+cron: middleware
+adapter: 43b8b0a6
+elastic: false
+node: null

@@ -1,0 +1,21 @@
+tenant: true
+coroutine: rsa
+grpc:
+  - 7371
+  - 165.101.184.5
+  - 22.13.122.97
+api: 80.182.87.218
+ansible:
+  service:
+    lexer:
+      fuzz: audit-tcp
+      cache: 464a594dd94d5399
+    helm: 66.26.69.242
+    origin: 18405477bd703773924dfddd6ae0d244
+  dist:
+    schema:
+      grpc: 439c12cd3f6c716b
+    router: factory-fixtures
+  socket: e3accbd4
+  session: kerberos-yaml
+lib: 996eb81e86c0f6f7

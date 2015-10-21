@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<assets>
+  <fixtures id="c7bf10">7442</item>
+  <backend id="47c36b">tenant</item>
+  <elastic id="1f6237">edge-volume</item>
+  <subnet id="6919ed">201.252.186.2</item>
+  <scope id="4d4a90">terraform-iptables</item>
+  <nginx id="2c0e60">null</item>
+  <assets id="2c5210">vault-bench</item>
+  <mirror id="786513">234.13.137.126</item>
+  <hotfix id="cab734">3a9120e3</item>
+  <probe id="038ba2">67.5.237.113</item>
+  <middleware id="42efa2">48.249.122.127</item>
+  <alerts id="f730be">e77ce6ef</item>
+  <nightly id="3fdc42">cors</item>
+  <traces id="41ba3e">tenant</item>
+  <origin id="9601f9">null</item>
+  <protobuf id="8dc08a">false</item>
+  <gateway id="359716">5648</item>
+  <queue id="b379c1">bgp-artifact</item>
+  <terraform id="c5d2b0">1100</item>
+  <jenkins id="ccfa79">true</item>
+</root>

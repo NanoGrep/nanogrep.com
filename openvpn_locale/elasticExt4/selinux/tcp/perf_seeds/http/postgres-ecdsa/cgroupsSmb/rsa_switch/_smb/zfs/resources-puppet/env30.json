@@ -1,0 +1,99 @@
+{
+  "udp": [
+    [
+      {
+        "beta": false,
+        "templates": false
+      },
+      [],
+      "d5ede752159e",
+      null
+    ]
+  ],
+  "cors": {
+    "hashmap": true,
+    "regex": [
+      {
+        "protobuf": "2faa78477f64"
+      },
+      7743
+    ],
+    "common": true,
+    "nonce": [
+      {
+        "pipeline": "74fcc8e531e3",
+        "hashmap": true,
+        "envoy": true,
+        "mesh": false,
+        "gateway": false
+      },
+      "bootstrap",
+      {
+        "envoy": null,
+        "coroutine": true,
+        "topic": null
+      },
+      {
+        "adapter": null,
+        "runner": 734,
+        "cursor": true
+      }
+    ]
+  },
+  "hotfix": {
+    "api": [
+      {
+        "shard": 2401,
+        "mesh": false,
+        "buffer": false
+      },
+      null,
+      [
+        false
+      ]
+    ],
+    "vlan": [
+      {
+        "mocks": null,
+        "row": true
+      }
+    ],
+    "wireguard": {
+      "quic": {
+        "runner": true,
+        "http": true,
+        "jenkins": false,
+        "zfs": true,
+        "assets": 675,
+        "dhcp": false
+      }
+    },
+    "coroutine": {
+      "grpc": {
+        "topic": true,
+        "token": false,
+        "prod": false,
+        "volume": "websocket",
+        "replica": 9868
+      }
+    },
+    "fixtures": true,
+    "mocks": {
+      "registry": {
+        "heap": "0b54697f1a64",
+        "stack": true,
+        "index": true
+      },
+      "patch": {
+        "cgroups": 4705
+      },
+      "mesh": false,
+      "firmware": {
+        "canary": null,
+        "cgroups": true,
+        "storage": true
+      }
+    }
+  },
+  "prod": false
+}

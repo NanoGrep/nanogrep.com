@@ -1,0 +1,24 @@
+{
+    "fuzz": false,
+    "cursor": {
+        "legacy": "pod",
+        "postgres": [
+            true,
+            [
+                "f9cfca481c4e",
+                true,
+                null
+            ],
+            false,
+            {
+                "scheduler": "zfs"
+            }
+        ]
+    },
+    "object": "a660e86a176b",
+    "scheduler": "replica",
+    "trie": {
+        "ldap": 7589
+    },
+    "table": true
+}

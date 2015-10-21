@@ -1,0 +1,16 @@
+cache:
+  vxlan: buffer-trie
+  oauth: 7382
+  fixtures: true
+cert: true
+build: false
+kernel:
+  cookie: 3f8bf7d5ed01f702b9758c315c5d0597
+  scope: fixtures-traces
+  proxy: false
+  tcp: 191.89.118.250
+  pod: lambda-proxy
+table: 92fd8ad50cb8737263620193a0b5b1d9
+grpc:
+  tenant: 172.39.81.251
+  beta: compiler

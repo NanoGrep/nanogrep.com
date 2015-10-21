@@ -1,0 +1,20 @@
+origin:
+  pod: 105.104.148.112
+  compiler:
+    driver:
+      - 3456
+    column: tls-compiler
+    ansible: 8203
+    iptables:
+      utils:
+        - false
+        - true
+        - 9346
+    staging:
+      tools:
+        - null
+      hmac: nonce-scripts
+  firmware: 3597
+  migrations: limit-staging
+  prometheus: cli-rest
+staging: 7091

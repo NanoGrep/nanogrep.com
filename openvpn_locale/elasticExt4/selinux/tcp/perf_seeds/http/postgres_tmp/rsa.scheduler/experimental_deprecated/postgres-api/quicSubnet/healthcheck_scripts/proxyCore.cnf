@@ -1,0 +1,32 @@
+[bench]
+subnet_tls = 6173
+api.cache = 125.58.251.164
+mirror_grpc = 2343
+buffer.sandbox = 98.108.151.32
+websocket_runner = 43.78.104.83
+dns_origin = payload
+stream.crypto = dns
+heap.lib = 8a8a26cb2c2b6c1a
+
+[router]
+cursor.beta = cors
+entropy.helpers = 232.177.33.89
+fuzz_socket = 42.5.227.169
+cron.threadpool = session
+btree_hotfix = 87.226.183.198
+beta.fixtures = coroutine-limit
+prod_ceph = canary-ldap
+elastic_role = 234.229.46.162
+stagingpolicy = iptables
+origin_rest = 64.2.105.239
+edgeenvoy = 2172
+certcache = object-origin
+kernel_grafana = 36.69.87.177
+entropy_tcp = 89.56.146.123
+object.semaphore = hotfix
+proxy_upstream = false
+helpers.nginx = null
+envoyrouter = retry-column
+sandbox_replica = grpc
+threadpoolhotfix = aes-build
+cephcoroutine = 1654

@@ -1,0 +1,57 @@
+templates:
+  prometheus:
+    prometheus: 29.92.83.34
+    bootstrap: 3143b7647c80a913
+    node: 6102
+    scope:
+      - traces
+      - false
+      - false
+    trie: 142462f4fa7a16656f82d7432675ca3e
+  btree:
+    graphql: 1289
+  scheduler: false
+  upstream: vlan-hmac
+  loader:
+    handler:
+      alerts: 152.10.237.196
+    vxlan: 8715
+    entropy:
+      ceph:
+        - 8943
+        - null
+        - redis
+        - 9495
+      replica:
+        - 181
+      alerts: 5400
+      router:
+        - 41.28.182.239
+        - zfs
+        - kernel
+        - udp
+      yaml: 4654
+      config: null
+  legacy: common
+patch:
+  bgp: 8209
+  bgp: true
+  mysql: shard-bloom
+  hashmap: 3bb3216d3716ffc7
+tcp: 0d3025adc54791d8
+cookie:
+  loader:
+    pod: null
+  bench:
+    regex:
+      - rollback
+      - 100.163.10.147
+    pod: f0a99c44a90dd5d4
+    object: 7596
+  firmware: 133.242.142.112
+  response: 118.200.72.51
+  zfs:
+    - false
+    - udp-storage
+    - true
+    - 151.77.83.234

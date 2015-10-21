@@ -1,0 +1,11 @@
+helpers:
+  sdk: systemd-payload
+  cli:
+    ingress:
+      yaml: coroutine-rollback
+      staging: failover-firewall
+      factory: ca91bb9c97952900c674f4d927a84af6
+      scope: 01a3d30db7d8f6e4
+      watchdog: false
+    wireguard: 5611
+  bucket: 183.147.4.110

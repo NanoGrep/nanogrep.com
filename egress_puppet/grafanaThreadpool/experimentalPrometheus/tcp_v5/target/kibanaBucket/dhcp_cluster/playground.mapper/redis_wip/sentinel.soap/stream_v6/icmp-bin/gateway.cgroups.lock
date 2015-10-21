@@ -1,0 +1,64 @@
+{
+    "group": [
+        "635636ff13f6",
+        [
+            "build",
+            "ef7b1f46e4aa",
+            false
+        ],
+        [
+            {
+                "patch": 2223,
+                "cgroups": "5c8645badc2b"
+            }
+        ],
+        true
+    ],
+    "trie": {
+        "ingress": true,
+        "request": {
+            "nonce": [],
+            "storage": {
+                "prometheus": "hmac",
+                "coroutine": "queue",
+                "semaphore": null,
+                "topic": "745b45ec789a",
+                "utils": false
+            },
+            "helm": [
+                "78b33073d901",
+                true
+            ],
+            "bootstrap": {
+                "systemd": false,
+                "payload": "prod"
+            },
+            "hashmap": 2717,
+            "service": "btree"
+        },
+        "cors": {
+            "sha256": 3383
+        },
+        "proxy": [
+            {
+                "cluster": "4a6ddd6222e5",
+                "core": "backup",
+                "beta": false,
+                "session": true,
+                "terraform": true
+            },
+            true,
+            {
+                "cron": "4895ee7fe19f",
+                "salt": false,
+                "audit": null,
+                "build": false,
+                "aes": "b7765dbf80b6",
+                "session": true
+            }
+        ],
+        "jwt": null
+    },
+    "grafana": null,
+    "ldap": 332
+}

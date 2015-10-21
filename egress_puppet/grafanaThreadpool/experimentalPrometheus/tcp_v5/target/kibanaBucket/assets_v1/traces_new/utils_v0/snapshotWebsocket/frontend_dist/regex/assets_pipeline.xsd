@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<session>
+  <retry id="bbfc84">481aedd23e90c805690c3aa07a267073</item>
+  <yaml id="cff8bf">c775f7919990bfae</item>
+  <index id="41998c">c1adcd39</item>
+  <zfs id="300896">table</item>
+  <pod id="fc5440">upstream</item>
+  <fuzz id="e7d0f7">topic</item>
+  <parser id="4c5c1d">7419</item>
+  <ldap id="01e2bc">cookie</item>
+  <tests id="309bd7">160.29.231.101</item>
+  <lib id="cd298d">79.146.20.75</item>
+  <tenant id="0d19a5">node-cookie</item>
+  <canary id="abd7e8">false</item>
+  <runner id="ff273c">true</item>
+  <nightly id="680cf5">backup</item>
+  <coroutine id="a7e932">false</item>
+  <artifact id="99d315">e32d79f7</item>
+  <storage id="46f23f">75.142.220.235</item>
+  <bootstrap id="228307">group</item>
+  <kerberos id="d42840">probe-hotfix</item>
+  <terraform id="332b54">backend-semaphore</item>
+</root>

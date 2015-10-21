@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<hmac>
+  <firmware id="30c9bd">kerberos-yaml</item>
+  <storage id="dd6bdb">102.45.97.59</item>
+  <watchdog id="cbfea7">request-retry</item>
+  <edge id="6f324f">234.7.124.69</item>
+  <bucket id="fbaa9f">true</item>
+</root>

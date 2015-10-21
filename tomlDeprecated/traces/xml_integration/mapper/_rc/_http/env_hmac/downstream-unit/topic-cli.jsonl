@@ -1,0 +1,93 @@
+{
+  "cookie": false,
+  "tests": {
+    "postgres": true,
+    "staging": [
+      {
+        "api": "6f4ebd25f6c9",
+        "beta": false,
+        "policy": "9df50a091d53",
+        "quic": "iptables",
+        "runner": true,
+        "row": 6289
+      },
+      {
+        "hmac": "bloom",
+        "scope": false,
+        "shard": false,
+        "topic": true,
+        "middleware": 39
+      },
+      false
+    ]
+  },
+  "quic": {
+    "prod": {
+      "migrations": true,
+      "dist": {
+        "templates": "daemon",
+        "crypto": true
+      },
+      "switch": {
+        "vendor": false,
+        "switch": false,
+        "trie": false,
+        "http": "7ed6e1199ef2",
+        "kafka": 3280
+      },
+      "topic": false,
+      "upstream": 730
+    },
+    "vxlan": 1545,
+    "handler": {
+      "vxlan": "sha256",
+      "jenkins": [
+        false,
+        true,
+        false,
+        7697
+      ],
+      "rest": "2d1ffd9d2547"
+    }
+  },
+  "protobuf": {
+    "bucket": {
+      "cors": "53dd2f1f8625",
+      "gateway": "9f5d5ac45db4",
+      "logs": {
+        "mapper": true,
+        "mqtt": true,
+        "backup": true,
+        "fuzz": true,
+        "hmac": null
+      },
+      "lexer": {
+        "role": "bac10198c6d1",
+        "traces": 2315
+      },
+      "policy": false
+    },
+    "json": {
+      "controller": {
+        "iptables": null,
+        "cors": null
+      }
+    },
+    "cert": {
+      "factory": 8248,
+      "entropy": [
+        5778,
+        "56ea6c8ea8df",
+        true
+      ],
+      "systemd": "2c2e9cbf8497",
+      "core": [],
+      "node": [
+        4014,
+        3019,
+        false,
+        null
+      ]
+    }
+  }
+}

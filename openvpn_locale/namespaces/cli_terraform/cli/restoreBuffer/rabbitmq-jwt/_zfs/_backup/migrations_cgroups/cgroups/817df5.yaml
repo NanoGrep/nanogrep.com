@@ -1,0 +1,29 @@
+iptables:
+  dist: 1137
+  heap: null
+  storage: 67.208.181.10
+  probe:
+    - vxlan-nat
+    - index-cookie
+    - 8951ffce
+  firewall: 6451
+fuzz:
+  volume: 01a90246
+  ingress:
+    compiler: 58.116.123.49
+    worker:
+      redis:
+        - 163.46.57.206
+        - 2646
+        - 6877
+        - volume-probe
+      metrics:
+        - 117.22.34.75
+        - json
+      crypto: aad869c9d9a94ff44e628dd66a12b5f9
+      cert: true
+      vlan:
+        - sha256-controller
+    postgres: payload-mysql
+build: null
+firewall: 132.216.207.128

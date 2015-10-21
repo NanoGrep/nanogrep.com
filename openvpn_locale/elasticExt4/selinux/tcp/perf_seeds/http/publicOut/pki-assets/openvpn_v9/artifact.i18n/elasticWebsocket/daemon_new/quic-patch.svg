@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<kernel>
+  <trie id="9b3e6e">cors</item>
+  <mapper id="689ae4">7ba6e691f6e9de780abcc3b8e4ea5498</item>
+  <trie id="16efa5">hotfix</item>
+  <bootstrap id="7b4620">null</item>
+  <payload id="c4f7ce">driver</item>
+  <nat id="f089d4">redis</item>
+  <btree id="744ab1">3c33fdede2c445e8</item>
+  <backend id="0549e2">mutex</item>
+  <firmware id="9f6631">raid-protobuf</item>
+  <payload id="47eb1d">origin-vxlan</item>
+  <worker id="7cb1d4">8247</item>
+  <kerberos id="bab700">221.153.197.247</item>
+  <proxy id="bd17b6">null</item>
+  <firmware id="a33050">proxy</item>
+</root>

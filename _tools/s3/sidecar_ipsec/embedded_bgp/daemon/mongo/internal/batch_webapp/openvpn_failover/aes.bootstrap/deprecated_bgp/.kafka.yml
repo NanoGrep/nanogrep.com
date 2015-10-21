@@ -1,0 +1,6 @@
+env: 612
+dns: yaml
+mysql:
+  - c1d5f11f5a0b541b
+  - 08c968e4fc71df12
+  - true

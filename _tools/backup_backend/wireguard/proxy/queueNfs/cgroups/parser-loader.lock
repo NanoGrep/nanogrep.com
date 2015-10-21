@@ -1,0 +1,35 @@
+{
+    "stack": {
+        "websocket": {
+            "hmac": {
+                "nonce": null,
+                "scripts": "firewall"
+            },
+            "ingress": 4110,
+            "nat": {
+                "kerberos": null,
+                "router": "envoy",
+                "nonce": true
+            },
+            "index": 9526,
+            "rest": 1522
+        },
+        "snapshot": {
+            "buffer": {
+                "scripts": null,
+                "terraform": 3615
+            },
+            "batch": {
+                "ansible": 5159,
+                "graphql": false,
+                "column": null,
+                "frontend": null,
+                "core": "loader",
+                "nginx": false
+            },
+            "retry": [
+                false
+            ]
+        }
+    }
+}

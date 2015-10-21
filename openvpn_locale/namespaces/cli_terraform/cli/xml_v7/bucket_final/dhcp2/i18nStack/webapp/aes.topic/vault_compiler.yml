@@ -1,0 +1,47 @@
+origin:
+  audit:
+    legacy: response-helm
+    proxy: 616
+    iptables:
+      config: 218.26.114.150
+      batch: mocks-probe
+      hmac: 98.202.42.184
+    sandbox:
+      nightly: null
+      kerberos: failover
+    sha256: retry
+  sdk:
+    tcp: false
+    nightly:
+      - efcb31b80643ba7f
+      - 1187
+      - 130.79.92.216
+  handler: sdk-postgres
+  stream: prod
+postgres: true
+grafana: null
+prod:
+  offset:
+    role:
+      volume: 2169
+      registry: 0f126f3c1701094812bd1af82fc0aafe
+      threadpool: bdd9e4ecfef4580f
+      beta: true
+      iptables: 8732
+      coroutine: controller-vendor
+  vault:
+    helpers: 6636
+    scripts: cli-payload
+    udp: hmac-stack
+  oauth:
+    iptables: response
+    user: 223.30.149.215
+    bootstrap: false
+    schema:
+      - 145.200.83.133
+      - false
+      - service
+      - 2935
+    row: 9864
+    helpers: 2445
+metrics: pod-socket

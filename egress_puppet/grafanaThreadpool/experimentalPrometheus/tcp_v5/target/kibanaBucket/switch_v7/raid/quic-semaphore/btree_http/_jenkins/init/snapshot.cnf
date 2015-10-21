@@ -1,0 +1,64 @@
+[artifact]
+user.tenant = 106.191.75.165
+benchbucket = 2950
+mapper_zfs = 6164
+apiorigin = artifact-entropy
+dnsadapter = 7583
+firewall.lambda = 7095
+kafka.yaml = heap
+grafana.legacy = prod
+rowtcp = oauth
+httprouter = backup-assets
+mirrorsdk = gateway
+terraformcore = 3ecb1b48b32ae10ffcbbff57a7332895
+runnerfirmware = 2391
+limit_vlan = policy-firewall
+iptables.compiler = 767
+cookiestaging = env-assets
+wireguard_sdk = 253.154.81.227
+crypto_origin = 34fe70f9510ec7c2
+sockettests = 5653
+cachetests = ae454c0aa9fc7c48
+api_http = 90.41.112.216
+bufferceph = 140.68.16.51
+streamrole = false
+user.iptables = semaphore
+helm.prod = d23f1c56
+ansible.assets = cedf1c56
+grafana.kerberos = tests-http
+hotfix_logs = 6631
+
+[mesh]
+iptables.mongo = cursor-raid
+env.column = core
+snapshot.user = 4282a89f10176acc
+ingress.ansible = pod-metrics
+dist.offset = 15.227.11.27
+common_retry = artifact
+stacktcp = 56.39.135.53
+policygrafana = false
+config_envoy = controller
+utils_failover = policy
+btree.artifact = null
+hashmap.router = hashmap-mapper
+tablebuild = batch-artifact
+buffer_traces = b840fa5b
+sdkredis = 2841
+http.cors = e5ae50f6f9c9a5b5
+build_dist = fuzz
+topic_shard = offset
+
+[trie]
+quictopic = null
+semaphore.vendor = 6167f5fb
+cgroupslogs = 14.207.237.253
+bucket.router = false
+threadpool.logs = release
+elastic.traces = queue-registry
+backupgateway = backup
+envoyrsa = watchdog-factory
+cli_lexer = trie-metrics
+node.zfs = yaml-helm
+grafanagrafana = coroutine-edge
+gateway.locale = 09cfacd8aaa9023b
+canarybuffer = false

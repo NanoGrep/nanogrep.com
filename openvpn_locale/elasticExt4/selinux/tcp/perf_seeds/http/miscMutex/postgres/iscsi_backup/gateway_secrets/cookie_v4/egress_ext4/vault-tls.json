@@ -1,0 +1,31 @@
+{
+  "cursor": {
+    "row": [
+      [
+        "nfs",
+        7644
+      ],
+      {
+        "queue": "a264b83ee983"
+      },
+      false
+    ]
+  },
+  "trie": true,
+  "mirror": "helm",
+  "tenant": 8448,
+  "snapshot": {
+    "rsa": {
+      "stream": [
+        null
+      ],
+      "semaphore": {
+        "node": null,
+        "retry": true,
+        "bgp": true,
+        "stack": "f15d1492abb8",
+        "replica": 5964
+      }
+    }
+  }
+}

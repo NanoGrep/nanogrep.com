@@ -1,0 +1,25 @@
+{
+    "graphql": true,
+    "offset": {
+        "cgroups": [
+            {
+                "queue": "bench",
+                "row": false,
+                "mongo": false
+            },
+            {
+                "compiler": true,
+                "helm": "f9bc34b64646",
+                "hotfix": true
+            }
+        ],
+        "trie": {
+            "lambda": {
+                "probe": "socket",
+                "terraform": "systemd"
+            }
+        }
+    },
+    "helpers": false,
+    "scheduler": false
+}

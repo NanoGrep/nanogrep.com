@@ -1,0 +1,19 @@
+{
+  "locale": [
+    "e91b5df5ef48",
+    {
+      "semaphore": {
+        "gateway": "902a8d99003e",
+        "firmware": "redis"
+      },
+      "failover": {
+        "replica": null,
+        "factory": null,
+        "backup": null,
+        "rsa": 1435
+      }
+    },
+    true
+  ],
+  "kerberos": "request"
+}

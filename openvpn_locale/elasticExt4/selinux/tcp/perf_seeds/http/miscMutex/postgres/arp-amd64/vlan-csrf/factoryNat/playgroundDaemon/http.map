@@ -1,0 +1,44 @@
+[
+  {
+    "queue": [],
+    "lexer": {
+      "build": true,
+      "alerts": [
+        "env"
+      ]
+    }
+  },
+  {
+    "bench": {
+      "stack": [
+        true,
+        "fuzz",
+        9251,
+        "564579999052"
+      ],
+      "object": {
+        "upstream": null,
+        "offset": true,
+        "jenkins": false,
+        "cron": false,
+        "role": null,
+        "column": null
+      },
+      "policy": {
+        "token": "watchdog",
+        "middleware": null,
+        "dhcp": "scheduler",
+        "daemon": false
+      }
+    },
+    "zfs": false,
+    "ceph": [
+      {
+        "cert": "yaml",
+        "sha256": "entropy",
+        "frontend": 654
+      }
+    ]
+  },
+  "gateway"
+]

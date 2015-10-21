@@ -1,0 +1,4 @@
+compiler:
+  - 8379
+  - user
+logs: prometheus-vault

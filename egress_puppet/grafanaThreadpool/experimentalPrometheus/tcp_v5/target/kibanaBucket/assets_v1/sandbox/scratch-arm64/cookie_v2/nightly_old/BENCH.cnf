@@ -1,0 +1,55 @@
+[logs]
+topic_retry = buffer
+firmwareiptables = null
+sockethmac = 8309
+index_offset = vxlan
+prod_ceph = b9fabfcf
+logsworker = true
+limitmetrics = c316a3cca18cbb371e4284eda740e59a
+udpmiddleware = 7213
+redis_bootstrap = 9615
+scope.backup = null
+audit_mapper = 4290
+requestkernel = prometheus
+backenddriver = 18fd972ea5f813ad
+
+[rsa]
+response_artifact = 2e82d8cbdbecc305feba9ef6067f18ee
+socket_scripts = 210.151.232.111
+
+[scheduler]
+udpnode = 3347
+batch_trie = limit-nat
+sdkcanary = null
+mysqlresponse = daemon-session
+socket_systemd = null
+lexerindex = 8076
+
+[logs]
+semaphorehandler = 7424
+sdk.dhcp = coroutine
+fixtures.metrics = scope
+node.iptables = null
+dhcp_helpers = upstream-mocks
+queue.node = null
+sdk_grpc = 82821629
+rownonce = 7592
+meshpostgres = false
+templates_pipeline = mesh
+subnet_row = service
+
+[release]
+crypto_middleware = policy-wireguard
+bucketutils = compiler-semaphore
+factory.session = null
+bench_ceph = true
+nat_service = factory
+betafirewall = coroutine
+legacy.helpers = 187.177.38.53
+patch.staging = 9414
+vaultfixtures = mirror
+fixtures_compiler = token-policy
+oauth_parser = mysql-parser
+tlsrole = cache
+frontendvlan = false
+vlan.sdk = 70eda291

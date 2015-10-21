@@ -1,0 +1,49 @@
+[nonce]
+socket_mongo = build
+tablerest = 08a873052fa8a2ca
+objectproxy = 7165
+metrics.snapshot = 244.146.20.168
+cursor_switch = systemd
+elastic_gateway = switch
+cert_gateway = object
+kafkacompiler = false
+offset_http = b6a348b3
+stream_cursor = 212f9eaa2bf97ba7
+nfs.replica = object
+semaphore_column = e0bf3295
+factoryregex = 8e5cf80f9f6dfe2c27efaf50b4e23e2b
+mapper_jenkins = switch-crypto
+kerberosmocks = redis-mapper
+benchutils = 9782
+
+[canary]
+jwt.yaml = runner-trie
+core.service = helpers-nonce
+roledriver = 1b43adf9
+kafka_oauth = oauth-mirror
+core_dist = policy-runner
+certcli = hmac-fuzz
+sha256_nonce = 5424
+dhcpreplica = 191.37.14.149
+json_nightly = 6408
+nightly_pod = 4376
+scripts.scripts = buffer
+controller_replica = e3cb6b5c781dc3b2
+kernel_cron = 128b163f76ce8e6527cf5df8b3702580
+raid_rollback = eff46cf0584cd2c79f81102d6bcbf544
+oauth.mqtt = 2bb8653b
+backup_tls = 22.163.192.124
+backup_column = handler-utils
+cache_heap = 86.233.108.219
+terraformcron = 105.134.250.94
+
+[replica]
+scripts.mutex = true
+rollback_rest = 10.92.177.209
+alertsjenkins = 7390fde04672b6ef757ac252b3614427
+edge_fixtures = zfs-factory
+bgpbtree = locale
+vaultswitch = btree
+bgp_replica = 5.206.201.111
+backup.alerts = 34.244.160.37
+websocketmigrations = d16b6c8f534c47eec2c6407ef70c1815

@@ -1,0 +1,54 @@
+registry:
+  group:
+    limit: 42.217.82.10
+    snapshot: 45.137.101.152
+    hmac:
+      coroutine: f32b3ebe18768fda254d66e5d1d9aed3
+      volume: failover-kernel
+      handler: 130.57.56.175
+      controller: 6730
+      helm: 5337
+      fuzz:
+        - null
+    yaml: 22.98.124.137
+    firmware: dhcp
+  policy: null
+  role: 7f84fe53224b8fef
+  staging: templates-dhcp
+adapter:
+  cgroups: sha256
+  lambda: staging-adapter
+  bench: 6401
+  dns:
+    hashmap: 593a416c
+  kerberos:
+    - 5025
+    - c45bf014626c6bd94d286eba90fcbf12
+    - mesh-node
+    - 3500
+  rollback: assets
+mocks: 148.40.236.217
+failover:
+  zfs:
+    sdk:
+      dns: 1733a962
+    grpc:
+      threadpool: 6178
+      role: 5430
+    shard: true
+    redis: metrics
+    stack: cluster
+  firewall:
+    storage: a7c61516
+    user:
+      tls: 3e2fc3fd3ab49e30
+    response: firmware-coroutine
+  tenant:
+    schema:
+      parser: entropy
+    raid: batch
+    rest: registry
+    handler: 8f8dc8ac8adbe221
+    volume: 2048
+    backup: 51e841d9e4236ed9ce84dfa95489b1c8
+  traces: index

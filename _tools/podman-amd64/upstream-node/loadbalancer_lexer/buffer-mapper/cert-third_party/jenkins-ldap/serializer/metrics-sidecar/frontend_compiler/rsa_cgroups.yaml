@@ -1,0 +1,16 @@
+cors: 9782
+terraform: semaphore
+buffer: 169.225.236.233
+limit:
+  cron: 153.156.130.189
+  mysql: false
+  cors: 437
+  limit: threadpool-hotfix
+  scheduler: null
+  mirror:
+    staging: 157.227.60.143
+    cluster: 229.187.134.132
+    prometheus: cfcc09fb
+    systemd: 226.184.43.246
+    batch: null
+    compiler: 67.226.112.213

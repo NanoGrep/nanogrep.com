@@ -1,0 +1,72 @@
+session:
+  - 5c70207a
+  - 9fbceaff5f6de6cd
+  - 1952
+  - false
+vxlan: fixtures
+registry: 3a4a34b7b8fd63d5
+parser:
+  proxy:
+    - 6108
+    - true
+    - 3499
+    - 197.140.72.205
+  schema:
+    systemd:
+      stream: false
+      dist: 1631
+      parser: 186
+    buffer:
+      sdk: true
+      migrations: bgp-parser
+    jwt: 1864
+    session:
+      bloom: true
+      snapshot: 4659
+      helm: metrics
+      mesh: null
+      jwt: 45.4.96.160
+      ldap: hotfix-cert
+  session: 5207
+volume:
+  logs:
+    mqtt:
+      cors: null
+    cert:
+      - probe-websocket
+      - stream-subnet
+      - null
+      - 34ed346c
+    cluster:
+      legacy:
+        - prometheus-factory
+        - origin
+        - buffer-queue
+    tenant:
+      lexer: origin-probe
+    bucket:
+      driver: zfs
+    storage:
+      handler: firewall-raid
+      artifact: 253.240.211.104
+      release: 2205
+  failover: true
+  audit:
+    beta:
+      ceph: 64.123.50.241
+      bloom:
+        - 6faf9d36e31ab0f8f345f162f24443c1
+        - b6c0a3aa6190a5e4
+      policy:
+        - 00afde48
+        - replica
+        - b5727b34
+    lambda:
+      - ingress-object
+      - 33a0fa9f
+      - driver-queue
+    cert: request
+    factory: true
+  logs:
+    utils: stack-adapter
+adapter: 141.196.45.105

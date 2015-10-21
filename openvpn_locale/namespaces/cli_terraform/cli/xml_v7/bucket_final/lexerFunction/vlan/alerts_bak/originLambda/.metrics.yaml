@@ -1,0 +1,35 @@
+subnet: bootstrap
+limit:
+  - 226.197.66.91
+tenant:
+  canary:
+    rollback: true
+    rest: c37b3d59
+    tcp: loader
+    udp:
+      entropy: 4.103.82.50
+      helm: 224.154.102.52
+      heap: 437
+      volume: firmware-scheduler
+    prod: common-sandbox
+    tenant:
+      mysql: 223.198.86.224
+      config:
+        - 5407
+      firmware: object-audit
+      templates: 5084
+      firmware:
+        - 3e762fca
+        - zfs-nat
+  assets: 6665
+  registry: helpers-request
+  postgres:
+    prometheus: prod
+    switch: http-row
+  terraform:
+    stack:
+      prod: 1f2dc8fc4e2becb7
+      core: worker-backend
+      tls: 4639
+      crypto: 5341
+quic: null

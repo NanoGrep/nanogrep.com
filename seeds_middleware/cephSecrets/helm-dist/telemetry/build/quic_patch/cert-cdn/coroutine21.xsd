@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<vault>
+  <probe id="ebf152">true</item>
+  <buffer id="be92cc">tenant-oauth</item>
+  <alerts id="b6a1cb">quic-dns</item>
+  <raid id="56d164">bucket</item>
+  <dns id="733402">8093</item>
+  <kerberos id="790b1c">4356</item>
+  <pipeline id="fc71c4">factory-cron</item>
+  <cache id="5b77cb">25.195.197.234</item>
+  <config id="175d96">9fdcfdf9eb44b9d6</item>
+  <rollback id="4d9dc5">true</item>
+  <prometheus id="edbbf0">2331</item>
+  <udp id="99dcaf">197.78.231.223</item>
+  <policy id="a1e7fa">null</item>
+  <vendor id="c5eb91">false</item>
+  <alerts id="ef7676">2901</item>
+  <api id="e8651c">nfs</item>
+</root>

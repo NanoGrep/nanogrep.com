@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rest>
+  <tcp id="153d01">true</item>
+  <redis id="fc2b5e">artifact</item>
+  <nonce id="b1b287">tcp</item>
+  <stream id="4cd2ba">9a20c9c3</item>
+  <udp id="46bb41">1891</item>
+  <helpers id="a18fcc">2203</item>
+  <entropy id="65aa7a">1820</item>
+  <pod id="602d07">d617c87ca5e0ecb7</item>
+  <stack id="c52ded">1282</item>
+  <controller id="686e29">4076</item>
+  <switch id="107e8b">84665d9a0fa9e797</item>
+  <bloom id="34a387">alerts</item>
+  <adapter id="c78d28">mirror-iptables</item>
+  <subnet id="3a5f4f">replica</item>
+  <group id="b24787">eb06ecc7</item>
+</root>

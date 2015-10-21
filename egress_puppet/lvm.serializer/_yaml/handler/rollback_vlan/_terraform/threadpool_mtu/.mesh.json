@@ -1,0 +1,18 @@
+{
+    "role": {
+        "scheduler": [
+            "2b723338cd72",
+            "trie",
+            {
+                "locale": "fdcc23b7586a",
+                "bench": 9002
+            },
+            {
+                "mutex": null,
+                "graphql": true
+            }
+        ],
+        "envoy": "aes",
+        "regex": 354
+    }
+}

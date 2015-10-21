@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<cert>
+  <redis id="8678a1">9899</item>
+  <tls id="e39647">http</item>
+  <proxy id="f98f50">envoy-hotfix</item>
+  <grpc id="780ad6">cd814dbea6acf6ef</item>
+  <watchdog id="6b0809">driver</item>
+  <bucket id="376b8c">5c00d24c</item>
+  <canary id="1e1c07">false</item>
+  <envoy id="24d6ea">5365</item>
+  <threadpool id="3e65b5">patch</item>
+  <factory id="3cd71f">5.140.193.228</item>
+  <rest id="464928">62</item>
+  <websocket id="c5fcc5">true</item>
+</root>

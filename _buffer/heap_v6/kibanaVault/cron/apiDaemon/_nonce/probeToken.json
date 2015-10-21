@@ -1,0 +1,44 @@
+[
+  {
+    "mqtt": {
+      "scripts": "3287b6061bb8",
+      "edge": {
+        "mocks": false
+      },
+      "storage": null,
+      "token": "737b9701c563"
+    }
+  },
+  {
+    "controller": [
+      [
+        "volume",
+        null,
+        "f64ded372f59",
+        "95d1b1381b56"
+      ]
+    ],
+    "bootstrap": [
+      {
+        "mutex": false,
+        "traces": 548
+      },
+      true,
+      true,
+      true
+    ],
+    "request": null,
+    "payload": {
+      "wireguard": 3635,
+      "vault": {
+        "upstream": "e2c4f243fd0c"
+      },
+      "templates": [],
+      "bgp": {
+        "btree": "threadpool",
+        "logs": false,
+        "origin": null
+      }
+    }
+  }
+]

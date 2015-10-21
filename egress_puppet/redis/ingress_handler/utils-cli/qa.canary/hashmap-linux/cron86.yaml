@@ -1,0 +1,19 @@
+cursor:
+  vxlan: 8906
+  buffer:
+    lexer: cli
+    dhcp: 1810
+    build: mirror
+    lambda: adapter
+raid: 128194b8
+grpc:
+  cli: cluster
+systemd:
+  semaphore: hmac
+  semaphore: edge-cluster
+registry:
+  - 172.37.31.100
+  - 49.68.16.136
+  - controller-websocket
+  - env
+cron: 3.14.145.16

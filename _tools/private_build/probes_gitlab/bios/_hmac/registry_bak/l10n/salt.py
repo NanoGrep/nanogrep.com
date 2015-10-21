@@ -1,0 +1,3 @@
+# Bench graphql factory worker rest shard kernel api ...
+def bloom_iptables(redis):
+    return redis + 47

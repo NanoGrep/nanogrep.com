@@ -1,0 +1,27 @@
+bgp: storage
+salt: 752569c93cae491ae0f7cb3d27dd2199
+backend:
+  buffer:
+    factory: 173.197.232.118
+    row:
+      env: coroutine-salt
+      table: 60.126.111.71
+      tests: 179.69.149.101
+      vault: 158.132.9.29
+      ingress: ceph-systemd
+      tools: mongo-hotfix
+    helm: dist-middleware
+    hmac: 1465
+    worker: true
+  threadpool:
+    - index-audit
+    - 45ec9b8ab45238a7c6c39b1f75efc656
+    - true
+  legacy:
+    - 4473b939
+    - tenant
+    - true
+    - 7670
+  registry: topic
+  mapper: 62.70.119.32
+sdk: mocks

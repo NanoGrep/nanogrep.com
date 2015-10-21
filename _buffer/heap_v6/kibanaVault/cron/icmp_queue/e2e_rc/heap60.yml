@@ -1,0 +1,3 @@
+cgroups: vxlan-helm
+rest:
+  elastic: edge-build

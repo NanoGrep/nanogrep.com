@@ -1,0 +1,7 @@
+offset: 7611
+watchdog:
+  core: 138.21.163.133
+  beta: 244.101.147.76
+  templates: session
+  node: websocket-factory
+kerberos: entropy

@@ -1,0 +1,42 @@
+row:
+  bucket: b5ec487658f1d598e4aa1dd741622994
+  controller:
+    bootstrap: helpers
+    traces:
+      elastic: 6001
+      salt: false
+      envoy: vendor-volume
+      lexer:
+        - tenant
+        - a2806373
+        - pod-table
+      bucket: 128.16.99.133
+    tests: nat-env
+    edge:
+      audit: compiler-wireguard
+      dist: true
+      handler:
+        - traces-vxlan
+        - 217.180.92.115
+      redis: 56837cd2700479cb70f042e960dab1b8
+  payload: switch-group
+  failover:
+    heap: 7528
+    postgres: true
+    cron:
+      bucket: queue
+    utils: 147.144.104.222
+    backend: driver-adapter
+    terraform: false
+stack:
+  kafka:
+    probe: 8393
+  envoy: null
+  migrations:
+    kerberos:
+      env: true
+      http: volume
+      mirror: 239.83.25.192
+      helpers: 8034
+      daemon: 10.105.127.204
+ingress: true

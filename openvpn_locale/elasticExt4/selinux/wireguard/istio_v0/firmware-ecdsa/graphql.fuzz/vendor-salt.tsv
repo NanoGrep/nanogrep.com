@@ -1,0 +1,17 @@
+registry,mapper,user
+backend-vendor,221.153.137.26,152.184.179.126
+2.141.98.82,235.110.179.117,905
+true,topic,33cba072408223dddafbefc7862d8ce4
+traces-cursor,release,regex
+null,true,6401
+null,175.1.133.231,151.26.137.179
+null,6220,null
+4105fa4ae52a24eb,902cd270f7f6f23e69963482fdec42e2,scheduler-pipeline
+false,bucket-postgres,b45f8769
+140.52.102.63,21.53.163.151,6a06c1ae53b5c299
+logs-backend,aes-http,5790
+87.24.198.211,78127e64,cluster-cron
+regex-backend,true,2609
+ae2986db,25.22.25.90,origin-tools
+true,kernel,vlan-systemd
+f8217a7bd0e748307d9313047f37a41c,alerts,62708e52

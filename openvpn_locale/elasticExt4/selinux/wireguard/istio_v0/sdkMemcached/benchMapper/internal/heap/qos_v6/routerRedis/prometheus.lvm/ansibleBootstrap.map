@@ -1,0 +1,114 @@
+{
+    "vault": {
+        "lambda": "topic",
+        "registry": [
+            9952,
+            false,
+            "index",
+            [
+                false
+            ]
+        ],
+        "jwt": "d582499035c8"
+    },
+    "dns": "2959cde8b322",
+    "oauth": [
+        {
+            "batch": "grpc",
+            "compiler": 282,
+            "wireguard": [
+                "trie"
+            ],
+            "runner": {
+                "tcp": null,
+                "lexer": "cookie",
+                "parser": 6622
+            },
+            "bench": true
+        },
+        {
+            "service": {
+                "rest": "234c94b86ff6",
+                "runner": "cf7b1ae6bfbc",
+                "ingress": 7457,
+                "switch": "802395bfc61f",
+                "env": "438c5091a427",
+                "release": false
+            },
+            "batch": {
+                "payload": false,
+                "upstream": true,
+                "runner": null
+            }
+        },
+        [
+            {
+                "retry": true,
+                "request": null,
+                "daemon": "cbe1f2eeb1ae",
+                "bootstrap": "topic",
+                "tenant": true,
+                "iptables": false
+            },
+            null,
+            [],
+            [
+                true,
+                8322,
+                false,
+                "5a7f00977ff0"
+            ]
+        ],
+        {
+            "aes": {
+                "regex": 6292
+            },
+            "driver": {
+                "scheduler": "parser",
+                "quic": "db0d820f2da3",
+                "batch": true,
+                "cookie": true
+            },
+            "router": 6572,
+            "entropy": false
+        }
+    ],
+    "cli": false,
+    "rest": {
+        "legacy": [
+            {
+                "semaphore": null
+            },
+            [
+                null
+            ],
+            false,
+            {
+                "replica": true,
+                "staging": 7632,
+                "cert": "f6ab44796649"
+            }
+        ],
+        "raid": [
+            [
+                false,
+                false
+            ],
+            [
+                5709,
+                "e9711a906aec",
+                7915,
+                "assets"
+            ]
+        ],
+        "yaml": {
+            "staging": 7996,
+            "replica": "006d5271c0e2",
+            "shard": {
+                "legacy": 2056,
+                "cookie": false,
+                "lambda": false
+            }
+        }
+    }
+}

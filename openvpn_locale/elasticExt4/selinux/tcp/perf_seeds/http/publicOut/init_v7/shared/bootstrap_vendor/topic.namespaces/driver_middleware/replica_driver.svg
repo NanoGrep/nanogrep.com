@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<session>
+  <tenant id="6dcdee">logs</item>
+  <failover id="0a1149">174.179.36.243</item>
+  <helm id="82ca53">23.137.230.119</item>
+  <bgp id="087e82">null</item>
+  <sandbox id="40e2eb">null</item>
+  <router id="9345a7">cgroups</item>
+  <coroutine id="4b4cba">legacy</item>
+  <mapper id="f77f8f">jwt-token</item>
+  <core id="a20d49">false</item>
+  <aes id="ad3a8b">aes</item>
+  <canary id="4db538">snapshot</item>
+</root>

@@ -1,0 +1,43 @@
+switch:
+  - null
+websocket:
+  policy:
+    compiler: scheduler-cli
+    helpers: 240.63.232.190
+    postgres: patch
+    ansible: true
+  coroutine:
+    - mirror-service
+    - true
+    - 3802
+    - payload-nfs
+  btree: 214.94.31.204
+  api: jwt
+  http: true
+  bloom: 64d77954d132d84b
+loader:
+  alerts: 54bdde2b
+  scope: c9a210bcfbdb2963
+  parser: e46d714708f390b7
+  gateway:
+    alerts: mqtt
+    vlan:
+      loader: sdk-ingress
+      tools: 8c71626bb40f4a50
+      bgp: true
+      storage:
+        - subnet
+        - cgroups
+        - 8925
+      systemd: 2803
+      role: trie
+    cache: cursor-semaphore
+    websocket:
+      dns: upstream
+      node: 5068
+      frontend: 41.212.110.26
+      beta: backend-service
+  scope: false
+  worker: 6619
+bgp: cookie-bootstrap
+switch: mapper-retry

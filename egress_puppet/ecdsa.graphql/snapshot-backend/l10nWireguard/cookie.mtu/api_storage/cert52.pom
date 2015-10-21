@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<postgres>
+  <stack id="0d3c2f">65.40.13.146</item>
+  <sandbox id="595c69">339</item>
+  <gateway id="797272">ffe1cdb24ada1b86</item>
+  <vendor id="a670a9">lambda-buffer</item>
+</root>

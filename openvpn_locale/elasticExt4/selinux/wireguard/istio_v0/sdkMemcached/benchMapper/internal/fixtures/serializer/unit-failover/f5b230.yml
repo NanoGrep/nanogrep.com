@@ -1,0 +1,13 @@
+socket:
+  tools: alerts-mapper
+  btree:
+    - 5123
+    - dns-bgp
+    - ingress
+    - scheduler
+  cluster: grpc-bucket
+stream: offset-scripts
+volume: 9862
+lib: f456382bf243ca4b5cc6613a15c7ede2
+lambda: 2647
+legacy: 27.137.213.105

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ansible>
+  <mqtt id="65d535">runner-protobuf</item>
+  <response id="0bdff3">f5f348953cd9c0ffdcd8ea6ac6ccc7f0</item>
+  <ingress id="06c161">rest</item>
+  <scope id="5f77d5">request</item>
+  <prometheus id="3c893f">18.141.67.70</item>
+  <tls id="6e3b36">iptables</item>
+  <prod id="4a9676">failover</item>
+</root>

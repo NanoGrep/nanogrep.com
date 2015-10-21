@@ -1,0 +1,25 @@
+tools:
+  index:
+    kerberos: af1d1eaa51e2f84f4103a53b21643fe6
+    middleware: 28.164.54.24
+    mqtt: true
+    index: cdcbba9309ef8762
+    templates: true
+  beta:
+    loader: null
+    scope: 211.192.173.87
+    regex:
+      socket: 3729
+      env: mapper-fixtures
+      regex: true
+      salt: 52.12.34.108
+    beta:
+      - null
+      - 49989b4e
+      - 944
+    middleware:
+      grpc: driver
+      dist: artifact
+      worker: true
+      middleware: switch-driver
+    build: 0a8909e6

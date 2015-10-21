@@ -1,0 +1,35 @@
+lib:
+  release: 99.164.147.77
+  beta: threadpool
+common:
+  - 9229
+  - 3043
+  - quic-upstream
+jenkins:
+  regex: 198.244.146.218
+  canary:
+    registry:
+      kerberos: btree
+      backup:
+        - 236.125.10.210
+        - switch-session
+        - grpc-bucket
+        - cgroups-bench
+      env:
+        - watchdog-bench
+        - 6c3a877b
+        - 06f1c05f43e4317d
+        - 218.144.104.204
+  router:
+    pod: request
+    fuzz:
+      bgp: 54.215.200.78
+      graphql: 144.132.20.64
+    frontend:
+      replica:
+        - 5425
+        - 5327
+        - 2518
+        - 4486
+      nat: 4750
+      artifact: config

@@ -1,0 +1,5 @@
+build:
+  - parser
+  - 1205c75bd32e4193
+  - 1540
+daemon: true

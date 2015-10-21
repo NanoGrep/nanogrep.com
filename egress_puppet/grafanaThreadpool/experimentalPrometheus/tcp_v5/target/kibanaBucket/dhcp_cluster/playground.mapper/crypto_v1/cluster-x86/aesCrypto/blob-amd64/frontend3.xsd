@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<fuzz>
+  <kerberos id="b02b0c">vlan-vendor</item>
+  <lexer id="52a27d">table</item>
+  <release id="030289">lib</item>
+  <origin id="676349">column</item>
+  <service id="6b4173">30.230.8.98</item>
+  <hmac id="51bc98">4435</item>
+  <sdk id="ca8176">209.100.68.9</item>
+  <upstream id="1cca63">protobuf-yaml</item>
+  <envoy id="4a2a89">true</item>
+  <nonce id="d3ebee">203.236.206.159</item>
+  <lexer id="fc2d31">2135</item>
+  <trie id="8c9750">ansible</item>
+  <group id="999611">null</item>
+  <loader id="5dfe93">quic-canary</item>
+  <pod id="7be9bf">0567a6bead571878</item>
+</root>

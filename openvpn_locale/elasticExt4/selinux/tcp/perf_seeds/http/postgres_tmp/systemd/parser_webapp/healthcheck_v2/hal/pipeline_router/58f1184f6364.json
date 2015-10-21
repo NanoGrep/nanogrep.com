@@ -1,0 +1,34 @@
+{
+  "ingress": true,
+  "websocket": {
+    "row": 2763,
+    "mutex": "e9965022fea5"
+  },
+  "udp": false,
+  "vendor": null,
+  "tcp": {
+    "driver": [],
+    "ldap": "common",
+    "nfs": {
+      "protobuf": true,
+      "release": {
+        "firmware": "ede2710cc1ef"
+      },
+      "raid": {
+        "switch": false,
+        "mocks": null,
+        "offset": "fc1bab9d934a",
+        "rollback": null
+      },
+      "adapter": {
+        "runner": "316a22f17e95",
+        "entropy": false
+      },
+      "backup": {
+        "vxlan": true,
+        "env": true,
+        "heap": false
+      }
+    }
+  }
+}

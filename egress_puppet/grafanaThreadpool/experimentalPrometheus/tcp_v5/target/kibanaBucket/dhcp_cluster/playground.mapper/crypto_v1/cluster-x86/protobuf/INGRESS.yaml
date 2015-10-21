@@ -1,0 +1,21 @@
+lib: 153.215.48.166
+ingress:
+  - daemon-cluster
+  - 2c47007338a162b6
+  - null
+config:
+  nat:
+    payload: 5250
+    bgp:
+      ceph: 7068
+      prometheus: 242.26.216.42
+      dhcp:
+        - cursor-user
+        - firewall-tcp
+        - null
+        - controller-topic
+      router: 7263
+      templates: 2198
+      vlan: 254.56.61.209
+  threadpool: false
+  probe: prometheus-json

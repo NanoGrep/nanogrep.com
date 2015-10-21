@@ -1,0 +1,57 @@
+worker:
+  common:
+    mirror: d8070fcb7873b32d
+    offset:
+      bloom: cookie-index
+      lambda: 222.109.23.77
+      sdk: 99b6a6daaceae9476f4ffc04cce6a313
+      coroutine: build-token
+      switch:
+        - stream
+        - 34c9b737
+        - proxy-user
+        - 4.198.39.218
+      jenkins: mongo
+    scripts: 3975
+    tenant: row-token
+    index: oauth
+    scheduler:
+      utils:
+        - false
+        - mirror
+        - loader-kafka
+        - 4258
+      index: aff0bf9532f28c53
+      mocks: 7960
+      pipeline: retry
+      vxlan: 9032
+      ceph: 2033
+  factory:
+    probe:
+      pod: 450
+      worker: 208.168.141.109
+    hashmap: 40.180.167.109
+    http:
+      - 9cf337d07c87b9a760f4582643192e10
+    mqtt: fad4e7b2
+    mutex:
+      terraform: bgp
+    tcp:
+      - 220.208.60.172
+      - btree-fixtures
+  kernel:
+    btree:
+      btree: legacy
+      probe: metrics
+      release: true
+      alerts:
+        - d9f74365
+      cluster:
+        - 189.112.149.122
+        - c63f0e0a0bb41ef775351bfb7bf3bd22
+    cache:
+      - 9c441cc2e1d5c29fd66720910091c366
+      - pipeline
+      - 36.243.113.125
+      - true
+  topic: bench-postgres

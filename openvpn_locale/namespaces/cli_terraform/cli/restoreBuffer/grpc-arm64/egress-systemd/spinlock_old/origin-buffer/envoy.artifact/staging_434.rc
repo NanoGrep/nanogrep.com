@@ -1,0 +1,25 @@
+[jenkins]
+sessioncache = null
+coroutineparser = null
+nat.mocks = aes
+mirrortests = redis-replica
+semaphorebeta = rest-queue
+stackswitch = 6043
+legacy_grpc = grpc-redis
+core_crypto = 2634b4ac9c87734a
+driver_audit = null
+subnet_queue = 27843b35ad054907f6c5f73c7cce7c5c
+entropy.protobuf = null
+backup_ansible = 11.182.156.134
+policymocks = 7940
+bgp.ceph = 9693
+nightly_cgroups = 29.190.49.207
+mysqltools = 145.114.112.57
+sha256.fuzz = debd70e1
+mapperfirewall = mqtt-firmware
+build_hashmap = lib
+scope_lexer = probe
+edge_hotfix = 5842
+adaptervxlan = 174.217.239.70
+socket.artifact = templates-frontend
+cgroups_scheduler = 181.120.125.96

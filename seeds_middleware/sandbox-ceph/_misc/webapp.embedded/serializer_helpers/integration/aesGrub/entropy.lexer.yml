@@ -1,0 +1,6 @@
+gateway:
+  kerberos:
+    snapshot: 7477
+    backup: regex-jenkins
+lib: b16ff0a1
+mysql: 180.228.118.147

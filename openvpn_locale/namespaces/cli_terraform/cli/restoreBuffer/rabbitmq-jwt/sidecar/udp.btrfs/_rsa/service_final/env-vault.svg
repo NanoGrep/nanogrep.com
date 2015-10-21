@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<sha256>
+  <payload id="123676">sdk</item>
+  <cache id="57002b">parser</item>
+  <json id="ef6030">nginx</item>
+  <dns id="f7f065">8076</item>
+  <tls id="b8ad7a">131.38.139.207</item>
+  <edge id="1d7e42">true</item>
+  <common id="42df49">639284a30c6b0303</item>
+  <helm id="8daae1">false</item>
+  <sandbox id="f14e26">metrics-cache</item>
+  <ceph id="5d09a5">199.125.32.65</item>
+  <nat id="16115d">175.11.144.181</item>
+  <response id="ebde2b">8943</item>
+  <shard id="d71a35">238.128.186.73</item>
+</root>

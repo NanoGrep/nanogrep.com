@@ -1,0 +1,23 @@
+row:
+  firewall: true
+  rsa:
+    topic:
+      proxy: 962
+      grpc: true
+  nfs:
+    logs: 6d68abf7e0ae0a09
+    topic:
+      - graphql
+      - 5903
+      - 2.138.247.156
+      - 9793
+    storage:
+      topic: 180.58.110.124
+      ingress: queue
+      mocks: a59d21af09a2aba6
+      cors: 3469
+mocks:
+  - nightly-parser
+  - 2810
+  - ceph
+  - 259

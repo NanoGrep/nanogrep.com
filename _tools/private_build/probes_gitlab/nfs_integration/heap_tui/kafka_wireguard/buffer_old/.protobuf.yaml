@@ -1,0 +1,5 @@
+proxy:
+  - 101.61.16.40
+  - true
+dist: protobuf
+gateway: 2034

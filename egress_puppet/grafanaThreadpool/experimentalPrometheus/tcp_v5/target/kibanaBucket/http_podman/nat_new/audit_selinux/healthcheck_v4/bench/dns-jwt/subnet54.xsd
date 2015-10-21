@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<canary>
+  <locale id="8b0d21">protobuf</item>
+  <upstream id="08723f">8024</item>
+  <core id="44c424">kafka-column</item>
+  <beta id="2eca1f">cookie-audit</item>
+  <systemd id="216028">null</item>
+  <user id="b97b29">response</item>
+  <dhcp id="ffc043">1136</item>
+  <backup id="d4a48d">true</item>
+  <cors id="581b98">false</item>
+  <socket id="07ae6f">core-origin</item>
+  <runner id="a4113d">rollback-lib</item>
+  <service id="07f8e8">null</item>
+</root>

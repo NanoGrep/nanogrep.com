@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<queue>
+  <column id="dace9b">130.103.245.199</item>
+  <replica id="9be725">false</item>
+  <zfs id="d12eef">regex</item>
+  <elastic id="0c7c1f">false</item>
+  <vlan id="611306">ldap</item>
+  <node id="599308">c0212bcba3633a2f2db633fd04c00eb6</item>
+  <scheduler id="1919da">6b5f949dad8bb2df04059ac5e97a869f</item>
+</root>

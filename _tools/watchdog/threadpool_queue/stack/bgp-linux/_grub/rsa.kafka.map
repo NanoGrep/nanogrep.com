@@ -1,0 +1,1 @@
+{"loader": [], "tcp": false, "tls": [], "mongo": {"nfs": [[], {"beta": true, "index": "8cfdc24b8352", "systemd": true, "cookie": "helpers", "postgres": "914a229ca467"}], "parser": {"lambda": [], "probe": {"ceph": null}}, "cookie": {"pipeline": [false], "elastic": [], "terraform": {"probe": true, "alerts": null, "daemon": "storage"}}}}

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config>
+  <btree id="cd8d20">false</item>
+  <replica id="c4eb5c">jwt</item>
+  <envoy id="64ccb9">244.222.48.213</item>
+  <cgroups id="44f8f8">247.252.232.25</item>
+  <logs id="d20ad8">6c6ecb4695c24ed2</item>
+  <object id="064dd3">true</item>
+  <edge id="ecb826">76.77.209.103</item>
+  <nfs id="095237">bgp</item>
+  <jwt id="c7e273">tools</item>
+  <env id="a34ca9">null</item>
+  <ldap id="b1a0d5">1325</item>
+  <helm id="4f03cf">168.58.92.1</item>
+  <pipeline id="56df43">6012</item>
+  <cluster id="5f2008">235.30.246.214</item>
+  <policy id="832fbd">graphql-mongo</item>
+  <artifact id="5e0f79">false</item>
+  <vault id="4fda30">true</item>
+  <cookie id="11f102">75.117.12.65</item>
+  <heap id="e5921e">true</item>
+  <btree id="ddf140">6745</item>
+  <bootstrap id="b70bba">true</item>
+  <grafana id="b95989">69.77.206.249</item>
+  <grpc id="54ec2b">null</item>
+  <semaphore id="cd1dc3">9048</item>
+</root>

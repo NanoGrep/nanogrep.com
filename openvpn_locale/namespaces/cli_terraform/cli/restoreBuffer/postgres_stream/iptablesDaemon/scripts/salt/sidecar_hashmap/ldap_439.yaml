@@ -1,0 +1,19 @@
+crypto: 109.104.129.35
+build:
+  - true
+  - false
+  - false
+response: nightly-nonce
+origin:
+  env: fixtures-proxy
+api:
+  raid: 27fd63cb
+  limit:
+    legacy:
+      - tenant-release
+      - mapper
+      - 222.184.116.136
+      - assets
+  buffer: token-retry
+  vxlan: null
+  redis: utils

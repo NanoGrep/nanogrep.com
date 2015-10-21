@@ -1,0 +1,52 @@
+snapshot: true
+middleware: 46.213.231.222
+threadpool: prometheus
+common:
+  tests:
+    patch: 6c39405d7e1721e326562b7691b5c019
+    nat: 4029
+  beta: 9362
+firewall:
+  api: 7967
+  stack:
+    terraform:
+      - 92.186.131.50
+      - 5437
+      - salt
+    rollback:
+      request: ldap
+      cluster: 3490
+      trie: 86814c53db286a72
+      bootstrap: tcp-pipeline
+    cache: 54.89.204.173
+    yaml: worker-tests
+    migrations:
+      - 5673
+    gateway:
+      cron: stream
+      rollback: 9367
+      payload: watchdog-grpc
+      patch: 483
+  helpers: d8a581a5
+  coroutine: a5b24f69aa3d0a5befdf74f08ebee2e5
+salt:
+  prod: null
+  cert:
+    entropy: 87802ed676e2160d4f5b63b61d28ca16
+    artifact:
+      - false
+      - 8263
+      - 6199bae56cf7381e
+      - limit
+    assets:
+      trie: 874
+      elastic: cbecf025b89525c199ff9673ab24303d
+    heap:
+      - c02a608f5260d37f
+      - false
+    controller: shard
+    helpers: 52d3cce776e8e6c3
+  index: 4986
+  zfs: 2589
+  shard: 69.22.226.199
+  nightly: d96769a6

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<entropy>
+  <handler id="579caf">null</item>
+  <bucket id="e9cc29">9151</item>
+  <origin id="2c60a4">1eee8c87cf6e3de61dd7d67925fbc1d3</item>
+  <yaml id="cfe390">6344023ba4b93c4c89d303389925dff6</item>
+  <firmware id="cc6538">true</item>
+  <api id="fc4c8f">build-volume</item>
+  <socket id="b10dbe">utils-tls</item>
+  <salt id="cb4a3e">origin</item>
+  <quic id="f2f563">44.48.163.177</item>
+  <dns id="2611b7">0867df7a3c3bb9ae45e3232da76a2ee5</item>
+  <scripts id="d48243">true</item>
+  <bootstrap id="1bdb1a">false</item>
+</root>

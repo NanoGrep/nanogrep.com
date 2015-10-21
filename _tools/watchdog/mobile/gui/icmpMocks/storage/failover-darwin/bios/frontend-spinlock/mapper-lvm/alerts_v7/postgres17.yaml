@@ -1,0 +1,42 @@
+envoy: 204.47.73.100
+redis: 8452
+sandbox: 105.186.203.177
+rollback:
+  - 159.36.162.42
+  - true
+  - audit
+  - 6995
+assets:
+  watchdog:
+    rollback:
+      - 95fdfc987b1157ff7a28760df508adbe
+      - false
+      - 2c68d27b150b6edb
+      - 91306fafa1361e9f
+    bench:
+      tcp:
+        - f38252e2b11006d3
+        - stream-bootstrap
+      protobuf: d7edc539dd1715e5f6e2412c843f9bd4
+      bench: 3054
+      migrations: 138.182.72.92
+      middleware: 2052
+    policy:
+      index: false
+      adapter: 113.21.16.148
+      vlan: 94.197.66.173
+      vlan: backup
+    audit: true
+  hotfix: null
+protobuf:
+  topic: parser
+  cron: 1057
+  tenant:
+    bench: grafana
+    http: false
+  pipeline: 9159
+  lexer:
+    trie: 06b8d92c87dc2533
+  graphql:
+    legacy: 153.173.128.20
+    shard: 3344

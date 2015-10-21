@@ -1,0 +1,41 @@
+templates: 5177
+stack:
+  bootstrap:
+    mocks: scope
+    common: 00135994e1d2023660621ed41cdf780b
+    api:
+      policy: null
+  firewall: b277b3cb
+  patch:
+    - true
+    - f14e2606f19668d70898bc73168f9dd1
+build:
+  router:
+    common: null
+    stream:
+      - 82.2.192.239
+    scheduler: tests
+  probe: legacy
+  pod:
+    stream:
+      - 214cbec0
+      - core
+    cursor: dns
+    prod: null
+    http: 2506
+    logs:
+      wireguard: nfs-tls
+      aes: 246.127.72.30
+      origin: 7231
+    entropy: true
+  aes: null
+  traces: true
+  row:
+    firewall:
+      failover: 9968
+    alerts: 109.1.178.48
+    bgp: 593d76fbf0d93df9ed0cd15d0df1be84
+    vxlan:
+      - 159.221.22.182
+      - false
+    session: e3edc20a

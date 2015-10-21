@@ -1,0 +1,8 @@
+vxlan:
+  - vxlan
+  - 17.254.233.50
+  - 626
+regex: 203.24.84.172
+tests: 199.108.175.209
+storage: 7d2bc48f26c81266
+envoy: fe0ffac64d64b96b344a3334efd08c98

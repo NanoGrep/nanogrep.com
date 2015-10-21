@@ -1,0 +1,20 @@
+ceph:
+  - false
+  - 9a4b236a7b1e693397c40d79f567ad17
+  - true
+  - 209.196.64.89
+hotfix: 112.71.76.244
+oauth:
+  watchdog:
+    router: true
+    terraform: null
+    middleware:
+      cors: tls-factory
+    storage: 79.10.58.183
+    logs: 110.69.135.94
+    postgres: 205.117.115.183
+  release: json-vendor
+  loader: vxlan
+yaml: row
+iptables: 7034
+patch: middleware-cookie

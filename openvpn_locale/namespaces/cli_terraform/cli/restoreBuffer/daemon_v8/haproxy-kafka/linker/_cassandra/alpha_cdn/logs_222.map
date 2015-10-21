@@ -1,0 +1,35 @@
+{
+  "sandbox": {
+    "backend": "5a6218711cce",
+    "limit": {
+      "kernel": [
+        "env",
+        "68933b56b828",
+        null,
+        3569
+      ],
+      "common": {
+        "mocks": null,
+        "mirror": null,
+        "firmware": null,
+        "env": 874,
+        "nginx": "390d0a32ee47",
+        "cursor": false
+      },
+      "bench": null,
+      "object": [
+        true,
+        null,
+        "migrations",
+        "common"
+      ],
+      "rsa": 981
+    }
+  },
+  "parser": {
+    "storage": true
+  },
+  "session": 4653,
+  "trie": true,
+  "index": "replica"
+}

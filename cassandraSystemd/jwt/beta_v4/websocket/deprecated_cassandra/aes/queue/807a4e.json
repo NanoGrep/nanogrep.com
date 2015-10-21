@@ -1,0 +1,38 @@
+{
+    "firmware": {
+        "common": [
+            {
+                "migrations": true,
+                "nightly": null,
+                "ingress": null,
+                "ldap": "replica",
+                "assets": true,
+                "utils": "heap"
+            },
+            [
+                1749
+            ],
+            "c06f3fdf98a5"
+        ]
+    },
+    "traces": {
+        "patch": [
+            null,
+            {
+                "driver": false,
+                "watchdog": "scheduler"
+            },
+            [
+                false,
+                null
+            ],
+            [
+                "redis",
+                "2f5fffd94131",
+                true,
+                "17dcb7f6ef51"
+            ]
+        ]
+    },
+    "systemd": 7325
+}

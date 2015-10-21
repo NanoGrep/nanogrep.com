@@ -1,0 +1,27 @@
+canary:
+  hashmap: null
+  compiler: 243.6.80.189
+  vault:
+    helm: 0701ec70d48369617562147a75005367
+  backup:
+    mocks: jenkins-tests
+    audit: 71.180.224.145
+    response: request-audit
+    nfs: true
+    backend: 3129
+  cursor: 7475
+  handler: trie-utils
+trie:
+  templates:
+    threadpool: 64.232.46.141
+    daemon:
+      factory: api
+      cgroups: bdfdcadf24b2e03b
+      gateway:
+        - queue
+    backup: null
+    helm: true
+  shard:
+    - 229.38.217.196
+  templates: nat
+  postgres: table-edge

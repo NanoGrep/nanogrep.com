@@ -1,0 +1,33 @@
+vxlan:
+  - 33c039d3becffb63
+subnet: edge
+failover:
+  vlan: staging
+  crypto:
+    audit: redis
+    assets: true
+    response:
+      subnet: common-cert
+      loader: 39c93f0ff977ecc5
+      user: 0040e1beac287593c5ff34386db665bb
+    grafana: true
+    loader: jwt-dns
+    coroutine: 90.162.45.25
+  role: 3e808acff92bab30dad2ada175dee24f
+  hashmap: 1646
+  gateway:
+    cert:
+      bucket: true
+      gateway: bgp
+      oauth:
+        - tests
+        - 9076
+        - 8152
+      topic: true
+  replica: 97.37.105.82
+registry: lambda
+oauth: semaphore
+btree:
+  systemd:
+    - entropy
+  frontend: 2384

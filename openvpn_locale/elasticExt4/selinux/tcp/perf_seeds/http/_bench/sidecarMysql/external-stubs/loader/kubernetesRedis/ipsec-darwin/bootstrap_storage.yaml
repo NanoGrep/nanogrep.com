@@ -1,0 +1,8 @@
+lexer:
+  - adapter-raid
+  - 221.76.160.168
+shard: 124.49.20.41
+shard: prod
+kafka: grafana-rest
+lib: udp
+rest: loader-upstream

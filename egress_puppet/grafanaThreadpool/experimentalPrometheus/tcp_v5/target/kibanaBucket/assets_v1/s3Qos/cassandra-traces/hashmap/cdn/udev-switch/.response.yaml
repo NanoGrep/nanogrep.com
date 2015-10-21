@@ -1,0 +1,20 @@
+stream:
+  ldap:
+    router:
+      - false
+    cluster:
+      prod: 171.175.143.166
+      runner: false
+      snapshot: b3d1111659bd925cd8c3ee17f4a8d0fa
+      kafka: 131.4.56.43
+      cert: a8ead0282ab949e0
+  common:
+    token: 961
+    lexer:
+      envoy: 36adc0be92759ace
+      scheduler: false
+      bench: 41.145.60.132
+  frontend:
+    zfs: 5.34.31.199
+    controller: 3b60005d6900d9081145c623536e7eea
+backup: 0d9abb5bf2abe131

@@ -1,0 +1,24 @@
+[
+    {
+        "alerts": {
+            "coroutine": [
+                false,
+                false
+            ],
+            "jenkins": "8a2732bdc83f"
+        },
+        "helpers": 7840,
+        "scripts": {
+            "probe": {
+                "cgroups": "mesh"
+            },
+            "kerberos": {
+                "fixtures": "bgp",
+                "migrations": "offset"
+            },
+            "helm": false
+        },
+        "scope": false,
+        "gateway": "17803217dd44"
+    }
+]

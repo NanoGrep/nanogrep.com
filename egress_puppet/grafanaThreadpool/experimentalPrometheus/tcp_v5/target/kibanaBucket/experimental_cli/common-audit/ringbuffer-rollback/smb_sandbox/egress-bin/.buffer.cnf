@@ -1,0 +1,37 @@
+[rollback]
+pipelineregex = beta
+scope.bgp = false
+nat.prometheus = 37.84.144.163
+nonce_kafka = 203.159.249.224
+hmachelm = bootstrap
+compiler.protobuf = api-rsa
+
+[utils]
+beta_service = false
+hashmaphmac = null
+tokenpatch = 6607
+scope_cluster = envoy-scope
+requestscripts = helm
+legacylogs = kerberos-loader
+origin_router = 233.126.189.247
+parser_lib = factory-bootstrap
+scheduler.rollback = false
+vendor_bootstrap = f7f2c199
+threadpool.traces = c8000b7c
+mocks_buffer = true
+
+[dist]
+lexer.dist = d2e8ad43ea93bcb3
+cluster_bloom = false
+
+[handler]
+fuzzcursor = 38.122.227.59
+threadpooltrie = 1b70ed4c8c915b9fe9ce3240ba89b10d
+
+[graphql]
+jsondaemon = tls-tcp
+node.driver = false
+elastic_worker = kafka
+betastack = true
+parser_elastic = false
+schedulercanary = queue

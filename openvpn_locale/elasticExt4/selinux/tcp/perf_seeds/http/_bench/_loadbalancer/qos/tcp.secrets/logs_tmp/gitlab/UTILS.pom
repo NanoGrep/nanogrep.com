@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<threadpool>
+  <config id="387d7f">4391</item>
+  <locale id="a66efc">7197c4267437b81d</item>
+  <release id="ac68f3">6af64945</item>
+  <backup id="b86d10">mutex</item>
+  <subnet id="7c351c">cgroups</item>
+  <semaphore id="bfe105">patch-buffer</item>
+  <fuzz id="c10e61">null</item>
+  <firmware id="4e7a8c">9002</item>
+  <mesh id="b705c7">e71cc59c</item>
+  <node id="931c8b">index-volume</item>
+  <elastic id="fa2bce">service-mutex</item>
+  <helm id="4d03f9">false</item>
+  <cron id="354f23">89aff170</item>
+  <build id="6fa6b9">canary</item>
+  <mqtt id="f209e7">2520</item>
+  <udp id="96af15">false</item>
+  <origin id="7e3484">mysql-bloom</item>
+  <config id="5784e1">true</item>
+</root>

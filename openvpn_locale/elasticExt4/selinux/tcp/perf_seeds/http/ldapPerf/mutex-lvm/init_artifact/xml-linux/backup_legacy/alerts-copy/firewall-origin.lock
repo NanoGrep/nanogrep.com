@@ -1,0 +1,7 @@
+{
+  "registry": false,
+  "switch": true,
+  "config": true,
+  "tcp": null,
+  "canary": false
+}

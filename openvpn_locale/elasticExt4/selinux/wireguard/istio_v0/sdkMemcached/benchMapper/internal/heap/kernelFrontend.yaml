@@ -1,0 +1,11 @@
+release:
+  failover: pipeline
+  payload: true
+  scheduler: 5394
+  vault:
+    dhcp: fcb4d1cd8af91c60
+    sha256: runner-node
+  backend: null
+  gateway: false
+jwt: 2416
+udp: 3911

@@ -1,0 +1,13 @@
+beta:
+  edge: 110.104.173.154
+  templates: 8611
+  mesh:
+    - protobuf
+    - 6047
+    - 7e5746da00d891501fd67e31a0f581a0
+  cluster:
+    cli:
+      probe: 117.145.30.63
+    table: utils
+    cgroups: 3998
+runner: 1a87d423e0fbc8b6dc0b92c79590d86a

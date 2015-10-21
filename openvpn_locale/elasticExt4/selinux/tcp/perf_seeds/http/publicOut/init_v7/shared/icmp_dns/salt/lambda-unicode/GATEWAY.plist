@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<token>
+  <schema id="468f71">logs-kafka</item>
+  <vendor id="f8e804">release</item>
+  <cookie id="3dcdb6">mirror</item>
+  <audit id="44e827">3639</item>
+  <mapper id="6a281d">fixtures</item>
+  <regex id="b2b9d6">50.249.178.221</item>
+  <table id="42d517">4c53e4f2</item>
+  <column id="16b597">queue-threadpool</item>
+  <env id="22a1a9">9230</item>
+  <cookie id="d948b1">semaphore-scope</item>
+  <nginx id="e5c817">nonce</item>
+  <dns id="43fe80">true</item>
+  <lib id="f9fc38">1500077347b3ee5b04096f8107376d2b</item>
+  <grafana id="58074e">null</item>
+  <mapper id="1c8b3b">false</item>
+  <traces id="6b2eff">084540c2</item>
+  <jenkins id="920d89">26.46.5.210</item>
+  <ingress id="e45ef3">false</item>
+  <watchdog id="508eea">3806</item>
+</root>

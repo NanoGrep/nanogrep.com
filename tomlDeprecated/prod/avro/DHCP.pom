@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<grpc>
+  <locale id="8117f9">ebda0c3e246c6d81d33a1e735c5234ae</item>
+  <loader id="6d73e0">26.238.172.212</item>
+  <nginx id="62e66b">b230aa79b300da2a</item>
+  <worker id="1620ee">protobuf</item>
+  <staging id="15926d">null</item>
+  <pipeline id="930b5a">780</item>
+  <switch id="dd9863">nightly-bgp</item>
+  <index id="7b275d">response</item>
+  <compiler id="571589">e14e86bb687b7506</item>
+  <bucket id="54a821">403</item>
+  <cursor id="bf1c72">coroutine</item>
+</root>

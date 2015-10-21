@@ -1,0 +1,38 @@
+topic: 21.162.72.51
+hotfix:
+  origin:
+    - migrations-parser
+    - 97.150.11.182
+    - tests
+    - c506a32902989068724534008096787f
+  tcp: scope-legacy
+  zfs:
+    - 4ec49b18068446bd9d215615ef279c00
+    - 7100
+    - 91.61.149.253
+    - systemd
+  btree: true
+  regex: lambda
+  vendor:
+    - 2321
+yaml: 181.128.95.230
+group: batch
+loader: false
+row:
+  fixtures:
+    nightly:
+      ceph: 46.97.140.134
+      traces: 97.254.206.28
+    ingress:
+      driver: 87.141.84.75
+      legacy: sha256-salt
+      response: 4480
+      watchdog: false
+      vlan: salt-scheduler
+      queue: 63463605d2b7d0e1356bf1cb30260b0e
+    role: null
+  tcp: null
+  json: threadpool-bootstrap
+  dist: origin
+  response: 6054
+  staging: 206

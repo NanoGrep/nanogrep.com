@@ -1,0 +1,60 @@
+[
+    {
+        "locale": {
+            "scheduler": [
+                null
+            ],
+            "tests": {
+                "alerts": true,
+                "zfs": "83b6b15c0782",
+                "ansible": "c7ebce1ac76b",
+                "dhcp": null,
+                "canary": "f7d3e3bb58b1",
+                "pod": false
+            },
+            "iptables": {
+                "templates": null,
+                "assets": false,
+                "mutex": null,
+                "vlan": false,
+                "firewall": "config",
+                "hmac": true
+            },
+            "websocket": "node"
+        },
+        "crypto": {
+            "loader": {
+                "handler": 8322,
+                "tools": true,
+                "probe": "api",
+                "bench": "b48703364970",
+                "protobuf": false,
+                "fixtures": 5362
+            },
+            "cgroups": "5f12bebccae8",
+            "regex": [],
+            "dist": [
+                false,
+                null
+            ]
+        }
+    },
+    {
+        "assets": [],
+        "tcp": {
+            "mocks": null,
+            "table": false,
+            "controller": "legacy",
+            "common": 1268,
+            "tests": {
+                "migrations": null,
+                "scheduler": null,
+                "offset": "5637aec45194",
+                "mapper": 4870,
+                "rollback": null,
+                "http": "audit"
+            },
+            "cursor": null
+        }
+    }
+]

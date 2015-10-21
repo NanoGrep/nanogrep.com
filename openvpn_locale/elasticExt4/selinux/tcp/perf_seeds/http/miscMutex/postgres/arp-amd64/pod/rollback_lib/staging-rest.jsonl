@@ -1,0 +1,1 @@
+{"bgp": false, "elastic": 7235, "common": true, "response": [true], "salt": null, "vendor": {"shard": [{"beta": null, "envoy": false, "grafana": "60b6fad689b0", "regex": true, "scope": 2637}], "upstream": {"proxy": "cursor"}, "locale": null, "ansible": {"tests": null, "mysql": 646}}}

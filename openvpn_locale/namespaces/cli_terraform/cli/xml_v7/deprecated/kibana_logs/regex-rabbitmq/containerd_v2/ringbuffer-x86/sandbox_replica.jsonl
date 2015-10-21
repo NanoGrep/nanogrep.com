@@ -1,0 +1,20 @@
+{
+    "build": true,
+    "token": {
+        "node": null,
+        "retry": {
+            "router": {
+                "cursor": null,
+                "cert": 2151
+            }
+        },
+        "quic": true
+    },
+    "metrics": [],
+    "mysql": null,
+    "zfs": [
+        {
+            "staging": null
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+lib: batch-threadpool
+cors: 123.140.140.117
+prod:
+  - quic-stack
+  - regex-cgroups
+ceph:
+  logs:
+    column: 8445
+    snapshot:
+      udp:
+        - 106.108.245.70
+        - b76a23b2997cf1fa2fac17d91b042caa
+        - 6035
+        - 876
+      tenant:
+        - 441
+        - 67.32.242.159
+        - null
+      snapshot: kerberos
+      scope:
+        - 778da18b7eecaab4
+        - cedaa10b601fc72a7610297d6074aea9
+        - replica-vxlan
+        - 9c6297b8
+      api: aa0d69de
+    release: 3293
+    gateway: 102.113.92.37
+    crypto:
+      middleware: lib-heap
+      helpers: service
+      worker: null
+      staging: cors
+      grafana: 93.156.182.13
+      role: legacy
+    heap:
+      api: true
+      rest:
+        - false
+      lambda: 3.244.49.25
+  rollback:
+    utils: null
+staging: config-oauth
+index: true

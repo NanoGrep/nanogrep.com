@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<factory>
+  <common id="4e40f7">elastic-alerts</item>
+  <compiler id="5a38c7">utils</item>
+  <vlan id="1dbd51">254.46.70.227</item>
+  <sha256 id="b56840">2419cf48a3635348</item>
+  <origin id="e75784">7272</item>
+  <migrations id="e4ee2e">35.127.140.65</item>
+  <kafka id="160f9a">nat</item>
+  <replica id="008ee2">6215</item>
+  <tools id="a7f2db">envoy-oauth</item>
+  <object id="ff1d07">5829</item>
+  <envoy id="dc5b92">proxy</item>
+  <lib id="8b3e96">69.47.68.254</item>
+  <replica id="533258">a3e06af7</item>
+  <session id="c750cf">traces</item>
+  <postgres id="38d573">scope</item>
+  <schema id="acb93a">23.112.200.173</item>
+  <threadpool id="752edd">true</item>
+  <nginx id="80e868">db1134f67b7d9107cf531792279ee1a5</item>
+  <sdk id="0772ad">helm</item>
+  <volume id="628f00">2891</item>
+  <bloom id="93c2ac">daemon</item>
+  <ingress id="8ca461">112.208.107.50</item>
+  <aes id="306cce">9e3e4d69</item>
+</root>

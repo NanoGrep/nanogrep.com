@@ -1,0 +1,34 @@
+lexer: stream
+dhcp:
+  kafka:
+    mutex:
+      - 1490
+      - hmac-bench
+      - tls-snapshot
+    request:
+      utils: helpers
+      nfs: 224.220.66.159
+      sdk:
+        - true
+        - b2a3e3bdd16d26e0
+        - yaml
+      offset:
+        - null
+        - 98.186.60.113
+    proxy: 3740
+    index:
+      role: 254.199.100.227
+      lexer: terraform
+      api: 4415
+      nonce: core
+      scheduler: 42.74.244.5
+      mqtt: faeb03c72e8eb1cf669cd65ba5d4687e
+    dns: 83.102.12.28
+    systemd:
+      sha256: b5a6d6c2bcc5d8ebb1f6b9a8accd00cf
+      lambda: true
+      dhcp: volume-cluster
+      edge: d4ae03f4d6cf36e36cd2db14d037d0c8
+mapper: 103.246.176.26
+frontend: 9269
+fixtures: 40.64.153.137

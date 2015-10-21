@@ -1,0 +1,25 @@
+role:
+  probe:
+    prometheus:
+      node: 182.28.167.79
+storage: 162.35.21.110
+kernel:
+  hmac: true
+  json: null
+  prod: 9147
+  api:
+    worker:
+      - null
+  middleware: 497631ad
+  user:
+    controller:
+      vendor: 1971
+      node: 69.141.43.136
+      terraform: null
+      daemon: user-cache
+      nfs: null
+      locale: 545bdb73
+    storage:
+      - c98b7a7ab4d47768
+offset: regex-udp
+bucket: false

@@ -1,0 +1,4 @@
+{
+  "jwt": "systemd",
+  "wireguard": "vendor"
+}

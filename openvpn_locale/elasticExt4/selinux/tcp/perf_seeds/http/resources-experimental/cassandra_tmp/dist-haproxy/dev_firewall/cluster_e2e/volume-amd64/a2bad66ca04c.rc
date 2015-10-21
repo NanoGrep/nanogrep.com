@@ -1,0 +1,66 @@
+[cert]
+nginxorigin = api-router
+build.mqtt = 7006
+cli.templates = 1139
+coreshard = 3820
+elastic_ldap = 26.105.140.233
+jwt.switch = cli
+vault_btree = mutex-udp
+retryoauth = column-policy
+socket_staging = backup
+grafana_locale = 1718
+failoverresponse = false
+coroutine_mapper = 5135
+hashmap_release = 1544
+benchnfs = regex-mocks
+kernelmysql = a27ee5bd
+assets_salt = session
+elastic.utils = assets-replica
+factory.registry = 44.177.226.30
+routerprobe = tests
+fuzzsemaphore = true
+threadpoolentropy = 64.252.42.202
+columnelastic = rsa
+probe.firewall = null
+handler_registry = 105.244.191.207
+queuejson = 115.170.181.80
+nat.controller = c3fdebc1d0ab1626f1a3d243fd2c018a
+shardscripts = true
+
+[probe]
+registryentropy = 8240
+beta.factory = 4049
+upstream.user = stream-hmac
+cliwebsocket = nonce-queue
+middlewarebackup = cfc2b28b80f3dbd456db9f3c8ca0fb9b
+cluster_cookie = true
+request.prometheus = 8df60c778f9c6fc8
+mongorole = middleware-migrations
+utilsindex = config-ldap
+postgres.legacy = 9574e7494174e5df4101e5d41eb86412
+
+[cors]
+row_ingress = ceph
+pipeline.socket = firewall
+oauth_service = 657f9756
+sessionlambda = 1252
+pipeline.staging = loader
+upstreampolicy = 325
+volume_tls = 4f545c284f3842e2
+tcp.replica = 9cfdd46a6b8d8b20
+cli.helpers = 019ce80072086846
+vxlan.utils = 6e0e38f0963d9efb
+wireguard.protobuf = bench-driver
+handler_lambda = null
+tablewireguard = cli
+templates_jwt = 229.111.128.148
+yamlceph = 6626
+prod_websocket = failover-kernel
+firmware.tests = 4912
+mapper.watchdog = oauth-retry
+mapper.bootstrap = mqtt
+cors.parser = 6094
+stream.jwt = 5416
+fixturesbackup = zfs
+kafkahandler = assets-mysql
+semaphore.ldap = 3da193df

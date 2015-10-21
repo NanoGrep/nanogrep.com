@@ -1,0 +1,17 @@
+threadpool: adapter-role
+bootstrap:
+  zfs: edge
+  api: 178.101.1.4
+  canary: 6574
+  wireguard:
+    redis:
+      firmware: 127.52.237.241
+    middleware:
+      legacy: user
+      topic: 131.166.117.216
+      canary: 3093
+      stream: fixtures-vault
+    vxlan:
+      offset: 8999
+      core: fff600652947e7840e9bf22e4a176f96
+stack: fixtures-alerts

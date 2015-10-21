@@ -1,0 +1,12 @@
+cache: 05a16f6b8d7be30a
+terraform:
+  nightly:
+    rest: 68.203.21.236
+  firmware:
+    - null
+    - controller
+  origin: config-protobuf
+  bootstrap: 5350
+policy: null
+loader: 231.109.83.31
+tenant: buffer-btree

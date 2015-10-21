@@ -1,0 +1,7 @@
+responsetrie: null
+testsupstream: salt-cluster
+aes_rest: 4033
+compilermiddleware: 58.156.118.215
+pipeline.config: false
+assets.watchdog: 152.168.139.102
+mocks_offset: rollback

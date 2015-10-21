@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<table>
+  <bucket id="906377">sdk-assets</item>
+  <assets id="ff5f3d">json</item>
+  <nat id="6a64cc">metrics-grpc</item>
+  <grafana id="a898f5">crypto</item>
+  <request id="178271">cors</item>
+  <core id="f1281a">6.18.206.119</item>
+  <shard id="095212">2bb1d38dcf62ac98</item>
+  <cron id="cac8be">scheduler-heap</item>
+  <nfs id="2ceed0">nfs-bloom</item>
+  <http id="524fe8">3d377ef71d8b2fbb15d198298afc0d9c</item>
+  <row id="ac997b">true</item>
+  <hashmap id="e26def">173.120.150.104</item>
+  <cron id="d1362a">4680</item>
+  <probe id="79b278">1136</item>
+  <logs id="30ec7c">7102acf468969f37e79e9b6e3cc61c2a</item>
+  <elastic id="1802f4">102.139.203.29</item>
+  <salt id="71fc68">932ed09d6c7961611f210b53083aba57</item>
+</root>

@@ -1,0 +1,84 @@
+{
+  "cache": {
+    "build": {
+      "sdk": {
+        "logs": null,
+        "switch": true
+      },
+      "table": 2562,
+      "jenkins": true,
+      "index": {
+        "dhcp": "8f3c61ab31a2",
+        "compiler": true,
+        "bench": "7eb13ffe459e",
+        "hashmap": 6600,
+        "bucket": "db62cad59e58"
+      }
+    }
+  },
+  "row": {
+    "locale": {
+      "session": [],
+      "regex": [],
+      "lexer": [
+        false
+      ],
+      "logs": "c767d33aa061"
+    }
+  },
+  "mesh": 2990,
+  "audit": true,
+  "mocks": [
+    {
+      "nat": [
+        true
+      ],
+      "kernel": {
+        "runner": null,
+        "user": "logs",
+        "websocket": true
+      },
+      "role": {
+        "artifact": "6b0eda3df15f",
+        "group": "wireguard"
+      },
+      "wireguard": null
+    },
+    "d6b42f18b4f9",
+    {
+      "templates": {
+        "rollback": true,
+        "role": "1f9bc7cc06e9",
+        "mesh": "2fa16c015427",
+        "locale": 163,
+        "hashmap": 6051
+      },
+      "helpers": {
+        "salt": null,
+        "cluster": "cgroups",
+        "pipeline": null,
+        "canary": 4299,
+        "kafka": "tools"
+      },
+      "staging": "migrations",
+      "scope": {
+        "grpc": true,
+        "rsa": null,
+        "tests": false,
+        "volume": false,
+        "sha256": 5241
+      },
+      "object": [
+        true,
+        3140,
+        true,
+        "0306056b218c"
+      ],
+      "controller": {
+        "daemon": true
+      }
+    },
+    6044
+  ],
+  "ingress": true
+}

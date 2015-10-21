@@ -1,0 +1,15 @@
+[
+    {
+        "adapter": [
+            9119,
+            {
+                "rsa": false,
+                "templates": null,
+                "batch": "4524577ba224",
+                "common": false,
+                "hotfix": false,
+                "probe": true
+            }
+        ]
+    }
+]

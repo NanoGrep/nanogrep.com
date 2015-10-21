@@ -1,0 +1,28 @@
+[
+    [
+        {
+            "offset": [
+                false,
+                "24424e59d4ce"
+            ],
+            "bucket": "raid",
+            "queue": null,
+            "payload": "da19ed4d9d52"
+        },
+        [
+            [
+                6087,
+                true,
+                "e625a0c918d8",
+                false
+            ],
+            null,
+            3680
+        ],
+        "lib"
+    ],
+    "5d8ee1ff9a33",
+    {
+        "salt": "32f571b64ee9"
+    }
+]

@@ -1,0 +1,9 @@
+redis: 7680
+hashmap: assets
+shard:
+  handler:
+    nfs: lib-topic
+  kafka: origin
+  tcp: replica-metrics
+frontend: 4762
+tcp: 153a8d6c

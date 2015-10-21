@@ -1,0 +1,33 @@
+{
+  "socket": "191fa65230ba",
+  "dns": {
+    "limit": [
+      {
+        "backup": "cluster",
+        "frontend": 8963,
+        "router": "retry",
+        "compiler": true,
+        "limit": "8082e52675ed",
+        "mutex": "8e8eacdda667"
+      },
+      null
+    ],
+    "proxy": {
+      "core": [
+        "token"
+      ],
+      "regex": {
+        "middleware": 9150,
+        "bootstrap": "nonce",
+        "sdk": 90,
+        "oauth": 1315,
+        "snapshot": "redis"
+      },
+      "offset": 8672,
+      "metrics": [
+        null
+      ],
+      "scheduler": "357ca20c7ed2"
+    }
+  }
+}

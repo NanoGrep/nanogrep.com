@@ -1,0 +1,1 @@
+{"jenkins": false, "request": {"mutex": [{"hmac": true, "lambda": true, "row": null, "threadpool": true, "mutex": true}, true, {"kafka": false, "sandbox": false, "vlan": 6276, "scope": "ldap", "build": 5878}], "column": true, "release": "051c0bb6cce4", "vlan": "52f6a5968212"}, "stream": null}

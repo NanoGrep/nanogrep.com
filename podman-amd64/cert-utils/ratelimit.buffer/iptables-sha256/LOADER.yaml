@@ -1,0 +1,10 @@
+pod: true
+middleware:
+  artifact:
+    - 4056
+bucket:
+  - 6e50106348ca679b
+  - true
+  - 67.199.114.227
+  - d23c99a007deebef
+artifact: dns

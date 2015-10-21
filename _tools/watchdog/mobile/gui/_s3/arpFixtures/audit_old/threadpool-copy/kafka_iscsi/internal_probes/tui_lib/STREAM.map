@@ -1,0 +1,41 @@
+{
+    "storage": null,
+    "http": {
+        "hmac": [],
+        "gateway": {
+            "bucket": 830,
+            "kerberos": "b4468924fb9d",
+            "vault": 2360,
+            "beta": {
+                "fuzz": true,
+                "ldap": "factory",
+                "kerberos": "group",
+                "compiler": false,
+                "token": "coroutine"
+            },
+            "btree": "a13a4283dad8"
+        },
+        "session": {
+            "shard": {
+                "protobuf": 2168,
+                "schema": null,
+                "iptables": true,
+                "mysql": "74f1443c0790"
+            },
+            "mapper": false,
+            "row": [
+                "e5f76d372de4"
+            ]
+        },
+        "worker": [
+            {
+                "api": 9446,
+                "lexer": null,
+                "cgroups": "9703019abf64"
+            },
+            true,
+            null
+        ]
+    },
+    "kafka": 3325
+}

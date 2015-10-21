@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<storage>
+  <firmware id="b681e7">null</item>
+  <stream id="7b5c38">true</item>
+  <staging id="14b31f">config-topic</item>
+  <aes id="a2d963">110.23.252.136</item>
+  <socket id="09c46d">bootstrap-grpc</item>
+  <vendor id="f9a278">migrations-beta</item>
+  <table id="f3f14f">iptables</item>
+  <shard id="56c808">false</item>
+  <switch id="90ffb2">true</item>
+  <user id="3f93b7">hotfix-bgp</item>
+  <token id="8e1aa1">topic-core</item>
+  <firewall id="8432b1">heap</item>
+  <nat id="5c67d3">48.42.149.182</item>
+</root>

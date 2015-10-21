@@ -1,0 +1,50 @@
+api:
+  udp: false
+  queue:
+    - cookie
+    - postgres-nightly
+  locale:
+    btree: topic-lexer
+    wireguard:
+      proxy: 238.252.130.142
+    ldap: 103.231.56.100
+    topic:
+      - mutex
+      - f2df99fa
+      - limit
+      - a6dfb1d7b4e2b404
+    api:
+      artifact: null
+      threadpool: 159.238.84.14
+  lib: yaml
+mqtt: 67.97.32.202
+systemd: iptables-vault
+core:
+  heap:
+    - 134.33.158.221
+    - scheduler-grafana
+  mesh: 5445
+  storage: 1f8bff39
+  core: json
+  mesh:
+    controller: 252.73.207.216
+    queue: 9894fe2243663ee0
+    mongo:
+      ansible: 148.46.23.194
+      udp:
+        - json
+        - null
+        - 04e1fa3377992b57
+      jenkins: b358b918
+      utils:
+        - false
+        - sdk-logs
+        - mutex
+      worker: null
+      trie: 3367
+    bootstrap:
+      - 59.204.90.36
+      - proxy
+      - 439286840deecca1
+    role: table
+    protobuf: 175.143.223.213

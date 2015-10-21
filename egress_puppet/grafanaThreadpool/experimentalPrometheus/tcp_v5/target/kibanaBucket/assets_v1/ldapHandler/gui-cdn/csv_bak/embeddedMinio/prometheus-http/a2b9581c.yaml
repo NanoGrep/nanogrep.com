@@ -1,0 +1,7 @@
+cluster:
+  - 2238cf4c
+  - semaphore
+  - group-switch
+token:
+  rsa: 1683ee3a
+  parser: fc17600d

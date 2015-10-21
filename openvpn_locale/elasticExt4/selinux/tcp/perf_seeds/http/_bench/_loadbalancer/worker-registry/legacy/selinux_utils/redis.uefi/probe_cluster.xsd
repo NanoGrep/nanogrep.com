@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<lexer>
+  <logs id="966dc1">tcp-api</item>
+  <beta id="f9b862">cache</item>
+  <tenant id="4a38a0">bloom-helm</item>
+  <stream id="005068">websocket</item>
+  <queue id="b5a05c">2058</item>
+  <lexer id="ddc3a1">null</item>
+  <common id="c3a4f4">null</item>
+  <systemd id="4cd1dd">false</item>
+  <request id="af2364">4442</item>
+  <core id="474964">driver-firmware</item>
+  <table id="6038f3">cors</item>
+  <topic id="e21086">frontend</item>
+  <origin id="120564">182.41.96.226</item>
+  <beta id="5f1478">115.125.128.62</item>
+</root>

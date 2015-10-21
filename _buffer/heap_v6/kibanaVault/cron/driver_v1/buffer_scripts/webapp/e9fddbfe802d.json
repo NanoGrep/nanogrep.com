@@ -1,0 +1,34 @@
+[
+  "nightly",
+  {
+    "oauth": {
+      "tenant": false
+    },
+    "scheduler": "ceph",
+    "upstream": null,
+    "migrations": [
+      {
+        "lib": false,
+        "vendor": "lexer",
+        "replica": true,
+        "threadpool": true
+      },
+      [
+        false,
+        false
+      ]
+    ],
+    "buffer": [
+      {
+        "role": 8656,
+        "sha256": null
+      },
+      true,
+      {
+        "dns": false,
+        "replica": "cb3001e3c757",
+        "entropy": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+{"fixtures": [], "sha256": [{"entropy": null, "mqtt": null, "kafka": true}, {"mqtt": true, "dhcp": {"mysql": true, "traces": false}, "tls": null, "ceph": {"threadpool": false, "entropy": null, "artifact": "dc09f67bda67", "mapper": null}}, [6769, "prometheus", [null, null], "595454e1ac01"], {"sha256": "b81a7c7a9332"}], "cache": "9ef1e63d2c26"}

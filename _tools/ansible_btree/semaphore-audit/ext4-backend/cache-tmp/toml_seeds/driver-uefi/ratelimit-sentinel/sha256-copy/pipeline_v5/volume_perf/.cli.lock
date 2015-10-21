@@ -1,0 +1,76 @@
+{
+    "hmac": [
+        [
+            {
+                "cors": 3943,
+                "semaphore": false,
+                "loader": "c6eb5d21f7f8",
+                "parser": true
+            },
+            [
+                false,
+                false,
+                "340f3658c9c8"
+            ]
+        ],
+        "kerberos",
+        4750
+    ],
+    "ceph": null,
+    "locale": false,
+    "grafana": {
+        "mapper": false,
+        "upstream": "b5d4e4038336",
+        "semaphore": [
+            3266,
+            {
+                "entropy": 6138,
+                "envoy": null,
+                "cgroups": true,
+                "bloom": 3290
+            },
+            [
+                null,
+                false
+            ],
+            {
+                "prod": false,
+                "parser": "helm",
+                "controller": "d8e6a139a99e",
+                "pod": null,
+                "watchdog": true,
+                "gateway": false
+            }
+        ],
+        "scripts": {
+            "tls": 2766
+        },
+        "prod": {
+            "firewall": {
+                "mongo": 782,
+                "cache": null,
+                "kerberos": "7370fa4339f7"
+            }
+        },
+        "token": {
+            "locale": {
+                "daemon": 5246,
+                "common": "9f413dbb5b15",
+                "tls": null,
+                "adapter": true,
+                "cluster": null,
+                "stream": "factory"
+            },
+            "buffer": false,
+            "dist": "9e972f6508bc"
+        }
+    },
+    "bloom": [
+        "tests",
+        {
+            "rollback": {
+                "logs": true
+            }
+        }
+    ]
+}

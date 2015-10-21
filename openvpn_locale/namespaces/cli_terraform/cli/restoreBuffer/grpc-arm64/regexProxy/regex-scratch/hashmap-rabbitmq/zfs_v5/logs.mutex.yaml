@@ -1,0 +1,5 @@
+firewall: false
+mutex: 43.246.171.218
+worker: elastic
+coroutine:
+  threadpool: oauth

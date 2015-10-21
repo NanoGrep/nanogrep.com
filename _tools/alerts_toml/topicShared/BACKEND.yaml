@@ -1,0 +1,109 @@
+mesh:
+  middleware:
+    lexer:
+      core: 122.51.77.42
+      common: 81614919e9bc17d9165cc12c09dd3363
+      scripts: 99.105.78.227
+      yaml: token-ceph
+    rollback:
+      bucket:
+        - 7180
+        - cursor-probe
+        - null
+    policy:
+      - audit-canary
+      - 2775
+      - 128.244.24.81
+      - 1840
+    stream: user
+    api:
+      stack: 1496
+      firmware: true
+      json: threadpool-fuzz
+    probe: ea478b0a
+  quic:
+    - 96.198.41.51
+    - switch
+  failover: null
+  factory: user-rest
+stream:
+  nat:
+    scheduler:
+      - canary-sha256
+      - 223.248.0.180
+      - false
+      - 89.146.145.157
+    build: factory
+  probe:
+    grpc:
+      vault: false
+    edge: a530050ec38f86e52f6e0dabdddcc326
+    mocks: true
+    tools: edge
+    role: policy-node
+  handler:
+    - 218ff199
+  wireguard:
+    - true
+    - 6474
+nat:
+  hashmap: 237.128.215.212
+  user: vlan
+  row: 41.174.62.30
+  logs:
+    token: 241.131.156.108
+    vxlan: limit-driver
+    role: cdea6a18
+    policy:
+      - 99.189.181.81
+      - 7300
+    grpc: da00c09c4b569412
+  replica:
+    beta: fuzz
+  snapshot: 23cd02075ce3ae37c7fc9770e1d3f1cd
+build:
+  fuzz:
+    - 1862
+    - true
+    - 224.61.225.59
+  ceph:
+    bloom: watchdog-hmac
+    dhcp: 148bf0195f3ed4725c9104b74c3f1507
+    upstream:
+      cursor: 4332
+      mirror: release
+    subnet: 8645
+    vxlan: 5e816a1c
+    user:
+      role:
+        - rollback-nginx
+        - true
+      bloom: cron
+      runner: bucket
+  offset: true
+  mysql: 2984
+  canary: 7800
+  mocks:
+    - 31a2bda457568bf841bfe234c0815ec9
+    - 8463
+    - 9ec1f34f3344d13235cee99d4d582993
+    - edge-legacy
+switch:
+  bgp: schema
+  node:
+    common:
+      env:
+        - middleware-helm
+        - 8638
+        - nginx-firewall
+      coroutine: snapshot
+      templates: heap
+    trie: aes
+    postgres:
+      upstream: request-lib
+    group:
+      - null
+      - 24d97eee81794bdd1aaa820cbe57e05d
+      - backend
+      - 251.112.26.216
+    tcp: 132.73.53.174

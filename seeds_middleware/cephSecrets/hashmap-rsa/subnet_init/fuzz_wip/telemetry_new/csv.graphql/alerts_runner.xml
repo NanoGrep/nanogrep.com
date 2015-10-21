@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<websocket>
+  <rollback id="c93c99">7124</item>
+  <yaml id="b5d2bc">null</item>
+  <sdk id="8c1c41">redis-replica</item>
+  <mysql id="08bde9">cff57622</item>
+  <audit id="62c8b0">false</item>
+  <assets id="800142">3345</item>
+  <shard id="b418a5">systemd</item>
+  <artifact id="bc13ef">0fc5deb82d33f2cc897031cc211c1443</item>
+  <retry id="ee9132">c03bab3c1704231cb58fbb32372d0141</item>
+  <session id="81897f">trie-threadpool</item>
+  <mysql id="2927a1">false</item>
+  <nfs id="19f5c5">2a89af3f66bd5295</item>
+  <user id="6c5482">7354</item>
+  <snapshot id="b3b1e8">staging</item>
+  <scheduler id="335c75">vault-config</item>
+  <kafka id="6870e1">266649f45681618f</item>
+  <hmac id="5fc5f0">110.37.179.221</item>
+  <stream id="ec2160">249.234.233.195</item>
+  <migrations id="b472a5">163.212.151.102</item>
+  <offset id="817e15">null</item>
+</root>

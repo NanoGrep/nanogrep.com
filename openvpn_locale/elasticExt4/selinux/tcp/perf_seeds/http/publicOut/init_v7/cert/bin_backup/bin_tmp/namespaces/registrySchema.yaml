@@ -1,0 +1,8 @@
+buffer:
+  mysql: artifact-kafka
+  ceph: ingress-request
+  vendor:
+    schema:
+      staging: 4d39eb9edfe904c179f5642546b87ee6
+    schema: 52a24c9e
+legacy: 102.17.183.64

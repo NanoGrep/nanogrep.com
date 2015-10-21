@@ -1,0 +1,34 @@
+{
+    "mqtt": [],
+    "sandbox": {
+        "cgroups": [
+            "index",
+            7908,
+            false
+        ],
+        "group": 9701,
+        "prod": {
+            "helm": [
+                false
+            ],
+            "daemon": [
+                true,
+                4001,
+                "shard",
+                true
+            ]
+        },
+        "grpc": 6589,
+        "pipeline": {
+            "queue": {
+                "cookie": true,
+                "upstream": false,
+                "json": null
+            },
+            "systemd": true,
+            "beta": null
+        }
+    },
+    "daemon": 132,
+    "heap": false
+}

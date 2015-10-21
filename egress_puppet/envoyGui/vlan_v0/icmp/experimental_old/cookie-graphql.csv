@@ -1,0 +1,14 @@
+vendor,daemon,canary,bucket,hotfix,systemd
+true,561e0c11948ed710,true,29.230.66.95,daemon,2169
+buffer-websocket,config-bgp,iptables,null,142.184.49.220,4105
+140d1e8efcd9e03a71c17aa475178ca6,config,true,200.128.50.16,db06bbc1a832878928fbe38e835cf132,false
+9a5e6123bacbc2d44808c871e4e5e21e,100.206.254.12,81957e33,tls-bgp,policy-snapshot,null
+37.237.3.89,rest-stack,pod-firmware,build,false,null
+service-jwt,kerberos-upstream,false,regex-controller,4cf08c893a84441a325d1f8f6e3ae8c2,mqtt
+6c349195430c5133665bb2d5dc52d170,nonce,false,2605,handler-udp,3bce1dfb
+router,wireguard,145999cabdafec69eaf80c19e00f714c,5a71523f56704b1a47c6311590c7dad2,nat,edge
+mutex-cert,true,43.165.28.212,393,bloom-hotfix,9273
+jwt-artifact,3011,true,registry-limit,6684,ab1f6165cdce2ac9
+9054,1f6c59186b9cab1c,146.254.196.225,150.105.141.124,233.182.115.74,1817
+137.36.138.48,tls-mapper,daemon-utils,1a6de4e1,yaml,systemd
+null,16.127.231.39,319,4689,eded71d0,true

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<socket>
+  <vxlan id="e82b5b">origin-volume</item>
+  <vxlan id="09b579">true</item>
+  <cursor id="f515d2">coroutine</item>
+  <nonce id="e9f03d">false</item>
+</root>

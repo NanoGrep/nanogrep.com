@@ -1,0 +1,21 @@
+{
+  "heap": [
+    [],
+    {
+      "traces": {
+        "zfs": true,
+        "quic": "mqtt",
+        "hotfix": 4676,
+        "wireguard": null,
+        "ingress": true
+      }
+    },
+    {
+      "payload": false,
+      "postgres": null
+    },
+    "hmac"
+  ],
+  "fixtures": "4c84a4a36016",
+  "frontend": "mysql"
+}

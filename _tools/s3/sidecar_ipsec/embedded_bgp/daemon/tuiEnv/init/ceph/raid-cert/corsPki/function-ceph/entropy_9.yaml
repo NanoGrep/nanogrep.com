@@ -1,0 +1,3 @@
+node: 6849
+vxlan: mesh
+daemon: true

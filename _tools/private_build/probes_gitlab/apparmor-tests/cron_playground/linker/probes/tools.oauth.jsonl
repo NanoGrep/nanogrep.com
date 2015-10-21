@@ -1,0 +1,69 @@
+{
+  "semaphore": [
+    7665
+  ],
+  "metrics": {
+    "backend": {
+      "ansible": false,
+      "pod": true,
+      "scope": {
+        "pod": false
+      },
+      "nginx": [
+        4956,
+        null,
+        false
+      ],
+      "helpers": "scripts",
+      "terraform": {
+        "build": false,
+        "volume": null,
+        "artifact": 7317
+      }
+    },
+    "mapper": [
+      false,
+      {
+        "rollback": 357
+      },
+      {
+        "node": 5491,
+        "aes": "hotfix"
+      },
+      5220
+    ],
+    "group": [
+      {
+        "cli": "691587caedb7",
+        "bgp": 9253,
+        "batch": "socket"
+      }
+    ],
+    "factory": {
+      "probe": {
+        "helpers": null,
+        "vlan": false,
+        "role": null
+      },
+      "prometheus": 7328,
+      "artifact": {
+        "tls": true,
+        "scope": true,
+        "parser": false,
+        "hotfix": "da446916f534"
+      },
+      "logs": null,
+      "pod": [
+        null,
+        false,
+        true
+      ],
+      "trie": [
+        "984535b7c15d",
+        null,
+        3093
+      ]
+    }
+  },
+  "redis": []
+}

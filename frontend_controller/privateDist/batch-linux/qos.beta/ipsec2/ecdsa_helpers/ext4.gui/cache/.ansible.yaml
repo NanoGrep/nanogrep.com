@@ -1,0 +1,4 @@
+registry: tools-kafka
+bucket: 42.149.17.181
+bootstrap: column
+config: 6248a2dd058a24a35eb08a2e2112b33b

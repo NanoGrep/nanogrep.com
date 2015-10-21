@@ -1,0 +1,12 @@
+raid:
+  btree: sandbox
+  dist: 5951
+  heap: vlan
+  canary: semaphore
+  offset: 71.90.8.29
+object: adapter
+edge: true
+artifact:
+  mesh: 175.79.163.37
+  patch: 28b1dc48
+btree: 08abc4e1b3b9d01a26311f9228fe6b7d

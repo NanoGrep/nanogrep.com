@@ -1,0 +1,93 @@
+rest:
+  hashmap:
+    semaphore: semaphore-elastic
+    mocks:
+      table: trie-sdk
+      build: e0c9f05c
+      stream: null
+      nightly: cursor-zfs
+    canary:
+      switch: alerts
+      common: 211.161.29.225
+      mapper: assets-terraform
+    group: 27.87.199.162
+  bucket: nightly
+  stream: 3786
+  vault: 618
+  replica: false
+  offset: 18.219.148.187
+pod:
+  zfs:
+    daemon:
+      snapshot: 95.66.136.53
+    upstream: 6.36.224.13
+    shard: false
+    cookie: 78.238.76.152
+  api: helm
+  assets: 02b414908110a8e7
+  logs: 4350
+release:
+  iptables:
+    rollback:
+      - tenant-stream
+      - 210.9.163.21
+      - tcp-parser
+    subnet: false
+    parser:
+      vault: 217.61.212.163
+      api: 99.65.143.145
+    nfs: prometheus
+    kafka: 8074
+  socket: replica
+  ansible:
+    origin:
+      sdk: 9ee02d09
+      lib: false
+      cluster: 27.48.208.4
+    aes:
+      column: false
+      dist: 62f0b59e9dba0067
+    mongo: false
+    prod: trie-hotfix
+    offset: protobuf-hashmap
+    wireguard: cli-traces
+  bgp: 4619
+  subnet: audit-socket
+core:
+  utils: 6864
+  vendor:
+    ldap: 5982
+    prod: 84.49.199.10
+  sdk:
+    shard: 59db4527
+    hashmap: ldap-trie
+    cron: grafana-retry
+    firewall: true
+  elastic:
+    vlan: watchdog-redis
+    origin: 6250
+    bloom:
+      runner: 778
+      replica: 140.135.149.131
+    cookie:
+      - 59.190.74.147
+  watchdog:
+    cron:
+      - helm-kafka
+    limit: 70.38.221.192
+    registry: mutex-cors
+    metrics: proxy
+    heap: true
+  jenkins: c491d11e
+object:
+  prod: true
+  sdk:
+    controller:
+      tcp: e1508a50
+      redis: 5838
+      volume: 207.31.127.44
+  beta: hmac
+  adapter: true
+  service:
+    iptables: 2532
+    hotfix: 9831

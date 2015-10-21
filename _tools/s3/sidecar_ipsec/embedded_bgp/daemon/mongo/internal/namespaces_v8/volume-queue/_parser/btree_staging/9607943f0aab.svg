@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<mysql>
+  <logs id="cd3ac6">templates</item>
+  <node id="3dbd03">null</item>
+  <cron id="e9f61a">true</item>
+  <staging id="3bbaec">tcp</item>
+  <salt id="92d30c">middleware-rest</item>
+  <sdk id="510660">220.25.239.183</item>
+  <legacy id="52ac70">7236</item>
+  <ansible id="7a1308">232.48.27.11</item>
+  <driver id="44e971">f15926156358b906</item>
+  <mutex id="08d42c">b475432ad2ae0f9d</item>
+  <ansible id="ed6b7e">07836235</item>
+  <ingress id="da816a">c98f02c4</item>
+  <prod id="d9a38f">false</item>
+  <node id="71f75e">true</item>
+  <metrics id="530269">row-postgres</item>
+  <loader id="f5f871">null</item>
+  <artifact id="24144d">199.70.207.214</item>
+  <proxy id="1c870d">949</item>
+  <compiler id="3ad0ca">2183</item>
+  <backend id="3c096e">168.204.47.120</item>
+  <threadpool id="b612a0">stream-grafana</item>
+  <rollback id="7341fb">mapper</item>
+</root>

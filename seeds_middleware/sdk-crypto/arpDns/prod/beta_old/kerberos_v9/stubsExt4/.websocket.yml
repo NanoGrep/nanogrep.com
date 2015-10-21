@@ -1,0 +1,9 @@
+mutex: true
+vxlan:
+  cgroups: assets
+  elastic: 196.92.156.152
+  worker: btree-sandbox
+  watchdog:
+    - 8640
+    - 58f301a39c0760bb4399d4a271f5a02e
+    - 67.113.222.69

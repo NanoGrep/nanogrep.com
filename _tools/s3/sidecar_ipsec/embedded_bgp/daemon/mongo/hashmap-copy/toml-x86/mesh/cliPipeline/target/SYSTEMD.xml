@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ldap>
+  <subnet id="bdb97b">0fbee08edb5d36fdd5d44c9b180b3b81</item>
+  <release id="840b12">5345</item>
+  <snapshot id="586e4a">130.221.18.33</item>
+  <rsa id="90b76a">13fde92a</item>
+  <driver id="df1509">false</item>
+</root>

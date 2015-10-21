@@ -1,0 +1,62 @@
+{
+  "assets": {
+    "proxy": "f3a33d59e405",
+    "group": {
+      "sandbox": {
+        "heap": true,
+        "node": "cbef8ff52c23",
+        "nfs": 4302
+      },
+      "node": [
+        "node"
+      ],
+      "artifact": {
+        "grpc": true
+      },
+      "proxy": {
+        "threadpool": null,
+        "ldap": "930a48d03512",
+        "mocks": false,
+        "firmware": null
+      },
+      "dist": "a7ca3a5733c5"
+    },
+    "dns": {
+      "vault": [
+        "799542518a8b",
+        false
+      ],
+      "cookie": {
+        "kerberos": "subnet",
+        "ingress": null,
+        "grafana": "group"
+      },
+      "compiler": [],
+      "kerberos": {
+        "response": false,
+        "firewall": 7425,
+        "request": "beta"
+      }
+    },
+    "systemd": "kafka",
+    "salt": [
+      {
+        "env": 3318,
+        "policy": true,
+        "mocks": null,
+        "cert": null
+      },
+      {
+        "loader": null,
+        "aes": "7652502a7e98",
+        "scripts": null,
+        "volume": true,
+        "payload": "2101866a6d52",
+        "token": true
+      }
+    ]
+  },
+  "json": true,
+  "locale": true,
+  "config": "181aaeceb48f"
+}

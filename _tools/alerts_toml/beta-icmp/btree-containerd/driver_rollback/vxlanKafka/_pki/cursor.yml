@@ -1,0 +1,7 @@
+pipeline:
+  sdk: null
+table: parser-aes
+tcp: 17b6bc0aedbef331206608c1b1b25701
+quic:
+  bucket: nonce-parser
+  table: 26.95.44.149

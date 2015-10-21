@@ -1,0 +1,37 @@
+assets: aes-middleware
+prometheus: 0254c074
+scope: false
+btree:
+  json: 745fec9d
+  dhcp: switch-topic
+  stack: 634
+  hotfix:
+    nightly:
+      nat: 6d20013e93bb8684bddcc359c5b6f987
+      helpers: 244.92.182.20
+    lib: firewall-pipeline
+    logs: object-heap
+    artifact:
+      regex:
+        - 95b3ee38
+        - 809bb434
+        - session
+        - true
+      coroutine: salt-templates
+      runner: true
+sandbox: true
+nat:
+  pipeline: 4120
+  lexer: 1878
+  object:
+    queue:
+      udp: 349735da7640abbd
+      raid: 109.221.161.112
+      mesh: tcp-topic
+      dist: false
+      tcp: d81da1dc
+      json: 66db2361
+    service: null
+    bootstrap: b349e786
+    utils: http
+    hotfix: bootstrap

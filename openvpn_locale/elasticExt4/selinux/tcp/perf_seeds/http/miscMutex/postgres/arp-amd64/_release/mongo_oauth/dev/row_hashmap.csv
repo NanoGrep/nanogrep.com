@@ -1,0 +1,10 @@
+frontend,shard,cron,kafka,terraform,coroutine,firmware
+false,189.219.176.56,7160,9520,logs,64.64.13.5,regex-dns
+hmac-origin,5829,null,132.28.180.227,1779,3636,130.91.173.27
+3468,171.112.44.31,switch,nightly,gateway-jenkins,true,false
+hotfix-factory,448,fb625a4a64f4c5bdb7611d565ecc2cf8,helm-policy,request-threadpool,8cdcdf5c9006482225fcf0f7a93490a7,null
+a7fbe10e,heap-sandbox,null,237.249.123.135,10.148.109.109,46.168.209.65,true
+cluster-websocket,ca1e726a30c59243,service,158.175.169.178,bench,traces,1175
+regex-vault,null,locale,true,alerts-zfs,44bb574b,71.90.59.177
+null,5966db380b95feae26a89bb8ffbc00b7,grpc,199.168.218.83,null,column-storage,cache
+false,943,21.232.232.254,2ca01bf6,4ee0b087,c3d66a443aead1c2,4176

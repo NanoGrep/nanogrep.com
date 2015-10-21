@@ -1,0 +1,22 @@
+[
+  3506,
+  {
+    "nat": {
+      "mapper": true,
+      "column": 5809,
+      "helpers": true,
+      "terraform": {
+        "switch": "a747467dd711",
+        "row": "0fc2283e135a"
+      },
+      "patch": {
+        "vault": false,
+        "request": false,
+        "subnet": null,
+        "threadpool": null
+      }
+    },
+    "jwt": false
+  },
+  "32d2eafa7e9f"
+]

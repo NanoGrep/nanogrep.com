@@ -1,0 +1,13 @@
+bench: false
+mocks: 71.29.196.81
+ceph: 6879fb4191ddef65752a2f0ec9f3edee
+beta:
+  lambda: bucket
+  yaml: wireguard-subnet
+  cron: bench-canary
+  policy: 6676
+  watchdog:
+    - false
+    - sha256
+    - 36fbbc1d7f533d91
+    - 45c58721cfd8343a

@@ -1,0 +1,11 @@
+artifact: null
+alerts:
+  hashmap: 7f393904
+  runner:
+    - object
+  metrics: 1c47b5f29c7c09f6
+  helpers:
+    - json
+artifact:
+  - beta-user
+  - true

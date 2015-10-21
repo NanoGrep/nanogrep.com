@@ -1,0 +1,27 @@
+prometheus: 5128
+controller: e3f011f08662ff49432b2db6364637cd
+staging:
+  user: 346744ea5b65f07a
+  compiler: d76ab433
+  helpers: scheduler
+  tools:
+    - 3b410110bb83a3dd
+    - null
+    - 206.211.157.197
+    - 6007
+  vault:
+    tenant: false
+    helm:
+      alerts: 190100fd
+      nat: fac106178752a5bab0f97528f818cd50
+      bootstrap: sha256-prod
+      cert: 7784
+    postgres: b73d06b08902f263
+    grafana: 8727
+    lambda: cc90f1bf
+  hashmap:
+    - 130.177.14.11
+    - f4d7f1949f38ea4b
+postgres: 3786
+dist: nfs-tenant
+hotfix: yaml-frontend

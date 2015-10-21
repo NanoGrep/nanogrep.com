@@ -1,0 +1,31 @@
+yaml: heap
+hashmap:
+  legacy: null
+  sandbox:
+    tls:
+      - 191.218.131.166
+      - 8602
+    bgp:
+      lib: dns-json
+      wireguard: 7070
+      wireguard: ad1ed6dc875b4c9bbd53de87b623afbd
+    snapshot:
+      schema: c1926244
+    regex: true
+    prometheus:
+      hotfix: session-elastic
+    limit: rest-cli
+  mesh: release
+  nonce:
+    mesh: true
+    tests:
+      - helm-elastic
+      - null
+      - 5.219.61.84
+    bench:
+      - 65.119.76.220
+      - false
+      - 058ef45ee9ae6e0a
+      - 198.213.62.134
+    role: 6931
+    traces: request-legacy

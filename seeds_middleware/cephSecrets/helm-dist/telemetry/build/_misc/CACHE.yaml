@@ -1,0 +1,39 @@
+rollback:
+  lib: 29.211.149.101
+  fuzz:
+    sha256:
+      group: false
+      topic: ac0daca3
+      watchdog: nightly-release
+      coroutine: patch-trie
+    index:
+      tenant: driver-raid
+    lambda: 154
+    yaml: parser
+    raid:
+      policy:
+        - adapter-node
+      aes: 2919
+      grafana: hotfix-grafana
+      column: tests
+      group:
+        - vxlan
+        - response-vxlan
+        - 22b19d58
+        - false
+      lambda: 180.84.1.25
+  udp: 344
+  env: nfs-bloom
+  http:
+    - 253.99.217.69
+    - worker
+  mocks: true
+dhcp: utils
+heap:
+  audit: 138.75.153.225
+  staging:
+    core: volume-firmware
+    scheduler: 2842
+    grpc:
+      jwt: zfs-jenkins
+      http: true

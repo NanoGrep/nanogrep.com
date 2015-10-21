@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<scheduler>
+  <postgres id="473a99">graphql</item>
+  <sandbox id="632841">null</item>
+  <vxlan id="3f160c">ad8fdb3a679621d8c693794d5a54cae7</item>
+  <proxy id="3984de">1871</item>
+  <cookie id="db302e">5971</item>
+  <trie id="77508c">frontend</item>
+  <trie id="8a9549">2129</item>
+  <threadpool id="36947f">true</item>
+  <gateway id="2826f5">column-request</item>
+  <legacy id="4d406b">driver-lambda</item>
+  <hmac id="8a5e90">9161</item>
+  <bloom id="72ef9e">228.212.13.64</item>
+  <frontend id="b3874a">197.95.208.68</item>
+  <crypto id="38b041">5e9f4b20a7f459b6</item>
+  <entropy id="493e6a">true</item>
+  <snapshot id="c4f23f">ca48bc3a11c5620e48a25ffc519c6bc5</item>
+</root>

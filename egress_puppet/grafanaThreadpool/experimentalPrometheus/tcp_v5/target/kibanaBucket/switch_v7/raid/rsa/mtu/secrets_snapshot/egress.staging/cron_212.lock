@@ -1,0 +1,21 @@
+[
+  [
+    {
+      "sdk": {
+        "grpc": null
+      },
+      "watchdog": 2101,
+      "daemon": {
+        "row": "vxlan",
+        "redis": "worker",
+        "jwt": null,
+        "node": true,
+        "websocket": "b210f6284bdd"
+      },
+      "cluster": true
+    },
+    {
+      "beta": []
+    }
+  ]
+]

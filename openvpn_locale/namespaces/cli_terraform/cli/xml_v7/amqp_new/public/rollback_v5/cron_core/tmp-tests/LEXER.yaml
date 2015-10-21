@@ -1,0 +1,28 @@
+topic:
+  logs:
+    vlan:
+      release: 2217
+      cluster: 158.115.41.210
+      nginx:
+        - c80540f6
+    runner:
+      trie: 9912
+      proxy: jwt
+      envoy: 9919
+    backend:
+      metrics: 11dfa1a0
+      grpc:
+        - true
+        - 158.130.122.16
+      redis: true
+      systemd:
+        - 620114f7
+        - 8481
+        - 8701
+      dist: 6934
+    graphql:
+      nat: 227.124.95.151
+    oauth: 0848d17c2599bb16
+  grpc: 9a925c15
+  core: 50843aabea958a8f49d9668e89c1f3ca
+entropy: bloom-ansible

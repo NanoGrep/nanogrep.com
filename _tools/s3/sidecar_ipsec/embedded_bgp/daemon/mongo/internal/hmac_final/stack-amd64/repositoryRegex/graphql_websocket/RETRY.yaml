@@ -1,0 +1,9 @@
+watchdog: false
+aes: helpers-mongo
+traces: true
+config: postgres
+prod:
+  - payload-bucket
+  - cgroups
+  - true
+  - 6346

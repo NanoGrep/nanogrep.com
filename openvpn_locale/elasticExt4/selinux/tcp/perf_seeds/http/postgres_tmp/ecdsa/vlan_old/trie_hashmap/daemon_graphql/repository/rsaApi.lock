@@ -1,0 +1,12 @@
+{
+  "staging": {
+    "loader": null
+  },
+  "lexer": {
+    "api": {
+      "staging": "dns",
+      "dhcp": [],
+      "envoy": true
+    }
+  }
+}

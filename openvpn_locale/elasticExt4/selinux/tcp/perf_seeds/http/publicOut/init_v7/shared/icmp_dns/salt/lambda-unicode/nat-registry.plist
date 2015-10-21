@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<hashmap>
+  <hotfix id="5d3621">true</item>
+  <ansible id="38de8d">c6d78c2408aecd2ffce473f7bb35cfa9</item>
+  <object id="10e7c1">5946</item>
+  <bench id="533b66">203.64.168.244</item>
+  <tls id="395ba6">false</item>
+  <core id="82351c">payload</item>
+  <traces id="7b60ae">9511</item>
+  <limit id="31e283">176.70.71.91</item>
+  <proxy id="99bf24">scope-daemon</item>
+  <ingress id="97af19">null</item>
+  <yaml id="571354">3454</item>
+  <stream id="0fc42d">true</item>
+  <protobuf id="b77293">envoy-router</item>
+  <prod id="3c84e3">true</item>
+  <service id="c69661">utils-mongo</item>
+  <firewall id="51bc5e">4845</item>
+  <vlan id="221fce">1.165.111.82</item>
+  <ingress id="dd0222">6a7702e9</item>
+  <bloom id="cc3d47">redis-bgp</item>
+  <middleware id="272867">157.134.95.45</item>
+  <udp id="bd3b4d">true</item>
+  <hotfix id="ec8c8d">20.15.150.116</item>
+</root>

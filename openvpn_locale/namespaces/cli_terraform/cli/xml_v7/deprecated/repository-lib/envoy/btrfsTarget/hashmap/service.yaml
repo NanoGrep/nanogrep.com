@@ -1,0 +1,8 @@
+lib:
+  runner: 8189
+  nginx: 3823
+  pipeline: grpc-runner
+  service: runner-dist
+env: firmware
+vxlan: salt-staging
+daemon: ldap-tools

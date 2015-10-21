@@ -1,0 +1,67 @@
+{
+  "config": true,
+  "mapper": {
+    "ingress": null,
+    "kerberos": {
+      "watchdog": {
+        "grafana": 9479,
+        "retry": null
+      },
+      "upstream": [
+        "3bdd2dc816aa",
+        true,
+        false
+      ],
+      "request": {
+        "role": true,
+        "coroutine": null,
+        "offset": "graphql"
+      },
+      "tls": "backup",
+      "nonce": true
+    },
+    "bloom": {
+      "cgroups": [
+        false,
+        "frontend"
+      ],
+      "tools": {
+        "traces": null,
+        "subnet": true,
+        "loader": "cd5471a4db6d"
+      },
+      "offset": {
+        "replica": "b8e02d1ac1bc",
+        "beta": false,
+        "column": "92e12f827bb2",
+        "probe": true
+      },
+      "audit": 7563,
+      "proxy": {
+        "dns": null,
+        "hashmap": true,
+        "systemd": null,
+        "semaphore": null
+      }
+    },
+    "envoy": null,
+    "kernel": {
+      "policy": {
+        "user": 5834,
+        "rest": false,
+        "fixtures": true,
+        "oauth": true
+      },
+      "scripts": null,
+      "rest": {
+        "kerberos": true,
+        "grafana": "ca26e0f1bc31",
+        "terraform": true,
+        "release": 2417,
+        "failover": "7e72799c3341",
+        "group": "25d64c79d422"
+      }
+    }
+  },
+  "nightly": "3e9706cb84ba"
+}

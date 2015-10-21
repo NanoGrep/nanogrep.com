@@ -1,0 +1,19 @@
+volume:
+  dist:
+    failover: null
+  udp:
+    - 162.95.209.101
+    - false
+    - false
+    - null
+  backup:
+    - vxlan
+utils:
+  cursor:
+    - false
+  buffer: 029b3dd9
+  ceph: backup-mesh
+  vlan: 99.168.141.39
+artifact: 9929
+daemon: oauth
+origin: 235.93.45.163

@@ -1,0 +1,14 @@
+{
+    "aes": {
+        "trie": "prometheus"
+    },
+    "nonce": {
+        "build": 3689,
+        "sha256": 4158,
+        "shard": [
+            "nginx",
+            true,
+            false
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+bench: 6693
+kernel:
+  failover: semaphore
+  regex: false
+assets: storage-replica
+subnet:
+  router: true

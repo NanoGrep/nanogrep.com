@@ -1,0 +1,21 @@
+{
+    "role": [
+        "udp",
+        false,
+        true
+    ],
+    "logs": {
+        "helm": "b6929b536a84",
+        "kerberos": [
+            2162,
+            {
+                "artifact": false,
+                "stack": true,
+                "middleware": true,
+                "policy": "5114ff04e114"
+            },
+            "pipeline",
+            true
+        ]
+    }
+}

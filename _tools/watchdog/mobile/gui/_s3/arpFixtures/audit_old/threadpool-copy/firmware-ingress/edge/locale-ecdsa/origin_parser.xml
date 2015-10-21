@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<locale>
+  <legacy id="4b0c44">1921</item>
+  <fixtures id="dc5fe1">644f479e</item>
+  <logs id="b8a6c3">7295</item>
+  <mqtt id="bff068">723d90da</item>
+  <mesh id="c72500">5080</item>
+  <semaphore id="9627e1">udp-group</item>
+  <snapshot id="8f810a">210.76.135.49</item>
+  <jenkins id="c40d17">4732</item>
+  <kernel id="42f794">null</item>
+  <rsa id="98b150">cursor-graphql</item>
+  <mesh id="a1b28d">8272</item>
+  <cgroups id="06123d">worker-templates</item>
+</root>

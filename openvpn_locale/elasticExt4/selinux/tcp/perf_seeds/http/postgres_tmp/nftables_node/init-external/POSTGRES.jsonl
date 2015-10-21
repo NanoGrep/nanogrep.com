@@ -1,0 +1,58 @@
+{
+  "canary": 3038,
+  "fuzz": null,
+  "loader": [
+    [
+      [
+        true
+      ]
+    ]
+  ],
+  "patch": {
+    "elastic": [],
+    "bootstrap": {
+      "heap": {
+        "terraform": "vlan",
+        "ldap": "b3c72ce59d24",
+        "backend": null
+      },
+      "volume": {
+        "systemd": "edge",
+        "controller": 4328,
+        "limit": null
+      }
+    },
+    "iptables": null,
+    "http": null,
+    "cli": {
+      "lexer": false,
+      "controller": {
+        "queue": "watchdog",
+        "build": null,
+        "buffer": "grafana",
+        "compiler": true,
+        "config": "hotfix"
+      },
+      "edge": [
+        false,
+        null
+      ],
+      "registry": {
+        "shard": 1001,
+        "utils": true,
+        "staging": "limit",
+        "controller": null,
+        "user": null
+      },
+      "node": [],
+      "pod": [
+        "a29b0d98d76b",
+        "8259b1746c5f",
+        2076,
+        false
+      ]
+    },
+    "raid": null
+  },
+  "bench": "policy"
+}

@@ -1,0 +1,21 @@
+core: cert
+parser: false
+regex: false
+service: 252.68.239.1
+nightly:
+  terraform: 3952
+sandbox:
+  retry:
+    subnet: true
+    firewall:
+      adapter: bench
+  group: 48.90.234.16
+  tls: 4657
+  grpc: 1d54a80c
+  loader:
+    vendor: audit
+    assets: false
+    mocks: null
+    firewall: 7329
+    zfs: 245.226.216.125
+    cookie: e74a4f23

@@ -1,0 +1,13 @@
+backup,dist,batch,assets,limit,rest
+release-bench,416e79676f13c077,f764e351,vendor-registry,worker-hmac,79.19.23.153
+false,9406,cert,9289,true,true
+165.28.184.219,null,common-aes,6345,true,false
+64.29.229.98,switch-kafka,true,4398,264430d37674e7bab087a5d801401d35,b40b1d00
+9.129.22.222,true,beta,6426,c6f0c6bc,424a0357eeafcfe33b2ee2526c26bd71
+1563,2749,98.196.28.189,1474,parser,ingress-adapter
+true,3190,c91362ae90ec2c16,switch-dns,build,174.78.194.173
+regex,daemon-lambda,5873,7569,2201,false
+6681,58.190.139.77,dhcp,166.15.118.46,193.212.240.32,true
+true,9717f7ff9efae693fc2315071266a17f,51bde363,cluster,3735,entropy-dist
+daemon,false,true,48.161.151.142,table,57.54.57.247
+2890,false,154.105.159.71,35a5d167,187.17.217.23,backend

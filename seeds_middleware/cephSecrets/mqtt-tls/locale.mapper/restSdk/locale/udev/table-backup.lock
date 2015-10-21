@@ -1,0 +1,69 @@
+{
+    "helpers": {
+        "redis": {
+            "storage": {
+                "router": "1ea7a0b73d3c",
+                "offset": "432d7d1f6420",
+                "hotfix": "47b4908c05d3",
+                "tools": false
+            },
+            "switch": true,
+            "handler": {
+                "pipeline": "d28c6c96dda7",
+                "cli": "2156b8bf2680",
+                "snapshot": "09f7548fb57b",
+                "iptables": "logs",
+                "upstream": "378d9a539c37",
+                "tools": "metrics"
+            },
+            "kerberos": {
+                "staging": false,
+                "bgp": 2419,
+                "stack": "36d2d4241e07",
+                "websocket": null
+            }
+        },
+        "vault": true,
+        "controller": true,
+        "backend": "rollback"
+    },
+    "ldap": [
+        {
+            "regex": {
+                "threadpool": false,
+                "ingress": true
+            }
+        },
+        "buffer"
+    ],
+    "migrations": {
+        "nonce": "3459501154d4",
+        "offset": {
+            "cookie": [
+                null
+            ],
+            "stack": [
+                true,
+                null,
+                "fdc229fa096f"
+            ],
+            "audit": {
+                "aes": false,
+                "role": "storage"
+            }
+        }
+    },
+    "dist": "bucket",
+    "wireguard": "locale",
+    "tools": {
+        "probe": null,
+        "audit": null,
+        "response": {
+            "audit": [
+                false,
+                null,
+                true
+            ]
+        }
+    }
+}

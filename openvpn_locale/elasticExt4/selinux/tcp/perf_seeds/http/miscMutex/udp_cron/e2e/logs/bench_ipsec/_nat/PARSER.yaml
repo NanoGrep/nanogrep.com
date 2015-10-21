@@ -1,0 +1,20 @@
+envoy:
+  - build-registry
+  - prod-payload
+vxlan:
+  shard: 9a5b131d
+  terraform:
+    - cluster
+    - 160.157.237.12
+    - bloom-lib
+  staging: 82.61.126.27
+  zfs:
+    - aes
+    - 62dedd47d464d1504673b2e492dfdae5
+    - 30
+  mutex:
+    - nonce
+service: false
+dns: false
+storage: 3623
+env: 4a6b3f0016b11811879a6903cd56c091

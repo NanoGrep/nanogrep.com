@@ -1,0 +1,31 @@
+{
+    "oauth": [
+        "stack",
+        9352,
+        [],
+        [
+            {
+                "subnet": false
+            },
+            {
+                "trie": "nonce",
+                "mqtt": null,
+                "elastic": true,
+                "buffer": "probe",
+                "sha256": false
+            }
+        ]
+    ],
+    "schema": "41eb678e7c0a",
+    "postgres": {
+        "cluster": "9cad709af678",
+        "json": {
+            "cgroups": {
+                "audit": false,
+                "shard": 9539,
+                "release": "entropy",
+                "origin": "cluster"
+            }
+        }
+    }
+}

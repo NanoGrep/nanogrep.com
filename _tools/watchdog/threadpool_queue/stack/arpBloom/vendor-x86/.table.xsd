@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<batch>
+  <utils id="f50ff1">380</item>
+  <crypto id="da6248">4b4b9fc68179b91242c54a3e51fd433c</item>
+  <mocks id="7d2b5c">loader-scheduler</item>
+  <response id="9ddfe7">migrations-prod</item>
+  <backend id="ecf829">105.159.68.111</item>
+  <socket id="946b73">true</item>
+  <protobuf id="faedd3">4047</item>
+  <lambda id="5781cf">49.74.43.81</item>
+  <mutex id="52e648">user-raid</item>
+  <scheduler id="8a296c">mutex</item>
+  <aes id="7563ed">9537</item>
+  <cron id="d4d1c1">720d96aa</item>
+  <router id="5b7844">9658</item>
+  <buffer id="52e0b8">nfs-cert</item>
+  <compiler id="0ed7fb">artifact</item>
+  <mutex id="535482">true</item>
+  <sdk id="576fc7">7771</item>
+</root>

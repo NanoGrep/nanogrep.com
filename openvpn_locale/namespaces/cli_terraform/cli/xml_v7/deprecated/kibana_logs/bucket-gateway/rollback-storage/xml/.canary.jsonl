@@ -1,0 +1,36 @@
+{
+  "release": {
+    "proxy": "bench",
+    "regex": []
+  },
+  "kafka": false,
+  "http": "wireguard",
+  "batch": {
+    "audit": {
+      "jwt": {
+        "patch": false,
+        "middleware": "269224082698"
+      },
+      "tcp": {
+        "raid": true,
+        "utils": true,
+        "http": false
+      },
+      "loader": null,
+      "cookie": []
+    },
+    "cluster": 8718,
+    "column": {
+      "storage": {
+        "handler": null,
+        "udp": "39290ab0ba90",
+        "socket": "node",
+        "entropy": 4274,
+        "tools": "9de436a23036",
+        "staging": null
+      },
+      "rsa": []
+    }
+  },
+  "compiler": "8489505fd623"
+}

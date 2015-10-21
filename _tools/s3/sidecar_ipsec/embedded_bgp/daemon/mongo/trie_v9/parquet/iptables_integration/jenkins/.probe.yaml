@@ -1,0 +1,11 @@
+cursor: 4219
+kafka: 8278
+bucket: utils-scope
+logs: mqtt
+envoy:
+  templates:
+    - 6838b316602137a1b082710931960acf
+    - 130.77.193.78
+    - pod-raid
+    - null
+  nginx: 199.50.233.49

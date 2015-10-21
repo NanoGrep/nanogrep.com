@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<vlan>
+  <mapper id="42f252">false</item>
+  <session id="ee7863">quic</item>
+  <registry id="c7296f">true</item>
+  <buffer id="5fca04">157.93.148.37</item>
+  <cors id="548fe8">mysql-mapper</item>
+  <assets id="868012">ingress-utils</item>
+  <pipeline id="6c111a">null</item>
+  <assets id="8db25f">3922</item>
+  <vendor id="a832c8">kafka</item>
+  <kernel id="9651fe">3139</item>
+  <nightly id="6b3fce">policy</item>
+  <ingress id="cd41ea">105.80.27.164</item>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<json>
+  <terraform id="068698">bgp</item>
+  <probe id="e74464">77.194.133.111</item>
+  <mysql id="45ffba">buffer-raid</item>
+  <firmware id="75ea2c">797448f8f7ca663ef053f06ecaf183fe</item>
+  <metrics id="351d99">null</item>
+  <backup id="546fe2">null</item>
+  <factory id="6ac6a3">6616</item>
+  <bgp id="74250f">bloom</item>
+  <payload id="652f76">642d07af083d499e5c90102b39fe1d97</item>
+</root>

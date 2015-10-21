@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<failover>
+  <helpers id="a9b5f3">9724</item>
+  <mutex id="8eabf3">9896</item>
+  <postgres id="b147be">dff9e299c6190b322548de2f4c7bb169</item>
+  <migrations id="bd37d5">true</item>
+  <bloom id="4051ad">8275</item>
+  <systemd id="80fe6f">null</item>
+  <mapper id="909f72">8746</item>
+</root>

@@ -1,0 +1,48 @@
+scope:
+  storage:
+    cookie: false
+    middleware:
+      payload: pipeline
+      policy: tcp-entropy
+    tenant: 864b1953eb69ad6bc1b36a65dbf75308
+    storage: 174.168.4.218
+    ansible: postgres-build
+  payload: 5143
+  batch:
+    - null
+    - mocks
+    - 563b283826f80d50
+  sdk: trie-cgroups
+  bench:
+    offset: 12.118.22.215
+    topic:
+      raid: sdk-schema
+      nightly: watchdog
+      wireguard: mocks-schema
+      alerts: dist-sha256
+      envoy:
+        - 3bdfe816
+        - http-pod
+      logs: jwt-switch
+    regex: policy
+    socket:
+      - switch
+      - ccd59de6
+      - 71.70.0.144
+      - 206.245.84.236
+    service:
+      tcp: 2d903c6b
+  router: 49.18.51.197
+bloom: cache-probe
+mongo:
+  semaphore: null
+  daemon:
+    buffer:
+      - bgp
+      - cgroups-mapper
+      - index
+    tcp: vendor
+    redis: runner
+  schema: loader-nonce
+  helpers: 63.189.133.72
+bootstrap: bench-helpers

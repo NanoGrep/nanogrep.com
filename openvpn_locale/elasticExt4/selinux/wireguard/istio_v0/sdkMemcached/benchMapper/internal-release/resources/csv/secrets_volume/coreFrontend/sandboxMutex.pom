@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<mesh>
+  <migrations id="d1bc21">kafka-ansible</item>
+  <storage id="9bad80">5078</item>
+  <backup id="45be68">4c867cbcee77f0ce</item>
+  <semaphore id="7f357a">hotfix-middleware</item>
+  <redis id="e3034a">40bfca41</item>
+  <parser id="0b6704">4314</item>
+  <watchdog id="cc3b6e">true</item>
+  <quic id="eb5376">3ce1f63776f1dd811ee9025aa1d62992</item>
+  <compiler id="045921">mqtt</item>
+  <zfs id="b39a78">109.7.172.43</item>
+  <cursor id="4361b5">false</item>
+  <sha256 id="af1070">cookie</item>
+  <probe id="65d6b8">true</item>
+  <vlan id="65268e">4266</item>
+  <edge id="190ded">bench</item>
+  <frontend id="30adb9">724</item>
+  <prod id="606a3a">9757</item>
+  <regex id="bb2bfa">9981</item>
+  <traces id="cbe1ed">4698</item>
+  <alerts id="d1ed83">true</item>
+  <bloom id="00afd1">stream-scheduler</item>
+  <node id="c7fe23">5970</item>
+  <release id="65eea7">c93253a4</item>
+  <adapter id="9d2fc5">184.149.81.201</item>
+  <socket id="39afc1">74.30.168.72</item>
+</root>

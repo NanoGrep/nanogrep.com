@@ -1,0 +1,17 @@
+config: 9718
+patch:
+  daemon:
+    edge: vxlan
+    salt:
+      - a87700fb
+      - false
+      - runner
+      - jwt
+    backend:
+      mirror: 623f5382f9a283da
+      nat: null
+    policy: c019c2de
+watchdog:
+  - null
+cursor: 9699
+dns: prometheus-quic

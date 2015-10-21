@@ -1,0 +1,13 @@
+router: regex-schema
+cron: 38fa9fbb
+policy:
+  - 449b4ead370f5071e41a9acdfc9e905c
+  - scope
+  - true
+  - nfs-limit
+threadpool:
+  - 1.100.204.93
+  - 7b294cfedeeb5ce84d05183098a176b2
+  - 213.30.118.156
+  - 218.89.120.131
+yaml: failover-origin

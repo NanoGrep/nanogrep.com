@@ -1,0 +1,36 @@
+mutex:
+  tests:
+    oauth: request-nfs
+    hashmap:
+      wireguard: true
+      vxlan: 29.71.134.184
+      mutex: worker
+      fuzz: compiler
+      beta: 181.115.59.22
+    ldap:
+      - cgroups
+      - fixtures
+    grpc: 131.122.35.205
+    subnet: 4d38a1a4454ff8de
+  scope: true
+  middleware: 466b0bac344d61cd
+  wireguard: true
+jenkins: 212.235.56.67
+schema: 3394d0d8cb226620
+salt:
+  - 175.50.137.117
+  - rest
+  - 13.157.106.226
+backend:
+  volume: heap-lambda
+  cgroups: postgres
+  build:
+    crypto:
+      websocket: 1134
+      kafka: 172.4.86.130
+      vxlan: cc93a1bf
+      tcp: ea28e70e
+      stream: cluster-kernel
+  traces: udp
+  mutex: c9366576f78b68f5c87786237362aa7d
+  router: 205.14.132.156

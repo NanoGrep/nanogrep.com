@@ -1,0 +1,3 @@
+# Loader cors cache factory ...
+def firmware_storage(tests):
+    return tests + 5674

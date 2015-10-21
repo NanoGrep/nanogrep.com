@@ -1,0 +1,38 @@
+[subnet]
+metrics_cursor = zfs
+tracesmiddleware = 415c0db6
+upstream_nfs = f4fcd3f207e569c9
+nginxadapter = null
+prod.wireguard = jwt
+fixturesbootstrap = null
+hmac.grpc = mapper-env
+postgres_pod = prod
+
+[sha256]
+api.alerts = null
+vendor.helm = mqtt-kafka
+scope_sandbox = 14.163.80.30
+alerts.wireguard = cli-runner
+terraformpayload = threadpool
+firewall_coroutine = 9329
+grpcgrpc = 2356
+scripts.bootstrap = tests
+object.worker = false
+subnet_rollback = false
+btreelocale = 2190
+nonce_quic = shard
+scheduler.quic = b96ef9bf6765c4d1eb793e186acecebd
+cron.request = 2448
+row_cors = parser
+hotfixsdk = 134.98.0.225
+wireguardhelpers = 219.179.207.82
+
+[utils]
+buildzfs = 66.81.211.203
+fuzzcommon = 3210
+schemauser = 9fee20f0dfd15751
+
+[kernel]
+rsagrpc = table-volume
+vendor_router = scheduler
+firmwarelambda = 70db1540b2e2bb392bfd70a68628bb14

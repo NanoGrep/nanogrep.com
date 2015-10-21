@@ -1,0 +1,10 @@
+locale:
+  env: 9f9ec071
+service: coroutine
+hotfix: 218.249.113.104
+compiler: false
+adapter:
+  loader: 8.44.74.203
+  lib: 8757
+  tenant:
+    - fixtures

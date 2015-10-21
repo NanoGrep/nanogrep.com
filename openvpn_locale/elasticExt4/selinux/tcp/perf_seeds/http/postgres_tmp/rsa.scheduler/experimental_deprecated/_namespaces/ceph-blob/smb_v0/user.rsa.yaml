@@ -1,0 +1,7 @@
+protobuf:
+  proxy: json
+  bootstrap:
+    - 91.35.15.237
+    - 6916
+    - 231.77.30.35
+  nightly: true

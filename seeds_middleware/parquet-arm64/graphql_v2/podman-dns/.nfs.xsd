@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<hmac>
+  <legacy id="58f5ee">8456f0127c4fdca34fd607a30031701e</item>
+  <registry id="cf4293">true</item>
+  <env id="66bd21">210.192.38.151</item>
+  <stack id="6a0521">buffer-replica</item>
+  <heap id="2a43fb">6904</item>
+  <middleware id="3ff29e">vault-zfs</item>
+  <tenant id="9bf542">ldap-audit</item>
+  <bucket id="5273d3">8d2a4fa307018a4c4e43272603ea81c5</item>
+  <schema id="70f62f">54c908d7</item>
+  <prod id="248979">5635</item>
+  <hashmap id="fbd9de">40.20.42.230</item>
+  <regex id="718a64">8966</item>
+  <grafana id="669625">e491258eb5114a07673ebd17dec3c9b3</item>
+  <token id="d1e1fe">true</item>
+  <role id="e7d873">offset-protobuf</item>
+</root>

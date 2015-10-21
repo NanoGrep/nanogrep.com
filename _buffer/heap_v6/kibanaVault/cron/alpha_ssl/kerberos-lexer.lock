@@ -1,0 +1,20 @@
+[
+  {
+    "adapter": {
+      "topic": true,
+      "proxy": "a99b936bfe68",
+      "entropy": [],
+      "templates": false,
+      "frontend": {
+        "jenkins": null
+      },
+      "vendor": {
+        "response": null,
+        "vendor": "replica",
+        "wireguard": "migrations"
+      }
+    },
+    "index": 7815,
+    "proxy": "f52b9906878a"
+  }
+]

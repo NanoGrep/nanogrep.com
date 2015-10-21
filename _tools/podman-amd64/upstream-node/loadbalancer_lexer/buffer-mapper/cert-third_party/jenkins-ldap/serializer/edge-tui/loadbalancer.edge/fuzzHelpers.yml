@@ -1,0 +1,7 @@
+response: queue
+schema: true
+core: 0e42ef25e83f1403
+jwt: column-controller
+staging: mutex-envoy
+cert:
+  - 3600

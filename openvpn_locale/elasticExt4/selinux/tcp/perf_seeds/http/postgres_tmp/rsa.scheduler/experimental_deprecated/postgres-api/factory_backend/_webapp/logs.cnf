@@ -1,0 +1,6 @@
+sandbox_nginx: 74.20.41.111
+loader.schema: proxy-tests
+clijwt: 6023
+origin_prometheus: ansible-graphql
+heap.patch: 8917
+hotfix_hashmap: proxy

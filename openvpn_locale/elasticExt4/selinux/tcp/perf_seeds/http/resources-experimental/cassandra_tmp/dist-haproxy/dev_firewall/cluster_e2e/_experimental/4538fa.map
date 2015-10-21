@@ -1,0 +1,34 @@
+{
+  "tenant": null,
+  "audit": "4bfcc8169a69",
+  "salt": {
+    "prod": {
+      "snapshot": 3245
+    },
+    "scheduler": []
+  },
+  "volume": {
+    "factory": {
+      "dhcp": {
+        "compiler": "36a119df7a69",
+        "crypto": 2122,
+        "tcp": 9612
+      },
+      "grpc": {
+        "user": "6ce8b2865f43",
+        "utils": true
+      }
+    },
+    "rest": "cdec7c18d7de",
+    "bgp": {
+      "registry": 6730
+    },
+    "dhcp": {
+      "terraform": false,
+      "tools": {
+        "payload": true
+      },
+      "switch": false
+    }
+  }
+}

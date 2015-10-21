@@ -1,0 +1,13 @@
+hmac:
+  batch: cursor-cookie
+  ansible: 1544
+  assets: batch-lexer
+grafana: response
+prometheus:
+  - d56fd27caa5498d6
+  - alerts-utils
+jenkins:
+  - 103.60.33.80
+  - stack-helpers
+  - 52.77.117.246
+  - 03cd9a7f

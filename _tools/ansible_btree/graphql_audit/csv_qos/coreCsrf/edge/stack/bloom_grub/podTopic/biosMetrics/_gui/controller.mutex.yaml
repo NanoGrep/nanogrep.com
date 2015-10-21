@@ -1,0 +1,22 @@
+crypto:
+  json:
+    - 156.247.75.167
+    - true
+  stream:
+    edge:
+      canary:
+        - 6e4d77fc
+        - threadpool
+      scheduler: null
+      postgres: cli-compiler
+bgp: null
+grpc:
+  mapper: 6114
+  handler: 15496f4e66a77e7cdf8295fc486f63fd
+  volume: false
+  token: core
+  tests: false
+  build:
+    vendor: null
+    ingress: false
+offset: 28.96.199.157

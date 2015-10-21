@@ -1,0 +1,87 @@
+dist:
+  tenant:
+    sdk: b66518cb7689cd0b4dfe44e5411be756
+    column: 204.1.175.130
+    quic: 132.207.9.123
+    firmware:
+      middleware:
+        - udp-payload
+        - 653
+        - 114.202.133.7
+      cookie: null
+    heap:
+      - 157.141.67.172
+      - entropy
+      - hashmap
+      - null
+  salt: true
+  metrics: 69.248.129.44
+artifact:
+  dhcp: f7be5b10
+  parser:
+    cluster:
+      - 17.220.115.195
+    mysql: shard
+    hashmap: 143.11.75.245
+    elastic: 50.120.125.68
+  sha256:
+    dist:
+      hmac: 132.131.243.118
+      handler:
+        - http-core
+        - null
+        - 3329
+        - true
+bootstrap:
+  replica:
+    vendor: 9543
+    websocket: staging
+    subnet:
+      snapshot: false
+      replica: 179.146.192.239
+    policy:
+      frontend: 33.114.83.221
+    scripts: 6792bf0d12c27fa71562e7de2ae68011
+    elastic:
+      mesh: 1384
+      tests: 166.142.43.176
+  cache: 35.113.161.16
+  firewall:
+    systemd:
+      nat: null
+    storage:
+      oauth: shard-threadpool
+    lib: dist
+    cgroups: scripts-staging
+    firmware:
+      build: 6814
+      semaphore:
+        - common
+        - false
+        - probe
+        - true
+    backup:
+      schema: 6132
+      shard: terraform-helpers
+      canary: nginx-quic
+  lexer: null
+  scripts: 141.22.4.17
+  threadpool: btree
+traces:
+  envoy:
+    http:
+      middleware: node
+      heap: runner
+      wireguard: column
+      vendor: 8b345b1ad0e8fd979cb937d598156111
+      dhcp: cookie
+      backend: 3605
+    vlan: true
+    daemon: 766c0c58
+  fuzz:
+    - salt-controller
+    - group
+    - 4277
+    - false
+  mesh: mirror
+  cors: 125.19.154.229

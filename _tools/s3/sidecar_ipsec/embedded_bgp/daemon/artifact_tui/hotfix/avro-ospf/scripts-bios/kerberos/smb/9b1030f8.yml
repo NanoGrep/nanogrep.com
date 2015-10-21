@@ -1,0 +1,10 @@
+semaphore: 5269
+switch: 7729
+scripts: false
+bucket:
+  api:
+    mongo: locale-buffer
+  prod: 4608
+redis: e0fcbaad9e3f76f6
+dhcp:
+  batch: stack

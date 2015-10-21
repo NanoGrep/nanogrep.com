@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<controller>
+  <salt id="89eb1a">nginx-tenant</item>
+  <frontend id="a28af4">2982</item>
+  <mirror id="e0339c">ca4a7dcca43d57916234d76f023d86f4</item>
+  <payload id="ce4a04">proxy</item>
+  <ingress id="604950">handler-firmware</item>
+  <protobuf id="ab0ed3">895217d6</item>
+  <batch id="b56d41">watchdog-handler</item>
+  <bloom id="2c5193">hotfix-websocket</item>
+  <queue id="c19f05">upstream</item>
+</root>

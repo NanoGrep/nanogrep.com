@@ -1,0 +1,37 @@
+[
+  {
+    "batch": {
+      "build": [
+        false
+      ],
+      "stream": {
+        "edge": "middleware",
+        "logs": true,
+        "group": null
+      },
+      "iptables": "39af7222ceed",
+      "common": "response"
+    },
+    "cache": 3342,
+    "pipeline": {
+      "cache": false,
+      "zfs": {
+        "templates": null,
+        "snapshot": "beb9fbf102a4"
+      },
+      "upstream": [],
+      "traces": {
+        "ansible": null
+      },
+      "metrics": {
+        "protobuf": true,
+        "replica": null,
+        "firmware": false,
+        "sandbox": null
+      }
+    },
+    "backend": [
+      true
+    ]
+  }
+]

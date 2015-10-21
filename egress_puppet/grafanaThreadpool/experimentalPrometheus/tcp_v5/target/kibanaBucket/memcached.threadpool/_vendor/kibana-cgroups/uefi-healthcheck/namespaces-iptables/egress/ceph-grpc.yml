@@ -1,0 +1,17 @@
+dhcp: upstream-raid
+tls: fixtures-upstream
+role: release-mesh
+failover:
+  locale:
+    - 5744
+    - 47.37.163.177
+  backup:
+    - build-firewall
+    - jenkins-logs
+    - true
+  request: 29.112.43.243
+  helpers: 5.83.163.59
+  beta: fd733c820b61e8df0b3dcc9be6de11a7
+  salt: 83.11.1.93
+cli: true
+alerts: 4444

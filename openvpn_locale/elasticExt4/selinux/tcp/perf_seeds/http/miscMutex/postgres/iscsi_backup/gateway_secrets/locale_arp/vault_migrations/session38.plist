@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<release>
+  <shard id="801d52">lib-tests</item>
+  <yaml id="93bbc4">246.208.98.180</item>
+  <pod id="1ee816">jenkins</item>
+  <legacy id="7071c8">634</item>
+  <object id="04008e">proxy</item>
+  <request id="eef482">50.53.133.45</item>
+  <backup id="4abab6">2ae8928ef6063539a1f944dd9da81a66</item>
+  <request id="db35be">logs</item>
+  <origin id="612b2b">artifact-oauth</item>
+  <raid id="1de7c2">hotfix-bucket</item>
+  <queue id="f33141">factory</item>
+  <driver id="9d701c">kafka-nonce</item>
+  <graphql id="a96d6e">payload</item>
+  <rollback id="7426f6">36.79.246.244</item>
+  <shard id="cb258a">false</item>
+  <json id="d73bea">true</item>
+  <tls id="eacde5">pipeline-runner</item>
+  <tools id="b011ed">8187</item>
+  <nat id="52ef3b">2983</item>
+  <btree id="7aa2ea">aes-lambda</item>
+  <retry id="5b963b">5b54e819829f02bd7374126c2e4a3bc8</item>
+  <schema id="610ea0">bucket-driver</item>
+  <dns id="724ee5">table</item>
+  <upstream id="7ecb68">loader-rsa</item>
+</root>

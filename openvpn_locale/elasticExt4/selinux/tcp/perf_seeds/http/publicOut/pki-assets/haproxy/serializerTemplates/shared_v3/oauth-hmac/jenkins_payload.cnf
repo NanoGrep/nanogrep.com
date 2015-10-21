@@ -1,0 +1,22 @@
+[nfs]
+retry.threadpool = 131.99.83.76
+daemon.handler = 249.8.186.17
+firewall.fixtures = false
+yaml.btree = 1346
+cors_middleware = false
+cookievault = 8993
+mysqlcanary = wireguard
+vault_yaml = nonce-graphql
+cert_subnet = user-fuzz
+volume_staging = config-terraform
+oauth.mongo = policy-scope
+frontend_websocket = 727839d689ed51c2
+bucketservice = 981
+batch_dhcp = true
+hashmap_bgp = jenkins
+
+[sandbox]
+clicontroller = true
+logs.locale = true
+prometheus_prod = ldap-hashmap
+mesh_controller = 7a5d1bc4

@@ -1,0 +1,42 @@
+udp: mesh-snapshot
+ingress:
+  switch:
+    proxy:
+      policy:
+        - null
+      shard:
+        - 1843
+        - failover
+        - websocket
+      alerts: nfs-worker
+      vendor: true
+    graphql: 163.199.95.80
+  response:
+    sdk:
+      raid: null
+      oauth: 1759
+    mocks: ansible-cert
+    sandbox: 77.70.68.92
+    cron:
+      lexer: 935
+      release: 149.128.48.147
+      token: false
+    vendor: 292
+    column: 9c4ee137
+  origin: compiler-dist
+  migrations:
+    - schema-snapshot
+    - nginx-iptables
+    - b8d70927b87ac1fb
+  postgres:
+    - 4318
+    - false
+  offset: b82b24b63a59028c
+threadpool:
+  - service
+  - null
+  - 1178
+  - false
+json: nat
+elastic:
+  - 235.150.3.253

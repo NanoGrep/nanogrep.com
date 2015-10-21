@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<quic>
+  <cursor id="5ab836">180.145.76.11</item>
+  <postgres id="b2f03f">router</item>
+  <json id="b01690">150.157.213.236</item>
+  <kafka id="e036ee">165.144.120.77</item>
+  <buffer id="f5b166">128.212.82.108</item>
+  <scope id="918c05">215.105.40.112</item>
+  <router id="d94b96">firmware-cluster</item>
+  <rsa id="2faaf2">queue-stack</item>
+  <artifact id="a29be3">4219</item>
+  <envoy id="c5f2e3">e760516ce439a577</item>
+  <token id="a42bdd">9840</item>
+  <metrics id="47aa01">limit</item>
+  <replica id="73dad3">null</item>
+  <hotfix id="cfce8b">row</item>
+  <mapper id="68c6ce">8384</item>
+  <scheduler id="12fd7e">ingress</item>
+  <redis id="dcd192">1a9de7cfb0ce424f</item>
+  <tls id="9f1fd4">f98cf300fe0b145794b52fbcebb9bb90</item>
+  <compiler id="af9f14">helpers-metrics</item>
+  <gateway id="cbd3ad">object-gateway</item>
+  <wireguard id="b365c8">grpc</item>
+</root>

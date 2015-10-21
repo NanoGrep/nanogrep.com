@@ -1,0 +1,8 @@
+threadpool: 66.190.70.57
+ldap: e14e323ec16d3904
+core:
+  bucket: abbe171b1ee6b47bac8dec5cf62649b1
+failover:
+  kafka: null
+  proxy: 200.14.33.184
+  volume: bb639db2

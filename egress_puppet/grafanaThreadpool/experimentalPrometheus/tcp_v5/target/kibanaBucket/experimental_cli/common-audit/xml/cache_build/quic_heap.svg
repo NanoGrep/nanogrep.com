@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<protobuf>
+  <offset id="601cfb">sha256-loader</item>
+  <build id="093aa3">tests-graphql</item>
+  <router id="0a37bd">edge</item>
+  <audit id="d44c15">124.129.226.5</item>
+  <cert id="9b2f5c">769</item>
+  <loader id="09cf7f">ab1873f94b59e4f8</item>
+  <bench id="13641b">role-kafka</item>
+  <nginx id="b34be4">true</item>
+  <common id="beb2ba">dist-cache</item>
+  <threadpool id="cbccb1">104.206.20.204</item>
+  <protobuf id="8ce960">e1fcbdf8</item>
+  <adapter id="951f21">4243</item>
+  <loader id="6912d7">dhcp-jwt</item>
+  <nat id="d353e5">fe1461a5</item>
+  <graphql id="c434b9">6391</item>
+  <probe id="8d240f">9195</item>
+</root>

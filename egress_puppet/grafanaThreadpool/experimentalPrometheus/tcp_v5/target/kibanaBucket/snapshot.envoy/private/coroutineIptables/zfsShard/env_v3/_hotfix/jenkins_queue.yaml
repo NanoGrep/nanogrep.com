@@ -1,0 +1,9 @@
+node: 9875
+artifact:
+  cli:
+    dhcp: yaml
+    config:
+      - grpc-runner
+      - 4210
+      - null
+mysql: 547e0b08

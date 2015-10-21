@@ -1,0 +1,59 @@
+{
+    "assets": {
+        "utils": [
+            "45d7c6baf5f4",
+            [
+                false,
+                null,
+                "271d2e112ae2",
+                "nonce"
+            ]
+        ],
+        "mapper": {
+            "shard": "72bb6166451c",
+            "wireguard": {
+                "mysql": "4adb70966d91",
+                "env": null,
+                "buffer": "f2dfa8be3c72",
+                "terraform": true,
+                "queue": true
+            }
+        },
+        "tenant": {
+            "hmac": 7797,
+            "topic": {
+                "quic": true
+            },
+            "heap": "9ae08a365804",
+            "probe": {
+                "vxlan": "bucket",
+                "yaml": null,
+                "dist": "cookie",
+                "request": false,
+                "lambda": null,
+                "udp": 7801
+            },
+            "prometheus": {
+                "regex": 3766,
+                "wireguard": false,
+                "cache": false
+            }
+        },
+        "index": null
+    },
+    "helm": true,
+    "nat": true,
+    "mocks": [
+        [
+            {
+                "cgroups": null,
+                "http": false,
+                "quic": true,
+                "response": "ab5118f0e2ab",
+                "service": null,
+                "ingress": "5dd087d32b14"
+            }
+        ]
+    ],
+    "cert": "cluster"
+}

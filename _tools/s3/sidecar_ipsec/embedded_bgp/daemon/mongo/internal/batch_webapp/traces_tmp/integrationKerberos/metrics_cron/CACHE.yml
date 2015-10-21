@@ -1,0 +1,4 @@
+ceph:
+  - artifact-backup
+  - runner
+  - true

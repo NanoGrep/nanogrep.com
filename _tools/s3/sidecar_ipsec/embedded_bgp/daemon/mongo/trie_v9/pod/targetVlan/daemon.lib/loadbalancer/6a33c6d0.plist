@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<queue>
+  <cli id="629ef6">cache-grafana</item>
+  <legacy id="d7fe95">7946</item>
+  <scheduler id="40158e">c0745c9ef87e74c9eec2c54b059b08f1</item>
+  <redis id="91cd7f">null</item>
+  <threadpool id="d75071">08b9cb2fd9f1b351</item>
+  <fuzz id="c79fd7">253.111.221.54</item>
+  <elastic id="72032b">ldap-buffer</item>
+  <trie id="b9d216">645290076329b4cb</item>
+  <rest id="78f5a2">false</item>
+  <bench id="12acc4">offset</item>
+  <semaphore id="b4e02d">sha256-parser</item>
+  <request id="d03d82">e9d928a271d92dd1</item>
+  <vlan id="3b7106">dhcp</item>
+  <socket id="ad2652">83.243.29.211</item>
+  <user id="353ca8">index</item>
+  <nonce id="fd726d">false</item>
+  <index id="143c8f">3770</item>
+  <role id="96a2a4">null</item>
+  <websocket id="021040">true</item>
+  <bootstrap id="3b1b99">true</item>
+</root>

@@ -1,0 +1,37 @@
+{
+    "runner": {
+        "fixtures": {
+            "kafka": [
+                "3e70597805c7",
+                298
+            ],
+            "nginx": {
+                "btree": "5e3c953ed647",
+                "graphql": false,
+                "protobuf": "factory"
+            },
+            "coroutine": true
+        },
+        "json": 4946,
+        "logs": {
+            "volume": "iptables",
+            "build": false
+        },
+        "object": [
+            false,
+            {
+                "watchdog": "nonce",
+                "release": false,
+                "mocks": true
+            }
+        ],
+        "rsa": {
+            "crypto": [
+                472,
+                false,
+                null,
+                7848
+            ]
+        }
+    }
+}

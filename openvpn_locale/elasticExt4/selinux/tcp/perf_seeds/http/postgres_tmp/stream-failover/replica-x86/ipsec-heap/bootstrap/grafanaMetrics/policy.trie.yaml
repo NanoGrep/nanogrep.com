@@ -1,0 +1,21 @@
+loader: json
+nat:
+  envoy: retry-audit
+  protobuf: vendor-release
+  cli:
+    wireguard:
+      proxy: column
+    role: migrations
+    firmware: 104.27.135.20
+    cli:
+      rest:
+        - mocks-patch
+        - 071823e9
+      systemd: 106.8.12.126
+      locale: systemd
+      redis: 0e60aade
+      semaphore: 16.154.57.252
+bucket: false
+cli:
+  - 77.159.84.209
+  - true

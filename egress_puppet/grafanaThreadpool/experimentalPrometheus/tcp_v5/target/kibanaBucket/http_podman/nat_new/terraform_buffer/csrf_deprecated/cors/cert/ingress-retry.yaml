@@ -1,0 +1,45 @@
+group: 7ae98326baee03f62bdf662f42104848
+ceph: 168.128.63.58
+column: a6512fc7ef52589a3a817b4073292245
+mongo: null
+session:
+  rollback:
+    proxy:
+      volume: false
+      dist: 434
+      limit: 4101
+  kernel:
+    session:
+      queue: cert
+      cors: 137.2.242.206
+      patch: build
+      migrations:
+        - 621f4f1dcd8ba1fcde16263b3d6b1e07
+      kerberos: 17.169.2.81
+    user: 8079
+    session:
+      legacy: 238.28.149.33
+      tests: 8d735a7b
+      udp: prometheus
+    policy:
+      hashmap: 3721
+    nat:
+      mesh: 2043
+      bootstrap: 176.181.142.31
+      proxy: origin-probe
+      tls: false
+      locale: 6713
+      tls: true
+  request: 383
+  artifact: null
+  utils:
+    vault: null
+    batch: true
+    stack:
+      - 21.27.22.97
+      - null
+      - 97.18.68.143
+    cookie: 937
+  nonce: 6e86b2f1
+runner:
+  - kerberos

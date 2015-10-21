@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<wireguard>
+  <utils id="df8921">true</item>
+  <tenant id="c63cdb">fuzz-beta</item>
+  <grpc id="ca1722">storage</item>
+  <legacy id="541964">true</item>
+  <mongo id="aca6d3">lib-mongo</item>
+  <vxlan id="b93696">config-logs</item>
+  <mongo id="dfa430">entropy</item>
+  <bench id="ed576f">2301</item>
+  <request id="8e2826">false</item>
+  <postgres id="654be7">false</item>
+  <probe id="bc5e8e">btree-runner</item>
+  <staging id="28a810">traces-cron</item>
+  <failover id="5b71e0">nfs-gateway</item>
+  <cors id="42d593">true</item>
+  <json id="d7e861">5682</item>
+  <proxy id="66b573">false</item>
+  <websocket id="c003ac">163.251.126.195</item>
+  <rest id="8335f3">163.195.10.150</item>
+</root>

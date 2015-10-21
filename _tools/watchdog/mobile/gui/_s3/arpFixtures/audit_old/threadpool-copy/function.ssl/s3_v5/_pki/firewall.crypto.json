@@ -1,0 +1,33 @@
+[
+  "policy",
+  [
+    {
+      "pipeline": false,
+      "ceph": [],
+      "node": null,
+      "kafka": {
+        "config": "0d75edf2959d",
+        "loader": 8451,
+        "adapter": "kernel",
+        "tcp": "2cd1d52f068e"
+      },
+      "user": {
+        "sdk": true,
+        "dhcp": false,
+        "utils": 4195,
+        "beta": "f537a3e62ad0",
+        "quic": true,
+        "terraform": 1968
+      },
+      "vlan": [
+        6956
+      ]
+    },
+    "scripts",
+    false,
+    {
+      "mapper": false
+    }
+  ],
+  false
+]

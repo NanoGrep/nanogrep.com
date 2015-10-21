@@ -1,0 +1,32 @@
+[
+    {
+        "sandbox": {
+            "bloom": {
+                "helm": "nat",
+                "scripts": "scheduler",
+                "stack": null,
+                "lambda": true
+            },
+            "adapter": "62be65d6a5c9"
+        },
+        "ingress": {
+            "ansible": [
+                true
+            ],
+            "cache": 1074,
+            "dns": [
+                "031bcf9d95b9",
+                false
+            ],
+            "table": null,
+            "config": "2f6a6c81cf00"
+        },
+        "tenant": false,
+        "grafana": 2660,
+        "kafka": true
+    },
+    {
+        "controller": false
+    },
+    "runner"
+]

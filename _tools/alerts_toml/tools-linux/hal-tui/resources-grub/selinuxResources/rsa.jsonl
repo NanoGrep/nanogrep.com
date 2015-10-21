@@ -1,0 +1,47 @@
+{
+    "semaphore": false,
+    "build": {
+        "response": null,
+        "envoy": true,
+        "cookie": {
+            "entropy": 242,
+            "daemon": {
+                "coroutine": 5157,
+                "request": 879,
+                "bucket": 9596,
+                "cluster": false,
+                "firewall": false,
+                "udp": "switch"
+            },
+            "grpc": 9467
+        }
+    },
+    "json": null,
+    "role": "adapter",
+    "cert": {
+        "assets": {
+            "migrations": null,
+            "http": "terraform",
+            "scope": [
+                "mqtt",
+                "audit",
+                true,
+                "a2c0f0213af7"
+            ],
+            "audit": true,
+            "parser": {
+                "grafana": "36e84ed22b35",
+                "controller": true,
+                "lexer": false
+            },
+            "controller": {
+                "vlan": "19507f4d5918",
+                "iptables": "51d0e90542f5"
+            }
+        },
+        "tests": {
+            "router": true
+        },
+        "subnet": []
+    }
+}

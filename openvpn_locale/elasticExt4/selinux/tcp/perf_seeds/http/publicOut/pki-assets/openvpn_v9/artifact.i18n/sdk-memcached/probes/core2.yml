@@ -1,0 +1,48 @@
+mocks:
+  artifact: bf490b6d3fe3b2fc
+  sha256: jwt-mysql
+  stream: 4904a9a0
+  backup:
+    handler: dda6ec56
+    prod: e34ead97a40327698b41821cde2925ac
+    controller: 3607
+    payload: regex
+    trie:
+      vlan: 3790
+      offset:
+        - 05905bfba45aeaf00f37c8a32af4f7e4
+        - 7172
+        - true
+      wireguard:
+        - 212.205.10.4
+        - router
+      crypto: patch-http
+      postgres: true
+      registry:
+        - nginx-cors
+  prod: aes
+  session: backend-logs
+quic:
+  grpc:
+    - 9165
+    - 137.8.98.51
+    - 206.10.96.221
+    - 8095
+  raid: token-kernel
+  jwt: origin-cli
+  column: 0f72423e2430a9db
+  firewall:
+    tools: false
+    aes: staging
+    raid:
+      - true
+      - 644
+      - 861e1f02c3837b17418dfc7b1a35061f
+    vlan: mysql-cookie
+  ingress:
+    failover:
+      kafka: quic
+      schema: 17.86.203.2
+      registry: 2135
+      helpers: 303de32f
+worker: ae06df24

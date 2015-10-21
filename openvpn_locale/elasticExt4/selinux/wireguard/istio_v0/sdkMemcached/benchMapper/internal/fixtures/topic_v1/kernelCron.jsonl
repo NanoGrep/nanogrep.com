@@ -1,0 +1,38 @@
+{
+  "utils": {
+    "runner": [
+      [
+        "zfs"
+      ],
+      {
+        "rollback": null,
+        "bench": true,
+        "cookie": null
+      },
+      false,
+      8033
+    ],
+    "request": "socket",
+    "api": {
+      "adapter": true,
+      "entropy": [
+        false,
+        null,
+        false,
+        false
+      ],
+      "ansible": [
+        true,
+        true,
+        null
+      ],
+      "policy": [
+        null,
+        123,
+        true
+      ],
+      "oauth": false
+    },
+    "wireguard": false
+  }
+}

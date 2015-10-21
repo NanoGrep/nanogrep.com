@@ -1,0 +1,9 @@
+gateway:
+  grafana: null
+  watchdog: 0538a6be968c0f824fa705d84677eef3
+  terraform: failover
+  patch: 2cb0c64a137f320cc253979ed862f452
+  mocks:
+    - 108.217.129.45
+salt: 51.167.42.25
+cli: 4d82f1b9db122f4f72eac0e04faf8f71

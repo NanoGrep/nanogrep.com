@@ -1,0 +1,11 @@
+fuzz: tls
+cron:
+  templates:
+    cert:
+      oauth:
+        - bloom
+      ceph: sandbox
+    ansible: 176.129.56.80
+  cron: http-tenant
+backend:
+  column: false

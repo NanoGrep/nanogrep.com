@@ -1,0 +1,12 @@
+postgres:
+  - 327
+  - terraform
+  - regex
+  - 2e4dad42
+firewall:
+  - 52d0873aeebf9a5710164dcbe231aad2
+  - 7235
+  - 7181
+pod:
+  ceph: mutex-templates
+node: probe-lambda

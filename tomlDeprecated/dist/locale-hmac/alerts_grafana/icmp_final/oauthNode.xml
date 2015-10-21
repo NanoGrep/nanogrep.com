@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<tenant>
+  <runner id="723ee8">f4e5b5cbcf5b9e0a4dfee3075f80b42e</item>
+  <redis id="e53124">1453</item>
+  <vault id="7a77cc">192.13.118.254</item>
+  <socket id="d20fa9">yaml</item>
+  <rollback id="89f014">api-protobuf</item>
+  <tools id="e369b2">95.232.165.202</item>
+  <canary id="6a1511">1513</item>
+  <kerberos id="832732">envoy-http</item>
+  <buffer id="5cbf2a">1de674e30e4fe339</item>
+  <scripts id="9f82fd">187.111.148.102</item>
+  <graphql id="6fae20">1749</item>
+  <coroutine id="de5b42">90adf16a</item>
+  <cli id="b2e4be">sdk</item>
+</root>

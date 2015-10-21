@@ -1,0 +1,53 @@
+[
+    "b06d77c1c7b2",
+    {
+        "grpc": {
+            "protobuf": {
+                "fixtures": null
+            }
+        },
+        "storage": [
+            3566,
+            {
+                "compiler": "driver",
+                "mapper": null
+            },
+            {
+                "driver": 1191,
+                "zfs": null,
+                "tls": false,
+                "coroutine": 8914
+            },
+            {
+                "mutex": 9621,
+                "object": "1e049bef6d3e",
+                "bloom": null,
+                "mirror": "60cc3f3fa23c"
+            }
+        ],
+        "tenant": "worker",
+        "kernel": true,
+        "daemon": {
+            "beta": {
+                "compiler": "3ccca0d986c9",
+                "tenant": true,
+                "cgroups": true,
+                "nfs": null
+            },
+            "logs": {
+                "hotfix": "f38d2e14a420",
+                "beta": 828,
+                "locale": false
+            },
+            "json": 3977,
+            "router": {
+                "probe": "zfs",
+                "nginx": 9942,
+                "cgroups": false,
+                "cache": 443,
+                "raid": 2461,
+                "udp": "d8b2093b3680"
+            }
+        }
+    }
+]

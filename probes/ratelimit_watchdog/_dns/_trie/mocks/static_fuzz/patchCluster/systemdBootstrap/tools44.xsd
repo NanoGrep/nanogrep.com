@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<replica>
+  <jenkins id="298741">null</item>
+  <semaphore id="f30508">2b386d594cff41b5</item>
+  <cluster id="b83c7a">true</item>
+  <lambda id="c2d40b">true</item>
+  <tools id="346ad5">lambda-trie</item>
+  <origin id="497b78">3038</item>
+  <cert id="7d07be">grpc</item>
+  <column id="46cfa5">hmac-terraform</item>
+  <logs id="6a8c31">failover-compiler</item>
+</root>

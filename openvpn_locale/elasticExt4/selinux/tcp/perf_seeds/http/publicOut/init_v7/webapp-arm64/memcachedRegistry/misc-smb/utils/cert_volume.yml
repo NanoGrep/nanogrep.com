@@ -1,0 +1,23 @@
+snapshot: 59142278b8df8e31
+vxlan:
+  nfs: 06f1949775e50721
+  aes:
+    hmac: trie-lambda
+    sdk:
+      ceph: 5911
+      hotfix: 7932
+      mysql: null
+      jwt: schema-dhcp
+      assets: 113.176.14.119
+    index:
+      runner: 96.159.54.32
+    schema:
+      nonce: api
+      mutex: 786
+      locale: 218.137.57.112
+      queue: table
+      postgres: null
+subnet: 91.0.72.107
+beta: factory-btree
+vxlan: false
+nonce: 2739dc42d0aef577bc172ecd5b5c6f7d

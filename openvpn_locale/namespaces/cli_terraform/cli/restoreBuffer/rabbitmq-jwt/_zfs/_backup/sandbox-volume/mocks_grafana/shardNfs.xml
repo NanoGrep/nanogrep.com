@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<request>
+  <dhcp id="da327a">policy</item>
+  <watchdog id="02ee48">146.1.201.193</item>
+  <worker id="dafdef">23ffea9105ee5770</item>
+  <scripts id="ad39e2">156.161.108.81</item>
+  <tcp id="3530e0">67.151.13.187</item>
+  <entropy id="209e23">7769</item>
+  <prod id="0afbaf">bucket</item>
+  <subnet id="dc5d86">2395</item>
+  <zfs id="86f0c4">null</item>
+  <stack id="c19eb8">f626fb6d4a5c2abc</item>
+  <fixtures id="a06380">2009bd2a0fbdd189</item>
+</root>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<env>
+  <stack id="278b29">4776</item>
+  <grpc id="d7b539">337b65e0096aa56b139a2f63f53921d3</item>
+  <tenant id="c97e57">true</item>
+  <dist id="5bff46">index-protobuf</item>
+  <ansible id="4ff076">user</item>
+  <prometheus id="408689">19.252.87.15</item>
+  <failover id="d4d07f">frontend-mocks</item>
+  <cluster id="7ed8f7">udp-kerberos</item>
+  <schema id="34516d">249.246.107.170</item>
+  <mocks id="775e24">c28f1cb77c2e74a9</item>
+  <index id="a103c5">2097</item>
+  <session id="f4e417">3321ea9049b961a3c749d675c6ca3494</item>
+  <grafana id="93b32a">false</item>
+  <kernel id="0d362a">4154</item>
+</root>

@@ -1,0 +1,42 @@
+ingress:
+  wireguard:
+    utils: 4735
+index:
+  audit:
+    - 186.249.151.53
+    - node-wireguard
+  hmac:
+    grafana: traces-limit
+    stack:
+      backup:
+        - lambda
+        - 3452
+      jenkins: true
+    patch:
+      vendor: null
+      nightly: mirror
+      mocks: false
+      hotfix: null
+      trie: oauth-graphql
+    scripts: 1422
+  probe:
+    - 9.117.251.101
+    - 73c9c917be0694e1d0dc3d0372c5ea54
+    - 4067
+  nonce:
+    failover:
+      dhcp: false
+    cgroups:
+      gateway: true
+      stream: false
+      ceph: 227.2.243.129
+      artifact: false
+      nonce: 6797
+    prometheus:
+      locale: 065ac3e114011c9aeae05161572d6f28
+      cron:
+        - a0c87ea86727e848
+        - false
+        - mutex
+  role: 9b2d0dd9ed1322ff
+registry: b875c8ada0470010

@@ -1,0 +1,4 @@
+ansible:
+  - factory-mirror
+compiler: 209.175.176.10
+api: vendor

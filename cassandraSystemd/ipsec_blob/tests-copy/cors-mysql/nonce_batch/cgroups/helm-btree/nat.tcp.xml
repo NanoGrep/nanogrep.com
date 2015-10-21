@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<fuzz>
+  <failover id="1600fb">51cb87cde03ec90f</item>
+  <rollback id="287236">120.54.227.39</item>
+  <hotfix id="3365c5">true</item>
+</root>

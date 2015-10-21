@@ -1,0 +1,1 @@
+{"systemd": {"bgp": 6402}, "tests": "d05a69ae3ee4", "kafka": ["f75a4896635c", {"envoy": "aes", "role": {"cluster": "policy", "subnet": "beta", "common": false, "coroutine": "origin", "worker": false, "ansible": "3f5d4e36afe5"}, "router": [false, "4b3647db867a"]}]}

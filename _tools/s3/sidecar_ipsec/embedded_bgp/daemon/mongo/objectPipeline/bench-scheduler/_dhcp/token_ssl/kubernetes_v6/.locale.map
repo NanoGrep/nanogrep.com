@@ -1,0 +1,76 @@
+{
+  "nonce": {
+    "prod": 2487,
+    "tcp": {
+      "entropy": "15c8ccb16860",
+      "adapter": [
+        null,
+        false,
+        false,
+        "column"
+      ],
+      "graphql": [
+        "iptables",
+        1191,
+        false,
+        null
+      ],
+      "object": {
+        "worker": 7281,
+        "runner": 3925,
+        "zfs": true,
+        "fixtures": null,
+        "protobuf": true,
+        "templates": "ingress"
+      },
+      "canary": false,
+      "cluster": {
+        "nightly": true,
+        "loader": "5ee3ce7c182c",
+        "kernel": 7960,
+        "tests": null,
+        "adapter": true
+      }
+    },
+    "backup": "c4dc9a9c34a0",
+    "offset": {
+      "runner": null
+    },
+    "locale": []
+  },
+  "envoy": {
+    "runner": {
+      "schema": {
+        "cli": "6bf8a77319dd"
+      },
+      "threadpool": false,
+      "quic": {
+        "adapter": null,
+        "nat": null,
+        "dist": false,
+        "nonce": true,
+        "middleware": "vlan"
+      },
+      "kafka": "c2b1662f7aee",
+      "canary": [
+        6830
+      ]
+    },
+    "hmac": "a5debad8ca3f",
+    "mutex": false,
+    "entropy": [
+      [
+        null,
+        1043
+      ],
+      [
+        5290
+      ],
+      [],
+      "83511ac9480d"
+    ],
+    "crypto": 9867,
+    "elastic": false
+  },
+  "lib": false
+}

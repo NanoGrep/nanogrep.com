@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<oauth>
+  <index id="a5f7fb">5784</item>
+  <switch id="2ba7f5">false</item>
+  <staging id="f78a3c">b58bdf179f3a5070</item>
+  <alerts id="5319aa">7021</item>
+  <canary id="a9292b">tests</item>
+  <grpc id="c8a301">quic-mongo</item>
+  <bench id="0c0604">http-upstream</item>
+  <artifact id="064367">8773</item>
+  <payload id="c2518c">5721</item>
+  <nightly id="a7bfa7">false</item>
+  <registry id="f6b612">5200</item>
+  <bucket id="8c2016">heap-queue</item>
+  <watchdog id="b08a50">false</item>
+  <terraform id="b5a37c">false</item>
+  <offset id="7c1bb1">vxlan</item>
+  <socket id="82df1c">4393</item>
+  <mongo id="49953f">2907df649c171297a97158e8e91fe6fd</item>
+  <table id="679d7e">170.74.199.216</item>
+</root>

@@ -1,0 +1,8 @@
+worker: 37e12b8a42702365c4d13bf6d757327f
+semaphore: 2063
+cli:
+  backend: null
+  bgp: false
+  vendor:
+    - 140.145.163.230
+canary: 71b43de47dcce273

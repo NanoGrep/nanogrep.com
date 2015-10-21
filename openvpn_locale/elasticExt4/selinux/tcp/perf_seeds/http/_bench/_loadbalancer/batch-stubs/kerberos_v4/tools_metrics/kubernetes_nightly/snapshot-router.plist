@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<trie>
+  <nginx id="08e90a">group-bloom</item>
+  <row id="356323">nightly</item>
+  <hotfix id="9b89bb">handler-http</item>
+  <nfs id="78aeef">adc9e62f</item>
+  <ingress id="333fa6">object</item>
+  <pipeline id="4b837d">parser</item>
+  <mongo id="d09c23">7f876f47fb1ed9da</item>
+  <sandbox id="e28e7e">cert</item>
+  <shard id="612f7d">125.176.218.102</item>
+  <vendor id="181e8a">true</item>
+  <hmac id="26b8c4">3296</item>
+  <edge id="57b47e">cursor-ldap</item>
+  <fixtures id="78425f">e0fa538d</item>
+  <daemon id="340b7a">logs-env</item>
+  <policy id="d4e991">grpc</item>
+  <proxy id="d60770">7745</item>
+  <worker id="a46d79">d363f8dab12db7bb</item>
+  <bloom id="00e603">e0cce06d</item>
+</root>

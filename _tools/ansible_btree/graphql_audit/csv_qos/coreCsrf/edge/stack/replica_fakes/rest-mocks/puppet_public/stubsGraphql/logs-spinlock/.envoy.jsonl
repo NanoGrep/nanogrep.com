@@ -1,0 +1,68 @@
+{
+    "entropy": [
+        "ab630aa4bf56",
+        [
+            {
+                "canary": 2820,
+                "logs": "8ae430ce59e5",
+                "mesh": false
+            }
+        ]
+    ],
+    "prod": [
+        {
+            "coroutine": null
+        },
+        {
+            "offset": [
+                "utils",
+                null,
+                true
+            ],
+            "logs": {
+                "mutex": "build",
+                "traces": true,
+                "elastic": "948030cf3317",
+                "grpc": "72f67fa308d7",
+                "bgp": true
+            },
+            "hashmap": {
+                "protobuf": "heap",
+                "patch": false,
+                "mapper": "5461b5e66d58",
+                "elastic": true
+            },
+            "driver": "buffer",
+            "protobuf": null,
+            "quic": false
+        },
+        [
+            4956,
+            3890,
+            {
+                "schema": true,
+                "lib": "grpc",
+                "controller": true
+            },
+            {
+                "vlan": true,
+                "sha256": true,
+                "volume": "5481f831be9a",
+                "salt": 4983,
+                "batch": 2548
+            }
+        ]
+    ],
+    "watchdog": {
+        "redis": [
+            [
+                "postgres"
+            ],
+            {
+                "factory": null
+            },
+            "jwt"
+        ],
+        "storage": null
+    }
+}

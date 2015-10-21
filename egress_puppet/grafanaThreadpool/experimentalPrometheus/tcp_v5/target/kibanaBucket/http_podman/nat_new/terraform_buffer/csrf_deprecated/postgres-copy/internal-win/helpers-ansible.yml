@@ -1,0 +1,43 @@
+assets: failover-redis
+vault:
+  jwt: true
+  stack:
+    row: 3251
+    middleware:
+      - row
+      - pod-sandbox
+      - 118.104.228.52
+      - 110.192.248.62
+  rollback: ansible-helpers
+  failover: true
+  oauth:
+    dist: 4021d7293d8ddfe0
+  hmac:
+    rollback:
+      traces: 9065
+    sdk:
+      backend: 214.247.91.226
+      batch: 7773
+      token: c5d67cb92f58f98f6b0e31e656db330d
+      sandbox: sdk
+      user: 67.197.127.122
+      limit:
+        - null
+        - metrics
+        - 9079
+    buffer: cors
+    terraform: 197.98.20.26
+    mesh: traces
+    lib:
+      hashmap: ingress
+      aes: 247.95.149.82
+      runner: 15f835fafa40ad43
+      mocks: null
+      cgroups: 5221
+      jwt: controller
+postgres:
+  migrations: null
+  cors: 0c9c83f28bffe9c6
+  hmac: 48.90.130.66
+  graphql: aes
+offset: 4e87f6f5

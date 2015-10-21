@@ -1,0 +1,24 @@
+compiler:
+  token: 27302cb3
+  helm: 8068
+  oauth: ca5b992547ae27fc
+  failover: false
+  vlan: 2915
+  index:
+    bootstrap:
+      - 122.28.22.25
+      - worker-threadpool
+      - 140.116.209.48
+    metrics: true
+    session: 3c328726
+    btree: 90.45.161.178
+    schema: 1498
+    stack:
+      rollback: a23116d2
+      driver: regex-backend
+      release: false
+      controller: index
+      replica: 66.81.30.147
+terraform:
+  - false
+  - buffer-prometheus

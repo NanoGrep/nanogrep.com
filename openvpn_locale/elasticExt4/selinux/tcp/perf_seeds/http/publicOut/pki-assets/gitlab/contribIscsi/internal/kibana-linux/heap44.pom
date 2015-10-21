@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<scripts>
+  <config id="c0e21e">hashmap</item>
+  <edge id="af7011">277ed9aeceff806a</item>
+  <storage id="3f176a">semaphore</item>
+  <role id="4f5c48">index-sandbox</item>
+  <postgres id="012697">lambda</item>
+  <hmac id="817ba8">93.38.63.37</item>
+  <envoy id="70965e">socket</item>
+</root>

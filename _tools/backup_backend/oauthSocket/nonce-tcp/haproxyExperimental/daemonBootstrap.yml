@@ -1,0 +1,4 @@
+oauth:
+  middleware:
+    vault: cron
+  vendor: traces

@@ -1,0 +1,38 @@
+tcp:
+  - 1727
+  - 6162
+  - false
+nonce: queue-hmac
+templates:
+  systemd:
+    hashmap: 137.58.100.123
+    logs:
+      locale:
+        - 9eb3d4a0c2ce58a9c99af14d021ebc39
+        - false
+        - 404
+      service:
+        - 9ad9252c
+        - 113.164.135.11
+        - json-cli
+      rollback: 4234
+      jenkins: vxlan-mirror
+      trie: 152.38.48.219
+    postgres: 119.34.37.24
+    bench:
+      core:
+        - 8722
+        - cors
+        - df721bdf14018906
+        - pipeline
+      trie: 109.196.123.247
+      traces: heap
+  tenant: true
+  router:
+    - batch-backend
+    - 4d57b5d9
+    - regex-pipeline
+  vault: firewall-ansible
+tenant: 8283
+sandbox: bb0726e6644cc3a5
+service: 70.216.67.96

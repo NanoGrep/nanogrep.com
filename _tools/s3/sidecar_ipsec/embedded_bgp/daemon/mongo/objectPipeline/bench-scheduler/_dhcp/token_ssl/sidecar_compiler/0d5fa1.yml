@@ -1,0 +1,21 @@
+sandbox: d3615af358e5ef71
+tcp:
+  kerberos:
+    staging: 1970
+    dns:
+      terraform: 97.40.54.212
+      sandbox: 84d6fedc7f45a46d3a1db09c8bdd9e5f
+      yaml: 7dd9eafb4495038f
+      cgroups: metrics
+      tls: 29.44.144.175
+    firmware:
+      utils: 183.235.91.175
+      config: 1084
+      index: null
+  policy: patch-vlan
+queue:
+  - 8777
+  - 0bd2cb9f
+  - d9ddbad7fc32fe892fb15094015a6f01
+  - loader
+cert: 7465

@@ -1,0 +1,39 @@
+offset:
+  cookie: 248.34.49.132
+  sdk:
+    json:
+      coroutine: 2169
+      helm: 112.245.164.50
+      object: 8116
+      schema: false
+      registry: 162.146.74.120
+      backup: true
+  sha256:
+    role: frontend-rsa
+  loader: switch-grafana
+  driver: systemd
+  upstream: 50b6c92aead739df135697a3cc8a7e43
+hotfix:
+  origin: 29fafb78
+  common: ldap
+  gateway: b5df3a82386aa0131f358c1a107f7495
+  subnet:
+    stream:
+      edge:
+        - 42.190.179.151
+      api: 3350
+    object:
+      raid:
+        - index
+        - mocks
+        - 6146
+      fixtures: schema-api
+      tenant: prod
+      semaphore: driver-api
+      env: payload-heap
+    cert:
+      buffer: 73.209.75.30
+      gateway: 1ede81eaf654e826
+      migrations: dba22458
+      batch: 2848
+  nightly: false

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<terraform>
+  <response id="56f5d2">payload</item>
+  <ldap id="2cb622">48.179.103.125</item>
+  <elastic id="d68966">crypto-systemd</item>
+  <grafana id="71df0c">coroutine</item>
+  <runner id="eeff2e">tools-topic</item>
+  <bucket id="bd67f0">237.242.69.138</item>
+  <session id="ade34d">141.218.246.200</item>
+  <hashmap id="179b0d">false</item>
+  <failover id="2eb25b">probe-socket</item>
+  <sdk id="0ee983">hashmap</item>
+  <tests id="072b0b">116.180.234.31</item>
+  <middleware id="957906">f12aa07ca3200e35</item>
+  <bucket id="9e34b2">mysql-semaphore</item>
+  <mapper id="47145e">70.154.187.193</item>
+  <jwt id="81592c">805a4c87</item>
+  <lexer id="2aa54d">buffer-rsa</item>
+  <threadpool id="248717">jwt</item>
+  <factory id="d829ef">94.77.251.13</item>
+  <hotfix id="2238c6">false</item>
+  <bucket id="b29d49">canary-quic</item>
+</root>

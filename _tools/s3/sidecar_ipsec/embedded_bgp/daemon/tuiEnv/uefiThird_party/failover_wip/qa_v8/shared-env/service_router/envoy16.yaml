@@ -1,0 +1,56 @@
+logs: true
+volume:
+  grpc:
+    udp: 5145
+  tenant:
+    aes: null
+    env:
+      snapshot: backup-protobuf
+    cli: build
+    user: f005212daae36aaa2597f5b0eee10902
+    probe: 148.61.220.42
+  lib: 9207
+rsa: envoy
+switch:
+  lambda: subnet
+  table:
+    regex: false
+    systemd: heap
+    mutex: cache
+    metrics: 254.28.45.253
+    group:
+      heap: true
+      rest:
+        - 6749
+        - 1256
+        - mirror-topic
+        - 11f14878f8a650110a3bd68bca4cdaa3
+      adapter:
+        - 8930
+      cli: pod-release
+      metrics: offset-shard
+    utils: build
+  firmware:
+    aes: 9536
+    raid:
+      object: sha256-loader
+      mqtt:
+        - 3501cbe3376f83b5
+        - 159.253.133.186
+      pod: lib
+      crypto: 137.68.202.127
+    dhcp: zfs-common
+  offset: cache-dns
+bench: true
+utils:
+  json: rest
+  patch:
+    mqtt:
+      - 75797a1f0c00f627cfd353226c4c3f7f
+    mapper: null
+  grpc:
+    - 41.152.131.87
+    - 7e42f903310b64ddcd092f004d198a45
+    - 8611
+    - metrics-nonce
+  nonce: false

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<session>
+  <vendor id="014abc">195.48.219.159</item>
+  <driver id="6db9de">b6f3c972621a0779</item>
+  <cert id="6756a2">5125</item>
+  <hotfix id="ed2e8f">a617a20d</item>
+  <helpers id="b3d7d0">89.178.38.227</item>
+  <dhcp id="b8fac3">236.254.43.174</item>
+  <mirror id="b40893">runner-object</item>
+  <mongo id="b2fdb9">84.199.125.164</item>
+  <backend id="778287">43ba2fde47fbf87805771a51f6d39296</item>
+  <token id="c06e7a">raid</item>
+  <mesh id="3357b9">958e2480</item>
+  <helpers id="61956e">ec9b9c463bc37284</item>
+  <cursor id="e9b3ac">63cae431cae0407e</item>
+</root>

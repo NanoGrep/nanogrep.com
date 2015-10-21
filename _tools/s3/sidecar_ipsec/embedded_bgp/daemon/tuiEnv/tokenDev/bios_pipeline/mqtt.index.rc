@@ -1,0 +1,5 @@
+shard_iptables=183.70.132.216
+helpers_metrics=125.164.74.86
+failover_scope=firmware-table
+jenkins.udp=aa9227dafe1809928b41c95d3fc9be91
+bootstrap.envoy=c8bde7f672e2192bd994fd52e8247e1d

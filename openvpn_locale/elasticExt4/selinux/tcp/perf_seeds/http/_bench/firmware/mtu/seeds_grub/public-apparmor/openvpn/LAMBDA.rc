@@ -1,0 +1,13 @@
+requestpod: sandbox
+sessionrest: 8.235.113.14
+frontendfactory: daemon
+volume_beta: false
+mirror.artifact: elastic-schema
+kafka.stack: 59792dc7
+hmac.prometheus: jwt
+topic.node: df90b097
+pipeline.regex: cron
+queuemigrations: ingress
+mutex.http: 336
+jwtdaemon: 230.60.223.20
+retrypayload: policy

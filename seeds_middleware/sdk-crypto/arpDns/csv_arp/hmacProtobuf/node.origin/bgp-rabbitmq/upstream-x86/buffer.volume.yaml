@@ -1,0 +1,4 @@
+graphql:
+  upstream: 104.117.197.252
+vlan: iptables-worker
+sdk: false

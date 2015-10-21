@@ -1,0 +1,14 @@
+frontend: 2418
+mocks:
+  entropy:
+    cgroups: 47bb320a7a3040308307e520c0986847
+    jenkins: true
+  offset: true
+  mutex:
+    adapter: grafana
+    node: false
+    offset:
+      - 9590
+    worker:
+      mirror: false
+  mongo: 9448138b80366518

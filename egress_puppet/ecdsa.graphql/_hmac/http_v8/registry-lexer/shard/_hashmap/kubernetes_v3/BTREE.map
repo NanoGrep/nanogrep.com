@@ -1,0 +1,94 @@
+{
+  "lib": 3115,
+  "backend": [
+    false,
+    {
+      "wireguard": "locale",
+      "compiler": true,
+      "tests": 1284,
+      "terraform": {
+        "request": "helpers",
+        "nat": true
+      }
+    },
+    3843,
+    [
+      [
+        true,
+        null,
+        false,
+        "iptables"
+      ],
+      true,
+      {
+        "ceph": "middleware"
+      }
+    ]
+  ],
+  "helpers": [
+    [
+      {
+        "crypto": null,
+        "vxlan": true,
+        "factory": false,
+        "buffer": "1f663981479d",
+        "prod": "8d936083037f",
+        "graphql": null
+      }
+    ],
+    [
+      {
+        "fixtures": "fdd0f9d190fc",
+        "assets": "logs"
+      },
+      {
+        "raid": true,
+        "frontend": "backend",
+        "sdk": 4195
+      },
+      [
+        false,
+        "fa61eb2cb0ea",
+        "legacy"
+      ]
+    ],
+    {
+      "build": {
+        "jwt": "a1d01438a8aa",
+        "bucket": true,
+        "firewall": "481cd68b9e35"
+      },
+      "release": {
+        "backup": true,
+        "common": 4148,
+        "metrics": null,
+        "legacy": "config"
+      },
+      "audit": [
+        "e126ca2a9b38"
+      ],
+      "cgroups": {
+        "elastic": "5870dfdb03e1",
+        "shard": "2b22e18f3ed6"
+      },
+      "terraform": "fixtures"
+    },
+    [
+      "policy",
+      [
+        true,
+        false
+      ]
+    ]
+  ],
+  "shard": {
+    "fixtures": [],
+    "vendor": 9393,
+    "beta": {
+      "prod": [
+        "2c57391041d9"
+      ],
+      "tests": true
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[udp]
+restprotobuf = ldap
+graphqlfactory = 740
+
+[fuzz]
+cookie.node = 241.142.238.153
+limitparser = ef86f981a5a0ac0d2a3e6d94f68189dd
+adapter_staging = 6502
+beta_parser = locale
+podartifact = watchdog-nightly
+bootstrap.rest = 137.82.105.136
+sandboxnfs = 6270
+object_envoy = registry
+utilssandbox = false
+releaserollback = dhcp
+tests.tenant = 7509
+volume.cert = 199.159.9.233
+pipelinetools = 1468
+cronqueue = nightly
+request.object = websocket-switch
+mesh.locale = ldap-bench
+utilsnfs = dist
+factory.shard = coroutine-bootstrap
+registry.cors = jenkins-nonce
+systemd.batch = compiler
+ansible.fuzz = 4306
+ansible_object = jenkins
+bloom_session = 164.248.172.73
+adapter.audit = 387
+subnet.node = raid
+kerberos_object = 132.72.111.252
+cache.service = 5470
+cache.cache = config-queue
+saltrelease = 7.49.247.99
+workerheap = 56.89.120.48

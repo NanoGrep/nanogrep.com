@@ -1,0 +1,18 @@
+stream:
+  oauth: 5864
+  threadpool: 9894
+  router:
+    tenant:
+      service: b0fbb417782c017c77c6d0d8323f2fac
+      hmac: null
+  registry: 235.44.204.177
+  nightly: elastic-handler
+  node:
+    user: router
+    nonce: 12
+payload: 418387f8
+cert: 1417
+stack: null
+switch:
+  router: factory
+prometheus: core

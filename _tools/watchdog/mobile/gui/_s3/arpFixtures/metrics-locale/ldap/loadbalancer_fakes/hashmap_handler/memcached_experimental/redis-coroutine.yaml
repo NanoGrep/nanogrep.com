@@ -1,0 +1,78 @@
+tcp: 6084
+scope: null
+nfs: true
+mirror:
+  stream: btree
+  systemd:
+    bgp:
+      index:
+        - 371c7437
+        - 36e8d9f4
+        - true
+      vxlan: 3766
+    mqtt: 229.206.211.240
+    mutex: 7076
+  nfs: dist-kernel
+templates:
+  - stream
+  - 6580
+  - 32.80.182.219
+  - offset
+stream:
+  shard: pod-loader
+  cookie:
+    vendor: fixtures
+    vlan: nfs
+    redis:
+      - heap
+      - heap
+      - salt-mongo
+      - 98.154.105.1
+    cgroups:
+      topic: 59.67.35.135
+      daemon: tools
+      migrations:
+        - 4c033fa8f33e00615feb2c298bd02039
+    postgres:
+      oauth: vlan
+      bloom: false
+      parser: 4329538f11613505
+      http: role-sdk
+      snapshot: frontend-tcp
+      sandbox: 8a3110e286cc22297408eac9dbdd9e7c
+    column:
+      vault: 599
+  canary:
+    - hmac
+    - 187.101.251.154
+  bloom: 6952
+  watchdog:
+    postgres:
+      - null
+      - c7fe103a
+      - oauth-fuzz
+    driver:
+      helm: 36.195.250.204
+    object:
+      - 1657
+      - false
+      - f6ab3ae81d03162a7c6fcdd019a0fe70
+    user: 4c9626d3bdfa1a21
+    pod:
+      iptables: sha256-parser
+      cache: 20.126.50.91
+      ingress: middleware-audit
+      helpers:
+        - null
+        - true
+        - 9168
+        - 5430
+  pipeline:
+    scheduler: true
+    aes: redis-parser
+    firewall:
+      - heap-jenkins
+      - false
+      - f7c1fb4ac51d8d73ff81509925444183
+    staging:
+      zfs: null

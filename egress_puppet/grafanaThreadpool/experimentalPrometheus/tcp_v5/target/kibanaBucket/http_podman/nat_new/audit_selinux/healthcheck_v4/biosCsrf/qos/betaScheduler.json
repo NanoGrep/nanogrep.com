@@ -1,0 +1,31 @@
+[
+    [
+        8048,
+        {
+            "hashmap": "systemd",
+            "beta": null
+        },
+        [
+            [
+                false
+            ],
+            3665,
+            null,
+            null
+        ],
+        {
+            "crypto": {
+                "subnet": false,
+                "jenkins": 8017
+            },
+            "systemd": {
+                "replica": true
+            },
+            "index": [
+                false,
+                false,
+                true
+            ]
+        }
+    ]
+]

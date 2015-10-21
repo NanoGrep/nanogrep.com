@@ -1,0 +1,109 @@
+{
+  "schema": [
+    "de72c64f3f87",
+    []
+  ],
+  "templates": {
+    "threadpool": [
+      true,
+      "offset"
+    ],
+    "entropy": {
+      "watchdog": {
+        "cert": false
+      },
+      "release": false,
+      "stream": "protobuf"
+    },
+    "policy": {
+      "runner": 7248,
+      "legacy": false,
+      "service": [
+        null,
+        7893
+      ]
+    },
+    "hotfix": [
+      [
+        false,
+        null,
+        7646,
+        "compiler"
+      ],
+      "origin",
+      {
+        "mapper": false,
+        "release": null,
+        "controller": "4e9aa574f226",
+        "mysql": false,
+        "alerts": "storage",
+        "tools": null
+      }
+    ],
+    "nonce": "group"
+  },
+  "metrics": {
+    "lambda": {
+      "common": {
+        "shard": "47fc04a3619e",
+        "grpc": "release"
+      },
+      "release": null
+    },
+    "session": 3827,
+    "sandbox": [
+      {
+        "prod": false
+      },
+      {
+        "bootstrap": null,
+        "salt": false
+      },
+      false
+    ],
+    "dhcp": {
+      "jwt": [
+        true,
+        "grafana",
+        true
+      ],
+      "http": {
+        "sha256": "50b304ec3533",
+        "alerts": "4cc4fe292bc7"
+      }
+    },
+    "kernel": {
+      "systemd": {
+        "prometheus": 5361,
+        "dns": "runner",
+        "cron": true,
+        "cgroups": "2f2f2c9cd8c8",
+        "group": false,
+        "ingress": true
+      },
+      "coroutine": {
+        "templates": null,
+        "dns": "traces",
+        "threadpool": null,
+        "common": "core",
+        "protobuf": null
+      },
+      "topic": null,
+      "json": {
+        "middleware": true,
+        "origin": true,
+        "lambda": true,
+        "alerts": null
+      },
+      "rest": false,
+      "jwt": []
+    },
+    "staging": {
+      "tests": false,
+      "nat": "snapshot",
+      "origin": null,
+      "patch": null,
+      "raid": false
+    }
+  }
+}

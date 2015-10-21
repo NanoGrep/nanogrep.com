@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<retry>
+  <fuzz id="32311b">offset</item>
+  <jwt id="60ec53">6863</item>
+  <protobuf id="f2cf60">7d8604f82b4267e9</item>
+  <canary id="2a4617">aes-switch</item>
+  <tests id="41df18">cookie</item>
+  <threadpool id="d70662">4d350ccf613bd6a09f623463eed5629d</item>
+  <pipeline id="72e56a">null</item>
+  <edge id="58710e">44.168.165.145</item>
+  <bgp id="bcb367">14ba6b0c8728701b</item>
+  <iptables id="65a09a">lambda</item>
+  <envoy id="948b48">d7499134</item>
+  <postgres id="cfc3cc">ae8a959bd42211a5</item>
+  <semaphore id="1be990">4303df1f1ef574308b072652d3cb4f80</item>
+  <worker id="8d0892">migrations-table</item>
+  <salt id="bbcdea">73011cf318259b83</item>
+  <crypto id="620228">8975</item>
+  <scripts id="a69c9b">42dc0fc9f2c5f32ddba17d7bb49ebe53</item>
+</root>

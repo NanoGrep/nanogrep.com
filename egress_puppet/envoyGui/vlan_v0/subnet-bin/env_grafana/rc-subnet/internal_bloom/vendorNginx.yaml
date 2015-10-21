@@ -1,0 +1,8 @@
+middleware: bucket-ceph
+utils:
+  legacy:
+    - ingress
+    - handler-gateway
+    - 3544
+    - 1734
+  watchdog: 7993

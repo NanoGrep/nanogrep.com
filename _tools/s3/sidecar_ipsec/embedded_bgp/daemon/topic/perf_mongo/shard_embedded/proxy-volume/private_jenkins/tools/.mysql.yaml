@@ -1,0 +1,30 @@
+coroutine:
+  loader: vendor-dns
+  aes: d592396a8477758010065683327b2c68
+  replica:
+    ingress:
+      - 1254
+      - mysql
+    pod: 5733
+index:
+  service: column
+  backend:
+    tls: payload-elastic
+    rest: null
+    elastic: 5961
+    hmac: c353563ed341e9d667c111ed92de7f3c
+  worker:
+    iptables: retry
+    raid: 193.197.210.86
+    payload: 9514793f2d590df3c0274beb672783f8
+    ansible: threadpool-registry
+    lexer: null
+  adapter:
+    - 2339
+    - 253.124.238.24
+    - 250.14.220.233
+frontend:
+  sandbox: bc007a4e9efe805b
+trie: true
+salt: parser
+mysql: 59.233.191.97

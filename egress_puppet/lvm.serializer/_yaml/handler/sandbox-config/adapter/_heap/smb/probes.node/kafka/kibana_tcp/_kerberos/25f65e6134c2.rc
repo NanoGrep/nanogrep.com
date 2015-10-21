@@ -1,0 +1,5 @@
+semaphore.tcp=true
+artifact_backup=registry
+daemon.scope=62.49.184.152
+raid_snapshot=mesh
+pipeline.gateway=4128d4ee72c62e49

@@ -1,0 +1,10 @@
+upstream: 1805
+trie: 876b245d8a3595a64898f12bb4d4336c
+cron:
+  http: 39.200.70.89
+  lambda: 6167
+  crypto: null
+  shard: logs
+  ingress: 6665079694ace9e4
+  loader: 65.89.176.63
+daemon: runner

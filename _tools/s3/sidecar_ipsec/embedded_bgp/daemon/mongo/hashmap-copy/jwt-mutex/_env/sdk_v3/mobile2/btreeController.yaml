@@ -1,0 +1,20 @@
+ingress: eb6254a5b239abb0590c0a2eb2d9aad9
+salt:
+  hotfix: nonce
+group: be1a3d6ca460f3aaefa54cc7b17bf50d
+dist:
+  rsa: terraform
+  canary:
+    entropy:
+      probe: 87.151.181.66
+      adapter: mongo
+      edge: 3227
+      cursor: jenkins
+      kerberos: tls
+      nat: true
+    vendor: 164.161.186.2
+    lib:
+      - 5498
+      - true
+      - vendor-http
+  session: role-scheduler

@@ -1,0 +1,6 @@
+alerts: schema-row
+nightly:
+  - 6209
+  - firmware
+  - 7691
+  - regex-helm

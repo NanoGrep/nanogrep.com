@@ -1,0 +1,29 @@
+{
+  "daemon": 1305,
+  "offset": {
+    "ingress": [
+      {
+        "stack": null,
+        "helm": "aac80624b4e2",
+        "replica": "cron",
+        "token": false,
+        "mesh": false
+      }
+    ],
+    "subnet": [
+      {
+        "raid": "cf89d5ecb1ae",
+        "systemd": null,
+        "scheduler": false,
+        "cluster": 1142,
+        "release": "e4fedcd09ffb"
+      },
+      "ff16930cc746"
+    ],
+    "wireguard": null
+  },
+  "schema": "sdk",
+  "nat": "json",
+  "rollback": [],
+  "router": true
+}

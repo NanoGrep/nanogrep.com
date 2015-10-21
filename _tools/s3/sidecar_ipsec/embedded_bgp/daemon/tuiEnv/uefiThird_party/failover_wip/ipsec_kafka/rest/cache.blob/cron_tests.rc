@@ -1,0 +1,86 @@
+[shard]
+hashmap.bloom = 7651
+salt_upstream = null
+dns.migrations = null
+tcp.node = 3a44581ce13da7b63de1231fd8447516
+zfstests = policy
+
+[postgres]
+snapshot.bgp = 179.13.7.35
+podrest = 9814
+schema_systemd = true
+wireguardwebsocket = wireguard-table
+artifact_replica = true
+socket.patch = 202.50.65.199
+scheduler.origin = e387472b3c4b350adfee69a0b9aaea1b
+worker_patch = 2b617756
+cookielambda = grafana
+aes.dns = 39.152.239.9
+gateway_utils = true
+failover_rollback = legacy
+metrics.gateway = cors
+crypto_api = storage
+cache_semaphore = loader
+gateway.migrations = null
+migrations.rest = mesh-wireguard
+nginx.row = null
+workerthreadpool = 172.25.1.9
+group.cookie = 2506
+firmware_cron = 4928
+vlan_replica = semaphore-redis
+graphql.registry = templates
+patch.cors = false
+mqtt_ingress = 4400
+dist.ldap = tests
+limit.driver = false
+alertsnightly = null
+postgres.env = kernel
+
+[edge]
+protobufiptables = 4187
+cron_semaphore = sdk-runner
+nonce.wireguard = 53.194.12.136
+fuzz_yaml = false
+userworker = response
+router_role = false
+mongo_cert = lexer-node
+driver.mocks = false
+pipeline_mongo = 9f2016aee2c13b1f
+assetshelpers = false
+trie_bench = 8226
+proxykernel = 5296f5a52c3d517e
+cert_release = 76ee30d3
+pod_common = bloom-router
+terraform_envoy = e29b5ae2ebc6eb3d
+tools.zfs = cors-cors
+
+[websocket]
+nginx.user = backend
+helm_fixtures = false
+artifact_stack = 389fcee22f3b7270be047638d543b933
+iptablesmiddleware = 76.198.160.236
+pod.sdk = 246.206.131.31
+tls.locale = 0b1747afdd9c116d
+middlewaresandbox = e08adc408412e2bb77dd5addf94539c7
+daemon.nightly = 264beff8
+
+[hotfix]
+sdk_hmac = driver-raid
+yamlmesh = 7074
+runnernonce = 4276
+cronworker = 3492
+gateway.mqtt = upstream
+driver.switch = 64.226.12.49
+gateway_common = btree
+adapter.beta = topic
+zfs_fixtures = true
+storageansible = 6331
+nginx_grpc = column
+sandbox.token = 1805
+cli_artifact = true
+upstream.tcp = 58.192.191.14
+object.nginx = 4103
+sandbox.edge = b089faf7af3fe8266f1db6332b2f0ef5
+socket.fuzz = 773e11aa703bee5cf07078c525896dbe
+frontendgraphql = 219.250.125.75
+mesh.staging = canary-pipeline

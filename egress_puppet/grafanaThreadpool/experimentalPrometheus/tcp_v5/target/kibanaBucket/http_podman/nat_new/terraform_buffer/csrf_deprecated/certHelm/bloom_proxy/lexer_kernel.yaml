@@ -1,0 +1,20 @@
+mongo:
+  controller:
+    config: snapshot-watchdog
+    lexer:
+      - salt-cgroups
+      - cli-nfs
+      - false
+      - 9978
+    kernel: false
+    object: true
+    artifact: btree
+  rsa: null
+  watchdog: 222.120.28.224
+  scheduler:
+    - 123.107.181.116
+    - 24.161.73.52
+    - 5297
+    - null
+  sdk: envoy-patch
+graphql: templates

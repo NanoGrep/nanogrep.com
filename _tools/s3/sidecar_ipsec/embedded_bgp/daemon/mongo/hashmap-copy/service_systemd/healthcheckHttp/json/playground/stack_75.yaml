@@ -1,0 +1,28 @@
+elastic: traces-snapshot
+stream: false
+iptables: locale
+json: 7984
+nightly:
+  envoy: false
+  cors: 6256fee506472a65bfe9ec0f9d4be9a6
+  mirror:
+    proxy: stack
+    controller: salt-volume
+    canary: 7690
+    json:
+      helm: 3597
+      nat: lexer-nonce
+      vendor: 157.141.34.107
+    nonce: null
+    mqtt: 9208
+cert:
+  table: mongo-zfs
+  http: true
+  vault:
+    watchdog: origin
+    envoy: ad96b3f81b7f0580
+    gateway: 7ab3c8a0e5f803c02bed59171bdb65b1
+    templates: service-build
+    cgroups: 4021
+    compiler: http
+  compiler: false

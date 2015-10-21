@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<runner>
+  <kafka id="fc9adf">94.131.235.74</item>
+  <gateway id="e003cf">5972</item>
+  <graphql id="9e9875">semaphore-vault</item>
+  <tools id="5654fe">9130</item>
+  <cluster id="1656ae">cache-runner</item>
+  <vendor id="62d6bc">5833</item>
+  <jenkins id="2626df">parser</item>
+  <tenant id="bb933f">lambda-service</item>
+  <watchdog id="46e946">payload</item>
+  <quic id="acaa6f">4589</item>
+  <entropy id="72bb2b">utils</item>
+  <compiler id="e83324">16.93.63.37</item>
+</root>

@@ -1,0 +1,52 @@
+{
+  "utils": {
+    "websocket": {
+      "adapter": {
+        "scheduler": null
+      },
+      "shard": 733,
+      "traces": "row"
+    }
+  },
+  "tests": "table",
+  "cors": {
+    "alerts": {
+      "api": {
+        "config": "2932d6f4d1da"
+      },
+      "prometheus": {
+        "user": "udp",
+        "hmac": "vault",
+        "grafana": null,
+        "helm": "9aaf3ba732fc",
+        "http": 4635
+      },
+      "tls": [
+        "7b8427a4d486"
+      ],
+      "utils": 3973,
+      "socket": {
+        "logs": "d5115c3ae005",
+        "grpc": "backup",
+        "table": null,
+        "bloom": "69d3fb2d3a22",
+        "buffer": "artifact"
+      },
+      "beta": "config"
+    },
+    "artifact": {
+      "rollback": {
+        "retry": 9937
+      }
+    }
+  },
+  "grafana": {
+    "gateway": 9205,
+    "storage": {
+      "cgroups": false,
+      "regex": {
+        "origin": false
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+build:
+  nat: true
+  scripts:
+    nonce: true
+    mocks: 605
+    mutex:
+      stack: 3381
+      regex: 156.11.159.124
+      quic:
+        - 1900
+        - daemon
+      metrics:
+        - true
+      cache: 6754
+      sdk: 43012625
+jwt: object
+policy: trie-mirror

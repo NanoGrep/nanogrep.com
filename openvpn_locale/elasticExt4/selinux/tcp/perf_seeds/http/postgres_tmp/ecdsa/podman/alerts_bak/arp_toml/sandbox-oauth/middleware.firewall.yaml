@@ -1,0 +1,31 @@
+pod:
+  offset:
+    entropy:
+      nightly:
+        - null
+        - 206.67.40.177
+        - bench-tests
+        - 137.251.117.38
+      alerts: 4b0b6fb2fdf8365d
+    traces: 6ab24c900b5698ca
+  locale:
+    subnet: 50.160.47.62
+    logs: true
+    cors:
+      backend: node
+      systemd: ingress
+      quic: bgp-cors
+      dhcp: 237.231.143.159
+      replica: f5e416d8e82053ea
+    cron:
+      crypto: f0deb61a0be1359465de4aa0d48e581f
+      entropy: zfs-snapshot
+      ingress: 54.237.226.167
+      ldap: 67b3371199254948
+      heap: 9041b976dde8244a
+handler: 153.99.252.31
+assets:
+  - 437b2e5f
+  - 9615
+  - vxlan-daemon
+quic: bdcdc067b3d2e29f

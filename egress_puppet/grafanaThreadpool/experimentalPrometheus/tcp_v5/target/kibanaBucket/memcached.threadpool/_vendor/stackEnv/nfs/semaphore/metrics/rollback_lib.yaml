@@ -1,0 +1,17 @@
+stack:
+  nfs: mysql-backend
+rollback: 975028f7da843fa7
+jwt:
+  probe: sha256-frontend
+  parser: semaphore
+  dist: 4900
+  bootstrap: common
+  shard:
+    - cgroups-legacy
+cli:
+  session: 7a90f83d3e61c6cccf38d94db3aa4ffa
+  mapper: scheduler
+  rollback:
+    - false
+    - null
+    - true

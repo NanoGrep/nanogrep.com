@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<scripts>
+  <subnet id="ee07e2">e3faf99218c9bd01</item>
+  <mqtt id="65f179">170.116.165.243</item>
+  <mirror id="a00e40">9392</item>
+  <backup id="b81523">22.240.39.217</item>
+  <postgres id="712f79">e14d3ab9c5ca8b910d514c53f2eb7b9f</item>
+  <table id="c999e8">true</item>
+  <wireguard id="807edd">semaphore-coroutine</item>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<metrics>
+  <dhcp id="b67bc4">metrics</item>
+  <beta id="c2d4b7">6128</item>
+  <ansible id="6571c4">scope-frontend</item>
+  <iptables id="356369">factory-audit</item>
+  <mqtt id="345d68">7123</item>
+  <nginx id="9a007d">54.64.114.17</item>
+  <fixtures id="b39516">191.50.26.44</item>
+  <dns id="0164d9">3929</item>
+  <prod id="31907f">da62fd222832b9a9</item>
+  <parser id="113197">hashmap-object</item>
+  <offset id="b2ee1d">2351</item>
+  <driver id="9c2fb4">group-quic</item>
+  <backend id="79a6f8">release-rest</item>
+  <mongo id="1ac09c">nightly</item>
+  <postgres id="d05c97">4312</item>
+  <yaml id="74834b">group</item>
+  <dhcp id="9031b2">4019</item>
+  <mesh id="522a32">b57f96e6c494ecf3</item>
+  <traces id="af41df">kernel-alerts</item>
+  <nonce id="75f3b4">3187</item>
+</root>

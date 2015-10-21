@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<fuzz>
+  <buffer id="2f5252">wireguard-parser</item>
+  <hotfix id="4cb65d">3916083b</item>
+  <table id="1dd71c">gateway-patch</item>
+  <vendor id="7cd5a7">true</item>
+  <backup id="a534d4">true</item>
+</root>

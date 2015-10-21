@@ -1,0 +1,12 @@
+group,rollback,salt,tcp
+group,nginx,prod-group,160.12.222.187
+queue,null,40e3a830db4425e020aa7cf6298629a9,90.243.107.209
+bootstrap-ldap,2177,4321,d6590141
+947bc0e491746613351aae7a404165fc,cc7cddab13140cc317ab9eaefbe200f9,origin-coroutine,null
+fuzz,graphql,kafka-logs,c9465bcf17ccc40f
+3427,64.244.194.225,577,aes
+null,user-worker,alerts-assets,8714
+8177,a6c0c515,a840318ff0b8b601,beta
+rollback,false,5056,canary-schema
+724,object-canary,aes,199
+136.75.93.72,158.161.126.57,null,6910

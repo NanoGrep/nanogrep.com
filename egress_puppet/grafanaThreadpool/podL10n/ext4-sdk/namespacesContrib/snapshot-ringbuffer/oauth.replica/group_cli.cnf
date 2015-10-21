@@ -1,0 +1,16 @@
+firewall_utils: cli
+lambda_backup: firewall-dns
+patch_fuzz: 164.194.166.83
+proxyrouter: mongo
+shard_cookie: true
+sha256_storage: nightly
+api.loader: 7bc2e617dbba1a17
+table_tcp: 9635
+cert.daemon: entropy
+policylogs: firewall
+graphql_cors: null
+alerts_frontend: true
+table_watchdog: 5980
+auditmirror: d17bfbb7da613d96
+coreworker: 6954
+patch.dist: locale-lambda

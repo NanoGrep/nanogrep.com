@@ -1,0 +1,56 @@
+{
+    "vault": [
+        {
+            "protobuf": true,
+            "stack": {
+                "tools": null,
+                "role": 7602,
+                "mysql": 4102,
+                "fixtures": "response"
+            }
+        },
+        "42b148fe1d75"
+    ],
+    "firmware": null,
+    "traces": {
+        "origin": null,
+        "cert": null,
+        "firmware": {
+            "pipeline": [
+                "1c9dd1187982",
+                6743,
+                "b326ea9de1de",
+                null
+            ],
+            "semaphore": {
+                "http": "config",
+                "oauth": false,
+                "cookie": false,
+                "grpc": null,
+                "subnet": 9162,
+                "jenkins": null
+            },
+            "policy": "tools",
+            "request": [
+                "42bc96902aaf"
+            ]
+        },
+        "hashmap": {
+            "mocks": [
+                "6bd22b70b275",
+                "40fa795f5fc9"
+            ],
+            "grpc": 14,
+            "backend": [],
+            "controller": {
+                "worker": null,
+                "schema": false,
+                "sandbox": 5110,
+                "firmware": true,
+                "canary": "scheduler",
+                "threadpool": "tls"
+            },
+            "audit": "limit"
+        }
+    }
+}

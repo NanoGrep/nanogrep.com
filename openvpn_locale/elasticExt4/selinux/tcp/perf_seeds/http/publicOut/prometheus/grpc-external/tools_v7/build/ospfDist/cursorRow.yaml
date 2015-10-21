@@ -1,0 +1,20 @@
+sdk: cursor
+rollback:
+  session: beta
+  vendor:
+    - 3915
+    - replica
+    - 1206
+  mapper: false
+  core:
+    stream: null
+    envoy:
+      gateway: 1993
+      ansible: null
+    ingress:
+      - 117.7.242.65
+    zfs: 9272
+    request: 6166
+  kernel: env-worker
+upstream: 1322
+config: f1e67629

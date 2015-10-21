@@ -1,0 +1,21 @@
+[policy]
+patch.scripts = true
+rest.role = 2813
+udp.tls = 165.179.119.36
+jwt.kernel = 48.141.60.119
+user.api = lib-vault
+ansible.utils = null
+frontend_api = group-origin
+backend_edge = 1b767803582c770a4eaebce565d6c87c
+lambda_volume = scripts-edge
+limit_retry = 189.251.170.108
+mqtt.batch = null
+nginx_scripts = controller
+disttcp = f114eb040e533342128f904de2f9a1f8
+artifact.semaphore = 135
+fuzz_ingress = migrations-assets
+cursorartifact = 8327
+objectansible = 176.252.28.141
+group_offset = elastic-mirror
+stream_kafka = tls-mysql
+indexpatch = false

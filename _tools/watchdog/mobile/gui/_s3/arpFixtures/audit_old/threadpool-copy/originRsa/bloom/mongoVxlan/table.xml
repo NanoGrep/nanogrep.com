@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<bucket>
+  <node id="ba71bb">7caac174d4bdbf191661aa7cfc106d99</item>
+  <pod id="3294a7">false</item>
+  <stack id="b263f0">null</item>
+  <payload id="ae9919">json</item>
+  <subnet id="bfae52">8e791c47a35eba4f</item>
+  <probe id="2ed939">semaphore-nonce</item>
+  <patch id="40b0a6">cb5eb3b4be330512</item>
+  <request id="20f32e">152.160.93.1</item>
+  <coroutine id="7c272a">nginx-replica</item>
+  <patch id="c1c2b6">mapper-bootstrap</item>
+  <regex id="a2f2c8">index</item>
+  <rest id="4dc576">sdk</item>
+  <utils id="79b1e6">null</item>
+  <mocks id="84d6b9">9670</item>
+  <nightly id="8b36cb">4593</item>
+</root>

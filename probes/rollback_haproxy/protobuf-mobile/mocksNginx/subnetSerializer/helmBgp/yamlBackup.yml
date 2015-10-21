@@ -1,0 +1,28 @@
+queue:
+  request:
+    quic:
+      alerts: 21.109.181.50
+      yaml: 177.11.143.126
+      handler: 25.38.60.180
+      nfs:
+        - scripts
+      backup:
+        - null
+        - 210.54.164.37
+        - metrics
+        - group-compiler
+      prod: storage-driver
+    iptables: false
+    upstream: 5824
+    nginx: 100.62.14.147
+  rsa:
+    edge:
+      - compiler
+      - env
+      - 9924
+  payload: 37.170.18.75
+nginx:
+  - null
+  - 5474
+table: 5e47edc8
+grpc: 242.115.5.160

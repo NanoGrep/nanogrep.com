@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<backup>
+  <kernel id="89e9f0">abda12713ece9a1780bb2796919e74c1</item>
+  <pipeline id="ee4dc2">6483</item>
+  <heap id="96d376">190.132.174.243</item>
+  <index id="95fd13">7639</item>
+  <payload id="b508f4">5090</item>
+  <offset id="39afa1">audit-origin</item>
+  <semaphore id="8e86c2">null</item>
+  <proxy id="1477fb">5b0aa5ab96b32a12</item>
+  <scripts id="9ffe7c">6527</item>
+  <heap id="e94f6f">staging-audit</item>
+  <rest id="2b48df">false</item>
+  <dns id="383dcc">systemd-handler</item>
+  <mesh id="579aff">5e4c2a296b7091e10c84cabcedfc3298</item>
+  <tests id="a69d7a">227.100.141.7</item>
+  <rest id="5a33c9">82ba56866687e0b571ad83ce4516817c</item>
+  <zfs id="2e09ea">failover</item>
+  <websocket id="ae8d16">6776d716fb2f333598d60f7a3f23d613</item>
+  <rest id="623824">c3bb3d6d4144b380c8d68a3edca8b293</item>
+  <redis id="cf4a7f">volume-loader</item>
+</root>

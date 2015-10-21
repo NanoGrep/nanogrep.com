@@ -1,0 +1,67 @@
+column:
+  - 72.229.174.248
+  - lexer
+  - aes
+switch:
+  - ceph
+  - 6276
+  - mysql-controller
+jenkins:
+  - 204.99.66.30
+token:
+  grafana:
+    session:
+      - replica
+      - 27fae8618180290c
+    grafana:
+      graphql: rsa-mongo
+      vxlan: 94.242.130.230
+      user: nat
+      mocks: 1536
+      grpc: 1048
+    mqtt:
+      factory: adapter
+      websocket: 228.201.53.174
+      nginx: 180.230.192.29
+  helm:
+    watchdog:
+      tests: group-nightly
+      utils: 3ba5e5a38da9535c
+      build:
+        - b17abb1abd6768fb92cb02494b938de8
+      firewall: column-api
+      bloom: cursor
+    router: ceph-oauth
+    udp: systemd
+    grafana:
+      handler:
+        - aes-firewall
+        - 173.110.203.73
+        - 139.194.53.143
+      shard: ansible
+      adapter: 3259
+    semaphore:
+      config: null
+      group:
+        - 140.217.226.77
+        - bgp
+        - table
+        - 6762
+      daemon: a6f15c7ee23f6a4a
+      postgres: 136.238.72.218
+      iptables: hashmap
+    fuzz:
+      group: 592
+      socket: alerts-tests
+      snapshot: 76.159.53.1
+      cache: artifact-bootstrap
+      runner: true
+  failover:
+    - null
+    - oauth-traces
+  mqtt: 4539
+  raid:
+    - dhcp-prod
+    - legacy
+index:
+  - 494

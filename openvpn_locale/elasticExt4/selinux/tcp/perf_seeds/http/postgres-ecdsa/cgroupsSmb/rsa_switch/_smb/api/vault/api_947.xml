@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<frontend>
+  <rollback id="bf4d0d">fuzz-bootstrap</item>
+  <cert id="fbdd07">fuzz</item>
+  <release id="57a2cf">52.44.139.66</item>
+  <group id="4adadf">97.11.101.179</item>
+  <limit id="8f730a">149.201.177.123</item>
+  <core id="958e51">false</item>
+  <terraform id="790980">7528</item>
+  <metrics id="9e7787">false</item>
+  <dhcp id="1f20ba">161.24.111.94</item>
+  <redis id="1239a4">null</item>
+</root>

@@ -1,0 +1,8 @@
+hotfix:
+  common: handler-sha256
+  tests: 64.31.71.173
+  bucket: ansible
+  kafka: true
+  response: null
+backend: 21a4b69b
+cli: 0a1e217fa34141c8

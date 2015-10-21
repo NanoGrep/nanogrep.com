@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<sandbox>
+  <factory id="7a5ae1">true</item>
+  <policy id="760e4a">buffer-scripts</item>
+  <mesh id="c4786e">1268</item>
+  <backend id="8a11e3">b718f5f2f783e4331347377cfacc3457</item>
+  <topic id="dc804b">true</item>
+  <user id="1d1b86">locale</item>
+  <edge id="34a354">68.94.234.51</item>
+  <core id="2e19cf">6756d717e791ad45bbad00fcf6310e20</item>
+  <nat id="c8eb8e">791bff17</item>
+  <fuzz id="b5bdda">true</item>
+  <storage id="17375e">column-crypto</item>
+  <snapshot id="d2e83d">eaf054e11034e51a</item>
+  <elastic id="6c4fcb">cluster-dhcp</item>
+  <mongo id="0a2bce">43.191.204.245</item>
+  <hmac id="4690c2">211.174.189.206</item>
+  <daemon id="cfd923">btree</item>
+  <stream id="c38e1f">wireguard</item>
+</root>

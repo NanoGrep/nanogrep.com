@@ -1,0 +1,11 @@
+sandbox: aee4416eb12de9a426e1b0ba5899e34d
+ansible:
+  hmac: e81527a3a749d26a58bdc27ea97f142b
+  mqtt: 6205
+vlan: 9e715ce9
+helpers: api
+cluster:
+  - cluster
+  - bcb6c865d9729c58
+  - 1923
+  - graphql

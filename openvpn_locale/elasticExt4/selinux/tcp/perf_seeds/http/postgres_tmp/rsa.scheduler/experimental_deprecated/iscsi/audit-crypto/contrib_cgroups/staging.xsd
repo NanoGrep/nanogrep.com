@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<firmware>
+  <patch id="190b44">queue-bloom</item>
+  <kerberos id="7cdd95">backend-audit</item>
+  <storage id="d8d63d">upstream-protobuf</item>
+  <kafka id="934e4c">driver-nightly</item>
+  <logs id="bd80bf">replica-failover</item>
+  <migrations id="002218">142.24.12.48</item>
+  <request id="20646f">6735</item>
+  <sandbox id="af61ad">48.105.183.109</item>
+  <grafana id="a6250f">5ea75d29fc26f812</item>
+  <tools id="309abb">103.108.214.180</item>
+  <mutex id="6ac6aa">registry-grafana</item>
+  <cluster id="a4c440">22.52.100.115</item>
+</root>

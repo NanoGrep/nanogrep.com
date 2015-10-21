@@ -1,0 +1,81 @@
+{
+  "handler": {
+    "btree": true,
+    "tcp": {
+      "lib": 5913,
+      "mysql": {
+        "mqtt": null,
+        "watchdog": null,
+        "quic": "2caa5fb268f6",
+        "cache": "d0e3de54d896",
+        "grafana": 7639,
+        "group": "6435051b3582"
+      },
+      "backend": "3496f725b5e5",
+      "mesh": [
+        null,
+        "ba7605e308dc",
+        null
+      ],
+      "oauth": {
+        "tests": false
+      },
+      "request": true
+    }
+  },
+  "ansible": true,
+  "lexer": {
+    "ansible": {
+      "fuzz": {
+        "regex": "volume",
+        "mapper": null,
+        "http": true,
+        "common": true
+      },
+      "legacy": false,
+      "retry": false
+    },
+    "traces": false,
+    "rollback": true,
+    "canary": false,
+    "udp": true
+  },
+  "response": {
+    "fuzz": {
+      "controller": {
+        "oauth": null,
+        "mocks": null
+      },
+      "terraform": {
+        "config": true,
+        "nginx": null
+      },
+      "entropy": {
+        "replica": false,
+        "json": null,
+        "mirror": "14dadaa0a058",
+        "vendor": "f9db7a899aa7",
+        "ansible": null
+      },
+      "mqtt": [
+        true,
+        "3213e028bfa0",
+        3429
+      ],
+      "failover": 1102
+    },
+    "cookie": {
+      "dns": {
+        "bench": "dhcp",
+        "config": 4660,
+        "rsa": 7514,
+        "hashmap": true,
+        "api": "scripts",
+        "payload": true
+      },
+      "grpc": "434ae2eb19bf"
+    },
+    "utils": 2519
+  },
+  "parser": "0df54acbbe02"
+}

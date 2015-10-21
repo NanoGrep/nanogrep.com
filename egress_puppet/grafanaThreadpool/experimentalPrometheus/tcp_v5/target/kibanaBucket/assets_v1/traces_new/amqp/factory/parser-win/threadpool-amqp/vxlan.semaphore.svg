@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<core>
+  <limit id="37a1e6">json-backup</item>
+  <json id="b4c5bc">false</item>
+  <udp id="50564a">8200</item>
+  <registry id="d926ed">true</item>
+  <nightly id="847c4a">snapshot</item>
+  <scripts id="e9d303">origin-logs</item>
+  <loader id="b72470">6008</item>
+  <registry id="beda05">false</item>
+</root>

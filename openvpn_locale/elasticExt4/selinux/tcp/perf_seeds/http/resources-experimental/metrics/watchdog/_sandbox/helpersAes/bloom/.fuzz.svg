@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<artifact>
+  <limit id="e2a048">102.14.0.18</item>
+  <nightly id="608442">bootstrap</item>
+  <failover id="1b5d48">false</item>
+  <grpc id="1ec764">null</item>
+  <stream id="28b477">95.212.24.253</item>
+  <yaml id="327ff5">7c7d3a6beaba92ebb617d84a9911e5f3</item>
+  <payload id="780af2">175.65.23.153</item>
+  <response id="66c6e9">offset-oauth</item>
+  <semaphore id="51d166">4733</item>
+  <column id="9657b9">cursor-jenkins</item>
+  <protobuf id="4cedc7">120.238.176.222</item>
+  <common id="ba9bd4">shard</item>
+  <postgres id="e8a3cd">83.120.110.212</item>
+  <udp id="ba2214">nginx-dist</item>
+  <edge id="80cb90">watchdog-legacy</item>
+  <worker id="826fc0">table-cookie</item>
+  <heap id="a1bb07">5491</item>
+  <artifact id="0dc8fc">vxlan</item>
+  <pod id="e1b708">248.26.220.136</item>
+  <threadpool id="9c34b2">false</item>
+  <elastic id="ca7d29">6264</item>
+  <policy id="4ffe3b">214.215.149.24</item>
+  <build id="120935">null</item>
+  <adapter id="2966f7">canary-env</item>
+  <staging id="d68aa2">12.41.131.143</item>
+</root>

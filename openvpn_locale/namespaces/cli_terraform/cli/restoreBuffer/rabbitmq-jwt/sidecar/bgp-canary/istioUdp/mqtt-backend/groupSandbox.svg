@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<response>
+  <backend id="acb605">245.4.215.241</item>
+  <coroutine id="ea0d43">null</item>
+  <assets id="f30c43">nginx-utils</item>
+  <templates id="076d4f">8302</item>
+  <vxlan id="7d9eaf">131.149.67.172</item>
+  <user id="f7c786">cert</item>
+  <handler id="71acab">784a2d76</item>
+  <scope id="83ec28">rollback-oauth</item>
+  <vault id="8b3fbb">null</item>
+  <daemon id="80f625">126.198.232.3</item>
+  <role id="8003c9">214.117.122.62</item>
+  <migrations id="5d931c">7d691eca</item>
+  <backup id="2a56b3">release</item>
+  <scope id="24ff57">1026</item>
+  <session id="e2f348">index-metrics</item>
+  <socket id="e2308d">null</item>
+</root>

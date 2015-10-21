@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<bootstrap>
+  <lib id="addb5b">bench-replica</item>
+  <crypto id="ff4c75">ca4cd22b86d1f56aac618aeab3ac7910</item>
+  <compiler id="3babb9">146.106.128.141</item>
+  <hotfix id="e06bc6">fixtures</item>
+  <probe id="7192a8">1207</item>
+  <ingress id="183b2c">mirror-mutex</item>
+  <bgp id="0845fe">187.172.60.120</item>
+  <alerts id="5de04d">true</item>
+  <lambda id="41bb45">3782</item>
+  <role id="4e13ac">false</item>
+  <mysql id="519fab">vlan-build</item>
+  <tenant id="7c18f3">coroutine</item>
+  <zfs id="a9d506">ingress-compiler</item>
+  <envoy id="d3fc27">scheduler</item>
+  <nat id="5c9dd7">tls</item>
+  <kernel id="d73433">9102</item>
+  <pod id="00109a">null</item>
+  <group id="5b4734">9fdfa5da</item>
+</root>

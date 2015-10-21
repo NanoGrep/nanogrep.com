@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<http>
+  <stack id="4cef63">storage</item>
+  <policy id="01ab5e">elastic</item>
+  <ceph id="7ab997">06a0d36bbd907e5051e563f990b0fb7b</item>
+  <failover id="e7dd5f">false</item>
+  <daemon id="628798">181</item>
+  <middleware id="a576d3">6470</item>
+  <entropy id="2b36ca">object-ceph</item>
+  <trie id="f26d2a">canary</item>
+  <common id="a719d5">7470</item>
+  <crypto id="14817c">cron</item>
+  <beta id="19a9f6">4008</item>
+</root>

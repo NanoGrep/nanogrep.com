@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<patch>
+  <batch id="3f3a0f">670</item>
+  <scope id="a8cb52">3844</item>
+  <cert id="bac336">3830</item>
+  <canary id="907f81">build</item>
+  <regex id="8d2bef">cluster</item>
+  <cli id="fb0b96">zfs</item>
+  <index id="725b8d">bgp-patch</item>
+  <middleware id="8e6146">token-audit</item>
+  <router id="5769ca">false</item>
+  <api id="03ae43">kerberos</item>
+  <worker id="5b49aa">186.182.66.199</item>
+  <raid id="c83e10">shard-websocket</item>
+  <session id="bd95b7">239.107.109.91</item>
+  <snapshot id="b21aaa">true</item>
+  <compiler id="c92f02">jwt-api</item>
+  <jenkins id="b8691b">3808</item>
+  <rsa id="e65b70">cors</item>
+  <build id="0d895a">true</item>
+  <schema id="c7cfa8">true</item>
+  <runner id="12ca4b">acac4321899ddf470642b82d36aac743</item>
+</root>

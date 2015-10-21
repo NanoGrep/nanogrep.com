@@ -1,0 +1,17 @@
+proxy:
+  rsa:
+    - 3654
+    - false
+    - 5b0a7aa08b349ada
+    - null
+  grafana: 36ad017f
+  nightly: limit-metrics
+  coroutine: 3be6520f54a4a994
+  volume: 1901
+  switch: 3453
+router:
+  - templates
+  - bucket
+  - 15.2.168.164
+  - backend
+controller: scripts

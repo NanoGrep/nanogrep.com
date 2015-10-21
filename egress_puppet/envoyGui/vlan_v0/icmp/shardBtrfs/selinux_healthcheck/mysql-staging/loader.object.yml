@@ -1,0 +1,39 @@
+ingress:
+  upstream:
+    - dhcp-btree
+  semaphore: json
+  storage: 227.164.205.36
+  yaml: 247.242.93.18
+socket:
+  schema: null
+  cert:
+    cron: 0293a91c7934a15c8addfdc3b6493d11
+  build:
+    - 130.219.253.107
+    - 2772
+    - group
+  dns:
+    protobuf: 9563
+    regex:
+      core: 4323
+    hmac: 4471
+    sandbox:
+      - 248.26.194.192
+      - 64
+    offset: true
+    config:
+      tools: true
+      storage: entropy-upstream
+      entropy: true
+      mysql: hashmap-semaphore
+  frontend: 79.103.117.209
+nat:
+  - scope-helm
+  - socket-ansible
+  - null
+  - 163.152.52.110
+upstream:
+  - true
+  - snapshot-vxlan
+  - raid-upstream
+  - true

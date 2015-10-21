@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<systemd>
+  <failover id="71ecb5">6680</item>
+  <retry id="89590e">7c176f6b</item>
+  <driver id="f3730f">227.41.193.104</item>
+  <yaml id="2fd4bf">d65ee7382d05989a</item>
+  <stack id="159373">77140227</item>
+  <scripts id="c9eef8">sdk-core</item>
+  <api id="809139">980</item>
+  <zfs id="efc220">backup-dns</item>
+  <yaml id="27d4b4">handler</item>
+  <cgroups id="fb33c5">eab977df7f1156d7a90fa018d70db6df</item>
+  <mesh id="42f6b2">buffer</item>
+  <rsa id="89c69a">templates</item>
+  <kernel id="8cdbf6">true</item>
+  <worker id="269cb1">ec48104778384daad5f9a862826c0bab</item>
+  <runner id="350913">57.203.252.168</item>
+  <nonce id="0eaa90">250.152.245.131</item>
+</root>

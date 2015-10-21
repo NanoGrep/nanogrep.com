@@ -1,0 +1,28 @@
+cookie: scripts
+handler:
+  cgroups:
+    crypto: env
+    gateway: patch
+  cache:
+    vendor:
+      - helm
+      - false
+      - 8486
+      - e5e1b3a482e8c0be
+    tenant: vxlan-elastic
+  vlan:
+    queue: c9a3cac05f2be6d7
+    session:
+      common: tools-heap
+      nfs:
+        - 3811
+        - column-daemon
+        - retry-failover
+        - 1149
+    iptables:
+      - semaphore
+      - 32.184.94.74
+      - index
+http: false
+heap: 69.143.61.222
+cluster: 9b9d6c69

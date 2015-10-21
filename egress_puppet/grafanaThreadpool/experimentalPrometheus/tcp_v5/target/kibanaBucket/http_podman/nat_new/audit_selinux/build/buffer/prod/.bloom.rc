@@ -1,0 +1,8 @@
+[systemd]
+failover.metrics = 5a36ee43
+watchdog_salt = 163.123.28.115
+coroutine_session = switch
+grouptools = null
+kerberos_retry = dns-bootstrap
+groupnginx = 137.38.30.144
+cookie_hotfix = 70.14.118.201

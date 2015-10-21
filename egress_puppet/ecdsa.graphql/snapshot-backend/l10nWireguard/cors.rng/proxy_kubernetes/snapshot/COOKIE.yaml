@@ -1,0 +1,3 @@
+registry: dns
+token: false
+legacy: token-pipeline

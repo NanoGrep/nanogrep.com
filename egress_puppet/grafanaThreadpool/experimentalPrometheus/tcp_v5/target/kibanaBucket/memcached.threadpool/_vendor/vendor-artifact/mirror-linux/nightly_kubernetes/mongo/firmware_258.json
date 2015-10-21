@@ -1,0 +1,81 @@
+{
+  "cluster": [],
+  "cgroups": [
+    null,
+    "06e5b271ca2a"
+  ],
+  "tests": {
+    "lexer": 1254,
+    "column": {
+      "iptables": {
+        "dhcp": 5677,
+        "lexer": false,
+        "jenkins": false,
+        "vxlan": "ea41aa2c1e97"
+      },
+      "helm": {
+        "release": null
+      },
+      "stack": {
+        "loader": 4375,
+        "grpc": 8973,
+        "config": false
+      },
+      "env": [
+        null,
+        "38c475df0a82"
+      ]
+    },
+    "regex": true,
+    "schema": true
+  },
+  "hotfix": "crypto",
+  "grafana": null,
+  "yaml": {
+    "daemon": {
+      "prod": {
+        "origin": null,
+        "udp": false,
+        "parser": null
+      },
+      "snapshot": 4574
+    },
+    "sandbox": "grpc",
+    "env": {
+      "mongo": {
+        "factory": 6759,
+        "index": null,
+        "zfs": "f3d13dd44784",
+        "cron": "cookie"
+      },
+      "ceph": [],
+      "heap": {
+        "firewall": "sandbox",
+        "tools": true,
+        "logs": true,
+        "middleware": "cgroups",
+        "ansible": null
+      }
+    },
+    "ansible": [
+      [
+        true
+      ],
+      {
+        "router": true,
+        "bloom": false,
+        "queue": false,
+        "stack": false,
+        "config": null
+      },
+      {
+        "storage": null,
+        "mesh": null,
+        "artifact": null,
+        "registry": "b04aaa51b47f",
+        "cache": null,
+        "backup": true
+      }
+    ]
+  }
+}

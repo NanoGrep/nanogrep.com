@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<handler>
+  <iptables id="cbcf09">1247</item>
+  <probe id="9a828c">null</item>
+  <policy id="4e351f">1359</item>
+  <factory id="25379e">node-service</item>
+  <core id="426e05">46.190.57.156</item>
+  <vlan id="87d9dd">worker</item>
+  <env id="669b27">80a6f6d151bf0f73</item>
+  <wireguard id="302578">lib</item>
+  <nfs id="0abd16">ingress-rsa</item>
+  <cursor id="8d6a00">true</item>
+  <adapter id="b0e274">true</item>
+  <snapshot id="8db15c">253.232.206.150</item>
+  <elastic id="97ad35">cache-firmware</item>
+  <replica id="89f0fc">core-audit</item>
+</root>

@@ -1,0 +1,9 @@
+wireguard:
+  limit: staging
+schema:
+  - 2548a23713caf8e34fe03eb0f0587dae
+  - 4768
+  - terraform-policy
+  - 9134
+vendor: c61b4348ff22a61b
+postgres: 81ce0378c7f4921a

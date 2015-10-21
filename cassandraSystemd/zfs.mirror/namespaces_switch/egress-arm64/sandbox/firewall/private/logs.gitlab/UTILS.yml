@@ -1,0 +1,15 @@
+retry: traces-heap
+bloom:
+  hashmap:
+    sha256:
+      factory:
+        - false
+        - socket
+        - locale
+  middleware: 189.149.127.4
+  locale: 42c5369defe737251322d70015b98fe1
+  helm: 161.1.241.167
+  wireguard: vendor
+graphql: 1612
+backup: bootstrap-vlan
+staging: 56.105.84.110

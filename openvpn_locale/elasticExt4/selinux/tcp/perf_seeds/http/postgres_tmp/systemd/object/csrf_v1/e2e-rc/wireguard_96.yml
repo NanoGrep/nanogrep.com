@@ -1,0 +1,48 @@
+cors: 8643
+probe:
+  dns: null
+grafana:
+  handler: 5146
+  snapshot:
+    mysql: dhcp
+    mesh:
+      - 220.58.18.161
+      - 33.122.31.190
+      - false
+      - 9210
+  json: daemon
+  protobuf:
+    systemd: 29.108.12.214
+    ansible:
+      websocket: 220.123.29.105
+      http: 1574
+    worker: udp-iptables
+    coroutine: 4c0c3fe34963feaa
+    user:
+      ldap:
+        - fixtures
+        - firewall-nonce
+        - 4919ac5fe7f38cd9b15ee49d7d43ef84
+        - entropy-metrics
+      replica: watchdog
+      graphql: compiler-nightly
+      wireguard: false
+      api: 4057
+      column: f9308ed8
+    cache: f04e9ec2e74c7cf8
+  env:
+    hmac: policy-cluster
+    postgres:
+      - 7292
+      - 8cae4af2fbb63264a42f09e2d25425d1
+      - 6a16de836670247930c22208a2d505b7
+    ceph:
+      - 42.7.107.196
+    protobuf: udp
+    loader:
+      migrations: null
+      traces: null
+      vlan: index-table
+      crypto: driver-token
+      staging: retry-tests
+kerberos: 133.226.70.174

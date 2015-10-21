@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<tenant>
+  <dhcp id="81ea90">254d28a8</item>
+  <traces id="1eb0cc">systemd</item>
+  <core id="ab80ae">db6ffd343ea6f64e</item>
+  <controller id="13d58b">hmac</item>
+  <mirror id="e62fc7">f78a56105dee6b66</item>
+  <gateway id="5a11c7">null</item>
+  <ldap id="462f9d">9542</item>
+  <artifact id="7f2b10">cert-socket</item>
+  <service id="3042ea">8.163.102.206</item>
+  <switch id="97e21a">heap</item>
+  <dns id="cc2074">false</item>
+</root>

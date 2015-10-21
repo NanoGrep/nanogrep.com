@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<scope>
+  <row id="34481c">3f230115</item>
+  <cors id="38cdf2">148.245.177.77</item>
+  <sdk id="7fe9d3">kafka</item>
+  <middleware id="d38f90">failover-loader</item>
+  <dns id="90cd7d">rest-upstream</item>
+  <service id="9ee8ce">102.186.218.47</item>
+  <ceph id="01aedc">d5a5e4bbc572f436</item>
+  <helm id="597196">retry-mocks</item>
+  <common id="48bcf7">912cce087b18fd9d</item>
+  <locale id="a8c223">logs</item>
+  <protobuf id="53dcc0">hmac-postgres</item>
+  <stream id="73c47e">5040</item>
+  <probe id="95ede5">74.196.48.158</item>
+  <replica id="45a1bf">126.159.238.182</item>
+  <btree id="a3c375">backend-buffer</item>
+  <nginx id="04c316">service-graphql</item>
+  <entropy id="c86c86">179.78.123.93</item>
+  <mapper id="db4649">null</item>
+  <shard id="a9fa5b">5423</item>
+  <mapper id="af1b36">135.34.78.140</item>
+  <service id="975d8f">true</item>
+</root>

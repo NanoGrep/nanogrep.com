@@ -1,0 +1,33 @@
+{
+    "mapper": 7097,
+    "socket": [
+        true,
+        "22123dad1ab2"
+    ],
+    "bootstrap": false,
+    "core": {
+        "service": [
+            false
+        ],
+        "zfs": [
+            {
+                "build": null,
+                "pipeline": null,
+                "rollback": true,
+                "volume": false,
+                "utils": "scheduler"
+            },
+            "jenkins"
+        ],
+        "hmac": {
+            "request": "patch",
+            "utils": {
+                "helm": 6868,
+                "request": null,
+                "nat": 7815
+            }
+        },
+        "probe": false,
+        "websocket": null
+    }
+}

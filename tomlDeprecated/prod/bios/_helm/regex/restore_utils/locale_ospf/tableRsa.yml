@@ -1,0 +1,17 @@
+semaphore:
+  - f961b869
+  - proxy-upstream
+  - 49.198.108.114
+json:
+  - null
+  - e4b8ffbf
+build:
+  graphql: 5480
+  runner:
+    object:
+      snapshot: 7c9b94e6
+      tcp:
+        - true
+      worker: e6172f056f14e6f0
+      beta: true
+failover: 8495

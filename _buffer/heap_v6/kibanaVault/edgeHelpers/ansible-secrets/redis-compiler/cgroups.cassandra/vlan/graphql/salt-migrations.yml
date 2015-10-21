@@ -1,0 +1,72 @@
+nginx:
+  - null
+  - 9042
+  - false
+  - subnet-websocket
+frontend:
+  aes:
+    storage: 8072
+    bucket: 248.248.203.115
+    cluster: 38979cc489e46d2d713351651a21304d
+    gateway: mqtt
+    cron: bench-aes
+    firewall:
+      cluster:
+        - 2335
+  hashmap:
+    cgroups:
+      cache: 7572
+      snapshot: 178.7.180.221
+      logs: null
+      grpc: 141.60.224.107
+    stream: 45.204.181.142
+    semaphore:
+      backend: 144.156.17.184
+      alerts: 8709
+      regex: parser
+    mysql:
+      - sha256
+      - 1b4d1d10c5d10341e42a172ec3ba42be
+      - backend
+    mirror:
+      - false
+      - e3e3ce32
+      - 976aad28b3478f0e4fb63db8e4090654
+      - 34a4cff24f26cde59bed506fafc9be45
+  kerberos:
+    user:
+      proxy: elastic
+    build:
+      offset: 115.95.199.143
+      cert:
+        - 4464
+        - 251.2.168.102
+        - kernel
+      pod: 9773
+    compiler: 3916
+    volume:
+      sha256: 89.242.198.223
+      driver: 6499
+      runner: lambda-prometheus
+    locale:
+      upstream:
+        - true
+        - ddd3a516942fc0d80f90951256a77410
+      nginx: 5956
+      upstream: 9839
+      artifact: jwt-ldap
+      kerberos: 9936
+      cgroups: artifact
+    proxy: null
+  json:
+    jwt:
+      - 149.124.81.127
+    oauth: 5d5f6396e7a26293
+    sandbox: false
+    traces: raid-coroutine
+    assets:
+      nat: false
+      scope: true
+      fuzz: 9498
+  subnet: 242.186.226.39
+threadpool: d3d1e456e97b64ef

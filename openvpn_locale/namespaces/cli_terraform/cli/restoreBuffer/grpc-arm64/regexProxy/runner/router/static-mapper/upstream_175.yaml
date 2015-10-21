@@ -1,0 +1,8 @@
+mocks: 172.205.36.199
+table: 56.214.7.204
+json: false
+probe:
+  bgp: 250.198.54.167
+  response: true
+  mirror: true
+bucket: 161.63.114.247

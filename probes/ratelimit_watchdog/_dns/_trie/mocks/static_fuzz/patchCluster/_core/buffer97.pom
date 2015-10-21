@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ingress>
+  <kerberos id="cf67a0">23.234.100.213</item>
+  <failover id="48eaa8">false</item>
+  <hmac id="266566">null</item>
+  <audit id="5f0395">52283841958e03c0b317b51381181291</item>
+  <probe id="2a3521">168.240.192.61</item>
+  <nfs id="70b9b8">5147</item>
+  <jwt id="fbbc27">b2a3d894</item>
+  <postgres id="1c4bc4">kerberos</item>
+  <crypto id="7b5e0f">true</item>
+  <upstream id="86a08b">39.69.6.241</item>
+  <mysql id="82c0ce">6cc9ecc4</item>
+  <traces id="802758">crypto-metrics</item>
+  <response id="4bd5db">true</item>
+  <rollback id="153c25">gateway-migrations</item>
+  <lib id="8ad579">10f7d2ec</item>
+  <nfs id="938414">2197</item>
+  <token id="a93677">34.172.59.179</item>
+  <adapter id="1e0006">202.112.174.171</item>
+  <driver id="401e57">bench</item>
+  <http id="12aa4a">5bc77864</item>
+  <queue id="7bc71a">json-legacy</item>
+  <failover id="0a872e">ansible</item>
+  <edge id="9ca916">heap</item>
+  <service id="f23a45">281</item>
+</root>

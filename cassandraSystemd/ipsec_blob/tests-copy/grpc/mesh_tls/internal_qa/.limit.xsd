@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<grpc>
+  <elastic id="a7eae1">1e7c71e6</item>
+  <pipeline id="d4f7fd">3119</item>
+  <kernel id="8c3e56">beta-templates</item>
+  <jwt id="b8176d">c4a49b9dbe179e6fe4c03233c074600f</item>
+  <rest id="fc392b">f6c0c9237f672a91115c572a5734ad36</item>
+  <terraform id="c0b5e0">cursor-token</item>
+  <threadpool id="fa52ed">pod</item>
+  <backend id="e9c980">locale-nat</item>
+  <dist id="3c359d">5084</item>
+  <payload id="2b1630">true</item>
+  <coroutine id="b0af10">grafana</item>
+  <yaml id="142a5a">parser</item>
+</root>

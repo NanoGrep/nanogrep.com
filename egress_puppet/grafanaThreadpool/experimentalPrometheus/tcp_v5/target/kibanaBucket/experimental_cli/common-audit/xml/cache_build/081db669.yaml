@@ -1,0 +1,14 @@
+kafka: 2e29907bc0905cf2
+kernel: zfs-subnet
+pod:
+  factory: 3c987f01a333a14f
+  grpc: a8fbfcd3
+  graphql: 35.26.211.52
+  rollback:
+    index:
+      hmac: false
+    loader: 1860
+    core: 196.142.192.35
+  kafka: 161.205.216.211
+row: grpc
+tcp: true

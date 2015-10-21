@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<crypto>
+  <runner id="86fbdc">loader</item>
+  <cert id="c93e56">migrations-object</item>
+  <subnet id="7ed08d">129537b81f9c7d815ab82e20b916252d</item>
+  <role id="283fc3">92.28.46.91</item>
+  <gateway id="7e16de">4268</item>
+  <prod id="1cd7b0">true</item>
+  <lexer id="f34ffb">true</item>
+  <nat id="7ba187">3694</item>
+  <dhcp id="adda9a">quic</item>
+  <legacy id="f91bb7">2462</item>
+  <common id="0cfe7b">stack-table</item>
+  <cookie id="82a1e7">a7d1c7add13dded95aa44a19bb396bae</item>
+</root>

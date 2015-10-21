@@ -1,0 +1,7 @@
+session,patch,jwt,worker
+ca43402a,5153,true,mesh-edge
+vendor-api,1a9400603e76a6123b2c016a134b9370,8254,null
+column-dhcp,4793,ceph-bench,1681
+false,183.113.217.133,148.18.241.12,7517
+226.166.87.50,62e8e9213a0daa7f,5756,null
+artifact,null,elastic-kernel,metrics-topic

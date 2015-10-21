@@ -1,0 +1,8 @@
+release,cors,semaphore,staging,core,audit
+26662bd1e414d2b2864e101d6678b929,null,6800,env-edge,73c97fac3ec13d59c633cd3aa61ee69a,146.52.41.156
+dfa69aa6,41d2d6872f754a7f,false,false,108.103.21.100,jenkins-role
+bgp-schema,aes,udp,ansible,1487,wireguard-fixtures
+5647,null,false,3840,99cfaf8cc0d30817,true
+c2de7d5259161d50,graphql-regex,62.0.130.89,false,true,wireguard-hashmap
+7297,8135,null,131.74.78.127,6fcee0ce896843118df1df781e0f91c7,bgp-pod
+70.117.232.254,6739,108.92.3.211,quic,b05a22d8ee8c14c4c24bd0aba6fdd569,221.37.5.68

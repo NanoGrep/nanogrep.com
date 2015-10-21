@@ -1,0 +1,11 @@
+{
+  "nightly": {
+    "rsa": [
+      true
+    ],
+    "migrations": null,
+    "scheduler": false,
+    "postgres": null
+  },
+  "stack": "434c177f019d"
+}

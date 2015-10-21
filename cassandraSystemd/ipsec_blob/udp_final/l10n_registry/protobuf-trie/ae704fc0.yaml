@@ -1,0 +1,23 @@
+grafana: 184.195.175.31
+cluster: subnet-graphql
+udp:
+  cert: 543d1782
+  stream:
+    websocket:
+      - 790e44739eaa5317
+      - 3944f0e8
+    nonce: 206.69.57.5
+    build: common-adapter
+mysql: failover-lexer
+prometheus:
+  hotfix: rsa
+  mocks:
+    storage: cfd6f2322032136ad8f58704bfe35f79
+    vendor: 508d9daa63fd4b2c
+    runner:
+      cors: 7d689b25084ee621
+      volume: 244.148.176.128
+      vxlan: 11.192.48.236
+      middleware:
+        - false
+        - 250.150.231.94

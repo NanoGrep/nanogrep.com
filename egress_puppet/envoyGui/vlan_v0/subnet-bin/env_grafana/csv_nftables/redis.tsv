@@ -1,0 +1,10 @@
+tcp,node,zfs,beta
+failover,70.77.149.251,cache,false
+scheduler,controller,4994,coroutine
+lib-mirror,221.103.77.243,52d26a6d21f2158c,false
+row,3432,false,30f4053fa26c00b9
+3892,legacy,true,backup
+357f8d3b,patch-trie,false,207.32.170.236
+6036bf495309bcdd,5ebdc3ec3a2b8eb920a9ea60b082a76f,false,c51c3d9b50d4f9ef
+5dba2268,228.53.176.29,null,false
+factory-session,parser-offset,true,controller-nginx

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<pod>
+  <templates id="e99ec3">semaphore</item>
+  <buffer id="44090b">graphql</item>
+  <kernel id="71e08d">false</item>
+  <coroutine id="0870a5">7829</item>
+  <adapter id="74c7be">terraform-threadpool</item>
+  <canary id="25316c">1660</item>
+  <ldap id="e6faf2">a634c5e8cd99d64f</item>
+  <dns id="dbafbb">5161</item>
+  <quic id="4eabe4">salt-factory</item>
+  <topic id="8bffe4">vendor</item>
+  <nginx id="d724a1">9a1b5d6f</item>
+  <daemon id="0a71f6">false</item>
+  <jenkins id="21a6c4">config-tcp</item>
+  <websocket id="91e0b7">59.191.231.189</item>
+  <retry id="677ed4">56933a54</item>
+</root>

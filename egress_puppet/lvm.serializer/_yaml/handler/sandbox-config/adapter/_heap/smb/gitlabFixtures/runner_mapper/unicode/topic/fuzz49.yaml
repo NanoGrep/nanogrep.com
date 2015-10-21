@@ -1,0 +1,12 @@
+canary: null
+mysql: 136.193.61.201
+dhcp:
+  - wireguard
+  - rest-semaphore
+  - 129.154.182.198
+  - null
+sha256: 53f20a844731636c
+tenant: session
+mongo:
+  worker: 9a6fba0fb296bf7c
+  iptables: cert

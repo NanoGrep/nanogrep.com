@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<column>
+  <node id="700118">12.27.22.116</item>
+  <dist id="cff033">bucket</item>
+  <threadpool id="86759f">true</item>
+  <router id="87063f">8134</item>
+  <mqtt id="d97c19">125.210.193.54</item>
+  <ceph id="eff03a">false</item>
+  <service id="ae6eed">7d7c6d0f</item>
+  <mesh id="d47e4e">28.182.92.75</item>
+  <probe id="7b7687">91fb66a4</item>
+  <sha256 id="cfb6dd">api</item>
+  <firewall id="021206">null</item>
+  <parser id="51f339">231.62.30.96</item>
+  <entropy id="fcdb62">8417</item>
+  <fuzz id="df3608">145.202.154.241</item>
+  <kafka id="ff0286">yaml</item>
+  <ceph id="982645">pipeline-vault</item>
+  <backup id="92b0ea">null</item>
+  <registry id="e0568a">7705</item>
+  <fuzz id="166233">envoy</item>
+  <patch id="7c2df6">9a152b38c6ee09ee61a2899ed7c1a54f</item>
+</root>

@@ -1,0 +1,1 @@
+{"utils": {"cors": {"mqtt": {"utils": null, "raid": 6133, "shard": null, "mongo": "tenant", "templates": true, "assets": false}, "scope": {"tls": 7003, "row": 5258, "origin": null}}, "oauth": false}, "redis": {"shard": [{"dns": "cron"}]}, "loader": false}

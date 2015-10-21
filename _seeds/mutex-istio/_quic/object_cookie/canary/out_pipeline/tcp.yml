@@ -1,0 +1,7 @@
+locale:
+  - adapter-lexer
+  - false
+  - 5410
+service: btree-oauth
+daemon: false
+mocks: 11.139.31.210

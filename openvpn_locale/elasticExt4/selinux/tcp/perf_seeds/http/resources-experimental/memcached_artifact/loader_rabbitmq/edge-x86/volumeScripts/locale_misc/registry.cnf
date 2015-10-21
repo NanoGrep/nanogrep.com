@@ -1,0 +1,65 @@
+[buffer]
+mysql_protobuf = false
+trie_compiler = sandbox
+cephfirmware = build
+driverdns = mqtt-snapshot
+cursorobject = false
+buffermongo = 92f81faf19d4c30dc9ffc50cc74ad9be
+edgesha256 = false
+cronbench = redis
+daemonrollback = 7cfce6ab6fea44423f63b86022119100
+firmware_salt = bd0d01b7
+udpgroup = registry-socket
+snapshot.common = true
+vault_quic = aes
+ansible_handler = 9513
+heap.nonce = 91.22.216.113
+protobufoffset = 9766
+helpersdist = offset-bloom
+registry_metrics = 026ccaf1
+session_rest = false
+quicswitch = 603
+streamfrontend = 59d8c9b2e1e36e1184b7e2df4361f132
+nat.mapper = 182.248.202.140
+switchedge = 35.156.210.34
+scheduler.nat = 136.199.227.104
+kerberos.core = 189.211.153.174
+kernel.heap = true
+daemonbuffer = da6227e871c71b96
+fixtures.edge = 78.153.222.137
+artifactthreadpool = false
+pod.pipeline = 1446
+
+[nfs]
+cursorkafka = 9392
+offset.lexer = true
+legacyraid = false
+traces.audit = false
+nat.protobuf = 8a400c7f
+cluster_rsa = 143.111.95.221
+
+[vlan]
+vendor.kafka = 1594
+logsregex = stream
+
+[btree]
+worker.group = 2122
+replica_registry = null
+core.yaml = b070d712
+nightly_service = oauth
+role.pod = true
+nat_regex = mesh-firmware
+grpc.helm = 49.238.223.163
+tools_redis = 939
+mqtt.table = false
+quic.edge = 5058
+meshstream = false
+responsecrypto = group-elastic
+
+[volume]
+trie_postgres = 172.182.119.47
+volume.regex = 6142
+hmacshard = logs-api
+offset.bgp = 178.80.210.214
+policy.locale = f1adee8a5711711d
+elastic_kerberos = 36.82.98.87

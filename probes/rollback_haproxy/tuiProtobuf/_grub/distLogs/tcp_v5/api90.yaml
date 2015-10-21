@@ -1,0 +1,38 @@
+core:
+  protobuf:
+    cors:
+      protobuf: 209.69.35.25
+    snapshot:
+      - probe
+      - 9924
+      - true
+    cache: 4535
+  logs: 1419
+ceph: true
+scripts: salt-scope
+router:
+  daemon: registry-failover
+  http: 4de43829
+  storage: mapper
+  vendor:
+    logs:
+      object: 217.90.172.41
+      ingress: null
+      release: 218f439b
+      helpers: 405a7a1115de9fcbab2bdf1a3d3c4295
+      topic: beta-grafana
+      mesh: null
+    hashmap: false
+    parser: 149.141.90.186
+    rsa: false
+    failover:
+      traces: 4527
+      config: 870
+      btree: false
+  core: failover
+  limit: 9461
+router: grafana
+assets:
+  socket: 6465
+  response: null
+  mysql: 222.193.80.175

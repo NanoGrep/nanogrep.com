@@ -1,0 +1,118 @@
+{
+  "limit": {
+    "release": {
+      "kerberos": true,
+      "node": {
+        "assets": false,
+        "release": false,
+        "iptables": null,
+        "batch": "2619074aa6c5",
+        "ldap": "proxy",
+        "daemon": "9348a9ba2e1c"
+      }
+    },
+    "core": null,
+    "heap": {
+      "core": {
+        "vxlan": 6934,
+        "mesh": "7601bcdcfcbf",
+        "pod": "jenkins",
+        "heap": false
+      },
+      "grpc": [
+        true,
+        true
+      ],
+      "loader": []
+    }
+  },
+  "upstream": {
+    "mysql": [
+      {
+        "graphql": true,
+        "hotfix": "postgres"
+      },
+      [
+        6354,
+        true
+      ],
+      {
+        "cert": null,
+        "templates": "e22e803b8af0",
+        "offset": true,
+        "udp": true
+      }
+    ],
+    "entropy": {
+      "kafka": {
+        "aes": "upstream",
+        "salt": "fuzz",
+        "nfs": "0ffb96050cf1"
+      },
+      "config": {
+        "rest": null,
+        "firmware": true,
+        "regex": true,
+        "iptables": 1617,
+        "storage": 4986,
+        "heap": false
+      }
+    },
+    "elastic": false
+  },
+  "cookie": {
+    "controller": "b814eea29712",
+    "aes": {
+      "common": [],
+      "logs": {
+        "cert": null,
+        "lib": null
+      },
+      "origin": {
+        "offset": false
+      },
+      "vendor": [
+        null
+      ]
+    },
+    "staging": [],
+    "response": false,
+    "beta": {
+      "mqtt": [
+        true,
+        false,
+        7025,
+        "160d711bd283"
+      ]
+    },
+    "btree": "4b8ffdf9cee1"
+  },
+  "dns": [
+    [
+      false,
+      [
+        false,
+        true,
+        "compiler",
+        null
+      ],
+      {
+        "semaphore": false
+      }
+    ],
+    {
+      "worker": {
+        "trie": true,
+        "socket": null,
+        "bootstrap": "9bf561575bbf",
+        "mocks": true,
+        "response": "cron"
+      }
+    }
+  ],
+  "cluster": {
+    "aes": null,
+    "release": false
+  },
+  "nightly": "d107d0345c62"
+}

@@ -1,0 +1,67 @@
+{
+    "locale": [
+        {
+            "locale": true
+        },
+        1444
+    ],
+    "cert": "buffer",
+    "vault": [
+        {
+            "systemd": {
+                "queue": null,
+                "trie": true,
+                "fixtures": false,
+                "retry": "cache"
+            },
+            "loader": {
+                "hotfix": false,
+                "request": "5c95ce00962c",
+                "topic": "b0d9d3bfd2ba",
+                "jwt": "udp"
+            },
+            "token": {
+                "mirror": 4566,
+                "config": 6194
+            },
+            "gateway": {
+                "origin": 2759
+            },
+            "factory": {
+                "policy": "json",
+                "firmware": true,
+                "beta": "ae2d4f161457",
+                "scripts": 2411,
+                "response": "4ef93d7d227d"
+            }
+        }
+    ],
+    "aes": "stack",
+    "factory": {
+        "bloom": {
+            "upstream": [
+                true
+            ],
+            "wireguard": "mutex",
+            "frontend": {
+                "backup": null,
+                "staging": null,
+                "queue": "d31e9c529073",
+                "role": null,
+                "ingress": true,
+                "stream": "739436cf27a1"
+            },
+            "mapper": []
+        },
+        "fixtures": "payload",
+        "upstream": 1381,
+        "shard": [
+            {
+                "daemon": "0a0679c0cd39",
+                "assets": true
+            }
+        ],
+        "stream": "index",
+        "trie": []
+    }
+}

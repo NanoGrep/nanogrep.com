@@ -1,0 +1,12 @@
+firmware: switch-coroutine
+group: factory-gateway
+session: session-hmac
+vault: null
+dist:
+  locale: 1531
+  threadpool: 6119
+  batch: false
+  vxlan: row
+  helpers: true
+  udp: 9.233.27.241
+tests: alerts

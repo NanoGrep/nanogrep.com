@@ -1,0 +1,43 @@
+artifact: 520e93493f40b7f10dc8c9512246cb46
+policy: btree
+common: 3569
+mqtt:
+  helm:
+    policy: 3704
+    offset:
+      stack: 32
+      helpers: null
+    proxy: 90d38038
+    threadpool: 3525
+    stream: null
+    artifact:
+      rollback: 220.115.142.206
+      volume: d48aec436961c5ee
+      ldap: 12.75.223.79
+  pod:
+    volume:
+      coroutine: null
+      lambda: b6c82aee943d9f2fbcdb3f46eb0da542
+      env:
+        - 9444
+      rest: 45.113.23.139
+      prod: 8482
+      service: edge-stream
+    schema:
+      kafka:
+        - 143186fab58d0b2204e3aaa8acfed4f4
+        - false
+        - ldap-index
+        - 107
+      mapper: 125.130.71.135
+    env: null
+    regex: cece92e2c44eb947e5e5bed4253d415b
+    canary: false
+  grpc: 58657c0a54aef4ab
+buffer:
+  iptables:
+    watchdog: upstream
+    entropy:
+      beta: false
+    schema: true
+    sdk: a20241c0

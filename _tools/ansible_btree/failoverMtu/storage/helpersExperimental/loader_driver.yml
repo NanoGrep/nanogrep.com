@@ -1,0 +1,47 @@
+fuzz: 4441
+oauth: assets-switch
+fixtures:
+  scope:
+    - null
+    - firewall-sandbox
+    - true
+  jwt: efb0b14d
+  terraform:
+    lambda:
+      kafka: handler-staging
+      grpc: false
+      replica: 0bfb58904f711afef52c6b2f1775bb97
+      cors: true
+    shard:
+      bootstrap:
+        - 1d8960d6fac4a7f0
+        - null
+      buffer:
+        - false
+        - null
+    mapper: 6803
+  mocks:
+    helm: false
+    switch: 235.2.127.209
+    cluster:
+      tools:
+        - 1d147dccf96058bf
+        - session
+        - cgroups-registry
+        - db277c3c
+      staging: canary
+      batch: api
+      dns: 43.214.240.253
+    middleware:
+      config: systemd
+      jenkins: 119.119.60.75
+    driver: bench
+    replica: audit-nat
+  yaml:
+    - kernel-zfs
+    - 5016
+  pod:
+    templates:
+      - 1314
+      - hmac
+router: 6200

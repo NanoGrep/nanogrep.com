@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<replica>
+  <grpc id="dcfdf7">2de804d8f30a1ca8f648b75086e2ae60</item>
+  <artifact id="e01e95">1757</item>
+  <tcp id="f8ebf0">null</item>
+  <scheduler id="302b03">null</item>
+  <bench id="a30b48">75.92.95.87</item>
+  <protobuf id="aab1c3">439</item>
+  <regex id="b0bd80">65b1158951edd61d</item>
+  <nightly id="fd3f0b">tools-vxlan</item>
+  <ansible id="0190d7">250.227.64.217</item>
+</root>

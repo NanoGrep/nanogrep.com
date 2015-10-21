@@ -1,0 +1,54 @@
+mapper:
+  row:
+    migrations: firewall
+  watchdog: build
+  elastic:
+    switch: regex
+  bgp:
+    column: true
+    http:
+      nonce: null
+      upstream: tcp-registry
+      replica: release-bench
+      elastic: grafana
+    sdk: 1392
+    graphql: null
+  middleware:
+    locale:
+      - null
+      - d5634c2d
+      - 44.76.53.199
+      - 205.234.152.156
+    prometheus:
+      node: null
+    vxlan: 5769
+    patch: 3f96642815db94e30f5aa7f0fc52e131
+buffer: audit-migrations
+alerts:
+  lib:
+    backup: 168.61.76.44
+    build:
+      node: api
+    topic:
+      controller: redis
+      ceph: trie
+      migrations: 181.91.252.69
+      oauth: d774a1af
+    prod: fuzz-pod
+    dist:
+      cron: 6926
+      cors: 810c21804275edba
+      rollback: 6059
+      dist: cursor
+      firewall:
+        - middleware-runner
+        - trie-mirror
+      cert:
+        - false
+    canary: assets-fixtures
+retry: mesh-zfs
+bucket:
+  - null
+  - false
+  - 9f68b252
+user: 727af8b11533048a2f9d08a8d2fb1962

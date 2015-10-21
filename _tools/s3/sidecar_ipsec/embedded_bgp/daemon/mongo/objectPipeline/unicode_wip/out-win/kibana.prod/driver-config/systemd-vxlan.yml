@@ -1,0 +1,12 @@
+udp:
+  vendor: b16dff81c3ddcb37
+  bgp: kernel-cert
+  cursor:
+    - 62a4a6c3f7166a516dd1be993e76b299
+  failover:
+    quic: canary-fuzz
+  mongo: e1941ca0f5f239d8
+  firmware: null
+storage: legacy-index
+ceph: 66.42.213.2
+rest: false

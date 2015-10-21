@@ -1,0 +1,76 @@
+role:
+  legacy: 5966
+upstream:
+  - 150bc82c9e362c33abc3cae0fcdda052
+  - 5372
+vxlan:
+  hashmap: 33.96.58.126
+  regex:
+    - null
+    - false
+    - iptables-btree
+    - 7827
+  daemon:
+    websocket: 1333620d
+    nfs:
+      user: 60.41.115.221
+    adapter: 99a716ceb95101d98e08611b7ff766b3
+  rest:
+    offset: 5767
+    bootstrap: 9231
+    bucket: staging
+helpers:
+  rollback:
+    http:
+      systemd: true
+      cli:
+        - 7531
+      btree: true
+      terraform: canary-role
+    postgres: mongo-grafana
+    proxy: 228.93.200.192
+  daemon:
+    factory:
+      redis: 5875
+      probe: kerberos-websocket
+      loader:
+        - table-tls
+        - true
+        - cert
+        - grpc
+      cache: 900
+    locale:
+      nginx: 1740
+    templates: failover
+    vault:
+      - crypto
+      - 746c41b3d836ee42d19e261c424d4617
+      - 9275
+      - 9358
+  cursor:
+    mysql: jenkins
+  switch:
+    redis: jwt
+    vxlan:
+      object: 192.1.6.4
+      node:
+        - artifact-lambda
+        - 2400aed4
+        - nfs
+        - 114.95.149.148
+      backend: false
+      adapter:
+        - 3574
+      mocks: http
+  stack: legacy-regex
+core:
+  stack:
+    websocket:
+      canary: dcba1e72
+      retry: watchdog
+      shard: 714
+      rest: true
+      mqtt: 75.91.48.230
+    firewall: dist
+  helm:
+    - 3650

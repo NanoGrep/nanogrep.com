@@ -1,0 +1,97 @@
+{
+    "mapper": "replica",
+    "hotfix": {
+        "helm": {
+            "migrations": [
+                null,
+                "daemon",
+                6748
+            ],
+            "mongo": {
+                "buffer": true,
+                "helm": "limit",
+                "driver": 6165,
+                "sha256": 9604
+            },
+            "kafka": false,
+            "tools": 3908,
+            "protobuf": false,
+            "stack": {
+                "vendor": true,
+                "frontend": false,
+                "cert": null,
+                "systemd": "47f2cbd78e67",
+                "yaml": "8ccbf95bb641"
+            }
+        }
+    },
+    "vlan": [
+        {
+            "cert": {
+                "migrations": false,
+                "oauth": 2837,
+                "quic": null
+            },
+            "dhcp": "btree",
+            "mocks": [
+                "00a052270bec",
+                null
+            ]
+        },
+        "5431de8eb5b3",
+        true,
+        {
+            "tls": {
+                "subnet": "870c49cfd379"
+            },
+            "systemd": 7693,
+            "retry": [
+                null,
+                false
+            ],
+            "env": "7193e96c7762",
+            "legacy": {
+                "tls": false,
+                "kerberos": false,
+                "migrations": "mongo"
+            }
+        }
+    ],
+    "iptables": {
+        "build": null,
+        "pod": {
+            "assets": {
+                "vault": "068f0cc402ca",
+                "oauth": 3126,
+                "registry": 5158,
+                "mongo": null,
+                "node": false
+            },
+            "btree": {
+                "aes": null,
+                "rollback": null,
+                "nonce": true,
+                "scheduler": false,
+                "kerberos": true,
+                "mutex": null
+            },
+            "helm": {
+                "request": "stream",
+                "nightly": null
+            },
+            "semaphore": {
+                "tcp": "2769a2cf0ee6",
+                "rsa": true,
+                "fixtures": null,
+                "registry": "293f1beae9b9",
+                "tls": null
+            }
+        },
+        "queue": {
+            "grpc": [
+                4395
+            ],
+            "origin": 6423
+        }
+    }
+}

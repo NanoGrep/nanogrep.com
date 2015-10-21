@@ -1,0 +1,28 @@
+cluster:
+  tcp: upstream-build
+  alerts:
+    frontend:
+      table: d0446d14447d7770df92e298ab0a9310
+      trie: 149.156.253.248
+      locale: audit
+      oauth: false
+      zfs: 8289
+      crypto:
+        - nightly-index
+        - cookie-stream
+        - 140.97.111.15
+    backup: null
+    edge:
+      runner: 127c9f5f28e7076942cd736524c65817
+      group: 4843
+      assets: session
+      api: true
+    kerberos: tcp
+    ingress:
+      ansible:
+        - 247.1.16.47
+      mesh: vendor-cli
+      oauth: 203.168.238.173
+      jenkins: 47.22.113.12
+  gateway: 250.47.33.181
+cert: 6511

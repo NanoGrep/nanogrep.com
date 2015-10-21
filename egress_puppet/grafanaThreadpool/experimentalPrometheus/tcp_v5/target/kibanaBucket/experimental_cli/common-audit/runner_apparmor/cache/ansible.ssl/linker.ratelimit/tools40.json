@@ -1,0 +1,75 @@
+{
+  "cli": {
+    "mongo": "d2c3b43dfe80",
+    "kafka": [
+      "adapter",
+      {
+        "alerts": null
+      },
+      6664,
+      true
+    ]
+  },
+  "mutex": {
+    "row": "d8008e04b835"
+  },
+  "bucket": {
+    "firmware": [
+      {
+        "switch": null,
+        "rsa": "3794ffe1166a"
+      }
+    ],
+    "table": "loader"
+  },
+  "offset": {
+    "table": {
+      "utils": "e70ffb60a1eb",
+      "mysql": [
+        "probe"
+      ],
+      "raid": null
+    },
+    "metrics": {
+      "websocket": {
+        "controller": false,
+        "topic": "834182dc23ae",
+        "hashmap": "5a2ccd9e31ef",
+        "vlan": 9503,
+        "sha256": "nat",
+        "failover": 4996
+      },
+      "quic": {
+        "failover": "ddc6abf22dd3",
+        "migrations": "failover",
+        "common": true,
+        "http": true
+      }
+    },
+    "patch": true,
+    "group": {
+      "scheduler": [],
+      "bootstrap": false,
+      "mqtt": null,
+      "core": {
+        "udp": "eab290a57515",
+        "crypto": null,
+        "sha256": "tests"
+      },
+      "ansible": {
+        "salt": null,
+        "locale": true,
+        "bootstrap": null,
+        "backend": "66e63e47efbf"
+      },
+      "storage": [
+        694,
+        false,
+        "firmware",
+        "router"
+      ]
+    },
+    "cli": "23dd112b6042",
+    "probe": "3914c4987cc8"
+  }
+}

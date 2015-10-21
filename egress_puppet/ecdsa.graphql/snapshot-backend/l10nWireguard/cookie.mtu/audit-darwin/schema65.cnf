@@ -1,0 +1,22 @@
+[sha256]
+beta_cluster = yaml-daemon
+kafkaregex = 6466
+cert_yaml = helm
+limit_locale = canary
+migrations.rest = cgroups
+upstream_runner = locale-kafka
+router.legacy = udp
+lib.trie = 40.139.78.239
+mutex_ansible = 5deac066
+dist.salt = null
+tcp_raid = handler-salt
+api.mapper = e30b64d8d635efc9ccc66410718c4ce8
+cgroupsassets = 71.139.113.144
+batch_lambda = regex
+replicaoffset = 676
+handler.origin = 2789
+templates.probe = e3c01f1b103263e8e595c1114125de83
+policy_nightly = rsa-replica
+queue_sdk = 187.219.72.182
+btree_probe = a8628f42f1a5f023b7ff3d63312cb452
+gateway_core = 49a1b38b

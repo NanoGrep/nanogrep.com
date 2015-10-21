@@ -1,0 +1,32 @@
+rest: tenant
+pod:
+  table: http-queue
+  quic: false
+  service: 165.91.206.254
+  graphql: cca67042f1a9c8e5
+  dns:
+    cluster:
+      - 153.34.125.245
+    helm: 951bd2ae2c5912c3feeacdd0bee3fb74
+    hashmap: 1b681990c0a27660
+    websocket: null
+    cli:
+      frontend: 136.223.68.56
+      cookie: ceph
+      postgres: 7538
+      common:
+        - 2281
+        - 06241e7cb9812cd279d63ba037a2645f
+        - true
+    cron:
+      subnet: 210.89.65.104
+      cursor: logs
+      regex: cert-router
+      bench: 24.198.94.252
+      coroutine: true
+      payload: tls
+  kerberos: 8209
+zfs:
+  - false
+  - 253.7.157.59
+  - null

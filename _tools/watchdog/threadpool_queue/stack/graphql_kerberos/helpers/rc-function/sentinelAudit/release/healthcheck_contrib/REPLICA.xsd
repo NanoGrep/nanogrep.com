@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<redis>
+  <retry id="78cdc9">0afe72bd</item>
+  <migrations id="02773d">9745</item>
+  <yaml id="581935">tcp-websocket</item>
+  <helm id="9622a5">env-shard</item>
+  <socket id="8edce6">3b8bf0b7</item>
+  <factory id="d30d64">null</item>
+  <payload id="51e926">3c528d99</item>
+  <iptables id="03de7e">true</item>
+  <daemon id="f22b2c">bucket</item>
+</root>

@@ -1,0 +1,14 @@
+{
+    "worker": {
+        "bench": [],
+        "bgp": false
+    },
+    "semaphore": false,
+    "cors": {
+        "config": "7ed3d6edd3bc",
+        "quic": 7716,
+        "limit": "loader"
+    },
+    "canary": 1249,
+    "metrics": "a584fae4d596"
+}

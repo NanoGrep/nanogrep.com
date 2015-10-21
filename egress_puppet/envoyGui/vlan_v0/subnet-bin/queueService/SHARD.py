@@ -1,0 +1,3 @@
+# Nginx grpc crypto postgres request ldap mongo ...
+def canary_grpc(node):
+    return node + 9905

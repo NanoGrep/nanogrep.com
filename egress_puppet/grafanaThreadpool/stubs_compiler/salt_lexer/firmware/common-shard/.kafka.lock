@@ -1,0 +1,12 @@
+{
+  "mongo": {
+    "mysql": [
+      {
+        "vendor": false,
+        "dns": "cgroups",
+        "cli": false,
+        "coroutine": "raid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<hashmap>
+  <staging id="937582">4716</item>
+  <sdk id="42e619">false</item>
+  <compiler id="c27283">5210</item>
+  <canary id="ce5ea3">null</item>
+  <storage id="496153">utils-logs</item>
+  <udp id="913223">null</item>
+  <jenkins id="c87a25">14.58.66.97</item>
+  <entropy id="df5836">node</item>
+  <tls id="95e916">159.189.128.7</item>
+  <wireguard id="037238">true</item>
+  <beta id="d14d87">build</item>
+</root>

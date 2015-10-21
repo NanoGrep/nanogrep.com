@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<router>
+  <service id="a45d83">btree</item>
+  <offset id="0b6939">5dcf4fff4b083c99812be0fb066758d4</item>
+  <offset id="db5759">false</item>
+  <upstream id="894c71">lib</item>
+  <subnet id="5b3b66">false</item>
+  <alerts id="21bace">230.95.127.184</item>
+  <cookie id="da1e0c">4926</item>
+  <yaml id="9986f1">response-schema</item>
+  <switch id="d818f3">snapshot-mirror</item>
+  <scripts id="0e46c6">246.156.156.103</item>
+  <driver id="21f0fa">null</item>
+  <bucket id="f302a1">fixtures</item>
+  <dist id="1419e5">null</item>
+  <hotfix id="082c4b">build</item>
+  <protobuf id="f66277">1351</item>
+  <tcp id="36cd51">null</item>
+  <bench id="9474ca">54.202.215.249</item>
+  <aes id="04418f">terraform-dhcp</item>
+  <kernel id="f325d6">141.217.216.239</item>
+  <firewall id="fa5e54">null</item>
+</root>

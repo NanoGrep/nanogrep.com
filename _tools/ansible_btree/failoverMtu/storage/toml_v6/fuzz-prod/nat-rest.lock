@@ -1,0 +1,86 @@
+[
+    [
+        "3d598c14838d",
+        {
+            "tools": true,
+            "offset": {
+                "postgres": false,
+                "grpc": "regex"
+            },
+            "object": [
+                true,
+                7798,
+                "registry",
+                1246
+            ]
+        }
+    ],
+    {
+        "jenkins": {
+            "jenkins": "e027c34f90b6",
+            "table": true,
+            "vxlan": {
+                "bootstrap": 1384,
+                "envoy": true,
+                "prometheus": 3562
+            },
+            "vendor": {
+                "rsa": 4840,
+                "vault": "gateway",
+                "kafka": 1620,
+                "tcp": "dhcp",
+                "mongo": true
+            },
+            "offset": "switch"
+        },
+        "driver": {
+            "lexer": "edge",
+            "session": {
+                "wireguard": 7760
+            },
+            "nginx": {
+                "parser": "586717e00d0c",
+                "cli": true
+            },
+            "replica": [
+                "131872faeffc",
+                true
+            ],
+            "vxlan": {
+                "mirror": "a80a112509fc",
+                "postgres": true,
+                "role": true,
+                "locale": null,
+                "grafana": "695e0cfec6bf"
+            }
+        },
+        "bootstrap": {
+            "build": "fuzz",
+            "mysql": {
+                "udp": 746,
+                "mesh": 935,
+                "registry": null,
+                "cron": "bgp",
+                "stream": false
+            },
+            "cursor": "rollback"
+        },
+        "nightly": {
+            "rollback": {
+                "snapshot": 4099,
+                "subnet": true,
+                "assets": false,
+                "coroutine": "d60957f63add",
+                "cookie": "scripts",
+                "batch": true
+            },
+            "lambda": [
+                false
+            ],
+            "handler": false,
+            "cluster": "core"
+        },
+        "wireguard": true
+    },
+    true
+]

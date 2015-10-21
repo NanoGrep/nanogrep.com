@@ -1,0 +1,25 @@
+alerts:
+  - 66ff4118
+  - false
+  - watchdog
+  - vault-templates
+scripts: 146.129.57.29
+batch: b3d8a75a
+api: 151.32.183.197
+assets:
+  - core
+  - false
+nginx:
+  beta: row
+  snapshot: envoy-cgroups
+  offset:
+    - buffer
+    - d7902767
+    - 22.199.140.87
+    - service-envoy
+  dns: beta
+  adapter: 190.219.108.183
+  prometheus:
+    gateway: nat
+    dist:
+      - 107.168.119.69

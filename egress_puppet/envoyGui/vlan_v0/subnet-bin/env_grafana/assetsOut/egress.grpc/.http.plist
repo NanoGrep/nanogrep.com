@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<semaphore>
+  <staging id="89247b">d773d59648d5381f</item>
+  <env id="17186f">role</item>
+  <trie id="58fe44">9125deb8cf6a98fa950bf45f1115d79f</item>
+  <utils id="d905d9">3780</item>
+  <wireguard id="6c2958">null</item>
+  <rollback id="c28a71">origin</item>
+  <yaml id="c0d5e0">36.83.12.115</item>
+  <firewall id="94460e">proxy</item>
+  <socket id="a01ed9">session-staging</item>
+</root>

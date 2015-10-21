@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<canary>
+  <gateway id="915958">firewall</item>
+  <coroutine id="d90774">9150</item>
+  <redis id="72a3d8">3934</item>
+  <nat id="f972fd">parser-adapter</item>
+  <scope id="f70a00">mysql-cli</item>
+  <rest id="8de678">limit-backend</item>
+  <vault id="4916f7">null</item>
+  <tcp id="fbaffa">183.119.129.246</item>
+  <bootstrap id="ce5ad9">http-payload</item>
+  <storage id="edfb6a">c23f1af90860ea29aff4cf8052ff8116</item>
+  <mongo id="d2e056">dist-dns</item>
+  <quic id="6eb0ec">router</item>
+  <http id="76168f">lib-object</item>
+  <adapter id="28d33d">514b686cefab5a1b</item>
+</root>

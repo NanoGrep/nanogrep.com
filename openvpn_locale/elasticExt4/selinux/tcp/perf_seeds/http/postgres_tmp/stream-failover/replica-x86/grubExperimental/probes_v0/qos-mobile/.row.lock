@@ -1,0 +1,64 @@
+{
+  "core": {
+    "mutex": {
+      "failover": true,
+      "dist": [
+        "proxy",
+        false,
+        true
+      ]
+    },
+    "cgroups": true
+  },
+  "switch": {
+    "trie": 6362,
+    "cursor": null,
+    "vault": 5678,
+    "replica": {
+      "core": "parser",
+      "handler": {
+        "core": "de7d5010c9b3",
+        "registry": "proxy"
+      },
+      "registry": null
+    },
+    "semaphore": {
+      "frontend": null,
+      "bloom": {
+        "row": false,
+        "mongo": true,
+        "ldap": 4582,
+        "jwt": null
+      }
+    }
+  },
+  "pod": true,
+  "cors": true,
+  "controller": {
+    "cluster": false,
+    "mocks": [
+      "staging",
+      {
+        "payload": false,
+        "factory": null
+      },
+      []
+    ],
+    "trie": {
+      "failover": {
+        "schema": true
+      },
+      "tls": {
+        "registry": "build"
+      },
+      "legacy": true,
+      "edge": {
+        "ldap": true,
+        "coroutine": false,
+        "traces": true,
+        "sha256": "6e4d0398b4c8"
+      }
+    },
+    "column": true
+  }
+}

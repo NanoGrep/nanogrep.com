@@ -1,0 +1,8 @@
+patch.batch=offset
+alerts_ldap=tenant-ingress
+threadpool_nat=lib
+hmac_socket=replica-kafka
+scripts_user=null
+frontend_limit=volume
+request_ldap=true
+dnsregex=45c8f8110d64e57d

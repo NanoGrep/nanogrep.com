@@ -1,0 +1,109 @@
+{
+    "utils": {
+        "upstream": {
+            "column": {
+                "bucket": null,
+                "sdk": false
+            },
+            "quic": true,
+            "shard": {
+                "helpers": false,
+                "service": 2543,
+                "replica": 1545,
+                "bucket": false,
+                "legacy": 1251
+            },
+            "nat": {
+                "token": false,
+                "bgp": "942268dbeb13",
+                "firmware": null,
+                "prod": "envoy"
+            },
+            "vlan": 5193,
+            "semaphore": {
+                "protobuf": false,
+                "ingress": true,
+                "tenant": 8936,
+                "switch": false,
+                "cgroups": "iptables"
+            }
+        },
+        "group": [
+            {
+                "cache": null,
+                "watchdog": false,
+                "proxy": "ea2fc799d719",
+                "vault": "6270d6ee361e",
+                "rest": false
+            },
+            "109b18febcd0",
+            [
+                "19f6c2ea6a4e",
+                "dhcp",
+                "f9f6d91b68bc"
+            ],
+            6078
+        ],
+        "kerberos": {
+            "protobuf": "worker",
+            "switch": {
+                "tools": "nat",
+                "edge": "parser",
+                "btree": "jwt"
+            }
+        },
+        "audit": [
+            false,
+            "request"
+        ]
+    },
+    "sandbox": "vendor",
+    "tcp": {
+        "index": {
+            "mqtt": true,
+            "prod": {
+                "common": "assets",
+                "migrations": false,
+                "snapshot": true,
+                "hotfix": "76e1c6e73bca",
+                "driver": false
+            },
+            "controller": [
+                "queue"
+            ]
+        },
+        "iptables": {
+            "daemon": "audit",
+            "kafka": {
+                "alerts": 5030,
+                "group": "9e7a4448695b"
+            },
+            "dist": 3008,
+            "mesh": false,
+            "vendor": 8391
+        },
+        "scope": "group",
+        "runner": {
+            "envoy": {
+                "ceph": "stream",
+                "table": false
+            },
+            "retry": 6453,
+            "alerts": [
+                "threadpool",
+                "locale",
+                "index",
+                true
+            ],
+            "driver": null
+        }
+    },
+    "parser": [
+        8909,
+        null
+    ],
+    "nightly": {
+        "handler": true
+    },
+    "tools": "939a4ee58ab7"
+}

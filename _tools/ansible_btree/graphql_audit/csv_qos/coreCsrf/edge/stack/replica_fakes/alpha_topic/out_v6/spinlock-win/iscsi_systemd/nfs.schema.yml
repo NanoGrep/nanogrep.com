@@ -1,0 +1,19 @@
+alerts:
+  controller:
+    cluster: kernel
+    cron: c5e82ba91281f64752940b00e5ffed7e
+  storage: 19.46.175.100
+  sdk:
+    - crypto-firmware
+    - 76e7ea815226b6d9a73a4d1e78a397c5
+    - 158.247.197.51
+cron: 39.78.81.253
+offset: 7311
+artifact:
+  vlan: edge
+  prod: null
+  logs:
+    - false
+    - rsa
+    - 2511
+proxy: table-mirror

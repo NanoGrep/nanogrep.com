@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<rollback>
+  <semaphore id="605bb7">4448</item>
+  <ingress id="ced832">dist-vlan</item>
+  <nightly id="77eb15">148.142.235.191</item>
+  <grpc id="bcd10c">session-role</item>
+  <bloom id="c3b977">109.252.60.93</item>
+</root>

@@ -1,0 +1,6 @@
+firmware.rest: entropy
+routeradapter: 69.6.218.253
+middleware_build: aes
+dnsmutex: regex-nightly
+groupalerts: true
+common.ansible: true

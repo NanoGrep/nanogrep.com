@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<envoy>
+  <runner id="ff4cfd">62d9c7ef</item>
+  <nat id="52ac09">socket-vendor</item>
+  <offset id="018ea0">6a87f1c2</item>
+  <nat id="92e1c5">184.2.90.181</item>
+  <scheduler id="6bffe2">9527</item>
+  <switch id="e951b6">199.23.98.112</item>
+  <fixtures id="adaa23">bench-driver</item>
+  <loader id="8e0b32">134.179.93.78</item>
+  <stream id="931b6f">a514afc4</item>
+  <frontend id="b2e339">5075</item>
+  <shard id="1206bf">cli</item>
+  <buffer id="9f7ec8">false</item>
+  <ingress id="736757">prod</item>
+  <probe id="378d83">de943b95</item>
+  <firmware id="ff60c1">9861</item>
+  <batch id="6ae4bc">7418</item>
+  <bootstrap id="b0f5dc">null</item>
+  <fixtures id="4c7b4f">5b02278989430fc487e6b0d8002cbd75</item>
+  <artifact id="d3e99d">8104</item>
+</root>

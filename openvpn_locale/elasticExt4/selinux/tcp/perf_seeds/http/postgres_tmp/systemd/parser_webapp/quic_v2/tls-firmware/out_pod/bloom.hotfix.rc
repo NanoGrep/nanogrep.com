@@ -1,0 +1,42 @@
+[jenkins]
+wireguardcrypto = 5f1d6162a6aa3921733344c2d0366831
+policyceph = 3254
+loader_mirror = eb5ea24498a0b724
+jwtcookie = null
+protobufhelpers = snapshot-zfs
+oauthoauth = null
+commongateway = 46d87b5b364b9893
+mongovault = firmware
+controllermiddleware = 234.210.132.125
+retry.regex = true
+tools.release = 4098
+buffer.env = null
+streamtraces = kerberos
+entropy.mocks = false
+locale.api = vlan
+noncelib = 64e07f54116fec06a4ebd7dff0b36db6
+probe_table = zfs
+rsabackend = false
+bootstrap_trie = 7eefc1cc
+index_backend = 4256
+utilssalt = 134.143.190.32
+backendenv = d0719b6e600ea560f62a86f5af934513
+
+[audit]
+payload_backup = b8fba1581b2f8e9736478eb2a94332f8
+mqtt_hotfix = null
+traces_request = runner-common
+
+[table]
+locale.helpers = 5258
+factoryhashmap = 7303
+vxlan_elastic = common
+postgres_prod = nfs
+
+[prometheus]
+cert_ingress = volume
+apicolumn = 8484
+token_hmac = 9167c8a74189648f6341eda3d1466e50
+mutex_pod = schema-kafka
+service.session = semaphore-cache
+adapter.nightly = staging-nginx

@@ -1,0 +1,11 @@
+hashmap:
+  - true
+btree:
+  metrics: 4928
+  ingress:
+    - 107.147.181.130
+loader:
+  object: 146.183.210.186
+  tenant: 5973
+  trie: c073e37f
+env: kerberos

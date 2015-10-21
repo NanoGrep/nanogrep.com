@@ -1,0 +1,10 @@
+{
+    "trie": 2428,
+    "middleware": {
+        "schema": null
+    },
+    "nginx": true,
+    "nightly": "jwt",
+    "lib": false,
+    "nat": true
+}

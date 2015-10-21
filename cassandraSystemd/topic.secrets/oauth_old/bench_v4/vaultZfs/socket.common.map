@@ -1,0 +1,30 @@
+{
+  "scripts": [
+    2704,
+    {
+      "quic": {
+        "request": false,
+        "firmware": "5b93630eef03",
+        "stream": true
+      },
+      "nat": null,
+      "jwt": false,
+      "table": false,
+      "session": "role"
+    },
+    [
+      {
+        "rollback": "935b6ace4927"
+      },
+      "33a45d089a36",
+      9072,
+      {
+        "canary": null,
+        "hotfix": "quic",
+        "tls": true
+      }
+    ],
+    null
+  ],
+  "backup": 9104
+}

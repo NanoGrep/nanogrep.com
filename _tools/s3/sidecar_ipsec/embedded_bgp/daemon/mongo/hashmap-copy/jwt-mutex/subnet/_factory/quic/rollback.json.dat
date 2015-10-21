@@ -1,0 +1,16 @@
+tenant,index,canary
+null,null,release
+1a998b67b84098e3ad96354c40c7b8c0,59.98.239.6,4bc89f7a5bd8fc1f
+factory-shard,coroutine-heap,null
+129.35.196.149,response-loader,86a71bcef520781f9a238e39352b6967
+f78fd81b,heap,16.77.233.146
+487,f7b430438f615ce22fd8f83d95d4203f,tools
+42a9c0f9d3ac25a3,null,prod-request
+128.97.148.235,trie-env,daemon
+legacy,btree-tenant,181.125.81.201
+204.212.228.214,switch-jenkins,251.11.231.126
+50.228.181.42,true,limit-legacy
+4521,139.118.112.101,object
+9677,ingress,33e72d0d12d918edce7f1a1723aa8be3
+coroutine,9b113294,true
+btree-coroutine,payload-backup,session-gateway

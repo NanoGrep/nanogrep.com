@@ -1,0 +1,1 @@
+{"backend": [3944, {"vault": false, "sha256": {"logs": null, "json": false}, "legacy": {"lib": null, "cron": "934dfcf9cdba", "nginx": true, "rollback": false, "cli": "299b42f3ad3b"}, "vendor": [], "mapper": {"iptables": "tools", "fixtures": true, "mesh": 4734, "cursor": true, "audit": "de50087ecb11", "token": "release"}}, [["role", "a5fb94dd931d", true, true], 4419]]}

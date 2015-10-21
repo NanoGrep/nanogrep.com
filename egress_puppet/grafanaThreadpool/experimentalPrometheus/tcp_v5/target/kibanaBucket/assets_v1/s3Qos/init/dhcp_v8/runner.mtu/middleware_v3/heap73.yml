@@ -1,0 +1,18 @@
+pipeline: lexer
+build: coroutine
+backup:
+  index: 6144
+  postgres: 8607
+  parser:
+    rollback:
+      audit: false
+      gateway: watchdog-compiler
+      lambda: role-mongo
+      loader: release
+    cache: 2320
+    api: 2286bab0
+    mutex:
+      - prometheus-row
+socket:
+  artifact: null
+  service: null

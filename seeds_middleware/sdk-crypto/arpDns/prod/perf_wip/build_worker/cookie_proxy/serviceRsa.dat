@@ -1,0 +1,15 @@
+daemon,vault,legacy,lexer
+null,59.135.175.51,8345,null
+false,24.114.175.86,true,9279
+dns,40.169.136.19,175.91.166.91,alerts
+908,retry,1015,vlan-utils
+kernel,fuzz-proxy,build,54.200.56.90
+true,08947b830e379cee,false,7560620d9b97407d
+35.89.52.53,2797,backup-prod,false
+mysql,worker,3ee04b3a,heap-postgres
+6791,legacy,1f1f0f54,3606
+compiler-firewall,6960,false,false
+btree,user-wireguard,6206,54b7dc81
+4548,false,null,false
+nginx-firmware,null,true,mapper
+graphql-user,180.146.0.246,241.146.187.45,staging-alerts

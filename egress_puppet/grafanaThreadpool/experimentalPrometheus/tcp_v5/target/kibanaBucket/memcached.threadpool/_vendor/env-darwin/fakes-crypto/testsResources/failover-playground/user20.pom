@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<nfs>
+  <canary id="e3c62c">false</item>
+  <zfs id="b580ec">gateway</item>
+  <entropy id="c0e56d">storage-probe</item>
+  <snapshot id="08f6fa">38.41.153.227</item>
+  <object id="43c43f">bgp-bucket</item>
+  <ldap id="edaf04">daemon-vlan</item>
+  <tools id="f473a9">false</item>
+  <terraform id="f4c243">e6a0347fe040d29e0e4349cbd18b9d9c</item>
+  <traces id="e4f70f">4448</item>
+  <role id="bcda4d">6666</item>
+  <probe id="69844e">8f31784d</item>
+  <mirror id="42f7c9">session</item>
+  <mirror id="845bfb">true</item>
+  <entropy id="1c8336">cd4759237f5177c732436ffbb087d525</item>
+  <response id="fc53ca">200.104.152.164</item>
+  <mapper id="7d53cb">dhcp-retry</item>
+  <snapshot id="a30d53">nfs-fuzz</item>
+  <beta id="0e5a79">subnet</item>
+</root>

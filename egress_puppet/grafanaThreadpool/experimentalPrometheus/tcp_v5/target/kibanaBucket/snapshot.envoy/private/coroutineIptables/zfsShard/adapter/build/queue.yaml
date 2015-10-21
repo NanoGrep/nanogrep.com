@@ -1,0 +1,36 @@
+mirror: 113.99.48.124
+session:
+  pod: buffer-mirror
+  ingress: 37.102.77.30
+  stack: eea6eb9921a24ac44e4494ac0daf515c
+tls:
+  rollback:
+    - 3118
+    - pod
+    - dd958199a894a3e5
+  nat: prometheus
+  vault: true
+  backend:
+    - 4258
+    - 7369
+    - postgres-cookie
+  role: 1096
+tls: 3832
+cluster:
+  ldap: 149.38.214.52
+  backup:
+    ldap:
+      - backup
+      - 4124
+      - 7895
+      - d28e322e
+    worker: true
+    batch: vault-firewall
+    prod: locale-terraform
+    snapshot: 072e4a1178d94d57478f46eeeb4b3c7e
+  mongo:
+    topic: retry
+    handler:
+      - 70.209.63.46
+      - entropy
+rollback: 65f9629a

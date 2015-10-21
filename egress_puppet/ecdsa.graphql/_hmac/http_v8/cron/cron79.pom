@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<kerberos>
+  <redis id="598a54">7561</item>
+  <vendor id="aa97a8">mocks-kernel</item>
+  <grafana id="739d4d">false</item>
+  <templates id="319406">238.2.235.190</item>
+  <cron id="81dd3a">7d717362dceedd2d</item>
+  <watchdog id="44a04e">48d8c608</item>
+  <vlan id="a12720">fbc2194f</item>
+  <schema id="533475">jwt</item>
+  <cli id="ad0bc8">1568</item>
+  <offset id="7dcf34">228.129.217.57</item>
+  <probe id="f753d8">sdk-rollback</item>
+  <vendor id="d01131">186.133.154.245</item>
+  <cache id="24c36a">247.72.127.105</item>
+  <origin id="c1bec5">volume-logs</item>
+  <middleware id="c301e0">heap-dist</item>
+  <cache id="e0b80f">3759</item>
+  <upstream id="2447da">3520</item>
+  <cgroups id="7d8fed">controller</item>
+  <jenkins id="d2925a">sandbox</item>
+  <sandbox id="63fb8d">policy</item>
+  <iptables id="917ea0">3373</item>
+</root>

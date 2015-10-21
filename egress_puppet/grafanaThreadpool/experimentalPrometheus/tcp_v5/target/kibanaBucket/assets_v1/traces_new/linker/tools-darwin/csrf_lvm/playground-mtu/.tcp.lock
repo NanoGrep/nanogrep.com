@@ -1,0 +1,96 @@
+{
+  "staging": {
+    "aes": "kerberos",
+    "heap": {
+      "udp": [
+        8341,
+        null,
+        "group"
+      ],
+      "patch": [
+        "f149354f9cd0",
+        null,
+        3625,
+        true
+      ],
+      "cluster": [
+        null,
+        null,
+        8225,
+        true
+      ],
+      "dist": [],
+      "frontend": {
+        "tests": false,
+        "tls": null,
+        "yaml": "17f7f9b07d08",
+        "common": null
+      }
+    },
+    "sandbox": null,
+    "fixtures": [
+      {
+        "tls": null,
+        "redis": "daemon"
+      },
+      false,
+      null
+    ]
+  },
+  "group": {
+    "alerts": true,
+    "audit": {
+      "json": [],
+      "row": [],
+      "patch": {
+        "failover": "watchdog"
+      },
+      "replica": {
+        "batch": "da39e3753de0",
+        "backup": true
+      }
+    }
+  },
+  "backup": {
+    "kerberos": {
+      "parser": "52ddc3fcd337",
+      "bgp": {
+        "core": "build",
+        "dhcp": "4d586d0c6177"
+      },
+      "frontend": false,
+      "locale": {
+        "traces": true
+      },
+      "driver": {
+        "limit": true,
+        "threadpool": "204ffe1931aa",
+        "request": "mongo",
+        "yaml": null,
+        "edge": null
+      }
+    },
+    "semaphore": {
+      "metrics": [
+        null,
+        "e7b1cb26b65d"
+      ],
+      "vendor": {
+        "terraform": null,
+        "daemon": true,
+        "buffer": false,
+        "bucket": "c767998a5c5f",
+        "retry": "1a0226960570"
+      },
+      "scripts": "ceph",
+      "offset": false,
+      "aes": "probe",
+      "lambda": {
+        "offset": true,
+        "bloom": "3524a7892f54",
+        "mocks": "be0f3d2b352d",
+        "pipeline": true
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+hashmap:
+  handler:
+    - 73.198.238.175
+    - payload-dns
+  bucket: 9804
+  config:
+    - 253.69.181.238
+    - 918ade86
+    - true
+  cgroups: systemd-volume
+firewall:
+  - true
+fuzz: 9057

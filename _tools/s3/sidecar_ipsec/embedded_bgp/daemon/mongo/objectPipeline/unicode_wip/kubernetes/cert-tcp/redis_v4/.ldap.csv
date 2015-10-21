@@ -1,0 +1,17 @@
+dns,failover,envoy
+yaml,false,tcp-oauth
+factory,39778405,true
+true,true,false
+7674,true,bd512dc6af230b8c1772c2179fed9c5f
+cursor-mutex,146.45.11.150,scheduler-iptables
+frontend,false,true
+cdb3384e3000903002bd089da113594d,c0e9f5b6,349f7acf
+9999,1.249.191.154,76c6a61c
+json-firewall,53.42.191.201,false
+iptables,null,zfs-helpers
+null,false,7b8f7b6beae3217308ab99a7c0ac352c
+5e5fd52179831161fe31ec7c627319a9,controller,http
+loader-regex,role,true
+2980,mapper,110.194.189.140
+5175,payload,true
+87e319b8,adapter-mongo,9718bd4a

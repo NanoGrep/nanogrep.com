@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <helm id="0d3b15">true</item>
+  <ceph id="a6e983">99.168.149.25</item>
+  <kernel id="8a4b6b">http-core</item>
+  <response id="f62e68">snapshot</item>
+  <semaphore id="9ed4e1">2895</item>
+  <proxy id="68d6fd">3203</item>
+</root>

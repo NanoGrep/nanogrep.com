@@ -1,0 +1,10 @@
+artifact: null
+session: user
+tls: retry-cursor
+heap:
+  audit: router
+  tests: null
+  shard: null
+  sdk: lib-nginx
+ansible:
+  tenant: semaphore

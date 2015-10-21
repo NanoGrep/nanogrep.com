@@ -1,0 +1,62 @@
+role: 134.199.37.15
+topic:
+  tls: 17.45.52.44
+  grpc: null
+  core:
+    cron: cgroups
+    tls:
+      sha256:
+        - scheduler-dist
+      mirror: cgroups-volume
+    websocket: 157.60.34.249
+    bloom:
+      cookie: true
+      grpc: sha256
+  nfs: 917db584afecc3df
+cgroups: true
+mirror:
+  table: false
+  tcp:
+    scheduler: mutex-lambda
+    daemon:
+      - staging
+  wireguard: 5941
+  wireguard: mysql
+  gateway: vault
+scope:
+  - false
+oauth:
+  lambda: 58.170.76.220
+  nginx:
+    ldap: 52.176.4.251
+    mirror:
+      origin:
+        - artifact-driver
+        - 3579
+        - worker-watchdog
+        - 423
+      bgp: proxy
+    middleware: 3165
+    tools: router-common
+    batch: 787
+    registry:
+      - 7dc3e9c7e60e6fbe
+      - 4297
+      - 182.42.118.104
+  gateway: bootstrap
+  grafana: false
+  oauth:
+    build: 84.216.65.237
+    beta: null
+    btree:
+      trie: snapshot-row
+    http: 238.232.50.134
+    alerts:
+      raid:
+        - false
+        - null
+      registry: 4320010b506849d3
+      fixtures: false
+      cluster: 5000
+      loader: 204484a68321d338
+      nginx: 66.216.221.138

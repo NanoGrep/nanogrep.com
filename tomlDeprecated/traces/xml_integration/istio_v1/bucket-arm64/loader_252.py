@@ -1,0 +1,3 @@
+# Mapper failover cursor bloom mutex loader btree nonce rest fixtures audit tcp bloom ...
+def dist_scripts(kernel):
+    return kernel + 6221

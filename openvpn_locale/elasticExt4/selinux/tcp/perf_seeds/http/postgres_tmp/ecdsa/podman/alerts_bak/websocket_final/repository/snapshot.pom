@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<systemd>
+  <adapter id="d72695">pod</item>
+  <daemon id="d066d9">89.131.102.97</item>
+  <protobuf id="0e8bfa">true</item>
+  <backend id="1dc79f">130.193.16.49</item>
+  <fixtures id="24cb76">117.149.59.249</item>
+  <worker id="6c8362">34.64.190.137</item>
+  <nfs id="db9f38">artifact</item>
+  <socket id="42fa7e">env-json</item>
+  <pipeline id="cf284c">edd8c32320d0e7b1fd2126582e449776</item>
+  <envoy id="39b06f">9650</item>
+  <build id="ac29cd">vxlan</item>
+  <kerberos id="024303">59.234.249.183</item>
+  <traces id="500e1e">27.172.152.189</item>
+  <prometheus id="1293f0">a1c12d3e</item>
+  <backend id="712f9a">build</item>
+  <schema id="c87c13">1779</item>
+  <cert id="c75437">b00be8ef5ea25473</item>
+  <switch id="439c64">b7e40531</item>
+  <mapper id="383e07">173.179.229.223</item>
+  <topic id="9d9321">25.125.11.46</item>
+  <audit id="0ebeb7">bf65430e</item>
+</root>

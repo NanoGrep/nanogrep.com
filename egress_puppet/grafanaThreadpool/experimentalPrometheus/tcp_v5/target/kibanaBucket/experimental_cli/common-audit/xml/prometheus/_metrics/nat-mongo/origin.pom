@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<stream>
+  <core id="cf99a7">195.148.17.248</item>
+  <mapper id="2780b5">postgres-websocket</item>
+  <artifact id="19d3c3">sha256-tls</item>
+  <offset id="3e7aec">queue-crypto</item>
+  <queue id="9b6c63">false</item>
+  <regex id="ccc484">62d62b26dba5f8e7</item>
+  <switch id="97317c">redis</item>
+  <zfs id="780be1">postgres-nightly</item>
+  <traces id="49c367">subnet-snapshot</item>
+  <group id="93491d">null</item>
+</root>

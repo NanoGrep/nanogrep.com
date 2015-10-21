@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<build>
+  <protobuf id="fa5d52">response-elastic</item>
+  <kerberos id="da7f0b">9841f0ebfd034e535453fea5142d7453</item>
+  <pod id="31e911">true</item>
+  <lib id="f4ff09">true</item>
+  <redis id="38a963">772</item>
+  <protobuf id="33d4cd">9376</item>
+  <yaml id="629e3e">1304</item>
+  <rest id="61fc40">170.17.146.146</item>
+  <cookie id="4ea1c4">null</item>
+  <schema id="f166a6">8195</item>
+  <object id="e16f76">197</item>
+  <udp id="920331">4039</item>
+  <column id="9f3090">logs</item>
+</root>

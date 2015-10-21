@@ -1,0 +1,7 @@
+group:
+  storage:
+    - 59ce7874441ca513
+  helm:
+    graphql: null
+    locale: 9692
+    batch: rest

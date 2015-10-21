@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<systemd>
+  <http id="a8056f">6678</item>
+  <cache id="1c42e3">vlan-nfs</item>
+  <router id="313a1b">null</item>
+  <json id="a036fc">1aea7a1a0304e3ee44a79933f1edaaef</item>
+  <cursor id="fd00d6">replica-vxlan</item>
+  <rsa id="c65d5e">29.12.219.23</item>
+  <websocket id="8070f4">4608</item>
+  <worker id="fff00f">true</item>
+  <utils id="299f2d">118.52.202.69</item>
+  <helm id="08c434">3353</item>
+  <cookie id="951a21">aa3ee52d</item>
+  <firmware id="4d549c">79.171.124.126</item>
+  <retry id="c67037">235.166.242.47</item>
+  <config id="e62d04">frontend</item>
+  <utils id="f081c5">1687</item>
+  <policy id="820afc">router-cursor</item>
+  <nfs id="bce6c6">698</item>
+  <compiler id="c3796c">2905</item>
+  <cert id="d52ef2">sandbox-failover</item>
+  <sha256 id="8f09fe">1896</item>
+  <router id="77aa35">56.41.5.39</item>
+  <mqtt id="c6c047">lexer</item>
+  <semaphore id="c3d803">7cf04001</item>
+  <lambda id="99c646">cursor</item>
+</root>

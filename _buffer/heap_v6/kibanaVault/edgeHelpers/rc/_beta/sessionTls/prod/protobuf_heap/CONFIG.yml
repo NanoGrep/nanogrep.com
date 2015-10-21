@@ -1,0 +1,23 @@
+factory: 27.8.184.240
+table: 2466
+common:
+  buffer:
+    - 3830
+  nightly: 9394
+  build: stack
+  factory:
+    cors:
+      table: oauth
+      fuzz: tests-cluster
+      response: 9f475d8a
+    replica: 150.80.191.115
+    postgres: 4261
+    edge:
+      response: 6444
+      socket: 221.233.57.45
+      bgp: null
+      frontend: backup-hmac
+      artifact: postgres-envoy
+    dns: 149.241.64.167
+  vault: true
+rest: 3658

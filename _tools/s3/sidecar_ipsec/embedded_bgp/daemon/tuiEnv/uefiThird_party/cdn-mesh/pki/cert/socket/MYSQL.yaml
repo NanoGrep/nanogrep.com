@@ -1,0 +1,4 @@
+retry: beta
+proxy: stack-vault
+sha256: 5867
+loader: node

@@ -1,0 +1,50 @@
+[
+    {
+        "regex": "stream",
+        "parser": "backend",
+        "offset": null
+    },
+    null,
+    [
+        {
+            "vault": {
+                "prometheus": null,
+                "grafana": "retry"
+            },
+            "ldap": {
+                "prod": false,
+                "lexer": "nfs",
+                "artifact": "fbd04ab3def0",
+                "bucket": null,
+                "pod": "8be3f101b40d",
+                "oauth": "websocket"
+            },
+            "locale": false
+        },
+        7448,
+        {
+            "fixtures": [
+                3331,
+                null,
+                false
+            ],
+            "cors": {
+                "stack": null,
+                "hotfix": "7bdd0ca93418",
+                "udp": false,
+                "adapter": "api"
+            },
+            "audit": {
+                "ingress": false
+            },
+            "row": {
+                "mysql": "mesh",
+                "prometheus": null,
+                "vxlan": "d9846eff67bd",
+                "raid": "index",
+                "salt": null,
+                "factory": "a0c13abcedfe"
+            }
+        }
+    ]
+]

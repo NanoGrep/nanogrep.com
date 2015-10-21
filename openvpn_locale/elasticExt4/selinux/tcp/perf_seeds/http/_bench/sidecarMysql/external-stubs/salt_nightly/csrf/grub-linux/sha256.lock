@@ -1,0 +1,22 @@
+{
+    "yaml": {
+        "backup": {
+            "metrics": {
+                "patch": 343
+            },
+            "helm": null,
+            "udp": {
+                "rsa": true
+            },
+            "vendor": "terraform",
+            "index": {
+                "metrics": true,
+                "node": true,
+                "yaml": true,
+                "prometheus": false,
+                "crypto": "coroutine"
+            },
+            "semaphore": "c4b965087b96"
+        }
+    }
+}

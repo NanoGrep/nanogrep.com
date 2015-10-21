@@ -1,0 +1,69 @@
+{
+    "rest": {
+        "hashmap": false,
+        "rsa": [
+            [
+                false,
+                false
+            ],
+            {
+                "firewall": true,
+                "backup": false,
+                "grpc": true,
+                "snapshot": "2906c690ac5e"
+            },
+            "e004075a2cd2"
+        ],
+        "migrations": {
+            "rollback": {
+                "worker": "20595ec596b5",
+                "nightly": false,
+                "cli": null,
+                "kernel": true,
+                "response": 2540
+            },
+            "dns": true,
+            "tests": [
+                false,
+                2914,
+                true,
+                true
+            ]
+        },
+        "node": {
+            "subnet": 2269
+        },
+        "volume": null,
+        "trie": false
+    },
+    "index": null,
+    "patch": [],
+    "session": {
+        "subnet": true,
+        "worker": [
+            [
+                null,
+                null,
+                false
+            ],
+            {
+                "helpers": "scheduler",
+                "nfs": 3322,
+                "group": false,
+                "driver": 1018
+            }
+        ],
+        "handler": false,
+        "adapter": {
+            "mutex": [],
+            "legacy": false,
+            "hotfix": {
+                "utils": true,
+                "api": null
+            },
+            "topic": "3a7915edb4f1",
+            "queue": 5203
+        }
+    },
+    "queue": 4395
+}

@@ -1,0 +1,40 @@
+group:
+  legacy: registry
+  iptables: 57c6ac067679225d278415fd30370931
+  artifact: 50cca60358f28d0ce63cdb75cd273257
+  canary:
+    table:
+      jwt: terraform-tests
+      snapshot: 7247
+      sha256: 8256
+      table: response
+      mysql: b9908d3bfcbcc50f
+    limit:
+      firewall:
+        - lambda
+        - role-handler
+        - 5ca9274aedb0db34e9ac0ef79654b0d4
+      alerts: 137.153.11.183
+      common:
+        - adapter-tests
+        - helpers
+    mongo:
+      mongo:
+        - subnet
+        - 6325
+        - e19edcf6319ee80e5cf148a2f992721d
+        - 112.199.201.16
+      dist: 9394
+      queue: 767
+      driver: false
+    heap: quic-heap
+    cli: edge
+  udp:
+    - 135.87.126.118
+    - elastic-row
+systemd: 47.214.23.107
+protobuf:
+  - 6382
+  - a6ca5061
+controller: shard-kernel
+driver: 9.5.236.195

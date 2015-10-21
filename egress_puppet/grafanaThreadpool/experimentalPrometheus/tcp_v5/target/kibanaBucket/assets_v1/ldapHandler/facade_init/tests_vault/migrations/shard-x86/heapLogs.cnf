@@ -1,0 +1,82 @@
+[fixtures]
+hotfix.mqtt = null
+patch_rsa = 076fc8910c6be6dae3bcad82a3dd4bd7
+localesandbox = false
+jenkins.stream = 9908
+node.trie = watchdog
+oauth_parser = 8409
+jwt_column = 51.27.168.11
+utils.quic = user-tenant
+beta_rollback = wireguard-rsa
+terraform.semaphore = 38.253.154.166
+artifact.yaml = jenkins
+toolsoffset = mysql-response
+mirror_cli = null
+graphql.node = 6141
+
+[migrations]
+row_env = mongo
+migrationscors = null
+scheduler_metrics = grafana-vendor
+compiler.http = 42.19.48.8
+
+[systemd]
+helmraid = 30.102.59.111
+firewall_parser = true
+volume_ceph = 29a6aea8a748b4e9
+snapshottenant = service-systemd
+httplib = false
+utils.zfs = 220.178.173.235
+migrations_firmware = a3b40216066d967dde98d73d0ded3341
+topic.origin = 5fcf6de4
+socket_cert = kernel
+
+[prod]
+tenant_aes = lambda
+hashmap_nat = 245.64.2.136
+rowcache = 6897
+oauthdns = null
+vendornginx = 01a78c848695ad0c624e02194f9eeb4d
+saltstorage = 241.66.174.124
+adapterlexer = 8eed436f0b90a778b63d9976b9c525f6
+nightly_dist = 3773
+canary_hashmap = 168.31.69.67
+templatesvault = limit
+tablealerts = policy
+releaseconfig = false
+meshjenkins = 6cab9cccc07ab9c7
+cert_threadpool = helpers
+protobufwireguard = 72.172.72.219
+offset_retry = 19.15.65.219
+handleroffset = 68.220.135.193
+mocks.terraform = shard
+utils.prod = true
+patch_entropy = 761609d54056126e2ce6c306cd63807a
+cursor_scope = 81.43.252.228
+compiler_mqtt = 177.186.135.244
+
+[websocket]
+logs_mongo = true
+schema.runner = socket
+nodecursor = 4249
+protobufrsa = hotfix-jwt
+ingresswebsocket = 256fd0bf
+api.tenant = cache
+retry_artifact = false
+buffer.staging = 5d46b78102f983e054d4896cafd713b6
+fuzz_payload = backend
+service.group = 5964
+auditoffset = c87c0d3b
+yaml.stream = 132.239.203.235
+helpers_quic = metrics-request
+stack.registry = schema-gateway
+helpers_factory = graphql-udp
+responsegrpc = a49c86ebc4f584c7bc07e6c7e61a2824
+ldapcli = 0826eeb62e339469
+bucketqueue = null
+socketsha256 = templates-edge
+common.postgres = ebb32c54
+tlsstaging = 129
+grafana.volume = bucket
+fuzz_compiler = 2e0000af054ddc7a
+triecommon = 159.95.117.217

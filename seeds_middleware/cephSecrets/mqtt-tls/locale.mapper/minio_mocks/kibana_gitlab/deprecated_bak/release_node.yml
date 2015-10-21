@@ -1,0 +1,9 @@
+token: 2120
+iptables: 226.203.164.116
+logs:
+  locale: 7638
+scripts:
+  daemon: null
+  shard: 86.240.170.112
+  row: mongo
+  mutex: true

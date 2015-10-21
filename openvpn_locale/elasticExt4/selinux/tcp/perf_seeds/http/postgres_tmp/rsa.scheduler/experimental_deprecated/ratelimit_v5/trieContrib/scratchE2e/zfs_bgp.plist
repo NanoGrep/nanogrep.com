@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<sha256>
+  <wireguard id="a12bef">null</item>
+  <staging id="33486a">true</item>
+  <terraform id="b1d07e">true</item>
+  <api id="9ff331">group</item>
+  <staging id="6ccc28">router</item>
+  <row id="234202">row-udp</item>
+  <cache id="f2ece0">sdk-middleware</item>
+  <buffer id="d4b693">1398</item>
+  <node id="21ae08">427e3903</item>
+  <mapper id="6f52ca">252.233.108.71</item>
+</root>

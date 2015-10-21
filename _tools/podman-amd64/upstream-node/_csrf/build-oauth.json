@@ -1,0 +1,133 @@
+{
+  "regex": {
+    "session": false,
+    "json": {
+      "driver": true,
+      "websocket": {
+        "buffer": "edge",
+        "lexer": null,
+        "user": true
+      },
+      "handler": {
+        "assets": "grpc",
+        "stack": "vendor",
+        "batch": 5870,
+        "loader": "07b19897e07f",
+        "mongo": null
+      },
+      "artifact": [],
+      "nightly": [
+        null,
+        "c9ddc7c5db38"
+      ],
+      "zfs": [
+        null,
+        false
+      ]
+    },
+    "index": {
+      "storage": {
+        "request": 1724,
+        "wireguard": 4958,
+        "beta": 2110,
+        "backup": "policy"
+      },
+      "sdk": true,
+      "proxy": {
+        "lib": 3594
+      }
+    }
+  },
+  "fixtures": null,
+  "pod": {
+    "firewall": null,
+    "schema": {
+      "vault": {
+        "batch": false,
+        "elastic": false,
+        "metrics": 9379,
+        "locale": "f8412a38b162",
+        "registry": "6dbd4af224f1",
+        "dns": null
+      },
+      "tools": null,
+      "protobuf": 370,
+      "mesh": false,
+      "zfs": null,
+      "backup": [
+        true,
+        false
+      ]
+    },
+    "assets": [
+      null,
+      true
+    ],
+    "nat": {
+      "upstream": true,
+      "rest": {
+        "edge": null,
+        "aes": true,
+        "vxlan": "udp",
+        "cron": "d348fb1df8ae",
+        "stack": "registry"
+      },
+      "service": {
+        "schema": false,
+        "session": "mysql",
+        "legacy": "tenant",
+        "migrations": null,
+        "heap": true
+      },
+      "factory": {
+        "wireguard": true,
+        "vlan": null,
+        "group": null,
+        "kerberos": "mapper"
+      }
+    },
+    "offset": {
+      "terraform": {
+        "artifact": "socket",
+        "frontend": "5f56fd6aeb7c",
+        "payload": false,
+        "dhcp": "hotfix",
+        "alerts": false,
+        "migrations": "001ed23aa5d4"
+      }
+    }
+  },
+  "sha256": "dns",
+  "retry": {
+    "kernel": {
+      "trie": null,
+      "nginx": 7391,
+      "backup": {
+        "adapter": false,
+        "postgres": false
+      }
+    },
+    "nonce": 9430
+  },
+  "limit": {
+    "zfs": {
+      "btree": false,
+      "ceph": "release",
+      "vendor": {
+        "subnet": "02b83745c633",
+        "backup": "699735f38902"
+      },
+      "compiler": {
+        "cron": null,
+        "snapshot": true,
+        "row": 1676,
+        "cert": "websocket",
+        "canary": "origin"
+      },
+      "helpers": {
+        "cluster": "13ee6b71474a",
+        "group": "23b370e46148"
+      }
+    }
+  }
+}

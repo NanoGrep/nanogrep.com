@@ -1,0 +1,23 @@
+worker: role-ingress
+kafka:
+  bloom: ad80a74930f11ba87b3b2c9d7e3c33c4
+  topic:
+    prod:
+      frontend: d898f1569fcc09aede5b0cfcfd50c419
+      controller: 70.220.74.142
+      grafana: 46.57.140.252
+      jenkins: fa3901195f282fd5
+  service:
+    build:
+      storage: origin-envoy
+    postgres: request
+    dist: 31de08cce5d05bee6c722083dfb4ff1b
+  helm:
+    table:
+      - false
+      - b49a1397
+      - mongo
+    rsa:
+      lib: 8437
+  gateway: false
+lambda: quic-service

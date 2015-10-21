@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<socket>
+  <coroutine id="27c4a3">8c8a1b8d5c43062f6a19d27c8186c725</item>
+  <threadpool id="8dc996">7115</item>
+  <cluster id="b5f4e3">null</item>
+  <hotfix id="781ecd">false</item>
+  <pod id="28c6e2">false</item>
+  <tools id="2240b0">middleware-hmac</item>
+  <queue id="93580c">0e3b3fc5</item>
+  <mutex id="04a244">7966</item>
+  <role id="8ae78c">26.116.205.30</item>
+  <yaml id="8a3574">4763</item>
+  <terraform id="97918f">159.33.68.32</item>
+  <failover id="57f4db">6772</item>
+  <schema id="115ed1">9318</item>
+  <shard id="7a47d7">handler-mutex</item>
+  <dist id="dd1f71">protobuf</item>
+  <payload id="c796cb">null</item>
+  <cgroups id="a39dde">bucket-trie</item>
+  <parser id="0f97f3">elastic</item>
+  <origin id="27bc6b">true</item>
+  <pod id="a22205">runner-switch</item>
+  <vendor id="406dc9">6321</item>
+  <socket id="e1b0a4">snapshot-sha256</item>
+  <proxy id="d4da29">1606</item>
+  <snapshot id="6997a0">rsa</item>
+  <nginx id="c38a60">parser</item>
+</root>

@@ -1,0 +1,37 @@
+{
+  "column": "56000c1e73a4",
+  "common": {
+    "trie": 1110,
+    "json": null,
+    "edge": {
+      "stream": "45b20a8c4291",
+      "mongo": "elastic",
+      "quic": "controller",
+      "hashmap": {
+        "session": "3432d5deb443"
+      },
+      "mqtt": {
+        "grafana": false,
+        "bgp": true,
+        "router": null
+      }
+    },
+    "envoy": "e8ead16e8478",
+    "stack": {
+      "mesh": [],
+      "entropy": null,
+      "bench": null,
+      "failover": true,
+      "cert": "systemd",
+      "mysql": {
+        "jwt": true,
+        "vault": true,
+        "helpers": false,
+        "payload": true,
+        "index": false,
+        "cert": 2260
+      }
+    }
+  },
+  "nginx": false
+}

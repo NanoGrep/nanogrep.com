@@ -1,0 +1,8 @@
+proxy: grafana
+nightly:
+  scope: true
+api: 83.65.177.94
+stack: f90d23da10f351ef391b4482f6c5fb56
+env: 25.25.220.203
+kernel:
+  - mongo-fuzz

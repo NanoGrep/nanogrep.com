@@ -1,0 +1,16 @@
+sdk:
+  queue: dccdd0bf89617506cd9c2544ebd542a7
+  mqtt:
+    proxy: 468
+    dns:
+      cursor: 9564
+      wireguard: 0171e67c
+      iptables: fc173f9a
+      stack: 9412
+      pod: 8905
+      adapter: 89
+  adapter: ldap-session
+  router: null
+  systemd: 229.165.60.182
+dns: node
+api: b5c9fadc1691eea26f71d06b5ed11108

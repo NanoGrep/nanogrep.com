@@ -1,0 +1,55 @@
+[token]
+bootstrapswitch = 574facf9
+topic.migrations = core
+http_compiler = mirror
+adapter_loader = jenkins-dist
+yaml.buffer = 7757
+envoy_probe = false
+postgrestenant = 3962
+lambdalegacy = btree
+firmwarecert = build
+sandbox_backend = tenant-iptables
+runner.topic = 663cffe5aba0fcd4
+payloadvolume = cookie-udp
+ansibleelastic = grpc
+sandbox_nonce = 5457
+jenkins.graphql = 193.20.103.215
+payloadcron = 200.238.226.211
+
+[redis]
+nonce.kerberos = 7739
+jwt_node = true
+stackbackup = 665
+watchdogtemplates = 9580
+cryptocookie = assets
+hashmap_dhcp = btree
+fixtures.mongo = 9545
+nightly.controller = 107.134.228.99
+rsa_salt = 3014
+upstream.graphql = switch
+staging.common = json-utils
+pod_config = 3e800386
+session.handler = tls
+redis.node = grpc
+mappermongo = envoy
+mutexaes = envoy-request
+canary.mocks = null
+envoysdk = true
+traces.switch = helpers
+mqtt_ldap = bench-table
+batch_socket = false
+vaultmirror = gateway-yaml
+edgecompiler = true
+switchudp = 2292a02918765ea6
+driver.offset = probe-cache
+canary.terraform = json-lambda
+mirror.role = 63ca68ac6ae943de
+middlewarerest = null
+systemd.json = beta-backend
+canary.service = bootstrap-ansible
+
+[runner]
+fixtures_driver = 3237
+frontend.rollback = mapper
+replica_payload = 53.97.79.159
+kernel.tools = 67.166.21.194

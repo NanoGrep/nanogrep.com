@@ -1,0 +1,14 @@
+cluster,sandbox,utils,proxy,kerberos
+aes,bloom-mongo,locale,2586,475d95f157b533200d9eec4ee9e52bee
+148.224.49.245,ae1a95c5cd702f25,bloom-cli,101.72.234.36,alerts-user
+true,false,7106fd00054e3d3ed17ccbf13c0e5e6a,false,tests-lexer
+salt-adapter,a4c0df09,a7892d35b5c5cdcc,4677,3376
+ada183b2,9c36e1ed,false,null,7a4965e5
+90.174.86.114,33.167.153.38,eb9a19ac6d5c7cf695bb6240a99b83ca,977,250bd3bcae4354d3
+false,12ed25e5,pipeline-vault,3bfec5f01c0c2aace1189a5c9e2a1d04,105.205.165.131
+parser-role,de79c31f,subnet-scheduler,448,watchdog-cursor
+5104,5207,39,1c4cafe36edad080,tcp
+null,16a7c001,compiler,8049,true
+udp-zfs,tools-stream,group-cors,1827,true
+227.129.215.65,router-mysql,786,218.138.133.133,quic
+c634dd7dc0d39c4d1f946c91d21152ed,943f8bb9,switch-vault,false,failover-entropy
