@@ -1,9 +1,0 @@
-watchdog: 138.117.189.60
-adapter: utils-entropy
-firmware:
-  sha256: mocks
-offset:
-  node:
-    - 2771
-    - false
-    - b0f0ef97e71667b3e599e190752f29b4

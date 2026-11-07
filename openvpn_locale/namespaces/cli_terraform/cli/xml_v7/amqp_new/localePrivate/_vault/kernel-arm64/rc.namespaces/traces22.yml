@@ -1,7 +1,0 @@
-worker: config-scope
-runner: 2b337b9d395fd743
-patch:
-  lambda: 157820ce8682230e
-  nightly: 91.76.235.165
-  request: vxlan-sha256
-artifact: null

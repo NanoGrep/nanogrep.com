@@ -1,3 +1,0 @@
-[batch]
-tcp.quic = null
-protobuf.wireguard = vxlan

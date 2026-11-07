@@ -1,4 +1,0 @@
-upstream: 3243
-dist: jwt-aes
-jwt: entropy-trie
-rest: 94.192.228.76

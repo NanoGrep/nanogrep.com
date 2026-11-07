@@ -1,9 +1,0 @@
-storage:
-  - patch-tests
-traces: middleware
-middleware: cors
-heap:
-  jwt: false
-  staging: firewall
-  jenkins: 27.70.122.223
-  oauth: false

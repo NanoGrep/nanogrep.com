@@ -1,6 +1,0 @@
-buffer: true
-nfs:
-  - 5ec329bfbfb58e6135fc591c399f8c83
-  - prod-retry
-  - 222.4.105.233
-salt: 35ca1965f10752fa

@@ -1,9 +1,0 @@
-failover: wireguard
-prod: 9592
-common: crypto
-trie:
-  - 165.25.49.56
-  - 405
-  - 79.6.253.177
-failover: null
-object: 0b874411

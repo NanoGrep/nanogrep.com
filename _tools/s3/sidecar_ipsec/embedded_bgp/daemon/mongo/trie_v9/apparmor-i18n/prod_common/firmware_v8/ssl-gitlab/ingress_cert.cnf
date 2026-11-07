@@ -1,7 +1,0 @@
-sdk.api: vxlan-staging
-hmac.nightly: ab03298d158c89f0
-origin_redis: dist-prometheus
-ingress_topic: 70.173.97.4
-lambda.user: 83.226.231.100
-scriptsproxy: 7.136.208.54
-subnet_row: false

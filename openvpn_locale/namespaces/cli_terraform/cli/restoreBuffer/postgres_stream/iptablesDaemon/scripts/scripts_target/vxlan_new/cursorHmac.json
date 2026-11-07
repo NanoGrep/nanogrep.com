@@ -1,1 +1,0 @@
-[false, {"mongo": {"fixtures": "0a01b1acc6ad", "mirror": {"migrations": 1399, "postgres": false, "buffer": "batch", "alerts": false, "pod": "core"}}, "kafka": false}, null]

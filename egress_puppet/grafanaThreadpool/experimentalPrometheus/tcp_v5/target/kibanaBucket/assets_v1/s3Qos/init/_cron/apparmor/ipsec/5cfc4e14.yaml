@@ -1,5 +1,0 @@
-hotfix: 139.125.254.160
-subnet: helm
-http: runner-release
-websocket:
-  - 7694

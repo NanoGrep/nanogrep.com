@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<raid>
-  <yaml id="6b86fb">role-proxy</item>
-  <postgres id="3fbd67">6.74.173.189</item>
-  <policy id="d043f3">9047</item>
-  <queue id="64d51a">yaml</item>
-</root>

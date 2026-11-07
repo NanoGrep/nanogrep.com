@@ -1,9 +1,0 @@
-sdk,build,adapter,policy,scope,salt,prod
-178.8.221.120,9363,7375,quic,617fea842c0e1a0e,209.105.231.158,7a8bda7d7c9044038c642af021b4ffc3
-edge-bgp,fixtures-elastic,oauth,5499,upstream-lib,jenkins-mesh,proxy-migrations
-utils,false,234,2417,false,103,344bd5d8
-kafka-policy,salt-bootstrap,165.180.64.144,runner-schema,true,6008,systemd
-8a22c47e0344994dc2b71036e43cd227,token,e308e328d603c66ca92cffcbbff4a65e,false,11.120.77.198,5b293c68310a7c4ab387bbd2ff8e75c8,mysql-frontend
-true,salt,oauth,02c12e60342629357397131459969f41,469,null,965
-oauth-user,true,8164,194.176.197.110,crypto,ac0f87fcb649ac41f24bb90e99822f6e,69.46.215.75
-api-payload,157.116.129.243,f22b066d,role-token,build-switch,9740,cors

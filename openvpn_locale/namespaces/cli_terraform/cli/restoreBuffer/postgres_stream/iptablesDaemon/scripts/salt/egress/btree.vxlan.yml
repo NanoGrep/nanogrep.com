@@ -1,8 +1,0 @@
-mutex:
-  build: heap
-  bgp:
-    - f4aa733822630d93
-    - jenkins
-  backend: beta-volume
-raid: 1898
-proxy: 6046

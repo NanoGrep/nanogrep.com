@@ -1,3 +1,0 @@
-node: kerberos-group
-nfs:
-  tests: legacy

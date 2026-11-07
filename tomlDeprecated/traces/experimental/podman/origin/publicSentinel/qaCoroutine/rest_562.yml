@@ -1,4 +1,0 @@
-fuzz: 7263
-loader:
-  - quic-logs
-  - upstream-queue

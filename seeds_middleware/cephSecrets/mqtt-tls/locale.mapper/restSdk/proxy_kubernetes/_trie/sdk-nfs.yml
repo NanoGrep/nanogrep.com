@@ -1,8 +1,0 @@
-ceph: vault
-jwt:
-  rest: 4583
-  registry: true
-  shard: 7de9b8c540edee23
-release:
-  - 82.63.159.96
-tenant: oauth-bucket

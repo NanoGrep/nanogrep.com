@@ -1,7 +1,0 @@
-limit: canary
-bench: 30f51cfd6a0c3381
-proxy:
-  - 165.229.7.77
-  - false
-  - 130.119.232.61
-  - false

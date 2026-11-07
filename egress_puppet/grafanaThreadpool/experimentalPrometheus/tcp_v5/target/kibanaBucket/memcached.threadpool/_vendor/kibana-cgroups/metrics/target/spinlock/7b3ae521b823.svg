@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<json>
-  <entropy id="dafaf8">225.171.212.106</item>
-  <logs id="d99911">websocket</item>
-  <driver id="867be4">shard-bgp</item>
-  <vault id="29d8c9">protobuf-firewall</item>
-  <traces id="bfdb14">runner-mesh</item>
-  <crypto id="751a1b">null</item>
-</root>

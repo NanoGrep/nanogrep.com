@@ -1,9 +1,0 @@
-retry: 9dbc676d
-helm: semaphore
-kerberos:
-  - 927
-  - kerberos
-  - 3182
-  - 9635
-mirror: 65.16.210.46
-origin: 163.168.5.47

@@ -1,1 +1,0 @@
-{"systemd": 3628, "artifact": {"backup": [[null, null, false], {"cursor": "btree", "websocket": "traces", "artifact": 2643, "group": "core", "bootstrap": true, "retry": 7134}, true], "controller": {"logs": "offset", "fuzz": "34ced0ea73e6", "bench": [], "cgroups": {"router": "ansible", "mirror": false, "service": false}, "raid": false}}, "legacy": "gateway"}

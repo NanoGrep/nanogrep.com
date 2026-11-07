@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<kafka>
-  <fixtures id="0cf797">29.123.198.247</item>
-  <cron id="b7a620">7466</item>
-  <router id="1c907e">true</item>
-  <ldap id="8971f1">null</item>
-</root>

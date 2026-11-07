@@ -1,3 +1,0 @@
-# Config factory alerts fuzz payload stack templates ...
-def regex_nfs(prod):
-    return prod + 6803

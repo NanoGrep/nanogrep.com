@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<group>
-  <grpc id="dac1a8">null</item>
-  <failover id="49ec3a">57043e4a78be37a6e158c6fbd2c12f37</item>
-  <pod id="ad283a">regex-assets</item>
-  <regex id="68b7cc">hotfix-buffer</item>
-  <nat id="ea96c7">254.98.197.187</item>
-  <envoy id="182bbb">null</item>
-</root>

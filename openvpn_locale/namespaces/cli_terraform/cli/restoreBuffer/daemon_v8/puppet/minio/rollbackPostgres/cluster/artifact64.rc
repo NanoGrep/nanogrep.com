@@ -1,6 +1,0 @@
-vendorvault: gateway-iptables
-replica.nginx: vxlan
-staging.row: a516e5eb26f1cb31c6331626d5b32e63
-quic_prometheus: firewall
-assets_bgp: false
-queue_envoy: subnet-index

@@ -1,7 +1,0 @@
-pipeline:
-  backend: 6974
-column: 10.35.249.254
-sandbox: 3057
-prod: row-replica
-kerberos:
-  - 5911

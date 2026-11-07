@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<wireguard>
-  <tcp id="770843">233.175.248.59</item>
-  <aes id="c0066c">handler</item>
-  <cache id="9dcb66">true</item>
-  <node id="f95dcd">true</item>
-  <nginx id="e89690">154.194.65.179</item>
-</root>

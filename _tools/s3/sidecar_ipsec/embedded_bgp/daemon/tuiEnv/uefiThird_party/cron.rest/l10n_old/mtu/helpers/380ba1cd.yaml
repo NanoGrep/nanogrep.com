@@ -1,6 +1,0 @@
-scripts: bgp-user
-payload: 129.57.198.1
-terraform: null
-artifact: 926
-frontend:
-  controller: 83.122.141.160

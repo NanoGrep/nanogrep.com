@@ -1,8 +1,0 @@
-hmac:
-  locale: 196
-ansible: 371
-watchdog: traces
-alerts:
-  - 6230
-  - firewall
-  - c5b61bc4650e62e9

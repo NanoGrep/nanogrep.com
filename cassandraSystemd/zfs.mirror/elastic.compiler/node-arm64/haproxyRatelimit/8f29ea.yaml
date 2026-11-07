@@ -1,6 +1,0 @@
-core:
-  - storage-cli
-locale:
-  - alerts-retry
-  - legacy-tests
-mysql: true

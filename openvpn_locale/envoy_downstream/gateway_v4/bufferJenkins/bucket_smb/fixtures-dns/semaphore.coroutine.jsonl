@@ -1,1 +1,0 @@
-{"subnet": {"oauth": {"bloom": {"tls": false, "websocket": "hmac", "legacy": "0f651a0cd7a8", "firmware": true, "bloom": "mongo", "prometheus": "zfs"}, "runner": {"edge": "column", "service": null}, "quic": "77e14397d815", "tenant": 8715, "role": ["nightly"], "cert": {"group": false, "dns": null, "api": null}}}, "mqtt": {"shard": true}, "raid": false}

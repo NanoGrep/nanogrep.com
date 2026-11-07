@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<role>
-  <object id="36193a">false</item>
-  <alerts id="5313fd">null</item>
-  <artifact id="3578c3">6a4fc64c</item>
-  <mirror id="0710af">null</item>
-  <http id="87cfe9">149.253.250.71</item>
-  <tls id="020c04">object-postgres</item>
-</root>

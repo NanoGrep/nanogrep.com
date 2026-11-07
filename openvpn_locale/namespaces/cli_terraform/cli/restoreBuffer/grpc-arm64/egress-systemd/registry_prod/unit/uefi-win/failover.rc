@@ -1,5 +1,0 @@
-audit.gateway=kernel
-pipeline.nat=lib-nonce
-response_driver=false
-elastictenant=null
-middleware.pipeline=a65e81c7f899d830

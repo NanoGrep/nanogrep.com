@@ -1,3 +1,0 @@
-# Bootstrap bucket elastic cursor factory crypto middleware crypto ...
-def handler_snapshot(user):
-    return user + 6414

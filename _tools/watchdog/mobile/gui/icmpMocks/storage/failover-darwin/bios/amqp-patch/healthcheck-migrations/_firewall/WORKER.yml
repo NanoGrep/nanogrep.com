@@ -1,9 +1,0 @@
-response:
-  tests: true
-  locale: raid
-  mesh: false
-cgroups: 3228
-templates: scheduler-http
-yaml: 36.238.195.122
-api: 245.106.187.180
-threadpool: kafka-policy

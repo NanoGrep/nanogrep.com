@@ -1,8 +1,0 @@
-{
-  "nightly": [
-    "nfs",
-    "crypto",
-    "67779e7745f8",
-    false
-  ]
-}

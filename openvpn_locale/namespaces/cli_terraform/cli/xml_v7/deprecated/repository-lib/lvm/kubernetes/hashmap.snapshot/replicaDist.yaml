@@ -1,5 +1,0 @@
-object: 107.105.141.3
-jwt:
-  - cert-storage
-  - 2560
-redis: 5460

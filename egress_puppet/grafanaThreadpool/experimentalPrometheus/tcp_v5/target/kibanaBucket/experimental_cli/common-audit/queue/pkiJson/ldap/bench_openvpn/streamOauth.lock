@@ -1,1 +1,0 @@
-{"router": {"config": {"middleware": {"registry": null, "stack": "dhcp", "mongo": false, "tests": "nginx", "core": true}, "lambda": [false]}, "raid": {"systemd": "controller"}}, "cli": 9936, "firmware": "6ca7dec0be70"}

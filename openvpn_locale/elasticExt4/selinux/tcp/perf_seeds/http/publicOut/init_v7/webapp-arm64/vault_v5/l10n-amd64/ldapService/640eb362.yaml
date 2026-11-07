@@ -1,5 +1,0 @@
-factory: true
-mapper: envoy
-legacy:
-  - replica
-vlan: false

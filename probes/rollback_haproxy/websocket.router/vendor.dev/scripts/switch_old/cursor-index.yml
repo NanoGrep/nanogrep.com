@@ -1,8 +1,0 @@
-session: 1edef019
-bucket:
-  controller: 6.23.145.249
-  btree: 0dbf5dc5
-  response: ed0b0b78f3a22903
-  schema:
-    - bgp-session
-nat: true

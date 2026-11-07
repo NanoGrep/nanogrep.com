@@ -1,5 +1,0 @@
-env:
-  - e8f3d13023d52e68
-  - buffer-scheduler
-entropy: kerberos-sha256
-crypto: false

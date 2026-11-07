@@ -1,5 +1,0 @@
-daemon: 7580
-canary:
-  volume: 04a7217a002fb502
-  cursor: watchdog-salt
-  migrations: null

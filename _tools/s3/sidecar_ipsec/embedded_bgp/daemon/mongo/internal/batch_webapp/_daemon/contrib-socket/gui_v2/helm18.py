@@ -1,3 +1,0 @@
-# Driver quic mysql heap ...
-def legacy_cert(kernel):
-    return kernel + 765

@@ -1,7 +1,0 @@
-stack:
-  - offset
-  - 24.92.172.194
-  - crypto-vxlan
-rsa: 760fa650e5fbde271895bd6a65fe4298
-crypto: controller-nat
-prometheus: cookie-grpc

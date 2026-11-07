@@ -1,7 +1,0 @@
-mysqlhashmap: 6057
-terraformcert: 1504
-nginx_yaml: 7825
-scopestorage: null
-btree_hmac: protobuf
-dist_edge: cors
-kafka_bootstrap: assets

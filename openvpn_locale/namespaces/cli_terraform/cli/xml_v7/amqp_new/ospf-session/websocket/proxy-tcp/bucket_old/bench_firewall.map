@@ -1,1 +1,0 @@
-{"env": "jenkins", "registry": "index", "common": {"column": null, "raid": null, "mysql": [false, {"offset": false, "storage": "stream", "postgres": "460610254ace", "logs": "tenant", "quic": "d31ed8b5a27c", "http": false}, false, "oauth"]}, "payload": {"ansible": "build", "token": "registry", "pipeline": false, "hashmap": "staging", "core": null}, "sdk": true}

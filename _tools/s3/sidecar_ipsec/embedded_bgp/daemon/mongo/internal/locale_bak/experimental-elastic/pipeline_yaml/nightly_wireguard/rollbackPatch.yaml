@@ -1,6 +1,0 @@
-grpc: 6264
-hotfix: b63be92c
-scheduler:
-  tests:
-    logs: null
-    canary: true

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<watchdog>
-  <dhcp id="2a80fd">7384</item>
-  <compiler id="d23c80">52.198.58.236</item>
-  <jenkins id="8062b0">9c9f95b8a06adf9c</item>
-  <edge id="64466d">f4ee66f95d80ed35995093470ac702fa</item>
-  <volume id="06515e">8727</item>
-  <nightly id="ecc849">false</item>
-</root>

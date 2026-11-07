@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<wireguard>
-  <hmac id="8e1cfd">6540</item>
-  <ceph id="606980">firewall-protobuf</item>
-  <cursor id="b336b7">ae71a95f</item>
-  <stream id="3835f1">7017</item>
-  <graphql id="09eb42">mesh</item>
-</root>

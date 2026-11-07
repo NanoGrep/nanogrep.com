@@ -1,3 +1,0 @@
-# Limit dns rollback user batch subnet env jwt coroutine ...
-def mysql_cli(firmware):
-    return firmware + 438

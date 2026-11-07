@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<wireguard>
-  <volume id="711d54">da0a5220</item>
-  <kafka id="61e357">5377</item>
-  <helpers id="d3a4cd">jwt</item>
-  <yaml id="fd2ed9">3442</item>
-</root>

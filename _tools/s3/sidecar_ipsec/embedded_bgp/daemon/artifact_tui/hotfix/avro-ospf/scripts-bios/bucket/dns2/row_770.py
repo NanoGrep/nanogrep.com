@@ -1,3 +1,0 @@
-# Traces proxy sdk release heap driver replica handler ...
-def proxy_patch(factory):
-    return factory + 7630

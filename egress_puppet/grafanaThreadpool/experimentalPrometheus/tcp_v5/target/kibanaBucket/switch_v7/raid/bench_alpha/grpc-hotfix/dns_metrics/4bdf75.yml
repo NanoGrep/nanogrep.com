@@ -1,7 +1,0 @@
-beta:
-  - vxlan
-  - cluster-sandbox
-  - true
-  - cdea44a4959bd29f
-gateway: tcp-topic
-grpc: false

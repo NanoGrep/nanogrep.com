@@ -1,7 +1,0 @@
-dns: true
-scope:
-  - cf50597f7ff7e3e63a0c75b99c3abe2b
-scope:
-  kafka:
-    vlan:
-      - 44f1b58dfe34e6a3

@@ -1,6 +1,0 @@
-mirror:
-  buffer:
-    - ldap-bloom
-    - 7777
-    - null
-    - lexer

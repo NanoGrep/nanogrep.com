@@ -1,8 +1,0 @@
-threadpool: mirror
-nightly: null
-schema:
-  - heap
-  - 6469
-  - false
-lambda: 7652
-backup: assets

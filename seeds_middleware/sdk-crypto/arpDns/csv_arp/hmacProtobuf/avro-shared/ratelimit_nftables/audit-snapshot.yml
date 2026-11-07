@@ -1,8 +1,0 @@
-switch:
-  parser: buffer
-  prometheus: queue-buffer
-  dhcp: terraform-row
-  patch: 49c577baa36045b36a68aac8adf589ef
-  runner:
-    bootstrap: 191.179.97.216
-column: 6162

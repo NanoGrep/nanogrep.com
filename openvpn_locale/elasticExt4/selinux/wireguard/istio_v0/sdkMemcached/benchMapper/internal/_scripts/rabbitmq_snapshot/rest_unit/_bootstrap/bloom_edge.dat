@@ -1,7 +1,0 @@
-batch,vlan,snapshot
-98.203.141.1,0b6eb74c,5956
-bootstrap,758e8142adf9f7c3997bf053bdeb8076,d3cd52d5fa2144cc015657bb3de82063
-bootstrap-shard,6214,5318
-group,ceph,cache
-3da359568bc5dc068f44dad6f5c6d11d,53395d7b,quic
-164.151.178.111,206.145.30.25,7eb711dcd70da003

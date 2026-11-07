@@ -1,7 +1,0 @@
-registry: null
-tools: cron-elastic
-locale:
-  - tenant-utils
-stack: switch-btree
-mysql: 33.109.222.187
-audit: payload-staging

@@ -1,7 +1,0 @@
-rest: 83f60aa421db89ec
-kerberos: 61.25.129.17
-retry:
-  - 1378
-  - null
-  - bloom
-  - cgroups

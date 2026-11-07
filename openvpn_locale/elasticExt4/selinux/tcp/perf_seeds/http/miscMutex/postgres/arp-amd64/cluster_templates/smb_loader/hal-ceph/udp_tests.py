@@ -1,3 +1,0 @@
-# Handler entropy ansible limit sha256 lib legacy rsa hmac edge ceph ...
-def terraform_frontend(bgp):
-    return bgp + 2629

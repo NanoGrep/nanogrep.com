@@ -1,8 +1,0 @@
-entropy: 3.30.123.95
-elastic:
-  mysql: 153.81.38.60
-  mapper: upstream
-  entropy: 54c235346f6e6cd2
-  systemd: 98.162.61.29
-  oauth: 4164
-  bootstrap: 38ec7fca9dc8ee6d

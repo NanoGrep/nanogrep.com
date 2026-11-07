@@ -1,8 +1,0 @@
-fixtures: 2950
-column: prod
-protobuf: null
-mocks: ccbc46ffb183f45b
-graphql:
-  - 31.99.147.103
-  - 4099
-  - 4841

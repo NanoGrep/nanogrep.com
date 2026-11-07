@@ -1,3 +1,0 @@
-canary: shard-controller
-mqtt: tenant-zfs
-socket: threadpool-semaphore

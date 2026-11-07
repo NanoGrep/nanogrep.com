@@ -1,0 +1,70 @@
+---
+import Nav from "./Nav.astro";
+import { site } from "../data/site";
+
+const isHome = Astro.url.pathname === "/";
+---
+
+<header class="header">
+  <div class="header-bar page">
+    <a href="/" class="wordmark" aria-current={isHome ? "page" : undefined}>
+      <span class="wordmark-mark" data-fx-logo>
+        <!-- Served byte for byte from public/: Astro must not re-encode this file. -->
+        <img src="/ant-eater.png" alt="" width="459" height="459" decoding="async" class="wordmark-logo" />
+      </span>
+      <span class="wordmark-text link-draw">{site.author}</span>
+    </a>
+    <Nav />
+  </div>
+  <div class="page"><div class="header-rule" aria-hidden="true"></div></div>
+</header>
+
+<style>
+  .header-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: var(--header-height);
+  }
+
+  .wordmark {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-s);
+    font-family: var(--font-mono);
+    font-size: var(--text-nav);
+    font-weight: 500;
+    letter-spacing: 0;
+    color: var(--color-paper);
+    text-decoration: none;
+  }
+
+  /* Holds the logo and the collapse effect layers (fx.ts). */
+  .wordmark-mark {
+    position: relative;
+    display: block;
+  }
+
+  /* The file is a square with the anteater in a wide band across the
+     middle on pure black; the box shows just that band. */
+  .wordmark-logo {
+    display: block;
+    width: auto;
+    height: 26px;
+    aspect-ratio: 3;
+    object-fit: cover;
+  }
+
+  @media (hover: hover) {
+    .wordmark:hover .wordmark-text::after {
+      transform: none;
+      transform-origin: left;
+      transition: transform var(--dur-micro) var(--ease-out);
+    }
+  }
+
+  .header-rule {
+    height: 1px;
+    background-color: var(--color-rule);
+  }
+</style>

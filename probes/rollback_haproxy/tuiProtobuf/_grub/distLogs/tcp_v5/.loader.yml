@@ -1,4 +1,0 @@
-protobuf: null
-runner:
-  - user-factory
-helpers: true

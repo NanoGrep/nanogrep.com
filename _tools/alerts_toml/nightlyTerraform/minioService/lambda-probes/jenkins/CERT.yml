@@ -1,5 +1,0 @@
-regex: true
-bgp: mirror
-aes: coroutine
-bloom: 9723
-mapper: prod

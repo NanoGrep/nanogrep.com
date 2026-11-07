@@ -1,6 +1,0 @@
-socket.graphql: 242.115.110.214
-jsoniptables: nightly
-mocks_api: shard
-shard_topic: sdk
-templates.cursor: 5033
-ingress_bucket: helpers

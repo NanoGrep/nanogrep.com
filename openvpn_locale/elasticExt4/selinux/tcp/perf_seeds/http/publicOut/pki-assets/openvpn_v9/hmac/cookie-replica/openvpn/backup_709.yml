@@ -1,4 +1,0 @@
-bench: registry
-mapper:
-  raid: cert-firmware
-  btree: eaaf8be751490b5b1d663e65a8241b0e

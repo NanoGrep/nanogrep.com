@@ -1,7 +1,0 @@
-systemd:
-  dns: 3283
-  helpers: pod-traces
-  oauth: 211.73.252.157
-  mysql:
-    - utils-canary
-fixtures: 166.110.150.115

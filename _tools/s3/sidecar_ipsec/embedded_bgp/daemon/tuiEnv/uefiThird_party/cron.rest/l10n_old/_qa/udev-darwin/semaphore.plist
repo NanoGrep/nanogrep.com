@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<helpers>
-  <kernel id="8959e3">origin-mocks</item>
-  <oauth id="76eab8">true</item>
-  <sha256 id="71f332">false</item>
-  <firmware id="9aeca7">jenkins-grafana</item>
-  <policy id="ad0aa2">33.17.226.118</item>
-  <semaphore id="53f230">41ede7909dac52f48cbbf97b61b7f105</item>
-</root>

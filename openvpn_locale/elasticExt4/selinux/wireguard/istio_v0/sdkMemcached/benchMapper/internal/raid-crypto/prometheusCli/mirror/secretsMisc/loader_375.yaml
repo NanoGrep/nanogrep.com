@@ -1,6 +1,0 @@
-parser: 2184
-worker:
-  - 28.223.162.50
-daemon: false
-router: 68.152.190.239
-yaml: 05ee42a8

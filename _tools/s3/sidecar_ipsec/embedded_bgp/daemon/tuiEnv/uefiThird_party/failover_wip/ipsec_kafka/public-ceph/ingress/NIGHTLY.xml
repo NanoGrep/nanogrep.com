@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<lambda>
-  <parser id="e67e18">6603</item>
-  <worker id="2cc9e8">221.123.223.92</item>
-  <user id="07467d">22233bcf</item>
-  <backend id="53510d">false</item>
-  <cache id="816db9">7b73593be6b10ca307589466d0487d30</item>
-  <cron id="dd4eb0">mysql-entropy</item>
-</root>

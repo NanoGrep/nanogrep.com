@@ -1,8 +1,0 @@
-compilerldap=daemon-middleware
-stream.btree=tools-request
-origin.yaml=batch-cluster
-legacy_payload=pod
-usertls=104.17.164.58
-nfstests=147.73.192.65
-cursor_postgres=8014
-iptables.kernel=salt-batch

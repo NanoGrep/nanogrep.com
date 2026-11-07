@@ -1,8 +1,0 @@
-heap: mocks
-hotfix:
-  - null
-  - topic
-backend:
-  - 162.18.251.22
-backend: 160
-parser: null

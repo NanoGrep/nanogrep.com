@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<env>
-  <edge id="45d5c9">91113099817bbcf6</item>
-  <parser id="6f0812">2148</item>
-  <alerts id="d7b08b">entropy-kernel</item>
-  <storage id="43171b">probe</item>
-  <pipeline id="bc940f">token</item>
-  <storage id="c61f0a">trie-proxy</item>
-</root>

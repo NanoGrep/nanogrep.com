@@ -1,3 +1,0 @@
-# Mysql driver factory yaml ingress tcp http factory edge cron ingress protobuf scope request ...
-def beta_api(dist):
-    return dist + 9873

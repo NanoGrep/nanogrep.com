@@ -1,6 +1,0 @@
-controller:
-  - tcp
-  - 2092
-  - 40b00d847d4e9b6748fb5f266959c8f3
-kernel: 9100
-btree: true

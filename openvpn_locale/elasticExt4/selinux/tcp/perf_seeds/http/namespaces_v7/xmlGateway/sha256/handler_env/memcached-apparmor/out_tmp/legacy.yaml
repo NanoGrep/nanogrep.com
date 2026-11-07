@@ -1,6 +1,0 @@
-zfs: 7420
-helpers: runner-cli
-payload:
-  - 5253
-  - 8603
-  - ingress-dist

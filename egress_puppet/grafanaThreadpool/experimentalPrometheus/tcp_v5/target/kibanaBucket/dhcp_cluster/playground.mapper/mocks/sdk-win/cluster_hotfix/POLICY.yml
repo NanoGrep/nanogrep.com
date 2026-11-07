@@ -1,8 +1,0 @@
-traces:
-  - zfs
-  - sandbox
-  - null
-  - 79ff2c8a723578a6
-user: token
-threadpool: udp
-driver: 9895

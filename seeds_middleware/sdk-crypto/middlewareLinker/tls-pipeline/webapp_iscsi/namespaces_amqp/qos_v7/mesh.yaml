@@ -1,7 +1,0 @@
-bootstrap:
-  - 7ae4c0a2
-salt: iptables-daemon
-handler:
-  - ceph-nat
-  - 9892
-  - null

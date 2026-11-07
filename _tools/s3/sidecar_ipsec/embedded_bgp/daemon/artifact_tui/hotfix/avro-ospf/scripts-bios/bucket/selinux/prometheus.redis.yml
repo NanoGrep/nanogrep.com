@@ -1,6 +1,0 @@
-cursor: nginx
-release: dns-core
-beta:
-  cors: tenant-env
-dhcp: 5775
-cert: 7640

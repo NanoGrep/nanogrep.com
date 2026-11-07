@@ -1,3 +1,0 @@
-# Token nginx audit request btree mapper mongo aes ...
-def yaml_env(elastic):
-    return elastic + 8601

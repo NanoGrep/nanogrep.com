@@ -1,6 +1,0 @@
-ceph: f7281673e3ef1434
-tls:
-  - false
-  - firewall-dist
-  - 13.199.92.28
-  - null

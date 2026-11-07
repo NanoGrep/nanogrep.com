@@ -1,5 +1,0 @@
-systemd: retry
-retry:
-  - node-rsa
-  - a2e180f6ebbd348690d3e35b4afa6180
-adapter: 190.156.228.237

@@ -1,9 +1,0 @@
-row:
-  - 4589498fa034c2d8
-  - false
-  - helm-bucket
-nginx:
-  bench: null
-  zfs: cluster
-request:
-  - 9cea326e

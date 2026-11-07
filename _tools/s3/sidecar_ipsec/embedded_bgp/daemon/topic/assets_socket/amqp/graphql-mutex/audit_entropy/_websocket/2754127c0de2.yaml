@@ -1,6 +1,0 @@
-vlan: null
-factory: false
-dns: prometheus-systemd
-rest: 3203
-snapshot: true
-firmware: 93.152.8.200

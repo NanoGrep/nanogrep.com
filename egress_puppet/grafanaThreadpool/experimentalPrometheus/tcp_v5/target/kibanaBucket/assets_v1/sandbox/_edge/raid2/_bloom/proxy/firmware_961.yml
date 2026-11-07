@@ -1,7 +1,0 @@
-ansible:
-  - 162.103.17.198
-  - 6564
-  - false
-  - 674cb0ab
-udp: null
-bgp: true

@@ -1,6 +1,0 @@
-json,staging,frontend,quic
-6f5d4127,bbeee90bc343d7786b24a770ced9826d,229.64.93.215,101.80.153.61
-3901,null,393fb75b62bf1f22457e4a2fbceb41a3,tests-vendor
-23913f1b,true,tenant-token,f3065191
-null,false,bucket,19.5.37.65
-145.62.250.216,ingress-nat,true,true

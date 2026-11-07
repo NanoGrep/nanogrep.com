@@ -1,1 +1,0 @@
-[false, {"salt": null, "elastic": {"factory": [false, "env", true, "nginx"], "nonce": ["de2694a487ab"], "limit": [], "hashmap": {"cursor": "e2fa6861e5a6", "staging": true, "topic": "8b0d998f5225"}, "logs": false}, "kafka": {"factory": {"vendor": true, "vault": true, "grafana": false}}}]

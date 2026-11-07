@@ -1,6 +1,0 @@
-loader,topic,threadpool,patch,bootstrap,node
-worker,false,sha256,239.13.157.192,1600,quic-nat
-null,224.81.180.57,true,heap,b3fd19a7,8c7d9cd52040ed04
-78.235.243.153,aes,210.222.221.117,3277,shard,25b0ba05c3e6435b0c7ab2f9817a2bbc
-yaml,kerberos,182.127.210.86,5018,regex-websocket,false
-true,shard,mirror,5013,ingress,4713

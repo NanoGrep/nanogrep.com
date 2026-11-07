@@ -1,7 +1,0 @@
-registry: 146.31.125.187
-registry:
-  token: false
-  ldap: 4870
-  iptables: oauth-helpers
-  rollback: staging-buffer
-  cors: d59bcae2

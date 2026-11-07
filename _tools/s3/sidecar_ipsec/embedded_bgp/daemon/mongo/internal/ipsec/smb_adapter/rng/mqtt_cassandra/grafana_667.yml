@@ -1,4 +1,0 @@
-vendor: audit-kernel
-mapper: false
-prod:
-  - c5b7fdeb9354647f2ec3a56c43f357c6

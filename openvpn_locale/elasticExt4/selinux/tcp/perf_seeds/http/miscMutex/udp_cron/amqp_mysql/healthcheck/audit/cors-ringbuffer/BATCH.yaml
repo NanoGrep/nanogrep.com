@@ -1,8 +1,0 @@
-heap:
-  regex:
-    - proxy-stream
-    - false
-    - null
-  artifact: 242.50.91.114
-  middleware: frontend
-grafana: f56d3c5f

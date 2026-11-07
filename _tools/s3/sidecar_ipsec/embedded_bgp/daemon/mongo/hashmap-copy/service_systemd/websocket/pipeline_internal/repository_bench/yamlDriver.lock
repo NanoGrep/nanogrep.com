@@ -1,1 +1,0 @@
-{"oauth": {"rest": [[]], "hmac": [{"offset": true}, [false, null, 4078]], "jwt": [{"systemd": true, "api": null}, "tcp"], "cgroups": "udp"}, "elastic": "kerberos"}

@@ -1,9 +1,0 @@
-mocks: true
-parser:
-  - true
-  - false
-dns:
-  graphql:
-    scripts: 60.7.106.112
-    jenkins: true
-    cert: 4425

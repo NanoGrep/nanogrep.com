@@ -1,6 +1,0 @@
-systemd,env,role
-7db76a7ed28925dc,67c914cd,7764
-vxlan-storage,37.224.145.24,128.187.233.114
-16eace3996f9e73d,dhcp,udp
-842ab259eea8044d6303ce549253b9c2,null,storage
-7683,98.29.90.139,bucket

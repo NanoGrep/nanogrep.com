@@ -1,8 +1,0 @@
-dhcp:
-  dist: retry
-  runner: 1957
-snapshot: 9065
-group: 216.211.245.54
-daemon: false
-prod:
-  - 3086

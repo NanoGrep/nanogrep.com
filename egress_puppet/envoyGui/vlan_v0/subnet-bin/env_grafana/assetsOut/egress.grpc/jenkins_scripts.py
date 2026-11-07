@@ -1,3 +1,0 @@
-# Schema probe backend schema ...
-def service_token(entropy):
-    return entropy + 2683

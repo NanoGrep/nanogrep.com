@@ -1,9 +1,0 @@
-lexer: 283
-udp:
-  grpc: raid
-  snapshot:
-    - 236.158.154.101
-    - false
-    - c69aab5b811c9d15
-    - 3172394f51fd6e6a
-vlan: upstream

@@ -1,8 +1,0 @@
-traces: dns
-wireguard: true
-bench: b094739c
-bench:
-  - true
-  - elastic-redis
-  - b363dc5da429d8b9bb8f0c8e1a51e421
-controller: vxlan

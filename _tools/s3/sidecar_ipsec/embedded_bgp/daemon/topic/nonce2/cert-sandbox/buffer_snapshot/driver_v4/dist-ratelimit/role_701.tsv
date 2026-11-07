@@ -1,9 +1,0 @@
-handler,bootstrap,semaphore,cgroups,failover,aes,response
-false,0946a7de,ceph-vault,61.126.31.40,prod-staging,false,109.184.139.137
-gateway-topic,7508,9420,switch,210.147.148.87,probe-switch,terraform-cookie
-112.34.52.141,api,utils,e7f9ffad0dcce3b84029de0f191c2142,fa527d9b7f251652b81ec5b80cd41782,167.227.211.80,compiler-role
-entropy-dns,2501,quic-runner,pipeline,6933,4269e4d6,mocks-redis
-8292,9149,kafka-probe,factory-grafana,fuzz,null,6659
-59c060657264c686dcccb1be56b98168,7184d0c14cb440b9,76.41.174.154,98.90.207.39,8.239.103.18,8778,kafka
-vlan,null,152.21.202.49,08dbc6ef,http-daemon,79.202.202.52,switch-upstream
-134.109.140.62,origin-mapper,websocket-stream,ee52adff,false,null,5638

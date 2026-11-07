@@ -1,6 +1,0 @@
-firewall: 48f5b7a5963f23ef3331be58aeb97fd9
-metrics: a0313437
-nginx: stack-mutex
-helpers: ansible
-storage:
-  user: false

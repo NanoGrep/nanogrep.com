@@ -1,5 +1,0 @@
-semaphore:
-  scheduler:
-    sandbox: null
-  nightly: metrics-user
-  coroutine: 9720

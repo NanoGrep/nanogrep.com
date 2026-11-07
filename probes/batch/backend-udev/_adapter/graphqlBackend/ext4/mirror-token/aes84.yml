@@ -1,6 +1,0 @@
-cert:
-  - false
-quic: 147.26.40.236
-wireguard: shard
-offset: vxlan-semaphore
-switch: handler-audit

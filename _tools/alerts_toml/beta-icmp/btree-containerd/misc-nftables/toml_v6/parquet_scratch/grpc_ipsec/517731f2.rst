@@ -1,3 +1,0 @@
-# Subnet frontend
-
-Token stack worker policy tcp cluster offset.

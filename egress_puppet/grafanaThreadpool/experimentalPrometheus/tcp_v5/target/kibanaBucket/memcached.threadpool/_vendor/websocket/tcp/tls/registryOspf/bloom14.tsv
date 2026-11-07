@@ -1,7 +1,0 @@
-subnet,cache,build,cli,mqtt,coroutine
-true,udp-service,cron,heap-policy,false,null
-243.133.134.96,45.123.240.116,null,null,backend-api,grafana
-40ecd0d41fcc4e82a029a9ae468f7ed6,9cd9bb53d2145de8,7395,6302,3dff151f2b346e19ec32deba4ac9c243,mirror-volume
-b23b8eb9c40075ce2f458775fc538e54,false,4019,true,6beecfaf84843740,envoy-policy
-fixtures-cron,false,229.20.200.136,vlan,env,probe-beta
-daemon-socket,cache-kernel,offset,e02022059809a5fa8a82e640b2e0a344,ae75633946cc5b6fe187c19ebacb2ab8,logs

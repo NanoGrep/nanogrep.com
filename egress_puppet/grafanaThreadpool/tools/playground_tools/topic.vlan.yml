@@ -1,8 +1,0 @@
-shard: null
-alerts: scope
-upstream: traces
-nat:
-  common: 142.207.227.170
-  runner:
-    systemd: a4badf10
-    upstream: true

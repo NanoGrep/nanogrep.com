@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<traces>
-  <middleware id="c91c45">5922</item>
-  <queue id="4c7cc2">cgroups</item>
-  <rollback id="331230">38.152.24.89</item>
-  <runner id="812c2b">e44263c0c43d6012</item>
-  <migrations id="d3b637">eea1010e5bf2fe8f7babe76c34662c90</item>
-  <jwt id="b78fdf">null</item>
-</root>

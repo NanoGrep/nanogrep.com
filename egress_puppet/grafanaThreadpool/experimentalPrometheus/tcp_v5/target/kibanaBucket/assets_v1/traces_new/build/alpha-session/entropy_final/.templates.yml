@@ -1,6 +1,0 @@
-nonce: 90.40.134.172
-failover:
-  gateway:
-    - 3187
-    - 1a589ea9
-    - mapper

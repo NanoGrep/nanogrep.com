@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<upstream>
-  <dhcp id="640691">false</item>
-  <scope id="98c200">114.217.230.222</item>
-  <envoy id="4fc2d1">migrations-hashmap</item>
-  <systemd id="3f3c75">82.157.73.52</item>
-  <helm id="70684b">true</item>
-  <vendor id="2bb372">true</item>
-</root>

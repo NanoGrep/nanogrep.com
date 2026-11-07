@@ -1,4 +1,0 @@
-oauth:
-  - false
-replica: 49260962
-env: tests-volume

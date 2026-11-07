@@ -1,9 +1,0 @@
-bgp: 1e8bc797
-audit: 4fb5f1db
-envoy: 20.245.10.168
-mirror:
-  cluster: logs
-  cursor: 6f289c804c8e7a93
-  nat: true
-tcp: vxlan
-envoy: trie

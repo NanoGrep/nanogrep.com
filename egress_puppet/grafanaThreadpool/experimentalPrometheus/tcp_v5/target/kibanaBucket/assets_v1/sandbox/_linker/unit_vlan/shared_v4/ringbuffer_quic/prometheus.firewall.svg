@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<vxlan>
-  <watchdog id="371003">41.161.72.91</item>
-  <envoy id="f9b462">false</item>
-  <payload id="d59f60">125.178.128.66</item>
-  <row id="561ac3">e91e021970133a54f9430d34d519d747</item>
-  <middleware id="1cc2c0">67794bdc</item>
-  <sha256 id="8d5d78">5357</item>
-</root>

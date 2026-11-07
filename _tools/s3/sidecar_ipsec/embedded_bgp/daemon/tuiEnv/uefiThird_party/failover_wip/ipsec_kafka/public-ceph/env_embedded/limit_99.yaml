@@ -1,8 +1,0 @@
-trie: rest-ansible
-nonce: 678
-templates: null
-hmac:
-  - 93.220.156.49
-  - 5148
-cgroups: 6586
-rollback: 78f84239c7ce7436538f381984107def

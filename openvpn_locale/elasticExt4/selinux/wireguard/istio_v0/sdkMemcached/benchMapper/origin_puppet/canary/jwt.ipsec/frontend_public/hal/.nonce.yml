@@ -1,4 +1,0 @@
-cert: jwt-trie
-cache:
-  worker: compiler-lexer
-  payload: graphql-topic

@@ -1,6 +1,0 @@
-{
-  "tls": null,
-  "nginx": {
-    "factory": false
-  }
-}

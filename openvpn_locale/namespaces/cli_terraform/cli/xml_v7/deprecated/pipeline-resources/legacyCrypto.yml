@@ -1,9 +1,0 @@
-prod: iptables
-mirror: nonce
-nonce: f5d4cdad30b08a14cf4ad32644edb7d6
-switch:
-  - column
-  - dns
-  - false
-  - true
-release: shard-coroutine

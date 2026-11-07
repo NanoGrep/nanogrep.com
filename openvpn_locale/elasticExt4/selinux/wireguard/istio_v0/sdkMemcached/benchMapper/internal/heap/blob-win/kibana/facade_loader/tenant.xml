@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<hotfix>
-  <vxlan id="13b2fb">cookie-websocket</item>
-  <switch id="86d42d">service-migrations</item>
-  <backend id="3b1df5">245.52.147.30</item>
-</root>

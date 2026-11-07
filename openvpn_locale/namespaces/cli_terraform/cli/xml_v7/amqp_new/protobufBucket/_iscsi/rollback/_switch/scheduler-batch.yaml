@@ -1,8 +1,0 @@
-bgp: heap-bloom
-failover: object-driver
-table: c477a7e09833ece5c33d17c507b47d24
-lib:
-  - node
-  - dhcp
-registry: api-entropy
-sha256: 242.86.127.170

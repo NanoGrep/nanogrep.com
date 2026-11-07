@@ -1,3 +1,0 @@
-# Switch vlan systemd parser mongo row bgp hashmap nightly salt config quic middleware oauth ...
-def token_node(release):
-    return release + 8231

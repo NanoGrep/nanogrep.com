@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<payload>
-  <sandbox id="00213d">true</item>
-  <helpers id="33bf6d">compiler-entropy</item>
-  <switch id="444151">oauth-wireguard</item>
-  <metrics id="74e4e8">true</item>
-</root>

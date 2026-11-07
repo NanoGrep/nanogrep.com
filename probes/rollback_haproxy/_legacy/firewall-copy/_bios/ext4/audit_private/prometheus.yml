@@ -1,4 +1,0 @@
-audit:
-  ingress: scheduler
-  rsa: 246.177.115.37
-prod: 225.57.49.199

@@ -1,2 +1,0 @@
-failover,storage,patch,mongo,kernel,handler,pipeline
-wireguard-release,82,e83598e70d005009214edb4bdc572d62,08def560a7b21d69,prod,41.34.239.44,true

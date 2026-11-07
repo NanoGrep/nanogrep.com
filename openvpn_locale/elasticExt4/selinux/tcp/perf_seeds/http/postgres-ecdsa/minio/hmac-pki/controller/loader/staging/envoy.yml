@@ -1,4 +1,0 @@
-bloom: response
-traces: index
-service:
-  subnet: null

@@ -1,6 +1,0 @@
-rollback: true
-utils: false
-gateway: null
-mocks: payload
-frontend: assets
-vxlan: terraform

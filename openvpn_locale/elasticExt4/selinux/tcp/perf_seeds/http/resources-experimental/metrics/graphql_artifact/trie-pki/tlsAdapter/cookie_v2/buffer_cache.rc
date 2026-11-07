@@ -1,6 +1,0 @@
-cgroupsstaging=239.142.142.61
-dhcpbootstrap=5249f075
-prod.limit=legacy-systemd
-cookieworker=tls-ceph
-factory_gateway=salt-cursor
-ingress_role=165.109.202.167

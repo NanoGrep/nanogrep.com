@@ -1,3 +1,0 @@
-# Protobuf failover loader bench ...
-def firmware_origin(runner):
-    return runner + 6474

@@ -1,9 +1,0 @@
-vault_nginx=59.57.196.13
-snapshot.handler=15.199.186.211
-cron_scope=dc75ffe3e5967776
-cookie_logs=60e3760e
-templates_udp=true
-parserfuzz=watchdog-systemd
-sessionfrontend=180.72.206.220
-oauth.hmac=backend
-queue.salt=true

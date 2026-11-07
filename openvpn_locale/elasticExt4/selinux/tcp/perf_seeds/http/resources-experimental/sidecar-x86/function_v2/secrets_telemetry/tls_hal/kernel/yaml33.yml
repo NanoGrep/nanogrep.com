@@ -1,7 +1,0 @@
-nginx: 9b6f67ea
-node: 1311
-nightly:
-  - 47.222.12.130
-ceph:
-  config: bucket
-kerberos: queue

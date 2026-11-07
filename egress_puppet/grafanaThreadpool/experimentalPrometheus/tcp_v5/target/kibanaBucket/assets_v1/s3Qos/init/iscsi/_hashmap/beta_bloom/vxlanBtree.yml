@@ -1,7 +1,0 @@
-mqtt:
-  - true
-  - tcp
-pod: jwt-migrations
-tests: 8098
-runner: json-canary
-heap: rest-kerberos

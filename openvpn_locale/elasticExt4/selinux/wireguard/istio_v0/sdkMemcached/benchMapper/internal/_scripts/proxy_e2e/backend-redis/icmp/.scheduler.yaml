@@ -1,9 +1,0 @@
-schema:
-  probe:
-    release: 1c16fdf24fa0c9cc
-  cluster:
-    response: 32.104.129.236
-    nginx: e1c1b49c
-    traces: 2726
-  kernel: null
-threadpool: canary-helpers

@@ -1,6 +1,0 @@
-prometheus: mqtt-registry
-schema: 71a5809d78d01672
-backend:
-  jenkins: nat-registry
-scheduler:
-  mirror: router-helm

@@ -1,9 +1,0 @@
-grpc:
-  node: true
-  nginx: false
-  cluster: a745c531
-  canary: 7397
-  alerts: 4716
-yaml:
-  - true
-  - false

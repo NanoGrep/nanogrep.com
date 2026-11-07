@@ -1,3 +1,0 @@
-# Stream cgroups response entropy ingress replica nat api object ...
-def offset_iptables(vlan):
-    return vlan + 4829

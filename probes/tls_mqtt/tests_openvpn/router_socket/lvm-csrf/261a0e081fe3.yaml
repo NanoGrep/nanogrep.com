@@ -1,8 +1,0 @@
-stream:
-  - upstream
-  - mocks
-  - b418ecbc
-  - grafana-ceph
-switch: null
-utils: true
-stack: 2317

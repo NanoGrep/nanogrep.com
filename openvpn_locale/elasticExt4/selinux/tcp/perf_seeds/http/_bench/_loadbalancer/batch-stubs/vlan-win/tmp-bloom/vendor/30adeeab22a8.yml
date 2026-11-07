@@ -1,9 +1,0 @@
-http:
-  regex: 106.103.171.187
-  hotfix: 110.201.175.176
-  alerts: 9865
-  middleware: true
-  group: 2528
-  cluster:
-    - 191.50.248.145
-    - prometheus

@@ -1,8 +1,0 @@
-sha256: kernel
-cli: c10e27d1e4f5afd31c3752adaa8c111e
-factory: 27.108.44.215
-btree: 4770
-failover: probe
-worker:
-  - iptables
-  - 53

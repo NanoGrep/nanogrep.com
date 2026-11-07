@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<coroutine>
-  <probe id="9f3bbf">websocket</item>
-  <common id="9e5333">48</item>
-  <legacy id="03ffa5">9753</item>
-  <row id="c0a9a7">3f0d1729cbea015b</item>
-  <origin id="615d79">8763</item>
-  <vxlan id="9724db">adapter-nginx</item>
-</root>

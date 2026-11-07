@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<dns>
-  <ingress id="e33f23">211.67.95.229</item>
-  <backup id="3272d5">kerberos-nat</item>
-  <lexer id="d3be2e">mapper-response</item>
-  <registry id="183275">request</item>
-</root>

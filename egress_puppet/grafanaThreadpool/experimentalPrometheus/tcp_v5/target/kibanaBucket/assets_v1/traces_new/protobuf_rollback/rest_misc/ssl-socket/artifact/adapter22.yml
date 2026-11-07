@@ -1,7 +1,0 @@
-cors:
-  token:
-    hashmap: 3e9a640d
-    compiler:
-      aes:
-        - false
-  threadpool: scripts

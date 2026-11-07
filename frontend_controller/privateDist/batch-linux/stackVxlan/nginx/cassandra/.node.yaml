@@ -1,8 +1,0 @@
-driver: 6767
-gateway: true
-helm:
-  canary: 9
-  graphql:
-    prod: nightly-lambda
-    scope:
-      - 1283

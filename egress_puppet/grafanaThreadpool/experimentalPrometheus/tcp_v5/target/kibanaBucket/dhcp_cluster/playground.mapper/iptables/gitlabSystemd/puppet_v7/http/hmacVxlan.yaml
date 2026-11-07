@@ -1,4 +1,0 @@
-migrations:
-  offset: wireguard-sdk
-factory: rollback
-stream: compiler

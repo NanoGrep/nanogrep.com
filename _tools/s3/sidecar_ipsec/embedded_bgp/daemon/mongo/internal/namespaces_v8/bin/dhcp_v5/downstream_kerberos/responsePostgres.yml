@@ -1,4 +1,0 @@
-proxy: tls
-daemon: 6827
-mqtt: 200.122.118.151
-fuzz: 52d6a47d

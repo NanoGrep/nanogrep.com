@@ -1,6 +1,0 @@
-group:
-  firewall: 10.74.117.231
-  crypto: 45d18384f61e8a40
-  tls: true
-beta: 725def1fea1b1c20
-protobuf: null

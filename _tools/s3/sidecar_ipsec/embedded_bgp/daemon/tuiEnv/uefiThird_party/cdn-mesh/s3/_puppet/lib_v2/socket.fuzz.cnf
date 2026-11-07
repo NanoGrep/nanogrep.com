@@ -1,7 +1,0 @@
-[config]
-factory_kafka = 1875
-driver.loader = null
-trieadapter = failover-helpers
-session_config = true
-workeroffset = c150f0b4
-user_socket = 3299

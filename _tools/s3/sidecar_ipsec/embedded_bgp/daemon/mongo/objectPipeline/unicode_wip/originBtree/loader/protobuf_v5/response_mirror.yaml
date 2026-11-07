@@ -1,8 +1,0 @@
-cron: 2448
-grafana: 150
-worker:
-  retry: stack
-bloom:
-  - redis-parser
-backup: 6a904593c5e17e58ee051c2e4af9135d
-http: 29bf0cbbb503dff2

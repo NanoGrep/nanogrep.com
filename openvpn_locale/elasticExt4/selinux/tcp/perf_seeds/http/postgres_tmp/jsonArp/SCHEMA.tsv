@@ -1,3 +1,0 @@
-router,cache,assets,retry,cert
-2270,wireguard-proxy,subnet-policy,false,313
-1259,audit-retry,false,50.74.147.122,postgres-bgp

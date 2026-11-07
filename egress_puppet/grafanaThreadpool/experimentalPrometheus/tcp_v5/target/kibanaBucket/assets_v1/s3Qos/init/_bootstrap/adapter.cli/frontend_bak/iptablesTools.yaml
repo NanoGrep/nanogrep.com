@@ -1,7 +1,0 @@
-backend: e12253bd4dee89fd67cebc2d20c07b62
-socket: vlan-env
-vlan: null
-ansible: false
-patch:
-  scheduler: 239.141.48.203
-  fixtures: false

@@ -1,3 +1,0 @@
-# Retry session subnet parser rollback dns stream limit grpc lib oauth traces compiler ...
-def table_handler(elastic):
-    return elastic + 1258

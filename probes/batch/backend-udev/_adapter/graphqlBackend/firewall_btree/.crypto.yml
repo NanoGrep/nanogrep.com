@@ -1,5 +1,0 @@
-parser: build-gateway
-redis: adapter
-threadpool:
-  payload: helpers-heap
-  grafana: canary-heap

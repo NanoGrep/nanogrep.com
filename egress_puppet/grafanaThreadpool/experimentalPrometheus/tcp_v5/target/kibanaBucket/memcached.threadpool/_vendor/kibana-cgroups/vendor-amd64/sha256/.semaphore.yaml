@@ -1,9 +1,0 @@
-controller: dhcp-loader
-router: firmware
-pipeline:
-  - registry
-  - http
-  - 416
-entropy: false
-hmac: 243.211.59.217
-semaphore: null

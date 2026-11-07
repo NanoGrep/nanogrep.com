@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<tests>
-  <limit id="75e77a">162.197.1.211</item>
-  <release id="1768fe">9c4076fe</item>
-  <index id="89e926">nightly</item>
-  <sha256 id="0bc960">1632</item>
-  <hmac id="ccf235">189.38.134.247</item>
-</root>

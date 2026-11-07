@@ -1,7 +1,0 @@
-bgp:
-  trie: jwt-socket
-  json:
-    helpers: 4575
-lib: 5d2d20e238093818
-quic: 16.218.224.51
-zfs: controller

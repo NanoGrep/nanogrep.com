@@ -1,9 +1,0 @@
-compiler: staging
-batch:
-  cert: null
-  protobuf:
-    column: storage
-    policy: true
-  logs: null
-token: hashmap-object
-locale: http-firmware

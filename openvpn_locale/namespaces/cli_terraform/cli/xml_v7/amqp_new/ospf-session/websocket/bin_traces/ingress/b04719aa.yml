@@ -1,4 +1,0 @@
-storage: middleware
-schema: nginx
-rest: 6ac9f508
-redis: canary-zfs

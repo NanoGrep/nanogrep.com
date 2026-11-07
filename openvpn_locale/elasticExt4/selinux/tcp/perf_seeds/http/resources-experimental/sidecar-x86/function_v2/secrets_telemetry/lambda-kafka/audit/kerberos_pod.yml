@@ -1,9 +1,0 @@
-sandbox:
-  cache: 7730
-firmware: 9758
-graphql: core-loader
-crypto:
-  pod:
-    response: tls
-    worker: bgp-coroutine
-    storage: node-kerberos

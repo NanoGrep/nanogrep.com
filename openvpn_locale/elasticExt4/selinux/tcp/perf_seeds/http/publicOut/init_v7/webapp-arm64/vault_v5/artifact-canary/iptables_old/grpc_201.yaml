@@ -1,9 +1,0 @@
-kernel:
-  - 78.162.58.174
-  - pod-prod
-  - 9841
-  - 243.87.165.152
-postgres: registry
-vault: 359134d6
-json: http-rollback
-scripts: firewall

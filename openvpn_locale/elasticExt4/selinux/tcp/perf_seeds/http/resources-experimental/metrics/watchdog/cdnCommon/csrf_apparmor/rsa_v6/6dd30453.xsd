@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<mocks>
-  <jwt id="203968">null</item>
-  <ansible id="69bfc0">5132</item>
-  <vendor id="cbb0e2">prod</item>
-  <bucket id="3f9a94">180.48.195.218</item>
-  <fuzz id="714b23">cli</item>
-  <origin id="0a6c70">cgroups-firmware</item>
-</root>

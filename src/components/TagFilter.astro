@@ -1,0 +1,84 @@
+---
+/**
+ * Tag filter for the blog archive side column. Each tag is a toggle; several
+ * can be on at once. The list shows posts that have ANY of the selected
+ * tags, so with none selected (or all of them) every post shows, as before.
+ * tag-filter.ts does the filtering and tells search.ts about the selection.
+ * Without JS it is not shown (tag pages and the tags on each post remain).
+ */
+interface Props {
+  tags: string[];
+}
+
+const { tags } = Astro.props;
+---
+
+{
+  tags.length > 0 && (
+    <div class="tag-filter" lang="en" data-tag-filter>
+      <p id="tag-filter-title" class="tag-filter-title label-meta">
+        Tags
+      </p>
+      <ul class="tag-filter-list" role="list" aria-labelledby="tag-filter-title">
+        {tags.map((tag) => (
+          <li>
+            <button type="button" class="tag-toggle match match-hover" aria-pressed="false" data-tag={tag}>
+              <span class="match-text">{tag}</span>
+            </button>
+          </li>
+        ))}
+      </ul>
+      <p class="sr-only-focusable" role="status" aria-live="polite" data-tag-status />
+    </div>
+  )
+}
+
+<script>
+  import "../scripts/tag-filter";
+</script>
+
+<style>
+  @media (scripting: none) {
+    .tag-filter {
+      display: none;
+    }
+  }
+
+  .tag-filter-title {
+    margin-bottom: var(--spacing-s);
+    color: var(--color-faint);
+  }
+
+  .tag-filter-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+  }
+
+  /* Same look as a post's tags; a selected tag keeps the match block on. */
+  .tag-toggle {
+    padding: var(--spacing-3xs) var(--spacing-xs);
+    border: 1px solid var(--color-line);
+    background: none;
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    line-height: 1.4;
+    cursor: pointer;
+  }
+
+  .tag-toggle::before {
+    inset: -1px;
+  }
+
+  .tag-toggle[aria-pressed="true"]::before {
+    transform: none;
+    transform-origin: left;
+    transition: transform var(--dur-micro) var(--ease-out);
+  }
+
+  @media print {
+    .tag-filter {
+      display: none;
+    }
+  }
+</style>

@@ -1,9 +1,0 @@
-releasedriver=4269
-tenant_iptables=staging
-replica_crypto=mutex
-schema_registry=8318
-release_coroutine=9290
-router.patch=zfs
-sha256vxlan=pipeline-snapshot
-btree_mesh=50.251.144.102
-handler_scheduler=edge

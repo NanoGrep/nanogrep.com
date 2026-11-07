@@ -1,7 +1,0 @@
-prometheus:
-  dist:
-    - 6566
-    - token-buffer
-    - 3c9687c213643a20675629d11e3202c8
-  jwt: bgp-threadpool
-  helpers: 1337

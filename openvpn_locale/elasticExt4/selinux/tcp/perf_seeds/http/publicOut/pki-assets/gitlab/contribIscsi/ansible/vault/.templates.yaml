@@ -1,4 +1,0 @@
-limit: retry-gateway
-assets: 1431
-limit: 2278
-canary: helm

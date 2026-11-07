@@ -1,4 +1,0 @@
-nightly: true
-prod: false
-kernel: terraform
-lib: 189.145.238.191

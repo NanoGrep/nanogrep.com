@@ -1,7 +1,0 @@
-socket.buffer=2651
-artifact.env=33.2.159.10
-graphql.sandbox=vendor-tests
-cgroups.crypto=rest-release
-lexer_index=object-pipeline
-buffer_handler=quic
-object_tenant=buffer

@@ -1,3 +1,0 @@
-# Udp handler tests alerts alerts oauth nat nfs hashmap probe ...
-def replica_mocks(prometheus):
-    return prometheus + 2460

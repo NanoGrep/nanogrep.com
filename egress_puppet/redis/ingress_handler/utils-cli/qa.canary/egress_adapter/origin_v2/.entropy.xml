@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<systemd>
-  <probe id="07318b">2137</item>
-  <user id="1bfc6a">watchdog-proxy</item>
-  <envoy id="1b6209">224.204.54.171</item>
-  <gateway id="790326">false</item>
-  <oauth id="6c4ec8">config</item>
-  <scheduler id="a69a51">schema-migrations</item>
-</root>

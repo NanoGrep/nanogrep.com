@@ -1,9 +1,0 @@
-salt_upstream=socket
-regexkerberos=stream-limit
-mysql_response=role-rollback
-mocks.cluster=7527
-schemadaemon=232.144.73.58
-objectalerts=cb5397d1372e8fd6b1dbc92ceebc5f69
-bgpansible=90.109.246.105
-snapshot.fuzz=62.104.45.134
-shard_nfs=false

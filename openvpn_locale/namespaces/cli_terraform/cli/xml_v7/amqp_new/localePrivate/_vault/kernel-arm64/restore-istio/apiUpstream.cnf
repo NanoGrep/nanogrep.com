@@ -1,6 +1,0 @@
-beta_config: vendor-group
-oauththreadpool: response
-grafana.offset: logs-volume
-cluster.nightly: d6c9d21b84a8fae98af6ad584f8a814c
-gateway_threadpool: tls-pipeline
-registry.oauth: 2ba366f4

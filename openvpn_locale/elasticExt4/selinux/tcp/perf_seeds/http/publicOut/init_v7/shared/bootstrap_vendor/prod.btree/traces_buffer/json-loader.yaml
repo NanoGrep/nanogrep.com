@@ -1,7 +1,0 @@
-nginx:
-  - nat-compiler
-  - 3835
-  - 245.67.89.30
-  - 6938
-column: 227.123.190.165
-mapper: mysql

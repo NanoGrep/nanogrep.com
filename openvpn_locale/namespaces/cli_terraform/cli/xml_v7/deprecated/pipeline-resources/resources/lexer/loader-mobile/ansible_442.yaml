@@ -1,8 +1,0 @@
-jwt: backup
-vault: 041cb34d
-patch:
-  - false
-  - 8327
-  - common-mutex
-  - 1e3b8252bc7d0015
-rest: 62447863

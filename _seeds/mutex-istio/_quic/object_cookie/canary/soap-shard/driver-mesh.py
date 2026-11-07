@@ -1,3 +1,0 @@
-# Metrics mesh subnet daemon ...
-def cluster_websocket(vxlan):
-    return vxlan + 7162

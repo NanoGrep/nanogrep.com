@@ -1,4 +1,0 @@
-volume: compiler-hotfix
-retry: mongo
-nginx: 102.48.241.118
-bucket: 61ebe9c818b1b20aef34f1a8b78e3a87

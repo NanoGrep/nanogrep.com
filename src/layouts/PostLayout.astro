@@ -1,0 +1,160 @@
+---
+/** Post page: header (date, tags, title), reading progress and the rendered Markdown. */
+import BaseLayout from "./BaseLayout.astro";
+import type { MarkdownHeading } from "astro";
+import Tag from "../components/Tag.astro";
+import Toc from "../components/Toc.astro";
+import type { Post } from "../lib/posts";
+import { isoDate } from "../lib/dates";
+import { readingMinutes } from "../lib/reading-time";
+
+interface Props {
+  post: Post;
+  headings: MarkdownHeading[];
+}
+
+const { post, headings } = Astro.props;
+const { title, description, date, tags, image } = post.data;
+const minutes = readingMinutes(post.body ?? "");
+---
+
+<BaseLayout title={title} description={description} type="article" publishedTime={date} image={image}>
+  <div class="progress" aria-hidden="true"></div>
+  <article class="post page">
+    <header class="post-header grid-12">
+      <p class="zone-index post-meta label-meta">
+        <a href="/blog/" class="post-back link-draw" lang="en">Blog</a>
+        <time
+          datetime={isoDate(date)}
+          data-pagefind-meta="date[datetime]"
+          data-pagefind-filter={`year:${date.getUTCFullYear()}`}
+        >{isoDate(date)}</time>
+        <span lang="en">{minutes} min read</span>
+      </p>
+      <div class="zone-wide">
+        <h1 class="post-title">{title}</h1>
+        {
+          tags.length > 0 && (
+            <p class="post-tags">
+              {tags.map((tag) => (
+                <Tag tag={tag} searchFilter />
+              ))}
+            </p>
+          )
+        }
+      </div>
+    </header>
+
+    <div class="post-rule" aria-hidden="true"></div>
+
+    <div class="grid-12">
+      <div class="zone-content">
+        <Toc headings={headings} variant="inline" />
+        <div class="prose" data-pagefind-body>
+          <slot />
+        </div>
+      </div>
+      <div class="zone-aside post-aside">
+        <Toc headings={headings} variant="aside" />
+      </div>
+    </div>
+  </article>
+  <p class="sr-only-focusable" role="status" aria-live="polite" data-copy-status lang="en"></p>
+</BaseLayout>
+
+<script>
+  import "../scripts/copy-code";
+</script>
+
+<style>
+  /* Reading progress: scaleX bound to the page scroll (CSS only). */
+  .progress {
+    display: none;
+  }
+
+  @supports (animation-timeline: scroll()) {
+    @media (prefers-reduced-motion: no-preference) {
+      .progress {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 50;
+        height: 2px;
+        background-color: var(--color-paper);
+        transform-origin: left;
+        animation: progress-grow linear both;
+        animation-timeline: scroll(root);
+      }
+    }
+  }
+
+  @keyframes progress-grow {
+    from {
+      transform: scaleX(0);
+    }
+  }
+
+  .post-header {
+    row-gap: var(--spacing-l);
+    padding-block: var(--spacing-3xl) var(--spacing-2xl);
+  }
+
+  .post-meta {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-xs);
+    padding-top: 0.6em;
+    color: var(--color-muted);
+  }
+
+  .post-back {
+    color: var(--color-faint);
+    text-decoration: none;
+  }
+
+  .post-back:hover {
+    color: var(--color-paper);
+  }
+
+  .post-title {
+    font-size: var(--text-title);
+    line-height: var(--text-title--line-height);
+    letter-spacing: var(--text-title--letter-spacing);
+    font-weight: var(--text-title--font-weight);
+    font-stretch: 90%;
+    max-width: 18ch;
+    view-transition-name: post-title;
+  }
+
+  .post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+    margin-top: var(--spacing-l);
+  }
+
+  .post-aside {
+    padding-left: var(--grid-gutter);
+  }
+
+  .post-rule {
+    height: 1px;
+    background-color: var(--color-rule);
+    margin-bottom: var(--spacing-2xl);
+  }
+
+  @media print {
+    .progress,
+    .post-back {
+      display: none;
+    }
+    .post-title {
+      font-size: 22pt;
+      max-width: none;
+      view-transition-name: none;
+    }
+  }
+</style>

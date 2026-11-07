@@ -1,6 +1,0 @@
-redis:
-  logs: 9124
-  release: 9954
-  crypto: 4cfedab6510304c074bc934de7418bfc
-  row: null
-  parser: btree-watchdog

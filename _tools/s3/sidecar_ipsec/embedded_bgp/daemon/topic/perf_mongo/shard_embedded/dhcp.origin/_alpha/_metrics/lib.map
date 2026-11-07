@@ -1,1 +1,0 @@
-{"origin": {"stack": true}, "grafana": {"ingress": "d715b02d4369", "cookie": {"rest": false, "mapper": [false, "911c34c8a978", null], "utils": 283, "sandbox": ["1eef0bfee58c", true, "graphql"]}, "iptables": {"http": {"volume": 4614, "middleware": true, "metrics": null, "cli": true, "tenant": "mongo", "proxy": true}, "tools": [false, true], "session": null}}}

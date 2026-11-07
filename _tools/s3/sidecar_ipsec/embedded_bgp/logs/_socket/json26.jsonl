@@ -1,1 +1,0 @@
-{"entropy": true, "mapper": ["7c02323a126f"], "daemon": {"vlan": "33a92d8e0d86"}, "crypto": null, "nfs": {"response": {"driver": ["0533f1fd7634", false], "cookie": "ansible", "nginx": true, "udp": {"build": false}, "edge": null}, "lib": false, "socket": {"env": false, "udp": false, "nonce": "17b7093f3091", "heap": "logs"}, "nonce": false, "firewall": null, "mesh": null}}

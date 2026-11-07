@@ -1,8 +1,0 @@
-build.ingress=227.151.162.91
-rolekafka=templates-index
-bloomoffset=true
-cursor_rest=false
-redis_sandbox=rsa
-iptablessocket=145.19.42.28
-systemd.scheduler=daemon
-cryptohelm=nfs

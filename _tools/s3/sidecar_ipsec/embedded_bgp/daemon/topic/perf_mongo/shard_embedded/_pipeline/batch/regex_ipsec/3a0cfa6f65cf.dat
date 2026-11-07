@@ -1,8 +1,0 @@
-quic,scripts,ingress
-locale,237.154.169.60,trie-redis
-metrics-hashmap,44389fcf2468486a400c2c043d0c2f72,nightly-elastic
-21.148.86.239,138.26.140.167,null
-cli,alerts-object,fe80a046
-null,6972,switch-nat
-null,null,true
-envoy,upstream,160.49.175.195

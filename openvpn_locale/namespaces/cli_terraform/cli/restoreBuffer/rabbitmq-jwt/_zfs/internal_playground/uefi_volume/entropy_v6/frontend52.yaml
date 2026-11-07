@@ -1,7 +1,0 @@
-raid: session-nightly
-factory: vault-wireguard
-scripts:
-  - proxy
-  - 197.16.49.81
-  - dist
-  - utils

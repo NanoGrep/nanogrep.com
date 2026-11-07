@@ -1,3 +1,0 @@
-pod,topic,driver,subnet,prod
-210.9.81.123,false,artifact-btree,79a875b1d2db150625a40eb7e0cf21d3,edge-dhcp
-middleware,bench,cli-mysql,null,false

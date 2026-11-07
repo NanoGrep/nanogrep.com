@@ -1,9 +1,0 @@
-probe,cluster,assets,tools,response,bootstrap,rsa
-ldap,2958734fac541fe8beed9217e7b46223,core,253.84.239.77,153.9.136.74,null,253.13.27.104
-quic-driver,84.133.63.112,104.189.228.64,null,30.149.209.135,rest-semaphore,5404
-9f1dab5b86352b9667d82630c8d9cbaf,cookie-failover,6696,coroutine,fe3ac3c9d5cb0f812caaa82292afce45,8794,kernel
-token,dns-kernel,null,4d973c13,null,null,true
-39.211.119.146,mirror,nfs,sandbox-regex,null,66,heap
-api,registry,policy,true,null,false,nginx
-3777,2403,153.82.137.67,2e76873e70326d25,wireguard,null,probe
-false,199.62.53.26,d49c669cbc8c84c6e0de45b520b7eaed,32b56b47c9de77908163cc82bca3123a,subnet-legacy,214.159.172.31,null

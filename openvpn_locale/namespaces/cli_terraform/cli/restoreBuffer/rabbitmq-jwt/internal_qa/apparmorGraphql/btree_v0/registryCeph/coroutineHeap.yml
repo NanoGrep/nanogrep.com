@@ -1,8 +1,0 @@
-service: core-mongo
-bucket: watchdog
-websocket:
-  role: prometheus-systemd
-  storage: 225.200.58.175
-  migrations:
-    - config
-    - null

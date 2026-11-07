@@ -1,3 +1,0 @@
-# Payload pod stream nfs probe ...
-def elastic_wireguard(systemd):
-    return systemd + 618

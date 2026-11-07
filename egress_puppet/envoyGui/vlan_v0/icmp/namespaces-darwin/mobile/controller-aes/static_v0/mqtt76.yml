@@ -1,6 +1,0 @@
-hotfix: middleware-postgres
-router:
-  - 224.41.84.218
-  - 4078
-  - 81bd3cb640dcfa8e928337726c39b8f2
-prod: index

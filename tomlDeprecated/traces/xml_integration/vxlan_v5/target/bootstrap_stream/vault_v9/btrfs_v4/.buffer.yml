@@ -1,5 +1,0 @@
-envoy:
-  tenant: semaphore-postgres
-  mongo:
-    - tenant
-worker: fuzz

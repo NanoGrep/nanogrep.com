@@ -1,0 +1,16 @@
+---
+import BlogArchive from "../../../components/BlogArchive.astro";
+import { getPublishedPosts, getYears, postYear } from "../../../lib/posts";
+
+export async function getStaticPaths() {
+  const posts = await getPublishedPosts();
+  return getYears(posts).map(({ year }) => ({
+    params: { year },
+    props: { year, allPosts: posts, posts: posts.filter((post) => postYear(post) === year) },
+  }));
+}
+
+const { year, allPosts, posts } = Astro.props;
+---
+
+<BlogArchive allPosts={allPosts} posts={posts} year={year} />

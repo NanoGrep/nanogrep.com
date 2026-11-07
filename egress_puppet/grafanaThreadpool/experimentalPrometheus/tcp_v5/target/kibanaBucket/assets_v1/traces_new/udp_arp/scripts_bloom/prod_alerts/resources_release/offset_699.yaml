@@ -1,8 +1,0 @@
-mysql:
-  - 20.93.203.181
-  - firewall
-  - false
-  - 159.157.45.76
-build: scripts
-cli: false
-tcp: false

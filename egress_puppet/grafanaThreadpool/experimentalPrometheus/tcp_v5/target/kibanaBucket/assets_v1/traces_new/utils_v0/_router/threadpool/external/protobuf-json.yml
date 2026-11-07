@@ -1,5 +1,0 @@
-artifact: 59.204.249.90
-tcp: 601
-kerberos: vlan-mirror
-core:
-  payload: 10.187.160.165

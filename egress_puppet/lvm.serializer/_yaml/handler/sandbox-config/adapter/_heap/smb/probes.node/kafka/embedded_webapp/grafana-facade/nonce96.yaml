@@ -1,8 +1,0 @@
-release: switch
-threadpool:
-  controller: 7351
-  scripts: 151.150.139.46
-  audit: 22.216.70.19
-  dhcp: token
-  tools: 6953e1f1cd7900a6
-policy: 62.222.24.215

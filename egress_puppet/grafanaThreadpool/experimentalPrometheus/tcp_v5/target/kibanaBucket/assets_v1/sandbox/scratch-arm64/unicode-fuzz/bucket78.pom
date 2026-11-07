@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<registry>
-  <cli id="491f78">56.76.140.51</item>
-  <heap id="594b1e">tls-policy</item>
-  <systemd id="087834">true</item>
-  <pipeline id="b9f794">shard</item>
-</root>

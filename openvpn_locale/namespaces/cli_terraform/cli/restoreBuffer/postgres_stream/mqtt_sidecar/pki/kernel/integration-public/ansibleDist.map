@@ -1,1 +1,0 @@
-{"scripts": {"daemon": false, "request": 7530, "grpc": {"postgres": true, "firewall": {"threadpool": "356412a4a3ee", "middleware": null, "lib": 8770, "dns": "retry", "mapper": null}}}}

@@ -1,6 +1,0 @@
-ingress:
-  - true
-  - 1249
-audit:
-  - 74a9475fa10568d71ab68d1df34a42f8
-volume: false

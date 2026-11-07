@@ -1,3 +1,0 @@
-# Tools trie bgp rollback factory probe prometheus api patch socket helm iptables ...
-def kernel_audit(proxy):
-    return proxy + 4195

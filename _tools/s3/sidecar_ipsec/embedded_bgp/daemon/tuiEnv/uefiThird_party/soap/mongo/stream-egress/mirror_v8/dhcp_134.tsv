@@ -1,6 +1,0 @@
-daemon,bucket,index,prometheus,tests,shard
-311,true,false,903,tenant,4980
-173.126.236.22,daemon,1306,180.31.195.45,btree-websocket,7696
-3739,elastic-salt,ad04320dc933b984,cache,3612,adapter
-cors,7120,dhcp-patch,stream,api-coroutine,driver
-212.5.113.254,8638e3dd9d60b0043bd73d057a284500,193,true,true,hashmap

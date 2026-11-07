@@ -1,7 +1,0 @@
-nfs:
-  nfs:
-    jenkins:
-      tenant: a233a67f52b5034e
-      group: logs
-      loader: a51c8b8e0a04d981bd63196eab2739dd
-    vxlan: stream

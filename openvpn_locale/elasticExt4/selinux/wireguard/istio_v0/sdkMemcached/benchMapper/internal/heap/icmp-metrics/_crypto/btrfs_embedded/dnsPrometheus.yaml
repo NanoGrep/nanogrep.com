@@ -1,9 +1,0 @@
-common: 9b8f5ef521680962f5c8267fa5de5a35
-node: subnet-worker
-http:
-  - cors
-  - 42.40.1.10
-  - 8261
-  - 7370
-coroutine: a5a772291748d952fed68025116d5df0
-config: 117.82.212.1

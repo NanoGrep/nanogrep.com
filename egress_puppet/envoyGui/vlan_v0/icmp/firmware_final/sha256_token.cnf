@@ -1,7 +1,0 @@
-regex.artifact: patch
-offsetsubnet: release
-apicron: 7548
-router_cors: locale-user
-ingresssession: 4796
-prod.compiler: true
-kerberos_ingress: storage

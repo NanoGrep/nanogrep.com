@@ -1,9 +1,0 @@
-index: 917
-middleware: 203.141.211.250
-cursor:
-  - backup
-  - jenkins-nonce
-  - true
-  - 4991
-canary: null
-terraform: kerberos-cursor

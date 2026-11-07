@@ -1,6 +1,0 @@
-release: null
-templates: nfs-trie
-firmware: 4814bb67
-nfs:
-  - 0eae69dfd3e15436
-traces: true

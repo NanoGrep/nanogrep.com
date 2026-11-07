@@ -1,1 +1,0 @@
-{"mocks": {"helm": null, "firmware": [null], "frontend": "offset", "mutex": "267f91340a5a", "config": {"backup": {"fuzz": "rollback", "rollback": 6304, "postgres": false, "watchdog": true}, "storage": [5796, null, 3652, true], "hmac": []}}, "pod": "cert"}

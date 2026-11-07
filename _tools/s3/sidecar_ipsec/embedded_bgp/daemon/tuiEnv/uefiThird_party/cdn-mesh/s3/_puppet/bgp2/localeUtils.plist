@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<fuzz>
-  <beta id="2649c8">false</item>
-  <raid id="017f94">b9a299a1809ec06a</item>
-  <hmac id="9a66eb">canary</item>
-  <common id="a9496a">203.49.182.75</item>
-  <storage id="3a9e77">null</item>
-  <failover id="0d49ce">5804</item>
-</root>

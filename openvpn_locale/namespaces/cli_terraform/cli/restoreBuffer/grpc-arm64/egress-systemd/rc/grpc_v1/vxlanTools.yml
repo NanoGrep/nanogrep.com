@@ -1,6 +1,0 @@
-jenkins:
-  grafana: 94.205.57.37
-dhcp:
-  - 203.70.39.89
-nonce: elastic
-replica: watchdog-iptables

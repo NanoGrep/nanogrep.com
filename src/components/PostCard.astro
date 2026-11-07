@@ -1,0 +1,181 @@
+---
+/**
+ * One row of a post list. The title gets the match block on hover/focus:
+ * an inverted copy revealed with clip-path, so the block follows each line
+ * of a wrapped title and never grows taller than a line. A hidden "sizer"
+ * copy in the resting state reserves the title's box, so the
+ * subtle axis change on hover never moves anything (CLS = 0).
+ */
+import Tag from "./Tag.astro";
+import { postUrl, type Post } from "../lib/posts";
+import { isoDate } from "../lib/dates";
+import { readingMinutes } from "../lib/reading-time";
+
+interface Props {
+  post: Post;
+  headingLevel?: "h2" | "h3";
+}
+
+const { post, headingLevel: Heading = "h3" } = Astro.props;
+const { title, description, date, tags } = post.data;
+const minutes = readingMinutes(post.body ?? "");
+---
+
+<article class="post-card grid-12 reveal" data-tags={tags.join(" ")}>
+  <p class="zone-index post-date label-meta">
+    <time datetime={isoDate(date)}>{isoDate(date)}</time>
+    <span class="post-minutes" lang="en">{minutes} min read</span>
+  </p>
+  <div class="zone-content">
+    <Heading class="post-title">
+      <a href={postUrl(post)} class="post-link">
+        <span class="title-stack">
+          <span class="title-sizer" aria-hidden="true">{title}</span>
+          <span class="title-text">{title}</span>
+          <span class="title-match" aria-hidden="true"><span>{title}</span></span>
+        </span>
+      </a>
+    </Heading>
+    <p class="post-description">{description}</p>
+    {
+      tags.length > 0 && (
+        <p class="post-tags">
+          {tags.map((tag) => (
+            <Tag tag={tag} />
+          ))}
+        </p>
+      )
+    }
+  </div>
+</article>
+
+<style>
+  /* Filtered out by the tag filter (grid would otherwise override [hidden]). */
+  .post-card[hidden] {
+    display: none;
+  }
+
+  .post-card {
+    position: relative;
+    row-gap: var(--spacing-xs);
+    padding-block: var(--spacing-l);
+  }
+
+  .post-date {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-2xs) var(--spacing-m);
+    color: var(--color-muted);
+    padding-top: 0.4em;
+  }
+
+  .post-minutes {
+    color: var(--color-faint);
+  }
+
+  @media (width >= 48rem) {
+    .post-date {
+      flex-direction: column;
+    }
+  }
+
+  .post-title {
+    font-size: var(--text-heading);
+    line-height: var(--text-heading--line-height);
+    letter-spacing: var(--text-heading--letter-spacing);
+    font-weight: var(--text-heading--font-weight);
+  }
+
+  .post-link {
+    color: var(--color-paper);
+    text-decoration: none;
+  }
+
+  /* The whole row is clickable through the title link. */
+  .post-link::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+  }
+
+  .title-stack {
+    display: grid;
+    contain: layout;
+  }
+
+  .title-stack > span {
+    grid-area: 1 / 1;
+  }
+
+  .title-sizer {
+    visibility: hidden;
+  }
+
+  .title-text,
+  .title-match {
+    transition:
+      font-weight var(--dur-match-exit) var(--ease-in),
+      font-stretch var(--dur-match-exit) var(--ease-in);
+  }
+
+  .title-match {
+    clip-path: inset(0 0 0 100%);
+    transition:
+      clip-path var(--dur-match-exit) var(--ease-in),
+      font-weight var(--dur-match-exit) var(--ease-in),
+      font-stretch var(--dur-match-exit) var(--ease-in);
+  }
+
+  .title-match > span {
+    background-color: var(--color-paper);
+    color: var(--color-void);
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    padding-inline: 0.12em;
+    margin-inline: -0.12em;
+  }
+
+  .post-card:has(.post-link:focus-visible) .title-match,
+  .post-card:has(.post-link:focus-visible) .title-text {
+    font-weight: 700;
+    font-stretch: 94%;
+    clip-path: inset(0);
+    transition-duration: var(--dur-micro);
+    transition-timing-function: var(--ease-out);
+  }
+
+  @media (hover: hover) {
+    .post-card:hover .title-match,
+    .post-card:hover .title-text {
+      font-weight: 700;
+      font-stretch: 94%;
+      clip-path: inset(0);
+      transition-duration: var(--dur-micro);
+      transition-timing-function: var(--ease-out);
+    }
+  }
+
+  .post-description {
+    margin-top: var(--spacing-xs);
+    max-width: var(--container-measure);
+    font-size: var(--text-small);
+    line-height: var(--text-small--line-height);
+    color: var(--color-muted);
+  }
+
+  .post-tags {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+    margin-top: var(--spacing-s);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .title-text,
+    .title-match {
+      transition: none !important;
+    }
+  }
+</style>

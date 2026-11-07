@@ -1,0 +1,89 @@
+---
+/**
+ * Headline whose font axes animate without moving anything around it.
+ * Each line is a grid stack: a hidden "sizer" copy in the final state
+ * reserves the box, the visible copy animates inside it and is
+ * clipped by the line, so layout never changes (CLS = 0).
+ */
+interface Props {
+  lines: string[];
+  size?: "display" | "title";
+  id?: string;
+  class?: string;
+}
+
+const { lines, size = "title", id, class: className } = Astro.props;
+---
+
+<h1 id={id} class:list={["motion-title", `motion-title--${size}`, className]}>
+  {
+    lines.map((line) => (
+      <span class="rise-line">
+        <span class="rise-sizer" aria-hidden="true">
+          {line}
+        </span>
+        <span class="rise-text">{line}</span>
+      </span>
+    ))
+  }
+</h1>
+
+<style>
+  .motion-title {
+    display: block;
+  }
+
+  .motion-title--display {
+    font-size: var(--text-display);
+    line-height: var(--text-display--line-height);
+    letter-spacing: var(--text-display--letter-spacing);
+    font-weight: var(--text-display--font-weight);
+    font-stretch: 85%;
+  }
+
+  .motion-title--title {
+    font-size: var(--text-title);
+    line-height: var(--text-title--line-height);
+    letter-spacing: var(--text-title--letter-spacing);
+    font-weight: var(--text-title--font-weight);
+    font-stretch: 90%;
+  }
+
+  /* The padding/margin pair widens the clip box for accents and
+     descenders without changing layout. */
+  .rise-line {
+    display: grid;
+    overflow: clip;
+    padding-block: 0.2em 0.16em;
+    margin-block: -0.2em -0.16em;
+    contain: layout;
+  }
+
+  .rise-line > span {
+    grid-area: 1 / 1;
+  }
+
+  .rise-sizer {
+    visibility: hidden;
+  }
+
+  /* On paper the lines run together as one plain heading. */
+  @media print {
+    .motion-title--title {
+      font-size: 24pt;
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+    }
+    .rise-line {
+      display: inline;
+      padding: 0;
+      margin: 0;
+    }
+    .rise-line + .rise-line::before {
+      content: " ";
+    }
+    .rise-sizer {
+      display: none;
+    }
+  }
+</style>

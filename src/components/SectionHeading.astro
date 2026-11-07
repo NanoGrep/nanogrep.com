@@ -1,0 +1,39 @@
+---
+/** Section heading: an h2 aligned to the page edge, widening as it scrolls in. */
+interface Props {
+  title: string;
+  id: string;
+}
+
+const { title, id } = Astro.props;
+---
+
+<div class="section-heading grid-12">
+  <h2 id={id} class="section-title scroll-widen" lang="en" data-fx-hide data-fx-split>
+    {title}
+  </h2>
+</div>
+
+<style>
+  .section-heading {
+    align-items: baseline;
+    row-gap: var(--spacing-xs);
+  }
+
+  .section-title {
+    grid-column: 1 / -1;
+    font-size: var(--text-section);
+    line-height: var(--text-section--line-height);
+    letter-spacing: var(--text-section--letter-spacing);
+    font-weight: var(--text-section--font-weight);
+    font-stretch: 100%;
+    white-space: nowrap;
+  }
+
+  @media print {
+    .section-title {
+      font-size: 13pt;
+      font-stretch: 100%;
+    }
+  }
+</style>

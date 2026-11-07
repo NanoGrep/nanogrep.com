@@ -1,8 +1,0 @@
-proxy: cli-nonce
-replica: hashmap-yaml
-mutex:
-  nat: true
-  queue:
-    - 172.209.163.8
-  cert: mongo
-  metrics: false

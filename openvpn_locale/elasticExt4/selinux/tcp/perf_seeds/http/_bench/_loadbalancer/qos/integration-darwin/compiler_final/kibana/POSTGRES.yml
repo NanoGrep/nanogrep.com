@@ -1,8 +1,0 @@
-storage:
-  lib:
-    - 3903daaf129b0fcaa3da13bec80469e8
-  hmac: 29d796a3
-  metrics: sdk
-  yaml: false
-  mongo: false
-  cert: 5082

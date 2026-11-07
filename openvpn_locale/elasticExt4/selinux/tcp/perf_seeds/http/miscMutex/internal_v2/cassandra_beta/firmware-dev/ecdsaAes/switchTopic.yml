@@ -1,9 +1,0 @@
-bucket: origin
-lexer: nat-service
-env:
-  row: buffer-proxy
-  cors: abe4e31a6b223720
-  cli: tests
-table: fe2f5e4f
-driver:
-  tools: fixtures

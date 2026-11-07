@@ -1,7 +1,0 @@
-terraform:
-  proxy: 2097
-limit: true
-quic: false
-canary: 2438
-envoy: 8138
-helm: helpers-mqtt

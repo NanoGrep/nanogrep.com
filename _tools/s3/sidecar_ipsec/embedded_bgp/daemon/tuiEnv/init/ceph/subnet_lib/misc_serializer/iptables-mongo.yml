@@ -1,6 +1,0 @@
-service: false
-mocks:
-  udp: factory
-cert:
-  prometheus: null
-role: 7718ed12

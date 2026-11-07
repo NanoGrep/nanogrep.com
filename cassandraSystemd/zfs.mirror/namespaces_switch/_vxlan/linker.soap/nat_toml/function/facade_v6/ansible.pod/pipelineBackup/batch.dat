@@ -1,9 +1,0 @@
-bucket,vxlan,group,runner,hmac,vlan,core
-jenkins-daemon,192.79.191.99,bucket-nonce,table,131.32.81.83,8744,scripts
-regex,true,4542,null,43.193.213.142,policy-fuzz,119.4.58.35
-ff696d86,7494,130.184.156.17,a030466d,null,gateway,false
-driver,62d0d41797f459f1b0049998bdcf5c1b,watchdog-coroutine,ansible,6501642862fb4d274b8e93f23727020c,null,6633
-3278,9591317e7c82be52,80.183.169.154,null,true,40.106.86.193,7164
-114.130.36.105,true,btree-switch,tenant,tools,76ebcb1e,btree-daemon
-null,6608,bucket,handler-locale,99.240.138.124,148.95.64.232,true
-7732,false,4db44ce2105897b8e345f22b3a05615b,7284,8759,null,109.222.222.128

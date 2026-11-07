@@ -1,9 +1,0 @@
-metrics: cache
-entropy: 5644
-systemd: registry-cors
-systemd: true
-udp:
-  - c528fa2b95d254ae9176ad1e5c4c0ed7
-  - null
-  - 9bf00a63193c43e7ddbf363dd10ed6b2
-  - 23115a635bfbb80c

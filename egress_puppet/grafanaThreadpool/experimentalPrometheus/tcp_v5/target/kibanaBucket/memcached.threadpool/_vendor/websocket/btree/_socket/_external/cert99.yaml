@@ -1,5 +1,0 @@
-mirror: f2cfbb57
-helm: 5.90.145.252
-bucket: true
-failover:
-  systemd: 6108

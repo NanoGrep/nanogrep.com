@@ -1,7 +1,0 @@
-upstream:
-  - token-proxy
-policy: retry-config
-envoy: cli
-json: 30e9aa1ab6c54b358656fdf47e75ccb9
-queue: 237.40.169.181
-lexer: 108.108.72.43

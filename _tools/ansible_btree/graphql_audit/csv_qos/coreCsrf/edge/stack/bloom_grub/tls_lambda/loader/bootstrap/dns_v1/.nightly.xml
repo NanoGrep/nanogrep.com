@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<rsa>
-  <proxy id="065e52">batch-jenkins</item>
-  <zfs id="375d47">index</item>
-  <cron id="3fe1ce">daemon</item>
-  <pipeline id="303fb5">threadpool</item>
-  <vlan id="be98f7">14.126.6.37</item>
-  <ldap id="e3d024">mocks</item>
-</root>

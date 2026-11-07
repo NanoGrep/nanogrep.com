@@ -1,1 +1,0 @@
-{"graphql": "928950a31f7f", "audit": {"factory": false, "vxlan": {"sandbox": true, "metrics": false}, "snapshot": {"wireguard": [null]}}, "trie": true, "handler": {"legacy": null, "coroutine": null}, "jwt": "a93b63fabd3f"}

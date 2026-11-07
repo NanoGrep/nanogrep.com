@@ -1,1 +1,0 @@
-["3e3ac201a45f", true, {"migrations": {"limit": {"mongo": null, "cgroups": false, "salt": "086a259b2123", "jwt": true, "artifact": true, "nat": false}, "rollback": {"websocket": false, "role": true}, "bench": {"tests": true, "batch": true}}}]

@@ -1,4 +1,0 @@
-group: true
-common:
-  bucket: ingress
-  ldap: 77.190.38.40

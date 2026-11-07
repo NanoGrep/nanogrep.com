@@ -1,0 +1,94 @@
+---
+/**
+ * "Contents" for a post (h2–h3), only when there are at least 3 headings.
+ * Two renderings of the same list (TocList): a <details> in the flow below
+ * 80rem and a sticky side column above it; CSS shows exactly one, so assistive tech
+ * never meets both. toc-current.ts marks the section being read.
+ */
+import type { MarkdownHeading } from "astro";
+import TocList from "./TocList.astro";
+
+interface Props {
+  headings: MarkdownHeading[];
+  variant: "inline" | "aside";
+}
+
+const MIN_HEADINGS = 3;
+const { headings, variant } = Astro.props;
+const items = headings.filter((heading) => heading.depth >= 2 && heading.depth <= 3);
+const show = items.length >= MIN_HEADINGS;
+---
+
+{
+  show && (
+    <nav class:list={["toc", `toc--${variant}`]} aria-label="Contents" lang="en" data-pagefind-ignore>
+      {variant === "inline" ? (
+        <details class="toc-details">
+          <summary class="toc-summary label-meta">Contents</summary>
+          <TocList headings={items} />
+        </details>
+      ) : (
+        <>
+          <p class="toc-title label-meta">Contents</p>
+          <TocList headings={items} />
+        </>
+      )}
+    </nav>
+  )
+}
+
+<script>
+  import "../scripts/toc-current";
+</script>
+
+<style>
+  .toc--inline {
+    margin-bottom: var(--spacing-2xl);
+    border-block: 1px solid var(--color-rule);
+  }
+
+  .toc--aside {
+    display: none;
+  }
+
+  @media (width >= 80rem) {
+    .toc--inline {
+      display: none;
+    }
+    .toc--aside {
+      display: block;
+      position: sticky;
+      top: var(--spacing-xl);
+    }
+  }
+
+  .toc-summary {
+    padding-block: var(--spacing-s);
+    color: var(--color-muted);
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .toc-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .toc-summary::after {
+    content: " +";
+  }
+
+  .toc-details[open] .toc-summary::after {
+    content: " −";
+  }
+
+  .toc-title {
+    margin-bottom: var(--spacing-s);
+    color: var(--color-faint);
+  }
+
+  @media print {
+    .toc {
+      display: none !important;
+    }
+  }
+</style>

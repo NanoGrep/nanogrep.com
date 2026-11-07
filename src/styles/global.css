@@ -1,0 +1,251 @@
+@import "tailwindcss";
+@import "@fontsource-variable/archivo/wdth.css";
+@import "@fontsource-variable/geist-mono";
+@import "./tokens.css";
+@import "./motion.css";
+@import "./prose.css";
+@import "./print.css";
+
+@layer base {
+  html {
+    color-scheme: dark;
+    background-color: var(--color-void);
+    color: var(--color-text);
+    font-family: var(--font-sans);
+    font-size: 100%;
+    font-kerning: normal;
+    font-optical-sizing: auto;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    scroll-padding-top: var(--spacing-l);
+  }
+
+  body {
+    min-height: 100svh;
+    display: flex;
+    flex-direction: column;
+    font-size: var(--text-body);
+    line-height: var(--text-body--line-height);
+    font-stretch: 100%;
+  }
+
+  main {
+    flex: 1;
+    padding-bottom: var(--spacing-section);
+  }
+
+  /* main is only focused as the skip-link target; the link already showed focus. */
+  main:focus {
+    outline: none;
+  }
+
+  h1,
+  h2,
+  h3 {
+    color: var(--color-paper);
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-paper);
+    outline-offset: 3px;
+  }
+
+  ::selection {
+    background-color: var(--color-paper);
+    color: var(--color-void);
+  }
+
+  /* Starfield (starfield.ts): fixed behind everything, stays put during
+     page transitions. */
+  .starfield {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    image-rendering: pixelated;
+    view-transition-name: starfield;
+  }
+
+  @media print {
+    .starfield {
+      display: none;
+    }
+  }
+
+  html:has(dialog[open]) {
+    overflow: hidden;
+  }
+}
+
+@layer components {
+  /* Page container and 12-column grid */
+  .page {
+    width: 100%;
+    max-width: var(--container-page);
+    margin-inline: auto;
+    padding-inline: var(--grid-margin);
+  }
+
+  .grid-12 {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    column-gap: var(--grid-gutter);
+  }
+
+  .zone-index,
+  .zone-content,
+  .zone-wide,
+  .zone-aside {
+    grid-column: 1 / -1;
+  }
+
+  /* zone-wide: like zone-content but keeps cols 4–12 at every desktop width
+     (tables, multi-column lists). */
+  @media (width >= 48rem) {
+    .zone-index {
+      grid-column: 1 / 4;
+    }
+    .zone-content,
+    .zone-wide {
+      grid-column: 4 / -1;
+    }
+  }
+
+  @media (width >= 80rem) {
+    .zone-content {
+      grid-column: 4 / 10;
+    }
+    .zone-aside {
+      grid-column: 10 / -1;
+    }
+  }
+
+  /* UI labels: Geist Mono, uppercase */
+  .label-meta {
+    font-family: var(--font-mono);
+    font-size: var(--text-meta);
+    line-height: var(--text-meta--line-height);
+    letter-spacing: var(--text-meta--letter-spacing);
+    font-weight: var(--text-meta--font-weight);
+    text-transform: uppercase;
+  }
+
+  .label-nav {
+    font-family: var(--font-mono);
+    font-size: var(--text-nav);
+    line-height: var(--text-nav--line-height);
+    letter-spacing: var(--text-nav--letter-spacing);
+    font-weight: var(--text-nav--font-weight);
+    text-transform: uppercase;
+  }
+
+  /* Header controls keep their written case ("Home", "Blog", "Menu"). */
+  .label-case {
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  /*
+   * The match block: the only solid white surface.
+   * Markup: <… class="match [is-on]"><span class="match-text">…</span></…>
+   * The block is ::before; the text inverts through mix-blend-mode.
+   */
+  .match {
+    position: relative;
+    isolation: isolate;
+  }
+
+  .match::before {
+    content: "";
+    position: absolute;
+    inset: 0 -0.12em;
+    z-index: -1;
+    background-color: var(--color-paper);
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform var(--dur-match-exit) var(--ease-in);
+  }
+
+  .match-text {
+    color: var(--color-paper);
+    mix-blend-mode: difference;
+  }
+
+  .match.is-on::before {
+    transform: none;
+    transition: none;
+  }
+
+  @media (hover: hover) {
+    .match-hover:hover::before {
+      transform: none;
+      transform-origin: left;
+      transition: transform var(--dur-micro) var(--ease-out);
+    }
+  }
+
+  .match-hover:focus-visible::before {
+    transform: none;
+    transform-origin: left;
+    transition: transform var(--dur-micro) var(--ease-out);
+  }
+
+  @media (forced-colors: active) {
+    .match::before {
+      background-color: Highlight;
+    }
+    .match-text {
+      mix-blend-mode: normal;
+    }
+    .match.is-on .match-text {
+      color: HighlightText;
+    }
+  }
+
+  /* Underline drawn left to right, for single-line UI links */
+  .link-draw {
+    position: relative;
+  }
+
+  .link-draw::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -0.35em;
+    height: 1px;
+    background-color: var(--color-paper);
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform var(--dur-match-exit) var(--ease-in);
+  }
+
+  @media (hover: hover) {
+    .link-draw:hover::after {
+      transform: none;
+      transform-origin: left;
+      transition: transform var(--dur-micro) var(--ease-out);
+    }
+  }
+
+  .link-draw:focus-visible::after {
+    transform: none;
+  }
+
+  .sr-only-focusable:not(:focus) {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+}

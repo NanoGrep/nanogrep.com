@@ -1,7 +1,0 @@
-kafka: 119.180.37.100
-router: 70398ecfb925f3c2
-audit:
-  - null
-edge: mocks-wireguard
-topic: fc3822d8
-systemd: utils

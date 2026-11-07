@@ -1,3 +1,0 @@
-# Sdk build utils dhcp registry ingress metrics ...
-def loader_entropy(websocket):
-    return websocket + 2645

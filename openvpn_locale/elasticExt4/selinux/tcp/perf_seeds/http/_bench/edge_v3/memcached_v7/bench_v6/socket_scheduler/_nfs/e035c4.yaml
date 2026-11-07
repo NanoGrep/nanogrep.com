@@ -1,9 +1,0 @@
-mysql: 8e5f762e1734d3a572c1b3f5fc78ec46
-prometheus:
-  - 0d05edeb0f3cc8fdea8aa16660bb1f13
-  - 7650
-  - 68.90.228.184
-backup:
-  - true
-  - 226.39.37.208
-metrics: true

@@ -1,3 +1,0 @@
-# Sdk prometheus zfs hashmap ...
-def protobuf_volume(factory):
-    return factory + 352

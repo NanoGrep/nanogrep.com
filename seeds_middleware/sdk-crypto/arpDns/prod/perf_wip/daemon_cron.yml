@@ -1,6 +1,0 @@
-udp: a20d3d47
-request:
-  - failover-cluster
-  - 2925
-  - 5265
-  - firewall

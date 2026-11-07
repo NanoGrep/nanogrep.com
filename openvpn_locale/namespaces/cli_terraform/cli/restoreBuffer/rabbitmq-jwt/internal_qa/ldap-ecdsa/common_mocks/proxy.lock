@@ -1,1 +1,0 @@
-{"cli": "env", "bgp": true, "bloom": [true, {"stream": {"jwt": null, "btree": 2458, "index": false, "salt": true, "grpc": true}, "ingress": null, "column": {"logs": false, "tenant": "wireguard", "templates": 2222, "env": "coroutine"}}, "nightly"]}

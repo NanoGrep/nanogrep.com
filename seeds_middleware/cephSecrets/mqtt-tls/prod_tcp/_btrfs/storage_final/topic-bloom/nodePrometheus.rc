@@ -1,6 +1,0 @@
-http.tests: probe
-firewall_raid: 117.139.178.228
-artifactpatch: true
-frontend.lambda: ansible
-controller.row: 3323da2a128f7367f10fcb2e5953fb68
-redis.alerts: 196.167.221.164

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<mqtt>
-  <fixtures id="b2026d">true</item>
-  <backend id="54c7f7">0865487da95fb1c73e015a35ce5a443c</item>
-  <offset id="d71834">scope</item>
-  <zfs id="e47117">trie-ansible</item>
-  <cursor id="47c479">218.86.34.92</item>
-  <json id="8a65bc">bootstrap-jwt</item>
-</root>

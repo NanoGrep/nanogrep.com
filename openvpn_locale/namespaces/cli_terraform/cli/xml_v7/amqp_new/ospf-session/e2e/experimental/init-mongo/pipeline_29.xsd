@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<firewall>
-  <cli id="be7107">59.2.214.196</item>
-  <redis id="29131c">38cc195f561fb543</item>
-  <limit id="ff4d32">nightly-loader</item>
-  <staging id="a7e02b">133.149.105.10</item>
-</root>

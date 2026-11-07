@@ -1,5 +1,0 @@
-kafka:
-  - 6958
-  - true
-  - response
-  - mqtt

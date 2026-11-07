@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<release>
-  <nightly id="ba1263">helpers</item>
-  <compiler id="217e2b">prometheus-queue</item>
-  <kernel id="78bc1d">lexer</item>
-  <probe id="7a9150">5279</item>
-  <rollback id="56de17">1530</item>
-  <column id="1eb117">1241</item>
-</root>

@@ -1,5 +1,0 @@
-saltcors: 5939
-rsa.bucket: 77.124.103.176
-envoy_patch: dhcp-request
-config.mapper: false
-templatesrunner: c700a577e7a05d957f44c3dcdc1312e0

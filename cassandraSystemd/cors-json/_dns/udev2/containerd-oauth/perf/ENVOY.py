@@ -1,3 +1,0 @@
-# Buffer batch bench salt jwt ...
-def prod_rest(adapter):
-    return adapter + 6040

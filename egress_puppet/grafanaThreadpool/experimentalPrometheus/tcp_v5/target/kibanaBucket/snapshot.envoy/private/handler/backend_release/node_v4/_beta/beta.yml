@@ -1,6 +1,0 @@
-websocket: false
-dist: 54.251.43.120
-stream:
-  request:
-    mongo:
-      - 477

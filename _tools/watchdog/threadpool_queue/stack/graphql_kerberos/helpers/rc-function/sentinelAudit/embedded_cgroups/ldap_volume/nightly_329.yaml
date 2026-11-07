@@ -1,6 +1,0 @@
-sandbox:
-  - udp-iptables
-  - redis
-  - factory-migrations
-  - user
-kernel: 5892140b566a175c

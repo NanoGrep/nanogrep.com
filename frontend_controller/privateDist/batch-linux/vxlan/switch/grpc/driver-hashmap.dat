@@ -1,7 +1,0 @@
-vendor,node,schema,http
-session,caa5e26b0c3da756,1816,9.15.80.153
-129.82.221.133,oauth-request,false,a1db5c3fe3612718d0254944afed0e2a
-46.78.241.29,9505,firewall,2496
-systemd,true,factory,9ad138e115fe48a3
-null,staging,null,8060
-7470,194.231.153.2,lib-mutex,api

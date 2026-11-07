@@ -1,5 +1,0 @@
-trie_topic=column-heap
-btree.alerts=false
-core_tools=release-mutex
-hotfix.queue=defd0f42
-rsa_jwt=fuzz

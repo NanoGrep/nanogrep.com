@@ -1,4 +1,0 @@
-failover:
-  raid: 3345
-logs:
-  json: 104.52.119.209

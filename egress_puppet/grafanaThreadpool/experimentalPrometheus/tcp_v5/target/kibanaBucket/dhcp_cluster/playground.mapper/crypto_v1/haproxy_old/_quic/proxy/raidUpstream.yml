@@ -1,5 +1,0 @@
-nfs: cors
-bloom: false
-raid: 6773
-cron: probe-sandbox
-beta: 63.132.36.241

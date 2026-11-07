@@ -1,6 +1,0 @@
-replica: 903
-legacy: b351783ca378a79f
-mocks: 138.23.136.105
-patch:
-  - 14faef24
-  - true

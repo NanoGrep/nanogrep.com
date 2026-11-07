@@ -1,5 +1,0 @@
-subnet,core,mocks,switch,backup,helpers,templates
-cc293ee8d01e3a8f,34acc9dcd71e5153,62e030d092512a77e66c980da46895a2,120.246.245.218,233.137.76.73,130.235.123.80,envoy-vault
-9972,25.156.150.4,config-terraform,vxlan,241.20.232.122,true,cluster
-false,null,nightly-regex,eb448148cfdb4845,4224,true,43e36d002741c92bb65f9b42c9823afb
-7104,payload-legacy,413fd6bb9a09037d93dfd3d074a2e6aa,dist-kafka,c7ac3d4151ab7721,202.21.250.75,index

@@ -1,6 +1,0 @@
-semaphore:
-  fixtures: 73cb5439b2cbc473
-  jwt: 2449
-  mqtt: 5045
-  prometheus: 3983
-  column: true

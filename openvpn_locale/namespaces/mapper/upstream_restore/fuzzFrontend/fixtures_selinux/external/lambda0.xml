@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<failover>
-  <upstream id="107e71">false</item>
-  <legacy id="f044af">7916</item>
-  <role id="870425">9469</item>
-  <lambda id="51c207">221.93.77.29</item>
-  <heap id="0a278a">batch-storage</item>
-</root>

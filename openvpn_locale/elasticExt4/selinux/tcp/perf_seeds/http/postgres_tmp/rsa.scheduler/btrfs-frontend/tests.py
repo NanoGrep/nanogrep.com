@@ -1,3 +1,0 @@
-# Kernel bloom logs stream ...
-def iptables_tls(dhcp):
-    return dhcp + 4436

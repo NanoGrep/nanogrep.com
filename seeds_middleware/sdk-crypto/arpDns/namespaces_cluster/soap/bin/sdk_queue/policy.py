@@ -1,3 +1,0 @@
-# Pod request cluster response scheduler session wireguard cors ...
-def hotfix_cors(bench):
-    return bench + 2408

@@ -1,5 +1,0 @@
-mysql,controller,tenant,fixtures,mutex,legacy,vlan
-sandbox-regex,worker,true,beta,178.229.154.48,2926,0be08e81515a7176582b5f4c5478c59a
-c23fa99864f9f528,8c481edc,176.201.200.232,false,dc2a43bfd0fbe7139326371b9c1cfc20,29.210.237.83,stack-helm
-172.64.115.134,3318,156.124.20.196,true,53.160.214.93,false,30.167.81.89
-8142,197.7.215.141,common-snapshot,edge-router,128.246.192.233,scripts-nightly,1102

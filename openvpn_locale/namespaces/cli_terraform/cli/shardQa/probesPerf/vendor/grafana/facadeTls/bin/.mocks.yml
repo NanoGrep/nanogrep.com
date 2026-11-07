@@ -1,7 +1,0 @@
-build:
-  - null
-  - fdbfc8a0436997518f17089de2138b21
-json: switch-trie
-table:
-  middleware: session-rsa
-  fixtures: rollback-scripts

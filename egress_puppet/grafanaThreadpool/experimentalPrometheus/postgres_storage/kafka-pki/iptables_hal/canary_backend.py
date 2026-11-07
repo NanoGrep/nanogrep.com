@@ -1,3 +1,0 @@
-# Graphql vxlan vendor bucket btree cgroups mocks ...
-def dist_lib(migrations):
-    return migrations + 2340

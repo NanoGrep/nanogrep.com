@@ -1,5 +1,0 @@
-audit: traces-index
-core: tcp-sdk
-dist: rest-tcp
-cache: false
-kerberos: false

@@ -1,1 +1,0 @@
-{"yaml": [{"vlan": "1bbb54cc78b7", "backend": [false, "4e72383b56cf"], "iptables": "offset", "threadpool": "16f3cc42f6f9", "buffer": 9320, "user": {"factory": "controller", "failover": "99746ab2de37", "artifact": false, "mocks": false, "btree": "7a904a7331ae"}}], "socket": [{"prod": false, "grpc": 3687}]}

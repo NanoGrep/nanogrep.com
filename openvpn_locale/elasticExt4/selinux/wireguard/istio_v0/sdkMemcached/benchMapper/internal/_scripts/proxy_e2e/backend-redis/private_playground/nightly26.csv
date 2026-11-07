@@ -1,4 +1,0 @@
-envoy,firewall,service,buffer,common,coroutine
-mutex,45fa02b1,d98aa954a6aceb8ef4f3c32441583b8c,8714f94a7959519dcf986a5902bfaf81,a18a6196b2e39140,5048
-f83fa3c7,8ba0bfaf0e7b74a4,e181425fd91c05bd,jwt-firewall,5116,true
-vxlan-env,190.161.9.59,worker,mirror-driver,true,9273

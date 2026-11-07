@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<cgroups>
-  <kerberos id="3bcf73">true</item>
-  <cors id="75ea48">7643</item>
-  <mqtt id="8ef58a">driver</item>
-</root>

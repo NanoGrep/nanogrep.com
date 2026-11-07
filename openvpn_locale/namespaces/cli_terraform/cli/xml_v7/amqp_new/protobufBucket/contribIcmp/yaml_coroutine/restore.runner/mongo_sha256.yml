@@ -1,8 +1,0 @@
-compiler:
-  lexer: 21c80829a383d45a743d04edc21dba67
-  buffer:
-    - false
-scope: worker
-rsa:
-  - frontend
-ceph: kernel

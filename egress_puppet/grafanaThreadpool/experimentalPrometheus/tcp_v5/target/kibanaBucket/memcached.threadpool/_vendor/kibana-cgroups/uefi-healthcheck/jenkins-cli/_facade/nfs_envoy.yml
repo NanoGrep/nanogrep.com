@@ -1,6 +1,0 @@
-worker:
-  - object
-raid: 7220
-rsa: 209.56.120.6
-kerberos: 102
-kafka: 9897

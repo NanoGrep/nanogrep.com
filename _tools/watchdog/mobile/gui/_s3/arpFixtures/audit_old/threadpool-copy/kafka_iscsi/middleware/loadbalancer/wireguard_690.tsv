@@ -1,7 +1,0 @@
-vendor,wireguard,snapshot,logs,lexer,pod,cache
-3134,207.93.9.238,true,prod,udp-nat,watchdog-lambda,6616
-5061,null,proxy,schema-btree,heap-elastic,194.92.4.243,metrics
-156.90.101.97,0d0e3b7a44118e62d4c35b6b5fba96ac,null,true,52.79.112.232,metrics-user,5424
-common,26.95.148.59,3814,20.252.54.163,bgp,237bee804dea76ac,null
-33.249.127.144,tenant,firewall,worker-coroutine,81f1d2fbe667c369009710abd7ff091f,62.93.140.206,9534
-157.32.154.138,null,lexer,tenant,false,null,bootstrap-fuzz

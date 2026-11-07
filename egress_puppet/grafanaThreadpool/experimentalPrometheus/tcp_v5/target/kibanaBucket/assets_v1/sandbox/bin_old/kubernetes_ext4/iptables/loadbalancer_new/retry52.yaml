@@ -1,6 +1,0 @@
-runner: 0dd0d1d3
-retry: dns
-failover:
-  trie: cert
-  legacy: 61.87.38.202
-semaphore: true

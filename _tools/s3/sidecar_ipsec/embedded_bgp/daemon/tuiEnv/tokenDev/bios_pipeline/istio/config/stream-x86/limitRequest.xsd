@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<lib>
-  <cert id="f14294">null</item>
-  <core id="5d2d13">9961a68265f6326a09cba36ba2a6067a</item>
-  <gateway id="ee1207">1739</item>
-  <grafana id="a9c92e">211.3.118.234</item>
-  <build id="d6a019">iptables</item>
-</root>

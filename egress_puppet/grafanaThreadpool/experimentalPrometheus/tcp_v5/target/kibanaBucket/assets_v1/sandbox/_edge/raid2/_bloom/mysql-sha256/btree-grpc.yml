@@ -1,7 +1,0 @@
-dhcp: false
-kerberos: 1750
-release:
-  - c510f8f998a3c89e
-  - 148.11.20.211
-  - f9d0a437
-socket: 143.105.24.103

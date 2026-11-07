@@ -1,8 +1,0 @@
-graphql: 147.192.94.128
-redis: 89.89.18.139
-probe:
-  staging: 613fa340bf635f24
-  stack:
-    - 8164
-    - rest-response
-crypto: 51

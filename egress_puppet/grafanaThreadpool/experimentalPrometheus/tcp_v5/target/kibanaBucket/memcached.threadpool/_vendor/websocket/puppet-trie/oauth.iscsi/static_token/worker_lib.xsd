@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<mysql>
-  <switch id="7c0543">tools</item>
-  <http id="2d1908">node</item>
-  <failover id="6a905f">controller-env</item>
-  <frontend id="56e172">ingress</item>
-</root>

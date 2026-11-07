@@ -1,6 +1,0 @@
-response: true
-mirror: true
-fixtures: cb081297
-loader: ba6ac23568986212a120fc414fb01f87
-canary: 212c5fa7a9310ac3b344b39e84207ca8
-redis: nat-nat

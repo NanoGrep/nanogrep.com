@@ -1,6 +1,0 @@
-retry:
-  migrations: stack-patch
-  gateway:
-    nginx: 1295
-    http: daemon-bootstrap
-    artifact: 43.231.116.240

@@ -1,3 +1,0 @@
-staging: true
-semaphore:
-  prod: 3b2dba22

@@ -1,3 +1,0 @@
-# Mirror origin audit helpers env scripts dns ...
-def token_limit(grpc):
-    return grpc + 577

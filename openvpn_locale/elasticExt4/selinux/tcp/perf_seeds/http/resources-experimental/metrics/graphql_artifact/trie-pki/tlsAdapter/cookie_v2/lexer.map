@@ -1,1 +1,0 @@
-{"handler": {"tests": {"group": {"worker": null, "nginx": 3696}, "table": "legacy", "websocket": true, "cli": {"nonce": null, "mirror": 281, "scripts": null, "ldap": 2736, "websocket": 863, "socket": "564a91e94083"}, "patch": [7710], "artifact": false}, "edge": [{"switch": true}, true, false, null], "service": [null, {"batch": true, "mirror": "threadpool"}]}, "bootstrap": null}

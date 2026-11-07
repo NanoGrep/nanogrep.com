@@ -1,7 +1,0 @@
-fixturessession: 113.30.200.107
-daemonlocale: 1369
-kafka_websocket: true
-cachetable: cli-router
-subnet_service: 6940
-hmac.compiler: 9284
-testspostgres: false

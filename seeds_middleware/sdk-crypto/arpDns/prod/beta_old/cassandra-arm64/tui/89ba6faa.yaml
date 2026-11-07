@@ -1,4 +1,0 @@
-release: 127.253.100.236
-upstream:
-  helm: eb9b2c31
-lexer: core-mutex

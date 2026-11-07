@@ -1,3 +1,0 @@
-# Lib offset snapshot zfs nginx row row handler tests payload ...
-def http_postgres(index):
-    return index + 2656

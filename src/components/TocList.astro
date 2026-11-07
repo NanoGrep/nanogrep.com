@@ -1,0 +1,161 @@
+---
+/**
+ * The list inside "Contents": numbered sections (h2) with their subsections
+ * (h3) hanging from them like the output of `tree` (├─ └─). A nested list,
+ * so the hierarchy is also there for assistive tech. toc-current.ts marks
+ * the current link through [data-toc-link].
+ */
+import type { MarkdownHeading } from "astro";
+
+interface Props {
+  headings: MarkdownHeading[];
+}
+
+interface Section {
+  heading: MarkdownHeading;
+  children: MarkdownHeading[];
+}
+
+const { headings } = Astro.props;
+
+// Group every h3 under the h2 before it; an h3 before any h2 stands alone.
+const sections = headings.reduce<Section[]>((list, heading) => {
+  const last = list.at(-1);
+  if (heading.depth === 3 && last) last.children.push(heading);
+  else list.push({ heading, children: [] });
+  return list;
+}, []);
+---
+
+<ol class="toc-list" role="list">
+  {
+    sections.map(({ heading, children }, index) => (
+      <li class="toc-section">
+        <span class="toc-number" aria-hidden="true">
+          {String(index + 1).padStart(2, "0")}
+        </span>
+        <a href={`#${heading.slug}`} class="toc-link toc-link--section match" data-toc-link={heading.slug}>
+          <span class="match-text" lang="es">
+            {heading.text}
+          </span>
+        </a>
+        {children.length > 0 && (
+          <ol class="toc-sub" role="list">
+            {children.map((child) => (
+              <li class="toc-sub-item">
+                <a href={`#${child.slug}`} class="toc-link toc-link--sub match" data-toc-link={child.slug}>
+                  <span class="match-text" lang="es">
+                    {child.text}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        )}
+      </li>
+    ))
+  }
+</ol>
+
+<style>
+  .toc-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-m);
+    padding-bottom: var(--spacing-s);
+  }
+
+  /* Section: number in its own column, title, then the subsections under the title. */
+  .toc-section {
+    display: grid;
+    grid-template-columns: 2.4em minmax(0, 1fr);
+    column-gap: var(--spacing-2xs);
+    align-items: baseline;
+  }
+
+  .toc-number {
+    font-family: var(--font-mono);
+    font-size: var(--text-meta);
+    letter-spacing: var(--text-meta--letter-spacing);
+    color: var(--color-faint);
+    transition: color var(--dur-micro) var(--ease-out);
+  }
+
+  /* Hug the text, so the match block is as wide as the title, not the column. */
+  .toc-link {
+    justify-self: start;
+    text-decoration: none;
+  }
+
+  .toc-link--section {
+    font-size: var(--text-small);
+    line-height: 1.35;
+    font-weight: 600;
+  }
+
+  .toc-link--section .match-text {
+    color: var(--color-paper);
+  }
+
+  /* Subsections: smaller, grey, on tree branches. */
+  .toc-sub {
+    grid-column: 2;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-2xs);
+    margin-top: var(--spacing-xs);
+  }
+
+  .toc-sub-item {
+    display: grid;
+    grid-template-columns: 1.6em minmax(0, 1fr);
+    align-items: baseline;
+  }
+
+  .toc-sub-item::before {
+    content: "├─";
+    font-family: var(--font-mono);
+    font-size: var(--text-meta);
+    color: var(--color-line);
+  }
+
+  .toc-sub-item:last-child::before {
+    content: "└─";
+  }
+
+  .toc-link--sub {
+    font-size: 0.875rem;
+    line-height: 1.4;
+  }
+
+  .toc-link--sub .match-text {
+    color: var(--color-muted);
+  }
+
+  .toc-link:hover .match-text {
+    color: var(--color-paper);
+  }
+
+  /* Current section: the match block draws in… */
+  .toc-link.is-current::before {
+    transform: none;
+    transform-origin: left;
+    transition: transform var(--dur-micro) var(--ease-out);
+  }
+
+  .toc-link.is-current .match-text {
+    color: var(--color-paper);
+  }
+
+  /* …and the number of the section being read lights up. */
+  .toc-section:has(.is-current) > .toc-number {
+    color: var(--color-paper);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .toc-link::before,
+    .toc-number {
+      transition: none !important;
+    }
+  }
+</style>

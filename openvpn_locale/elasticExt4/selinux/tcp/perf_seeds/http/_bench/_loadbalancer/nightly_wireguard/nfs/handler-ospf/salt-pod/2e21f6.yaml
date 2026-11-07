@@ -1,7 +1,0 @@
-mysql: null
-prometheus: ingress
-postgres: metrics
-middleware:
-  locale: 134.67.184.67
-rsa: 6240
-token: null

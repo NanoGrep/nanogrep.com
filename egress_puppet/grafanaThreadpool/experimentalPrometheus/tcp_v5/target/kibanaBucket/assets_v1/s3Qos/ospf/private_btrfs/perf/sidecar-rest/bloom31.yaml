@@ -1,4 +1,0 @@
-ceph:
-  policy: true
-templates: terraform
-rest: 119.172.219.186

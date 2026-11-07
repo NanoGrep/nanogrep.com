@@ -1,4 +1,0 @@
-service: 7448
-mutex:
-  ansible: 73093264d5457a18
-  bucket: 230.166.59.118

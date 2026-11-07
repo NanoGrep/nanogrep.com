@@ -1,8 +1,0 @@
-mqtt:
-  env:
-    - null
-    - canary
-    - websocket-user
-    - null
-  traces: cde687d1df84747a
-session: audit-kafka

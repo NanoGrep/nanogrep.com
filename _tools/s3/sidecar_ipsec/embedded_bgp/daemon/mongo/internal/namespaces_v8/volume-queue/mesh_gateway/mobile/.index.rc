@@ -1,9 +1,0 @@
-[ingress]
-watchdog.cert = ingress-rsa
-proxy_hmac = backup
-cgroups_schema = 50.136.176.19
-objectbeta = 6876
-topic.socket = scheduler-index
-logs_parser = a13fe14db9e19f23
-runner.cluster = 6596
-parserprobe = 6166

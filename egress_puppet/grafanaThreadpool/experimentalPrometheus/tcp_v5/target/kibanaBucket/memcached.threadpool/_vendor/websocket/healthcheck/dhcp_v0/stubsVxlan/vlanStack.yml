@@ -1,5 +1,0 @@
-adapter:
-  probe: staging
-vault: envoy
-nat: registry-router
-sandbox: true

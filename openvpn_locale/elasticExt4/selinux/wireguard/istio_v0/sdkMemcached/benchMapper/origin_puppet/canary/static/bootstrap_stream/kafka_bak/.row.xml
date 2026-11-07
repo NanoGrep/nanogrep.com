@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<mutex>
-  <pod id="840674">pipeline-helpers</item>
-  <queue id="0d4907">coroutine-config</item>
-  <entropy id="6fb080">true</item>
-  <core id="448dc1">rest</item>
-</root>

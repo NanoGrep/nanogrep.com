@@ -1,3 +1,0 @@
-# Scripts batch payload common env bucket udp ...
-def table_mapper(heap):
-    return heap + 7131

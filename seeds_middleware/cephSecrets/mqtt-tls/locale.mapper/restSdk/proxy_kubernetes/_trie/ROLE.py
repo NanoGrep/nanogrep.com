@@ -1,3 +1,0 @@
-# Heap tenant group scope backup hmac aes assets group tls ...
-def mysql_mysql(snapshot):
-    return snapshot + 1241

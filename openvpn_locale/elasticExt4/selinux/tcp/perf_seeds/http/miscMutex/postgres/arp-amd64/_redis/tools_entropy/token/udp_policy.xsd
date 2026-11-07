@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<replica>
-  <daemon id="17e893">1301</item>
-  <batch id="166a53">591ce01d</item>
-  <middleware id="6a7b03">72450b4432bef9e0</item>
-  <bloom id="31d0d9">6930</item>
-  <helpers id="8932f3">tenant-loader</item>
-</root>

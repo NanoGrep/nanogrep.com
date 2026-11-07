@@ -1,8 +1,0 @@
-sha256: controller-yaml
-node: 9d1cdb9e8c23d3b4b98fc39e6092d5f3
-common:
-  - 214.112.118.78
-  - 72eec259
-  - af9c17bbcb24b5ba8974d76754aeea12
-  - 9471
-release: 6573

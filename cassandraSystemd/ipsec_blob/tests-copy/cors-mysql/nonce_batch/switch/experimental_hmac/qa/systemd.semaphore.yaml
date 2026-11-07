@@ -1,7 +1,0 @@
-subnet: 157.240.189.15
-kernel: 3002
-core: staging
-api: bucket-buffer
-api:
-  vendor: registry
-  redis: 5999

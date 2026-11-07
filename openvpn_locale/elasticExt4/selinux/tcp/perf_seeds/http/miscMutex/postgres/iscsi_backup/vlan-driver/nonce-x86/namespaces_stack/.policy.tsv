@@ -1,9 +1,0 @@
-bucket,parser,btree,semaphore,volume
-131.131.212.208,7c154835a937705e23c1567b42086d20,shard,queue-backend,mocks
-dfb72db6,1578,f0a0d6bf,f5363080040942902f024b97e140b916,247.84.208.80
-183.56.247.9,56d14860ac28449cd7217d109808e7d3,iptables,null,true
-subnet-mysql,mapper-loader,f9c67c8a1996c105,f827462b9251a63b,208.234.154.118
-178.72.25.81,d9112db5,4214,81.171.46.147,536
-616b7167,06c2d4709d8c0aba894aa9fa8c90759c,scripts,pod,3c67968a5d96fe9c
-72.158.96.110,hotfix-router,mongo-helpers,mocks,243.162.219.179
-0dcf8e58056ff1e8,templates-loader,runner,f23a15396ff3805e,firmware-jenkins

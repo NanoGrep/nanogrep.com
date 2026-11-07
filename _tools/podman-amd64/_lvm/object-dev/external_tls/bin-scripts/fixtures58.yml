@@ -1,8 +1,0 @@
-sha256: threadpool
-json: 2134
-patch: 7f579841e00e32fb752b44b3bed8dbb7
-loader:
-  - a53ad61a48c4a337
-  - 9058
-  - 7709
-  - nonce

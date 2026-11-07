@@ -1,0 +1,94 @@
+---
+/**
+ * 1200×630 canvas for the default Open Graph image. scripts/postbuild.mjs
+ * screenshots it to /og-default.png and then deletes this page from dist,
+ * so it is never published (it is also left out of the sitemap).
+ */
+import "../styles/global.css";
+import { profile } from "../lib/profile";
+import { generateField } from "../lib/field";
+import { site } from "../data/site";
+
+// A character field with the site's own name as the one match.
+const field = generateField([site.name]);
+const [match] = field.words;
+const escape = (text: string) => text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const preHtml = field.rows
+  .map((line, row) =>
+    row === match.row
+      ? escape(line.slice(0, match.col)) +
+        `<span class="og-match">${escape(match.text)}</span>` +
+        escape(line.slice(match.col + match.text.length))
+      : escape(line),
+  )
+  .join("\n");
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=1200" />
+    <title>{site.name}</title>
+  </head>
+  <body class="og">
+    <pre class="og-field" aria-hidden="true" set:html={preHtml} />
+    <div class="og-text">
+      <p class="og-name">{profile.alias}</p>
+      <p class="og-url label-meta">{new URL(site.url).host}</p>
+    </div>
+  </body>
+</html>
+
+<style>
+  .og {
+    position: relative;
+    width: 1200px;
+    height: 630px;
+    min-height: 0;
+    overflow: hidden;
+    background-color: var(--color-void);
+  }
+
+  .og-field {
+    --cell: 14px;
+    position: absolute;
+    inset: 0;
+    margin: 0;
+    font-family: var(--font-mono);
+    font-size: var(--cell);
+    line-height: var(--cell);
+    letter-spacing: calc(var(--cell) - 1ch);
+    color: var(--color-field);
+    white-space: pre;
+  }
+
+  .og-field :global(.og-match) {
+    background-color: var(--color-paper);
+    color: var(--color-void);
+  }
+
+  .og-text {
+    position: absolute;
+    left: 64px;
+    right: 64px;
+    bottom: 56px;
+  }
+
+  .og-name {
+    font-size: 160px;
+    line-height: 0.9;
+    letter-spacing: -0.045em;
+    font-weight: 780;
+    font-stretch: 85%;
+    color: var(--color-paper);
+  }
+
+  .og-url {
+    margin-top: 20px;
+    font-size: 16px;
+    color: var(--color-muted);
+    text-transform: none;
+  }
+</style>

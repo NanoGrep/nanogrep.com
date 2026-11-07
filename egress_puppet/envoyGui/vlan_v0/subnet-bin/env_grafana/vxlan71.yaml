@@ -1,7 +1,0 @@
-object:
-  - nightly-mirror
-  - cfeb296e99a82a90171864ee0ba512e0
-  - ingress-cgroups
-aes: true
-kernel: 1624
-offset: 6900

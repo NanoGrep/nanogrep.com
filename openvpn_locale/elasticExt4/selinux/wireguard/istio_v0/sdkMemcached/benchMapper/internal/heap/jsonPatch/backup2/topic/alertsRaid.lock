@@ -1,1 +1,0 @@
-[{"backend": "response"}, [{"env": true, "storage": null, "loader": "lambda"}, {"role": true}, "origin", "3046b0a81c9a"], true, {"legacy": 9620, "hotfix": {"batch": []}, "bloom": 4799, "frontend": {"middleware": {"helm": "service", "gateway": "c64b590567d4", "zfs": 6651, "sha256": true, "rsa": "mocks", "group": "cda971abd4ea"}, "fixtures": "5de4be571000", "bench": null}}]

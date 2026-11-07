@@ -1,7 +1,0 @@
-{
-    "subnet": [
-        true,
-        "coroutine"
-    ],
-    "firmware": true
-}

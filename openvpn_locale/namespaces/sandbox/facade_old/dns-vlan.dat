@@ -1,8 +1,0 @@
-ansible,fixtures
-rest,true
-09df9ed9,ceph
-7784,34156f3d
-threadpool,payload-mysql
-193,717
-loader-worker,237a1b44ac1b97eaae3bca94aab6131f
-nfs-vault,238.171.195.38

@@ -1,1 +1,0 @@
-{"bucket": null, "tenant": null, "elastic": "d76faf3a1231", "middleware": [], "token": {"regex": {"cookie": {"traces": null, "sdk": true, "helpers": 3982, "lib": false, "redis": 7112, "nightly": false}, "rsa": true, "jwt": "2302941ffa7f", "tools": [null, null]}, "cors": true}}

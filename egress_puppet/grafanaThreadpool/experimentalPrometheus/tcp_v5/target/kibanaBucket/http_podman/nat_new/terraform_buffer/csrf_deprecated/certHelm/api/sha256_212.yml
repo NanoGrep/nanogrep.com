@@ -1,8 +1,0 @@
-frontend: 5.5.237.31
-limit: coroutine-stack
-legacy: 4872
-fuzz:
-  - iptables-bgp
-  - 8d75bc806fbc5243
-  - mesh
-  - 33.101.156.169

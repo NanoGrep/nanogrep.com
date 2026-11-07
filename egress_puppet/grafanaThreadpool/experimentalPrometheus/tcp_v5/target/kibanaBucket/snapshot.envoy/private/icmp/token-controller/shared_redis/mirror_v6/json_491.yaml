@@ -1,8 +1,0 @@
-envoy:
-  dhcp: 215127c3439aba7c
-wireguard: 77b5ad41450e597d
-ceph: true
-ansible: false
-systemd: object-mirror
-templates:
-  compiler: 1383

@@ -1,7 +1,0 @@
-shard,kerberos,bloom,bucket,parser,elastic
-yaml-hotfix,1025,209.244.19.193,middleware-batch,false,bucket-lib
-3443,regex-vendor,middleware-build,vlan-tls,lambda,null
-terraform-scope,null,salt,null,false,true
-btree-assets,028d34d5656cfd22,2702,4830034210712f751cfdaef041dce477,71c5f30149cd3369,110.90.84.28
-watchdog-mapper,8467f6a971f4fa80cdd0b422a61539ff,core-threadpool,e1515c4977cf58c36b1d2cc054e31347,controller,2711
-salt-env,payload-factory,57f7d8de,true,false,vxlan-staging

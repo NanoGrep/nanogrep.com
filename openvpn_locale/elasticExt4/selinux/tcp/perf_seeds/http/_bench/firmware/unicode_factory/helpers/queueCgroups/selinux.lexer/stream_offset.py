@@ -1,3 +1,0 @@
-# Rsa buffer terraform batch dns ingress jenkins http router build cron dist patch cors ...
-def kafka_core(lib):
-    return lib + 3670

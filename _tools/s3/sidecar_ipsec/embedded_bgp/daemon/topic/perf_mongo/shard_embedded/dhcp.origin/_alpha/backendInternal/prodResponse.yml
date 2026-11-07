@@ -1,4 +1,0 @@
-ingress: false
-pod:
-  snapshot:
-    stack: queue-controller

@@ -1,1 +1,0 @@
-[null, {"mutex": [false, 7005], "registry": 750, "kafka": {"json": {"assets": "7fabbf775a11"}, "response": {"helpers": true, "elastic": false, "limit": 8672, "vault": null, "mysql": "semaphore", "volume": null}, "origin": {"loader": "socket", "replica": "64f1bca0c42f", "udp": true, "helpers": false}, "service": 8935, "buffer": ["45f47c5fd148"]}, "hmac": [true, 1248, [4041]]}]

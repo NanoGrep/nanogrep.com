@@ -1,6 +1,0 @@
-sdkutils=true
-vaultsha256=3236
-testsrest=nginx
-scheduler.replica=969eb22a31b57e67
-policy_router=bloom-failover
-registrybackend=107.126.51.137

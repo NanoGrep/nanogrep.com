@@ -1,3 +1,0 @@
-# Upstream nginx helpers trie semaphore canary firmware ...
-def pod_postgres(core):
-    return core + 1920

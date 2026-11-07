@@ -1,8 +1,0 @@
-tenant: 158.189.111.225
-buffer: row
-protobuf: false
-cgroups:
-  session: a28a618b
-  sha256: loader
-  buffer: c094fd98d9770981
-canary: 2483

@@ -1,5 +1,0 @@
-[kerberos]
-request_mysql = subnet
-crypto_scope = 2700
-kerberosredis = 216.81.205.50
-nfsentropy = 132.113.89.138

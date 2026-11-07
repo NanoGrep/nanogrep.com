@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<trie>
-  <tests id="5f1481">core</item>
-  <lib id="cfd4be">ansible-build</item>
-  <frontend id="d5fe8e">release-mutex</item>
-  <subnet id="4c4386">800</item>
-</root>

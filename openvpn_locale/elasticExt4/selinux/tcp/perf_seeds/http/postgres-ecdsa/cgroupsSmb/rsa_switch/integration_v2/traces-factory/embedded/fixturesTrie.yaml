@@ -1,4 +1,0 @@
-bench: traces-tcp
-service: grpc
-user: router
-tools: 6442

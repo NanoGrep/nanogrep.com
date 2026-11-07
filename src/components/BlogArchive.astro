@@ -1,0 +1,198 @@
+---
+/**
+ * Blog archive (/blog/ and /blog/year/<year>/): post list on the left and,
+ * on the right, a column with the search field, the year menu and the tag
+ * filter. Below 80rem the column sits above the list.
+ */
+import BaseLayout from "../layouts/BaseLayout.astro";
+import MotionTitle from "./MotionTitle.astro";
+import PostList from "./PostList.astro";
+import BlogSearch from "./BlogSearch.astro";
+import YearFilter from "./YearFilter.astro";
+import TagFilter from "./TagFilter.astro";
+import { getTags, getYears, type Post } from "../lib/posts";
+
+interface Props {
+  /** Every published post (for the year menu). */
+  allPosts: Post[];
+  /** Posts to list on this page. */
+  posts: Post[];
+  year?: string;
+}
+
+const { allPosts, posts, year } = Astro.props;
+const count = `${posts.length} ${posts.length === 1 ? "post" : "posts"}`;
+const description = year
+  ? `Posts de ${year} sobre sistemas y ciberseguridad.`
+  : "Notas, laboratorios y configuraciones sobre sistemas y ciberseguridad.";
+---
+
+<BaseLayout title={year ? `Blog ${year}` : "Blog"} description={description}>
+  <header class="page">
+    <div class="list-header grid-12">
+      <p class="zone-index label-meta list-count" lang="en">
+        {year && <span>{year}</span>}
+        <span>{count}</span>
+      </p>
+      <div class="zone-wide">
+        <MotionTitle lines={["Blog"]} />
+      </div>
+    </div>
+  </header>
+
+  <div class="page archive grid-12">
+    <aside class="archive-tools" aria-label="Find posts" lang="en">
+      <BlogSearch year={year} />
+      <YearFilter years={getYears(allPosts)} total={allPosts.length} current={year} />
+      <TagFilter tags={getTags(posts)} />
+    </aside>
+    <div class="archive-main">
+      <ol id="search-results" class="search-results" role="list" data-search-results></ol>
+      <PostList posts={posts} headingLevel="h2" />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .list-header {
+    row-gap: var(--spacing-l);
+    padding-block: var(--spacing-3xl) var(--spacing-2xl);
+    border-bottom: 1px solid var(--color-rule);
+  }
+
+  .list-count {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-2xs);
+    color: var(--color-faint);
+    padding-top: 0.6em;
+  }
+
+  .archive {
+    padding-top: var(--spacing-2xl);
+    row-gap: var(--spacing-2xl);
+  }
+
+  .archive-tools,
+  .archive-main {
+    grid-column: 1 / -1;
+  }
+
+  .archive-tools {
+    display: grid;
+    gap: var(--spacing-xl);
+    align-content: start;
+  }
+
+  @media (width >= 48rem) {
+    .archive-tools {
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: start;
+    }
+    /* Tags take a full row under search and years. */
+    .archive-tools > :global(.tag-filter) {
+      grid-column: 1 / -1;
+    }
+  }
+
+  /* Side column: the post cards keep their own 12-column grid (date in
+     cols 1–3, text in 4–9), so the column takes cols 10–12 of the same grid. */
+  @media (width >= 80rem) {
+    .archive-main {
+      grid-row: 1;
+    }
+    .archive-tools {
+      grid-column: 10 / -1;
+      grid-row: 1;
+      grid-template-columns: minmax(0, 1fr);
+      align-items: start;
+      position: sticky;
+      top: var(--spacing-xl);
+      z-index: 2;
+      padding-left: var(--grid-gutter);
+    }
+  }
+
+  /* Search results: same zones as a post card. */
+  .search-results:empty {
+    display: none;
+  }
+
+  .search-results :global(li) {
+    padding-block: var(--spacing-l);
+  }
+
+  .search-results :global(.result-date) {
+    color: var(--color-muted);
+    padding-top: 0.4em;
+  }
+
+  .search-results :global(.result-title) {
+    font-size: var(--text-heading);
+    line-height: var(--text-heading--line-height);
+    letter-spacing: var(--text-heading--letter-spacing);
+    font-weight: var(--text-heading--font-weight);
+  }
+
+  .search-results :global(.result-title a) {
+    color: var(--color-paper);
+    text-decoration: none;
+  }
+
+  .search-results :global(.result-title a:hover) {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.15em;
+  }
+
+  .search-results :global(.result-excerpt) {
+    margin-top: var(--spacing-xs);
+    max-width: var(--container-measure);
+    font-size: var(--text-small);
+    line-height: var(--text-small--line-height);
+    color: var(--color-muted);
+  }
+
+  /* Matches use the match block. */
+  .search-results :global(mark) {
+    background-color: var(--color-paper);
+    color: var(--color-void);
+    padding-inline: 0.12em;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .search-results :global(li) {
+      animation: result-in var(--dur-ui) var(--ease-out) both;
+    }
+    .search-results :global(li:nth-child(2)) {
+      animation-delay: var(--stagger);
+    }
+    .search-results :global(li:nth-child(3)) {
+      animation-delay: calc(var(--stagger) * 2);
+    }
+    .search-results :global(li:nth-child(4)) {
+      animation-delay: calc(var(--stagger) * 3);
+    }
+    .search-results :global(li:nth-child(5)) {
+      animation-delay: calc(var(--stagger) * 4);
+    }
+    .search-results :global(li:nth-child(n + 6)) {
+      animation-delay: calc(var(--stagger) * 5);
+    }
+  }
+
+  @keyframes result-in {
+    from {
+      opacity: 0;
+      transform: translateY(var(--shift-s));
+    }
+  }
+
+  @media print {
+    .archive-tools {
+      display: none;
+    }
+  }
+</style>

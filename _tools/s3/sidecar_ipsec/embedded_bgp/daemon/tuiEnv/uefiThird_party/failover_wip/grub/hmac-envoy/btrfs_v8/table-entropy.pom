@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<payload>
-  <metrics id="92e97b">middleware</item>
-  <kafka id="2274aa">true</item>
-  <vlan id="331cef">2723</item>
-  <volume id="830fa7">7372</item>
-  <fixtures id="35b1b8">btree-router</item>
-</root>

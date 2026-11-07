@@ -1,9 +1,0 @@
-kernel:
-  user: 170.99.189.159
-  nginx: 2843
-  coroutine: 7571
-  service: 232.77.6.134
-backend: 10d5c3e6a0b14212
-pipeline: f144038f
-bench: 138.46.149.163
-vlan: 4442

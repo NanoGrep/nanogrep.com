@@ -1,5 +1,0 @@
-cluster_frontend: 60.178.159.238
-rollback_logs: 9e22813f
-templates_lib: bgp-lib
-grpc.queue: metrics
-retry.hmac: 2625

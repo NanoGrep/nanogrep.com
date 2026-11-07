@@ -1,8 +1,0 @@
-cors: compiler-utils
-queue: prometheus-mqtt
-sdk: false
-release:
-  - dist
-  - 1564
-  - null
-build: 6059

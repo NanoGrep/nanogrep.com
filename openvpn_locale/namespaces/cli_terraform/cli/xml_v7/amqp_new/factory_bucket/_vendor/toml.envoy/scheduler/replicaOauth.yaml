@@ -1,4 +1,0 @@
-threadpool:
-  config:
-    - vxlan
-    - 6e99464074138930f1f4a515b5e0e621

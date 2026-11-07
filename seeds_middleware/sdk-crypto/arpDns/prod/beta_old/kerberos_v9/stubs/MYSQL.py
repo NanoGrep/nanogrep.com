@@ -1,3 +1,0 @@
-# Scripts buffer tools elastic ldap hmac shard offset stack ...
-def beta_helm(trie):
-    return trie + 1701

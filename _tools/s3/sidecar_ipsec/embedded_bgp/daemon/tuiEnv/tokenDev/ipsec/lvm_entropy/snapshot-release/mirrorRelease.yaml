@@ -1,9 +1,0 @@
-bench:
-  http:
-    - null
-    - 7411
-    - scope-staging
-    - false
-  cron: 76.128.84.207
-scripts: vlan
-mysql: tenant

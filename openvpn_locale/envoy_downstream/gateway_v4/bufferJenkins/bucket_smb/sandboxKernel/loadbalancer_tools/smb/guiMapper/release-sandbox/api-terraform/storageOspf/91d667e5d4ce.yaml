@@ -1,9 +1,0 @@
-payload:
-  probe: null
-  batch: nfs
-  dist: 839bdd54ae94a1ffdcdf3775202f4eb8
-  worker: 00000b6fc42a93d1d9e8e105acf3516a
-  kernel: gateway
-kerberos:
-  scope: 107.215.110.104
-build: trie-mqtt

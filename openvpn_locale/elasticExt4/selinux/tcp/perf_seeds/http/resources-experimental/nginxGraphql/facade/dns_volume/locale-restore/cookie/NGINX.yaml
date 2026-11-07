@@ -1,5 +1,0 @@
-heap:
-  config: 252.234.197.54
-  cache: 246.165.25.178
-  row: vlan-kernel
-  terraform: logs

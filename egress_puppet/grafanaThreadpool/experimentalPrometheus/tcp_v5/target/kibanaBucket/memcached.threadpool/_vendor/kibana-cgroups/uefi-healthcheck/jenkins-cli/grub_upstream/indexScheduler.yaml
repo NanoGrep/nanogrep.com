@@ -1,8 +1,0 @@
-api: api-hashmap
-systemd:
-  - fixtures
-  - 6e5ead5e
-  - 4658
-  - true
-token: 206.22.0.206
-metrics: 8917

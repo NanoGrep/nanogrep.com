@@ -1,4 +1,0 @@
-ansible,btree,lib,router,logs,mirror,sdk
-parser,factory-service,alerts-bench,3910,false,253.42.12.120,object-udp
-mutex-grpc,mocks,beta,969f346b826a1533,false,667a0b1ff30bd3a4fe6d126bf6d7712c,250.133.182.161
-391f2529,mapper-bucket,234.161.66.129,migrations-protobuf,null,nginx,78.95.130.19

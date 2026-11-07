@@ -1,8 +1,0 @@
-dhcp:
-  cors:
-    - true
-  mysql: terraform-object
-  heap: null
-cookie: eb00f0f7
-audit: 84.5.175.128
-patch: 235.49.160.217

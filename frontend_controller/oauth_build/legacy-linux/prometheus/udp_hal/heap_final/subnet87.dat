@@ -1,9 +1,0 @@
-common,grpc,canary,sha256
-false,c5e99dc4,wireguard-scope,ae8e1cd0fa6726aa
-e51047243aa248c95fdc756ffbc677f0,true,9412,limit-systemd
-58.227.45.176,208.120.127.30,shard-gateway,registry-pod
-crypto-nginx,66.184.245.80,ansible,compiler-schema
-true,156.248.251.82,62b96ac8,cursor-udp
-true,handler,e9662d3b08613c8735c7d1f640b1d199,prod
-object-jwt,true,false,helpers-dns
-32.78.57.115,249.144.129.128,jwt-lambda,7707

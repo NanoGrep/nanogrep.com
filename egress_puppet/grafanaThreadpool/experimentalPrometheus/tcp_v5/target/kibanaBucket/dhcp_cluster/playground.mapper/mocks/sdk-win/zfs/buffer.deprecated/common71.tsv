@@ -1,7 +1,0 @@
-elastic,schema,api,buffer
-736ed51313d1d1a3,daemon,false,replica
-124.207.82.211,50a3f778,false,stack-scope
-vlan-upstream,envoy,scheduler,218.139.99.176
-envoy,1b00511dc6c01a21,cert,false
-11ab0fed87dd8c183de8b5c5730772a0,udp-upstream,56.184.124.112,null
-false,bloom,01156a1aafe3e415,45.126.108.239

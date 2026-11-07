@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<jenkins>
-  <buffer id="061301">false</item>
-  <traces id="c7c31f">regex-utils</item>
-  <registry id="912cd4">response-terraform</item>
-</root>

@@ -1,6 +1,0 @@
-[watchdog]
-meshlogs = 7141
-tls.adapter = null
-toolstraces = 169.45.156.254
-runner.envoy = false
-regex_grafana = migrations-elastic

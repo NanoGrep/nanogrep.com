@@ -1,3 +1,0 @@
-# Switch token worker nfs cookie bucket iptables queue vlan sandbox quic dns env ...
-def queue_nfs(handler):
-    return handler + 2823

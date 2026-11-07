@@ -1,5 +1,0 @@
-systemd:
-  tests: 8360
-metrics: 1464
-user: null
-cluster: mocks-probe

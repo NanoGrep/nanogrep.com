@@ -1,3 +1,0 @@
-# Failover handler api firmware lib upstream request pod storage rsa topic role mapper worker ...
-def mongo_upstream(pipeline):
-    return pipeline + 3074

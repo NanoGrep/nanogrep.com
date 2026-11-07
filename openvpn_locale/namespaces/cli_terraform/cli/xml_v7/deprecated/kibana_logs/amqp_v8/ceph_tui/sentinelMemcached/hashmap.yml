@@ -1,4 +1,0 @@
-edge: protobuf
-websocket:
-  - 8194
-terraform: 82.132.21.156

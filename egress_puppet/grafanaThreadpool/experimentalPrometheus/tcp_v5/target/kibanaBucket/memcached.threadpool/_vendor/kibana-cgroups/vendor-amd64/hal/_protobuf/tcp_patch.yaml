@@ -1,9 +1,0 @@
-config:
-  storage:
-    nfs: b54ab23b98ddec67
-    adapter: dcadf6450620a179ad0ad38f30571cc2
-    sha256: 30.16.219.221
-    socket:
-      systemd: 4c19c0c7533fc4c3
-    prometheus: false
-  tenant: 5a22d6cc9dc8ceef

@@ -1,6 +1,0 @@
-retry: utils-batch
-firewall: false
-audit:
-  - 180.136.24.159
-middleware: 6926
-jwt: false

@@ -1,4 +1,0 @@
-lexer: 972
-semaphore:
-  postgres: api-entropy
-  adapter: 7546

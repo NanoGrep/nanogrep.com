@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<cgroups>
-  <worker id="f5df4f">firmware</item>
-  <elastic id="134bfd">envoy-canary</item>
-</root>

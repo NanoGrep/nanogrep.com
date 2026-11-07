@@ -1,5 +1,0 @@
-bootstrap: metrics
-fixtures: 1254
-nat:
-  - 86.228.70.124
-  - 137.182.169.16

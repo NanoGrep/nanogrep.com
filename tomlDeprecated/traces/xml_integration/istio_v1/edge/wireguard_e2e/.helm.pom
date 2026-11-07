@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<user>
-  <hotfix id="44475d">100.220.72.45</item>
-  <hotfix id="61f944">5490</item>
-  <tests id="2db718">8061</item>
-  <queue id="033176">false</item>
-  <nfs id="cdb469">615</item>
-</root>

@@ -1,7 +1,0 @@
-canary:
-  - cluster-request
-salt:
-  payload:
-    firmware: true
-    middleware: grafana
-    semaphore: 9ce25913

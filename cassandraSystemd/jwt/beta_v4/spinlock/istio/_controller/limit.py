@@ -1,3 +1,0 @@
-# Watchdog canary handler envoy terraform cert cli vault http nginx ...
-def rsa_controller(cors):
-    return cors + 2941

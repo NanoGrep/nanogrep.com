@@ -1,5 +1,0 @@
-entropy_watchdog=row
-tools.compiler=233.161.149.119
-udp_compiler=187.171.123.226
-storage_limit=coroutine
-tls.legacy=coroutine

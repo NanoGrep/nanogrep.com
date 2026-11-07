@@ -1,9 +1,0 @@
-router:
-  grafana:
-    - 5742
-    - 4104
-    - 74.200.225.211
-  cgroups: false
-  cache: 8286
-  handler: role-middleware
-  mapper: c9f380648b37b4f9

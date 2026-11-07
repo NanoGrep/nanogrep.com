@@ -1,1 +1,0 @@
-[[true, {"wireguard": {"helm": true, "aes": true, "core": null, "systemd": "rest"}, "cluster": ["mongo", true]}, 6311, null], "user", "heap", {"row": true, "nonce": "grpc", "ldap": true, "prod": 6822}]

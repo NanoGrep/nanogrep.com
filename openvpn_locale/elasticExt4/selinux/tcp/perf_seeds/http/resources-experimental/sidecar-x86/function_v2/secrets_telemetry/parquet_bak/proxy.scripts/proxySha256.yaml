@@ -1,7 +1,0 @@
-env: node
-http:
-  parser:
-    tcp:
-      - 5.50.195.206
-      - elastic-replica
-      - table

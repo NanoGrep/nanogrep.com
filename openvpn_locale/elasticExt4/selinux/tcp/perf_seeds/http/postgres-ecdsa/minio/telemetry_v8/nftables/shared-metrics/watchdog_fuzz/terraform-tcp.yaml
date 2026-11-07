@@ -1,9 +1,0 @@
-nonce: fdf1613f8e1152fd29db1a62b7bd3fae
-snapshot:
-  origin:
-    migrations:
-      registry: 7362db833c98114b4f7a9912c1fbacb2
-      cors: driver-service
-      raid: 7784
-  threadpool: 69109f4017e29609
-sdk: 4b47613798252d49

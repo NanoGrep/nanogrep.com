@@ -1,5 +1,0 @@
-elastic:
-  metrics: 112.100.34.181
-grafana: templates-jenkins
-bench:
-  tcp: f9fd767b3d54907913cdd638d1aa928e

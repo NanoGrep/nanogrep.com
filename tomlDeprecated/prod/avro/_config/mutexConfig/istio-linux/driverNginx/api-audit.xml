@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<queue>
-  <kafka id="ab5944">beta</item>
-  <grafana id="c90d2a">eece79c56dcd25c453b5dc9d9c484031</item>
-  <pipeline id="eb60d3">trie-origin</item>
-  <limit id="d999dd">195.180.71.96</item>
-</root>

@@ -1,5 +1,0 @@
-cors:
-  bucket: null
-  fixtures: bgp-staging
-  yaml: 3175
-mirror: crypto-api

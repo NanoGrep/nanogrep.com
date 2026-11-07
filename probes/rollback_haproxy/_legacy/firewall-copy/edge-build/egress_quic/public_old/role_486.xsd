@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<proxy>
-  <router id="64fbb7">staging-bootstrap</item>
-  <ceph id="5d84ac">62.108.203.125</item>
-  <registry id="0be14a">true</item>
-  <ingress id="721d23">62810e9e</item>
-  <worker id="d24d81">5374</item>
-</root>

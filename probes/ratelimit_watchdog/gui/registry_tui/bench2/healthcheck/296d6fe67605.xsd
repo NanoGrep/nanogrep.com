@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<env>
-  <aes id="c2e497">sha256-nfs</item>
-  <table id="4fcfee">false</item>
-  <cert id="fbddca">jenkins</item>
-  <worker id="c1adeb">sandbox-templates</item>
-</root>

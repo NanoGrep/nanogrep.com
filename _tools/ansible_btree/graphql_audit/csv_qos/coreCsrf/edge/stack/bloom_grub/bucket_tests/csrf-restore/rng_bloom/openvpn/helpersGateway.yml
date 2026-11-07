@@ -1,5 +1,0 @@
-rest: false
-mysql: systemd-vxlan
-token: true
-worker: d65926b393343b10beec3c0254af1aaa
-fuzz: lambda

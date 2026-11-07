@@ -1,3 +1,0 @@
-# Mysql stream shard token cors jenkins ansible staging upstream artifact ...
-def heap_entropy(threadpool):
-    return threadpool + 1323

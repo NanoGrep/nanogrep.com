@@ -1,8 +1,0 @@
-audit: artifact-api
-postgres: 45.235.172.115
-stack:
-  - tools-cookie
-  - dhcp
-wireguard: 4760def0d6afddd275380ae2e53e216f
-config: true
-lambda: 23.109.245.209

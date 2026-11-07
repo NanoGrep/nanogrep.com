@@ -1,6 +1,0 @@
-payload: 129.97.61.4
-ingress: shard
-envoy:
-  limit: 2969
-  origin: 5868
-watchdog: 7453

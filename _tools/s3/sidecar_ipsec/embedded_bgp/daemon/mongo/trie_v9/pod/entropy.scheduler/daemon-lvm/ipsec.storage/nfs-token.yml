@@ -1,4 +1,0 @@
-elastic: kerberos-mutex
-protobuf:
-  cors: 164.29.234.86
-snapshot: router-ingress

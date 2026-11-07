@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<node>
-  <iptables id="96399a">firmware</item>
-  <stack id="ecdc14">8331b28affc14ff79a21f174049142ce</item>
-  <udp id="445aba">234.97.138.9</item>
-  <user id="f91a8b">bootstrap-token</item>
-  <lib id="917969">null</item>
-  <snapshot id="3d5735">976ec6b16599236b</item>
-</root>

@@ -1,9 +1,0 @@
-quic: b91056da
-cluster:
-  payload: 237.209.206.45
-salt: ansible-logs
-nginx:
-  - afcf8759
-  - 1.118.200.196
-  - 57.246.12.50
-  - dist-stream

@@ -1,9 +1,0 @@
-alerts: true
-vault:
-  - null
-  - common-postgres
-  - proxy
-  - lambda-coroutine
-build: 8480
-assets: 210.37.246.157
-vault: 4235

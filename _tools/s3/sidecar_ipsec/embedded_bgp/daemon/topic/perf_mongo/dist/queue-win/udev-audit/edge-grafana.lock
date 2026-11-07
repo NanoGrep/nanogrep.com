@@ -1,1 +1,0 @@
-{"prod": {"trie": "config", "offset": {"config": null, "tenant": "c6ddb984241c"}, "env": {"vxlan": 8798, "http": "column", "udp": {"scripts": true, "canary": "02898b8f2662"}}, "controller": {"bucket": "switch", "worker": ["7d8fe68abe3d", false], "pod": {"env": "4118a63e5132", "vault": true, "dhcp": true}}}, "bench": 5, "iptables": "parser"}

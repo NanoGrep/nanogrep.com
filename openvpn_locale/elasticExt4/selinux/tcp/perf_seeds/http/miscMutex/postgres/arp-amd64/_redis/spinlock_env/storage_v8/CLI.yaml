@@ -1,8 +1,0 @@
-yaml: 8190
-cursor: false
-canary:
-  queue:
-    nginx: 141.144.69.74
-    alerts: 213.43.201.58
-  config: protobuf
-  coroutine: 5c1461d9eb11313f

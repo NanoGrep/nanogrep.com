@@ -1,8 +1,0 @@
-cluster,staging,kerberos,lexer,snapshot,batch
-false,prod,1036,236.197.141.65,1410,0c1651b16dbe423d
-946,limit,7560,99.250.111.113,bench,false
-5.76.240.8,730,234.142.249.152,watchdog-dns,grpc,limit-registry
-sandbox,f6b8338725f1fa2a13db0754af42dfcf,109.47.89.196,shard,51ddf171923a3af3,locale-beta
-envoy-prometheus,126.24.61.109,true,7638e0e5,null,alerts
-true,9410,252.172.238.187,30.89.244.50,queue-registry,197.107.238.123
-false,4605,2603,1424,2607,protobuf

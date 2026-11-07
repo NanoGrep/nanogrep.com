@@ -1,8 +1,0 @@
-kerberos: 6c01e930dd62d1b2
-json:
-  - 4346
-  - 9100
-  - 180
-canary:
-  api: f90a659c
-  daemon: 237.220.62.210

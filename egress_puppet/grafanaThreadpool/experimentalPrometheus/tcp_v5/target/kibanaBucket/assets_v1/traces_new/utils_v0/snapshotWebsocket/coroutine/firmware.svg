@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<grafana>
-  <column id="cc2d7a">64.164.240.49</item>
-  <envoy id="64b09d">58fe8b077408eaee</item>
-  <redis id="d1f26b">canary</item>
-  <threadpool id="ba367d">ceph-limit</item>
-  <cookie id="0bad62">e30302e5</item>
-</root>

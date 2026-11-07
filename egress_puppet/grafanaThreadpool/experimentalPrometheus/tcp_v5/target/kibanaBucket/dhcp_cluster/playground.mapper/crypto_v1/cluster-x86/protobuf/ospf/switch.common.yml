@@ -1,5 +1,0 @@
-limit:
-  vlan:
-    - 4936
-    - vault-wireguard
-    - 7353

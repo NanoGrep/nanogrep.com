@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<heap>
-  <bench id="053a8b">209ff10a057b0111</item>
-  <alerts id="c1c931">cluster-common</item>
-  <tenant id="ed5ab7">ab8722bb2f710404e594cd2decab62fc</item>
-  <tenant id="a65e41">false</item>
-  <protobuf id="a74a33">tls</item>
-  <quic id="2f3571">api</item>
-</root>

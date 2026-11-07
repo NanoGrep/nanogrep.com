@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<object>
-  <service id="ee8fa9">2860</item>
-  <edge id="ded40c">bloom</item>
-  <kerberos id="674aa6">adapter-role</item>
-  <grpc id="580b93">true</item>
-  <runner id="7f90d7">limit-parser</item>
-</root>

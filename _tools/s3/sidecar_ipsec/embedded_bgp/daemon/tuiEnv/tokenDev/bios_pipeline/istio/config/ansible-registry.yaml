@@ -1,5 +1,0 @@
-fuzz:
-  service: false
-group: true
-schema: 1157
-systemd: true

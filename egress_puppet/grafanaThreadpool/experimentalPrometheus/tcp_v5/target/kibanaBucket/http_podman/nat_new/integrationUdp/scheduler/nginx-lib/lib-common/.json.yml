@@ -1,6 +1,0 @@
-node:
-  - 170.86.6.214
-ceph: 192.11.231.241
-volume: 79.5.72.89
-index: cache
-stream: upstream

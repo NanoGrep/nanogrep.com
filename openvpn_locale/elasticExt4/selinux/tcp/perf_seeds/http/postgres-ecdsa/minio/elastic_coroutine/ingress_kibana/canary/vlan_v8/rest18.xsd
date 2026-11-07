@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<quic>
-  <cluster id="c66c70">yaml-backend</item>
-  <utils id="896459">index</item>
-  <prod id="aaca19">response</item>
-  <hashmap id="8b6ad8">rest-firewall</item>
-  <adapter id="b8e933">tests-api</item>
-  <mysql id="f7f706">cookie-user</item>
-</root>

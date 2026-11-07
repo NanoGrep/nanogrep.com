@@ -1,8 +1,0 @@
-cookie:
-  - iptables-sdk
-  - registry
-  - 23.33.90.207
-  - dhcp
-zfs: trie
-replica: 9693
-gateway: de44f5c573995068f595bb0abbc2aec5

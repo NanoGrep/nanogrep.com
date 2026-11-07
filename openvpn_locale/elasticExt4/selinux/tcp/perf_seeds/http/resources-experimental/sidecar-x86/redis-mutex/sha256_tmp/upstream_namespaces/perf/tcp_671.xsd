@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<iptables>
-  <shard id="1f63ec">3161</item>
-  <tenant id="bc148f">f1c5fd8ccb5917a3</item>
-  <alerts id="d92b60">edge-user</item>
-  <mapper id="62580c">false</item>
-  <cors id="c5b0ae">upstream</item>
-  <socket id="3a4a43">topic-shard</item>
-</root>

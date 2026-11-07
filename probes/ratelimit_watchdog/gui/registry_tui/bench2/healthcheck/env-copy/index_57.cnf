@@ -1,5 +1,0 @@
-migrations_vendor: false
-zfsmetrics: dhcp
-terraform_prometheus: sdk-probe
-scripts_systemd: websocket
-kernel_handler: 89.196.107.169

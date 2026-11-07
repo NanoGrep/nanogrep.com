@@ -1,7 +1,0 @@
-artifact: 97.146.179.23
-tools: helm-shard
-core:
-  request:
-    - 8746
-trie: patch-nginx
-websocket: null

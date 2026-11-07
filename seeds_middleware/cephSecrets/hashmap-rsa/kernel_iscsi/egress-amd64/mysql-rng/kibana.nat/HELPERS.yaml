@@ -1,9 +1,0 @@
-dhcp:
-  tests: templates-tcp
-offset:
-  - 3174
-  - 3964
-  - object
-cluster: 5749
-scripts: 134.67.104.68
-queue: fe59ca76

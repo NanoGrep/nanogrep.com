@@ -1,6 +1,0 @@
-tcp:
-  column: 1049
-  index: 114.92.118.145
-  hotfix: 166
-  wireguard: 9cb216c2e9fe46c4
-dhcp: mocks-adapter

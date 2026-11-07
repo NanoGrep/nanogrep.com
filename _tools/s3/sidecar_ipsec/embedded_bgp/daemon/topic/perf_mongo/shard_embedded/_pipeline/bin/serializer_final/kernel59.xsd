@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<mirror>
-  <lexer id="bacdea">fuzz-request</item>
-  <firmware id="a78efd">true</item>
-  <shard id="a9327e">group-upstream</item>
-  <env id="3e6361">229.206.106.27</item>
-  <iptables id="66c017">157.182.65.50</item>
-</root>

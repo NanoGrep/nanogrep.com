@@ -1,7 +1,0 @@
-queue: 67e3b4b8dd903144
-prometheus:
-  - 43.87.221.226
-handler:
-  - subnet
-patch: ceph
-ceph: 1143566dd52e679a

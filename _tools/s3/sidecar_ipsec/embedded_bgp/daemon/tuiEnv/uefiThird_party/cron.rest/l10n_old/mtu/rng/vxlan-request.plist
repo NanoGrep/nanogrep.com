@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<bootstrap>
-  <grpc id="123ec9">cgroups</item>
-  <api id="023416">lexer-cgroups</item>
-  <driver id="df706e">2a98b70cf60ba7a6</item>
-  <token id="9cd2e6">false</item>
-  <elastic id="fe18cb">response-yaml</item>
-</root>

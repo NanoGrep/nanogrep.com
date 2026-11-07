@@ -1,7 +1,0 @@
-origin: a39683f75911def4
-backup: firmware-threadpool
-fixtures: scope-gateway
-controller:
-  - c3cf3d57f869e048cdb1022ebc4f84d2
-  - nonce
-  - 847

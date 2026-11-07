@@ -1,8 +1,0 @@
-daemon,rest,mqtt,firewall,compiler,terraform,queue
-false,4.159.247.37,2747,scope-nightly,true,firmware-websocket,9574
-67.75.4.207,migrations-node,bgp-bloom,hashmap,2945,pod-ansible,8051
-offset,149.76.31.165,grpc,314e40e8f274501f,62.200.144.232,4917,80.26.239.150
-runner,187.243.192.212,kernel-registry,c161ad42b721a81baac683b1458c72c4,76.198.46.148,sandbox,71.51.13.238
-false,group,audit-crypto,middleware-hashmap,3758,true,release-audit
-4648,222.47.65.81,btree,false,7175,af9946f4da075c14,448
-null,81.0.157.224,null,2d54c9ee7b8ce057,null,false,true

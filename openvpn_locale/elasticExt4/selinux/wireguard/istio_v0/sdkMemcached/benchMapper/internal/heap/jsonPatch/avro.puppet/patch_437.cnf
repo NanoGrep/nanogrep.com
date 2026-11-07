@@ -1,8 +1,0 @@
-redisbackend=pod-trie
-bucket_ansible=proxy-trie
-terraform_firmware=common-hmac
-podpipeline=column-handler
-registry_elastic=jenkins
-releaserest=false
-watchdogbgp=false
-socket_group=true

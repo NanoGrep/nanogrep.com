@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<rollback>
-  <rest id="dd96d2">false</item>
-  <role id="120098">null</item>
-  <cert id="e3c59a">rest-vlan</item>
-  <bootstrap id="77e391">true</item>
-  <column id="8a7464">6703</item>
-  <backend id="512746">object</item>
-</root>

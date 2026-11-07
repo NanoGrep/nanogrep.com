@@ -1,5 +1,0 @@
-testswebsocket: 4773
-saltingress: c19b24a3fa2b702290eb7e3c60543c1d
-cluster.nginx: 223.22.84.24
-bootstrapjson: terraform-staging
-upstream.retry: 151.218.153.244

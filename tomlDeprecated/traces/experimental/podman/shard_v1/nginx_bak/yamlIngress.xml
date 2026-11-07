@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<row>
-  <router id="67fabd">null</item>
-  <aes id="2d0ce7">51.184.99.84</item>
-  <threadpool id="5c8ae6">failover-assets</item>
-  <dist id="04b9c7">127.23.165.152</item>
-  <fixtures id="fc47b8">true</item>
-</root>

@@ -1,8 +1,0 @@
-switch: rest-graphql
-sdk: null
-yaml:
-  - true
-  - 077ff0bf45c53be2
-  - d7692a24be3338c48ff93380c945c245
-  - controller-udp
-cron: firmware-shard

@@ -1,6 +1,0 @@
-registry: hotfix-raid
-adapter: 1305
-cluster: 0aaa87c8d7b01c822a3bcb473913af75
-dns:
-  nginx: prod-limit
-pipeline: 238.157.160.44

@@ -1,8 +1,0 @@
-aes:
-  tcp: factory
-sandbox: logs-cli
-canary:
-  - 5745
-  - 9.183.191.113
-  - 8017
-  - false

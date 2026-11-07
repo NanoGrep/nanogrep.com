@@ -1,9 +1,0 @@
-{
-    "edge": {
-        "retry": {
-            "subnet": {
-                "mutex": true
-            }
-        }
-    }
-}

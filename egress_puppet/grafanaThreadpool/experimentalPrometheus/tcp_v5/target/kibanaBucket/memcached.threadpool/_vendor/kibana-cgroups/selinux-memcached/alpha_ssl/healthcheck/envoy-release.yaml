@@ -1,7 +1,0 @@
-canary:
-  retry: 253.105.250.33
-  scheduler: true
-  ldap: 7619
-cert: 1339
-column: rest-factory
-artifact: tls

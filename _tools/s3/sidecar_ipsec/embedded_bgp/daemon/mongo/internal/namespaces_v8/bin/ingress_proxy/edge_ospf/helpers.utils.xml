@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<legacy>
-  <kerberos id="eab09d">utils</item>
-  <hotfix id="013c28">locale</item>
-  <mongo id="38a125">6324</item>
-  <crypto id="96f0ce">3e3c746daeb041eb</item>
-  <cors id="8335f8">group</item>
-</root>

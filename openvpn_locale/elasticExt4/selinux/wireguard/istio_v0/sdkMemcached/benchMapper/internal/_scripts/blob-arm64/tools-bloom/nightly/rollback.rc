@@ -1,5 +1,0 @@
-payload.upstream: 31.209.2.161
-cron.bloom: locale-mqtt
-nginx.quic: scope-daemon
-storage.metrics: d4f0299a
-sessioncommon: session-firmware

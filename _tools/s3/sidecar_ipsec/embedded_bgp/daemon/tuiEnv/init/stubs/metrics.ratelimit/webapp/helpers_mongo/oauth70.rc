@@ -1,5 +1,0 @@
-scripts.udp: 0c76ba2ed7c549d2c327d0afa45b39ed
-crypto.beta: http
-sha256_column: 36.247.158.247
-edge.raid: false
-registry.compiler: postgres

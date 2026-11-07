@@ -1,7 +1,0 @@
-{
-  "postgres": [
-    true
-  ],
-  "cluster": "8bb196512edf",
-  "jwt": "regex"
-}

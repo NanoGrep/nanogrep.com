@@ -1,3 +1,0 @@
-# Middleware backend subnet upstream hotfix nat ...
-def jenkins_subnet(cert):
-    return cert + 3236

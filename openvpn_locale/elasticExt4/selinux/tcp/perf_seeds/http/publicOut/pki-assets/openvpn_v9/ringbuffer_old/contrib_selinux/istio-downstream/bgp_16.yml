@@ -1,8 +1,0 @@
-env: 95632865b27b32d90eda041f8a40643c
-alerts: 7f3390ade3543ac67eaa7a22c56dec4b
-snapshot: 89
-migrations: 3604
-service:
-  - snapshot
-  - true
-bloom: true

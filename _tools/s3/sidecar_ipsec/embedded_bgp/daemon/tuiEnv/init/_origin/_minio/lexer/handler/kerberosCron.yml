@@ -1,3 +1,0 @@
-ingress: 102.92.43.203
-probe: payload-nat
-cache: grpc-protobuf

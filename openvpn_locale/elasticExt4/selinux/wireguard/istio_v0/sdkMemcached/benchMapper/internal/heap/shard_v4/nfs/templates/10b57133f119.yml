@@ -1,6 +1,0 @@
-sdk:
-  - 11.114.157.202
-  - metrics-staging
-  - mapper
-upstream: hashmap
-audit: role

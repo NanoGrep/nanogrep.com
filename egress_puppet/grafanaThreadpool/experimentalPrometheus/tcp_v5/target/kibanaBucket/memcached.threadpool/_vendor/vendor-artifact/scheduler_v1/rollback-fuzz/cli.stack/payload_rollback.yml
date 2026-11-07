@@ -1,9 +1,0 @@
-worker: websocket
-kerberos:
-  - index
-  - iptables-backup
-  - 615
-  - 196.119.191.163
-replica: 65.231.106.251
-handler: 0b04dbad9e671e43
-tenant: c4e3c04dff25f3c4

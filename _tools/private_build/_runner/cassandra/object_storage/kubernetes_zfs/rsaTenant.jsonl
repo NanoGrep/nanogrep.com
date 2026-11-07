@@ -1,1 +1,0 @@
-{"vxlan": [["9953bbd4be8e", {"adapter": true, "failover": true}], {"mirror": {"upstream": "service", "cache": null}}]}

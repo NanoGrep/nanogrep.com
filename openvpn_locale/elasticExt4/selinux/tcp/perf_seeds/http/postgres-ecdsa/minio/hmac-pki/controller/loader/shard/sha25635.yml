@@ -1,5 +1,0 @@
-ingress:
-  legacy: loader
-prod: yaml
-nat: null
-api: null

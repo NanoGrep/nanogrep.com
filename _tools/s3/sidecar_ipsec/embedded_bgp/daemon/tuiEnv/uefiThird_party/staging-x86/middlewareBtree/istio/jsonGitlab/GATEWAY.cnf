@@ -1,8 +1,0 @@
-shard_trie: fixtures-loader
-session_factory: null
-node.jenkins: switch-middleware
-corsstorage: fecf1aac
-bucket_kernel: false
-fuzzupstream: 100.149.147.80
-ceph_fixtures: staging-vault
-backend_logs: vlan-regex

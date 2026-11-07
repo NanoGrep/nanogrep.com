@@ -1,7 +1,0 @@
-ceph.bootstrap: false
-dhcp.zfs: f7eda80c6572669d861824bcbb0e13f8
-api_worker: 9a577f243739ae4ee5bee13b4bb1eca9
-lexer.vendor: 252.58.12.220
-common_adapter: proxy
-controller_vxlan: 372b10e8efe4ae81f256dd7a67b153a5
-cookietls: edge

@@ -1,7 +1,0 @@
-lambda:
-  index: dhcp-canary
-  shard: 211.206.127.60
-  buffer: null
-  kafka: eb5ed940
-  coroutine: 2719
-  firewall: false

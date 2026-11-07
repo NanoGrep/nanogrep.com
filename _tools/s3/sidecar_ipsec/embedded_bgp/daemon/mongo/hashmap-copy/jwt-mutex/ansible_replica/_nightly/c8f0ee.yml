@@ -1,7 +1,0 @@
-origin:
-  - true
-  - firmware-payload
-  - snapshot
-build: 02d79fb27a9109c7
-elastic: service-entropy
-release: false

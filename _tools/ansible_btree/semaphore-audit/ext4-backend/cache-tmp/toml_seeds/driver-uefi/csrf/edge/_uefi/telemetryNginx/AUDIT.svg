@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<udp>
-  <jenkins id="e3ecf8">null</item>
-  <scheduler id="803013">5941</item>
-  <cache id="d23656">4145</item>
-  <helm id="d8b940">1e602bb8</item>
-  <ceph id="b366e6">24.35.130.226</item>
-</root>

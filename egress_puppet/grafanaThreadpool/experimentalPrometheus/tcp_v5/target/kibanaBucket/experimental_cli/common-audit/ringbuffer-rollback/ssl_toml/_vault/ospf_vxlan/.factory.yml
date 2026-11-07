@@ -1,4 +1,0 @@
-mesh: mutex
-ingress: mocks-queue
-alerts: c29682cf
-upstream: entropy-parser

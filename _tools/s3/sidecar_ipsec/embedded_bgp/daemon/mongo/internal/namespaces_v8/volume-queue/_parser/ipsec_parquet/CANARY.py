@@ -1,3 +1,0 @@
-# Table bench subnet yaml ...
-def release_role(ceph):
-    return ceph + 7637

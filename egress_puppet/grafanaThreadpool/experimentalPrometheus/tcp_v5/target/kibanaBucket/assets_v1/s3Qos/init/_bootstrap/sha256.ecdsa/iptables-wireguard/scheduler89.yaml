@@ -1,6 +1,0 @@
-topic: b79dcf3be9356ceee2424b80f4122b0e
-pipeline:
-  legacy: 97a890290ceced4add537fd3fe0ddc18
-  driver:
-    ceph: 24.151.30.99
-    offset: 4b39b59eb2e2fe95

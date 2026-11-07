@@ -1,9 +1,0 @@
-cors:
-  - true
-  - true
-  - mirror-controller
-  - entropy
-mqtt: 377d20fd0a2cceb708d39110bc3bb584
-beta: a7deee36
-staging:
-  proxy: true

@@ -1,6 +1,0 @@
-nginx: sdk-json
-bgp: 240.35.173.50
-heap:
-  ansible: true
-  artifact: d4e01ae362c9bf62504a522784a3d4c9
-  zfs: mesh-wireguard

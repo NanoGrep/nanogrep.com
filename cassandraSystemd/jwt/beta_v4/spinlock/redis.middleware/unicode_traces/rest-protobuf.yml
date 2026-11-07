@@ -1,8 +1,0 @@
-fixtures: true
-backend:
-  - 147.131.92.236
-  - api-jwt
-  - false
-cursor: 9954
-logs: false
-tools: nat-proxy

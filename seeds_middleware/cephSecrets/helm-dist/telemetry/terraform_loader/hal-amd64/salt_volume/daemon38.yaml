@@ -1,9 +1,0 @@
-upstream:
-  coroutine: 3048
-  nfs:
-    - true
-  payload: 61.254.59.80
-  sdk:
-    - false
-    - shard-parser
-  backend: backup-sdk

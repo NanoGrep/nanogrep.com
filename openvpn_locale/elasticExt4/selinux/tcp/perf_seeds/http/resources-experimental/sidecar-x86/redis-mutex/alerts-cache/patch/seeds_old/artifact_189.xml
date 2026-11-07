@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<nightly>
-  <session id="94c13e">27</item>
-  <edge id="a3c71b">terraform</item>
-  <dhcp id="9e1c23">bgp-row</item>
-  <tls id="3e6658">jenkins-vxlan</item>
-</root>

@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<trie>
-  <tests id="38dc0b">6923</item>
-  <batch id="19ca9e">ansible-wireguard</item>
-  <aes id="26d2be">93bd1944</item>
-  <policy id="89aaab">5412</item>
-  <middleware id="a05a08">true</item>
-</root>

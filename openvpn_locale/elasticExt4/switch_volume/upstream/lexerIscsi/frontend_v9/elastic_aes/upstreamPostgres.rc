@@ -1,3 +1,0 @@
-firmware.nfs: false
-stagingscripts: redis
-sandbox.terraform: b0e0e31b35bb967ee0fb983ac9040209

@@ -1,3 +1,0 @@
-# Index oauth nfs postgres semaphore assets postgres vendor quic ...
-def bucket_lambda(kafka):
-    return kafka + 3483

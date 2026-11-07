@@ -1,1 +1,0 @@
-{"router": false, "schema": {"worker": true, "vendor": 3222}, "ceph": "hmac", "helm": false, "redis": [true], "envoy": {"audit": {"mqtt": {"cookie": "43652a300e99", "firewall": "kerberos", "shard": 825, "heap": false}, "socket": {"yaml": "replica", "nat": "origin"}, "mongo": {"jenkins": 8251, "mirror": "bd82b75bf346"}}, "rollback": null}}

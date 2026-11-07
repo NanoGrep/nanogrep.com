@@ -1,6 +1,0 @@
-{
-  "websocket": true,
-  "adapter": {
-    "quic": false
-  }
-}

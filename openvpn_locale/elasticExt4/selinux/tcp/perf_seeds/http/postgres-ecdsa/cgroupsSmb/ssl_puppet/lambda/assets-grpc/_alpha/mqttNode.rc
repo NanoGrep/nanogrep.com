@@ -1,9 +1,0 @@
-[btree]
-role_cli = 4223
-metricslocale = 2435
-heapmiddleware = false
-rollback.zfs = 6ba542e5bf9737a9
-nat_loader = queue-token
-policytenant = null
-groupadapter = worker-compiler
-envoy.json = response

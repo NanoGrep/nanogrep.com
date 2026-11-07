@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<pipeline>
-  <cors id="c653c3">false</item>
-  <logs id="d347af">e89a8b23b78e7b81</item>
-  <hashmap id="490074">209.66.132.176</item>
-  <btree id="0220db">154.96.158.231</item>
-  <grpc id="9a1f08">2549</item>
-  <shard id="8b6ec9">1207</item>
-</root>

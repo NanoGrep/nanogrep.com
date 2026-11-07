@@ -1,3 +1,0 @@
-probe:
-  jenkins: switch
-mysql: ldap-hashmap

@@ -1,8 +1,0 @@
-rsa,systemd,queue,cookie,tcp,session,common
-4966,tests,8c0baecd2eb42a19fdad8731aeed479c,true,cache,6181,vxlan
-controller,a724ea15,92e13758,snapshot,9907,redis-vendor,false
-salt,null,10210c6e8efcb86de2963a634b791d09,87299dbbae6a6e29f130e30dd4529de8,2091,9b080bb5,scheduler-bgp
-676,219e60f0,false,b6aa2fe0dde613ff,2ce6081c39f860fe,02f6783fce28da58,2408
-raid-handler,probe,true,c6fc6c92,231.120.133.214,dhcp,1757
-42.58.57.241,181.84.147.22,6966,dist,3252,223.27.250.91,false
-13.161.66.192,yaml,false,object,212.205.156.165,ef2c52aa69e7d2b1,172.219.39.231

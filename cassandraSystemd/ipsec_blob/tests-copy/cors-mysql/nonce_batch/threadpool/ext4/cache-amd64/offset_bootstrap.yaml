@@ -1,7 +1,0 @@
-core: 103.80.67.134
-offset:
-  helm: false
-  shard: false
-  failover: true
-  cluster: 621c348133c9c836
-  storage: 174d2712ca6a63fc

@@ -1,5 +1,0 @@
-cursor: column
-legacy:
-  tests: 5264
-postgres: mysql-scope
-mesh: 59.100.61.164

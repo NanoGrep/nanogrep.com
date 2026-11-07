@@ -1,8 +1,0 @@
-bootstrap:
-  failover: false
-  stack:
-    parser: 217.93.99.49
-    failover: buffer-service
-    postgres: true
-    sha256: 3745
-runner: daemon

@@ -1,7 +1,0 @@
-{
-    "artifact": null,
-    "kerberos": {
-        "cron": 9769,
-        "prod": "jenkins"
-    }
-}

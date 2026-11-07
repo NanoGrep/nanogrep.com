@@ -1,8 +1,0 @@
-[bench]
-lexertrie = 234.118.196.229
-fuzz_policy = 232ea214353875ce
-edgelocale = shard-gateway
-mongo.patch = 45d35fe9
-iptables.rollback = tenant
-bgp_core = a92de31b
-ansible_cache = 90.63.219.116

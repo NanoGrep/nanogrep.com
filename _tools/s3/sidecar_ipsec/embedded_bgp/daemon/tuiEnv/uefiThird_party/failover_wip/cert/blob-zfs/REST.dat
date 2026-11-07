@@ -1,9 +1,0 @@
-backup,tcp,release,staging,hotfix,kafka
-helpers,9829,crypto,null,null,vlan-templates
-true,regex-shard,null,firewall-salt,179.47.52.212,null
-9019,true,aes,false,71,true
-396,4986,compiler,migrations,2281,5832
-126.23.35.125,true,63,1f3b0092a2add692a4b27865d47e3b7f,127.134.1.165,7621
-probe,1506,2250,827,1567de7b,true
-vault-ansible,null,75.163.130.124,28.131.33.9,null,kafka
-9846372b753b9b80835fb3a014aff227,4319,5081,mesh-salt,d927c359244e7ed8,loader

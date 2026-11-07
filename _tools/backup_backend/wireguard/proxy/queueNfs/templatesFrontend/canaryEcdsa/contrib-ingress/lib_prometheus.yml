@@ -1,8 +1,0 @@
-trie:
-  user: btree-prometheus
-  batch: true
-  nfs:
-    - fd0724eb6d6a7bc3
-    - false
-  cli: stream
-artifact: gateway

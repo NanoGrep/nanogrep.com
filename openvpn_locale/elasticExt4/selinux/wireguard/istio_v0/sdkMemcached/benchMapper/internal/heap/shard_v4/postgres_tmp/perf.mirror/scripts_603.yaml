@@ -1,7 +1,0 @@
-column: true
-sandbox: true
-probe:
-  nightly: null
-  rsa: null
-service: 64.26.47.109
-dns: b52de993

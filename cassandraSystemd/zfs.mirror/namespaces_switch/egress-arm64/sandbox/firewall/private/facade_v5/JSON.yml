@@ -1,6 +1,0 @@
-shard: column-tenant
-raid: false
-limit: adapter-stack
-pipeline: zfs
-socket: 4f19c5f3
-jenkins: 064bdbbb5fb8cd13

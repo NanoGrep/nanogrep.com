@@ -1,3 +1,0 @@
-stream,udp,ingress,retry,env
-da9fb8b617fcd68b,f1b6c8ca4c86c3a9d57f8ddab4387eff,wireguard,vlan,true
-regex,true,false,f5996a0d4582fdf9,prometheus

@@ -1,8 +1,0 @@
-{
-  "nat": {
-    "queue": true,
-    "snapshot": {
-      "kerberos": "hmac"
-    }
-  }
-}

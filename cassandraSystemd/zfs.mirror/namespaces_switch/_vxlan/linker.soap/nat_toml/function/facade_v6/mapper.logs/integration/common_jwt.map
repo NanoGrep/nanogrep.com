@@ -1,1 +1,0 @@
-[true, {"role": {"core": 3120, "ldap": ["cd452e39dd31", true], "lambda": [true, "e8cf25cdcb5b", null], "stream": "af74b1ada05b", "semaphore": 7515}, "edge": {"payload": null}, "wireguard": false}]

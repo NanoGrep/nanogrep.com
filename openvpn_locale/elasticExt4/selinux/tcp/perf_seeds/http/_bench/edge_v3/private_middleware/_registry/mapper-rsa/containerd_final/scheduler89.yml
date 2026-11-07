@@ -1,8 +1,0 @@
-hmac: bootstrap
-frontend: storage
-semaphore:
-  mesh:
-    mocks: mongo-grafana
-    payload: nat-table
-    pod: 205.76.62.247
-  shard: frontend

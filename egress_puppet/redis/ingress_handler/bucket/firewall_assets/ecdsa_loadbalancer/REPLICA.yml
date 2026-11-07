@@ -1,9 +1,0 @@
-cgroups:
-  env: sha256-assets
-lambda: 122.250.6.229
-templates: bootstrap-config
-driver:
-  - 237.5.53.191
-  - 122.202.96.234
-  - 1fe11a93
-  - 87affe254e6ace91

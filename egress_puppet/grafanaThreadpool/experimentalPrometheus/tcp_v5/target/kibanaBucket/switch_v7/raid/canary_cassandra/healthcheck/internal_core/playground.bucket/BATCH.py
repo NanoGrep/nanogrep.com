@@ -1,3 +1,0 @@
-# Cli semaphore storage firewall http cert scope replica ...
-def loader_loader(scope):
-    return scope + 1156

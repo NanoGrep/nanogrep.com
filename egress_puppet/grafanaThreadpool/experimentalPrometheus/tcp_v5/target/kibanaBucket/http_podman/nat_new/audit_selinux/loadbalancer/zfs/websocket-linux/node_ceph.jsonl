@@ -1,1 +1,0 @@
-{"volume": {"handler": {"probe": "4c6fb3060948", "topic": {"origin": "redis", "metrics": "6124e7449dbf", "tenant": "group"}, "protobuf": {"ldap": true, "prod": false}, "mysql": false}, "buffer": true}, "ceph": "subnet"}

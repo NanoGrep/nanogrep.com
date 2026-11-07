@@ -1,8 +1,0 @@
-regex: true
-daemon:
-  - false
-  - null
-cors: null
-entropy: false
-artifact: stream
-daemon: fe734161

@@ -1,9 +1,0 @@
-pipeline: 8027
-factory: 118.146.42.137
-policy:
-  scripts: 265
-  aes: c211ef90
-  parser: 566ddb345a71f6dbd2086d1cb90f2325
-rest: true
-object: canary-cli
-rsa: true

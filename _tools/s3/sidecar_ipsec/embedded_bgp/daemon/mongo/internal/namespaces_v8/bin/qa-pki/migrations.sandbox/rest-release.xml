@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<entropy>
-  <redis id="513561">209.202.131.21</item>
-  <backup id="91c76f">yaml-cluster</item>
-  <common id="c6cdcd">regex</item>
-  <canary id="716e73">2715</item>
-</root>

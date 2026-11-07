@@ -1,8 +1,0 @@
-nightly: null
-parser: true
-legacy:
-  - 76.234.26.49
-  - ceph-aes
-  - true
-  - 4122
-config: false

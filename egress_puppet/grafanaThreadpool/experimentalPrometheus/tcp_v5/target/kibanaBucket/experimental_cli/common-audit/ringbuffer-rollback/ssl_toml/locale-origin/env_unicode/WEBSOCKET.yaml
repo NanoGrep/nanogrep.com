@@ -1,7 +1,0 @@
-semaphore: 6800
-iptables:
-  token:
-    - limit
-    - false
-    - 72.71.146.105
-    - 45babaa3a434e664

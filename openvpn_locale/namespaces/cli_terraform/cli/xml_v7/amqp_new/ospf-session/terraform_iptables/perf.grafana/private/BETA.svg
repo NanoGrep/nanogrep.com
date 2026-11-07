@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<upstream>
-  <scope id="c9fdca">4217</item>
-  <compiler id="9f28ff">true</item>
-  <failover id="656f8e">11.215.172.2</item>
-  <envoy id="cd80e7">215.113.133.74</item>
-</root>

@@ -1,7 +1,0 @@
-artifact: ebde23740ab104d7
-vault: 141
-grafana:
-  - iptables-websocket
-  - middleware
-  - 32e3fe7f
-session: topic-assets

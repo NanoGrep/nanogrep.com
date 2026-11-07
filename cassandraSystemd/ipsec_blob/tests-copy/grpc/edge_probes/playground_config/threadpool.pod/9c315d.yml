@@ -1,9 +1,0 @@
-adapter: 32.119.148.156
-runner: ldap-stack
-column: scripts-column
-dhcp: null
-beta:
-  json: false
-  websocket: 220.211.212.212
-  mongo: group-limit
-  cert: compiler

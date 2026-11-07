@@ -1,9 +1,0 @@
-lib:
-  lexer:
-    dns: 1421
-    traces: 73.215.73.118
-mesh:
-  - 8238
-  - 143.126.9.58
-  - grpc-watchdog
-  - 2719

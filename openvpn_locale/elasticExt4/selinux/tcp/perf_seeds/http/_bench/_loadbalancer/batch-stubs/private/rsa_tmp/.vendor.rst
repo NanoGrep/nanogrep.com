@@ -1,3 +1,0 @@
-# Scope lambda
-
-Topic switch scheduler buffer mesh factory nat build tests schema adapter ...

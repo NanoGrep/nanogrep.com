@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<cors>
-  <traces id="d53958">21fbffdb</item>
-  <switch id="db7473">158.60.162.43</item>
-  <core id="b86535">154.32.69.11</item>
-  <regex id="3a62c8">true</item>
-  <service id="7220e9">true</item>
-  <pod id="ccfd9b">cursor-prometheus</item>
-</root>

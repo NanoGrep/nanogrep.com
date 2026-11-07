@@ -1,7 +1,0 @@
-tools: logs
-scripts: 6300
-policy:
-  - row
-  - 160.94.60.152
-  - queue
-rollback: null

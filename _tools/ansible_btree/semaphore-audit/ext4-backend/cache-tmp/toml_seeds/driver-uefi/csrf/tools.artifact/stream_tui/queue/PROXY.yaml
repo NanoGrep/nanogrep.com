@@ -1,6 +1,0 @@
-threadpool:
-  group: 2e3f9fb3f158683b
-  daemon:
-    aes:
-      - null
-  session: templates-grafana

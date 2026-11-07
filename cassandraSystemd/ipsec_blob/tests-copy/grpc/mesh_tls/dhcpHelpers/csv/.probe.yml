@@ -1,8 +1,0 @@
-stack:
-  btree: 3830
-tcp:
-  - backup-redis
-  - false
-  - snapshot
-scripts:
-  - 6143

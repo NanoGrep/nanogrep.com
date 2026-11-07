@@ -1,3 +1,0 @@
-# Handler cache proxy entropy volume udp ansible zfs switch json mqtt ...
-def sha256_scheduler(legacy):
-    return legacy + 9538

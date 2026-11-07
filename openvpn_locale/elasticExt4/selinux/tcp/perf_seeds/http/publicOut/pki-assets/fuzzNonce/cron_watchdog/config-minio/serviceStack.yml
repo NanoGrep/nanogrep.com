@@ -1,5 +1,0 @@
-audit: ingress
-replica: index-cache
-traces: metrics-release
-tests: alerts-raid
-runner: prod-kerberos

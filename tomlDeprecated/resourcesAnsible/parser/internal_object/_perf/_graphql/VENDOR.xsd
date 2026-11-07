@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<traces>
-  <subnet id="cfa6e0">1007</item>
-  <dist id="570f28">79.89.134.176</item>
-  <firewall id="ab3ab5">7801</item>
-  <traces id="7ad1eb">semaphore-ceph</item>
-  <bgp id="c04ea6">1696</item>
-  <patch id="efb34e">core-mqtt</item>
-</root>

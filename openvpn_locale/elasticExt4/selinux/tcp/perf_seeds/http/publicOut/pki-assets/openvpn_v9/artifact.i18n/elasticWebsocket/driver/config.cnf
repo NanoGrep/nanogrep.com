@@ -1,3 +1,0 @@
-[redis]
-pod_service = 5233f59ae30e93a5
-regex_alerts = 19.2.119.41

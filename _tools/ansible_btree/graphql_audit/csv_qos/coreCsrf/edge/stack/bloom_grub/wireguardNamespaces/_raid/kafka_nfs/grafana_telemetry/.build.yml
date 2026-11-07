@@ -1,7 +1,0 @@
-redis: 201.163.143.132
-response:
-  - buffer
-  - 95.133.170.11
-  - null
-  - retry-utils
-gateway: 48b29ff1b14f3bde40d39117de690bb2

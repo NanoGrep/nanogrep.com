@@ -1,3 +1,0 @@
-mutex: config
-service:
-  api: true

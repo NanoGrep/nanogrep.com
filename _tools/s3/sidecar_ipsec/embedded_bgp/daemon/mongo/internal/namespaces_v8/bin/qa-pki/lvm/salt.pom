@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<controller>
-  <prometheus id="0cfab3">quic</item>
-  <tls id="f2d9ae">380</item>
-  <failover id="108780">70.201.120.150</item>
-</root>

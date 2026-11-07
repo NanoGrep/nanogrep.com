@@ -1,6 +1,0 @@
-router: terraform
-envoy: redis
-ansible:
-  - grpc-role
-  - b7fb8e21401f77505adb48067cdbb76d
-  - mqtt-vlan

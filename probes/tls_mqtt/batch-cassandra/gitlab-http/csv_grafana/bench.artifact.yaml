@@ -1,7 +1,0 @@
-firewall: 9366e87edb8dbecf2f9210d10fa30e67
-common:
-  kafka: env-user
-postgres: true
-router: index
-daemon:
-  rest: cert

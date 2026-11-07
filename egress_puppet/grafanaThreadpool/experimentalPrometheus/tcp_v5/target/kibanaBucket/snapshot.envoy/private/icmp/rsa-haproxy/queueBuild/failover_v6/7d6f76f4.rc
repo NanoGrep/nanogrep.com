@@ -1,7 +1,0 @@
-mongo_tenant=51.201.115.124
-clustervlan=lib-token
-vxlan.metrics=trie-cookie
-ldap.crypto=23be7fe9
-core.node=null
-logspod=bcb84350
-nginxshard=31be867dd6832018f3c03d5f742b0c2c

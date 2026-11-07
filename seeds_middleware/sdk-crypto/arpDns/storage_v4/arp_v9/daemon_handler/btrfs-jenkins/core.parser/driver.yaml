@@ -1,8 +1,0 @@
-dns:
-  - false
-  - edge
-  - 6862
-  - core-session
-raid: dist-switch
-compiler: router
-upstream: 5964

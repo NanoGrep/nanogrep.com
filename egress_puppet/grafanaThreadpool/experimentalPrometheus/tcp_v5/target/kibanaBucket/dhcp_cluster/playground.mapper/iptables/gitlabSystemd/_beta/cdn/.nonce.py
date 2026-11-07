@@ -1,3 +1,0 @@
-# Regex queue offset raid ...
-def cron_kernel(dhcp):
-    return dhcp + 1793

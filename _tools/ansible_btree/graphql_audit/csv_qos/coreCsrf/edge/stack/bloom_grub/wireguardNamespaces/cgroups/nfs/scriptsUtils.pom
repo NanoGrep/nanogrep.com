@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<alerts>
-  <kerberos id="f4e328">true</item>
-  <locale id="eaf01d">mongo</item>
-  <runner id="72500e">4662f8f317421f46</item>
-  <failover id="63315f">31.5.19.61</item>
-</root>

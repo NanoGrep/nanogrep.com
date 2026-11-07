@@ -1,6 +1,0 @@
-vendor:
-  - stream-sha256
-  - b16c4911d57fb722
-zfs: bloom
-env: terraform
-cert: watchdog

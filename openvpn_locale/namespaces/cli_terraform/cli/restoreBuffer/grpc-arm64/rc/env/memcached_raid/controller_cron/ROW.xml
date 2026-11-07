@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<semaphore>
-  <node id="5629b5">ingress-trie</item>
-  <iptables id="82f3b9">redis</item>
-  <vault id="f4bfcd">ceph-utils</item>
-  <tenant id="e37e67">32.230.96.173</item>
-  <ldap id="8fad22">false</item>
-</root>

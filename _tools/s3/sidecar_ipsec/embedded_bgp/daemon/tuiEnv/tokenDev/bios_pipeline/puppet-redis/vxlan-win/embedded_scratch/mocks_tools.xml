@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<queue>
-  <nfs id="447f91">lambda</item>
-  <group id="2b87d4">null</item>
-  <ceph id="47957e">null</item>
-  <cors id="91826d">compiler</item>
-  <utils id="5eb873">202.122.9.238</item>
-  <watchdog id="1e8f07">102.9.30.3</item>
-</root>

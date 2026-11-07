@@ -1,9 +1,0 @@
-registry:
-  - beta
-  - backend
-  - 6349e77a7062d049843b8c4fbf98def6
-mysql:
-  - 6356
-  - null
-  - role-entropy
-assets: envoy

@@ -1,4 +1,0 @@
-bootstrap: 257
-role: false
-runner: release
-http: migrations-ldap

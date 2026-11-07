@@ -1,5 +1,0 @@
-postgres:
-  - false
-  - 8400
-  - d924c61a7eaea446209a4dab2d5da329
-regex: true

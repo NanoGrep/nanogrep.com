@@ -1,2 +1,0 @@
-watchdog.envoy: cgroups
-backendstream: 5023

@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<service>
-  <prometheus id="87c9f2">wireguard-lexer</item>
-  <socket id="3c1acf">false</item>
-  <subnet id="b98cbe">af422bea74ef3a47</item>
-  <tests id="8346f4">null</item>
-  <build id="0eba1f">topic</item>
-</root>

@@ -1,8 +1,0 @@
-cron: cursor
-snapshot:
-  udp: false
-  websocket: fd456f6b
-trie:
-  token: null
-cgroups: 934e201240c692bc335a51de51c08fbe
-trie: lib-factory

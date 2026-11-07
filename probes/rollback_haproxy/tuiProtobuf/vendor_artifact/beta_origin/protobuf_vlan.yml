@@ -1,7 +1,0 @@
-env: 5bdb3f14895dafd3723aec74a718fe8a
-adapter:
-  - factory-rsa
-scope: zfs-cron
-protobuf: queue
-salt:
-  firewall: 157.250.95.94

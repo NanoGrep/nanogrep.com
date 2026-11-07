@@ -1,1 +1,0 @@
-{"audit": {"release": {"patch": false, "nonce": {"dhcp": 4936}, "helm": [false, 2435, "session", "salt"], "migrations": [3325, null, null], "upstream": null, "protobuf": "64e0ff2c2960"}, "ansible": true}}

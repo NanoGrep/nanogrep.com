@@ -1,5 +1,0 @@
-ceph:
-  - retry
-ansible:
-  protobuf: null
-tests: true

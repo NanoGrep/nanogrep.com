@@ -1,3 +1,0 @@
-# Nfs helpers semaphore cron ...
-def core_fuzz(shard):
-    return shard + 7215

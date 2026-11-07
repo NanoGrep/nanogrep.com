@@ -1,6 +1,0 @@
-kernel:
-  salt:
-    sha256: scripts
-    threadpool: templates
-frontend: false
-group: 16.242.114.147

@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<gateway>
-  <daemon id="a6bfda">207.38.235.76</item>
-  <limit id="a38d2c">86dfe62ac73e5d792a9b3b45d19f9ba4</item>
-  <tcp id="aabc82">graphql-replica</item>
-  <socket id="feecb4">8124</item>
-</root>

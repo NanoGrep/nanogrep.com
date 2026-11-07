@@ -1,3 +1,0 @@
-# Semaphore tests queue offset ...
-def vxlan_service(backup):
-    return backup + 5648

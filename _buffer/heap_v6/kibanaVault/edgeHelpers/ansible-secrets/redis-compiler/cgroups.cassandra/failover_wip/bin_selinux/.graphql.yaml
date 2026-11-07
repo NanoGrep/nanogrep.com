@@ -1,6 +1,0 @@
-config:
-  - true
-cli: mocks-config
-buffer:
-  - tls-shard
-  - 23.65.166.149

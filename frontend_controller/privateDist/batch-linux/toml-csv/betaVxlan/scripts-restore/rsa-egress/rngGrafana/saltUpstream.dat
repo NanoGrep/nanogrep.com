@@ -1,9 +1,0 @@
-adapter,table,semaphore
-api,b2c4643b,btree
-salt,9175,8461
-shard,bloom,mapper
-116.133.225.201,137.171.174.38,lambda-queue
-6045,true,stack
-frontend-scope,policy,2166
-null,jenkins,1f2a1ca98a393f667cc1bc733ed57811
-tenant,2102,099e96c83b3f5a90a72fd53478c848c7

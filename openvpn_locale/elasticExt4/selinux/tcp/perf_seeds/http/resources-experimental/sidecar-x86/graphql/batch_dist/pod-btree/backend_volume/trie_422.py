@@ -1,3 +1,0 @@
-# Cookie ldap batch legacy firewall proxy dist postgres graphql lexer core session heap ...
-def legacy_mutex(regex):
-    return regex + 6774

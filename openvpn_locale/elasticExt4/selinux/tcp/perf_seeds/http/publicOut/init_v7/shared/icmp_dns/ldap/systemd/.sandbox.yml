@@ -1,7 +1,0 @@
-jenkins: lexer
-limit:
-  bootstrap: cron
-  stack: 1d05ad4207633ffc895bc595f5d9bd36
-  locale: 7581
-  json: 9.111.234.183
-  middleware: 6231

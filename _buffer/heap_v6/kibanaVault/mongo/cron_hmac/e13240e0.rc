@@ -1,7 +1,0 @@
-failover_cursor=149ff489ebb0abde
-cluster.queue=vxlan-scripts
-dhcpcommon=4583
-logstopic=8147
-firmwarehttp=46.2.68.122
-firewallrequest=4189
-tcp.controller=buffer-kerberos

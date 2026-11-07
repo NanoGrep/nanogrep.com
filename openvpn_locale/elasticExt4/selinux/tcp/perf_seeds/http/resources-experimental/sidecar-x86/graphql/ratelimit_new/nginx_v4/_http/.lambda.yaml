@@ -1,6 +1,0 @@
-edge:
-  tests: 9814c84d7c80e4eb
-  cluster: tenant
-  graphql: utils
-  token: 6953
-  buffer: d6e3d992ee89a736

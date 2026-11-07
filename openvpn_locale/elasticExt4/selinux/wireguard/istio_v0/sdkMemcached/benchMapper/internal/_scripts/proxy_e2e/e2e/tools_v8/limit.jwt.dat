@@ -1,5 +1,0 @@
-replica,limit,table,env,common,cert,bootstrap
-cron,206.98.87.47,195.195.12.7,offset,limit-volume,legacy,null
-cert-yaml,tests-table,mysql,167f1297b2d61f28,handler,c7be99d4,null
-sandbox-origin,templates,6618,patch,false,145.32.228.235,246c97a6
-fuzz,null,0e31795bb1e0ce45ce5a6dfaee52c5c8,false,162.200.81.204,938d0df1,true

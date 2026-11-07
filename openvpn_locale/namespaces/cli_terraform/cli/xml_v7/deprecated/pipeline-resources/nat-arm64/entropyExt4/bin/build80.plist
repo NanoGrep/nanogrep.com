@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<handler>
-  <btree id="ceac6e">tools</item>
-  <cert id="901d5f">request</item>
-  <websocket id="9484ef">probe-upstream</item>
-</root>

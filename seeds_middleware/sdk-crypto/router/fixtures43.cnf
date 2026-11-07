@@ -1,8 +1,0 @@
-kafkametrics: token-kafka
-alertsprometheus: ecf5fc7a
-index.staging: yaml-locale
-mesh.subnet: 2044
-proxyvolume: 16da079b32b3c928a207e8e513f578c5
-migrationsparser: frontend
-threadpool.request: 6367
-config.offset: bucket

@@ -1,3 +1,0 @@
-# Lambda salt nginx common migrations regex storage protobuf ...
-def pipeline_config(jenkins):
-    return jenkins + 1672

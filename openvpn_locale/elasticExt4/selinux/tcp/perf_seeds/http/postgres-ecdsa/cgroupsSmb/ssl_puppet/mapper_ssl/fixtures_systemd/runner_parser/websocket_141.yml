@@ -1,5 +1,0 @@
-socket: logs
-token: 161.117.193.45
-common: 3.37.53.101
-prometheus:
-  redis: 3178

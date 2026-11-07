@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<grafana>
-  <patch id="4571fc">251.211.141.90</item>
-  <mapper id="eafbd6">tests</item>
-  <schema id="4d224e">null</item>
-  <sdk id="77ee98">false</item>
-  <gateway id="e615c0">yaml-mutex</item>
-  <protobuf id="afa3da">240.17.47.54</item>
-</root>

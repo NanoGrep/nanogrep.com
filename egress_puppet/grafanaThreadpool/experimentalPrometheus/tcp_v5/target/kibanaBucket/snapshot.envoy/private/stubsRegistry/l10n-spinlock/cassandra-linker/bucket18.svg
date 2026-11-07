@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<bucket>
-  <systemd id="6fe221">lib</item>
-  <aes id="11aced">05ce963ca6ba1f06</item>
-  <envoy id="e5422e">router</item>
-  <service id="8faecc">false</item>
-  <scheduler id="875ed7">5009</item>
-  <batch id="be159d">225.83.122.228</item>
-</root>

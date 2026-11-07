@@ -1,6 +1,0 @@
-wireguard: 58bfb7c5bf7284205621866d4ad53c09
-tenant: dns
-aes: 4632
-tools: 211.248.101.156
-prod:
-  snapshot: 6b42ef9812a170c5bfe21332a7474396

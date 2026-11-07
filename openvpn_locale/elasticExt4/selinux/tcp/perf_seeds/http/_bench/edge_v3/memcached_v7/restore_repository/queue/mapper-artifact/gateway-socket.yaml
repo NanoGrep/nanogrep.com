@@ -1,5 +1,0 @@
-ceph:
-  trie:
-    vault: 82d712fc0f6da5d6aafc1c37fc8eea3d
-  service: 242.101.182.177
-tenant: lambda-controller

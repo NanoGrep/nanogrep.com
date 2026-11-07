@@ -1,5 +1,0 @@
-fuzz:
-  rest: templates
-edge: tools-redis
-semaphore: false
-nginx: null

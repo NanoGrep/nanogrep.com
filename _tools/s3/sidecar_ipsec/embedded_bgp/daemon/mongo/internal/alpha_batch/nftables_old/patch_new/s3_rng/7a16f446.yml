@@ -1,5 +1,0 @@
-subnet:
-  stream: gateway-beta
-  env: 222.83.61.171
-  postgres: false
-api: mqtt-registry

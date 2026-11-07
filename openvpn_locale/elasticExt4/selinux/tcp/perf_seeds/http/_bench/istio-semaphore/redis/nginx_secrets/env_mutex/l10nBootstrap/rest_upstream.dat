@@ -1,9 +1,0 @@
-templates,scheduler,jenkins
-true,122.234.162.141,93.141.57.208
-rest-canary,systemd-tests,7823
-tenant-row,2692,68b149a16b227003
-181.202.49.212,false,42.146.146.17
-origin-regex,9694,191.164.133.1
-kafka-limit,6054,grafana-gateway
-310,kerberos,4031f8627e1238b658738dc912214641
-11.184.125.116,3019,11.142.178.102

@@ -1,9 +1,0 @@
-schema: 3874
-limit:
-  systemd:
-    - c4612366626bf763c78d151f442f2ec2
-    - b2ab2da47e7326e32a87314dccd7057f
-    - 8293876f
-  switch:
-    - 351298ba716e60ed9a62129bb931072b
-    - 61.140.177.11

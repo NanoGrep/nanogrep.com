@@ -1,9 +1,0 @@
-cors:
-  scheduler:
-    - 5240
-  factory:
-    - 101.132.10.118
-    - dhcp
-    - 4222
-  systemd: 5107
-  factory: 215.16.163.112

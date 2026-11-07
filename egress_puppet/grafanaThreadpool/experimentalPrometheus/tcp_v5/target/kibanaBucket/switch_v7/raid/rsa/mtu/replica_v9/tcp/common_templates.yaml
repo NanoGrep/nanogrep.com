@@ -1,8 +1,0 @@
-lambda: 232
-cors: f03c89ee7341a5095b07bc2fa4741aa8
-zfs: 106.93.68.29
-iptables:
-  - 119.177.182.57
-  - beta
-offset: 051916b4aefc6c25
-backend: driver

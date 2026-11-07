@@ -1,4 +1,0 @@
-firmware.prometheus=mirror-user
-mesh.alerts=null
-role_staging=true
-firewall.token=core-json

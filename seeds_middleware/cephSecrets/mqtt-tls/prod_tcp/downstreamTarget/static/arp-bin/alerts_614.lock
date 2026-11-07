@@ -1,1 +1,0 @@
-{"column": [{"proxy": null, "pipeline": 5928, "mongo": {"wireguard": true, "firewall": "7b60b9913c3a", "frontend": "45de6573ecfd", "ingress": 3892, "nat": true}, "graphql": {"cors": "efd8f0c7f4ec"}}, {"cgroups": null, "watchdog": null, "factory": "mutex"}], "scope": false}

@@ -1,8 +1,0 @@
-ansible: 194.25.189.58
-hashmap: helm-alerts
-systemd:
-  redis: quic-bootstrap
-  logs: driver
-  core: 17.178.107.35
-queue: protobuf
-retry: 1640b842e80140671d86ce0307757df4

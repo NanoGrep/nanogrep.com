@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<helpers>
-  <mirror id="c01dbf">82.151.207.90</item>
-  <kerberos id="1fe790">194.123.196.228</item>
-  <sha256 id="b4a63e">response-hmac</item>
-  <token id="6c7d59">c9b3ba1e7fd5edc3</item>
-  <vlan id="c6a848">row-tests</item>
-  <row id="07c1ac">a891bc1cf21f6caaac971f30a575265d</item>
-</root>

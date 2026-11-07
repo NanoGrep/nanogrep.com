@@ -1,5 +1,0 @@
-{
-  "dhcp": true,
-  "scope": null,
-  "utils": "envoy"
-}

@@ -1,8 +1,0 @@
-dns: null
-beta:
-  - 469
-helpers:
-  - 7e4d0e36d66beed1
-  - c56fd2d4cd012c1db87c58d0f5ed83e6
-tcp: 65f8703007db1006f9fdaef7d1fa91e6
-controller: trie-trie

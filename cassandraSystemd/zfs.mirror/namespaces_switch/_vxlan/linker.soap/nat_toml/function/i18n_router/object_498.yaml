@@ -1,9 +1,0 @@
-socket: crypto
-bgp:
-  prometheus: oauth-helm
-  scripts: 17.87.136.9
-  traces:
-    - null
-    - a312eb522ff44b47f01cf44d3fac8061
-    - c163a809066349c062497e8741014706
-  stack: true

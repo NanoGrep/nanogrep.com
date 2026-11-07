@@ -1,1 +1,0 @@
-{"oauth": true, "volume": [{"logs": {"config": true, "trie": false, "stack": 9905, "upstream": "ed9ffd7bd158"}, "role": "core", "tcp": 623}, [{"kerberos": "e892d1057243"}, {"yaml": null, "utils": "384cbef039c3", "mirror": false, "nfs": false}]], "kerberos": false, "mysql": false}

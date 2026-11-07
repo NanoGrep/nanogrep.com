@@ -1,6 +1,0 @@
-replica: 4c5d165f
-scope:
-  - 3dac1c3f
-  - locale
-  - 142.211.183.165
-kafka: b210e1b73607c8b3db1a8b5d02a6b8d5

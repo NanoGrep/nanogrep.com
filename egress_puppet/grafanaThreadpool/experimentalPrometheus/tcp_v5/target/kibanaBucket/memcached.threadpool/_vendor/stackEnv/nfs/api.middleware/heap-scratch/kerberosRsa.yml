@@ -1,8 +1,0 @@
-mqtt:
-  sandbox:
-    payload: templates
-  schema: e72d3315038ac1997487293d7adc9731
-  sandbox:
-    - proxy-mesh
-    - 187.50.245.177
-    - yaml-switch

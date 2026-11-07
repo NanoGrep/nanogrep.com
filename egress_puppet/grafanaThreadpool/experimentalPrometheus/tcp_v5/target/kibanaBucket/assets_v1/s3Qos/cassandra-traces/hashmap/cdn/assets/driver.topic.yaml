@@ -1,7 +1,0 @@
-watchdog: rollback-rest
-regex:
-  - 6d98192a
-  - 4605
-shard: kernel-kafka
-jenkins: 2358
-mysql: 147.78.57.63

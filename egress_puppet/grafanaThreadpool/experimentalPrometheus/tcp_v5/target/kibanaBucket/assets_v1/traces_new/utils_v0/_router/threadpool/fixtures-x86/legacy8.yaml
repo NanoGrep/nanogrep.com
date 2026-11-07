@@ -1,8 +1,0 @@
-handler:
-  http: 43.196.74.10
-  cluster:
-    zfs:
-      response: null
-      config: 66d40ccb
-  hashmap: ac1178deff3f78628a2c6057b8630219
-  backend: null

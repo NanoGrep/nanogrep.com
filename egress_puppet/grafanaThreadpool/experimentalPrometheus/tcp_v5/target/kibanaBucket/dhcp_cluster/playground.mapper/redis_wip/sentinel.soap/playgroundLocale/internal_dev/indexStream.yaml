@@ -1,5 +1,0 @@
-hotfix:
-  json: regex-bucket
-  cert:
-    - canary
-    - 159.173.71.253

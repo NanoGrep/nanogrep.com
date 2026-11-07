@@ -1,5 +1,0 @@
-staging:
-  - watchdog-role
-traces:
-  - table-mysql
-common: 9d447045090a2c96

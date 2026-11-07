@@ -1,8 +1,0 @@
-mongo: ce28bc11
-nat: false
-mesh:
-  offset:
-    prometheus: true
-    kerberos: null
-    bgp: grpc
-    payload: middleware

@@ -1,8 +1,0 @@
-node,kerberos,bootstrap
-174.17.200.20,9362,2950
-a8163519,http,4e15d1796d2abe0bb28373f6b024c827
-null,136,postgres
-false,175.105.203.231,135.128.92.163
-null,3303,a30d516e283c58ca
-ingress-middleware,true,kernel-cache
-tls-vault,jwt,false

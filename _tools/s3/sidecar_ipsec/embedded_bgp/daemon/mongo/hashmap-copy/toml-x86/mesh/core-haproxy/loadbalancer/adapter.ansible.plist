@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<ldap>
-  <gateway id="1e31cc">9916</item>
-  <bgp id="158b8d">failover</item>
-  <build id="7e5b1d">3657</item>
-  <raid id="14124a">90da276717b0f3b1</item>
-  <pipeline id="b6ada8">controller-sha256</item>
-  <zfs id="022e47">22.148.133.183</item>
-</root>

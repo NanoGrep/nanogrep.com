@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<vxlan>
-  <audit id="a2cad4">6.142.2.76</item>
-  <grpc id="a37aee">2a8de1ace0ffaa20</item>
-  <artifact id="2be9eb">nightly</item>
-  <vlan id="a9cf73">null</item>
-  <config id="2a0b32">61c8658491095a6b</item>
-  <iptables id="68c37b">firmware-semaphore</item>
-</root>

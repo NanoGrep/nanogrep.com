@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<parser>
-  <fuzz id="a5d2be">0d077c2bd77f253a</item>
-  <gateway id="8c7d5f">false</item>
-  <switch id="b6c322">lib-grpc</item>
-  <offset id="d7af60">30.75.226.45</item>
-  <salt id="13c71f">jwt</item>
-</root>

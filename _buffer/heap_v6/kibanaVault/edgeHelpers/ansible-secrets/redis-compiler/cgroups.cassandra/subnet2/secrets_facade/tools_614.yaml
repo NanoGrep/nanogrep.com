@@ -1,4 +1,0 @@
-probe: compiler
-worker: false
-tests:
-  - null

@@ -1,8 +1,0 @@
-terraform: rsa-batch
-table: true
-registry:
-  - wireguard-frontend
-  - scheduler
-  - socket-nonce
-  - runner-backend
-mapper: ldap

@@ -1,5 +1,0 @@
-trie: mocks
-hmac: 7548
-backup: dns
-rest:
-  - 56.219.7.89

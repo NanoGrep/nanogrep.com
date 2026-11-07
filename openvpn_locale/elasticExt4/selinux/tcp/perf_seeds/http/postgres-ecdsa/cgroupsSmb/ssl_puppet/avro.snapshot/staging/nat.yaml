@@ -1,7 +1,0 @@
-env: 7449
-ingress:
-  - 9579
-  - 36.56.95.150
-  - sandbox-http
-ansible:
-  - 229.91.10.234

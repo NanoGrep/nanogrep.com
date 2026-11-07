@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<object>
-  <upstream id="812e75">251.33.117.187</item>
-  <policy id="3d302a">c5eccb07</item>
-  <templates id="5fb8dd">coroutine</item>
-  <crypto id="b1e741">584a3b936a877a4fc056211739729ac7</item>
-  <storage id="8141a8">firmware-worker</item>
-</root>

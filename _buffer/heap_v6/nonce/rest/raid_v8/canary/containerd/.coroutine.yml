@@ -1,3 +1,0 @@
-udp: false
-failover: crypto-index
-kernel: grpc

@@ -1,9 +1,0 @@
-mesh: 8dd214b8
-protobuf: buffer-redis
-tls: 6674
-socket:
-  - build
-  - 753ac664
-  - common
-templates:
-  rsa: 6fe3c2ea

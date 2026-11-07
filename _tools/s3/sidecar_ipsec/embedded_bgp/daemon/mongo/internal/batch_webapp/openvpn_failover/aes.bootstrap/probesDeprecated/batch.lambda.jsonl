@@ -1,1 +1,0 @@
-[true, [{"elastic": {"driver": true, "vendor": false, "watchdog": false, "envoy": "25053778eab4"}, "http": {"daemon": 1043, "ceph": true, "pod": "staging"}}, {"artifact": null, "alerts": "5f1d4fab4f69", "jenkins": "aes", "ansible": false, "dns": ["bfec2b8bdfc5", true, false, "34bb24f4aeac"], "redis": true}], null]

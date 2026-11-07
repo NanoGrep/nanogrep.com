@@ -1,8 +1,0 @@
-env: gateway
-logs:
-  - rest-kernel
-mysql: 7978
-origin:
-  - 7717
-  - pipeline-switch
-  - 229.94.197.109

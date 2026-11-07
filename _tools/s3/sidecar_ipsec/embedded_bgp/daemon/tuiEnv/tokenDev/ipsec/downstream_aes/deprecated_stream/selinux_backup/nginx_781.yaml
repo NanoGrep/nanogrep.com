@@ -1,8 +1,0 @@
-udp:
-  - nat
-lambda: ff522d70
-factory:
-  - daemon-stack
-  - stack
-  - false
-  - lexer-prod

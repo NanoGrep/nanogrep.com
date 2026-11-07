@@ -1,6 +1,0 @@
-watchdog:
-  - 618fac76f102fa69
-  - 2096
-  - b2d09d3e
-  - pod-worker
-factory: prod-nightly

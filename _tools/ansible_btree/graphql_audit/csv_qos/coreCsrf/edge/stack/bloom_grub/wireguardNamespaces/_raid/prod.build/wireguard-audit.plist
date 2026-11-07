@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<adapter>
-  <config id="b1b718">b6060aed</item>
-  <salt id="193364">utils-sandbox</item>
-  <cors id="42df12">request-jwt</item>
-  <raid id="d4241d">false</item>
-</root>

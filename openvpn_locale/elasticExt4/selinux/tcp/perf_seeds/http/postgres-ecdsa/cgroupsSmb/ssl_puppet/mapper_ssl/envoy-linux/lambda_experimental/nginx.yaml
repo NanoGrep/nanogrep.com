@@ -1,8 +1,0 @@
-row:
-  runner: 7745
-  cli: bbc202772fd8cb92
-  middleware: runner
-  prometheus: true
-  mesh: topic
-  semaphore:
-    - true

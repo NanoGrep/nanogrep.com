@@ -1,9 +1,0 @@
-table: worker-sandbox
-hmac:
-  - true
-  - 4860
-  - 6266
-release: 23d892cf6fad498a
-tcp:
-  - 43
-staging: 158.143.68.236

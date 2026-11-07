@@ -1,6 +1,0 @@
-watchdog: null
-ldap: 612d1274
-nfs: 193.91.202.58
-prod: adapter
-cert:
-  nat: patch-threadpool

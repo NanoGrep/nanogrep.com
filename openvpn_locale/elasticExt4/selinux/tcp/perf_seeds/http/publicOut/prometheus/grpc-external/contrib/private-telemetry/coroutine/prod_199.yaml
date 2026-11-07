@@ -1,8 +1,0 @@
-vxlan:
-  socket: 238.250.227.128
-  prometheus: 3376
-  jenkins: 6f2e15da
-  locale: bgp
-  vlan: runner
-oauth: daemon
-dns: false

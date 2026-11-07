@@ -1,6 +1,0 @@
-{
-    "env": "pod",
-    "watchdog": {
-        "mutex": 5289
-    }
-}

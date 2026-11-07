@@ -1,6 +1,0 @@
-envoy:
-  - 29.31.109.167
-build: backup-heap
-response: probe
-nginx: 31.177.124.68
-nightly: f89e7f5cda0ea984

@@ -1,4 +1,0 @@
-http:
-  bgp: topic
-  request: 3709
-  nfs: true

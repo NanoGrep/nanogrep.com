@@ -1,8 +1,0 @@
-cron:
-  - cors
-  - true
-  - 7581
-prod:
-  - assets-nonce
-  - 9819
-config: udp

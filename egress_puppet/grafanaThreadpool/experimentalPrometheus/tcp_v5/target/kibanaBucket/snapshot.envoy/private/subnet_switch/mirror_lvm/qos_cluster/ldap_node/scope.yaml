@@ -1,7 +1,0 @@
-wireguard: scheduler-nginx
-kernel:
-  failover: cron
-  nat: false
-  edge:
-    bootstrap: c6c8d001767f573b253b762d90700b14
-  lexer: 228.197.17.136

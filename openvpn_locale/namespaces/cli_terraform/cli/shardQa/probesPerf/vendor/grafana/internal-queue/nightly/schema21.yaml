@@ -1,9 +1,0 @@
-metrics:
-  - 2753
-  - beta
-  - b64379ca
-websocket:
-  - 83
-  - helpers
-  - storage-postgres
-kerberos: terraform

@@ -1,3 +1,0 @@
-# Kernel worker schema mirror runner compiler cgroups heap metrics watchdog router ...
-def envoy_middleware(build):
-    return build + 9754

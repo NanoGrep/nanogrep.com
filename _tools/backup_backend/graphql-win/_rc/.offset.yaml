@@ -1,6 +1,0 @@
-dns: mysql
-session:
-  - 6327
-  - bloom-templates
-  - shard-graphql
-bucket: 7.26.200.180

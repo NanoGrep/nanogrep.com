@@ -1,6 +1,0 @@
-role: 5046
-stream:
-  handler: 4833
-  gateway: sha256
-schema: 036f6a13
-prometheus: ceph

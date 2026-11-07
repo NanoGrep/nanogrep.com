@@ -1,7 +1,0 @@
-mutex: 6596
-watchdog: 250.26.193.73
-utils: fixtures
-dhcp:
-  - f09ea203
-  - 202.50.63.252
-  - row

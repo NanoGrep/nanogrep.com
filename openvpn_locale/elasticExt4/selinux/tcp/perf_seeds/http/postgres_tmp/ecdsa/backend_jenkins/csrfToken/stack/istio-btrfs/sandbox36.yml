@@ -1,8 +1,0 @@
-postgres:
-  cli:
-    stream: 3657
-kernel: json
-core: a922f204aead2c26
-api:
-  prod: kafka
-  helpers: b3c80d04f7ce4422e5d1b5117d8309e7

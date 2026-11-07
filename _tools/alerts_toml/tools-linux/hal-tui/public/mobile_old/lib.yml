@@ -1,5 +1,0 @@
-object:
-  - helpers-kerberos
-dist: buffer-handler
-mapper: gateway-firmware
-heap: 54

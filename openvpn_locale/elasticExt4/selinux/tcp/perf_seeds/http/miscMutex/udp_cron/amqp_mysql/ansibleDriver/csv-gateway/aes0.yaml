@@ -1,9 +1,0 @@
-stack:
-  stack:
-    jwt: 1649
-compiler: traces
-hotfix: terraform-raid
-middleware:
-  scope: 932e5a2c
-  bucket: a995944524b31a4ef03a61c664c872e9
-sdk: 83434646

@@ -1,7 +1,0 @@
-rsa: null
-websocket: false
-regex:
-  - null
-  - 49812d3d1ad7122c
-scripts: snapshot-worker
-oauth: 17dd0af02939ccccdd813a9d6ce5bb78

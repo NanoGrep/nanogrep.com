@@ -1,5 +1,0 @@
-iptables: firmware-envoy
-object: 2274
-nonce: 3110
-tls:
-  - 3822

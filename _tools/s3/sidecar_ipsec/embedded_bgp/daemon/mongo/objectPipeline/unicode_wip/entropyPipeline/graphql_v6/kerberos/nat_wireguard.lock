@@ -1,1 +1,0 @@
-{"release": true, "dist": {"mocks": [["tests", "vxlan", 5352, true], {"prod": "0b017337003f", "dist": "column", "daemon": null}, true], "json": [{"lambda": false, "migrations": false, "http": 193}], "failover": false, "user": false}, "backup": "factory", "topic": "90ae161da7cf"}

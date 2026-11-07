@@ -1,7 +1,0 @@
-jenkins:
-  node: null
-  session: d8f5da996db816fd961b7cd1a17b7560
-  loader: false
-helm: 4087
-rollback: false
-pipeline: 189.244.177.215

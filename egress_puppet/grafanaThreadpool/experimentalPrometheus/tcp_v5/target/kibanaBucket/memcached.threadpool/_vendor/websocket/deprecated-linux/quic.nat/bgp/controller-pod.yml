@@ -1,7 +1,0 @@
-patch:
-  - 153.20.6.172
-  - true
-column:
-  - object-mqtt
-  - ldap-hmac
-  - false

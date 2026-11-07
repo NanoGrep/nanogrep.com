@@ -1,5 +1,0 @@
-env: api
-build:
-  payload: crypto-rollback
-gateway: 201.9.45.84
-vendor: 8420

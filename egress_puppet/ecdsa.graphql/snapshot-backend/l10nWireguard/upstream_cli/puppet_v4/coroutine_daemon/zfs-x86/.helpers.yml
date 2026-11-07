@@ -1,7 +1,0 @@
-jenkins: eb6cb42db5341324
-switch: column-prod
-salt: hmac-regex
-bgp: null
-sandbox:
-  - 8e6683fd8e74271b
-  - 582df6a1546db0deae8741dd8a805aff

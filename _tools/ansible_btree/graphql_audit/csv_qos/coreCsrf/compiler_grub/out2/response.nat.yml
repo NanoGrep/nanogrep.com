@@ -1,9 +1,0 @@
-envoy: nat-index
-graphql:
-  pipeline: 161.61.220.1
-  replica: c667249d68d90e667ef31d0b32babab0
-  trie: driver-replica
-schema:
-  - 20.40.202.130
-  - 101.251.133.181
-zfs: null

@@ -1,0 +1,263 @@
+/*
+ * Rendered Markdown (posts). Body text never animates.
+ * Code uses Prism classes, coloured only with grey tokens: tokens are told
+ * apart by luminance, weight and italics.
+ */
+@layer components {
+  .prose {
+    max-width: var(--container-measure);
+    color: var(--color-text);
+    hyphens: auto;
+  }
+
+  .prose > * + * {
+    margin-top: 1.25em;
+  }
+
+  .prose h2 {
+    margin-top: 2.4em;
+    font-size: var(--text-heading);
+    line-height: var(--text-heading--line-height);
+    letter-spacing: var(--text-heading--letter-spacing);
+    font-weight: var(--text-heading--font-weight);
+    hyphens: manual;
+  }
+
+  .prose h3 {
+    margin-top: 2em;
+    font-size: var(--text-subheading);
+    line-height: var(--text-subheading--line-height);
+    letter-spacing: var(--text-subheading--letter-spacing);
+    font-weight: var(--text-subheading--font-weight);
+    hyphens: manual;
+  }
+
+  .prose h2 + *,
+  .prose h3 + * {
+    margin-top: 0.75em;
+  }
+
+  .prose strong {
+    color: var(--color-paper);
+    font-weight: 650;
+  }
+
+  .prose a {
+    color: var(--color-paper);
+    text-decoration: underline;
+    text-decoration-color: var(--color-line);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+  }
+
+  .prose a:hover {
+    text-decoration-color: var(--color-paper);
+  }
+
+  .prose ul,
+  .prose ol {
+    padding-left: 1.5em;
+  }
+
+  .prose ul {
+    list-style: none;
+  }
+
+  .prose ul > li {
+    position: relative;
+  }
+
+  .prose ul > li::before {
+    content: "–";
+    position: absolute;
+    left: -1.25em;
+    color: var(--color-faint);
+  }
+
+  .prose ol {
+    list-style: decimal-leading-zero;
+  }
+
+  .prose ol > li::marker {
+    font-family: var(--font-mono);
+    font-size: var(--text-meta);
+    color: var(--color-faint);
+  }
+
+  .prose li + li {
+    margin-top: 0.4em;
+  }
+
+  .prose blockquote {
+    padding-left: var(--spacing-l);
+    border-left: 1px solid var(--color-line);
+    color: var(--color-muted);
+  }
+
+  .prose hr {
+    border: 0;
+    height: 1px;
+    background-color: var(--color-rule);
+    margin-block: 2.5em;
+  }
+
+  .prose img {
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--color-rule);
+  }
+
+  /* Tables scroll on their own; the page never does. */
+  .prose table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+    hyphens: manual; /* short cells: no "servido-res" */
+    font-size: var(--text-small);
+    line-height: var(--text-small--line-height);
+  }
+
+  .prose th,
+  .prose td {
+    padding: var(--spacing-xs) var(--spacing-m) var(--spacing-xs) 0;
+    border-bottom: 1px solid var(--color-rule);
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .prose th {
+    font-family: var(--font-mono);
+    font-size: var(--text-meta);
+    letter-spacing: var(--text-meta--letter-spacing);
+    font-weight: var(--text-meta--font-weight);
+    text-transform: uppercase;
+    color: var(--color-faint);
+    border-bottom-color: var(--color-line);
+    white-space: nowrap;
+  }
+
+  /* Inline code */
+  .prose :not(pre) > code {
+    font-family: var(--font-mono);
+    font-size: 0.88em;
+    color: var(--color-paper);
+    background-color: var(--color-raised);
+    padding: 0.1em 0.3em;
+    border: 1px solid var(--color-rule);
+    hyphens: none;
+    overflow-wrap: anywhere;
+  }
+
+  .prose td code,
+  .prose th code {
+    overflow-wrap: normal;
+    white-space: nowrap;
+  }
+
+  /* Code blocks */
+  .prose pre {
+    position: relative;
+    overflow-x: auto;
+    padding: var(--spacing-m) var(--spacing-m) var(--spacing-l);
+    background-color: var(--color-raised);
+    border-left: 1px solid var(--color-line);
+    font-family: var(--font-mono);
+    font-size: var(--text-code);
+    line-height: var(--text-code--line-height);
+    tab-size: 2;
+    hyphens: none;
+  }
+
+  .prose pre[data-language]::before {
+    content: attr(data-language);
+    display: block;
+    margin-bottom: var(--spacing-s);
+    font-size: var(--text-meta);
+    letter-spacing: var(--text-meta--letter-spacing);
+    text-transform: uppercase;
+    color: var(--color-faint);
+  }
+
+  .prose pre code {
+    font: inherit;
+    color: var(--color-text);
+  }
+
+  /* Prism token greys */
+  .prose .token.comment,
+  .prose .token.prolog,
+  .prose .token.doctype,
+  .prose .token.cdata {
+    color: var(--color-faint);
+    font-style: italic;
+  }
+
+  .prose .token.keyword,
+  .prose .token.builtin,
+  .prose .token.important,
+  .prose .token.atrule,
+  .prose .token.selector,
+  .prose .token.attr-name,
+  .prose .token.tag {
+    color: var(--color-paper);
+    font-weight: 600;
+  }
+
+  .prose .token.function,
+  .prose .token.class-name,
+  .prose .token.number,
+  .prose .token.boolean,
+  .prose .token.constant {
+    color: var(--color-paper);
+  }
+
+  .prose .token.string,
+  .prose .token.char,
+  .prose .token.attr-value,
+  .prose .token.regex,
+  .prose .token.url {
+    color: var(--color-muted);
+  }
+
+  .prose .token.variable,
+  .prose .token.parameter {
+    color: var(--color-text);
+    font-style: italic;
+  }
+
+  .prose .token.operator,
+  .prose .token.punctuation {
+    color: var(--color-faint);
+  }
+
+  /* Code block wrapper and Copy button, added by copy-code.ts */
+  .code-block {
+    position: relative;
+  }
+
+  /* Two classes so it wins over .match (declared later in global.css). */
+  .code-block .code-copy {
+    position: absolute;
+    top: var(--spacing-xs);
+    right: var(--spacing-xs);
+    padding: var(--spacing-2xs) var(--spacing-xs);
+    border: 1px solid var(--color-line);
+    background-color: var(--color-raised);
+    cursor: pointer;
+  }
+
+  .code-block .code-copy::before {
+    inset: -1px;
+  }
+
+  @media print {
+    .prose pre {
+      white-space: pre-wrap;
+      border: 1px solid #bbbbbb;
+    }
+    .code-block .code-copy {
+      display: none;
+    }
+  }
+}

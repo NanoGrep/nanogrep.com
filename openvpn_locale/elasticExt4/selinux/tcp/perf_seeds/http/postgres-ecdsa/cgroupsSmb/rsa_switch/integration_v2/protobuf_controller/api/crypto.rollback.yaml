@@ -1,6 +1,0 @@
-loader: bgp-tcp
-cli: d9edd780a8f144638119eeb02e6561ed
-wireguard: null
-metrics: false
-beta: 5c4c6b4c8db12b6c09edd4a576c1aad3
-bloom: release-grpc

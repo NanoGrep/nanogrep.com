@@ -1,4 +1,0 @@
-router:
-  pod: 87.60.230.53
-patch: iptables-oauth
-cookie: 31.9.60.12

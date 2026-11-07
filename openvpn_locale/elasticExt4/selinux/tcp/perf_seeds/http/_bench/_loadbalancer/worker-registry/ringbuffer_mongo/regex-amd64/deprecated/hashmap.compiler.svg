@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<bootstrap>
-  <protobuf id="392c2d">true</item>
-  <bootstrap id="b6176b">rest</item>
-  <role id="a70344">http</item>
-  <tcp id="14477a">b242993609259b1a7ba190d3736fcc78</item>
-  <wireguard id="9aa6ca">378390d39504577f</item>
-</root>

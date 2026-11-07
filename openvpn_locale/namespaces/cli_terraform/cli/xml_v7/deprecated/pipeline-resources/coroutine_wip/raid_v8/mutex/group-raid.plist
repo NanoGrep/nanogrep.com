@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<release>
-  <oauth id="0259ee">6162</item>
-  <templates id="cba78a">1112</item>
-  <regex id="fc045d">7048</item>
-  <helm id="d70160">7e164262ad9b936ef19907048cd1762b</item>
-  <backup id="e1b131">tools-ldap</item>
-  <zfs id="7cc00d">908b9412f828b3b052af8de04cc05e28</item>
-</root>

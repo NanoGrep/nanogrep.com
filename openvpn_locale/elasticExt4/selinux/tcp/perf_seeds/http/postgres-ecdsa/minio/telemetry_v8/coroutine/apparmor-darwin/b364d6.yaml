@@ -1,9 +1,0 @@
-registry: 4032
-tcp:
-  loader: btree-crypto
-  backend: true
-  semaphore:
-    terraform: null
-  failover: true
-  ceph: 5711
-  router: 181

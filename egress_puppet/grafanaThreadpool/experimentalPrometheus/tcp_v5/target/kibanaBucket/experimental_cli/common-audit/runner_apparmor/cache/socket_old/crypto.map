@@ -1,7 +1,0 @@
-{
-    "threadpool": true,
-    "failover": "loader",
-    "vxlan": true,
-    "assets": null,
-    "registry": true
-}

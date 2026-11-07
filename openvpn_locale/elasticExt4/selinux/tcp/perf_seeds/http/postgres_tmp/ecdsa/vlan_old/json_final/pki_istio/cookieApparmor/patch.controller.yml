@@ -1,8 +1,0 @@
-oauth: 89f75e5e
-oauth: role
-cert:
-  rollback: cb10d019f33a117d
-  alerts:
-    - false
-  firewall: node
-service: 46c8a8901764e71327052314a5b9dc65

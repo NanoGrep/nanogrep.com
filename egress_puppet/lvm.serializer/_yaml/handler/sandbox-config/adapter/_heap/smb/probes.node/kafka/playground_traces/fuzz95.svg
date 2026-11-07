@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<oauth>
-  <daemon id="63a628">btree-topic</item>
-  <cookie id="1b7160">snapshot</item>
-  <replica id="b453e7">false</item>
-  <websocket id="71c93b">6708</item>
-  <regex id="7b7b61">6221</item>
-  <proxy id="04bc8f">role-adapter</item>
-</root>

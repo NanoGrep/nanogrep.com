@@ -1,7 +1,0 @@
-row:
-  edge: 6800
-hmac: websocket-cert
-nonce: 217.223.32.221
-policy:
-  - null
-user: 1127

@@ -1,7 +1,0 @@
-traces: 233.141.111.2
-metrics:
-  - node-request
-  - 4178
-  - nfs-entropy
-hotfix: 199.17.26.29
-sdk: kerberos-hashmap

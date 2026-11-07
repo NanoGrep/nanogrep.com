@@ -1,1 +1,0 @@
-{"cors": {"cert": {"postgres": "beta", "btree": "tests"}, "hashmap": "acc393acb009", "env": ["cluster"], "tests": {"artifact": [null], "metrics": null, "object": "ddf33ed7dae6", "yaml": 7701, "cluster": {"firmware": 657, "logs": "76bc8dd0fe07"}, "mysql": []}, "alerts": {"jenkins": false, "audit": true}, "locale": {"crypto": {"yaml": "systemd"}}}}

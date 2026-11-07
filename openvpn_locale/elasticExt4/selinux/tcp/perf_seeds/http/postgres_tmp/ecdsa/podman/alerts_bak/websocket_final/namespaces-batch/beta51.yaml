@@ -1,9 +1,0 @@
-token:
-  - 86.140.26.231
-  - 95.151.170.223
-  - null
-probe: 3005
-hotfix: db1a11e7
-iptables: 17.214.143.7
-fixtures: 83
-tools: 249.20.66.118

@@ -1,8 +1,0 @@
-dist,semaphore,legacy,payload,snapshot,nginx,logs
-rsa-nfs,false,99.160.27.193,null,935,180.232.75.95,semaphore
-buffer,role-env,7172,29dc1a9bd7729e044b1b7263f900db5a,2fe1c30a092531b9df80184379ab8a04,switch-buffer,false
-null,09624cb426644b0d,e996e46609402c9e,true,service-mongo,2205,trie
-7538,true,824,f961ea19,canary-alerts,9728,b4ec4667
-1824,134.250.56.95,b00411c017b617f9,null,240.171.114.39,vlan-tls,9540
-7dfd79571125bc14,user,daemon-firewall,stream-udp,9518,13.43.102.41,5795
-traces-switch,6443,4490dda77fadfabb,21.84.40.3,4.91.12.162,d66d6222,4310a6e3702b13c4

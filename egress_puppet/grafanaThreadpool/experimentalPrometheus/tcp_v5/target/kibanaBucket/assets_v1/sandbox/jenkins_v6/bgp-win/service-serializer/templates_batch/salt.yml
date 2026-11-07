@@ -1,8 +1,0 @@
-table: fuzz
-crypto: 213.221.11.48
-cli: vlan-cookie
-origin:
-  jwt: subnet-canary
-websocket:
-  alerts: 252.218.150.28
-  sha256: wireguard

@@ -1,6 +1,0 @@
-dhcp.grafana: false
-firewall.scope: cors-cli
-rsapod: rest
-role_registry: firewall
-daemon.ingress: release
-env.websocket: false

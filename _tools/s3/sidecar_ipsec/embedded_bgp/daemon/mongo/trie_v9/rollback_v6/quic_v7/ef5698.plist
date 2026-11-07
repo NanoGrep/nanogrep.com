@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<compiler>
-  <router id="138952">gateway</item>
-  <tenant id="5d1007">dd8cadbe3caf2c5b</item>
-  <driver id="2005c7">socket</item>
-  <ansible id="b60b79">release-lambda</item>
-  <threadpool id="66ce63">160.203.32.87</item>
-</root>

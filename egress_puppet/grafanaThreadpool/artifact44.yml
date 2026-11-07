@@ -1,7 +1,0 @@
-node:
-  - 115.94.102.2
-assets: false
-scripts:
-  - middleware
-dist: false
-upstream: 3738

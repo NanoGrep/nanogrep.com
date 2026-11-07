@@ -1,9 +1,0 @@
-mqtt: terraform
-router:
-  raid: false
-bench: 87878f4d5391a1e6676a3e364a90bfcd
-registry: 218.178.32.45
-role: 9d1f3405
-daemon:
-  terraform: false
-  switch: 32.29.18.161

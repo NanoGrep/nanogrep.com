@@ -1,5 +1,0 @@
-backup:
-  stream: snapshot-mirror
-  tools: crypto-user
-  storage: failover
-  threadpool: false

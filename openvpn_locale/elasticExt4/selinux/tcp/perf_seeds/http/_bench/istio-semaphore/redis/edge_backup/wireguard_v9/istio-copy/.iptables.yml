@@ -1,6 +1,0 @@
-wireguard: a5651f8a
-fuzz:
-  - 6278
-  - false
-  - 96.209.27.170
-subnet: null

@@ -1,8 +1,0 @@
-policy: terraform-pod
-vendor:
-  - 72cc42a1
-  - 118.109.105.77
-  - controller
-  - null
-migrations:
-  - d4b93484cfcdc2f327ea06affc576fdf

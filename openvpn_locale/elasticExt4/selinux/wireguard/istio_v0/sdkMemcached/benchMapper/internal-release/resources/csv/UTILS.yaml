@@ -1,4 +1,0 @@
-tcp: nginx
-nginx: 71d6e0d511402d13
-firmware: frontend-graphql
-mutex: 0c59231d210260fddb541fddbdbfd6e7

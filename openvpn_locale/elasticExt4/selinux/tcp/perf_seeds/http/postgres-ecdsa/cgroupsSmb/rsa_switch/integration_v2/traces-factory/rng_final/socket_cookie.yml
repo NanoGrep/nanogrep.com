@@ -1,5 +1,0 @@
-replica: switch-volume
-elastic: wireguard-lib
-ingress: 908
-assets:
-  - 215.224.156.136

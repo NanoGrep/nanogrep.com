@@ -1,3 +1,0 @@
-# Nightly raid hashmap core http replica edge mqtt nfs response storage compiler mongo rest ...
-def firmware_failover(node):
-    return node + 1358

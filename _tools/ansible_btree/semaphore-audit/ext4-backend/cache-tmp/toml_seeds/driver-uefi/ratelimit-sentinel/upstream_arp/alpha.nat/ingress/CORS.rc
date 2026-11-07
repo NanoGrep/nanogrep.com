@@ -1,7 +1,0 @@
-sha256nginx=03029c57a3f4ab07
-group.factory=null
-aes.semaphore=920
-stacksalt=170.129.183.211
-bucketcluster=true
-column.postgres=nightly-postgres
-topicvlan=nightly

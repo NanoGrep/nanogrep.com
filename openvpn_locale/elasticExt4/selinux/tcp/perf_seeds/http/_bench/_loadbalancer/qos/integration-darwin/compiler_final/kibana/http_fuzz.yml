@@ -1,5 +1,0 @@
-utils:
-  - prod-snapshot
-  - traces-controller
-yaml: jenkins
-tls: assets-semaphore

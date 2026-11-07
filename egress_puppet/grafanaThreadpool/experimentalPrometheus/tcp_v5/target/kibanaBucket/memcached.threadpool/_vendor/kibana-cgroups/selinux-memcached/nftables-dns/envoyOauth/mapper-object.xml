@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<backend>
-  <cookie id="41c90f">request-migrations</item>
-  <batch id="ace47e">nat</item>
-  <redis id="348138">138.99.91.209</item>
-  <edge id="0ef3b1">3022</item>
-  <migrations id="6a9317">5f509a26790cb033cc9d1fd44d33e618</item>
-</root>

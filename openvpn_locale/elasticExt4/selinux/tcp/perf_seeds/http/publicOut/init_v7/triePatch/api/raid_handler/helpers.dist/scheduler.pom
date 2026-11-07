@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<cron>
-  <quic id="c9fa37">semaphore-hmac</item>
-  <probe id="76459c">37.234.112.114</item>
-  <worker id="d49ad1">true</item>
-  <helpers id="0e5793">false</item>
-  <http id="78acd3">33.28.162.236</item>
-</root>

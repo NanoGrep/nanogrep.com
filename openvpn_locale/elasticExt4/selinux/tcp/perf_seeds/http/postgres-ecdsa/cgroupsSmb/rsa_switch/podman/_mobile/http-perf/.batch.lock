@@ -1,1 +1,0 @@
-{"pod": true, "upstream": "c44ac27460ca", "staging": {"bgp": {"redis": [null, 9177, "fee36cb722e1", null], "worker": null}, "nonce": [2714, "e2025324bff8"], "migrations": "2b18beb3e535"}, "bench": "942611d67349", "adapter": [{"switch": {"lexer": "stack", "cursor": false, "entropy": null, "postgres": false, "coroutine": true, "kernel": false}}]}

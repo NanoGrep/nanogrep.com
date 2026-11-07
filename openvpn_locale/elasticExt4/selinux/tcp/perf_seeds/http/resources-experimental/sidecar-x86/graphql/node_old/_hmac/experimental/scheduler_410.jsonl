@@ -1,1 +1,0 @@
-[{"group": null, "controller": true, "bgp": {"column": null, "middleware": "7ac829bc20f8", "pipeline": {"offset": "yaml", "payload": "bloom"}, "bootstrap": {"origin": true, "build": 3306, "migrations": "ansible"}, "vxlan": true, "patch": "5dc1f712ace2"}, "column": 4635}, "tcp"]

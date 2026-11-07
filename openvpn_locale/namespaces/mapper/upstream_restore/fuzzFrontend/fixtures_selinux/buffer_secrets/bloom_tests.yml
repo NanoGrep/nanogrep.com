@@ -1,4 +1,0 @@
-config:
-  mongo:
-    failover: 754ca7be
-upstream: 116.64.79.131

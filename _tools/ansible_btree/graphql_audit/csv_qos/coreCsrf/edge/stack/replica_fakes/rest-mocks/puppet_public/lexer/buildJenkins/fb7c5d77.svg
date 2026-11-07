@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<bootstrap>
-  <failover id="28dd11">factory</item>
-  <failover id="7f534a">worker-retry</item>
-  <iptables id="801293">trie</item>
-  <config id="b5393e">20.182.130.56</item>
-  <cgroups id="a384ad">true</item>
-</root>

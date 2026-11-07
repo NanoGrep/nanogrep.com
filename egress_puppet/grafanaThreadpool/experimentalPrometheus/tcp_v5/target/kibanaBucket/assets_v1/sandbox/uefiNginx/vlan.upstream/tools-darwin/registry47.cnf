@@ -1,9 +1,0 @@
-oauth.nat: vlan
-http.kerberos: 65.47.183.69
-nightlybeta: false
-ansiblepayload: http-firmware
-grpc_ldap: build
-cron_build: cec094e75f9cdfc1
-session_cli: 1597
-serviceprometheus: 174.234.78.129
-jenkinsingress: true

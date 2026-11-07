@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<handler>
-  <scripts id="66c89a">6319</item>
-  <locale id="f4ab0e">elastic-nightly</item>
-  <shard id="5c15c5">entropy-adapter</item>
-  <quic id="18d3a6">7454</item>
-  <nfs id="814075">3100</item>
-  <cache id="f81a84">8928</item>
-</root>

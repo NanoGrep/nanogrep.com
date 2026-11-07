@@ -1,0 +1,10 @@
+{
+  "alias": "NanoGrep",
+  "intro": "Sysadmin y analista de ciberseguridad defensiva. En el blog documento laboratorios, configuraciones y lo que aprendo por el camino.",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/NanoGrep", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/asier-fern%C3%A1ndez", "icon": "linkedin" },
+    { "label": "Hack The Box", "url": "https://profile.hackthebox.com/profile/01a1b603-dd7a-7012-969c-0521972c7c8e", "icon": "hackthebox" },
+    { "label": "TryHackMe", "url": "https://tryhackme.com/p/NanoGrep", "icon": "tryhackme" }
+  ]
+}

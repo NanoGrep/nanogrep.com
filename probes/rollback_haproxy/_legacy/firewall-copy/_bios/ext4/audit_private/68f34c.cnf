@@ -1,6 +1,0 @@
-tests.ceph: 206.6.168.239
-payloadloader: true
-cert.yaml: factory
-confignode: true
-worker_index: false
-vlan_fixtures: a9e91b4af804ef2ee57dc6fbc91b6b86

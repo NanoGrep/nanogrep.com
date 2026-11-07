@@ -1,7 +1,0 @@
-artifact: 3375
-lexer: e0d30b72
-backend:
-  - lexer
-  - factory-jenkins
-  - tools-beta
-column: fe142c6ecf84c80b6f1b7066ef386d73

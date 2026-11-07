@@ -1,5 +1,0 @@
-[btree]
-upstream.sha256 = b937dfdc16c3e1c8
-grafana_adapter = 8115e3b1dfb822174a331dfd3aed2290
-coroutineindex = stack-logs
-jwt_stream = tests-upstream

@@ -1,6 +1,0 @@
-tenant: 1746
-ingress: d4b9ceab0ca5dd65
-schema: scope
-scope: 228.134.169.163
-terraform:
-  lexer: 218.111.66.22

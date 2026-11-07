@@ -1,6 +1,0 @@
-proxy: 206.6.34.165
-templates: 137.60.232.225
-logs: 230.199.180.110
-pipeline: canary
-artifact: 1587
-failover: false

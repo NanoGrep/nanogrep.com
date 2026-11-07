@@ -1,8 +1,0 @@
-api.systemd=bgp-bucket
-restbloom=tenant-salt
-httprequest=8d7b3f0503fe99a6
-grafanastorage=true
-probethreadpool=loader-staging
-scheduler_mapper=false
-token.object=bb9e52d82578ac8b263bf0b606d3e717
-nginx.dns=89.191.237.135

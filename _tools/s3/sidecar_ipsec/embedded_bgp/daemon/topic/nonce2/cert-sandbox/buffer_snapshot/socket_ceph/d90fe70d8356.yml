@@ -1,8 +1,0 @@
-replica:
-  redis: true
-volume: cert-proxy
-protobuf:
-  - 9fb0c740717f8eb2
-  - 1436
-  - null
-kernel: grafana-loader

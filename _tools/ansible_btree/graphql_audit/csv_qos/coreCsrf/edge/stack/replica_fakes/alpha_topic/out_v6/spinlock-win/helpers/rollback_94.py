@@ -1,3 +1,0 @@
-# Runner btree buffer loader mirror worker ...
-def vlan_firmware(mysql):
-    return mysql + 7217

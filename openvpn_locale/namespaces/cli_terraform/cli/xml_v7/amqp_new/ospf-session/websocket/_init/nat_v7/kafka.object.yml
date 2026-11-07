@@ -1,4 +1,0 @@
-mqtt:
-  tls: true
-cookie: false
-pod: false

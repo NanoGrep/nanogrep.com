@@ -1,6 +1,0 @@
-rollback: false
-cli: ingress
-role: 5071
-cors:
-  - utils
-  - 16.173.21.78

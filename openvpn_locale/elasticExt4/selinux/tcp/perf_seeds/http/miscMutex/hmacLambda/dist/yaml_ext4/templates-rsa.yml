@@ -1,4 +1,0 @@
-systemd:
-  - null
-  - payload
-worker: 8611

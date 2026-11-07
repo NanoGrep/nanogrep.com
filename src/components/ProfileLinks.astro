@@ -1,0 +1,90 @@
+---
+/**
+ * Home "Profiles": one tile per link in profile.json.
+ * The whole tile is the link; its name gets the match block on hover/focus.
+ */
+import SocialIcon from "./SocialIcon.astro";
+import { profile } from "../lib/profile";
+---
+
+<ul class="profiles" role="list" data-fx-hide>
+  {
+    profile.links.map((link) => (
+      <li>
+        <a href={link.url} target="_blank" rel="noopener noreferrer" class="profile reveal">
+          <SocialIcon name={link.icon} size={28} />
+          <span class="profile-name match" lang="en">
+            <span class="match-text">{link.label}</span>
+          </span>
+          <span class="profile-ext">
+            ↗<span class="sr-only-focusable" lang="en"> (opens in a new tab)</span>
+          </span>
+        </a>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .profiles {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--grid-gutter);
+  }
+
+  /* As many columns as profiles fit, so 3 or 4 tiles always fill the row. */
+  @media (width >= 48rem) {
+    .profiles {
+      grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    }
+  }
+
+  .profile {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-s);
+    height: 100%;
+    padding: var(--spacing-l) var(--spacing-m);
+    border: 1px solid var(--color-rule);
+    color: var(--color-paper);
+    text-decoration: none;
+    transition: border-color var(--dur-micro) var(--ease-out);
+  }
+
+  .profile :global(.social-icon) {
+    margin-bottom: var(--spacing-xs);
+  }
+
+  .profile-name {
+    font-size: var(--text-heading);
+    line-height: var(--text-heading--line-height);
+    letter-spacing: var(--text-heading--letter-spacing);
+    font-weight: var(--text-heading--font-weight);
+  }
+
+  .profile-ext {
+    font-family: var(--font-mono);
+    font-size: var(--text-meta);
+    line-height: var(--text-meta--line-height);
+    color: var(--color-muted);
+  }
+
+  /* The tile is the hover target; only the name gets the block. */
+  .profile:focus-visible .profile-name::before {
+    transform: none;
+    transform-origin: left;
+    transition: transform var(--dur-micro) var(--ease-out);
+  }
+
+  @media (hover: hover) {
+    .profile:hover {
+      border-color: var(--color-line);
+    }
+    .profile:hover .profile-name::before {
+      transform: none;
+      transform-origin: left;
+      transition: transform var(--dur-micro) var(--ease-out);
+    }
+  }
+</style>

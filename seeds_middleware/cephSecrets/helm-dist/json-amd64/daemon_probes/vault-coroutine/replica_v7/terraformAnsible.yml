@@ -1,6 +1,0 @@
-switch: 42.245.83.44
-cron: c4698e480bc7484f97f207fca1da1fe5
-dhcp: tcp-prometheus
-rest: true
-ldap: watchdog
-node: 1612

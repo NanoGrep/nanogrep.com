@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<legacy>
-  <volume id="665e4e">17.76.70.94</item>
-  <raid id="efa86f">scripts</item>
-  <fixtures id="cb7611">traces-policy</item>
-  <snapshot id="589d12">controller</item>
-</root>

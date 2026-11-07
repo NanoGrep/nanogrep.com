@@ -1,6 +1,0 @@
-prometheus: patch-firmware
-failover:
-  - sandbox-vxlan
-  - 7400
-  - b015d677cb5810c1cf43c09a8fcc0eb6
-  - 2373cb830f29aca1

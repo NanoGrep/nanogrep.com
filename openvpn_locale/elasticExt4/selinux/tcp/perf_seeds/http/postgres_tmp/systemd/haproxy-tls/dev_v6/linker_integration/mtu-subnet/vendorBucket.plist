@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<firmware>
-  <offset id="24998f">7fe5b23401fbd2f0</item>
-  <nightly id="847de2">null</item>
-  <heap id="0cbc70">1649</item>
-  <buffer id="365448">2372</item>
-  <redis id="673171">221cb7d5</item>
-</root>

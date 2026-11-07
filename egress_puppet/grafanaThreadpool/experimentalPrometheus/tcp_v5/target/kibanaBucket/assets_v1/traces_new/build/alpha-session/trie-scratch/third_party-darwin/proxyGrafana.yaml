@@ -1,7 +1,0 @@
-threadpool: btree-socket
-sha256: ldap-pipeline
-salt: adapter-migrations
-canary: backend-cursor
-audit:
-  quic: false
-udp: 8249

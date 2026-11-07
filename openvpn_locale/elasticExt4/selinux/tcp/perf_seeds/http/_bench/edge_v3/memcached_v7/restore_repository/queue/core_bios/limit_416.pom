@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<backup>
-  <worker id="f7c8a8">quic</item>
-  <edge id="98e548">nginx</item>
-  <templates id="f77b32">11.198.228.177</item>
-  <tenant id="0eb4b5">198.11.61.64</item>
-  <middleware id="e8a107">40a6b805c8451a245e21de89232517e7</item>
-  <hotfix id="fba54c">cron</item>
-</root>

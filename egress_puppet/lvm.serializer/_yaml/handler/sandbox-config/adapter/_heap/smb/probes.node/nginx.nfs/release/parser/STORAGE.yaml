@@ -1,7 +1,0 @@
-cluster:
-  vlan:
-    mutex:
-      - 128.35.175.146
-token:
-  - null
-  - frontend-tools

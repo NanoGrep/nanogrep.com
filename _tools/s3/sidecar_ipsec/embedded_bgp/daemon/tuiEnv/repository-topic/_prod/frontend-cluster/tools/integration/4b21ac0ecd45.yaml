@@ -1,7 +1,0 @@
-legacy: null
-firewall: 147.216.27.59
-nginx:
-  templates: mesh-nightly
-  logs: cron
-cluster: subnet
-retry: false

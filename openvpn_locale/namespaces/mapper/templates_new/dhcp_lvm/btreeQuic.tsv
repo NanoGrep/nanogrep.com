@@ -1,9 +1,0 @@
-token,switch,crypto,ansible,nightly,cursor,cli
-artifact-router,null,17.65.102.67,205.157.43.171,true,40.72.97.67,threadpool
-122.228.22.220,cert-probe,11.237.227.241,6245a4aeb98763cd4f3df33521d7c267,kerberos-stack,token-watchdog,3fcf539f
-6230,57.166.64.142,7953,64.227.213.48,49f9e9bfb6cddba3d6726c596d53e930,0a99f218ab490902,54.227.195.141
-8b1dee49f2c34f05,null,2d24092778f5ea04d2fd21670a62d8fc,oauth,d7b5a7660b829db3,33137ca0ccc42fc7f7e32d5119b14fee,1268
-null,b8a1dcb4,true,false,966,4506,true
-246.102.120.23,mocks,false,rollback,null,false,2520
-pipeline,true,245.173.64.134,patch-ansible,null,a5965003,5487671a
-152.173.161.131,false,1531,nfs-user,193.104.240.39,bgp,worker-lambda

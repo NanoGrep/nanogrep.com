@@ -1,1 +1,0 @@
-{"envoy": {"pipeline": false, "user": {"iptables": "7d8cf4d3f53f", "traces": ["91c7e42174f4"], "cert": true, "mocks": 3802, "shard": {"tls": "f2f49175e0be", "mysql": "trie"}, "token": false}, "controller": {"protobuf": {"threadpool": true, "edge": true, "topic": false, "bench": true, "batch": false}, "object": "aes", "kernel": true, "vlan": false}}}

@@ -1,9 +1,0 @@
-bloom: 00724323
-vendor: socket-controller
-nginx:
-  session: nightly
-policy:
-  - 5f823270
-  - true
-  - topic-common
-  - 1304

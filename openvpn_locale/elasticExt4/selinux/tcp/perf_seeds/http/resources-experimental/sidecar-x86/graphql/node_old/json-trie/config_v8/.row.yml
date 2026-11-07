@@ -1,7 +1,0 @@
-mysql: 104.112.90.150
-aes: 63.213.25.213
-nat: middleware-index
-subnet: 542c67562da0b480
-group:
-  fixtures: json-migrations
-zfs: 111.130.200.222

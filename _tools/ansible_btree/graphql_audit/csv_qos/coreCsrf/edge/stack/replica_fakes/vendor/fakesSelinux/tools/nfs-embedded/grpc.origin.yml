@@ -1,9 +1,0 @@
-group:
-  tests: 5673
-  backup: 9328
-  threadpool: 2752
-replica: null
-watchdog: 343933fcb6db4fed
-api: stack
-service: 0b965222
-graphql: true

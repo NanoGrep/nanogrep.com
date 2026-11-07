@@ -1,8 +1,0 @@
-cli,column,index,ingress,jenkins
-retry-dns,tests,policy,group-http,97abfc36
-3816d593,prod-hotfix,env,1d526a316f71fd19,2fdb77486003a357
-3524,true,f1ceb8ae641f5c84f57e797cf7b91a98,7775,grpc-iptables
-cache-compiler,9923,null,dhcp-prometheus,false
-d494b2f469017cb73d7d54c65271f694,124e65fbbe39e5c3490609cc45ad0108,13.217.234.26,26.47.58.250,4b34de1f
-31829f0824f322b47d04800f002b4519,mocks,8125,row-tools,pipeline
-6791,4724,22.39.112.41,5839,group-vlan

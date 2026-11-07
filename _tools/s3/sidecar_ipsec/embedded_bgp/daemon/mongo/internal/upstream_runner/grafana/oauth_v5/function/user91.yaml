@@ -1,5 +1,0 @@
-snapshot:
-  - 191.164.120.9
-cron: 5678
-mocks: ansible
-mutex: false

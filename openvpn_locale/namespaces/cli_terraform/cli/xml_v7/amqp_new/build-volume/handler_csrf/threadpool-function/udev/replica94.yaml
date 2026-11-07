@@ -1,5 +1,0 @@
-threadpool: jenkins
-retry: 2995
-btree: 144.180.106.69
-ansible: entropy
-bloom: 6008

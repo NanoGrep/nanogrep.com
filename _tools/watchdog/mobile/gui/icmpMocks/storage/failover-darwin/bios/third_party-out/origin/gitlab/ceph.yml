@@ -1,4 +1,0 @@
-watchdog: true
-protobuf:
-  env: release-aes
-  sandbox: null

@@ -1,6 +1,0 @@
-volume: 6014a7ee32a6a7d7aae0792c7afe6b3f
-adapter: cron-ingress
-common:
-  - bf3994ed5636cf3e
-wireguard: 76063016
-jwt: 940c720cb14565b5897e4ebf651a98d8

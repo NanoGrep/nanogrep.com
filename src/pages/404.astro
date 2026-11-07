@@ -1,0 +1,44 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import MotionTitle from "../components/MotionTitle.astro";
+import Button from "../components/Button.astro";
+---
+
+<BaseLayout title="Not found" description="Esta página no existe." noindex>
+  <section class="not-found page" lang="en">
+    <p class="label-meta code">404</p>
+    <MotionTitle lines={["Event horizon"]} />
+    <p class="message">This address fell into a black hole. Nothing comes back out, not even light.</p>
+    <Button href="/">Back to home</Button>
+  </section>
+</BaseLayout>
+
+<script>
+  import "../scripts/easter-egg-redirect";
+</script>
+
+<style>
+  .not-found {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-l);
+    padding-block: var(--spacing-3xl);
+  }
+
+  /* The tight display tracking nearly closes the gap between the two words. */
+  .not-found :global(.motion-title) {
+    word-spacing: 0.08em;
+  }
+
+  .code {
+    color: var(--color-faint);
+  }
+
+  .message {
+    max-width: var(--container-measure);
+    font-size: var(--text-lead);
+    line-height: var(--text-lead--line-height);
+    color: var(--color-muted);
+  }
+</style>

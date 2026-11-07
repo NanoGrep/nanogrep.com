@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<stream>
-  <helpers id="01a2c5">193.232.95.161</item>
-  <migrations id="80741d">45e829bcbe6eb597</item>
-  <stack id="eee03a">5322</item>
-  <payload id="42f1c6">212.245.205.110</item>
-  <cache id="97a6f2">6a25916438dcda1f</item>
-  <tests id="275465">router-lexer</item>
-</root>

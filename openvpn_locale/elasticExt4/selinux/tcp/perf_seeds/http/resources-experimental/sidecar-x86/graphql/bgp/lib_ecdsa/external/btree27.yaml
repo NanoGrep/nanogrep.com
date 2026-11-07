@@ -1,9 +1,0 @@
-batch: ceph
-subnet:
-  zfs: metrics-locale
-  regex: 8d7571224409a5ef
-  bgp: 119.191.196.212
-  dns:
-    user: false
-  protobuf: 9868
-protobuf: false

@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<env>
-  <gateway id="bd570d">stream-fixtures</item>
-  <pipeline id="e2152c">408afe30</item>
-  <gateway id="d91e5e">61.126.116.122</item>
-  <cert id="e45b02">frontend-worker</item>
-</root>

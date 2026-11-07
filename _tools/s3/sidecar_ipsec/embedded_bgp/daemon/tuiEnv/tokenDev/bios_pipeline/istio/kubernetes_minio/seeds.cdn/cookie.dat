@@ -1,7 +1,0 @@
-kernel,sandbox,nonce,vault
-replica-bgp,false,group,229.247.138.172
-mapper,8160,cluster,214.217.201.75
-user,2475,34cccb197c9d1aca,mongo
-42.135.149.12,core,16b506d7,true
-true,adapter-kerberos,f447123f2347da5d,c50b02f98a7f1535910214bb99432ee0
-index-threadpool,235.187.96.30,policy,27.20.197.172

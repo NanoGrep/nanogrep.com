@@ -1,8 +1,0 @@
-{
-  "policy": "socket",
-  "artifact": false,
-  "crypto": "c973a4498e27",
-  "release": {
-    "migrations": true
-  }
-}

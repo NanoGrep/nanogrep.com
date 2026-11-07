@@ -1,8 +1,0 @@
-iptables: 6445
-tls:
-  cache: column
-metrics:
-  backend: 66.186.179.197
-offset: heap
-redis: cors
-salt: threadpool-semaphore

@@ -1,7 +1,0 @@
-object: 7270
-scheduler:
-  lambda: fb1111d8f8a2fa9897ec6f401a3b0a53
-  nginx:
-    - 5946
-    - 6934
-threadpool: false

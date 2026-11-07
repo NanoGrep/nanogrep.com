@@ -1,4 +1,0 @@
-lib:
-  prod: prometheus-kernel
-  gateway: 74.94.225.75
-  compiler: null

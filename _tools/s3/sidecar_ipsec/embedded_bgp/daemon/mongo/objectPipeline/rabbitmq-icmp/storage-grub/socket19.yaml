@@ -1,9 +1,0 @@
-prod: bootstrap-mirror
-dhcp:
-  - false
-  - audit-watchdog
-  - true
-cgroups: hmac
-nfs: null
-driver: lambda
-kernel: failover-response

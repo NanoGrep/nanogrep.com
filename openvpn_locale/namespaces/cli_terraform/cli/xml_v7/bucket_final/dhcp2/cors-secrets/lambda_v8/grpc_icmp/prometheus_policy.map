@@ -1,1 +1,0 @@
-{"kernel": true, "sha256": null, "handler": [], "traces": [{"driver": {"api": true}, "api": "c4f022aa34e6", "mocks": {"threadpool": null, "sandbox": "2a998e96229c", "config": null, "bloom": false}, "rsa": false, "mesh": {"sdk": true, "proxy": null, "rollback": "edge", "bgp": false, "factory": true, "response": "f22f76479e33"}, "dist": ["sandbox"]}]}

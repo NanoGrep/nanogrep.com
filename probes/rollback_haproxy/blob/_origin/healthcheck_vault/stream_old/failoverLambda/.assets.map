@@ -1,1 +1,0 @@
-{"zfs": "scripts", "migrations": "helm", "mocks": {"postgres": [[false], "api", {"tenant": "9bc261028fcc", "lambda": false, "assets": 4899, "row": false, "table": "8c05d9f6a394", "udp": null}], "graphql": true, "metrics": 4626}}

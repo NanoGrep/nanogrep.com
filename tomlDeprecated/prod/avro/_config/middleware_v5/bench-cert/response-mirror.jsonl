@@ -1,1 +1,0 @@
-{"bgp": true, "parser": {"mapper": null, "quic": [4479, [false, "api"], [true, true, "scope"], {"upstream": null, "rest": true, "shard": true, "scripts": false, "legacy": "cache"}]}}

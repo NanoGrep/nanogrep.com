@@ -1,5 +1,0 @@
-cron:
-  - true
-  - vxlan
-  - 1613
-  - 250

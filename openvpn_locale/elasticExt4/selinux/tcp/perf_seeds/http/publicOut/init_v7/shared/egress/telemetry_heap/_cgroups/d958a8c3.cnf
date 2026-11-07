@@ -1,6 +1,0 @@
-[lib]
-roleprobe = 5b60a3ea728bed04
-failoverenv = 6cb31aef1ff3cf32f9eb9f9416e99f38
-sha256json = 4999
-nat_scripts = false
-locale_ceph = middleware-mirror

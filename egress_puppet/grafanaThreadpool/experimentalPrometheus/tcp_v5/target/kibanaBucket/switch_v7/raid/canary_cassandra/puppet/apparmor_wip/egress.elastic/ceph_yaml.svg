@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<templates>
-  <vxlan id="79a016">1fcab79bccf0f1d8</item>
-  <registry id="4b7cef">7ef82aff5094f1af2d265408f96a4064</item>
-  <vxlan id="7f6ce2">3338</item>
-  <mirror id="4f5f8a">threadpool-offset</item>
-  <scheduler id="bb6eec">utils-ceph</item>
-</root>

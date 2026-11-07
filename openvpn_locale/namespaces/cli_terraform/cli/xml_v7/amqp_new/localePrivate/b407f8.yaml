@@ -1,9 +1,0 @@
-probe:
-  replica: 7496
-  sandbox: loader-mesh
-  entropy: 66.117.57.181
-  driver:
-    fixtures: cert-retry
-    legacy: abefb4c4bb10d8d7
-  jwt: 142.27.72.20
-  mirror: f911cd92

@@ -1,4 +1,0 @@
-oauth: 73b3629ecf03fdf5e5ac4a7576d545b4
-kernel:
-  entropy: utils
-  token: artifact-cron

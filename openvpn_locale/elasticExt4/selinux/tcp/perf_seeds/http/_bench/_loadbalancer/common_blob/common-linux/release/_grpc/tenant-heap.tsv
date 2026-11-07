@@ -1,7 +1,0 @@
-nat,bucket,entropy,parser,mapper,elastic,hotfix
-37122595d1b7e786,helm-switch,true,true,nginx,2867,6441
-true,cgroups,redis,efcc9081b33848feefc76dba62d4defe,locale-payload,true,true
-2768,subnet-token,38.82.124.30,true,true,2379,4b3616e21a5b56b15fd0ad21b9c349ff
-171.9.119.76,null,vxlan,e144624bee6b4994,23835af87817df1fde5172c7b95d4bc7,user,vlan-backend
-true,3292,184.168.163.97,index-raid,21371579,true,udp
-32.111.76.41,jenkins-nginx,7678,7590,parser-nightly,true,cbcfe5ed

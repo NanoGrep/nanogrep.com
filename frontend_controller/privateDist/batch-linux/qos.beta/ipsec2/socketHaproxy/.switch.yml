@@ -1,8 +1,0 @@
-vendor:
-  runner: 7a8b2197b3f48f1e08f639a6cc28db24
-  json: 5825
-  nat: aes
-bootstrap: 4414
-shard: 101.135.51.132
-coroutine: redis-cron
-terraform: envoy-rollback

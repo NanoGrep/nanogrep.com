@@ -1,9 +1,0 @@
-bloom,scripts,build,rest,user
-1465,build,72.127.114.68,10.38.108.66,jenkins
-mutex-salt,true,104.131.145.234,8.208.168.228,true
-150.154.136.187,cluster,object,volume,233.84.104.114
-adbaf5ed2ffb7ebb09d36abac871fa9b,false,9049,4357,api
-role,true,mesh-router,4178,3359
-null,true,211.174.207.197,salt-mapper,null
-4138,false,null,39.106.52.29,96d159ca26073f17
-120.181.189.63,698dfe34b30523edbab07db794f9f8bb,163.11.64.14,511b5b19,sdk

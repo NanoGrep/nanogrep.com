@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<traces>
-  <core id="d4b329">index</item>
-  <failover id="89c6f4">subnet</item>
-  <assets id="3adc19">envoy-ansible</item>
-  <wireguard id="f3b0e9">7833</item>
-  <envoy id="1e1fed">proxy</item>
-</root>

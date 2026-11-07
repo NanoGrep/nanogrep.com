@@ -1,6 +1,0 @@
-retry: 109.58.15.37
-proxy: null
-migrations: http
-mongo:
-  wireguard: group-node
-http: config

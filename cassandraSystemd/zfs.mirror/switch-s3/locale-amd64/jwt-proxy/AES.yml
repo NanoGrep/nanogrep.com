@@ -1,6 +1,0 @@
-nightly:
-  websocket: 1432
-sdk: faff4e08
-edge:
-  - 54.2.187.95
-ldap: 110.49.44.74

@@ -1,1 +1,0 @@
-[[{"templates": {"zfs": "postgres"}, "middleware": {"stream": false}}, true, {"aes": {"mirror": false, "wireguard": "186dc63f9824", "rollback": "fcaa4f2dc311", "pipeline": null, "audit": true}, "bucket": {"cluster": "9acf4ee6bfa0", "zfs": 2616}}, 8274], true, 5616]

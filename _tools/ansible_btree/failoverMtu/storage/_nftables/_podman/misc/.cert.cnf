@@ -1,7 +1,0 @@
-role.release: false
-cliwebsocket: subnet
-hmac_mapper: 92.225.105.127
-vlan.nonce: dd63180e7c903b0c
-probe_helm: 134.125.148.164
-canary.table: 31e8bc659bcb1ce8b0a5c8273ceba36c
-wireguard.threadpool: 240.73.156.131

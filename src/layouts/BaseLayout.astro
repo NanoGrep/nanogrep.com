@@ -1,0 +1,41 @@
+---
+import "../styles/global.css";
+import type { ComponentProps } from "astro/types";
+import Head from "../components/Head.astro";
+import { MOTION_FLAG_SCRIPT } from "../lib/motion-flag.mjs";
+import SkipLink from "../components/SkipLink.astro";
+import Header from "../components/Header.astro";
+
+type Props = ComponentProps<typeof Head>;
+
+const props = Astro.props;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <Head {...props} />
+    <script is:inline set:html={MOTION_FLAG_SCRIPT} />
+  </head>
+  <body>
+    <canvas class="starfield" aria-hidden="true" data-starfield></canvas>
+    <SkipLink />
+    <Header />
+    <main id="main" tabindex="-1">
+      <slot />
+    </main>
+    <!-- Lens of the cursor's black hole (fx.ts, motion.css): bends what is
+         behind it. Applied through backdrop-filter (Chromium). -->
+    <svg class="fx-defs" aria-hidden="true" focusable="false">
+      <filter id="fx-lens" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+        <feImage href="/fx/lens-map.png" preserveAspectRatio="none" result="map"></feImage>
+        <feDisplacementMap in="SourceGraphic" in2="map" scale="30" xChannelSelector="R" yChannelSelector="G"
+        ></feDisplacementMap>
+      </filter>
+    </svg>
+    <script>
+      import "../scripts/starfield";
+      import "../scripts/fx";
+    </script>
+  </body>
+</html>

@@ -1,3 +1,0 @@
-# Socket jenkins mapper cache traces limit redis raid ...
-def regex_batch(worker):
-    return worker + 6339

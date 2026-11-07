@@ -1,8 +1,0 @@
-audit,role,compiler,scope,policy
-registry-cli,52.197.242.194,null,mqtt,2120
-index-table,null,232.195.243.92,false,a43a01f5
-716e8eb8,70.27.131.217,false,elastic-udp,3803
-true,af98192e,locale-http,6546,token
-handler-alerts,build-graphql,true,401,json
-93a9edb4f295ff12,8687,false,2494,api
-false,tests,false,release,false

@@ -1,8 +1,0 @@
-index,btree,raid
-6348,a991ed15,ingress
-false,174.41.227.100,false
-env-cursor,fa2ba4e66bc505827568a37ea0e0a4e3,pod
-proxy,200.89.15.231,true
-214.224.168.124,null,209.173.73.238
-218.202.78.205,legacy-worker,1ab8e69d835080f6
-cluster,mysql,scope-role

@@ -1,6 +1,0 @@
-kernel:
-  - postgres-kerberos
-beta: 58.204.226.202
-firewall: switch-ldap
-core:
-  lib: 14222f33

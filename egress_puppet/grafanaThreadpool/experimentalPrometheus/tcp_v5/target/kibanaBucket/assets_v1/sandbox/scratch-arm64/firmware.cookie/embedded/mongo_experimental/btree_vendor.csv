@@ -1,6 +1,0 @@
-subnet,bgp,patch,lib,env,raid
-a3323a721638c867,116.48.96.84,2232,dns,runner-compiler,false
-true,2b8de12e77c07f43ee32800d46f2b050,9187,false,false,4375
-salt,true,false,0d2ec772,runner-scripts,201.203.231.126
-e0fa96bb,18.19.17.151,backup,null,9086,7e577a5e
-668,1428,171.49.165.221,retry,3123,4139

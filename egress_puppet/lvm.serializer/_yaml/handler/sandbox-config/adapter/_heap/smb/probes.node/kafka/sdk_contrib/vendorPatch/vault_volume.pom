@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<nightly>
-  <api id="b6af9c">160.135.20.137</item>
-  <shard id="84a9ad">false</item>
-  <grafana id="f35869">6e1adf75</item>
-  <legacy id="f65d29">true</item>
-  <api id="8160e1">244.18.35.250</item>
-  <controller id="01eaed">1348</item>
-</root>

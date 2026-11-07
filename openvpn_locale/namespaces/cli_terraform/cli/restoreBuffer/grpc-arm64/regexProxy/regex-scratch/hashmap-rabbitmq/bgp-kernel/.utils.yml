@@ -1,6 +1,0 @@
-firewall: group
-coroutine:
-  row: 12ab65c6
-  logs: null
-  nonce: 168.96.179.189
-entropy: vlan-coroutine

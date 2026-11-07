@@ -1,6 +1,0 @@
-{
-    "tcp": {
-        "upstream": "4eb4d417da99"
-    },
-    "kerberos": false
-}

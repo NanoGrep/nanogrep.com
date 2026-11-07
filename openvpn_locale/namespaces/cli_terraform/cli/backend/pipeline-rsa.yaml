@@ -1,6 +1,0 @@
-origin: 104.21.153.118
-mutex: router-iptables
-nightly:
-  watchdog: 57.39.41.73
-cron: subnet-parser
-build: edge

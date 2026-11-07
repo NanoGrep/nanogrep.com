@@ -1,3 +1,0 @@
-# Mirror buffer nightly policy ...
-def nat_controller(mesh):
-    return mesh + 1281

@@ -1,7 +1,0 @@
-cert:
-  payload:
-    vxlan:
-      - 7bfeed6fb718b14b
-      - 248.78.105.5
-    cluster: 144.214.103.222
-  envoy: 9489

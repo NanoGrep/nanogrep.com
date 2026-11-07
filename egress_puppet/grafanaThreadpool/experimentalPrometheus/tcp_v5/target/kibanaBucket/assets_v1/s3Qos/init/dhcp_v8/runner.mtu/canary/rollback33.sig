@@ -1,4 +1,0 @@
-graphql
-9PNRhQqLW9QbX04qRVc=
-salt
-49b0d716c82a24900809c8ab213578401

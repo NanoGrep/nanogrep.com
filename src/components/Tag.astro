@@ -1,0 +1,36 @@
+---
+import { tagUrl } from "../lib/posts";
+
+interface Props {
+  tag: string;
+  current?: boolean;
+  /** Expose the tag to Pagefind as a "tag" filter (post pages). */
+  searchFilter?: boolean;
+}
+
+const { tag, current = false, searchFilter = false } = Astro.props;
+---
+
+<a
+  href={tagUrl(tag)}
+  class:list={["tag match", current ? "is-on" : "match-hover"]}
+  aria-current={current ? "page" : undefined}
+>
+  <span class="match-text" data-pagefind-filter={searchFilter ? "tag" : undefined}>{tag}</span>
+</a>
+
+<style>
+  .tag {
+    display: inline-block;
+    padding: var(--spacing-3xs) var(--spacing-xs);
+    border: 1px solid var(--color-line);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    line-height: 1.4;
+    text-decoration: none;
+  }
+
+  .tag::before {
+    inset: -1px;
+  }
+</style>

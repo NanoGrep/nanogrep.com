@@ -1,7 +1,0 @@
-snapshot: 115.17.13.29
-nfs:
-  - jwt-heap
-  - vxlan
-  - 794051429faafc79a1064f0de64d522a
-  - 642fb7cd9ece929d
-bgp: wireguard

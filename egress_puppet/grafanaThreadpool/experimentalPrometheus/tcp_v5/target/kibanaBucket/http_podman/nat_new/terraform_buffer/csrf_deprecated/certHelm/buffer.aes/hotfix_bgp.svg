@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<watchdog>
-  <grafana id="3a394c">9367</item>
-  <token id="dbc95d">8f5b7dae</item>
-  <mesh id="18408c">batch</item>
-  <snapshot id="5f043c">4216a26b751f6fcb4569d91da1fea02b</item>
-  <lib id="306eff">4140</item>
-  <lib id="63a176">buffer-kerberos</item>
-</root>

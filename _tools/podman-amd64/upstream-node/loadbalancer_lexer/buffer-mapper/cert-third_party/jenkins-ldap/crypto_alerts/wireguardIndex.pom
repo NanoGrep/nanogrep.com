@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<terraform>
-  <proxy id="ff3969">b5d4c9182bbbebfb9f171a4719271ff1</item>
-  <controller id="b48620">146.206.163.69</item>
-  <replica id="505b81">9c15b51b2feb1d762e6b2e0941f29865</item>
-  <dns id="cfc84d">logs-oauth</item>
-</root>

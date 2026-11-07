@@ -1,5 +1,0 @@
-token,ingress,cert
-sandbox-worker,true,staging
-firmware-pipeline,b0969f20afed238e,token-staging
-false,tenant,mysql
-session,shard,beta

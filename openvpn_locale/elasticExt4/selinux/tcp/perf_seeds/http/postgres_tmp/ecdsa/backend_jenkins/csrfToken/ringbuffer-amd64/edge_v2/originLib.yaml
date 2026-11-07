@@ -1,9 +1,0 @@
-handler: snapshot-fuzz
-config: 4382
-nat:
-  - origin
-mesh:
-  - traces
-  - redis
-  - false
-  - 124.208.167.45

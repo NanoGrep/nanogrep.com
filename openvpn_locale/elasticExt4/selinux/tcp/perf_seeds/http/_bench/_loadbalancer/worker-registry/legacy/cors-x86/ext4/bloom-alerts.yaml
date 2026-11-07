@@ -1,4 +1,0 @@
-cron:
-  - true
-vxlan: 3628
-mirror: 117.108.116.165

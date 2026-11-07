@@ -1,5 +1,0 @@
-tests: 964cb7a13651a8e97161fac7acc7c823
-bench: 89.247.0.217
-bootstrap: dns
-nfs: ef49e983cc62a77d6f51b734f80472c5
-volume: alerts

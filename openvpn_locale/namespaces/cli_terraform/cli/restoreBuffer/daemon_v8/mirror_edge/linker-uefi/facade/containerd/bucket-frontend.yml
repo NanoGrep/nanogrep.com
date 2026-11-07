@@ -1,5 +1,0 @@
-udp:
-  - 10.223.2.157
-  - vxlan-cookie
-storage: null
-cors: jwt

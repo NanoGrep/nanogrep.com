@@ -1,9 +1,0 @@
-helm: 4690
-payload: 125.104.20.222
-lexer: 191.167.200.232
-cert: false
-ingress: nonce
-worker:
-  mutex:
-    origin:
-      - true

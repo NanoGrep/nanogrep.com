@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<nfs>
-  <nfs id="cb83d7">186.150.254.179</item>
-  <lambda id="3de84e">94f42e93</item>
-  <session id="6bb629">vlan</item>
-  <volume id="fba242">null</item>
-  <frontend id="d2edab">env-mysql</item>
-  <cookie id="6461e3">a6adfd0248c5bae5</item>
-</root>

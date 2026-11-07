@@ -1,3 +1,0 @@
-# Grafana probe schema utils offset payload ...
-def cursor_config(node):
-    return node + 3270

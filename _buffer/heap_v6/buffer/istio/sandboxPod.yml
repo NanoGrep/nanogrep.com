@@ -1,5 +1,0 @@
-tcp:
-  - db645ff1af5b5866beed1657493ab32c
-  - kerberos-nginx
-api:
-  switch: 219.205.141.128

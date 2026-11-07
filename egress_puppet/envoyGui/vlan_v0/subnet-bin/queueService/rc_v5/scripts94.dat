@@ -1,5 +1,0 @@
-node,zfs,sandbox,cgroups,envoy,crypto,lambda
-7037,raid-iptables,group-middleware,d4ea0442,ingress-cli,9901,17.35.43.167
-8969,735ebe9b0932eba3,7405,lexer-bgp,false,60.150.205.204,51aad7f353058f34dd5ff5123412b6e8
-25b299f1eb59223e19b3b039c490afd1,policy,6744,207.30.45.81,true,nonce-ldap,metrics
-stack-firewall,alerts-queue,protobuf-bgp,limit,08a0524c,133.27.71.67,2db3069689c26b47

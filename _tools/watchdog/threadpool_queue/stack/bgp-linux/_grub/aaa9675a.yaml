@@ -1,9 +1,0 @@
-env: core
-middleware:
-  - elastic-switch
-worker: null
-nfs:
-  - kafka
-  - 174.132.195.231
-  - nonce-protobuf
-topic: lambda

@@ -1,3 +1,0 @@
-# Request mapper tools core envoy artifact ...
-def probe_fixtures(regex):
-    return regex + 9319

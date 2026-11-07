@@ -1,8 +1,0 @@
-snapshot_token=firmware
-token.bloom=57.73.12.219
-entropytests=true
-alertsbootstrap=3494
-elasticentropy=6772
-quicpostgres=object
-websocket.tools=c433ade1
-vxlan_cert=false

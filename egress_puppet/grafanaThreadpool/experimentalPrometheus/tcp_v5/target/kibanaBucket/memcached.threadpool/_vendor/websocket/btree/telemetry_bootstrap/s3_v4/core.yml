@@ -1,9 +1,0 @@
-mongo:
-  jenkins: 9702
-  artifact:
-    - 2276
-    - salt-user
-    - ac49c10d24f7aa5ae97ae9b2bf407e16
-    - 2122
-  logs: 2691
-cors: shard

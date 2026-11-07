@@ -1,9 +1,0 @@
-salt,config,tools,worker,subnet,redis
-controller-locale,queue-failover,cluster,156.173.22.69,57.145.45.63,6805
-191.25.6.68,9567,56.143.141.28,1a8d2b706a7d5fbca49f8caec86b3de0,zfs,226
-223.115.232.98,true,52814ca2b8c58bde,8731,middleware,4638
-a8ddb3b65cbccaf29fc01c437ba139e3,9038,alerts-oauth,true,protobuf,grafana-lib
-null,143.114.187.234,null,62986e58dec6e225,true,volume-entropy
-common,helpers,409d8c72,hashmap,gateway,null
-faacc343,e720b2c5d4143c244fafb0b96156a570,null,db007cf2903462ca0e824f549bf7433b,125.226.236.90,offset
-legacy-worker,143.56.162.252,null,lambda,vendor-semaphore,true

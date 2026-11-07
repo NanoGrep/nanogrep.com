@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<regex>
-  <envoy id="6fb9f6">tls</item>
-  <factory id="dc2ade">patch</item>
-  <yaml id="8b52d6">6465</item>
-  <ceph id="684b04">2bba9f37</item>
-  <regex id="15797a">false</item>
-</root>

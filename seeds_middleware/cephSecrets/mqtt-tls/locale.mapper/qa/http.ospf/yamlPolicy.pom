@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<driver>
-  <ingress id="bc05ea">ae9b1afe</item>
-  <kerberos id="267e1e">lambda</item>
-  <user id="5a1a6b">a21c5762</item>
-  <cors id="f417d3">firmware</item>
-  <prometheus id="9d7c75">false</item>
-  <snapshot id="e580ee">threadpool</item>
-</root>

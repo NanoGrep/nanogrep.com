@@ -1,4 +1,0 @@
-config.ingress: 92.75.196.237
-ingress_gateway: null
-envoy_column: 41a17be38e7a70ee400be67d2f43f9ac
-cache_redis: helm-driver

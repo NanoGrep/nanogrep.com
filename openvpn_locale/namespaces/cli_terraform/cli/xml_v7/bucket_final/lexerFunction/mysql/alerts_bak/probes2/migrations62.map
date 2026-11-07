@@ -1,7 +1,0 @@
-{
-    "nginx": {
-        "backup": false,
-        "service": "jwt"
-    },
-    "nonce": false
-}

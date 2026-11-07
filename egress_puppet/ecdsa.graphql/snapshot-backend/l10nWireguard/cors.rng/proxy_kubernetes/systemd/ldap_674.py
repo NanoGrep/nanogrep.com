@@ -1,3 +1,0 @@
-# Bootstrap graphql origin redis btree vxlan ...
-def sdk_semaphore(pod):
-    return pod + 5139

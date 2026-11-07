@@ -1,7 +1,0 @@
-{
-    "common": {
-        "watchdog": true,
-        "crypto": null
-    },
-    "nfs": 6562
-}

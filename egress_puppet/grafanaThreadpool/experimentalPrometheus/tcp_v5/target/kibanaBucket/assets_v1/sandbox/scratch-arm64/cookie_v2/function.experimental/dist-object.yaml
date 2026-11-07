@@ -1,4 +1,0 @@
-mqtt:
-  iptables: vault-ldap
-response: common
-token: 68.196.206.229

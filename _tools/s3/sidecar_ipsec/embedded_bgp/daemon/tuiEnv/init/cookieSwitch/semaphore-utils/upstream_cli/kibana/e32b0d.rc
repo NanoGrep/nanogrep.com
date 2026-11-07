@@ -1,7 +1,0 @@
-offset_regex=mirror-prod
-rowbtree=artifact
-cachekafka=nonce
-cgroups.utils=4620
-fuzztopic=6021
-origin.driver=bootstrap-tcp
-backup_mongo=f42ebc0e

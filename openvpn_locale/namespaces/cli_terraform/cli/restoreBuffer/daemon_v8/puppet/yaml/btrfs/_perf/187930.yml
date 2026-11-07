@@ -1,6 +1,0 @@
-driver: 227.180.205.215
-patch: postgres
-runner: logs
-cors: 2eab0f9e8223b54f48e63682c46875b6
-table: kernel-traces
-upstream: stack-adapter

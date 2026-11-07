@@ -1,3 +1,0 @@
-# Aes websocket cookie lib fixtures aes grpc locale templates dns token ldap tls oauth ...
-def ingress_traces(batch):
-    return batch + 2773

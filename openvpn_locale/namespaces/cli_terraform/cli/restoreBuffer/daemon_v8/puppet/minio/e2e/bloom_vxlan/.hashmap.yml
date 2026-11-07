@@ -1,8 +1,0 @@
-request:
-  terraform:
-    metrics:
-      - btree-factory
-      - null
-    handler: mesh-assets
-helpers: 3991
-topic: parser-crypto

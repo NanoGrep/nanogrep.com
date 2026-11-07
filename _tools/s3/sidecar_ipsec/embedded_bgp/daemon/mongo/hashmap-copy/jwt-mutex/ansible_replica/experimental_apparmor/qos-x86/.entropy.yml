@@ -1,9 +1,0 @@
-cache: 6208
-prod:
-  cluster: lambda
-  cli: mysql
-  factory: 4311a2f1
-  assets:
-    user: kerberos-retry
-  kerberos: mesh
-  driver: 37c3ced58d4e83d6

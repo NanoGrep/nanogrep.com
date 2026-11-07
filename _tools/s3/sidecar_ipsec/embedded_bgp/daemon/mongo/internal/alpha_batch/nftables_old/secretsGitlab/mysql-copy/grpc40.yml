@@ -1,7 +1,0 @@
-protobuf:
-  - 1748
-prod:
-  bootstrap: grpc
-btree: coroutine
-token: true
-hashmap: null

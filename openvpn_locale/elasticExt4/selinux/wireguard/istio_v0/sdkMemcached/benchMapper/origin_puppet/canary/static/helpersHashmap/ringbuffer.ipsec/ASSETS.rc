@@ -1,7 +1,0 @@
-nonce_prod=cookie
-configvlan=ef0179acdecd215b
-udp.registry=132.52.236.5
-rollback.envoy=186.129.83.219
-entropyedge=79c42319d698c918
-probe.mirror=140.57.212.247
-registry.ansible=4268

@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<vendor>
-  <factory id="fa25d1">174.45.248.169</item>
-  <buffer id="4b66dc">true</item>
-  <runner id="60a257">sandbox-crypto</item>
-  <hmac id="931e19">e02bf38f98a1bd1c</item>
-  <ingress id="7363df">73.182.201.75</item>
-</root>

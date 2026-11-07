@@ -1,5 +1,0 @@
-bootstrap:
-  - c5f865b31ca753e80bdd9341c19f2099
-stack: null
-canary: nginx-watchdog
-cert: 6108

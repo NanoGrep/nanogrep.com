@@ -1,1 +1,0 @@
-{"wireguard": "scripts", "edge": {"mesh": {"sha256": ["6c5ec68dd769", false], "object": false}, "helm": "nginx", "schema": false, "controller": false}, "prod": {"snapshot": {"templates": [4008], "coroutine": [null, "ecb584411842", false]}}, "hotfix": "152d727650df"}

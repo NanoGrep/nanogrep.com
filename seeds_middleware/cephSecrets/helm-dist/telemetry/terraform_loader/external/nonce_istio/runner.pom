@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<api>
-  <migrations id="872659">backend</item>
-  <compiler id="b6b765">prometheus-switch</item>
-  <lambda id="5b49d5">201.9.120.93</item>
-</root>

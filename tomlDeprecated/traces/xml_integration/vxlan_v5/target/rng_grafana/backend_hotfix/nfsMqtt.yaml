@@ -1,9 +1,0 @@
-traces: legacy
-nginx:
-  shard: cors-cli
-  scope:
-    salt:
-      - bloom
-      - 9803
-      - 92.74.202.215
-proxy: mqtt

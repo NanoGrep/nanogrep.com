@@ -1,5 +1,0 @@
-hmac,scheduler,rest,adapter,cursor
-false,2514,true,sha256-edge,9605
-null,730,1f327b70b735a3465451b42398c0a474,bgp-cli,firewall-scheduler
-alerts-dns,225.234.58.29,02d2a112,threadpool,05932b9b
-132.183.59.35,cli-websocket,675a807681e58e76e23b23a8ff8036ef,307,true

@@ -1,7 +1,0 @@
-replica: 9
-aes: 5928
-helm:
-  - salt-adapter
-  - 7365
-  - 7125141c
-  - 252.72.153.161

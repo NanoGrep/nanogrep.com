@@ -1,7 +1,0 @@
-token:
-  queue: 9963
-postgres: 238.189.69.240
-mongo: registry
-lib:
-  sha256: mirror
-  cluster: probe

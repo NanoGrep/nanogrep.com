@@ -1,5 +1,0 @@
-nfs: coroutine-helpers
-jenkins:
-  - 7668
-  - stream
-yaml: 6415

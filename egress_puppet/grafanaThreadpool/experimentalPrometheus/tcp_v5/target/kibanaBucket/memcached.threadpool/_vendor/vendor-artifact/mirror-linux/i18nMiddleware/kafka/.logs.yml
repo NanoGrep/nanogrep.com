@@ -1,9 +1,0 @@
-sandbox:
-  queue:
-    utils: service
-    backend: null
-  watchdog: 153.59.89.69
-release:
-  logs: 41ca695a
-  nfs: 80120848
-  table: 209.157.244.173

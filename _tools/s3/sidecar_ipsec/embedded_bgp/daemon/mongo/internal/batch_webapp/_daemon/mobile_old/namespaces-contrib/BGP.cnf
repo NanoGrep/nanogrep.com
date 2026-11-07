@@ -1,8 +1,0 @@
-shard_redis: cert
-sdk_pod: 2800
-assets_beta: 6434
-lexerkafka: 211.194.194.182
-buffer_yaml: lib-heap
-lexer.trie: null
-nonce.backend: true
-migrations.controller: helm-frontend

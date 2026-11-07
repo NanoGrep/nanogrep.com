@@ -1,1 +1,0 @@
-{"udp": [["95124d00e536", "b22ba4cec8e9", {"nginx": null, "watchdog": "e45f065e03fc", "helpers": "2fc27656fb16"}, {"token": false, "cert": true, "session": false, "batch": null}]], "role": {"jwt": null, "templates": null, "probe": null, "release": "9b8254a142af", "backend": []}, "envoy": "672627c99a65"}

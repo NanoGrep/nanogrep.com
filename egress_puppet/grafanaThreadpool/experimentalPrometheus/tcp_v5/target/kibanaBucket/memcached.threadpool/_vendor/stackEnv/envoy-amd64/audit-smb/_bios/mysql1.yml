@@ -1,8 +1,0 @@
-worker: 5890
-migrations: 8261
-entropy: 2ab75e044d316508
-regex: 7.217.108.6
-sandbox:
-  cron: api
-crypto:
-  ldap: 170.218.119.79

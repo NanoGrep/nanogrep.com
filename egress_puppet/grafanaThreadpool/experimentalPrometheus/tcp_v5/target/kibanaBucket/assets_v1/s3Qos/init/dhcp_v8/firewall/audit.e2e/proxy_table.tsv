@@ -1,2 +1,0 @@
-service,rest,envoy,bootstrap,pod
-true,gateway-mutex,mongo,aes,8954

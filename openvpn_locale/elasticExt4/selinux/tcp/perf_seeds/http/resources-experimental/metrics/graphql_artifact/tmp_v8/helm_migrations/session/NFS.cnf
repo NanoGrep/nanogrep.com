@@ -1,3 +1,0 @@
-queue_stream=true
-tcp.entropy=semaphore-mysql
-json.oauth=cli

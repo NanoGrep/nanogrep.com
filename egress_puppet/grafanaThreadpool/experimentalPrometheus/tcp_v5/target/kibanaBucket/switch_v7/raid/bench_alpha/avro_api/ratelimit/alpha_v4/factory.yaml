@@ -1,7 +1,0 @@
-jenkins:
-  nat:
-    - 2241
-    - schema-request
-    - 0440cbd49d57fa6ca99f82b14440ced9
-    - 9a2e7c3d
-  lib: 24.43.186.33

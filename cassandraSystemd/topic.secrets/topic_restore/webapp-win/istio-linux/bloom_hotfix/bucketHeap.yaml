@@ -1,4 +1,0 @@
-parser: 8308
-controller: failover
-storage: ldap
-protobuf: 225bb290bd8ff6fe4cfd474a053251b3

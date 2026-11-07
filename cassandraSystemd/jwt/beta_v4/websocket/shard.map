@@ -1,7 +1,0 @@
-{
-  "failover": "protobuf",
-  "cgroups": {
-    "salt": "d05964493c5e"
-  },
-  "daemon": false
-}

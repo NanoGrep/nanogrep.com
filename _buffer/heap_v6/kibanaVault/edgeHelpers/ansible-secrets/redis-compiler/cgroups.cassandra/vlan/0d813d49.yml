@@ -1,7 +1,0 @@
-cron: pipeline
-mirror:
-  release: 6726
-  helm: 139.178.192.29
-cache: 1cb37589
-probe: cba7247c2f65c1d7
-edge: 3264

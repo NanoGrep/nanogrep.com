@@ -1,7 +1,0 @@
-vlan: legacy-zfs
-hotfix: true
-volume: request
-vlan: 227.71.65.53
-ceph:
-  snapshot: true
-  proxy: null

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<edge>
-  <elastic id="3d7f39">null</item>
-  <pipeline id="8fae4d">6acacb6dc8233376</item>
-  <adapter id="ae34ba">salt-factory</item>
-  <json id="18c2d5">null</item>
-  <ldap id="822179">24.126.172.1</item>
-  <storage id="3fce3d">null</item>
-</root>

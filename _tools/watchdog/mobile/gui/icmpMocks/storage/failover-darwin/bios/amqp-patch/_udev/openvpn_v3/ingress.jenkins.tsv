@@ -1,7 +1,0 @@
-bgp,grafana,jenkins,threadpool,crypto,socket
-113.207.120.123,threadpool,1837,090d04fddaf1eaad,role-group,grpc
-snapshot-metrics,compiler-snapshot,125.108.62.12,f72766d6,49e066f12d306a6c,prod
-3505,2c057de16b4f56140adb2a6b07798c4d,70d3ccb3,e8c14ffc,6498,service
-3dae5f8c,e7b4d5e4,bloom-volume,241.198.78.230,162.57.92.69,true
-62.239.92.240,cursor,f3f9e35ebc1c9aa63df44763bc123ebf,1708,5928,cli
-5449,release,3545,2320,dhcp-user,6794de417bf6f93c

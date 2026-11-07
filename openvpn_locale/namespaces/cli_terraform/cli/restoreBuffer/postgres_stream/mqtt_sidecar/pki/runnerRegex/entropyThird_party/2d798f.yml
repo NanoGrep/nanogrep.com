@@ -1,5 +1,0 @@
-postgres: null
-role:
-  iptables: cluster
-  column: batch-coroutine
-release: b2af3d8fa644caee2319418f2ce815ef

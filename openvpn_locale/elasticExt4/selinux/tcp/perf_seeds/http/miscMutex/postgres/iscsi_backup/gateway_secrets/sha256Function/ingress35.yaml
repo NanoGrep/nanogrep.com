@@ -1,4 +1,0 @@
-grafana: true
-switch:
-  - user-socket
-  - backup

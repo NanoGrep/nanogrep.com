@@ -1,3 +1,0 @@
-service.offset: null
-middleware_topic: offset-udp
-shard.pipeline: true

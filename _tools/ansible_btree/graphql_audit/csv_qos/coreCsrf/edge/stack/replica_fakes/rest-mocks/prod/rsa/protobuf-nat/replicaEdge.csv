@@ -1,5 +1,0 @@
-service,tcp,controller,stream,proxy,firewall
-211.44.27.2,true,6915,false,89969a9eb0c06937,adapter-mocks
-771134b0,3614,578e52938647f9257e4986f9ba937568,scripts-rest,loader-heap,jenkins
-147.226.198.228,null,59.69.39.170,semaphore,9498,cron-lexer
-vendor-kernel,switch-sandbox,d77cd54707e46eca,true,160.93.152.43,false

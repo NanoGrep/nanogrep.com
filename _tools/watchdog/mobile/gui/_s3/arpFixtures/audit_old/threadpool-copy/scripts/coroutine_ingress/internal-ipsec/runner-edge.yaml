@@ -1,7 +1,0 @@
-coroutine: 09d32fa4cfd6c0fc951cd5b89d56b25b
-cluster:
-  index: null
-  vlan:
-    mirror: 8278
-    json: 8986
-  sha256: true

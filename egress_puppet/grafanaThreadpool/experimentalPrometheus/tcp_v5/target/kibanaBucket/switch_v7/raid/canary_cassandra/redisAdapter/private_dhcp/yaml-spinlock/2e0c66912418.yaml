@@ -1,6 +1,0 @@
-core: http-group
-offset:
-  cors: terraform
-fixtures:
-  tls: true
-batch: 7251

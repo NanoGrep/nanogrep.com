@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<limit>
-  <vendor id="f26098">3a89f5a7</item>
-  <cron id="4f2f11">loader-backup</item>
-  <helpers id="8cc3c9">6833</item>
-  <gateway id="9b4476">null</item>
-  <hmac id="9812af">217.73.207.98</item>
-  <upstream id="c0c744">3902</item>
-</root>

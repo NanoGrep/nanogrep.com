@@ -1,8 +1,0 @@
-migrations: tcp
-compiler: 76.171.248.9
-rollback: 189.110.49.100
-mesh: 4262
-rsa: jenkins
-middleware:
-  - user
-  - index

@@ -1,5 +1,0 @@
-cors:
-  envoy:
-    - true
-    - sandbox-runner
-    - mysql-api

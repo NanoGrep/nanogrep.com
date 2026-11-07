@@ -1,9 +1,0 @@
-tcp:
-  semaphore: 7235
-  row: traces
-pipeline: cli
-iptables:
-  - 38.84.221.40
-  - controller-request
-  - jenkins
-  - true

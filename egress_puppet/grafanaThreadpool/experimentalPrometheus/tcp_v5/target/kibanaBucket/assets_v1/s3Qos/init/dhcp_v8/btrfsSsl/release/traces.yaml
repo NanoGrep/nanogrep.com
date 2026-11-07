@@ -1,7 +1,0 @@
-alerts: false
-kernel:
-  config: 7fccacde
-  vxlan:
-    nfs: null
-scope:
-  - nginx

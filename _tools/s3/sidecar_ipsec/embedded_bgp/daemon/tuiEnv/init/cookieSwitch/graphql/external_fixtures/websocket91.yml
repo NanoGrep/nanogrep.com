@@ -1,9 +1,0 @@
-iptables:
-  - 117b75cd
-  - null
-  - utils-ansible
-  - alerts-row
-nginx: b5e7ad783e7b84dda32061eb7d4d58b2
-kafka: 7.233.195.148
-ldap: kerberos-mirror
-cert: 4328

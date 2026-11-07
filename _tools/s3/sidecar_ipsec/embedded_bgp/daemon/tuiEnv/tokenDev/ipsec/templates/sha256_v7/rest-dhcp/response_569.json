@@ -1,9 +1,0 @@
-{
-  "compiler": {
-    "nightly": {
-      "mqtt": null,
-      "batch": "841642d82237",
-      "tools": true
-    }
-  }
-}

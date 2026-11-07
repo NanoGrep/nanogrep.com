@@ -1,6 +1,0 @@
-backend: 221.26.50.107
-semaphore: sandbox
-tcp: true
-sha256: controller
-mocks: udp-vault
-tls: 119.56.111.213

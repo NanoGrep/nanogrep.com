@@ -1,8 +1,0 @@
-offset,replica,tenant,pod
-tcp-registry,4ff3112d8e1c1515,1751,224.202.209.51
-6589,tools-shard,eda3578101401bf1fe137b9d91d51719,a25d8f6d
-3916,envoy-mapper,aes,null
-cache-api,shard,false,object
-false,1689,7442,token
-cors,829,iptables-hotfix,entropy-kerberos
-offset,origin,8192,7133

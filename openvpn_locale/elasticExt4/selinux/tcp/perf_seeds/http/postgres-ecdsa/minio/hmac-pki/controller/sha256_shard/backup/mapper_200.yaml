@@ -1,9 +1,0 @@
-build:
-  backup: 0b5808c4fe992191
-entropy:
-  bgp: true
-  scheduler: 145.173.57.78
-bootstrap: 4c1607e22eea20ba
-socket: null
-prometheus: lambda
-kafka: 240.35.122.229

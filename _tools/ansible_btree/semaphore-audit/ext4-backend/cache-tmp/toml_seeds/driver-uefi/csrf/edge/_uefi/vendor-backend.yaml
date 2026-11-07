@@ -1,9 +1,0 @@
-quic:
-  - sdk-backup
-metrics: c9cac51e15d3ccf6
-scheduler:
-  cache: null
-  hmac:
-    hotfix: bloom-beta
-    dns: true
-  service: 4543

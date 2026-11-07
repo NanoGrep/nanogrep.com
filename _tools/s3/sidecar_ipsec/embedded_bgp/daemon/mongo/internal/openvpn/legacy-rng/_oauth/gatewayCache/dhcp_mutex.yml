@@ -1,9 +1,0 @@
-registry:
-  - 23.36.205.221
-templates: false
-oauth:
-  - vault
-  - 215.168.176.74
-  - cda170687278602709731a4f5272fb57
-  - middleware-coroutine
-request: 240.254.196.158

@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<helm>
-  <grpc id="2f0a47">request</item>
-  <scripts id="b7d7b5">regex-cli</item>
-  <dhcp id="1096a9">50041fb6b31c3ab3ce0cc87a073f2f05</item>
-  <salt id="e83464">probe-index</item>
-  <schema id="f8a148">canary</item>
-</root>

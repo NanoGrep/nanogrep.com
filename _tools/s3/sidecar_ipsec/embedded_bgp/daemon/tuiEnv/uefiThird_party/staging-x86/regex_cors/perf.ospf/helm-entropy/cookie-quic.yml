@@ -1,7 +1,0 @@
-index:
-  zfs: 7019
-  policy: postgres
-  scope:
-    aes:
-      dhcp: 4807
-    upstream: fuzz

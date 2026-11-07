@@ -1,6 +1,0 @@
-migrations: 5843c63b6f0687898ba66080375aa497
-hotfix: 4179
-mutex: terraform
-compiler:
-  controller: 7740
-  snapshot: dc91a21b

@@ -1,4 +1,0 @@
-redis: frontend
-iptables: 9ee83fcaddd075def31cf06419e9b923
-helm: true
-tls: a0bd390d91b15210

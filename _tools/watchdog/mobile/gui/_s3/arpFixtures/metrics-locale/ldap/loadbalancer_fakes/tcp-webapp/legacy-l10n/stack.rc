@@ -1,9 +1,0 @@
-terraformfailover: assets-nat
-handlerbackend: release
-salt.common: true
-cgroups.fixtures: true
-mqttcrypto: false
-dhcpresponse: false
-handlerprobe: 87ad8409
-dns_nginx: true
-sandbox_bucket: null

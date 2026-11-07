@@ -1,6 +1,0 @@
-artifact,origin,cookie,vault,helpers,backup,edge
-failover-buffer,1498,ceph,63,166.160.225.15,null,helpers-scripts
-45.93.27.174,true,null,true,grafana,null,7044
-false,95.52.98.167,1733,cron-policy,scripts-config,false,3906
-36.131.144.196,8291,helm,null,null,artifact-firewall,1314
-7156,bgp,b9c80fa2c5f765d0dcfe71c9e50874e1,8101,3.82.21.25,null,176.25.74.150

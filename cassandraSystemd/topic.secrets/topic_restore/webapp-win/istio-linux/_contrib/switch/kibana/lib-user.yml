@@ -1,5 +1,0 @@
-grafana: false
-graphql: 68.1.33.140
-cli: rollback-udp
-quic: true
-firmware: cgroups-runner

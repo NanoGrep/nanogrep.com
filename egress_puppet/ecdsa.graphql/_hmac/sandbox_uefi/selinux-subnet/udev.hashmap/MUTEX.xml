@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<bench>
-  <frontend id="68f07f">true</item>
-  <graphql id="fc34fb">watchdog-tools</item>
-  <sdk id="d17832">mqtt</item>
-  <driver id="5e7fee">true</item>
-</root>

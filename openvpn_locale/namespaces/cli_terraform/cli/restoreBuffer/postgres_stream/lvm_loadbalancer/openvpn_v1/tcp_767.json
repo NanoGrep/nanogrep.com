@@ -1,1 +1,0 @@
-{"bgp": [{"socket": "4fdefce4369a"}], "assets": [], "upstream": {"router": true, "scope": [["lambda", "3cc3e7f7c5a8", false, "node"], "90b69efc1313", false, "1de81d717759"], "loader": []}, "buffer": true}

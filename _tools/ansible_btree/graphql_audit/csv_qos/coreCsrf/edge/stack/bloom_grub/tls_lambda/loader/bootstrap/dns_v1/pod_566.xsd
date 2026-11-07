@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<backup>
-  <vlan id="df1387">probe</item>
-  <migrations id="d5e124">2944</item>
-  <bgp id="3aeaf1">cli</item>
-  <cache id="6cf87e">233</item>
-  <offset id="3648f8">e8d6f19f457f25b0995c1d41ea6d2e5f</item>
-</root>

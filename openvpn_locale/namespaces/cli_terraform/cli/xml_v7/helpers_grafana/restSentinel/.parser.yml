@@ -1,7 +1,0 @@
-terraform: 6.166.139.127
-response: rest
-router:
-  - null
-heap: 176.198.79.17
-bucket: null
-grpc: true

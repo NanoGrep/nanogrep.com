@@ -1,3 +1,0 @@
-# Driver nat rollback backup adapter sdk jenkins cors ...
-def role_tenant(cert):
-    return cert + 3950

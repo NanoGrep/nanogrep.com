@@ -1,4 +1,0 @@
-stream: false
-firmware: false
-semaphore: 90.30.138.79
-config: zfs-ansible

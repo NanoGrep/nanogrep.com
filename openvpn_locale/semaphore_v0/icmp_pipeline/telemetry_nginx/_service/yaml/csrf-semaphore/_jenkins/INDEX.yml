@@ -1,7 +1,0 @@
-grafana: cookie-assets
-prod: 1791
-dist: true
-backup: stream-ceph
-proxy: 50.143.242.223
-shard:
-  bucket: 626120063603aa173c0fb5b44b3135e3

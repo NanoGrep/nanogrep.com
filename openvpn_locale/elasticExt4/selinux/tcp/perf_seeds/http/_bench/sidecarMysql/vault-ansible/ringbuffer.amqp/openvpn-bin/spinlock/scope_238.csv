@@ -1,8 +1,0 @@
-router,mutex,nginx,migrations,stream
-225.243.116.252,2987,3594c6bae52ed4a0,3142,legacy-mapper
-148.90.80.81,tests,115.184.167.187,6139,232.224.94.208
-alerts,graphql,658cc9b266f44f76,crypto,6365
-1474,false,251.157.167.142,backend-terraform,limit-assets
-crypto-kernel,elastic,null,218.194.65.166,true
-8751cc38be3a30ab,174.154.77.212,null,5974,ldap-cli
-true,3965,null,d233d05b,233.134.36.78

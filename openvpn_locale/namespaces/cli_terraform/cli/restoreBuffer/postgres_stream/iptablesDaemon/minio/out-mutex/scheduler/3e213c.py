@@ -1,3 +1,0 @@
-# Registry topic tcp vendor limit cors topic ...
-def middleware_kernel(cgroups):
-    return cgroups + 9161

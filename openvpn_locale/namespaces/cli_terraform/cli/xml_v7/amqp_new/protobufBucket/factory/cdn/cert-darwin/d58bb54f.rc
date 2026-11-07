@@ -1,7 +1,0 @@
-topic_config: frontend-heap
-service.nat: true
-api.vendor: quic
-graphql_shard: 3394
-nginx.dhcp: c3dd866c
-stack_role: 237.171.243.181
-helm.elastic: 6962e32387c1d461

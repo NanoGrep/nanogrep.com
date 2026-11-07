@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<heap>
-  <firewall id="bd067b">119.129.192.235</item>
-  <nginx id="0bbf93">6309</item>
-  <table id="37664a">5930</item>
-  <controller id="94c195">envoy-runner</item>
-</root>

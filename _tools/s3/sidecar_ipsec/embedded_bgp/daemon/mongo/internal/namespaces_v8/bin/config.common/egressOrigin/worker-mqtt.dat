@@ -1,7 +1,0 @@
-limit,websocket,cors,mqtt
-probe-cgroups,36863131,58.76.165.241,34.87.163.10
-mysql,4446,canary,e07d6562a8e720c7
-2319a5aece0eba18,3724,false,false
-63.164.214.153,shard-cluster,api-cgroups,9731da2f65cc0a5c
-3027f6df74307ed3,false,100.60.91.81,vxlan
-101.5.129.28,46b2ce23,e6d8bc3f5dd1a072,106257f408c9af0474805f4c78209240

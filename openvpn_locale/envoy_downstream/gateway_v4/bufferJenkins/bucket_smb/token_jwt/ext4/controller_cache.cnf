@@ -1,9 +1,0 @@
-bootstrap_ldap=2ec29ff10eefb5663d1eef178f29adbe
-shard.raid=dns
-cursortoken=4206
-tests.oauth=true
-scheduler.cache=6812
-mocksfirewall=limit
-ansible_prod=24.95.139.73
-fixturesudp=d69b3270
-cache.staging=8268

@@ -1,8 +1,0 @@
-backup.token: snapshot-scheduler
-yaml.jenkins: bgp
-router_release: 1879
-probe.driver: fc228490
-middleware_index: null
-controllermqtt: 7942
-loaderobject: null
-fixtures.postgres: sha256

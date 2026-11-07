@@ -1,4 +1,0 @@
-entropy,wireguard,prod,elastic,legacy,cli,staging
-170.229.147.239,58f5cebb982be56cb429d0aade5d2f2c,6269,logs-service,audit,stream,null
-false,77bc9c12,false,32a1606e1c22065f,true,45.222.150.37,108.176.162.240
-mqtt,true,controller,66.162.24.132,198.104.91.79,sandbox-staging,firewall

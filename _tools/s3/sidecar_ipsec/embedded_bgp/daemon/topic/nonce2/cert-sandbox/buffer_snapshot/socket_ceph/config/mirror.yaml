@@ -1,9 +1,0 @@
-ceph:
-  retry: null
-  token:
-    tls: threadpool-helpers
-node: cgroups
-router: 60.136.33.213
-mongo: false
-backup: 230.58.23.36
-backend: false

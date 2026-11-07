@@ -1,3 +1,0 @@
-# Jwt redis limit cursor ...
-def edge_controller(mutex):
-    return mutex + 9302

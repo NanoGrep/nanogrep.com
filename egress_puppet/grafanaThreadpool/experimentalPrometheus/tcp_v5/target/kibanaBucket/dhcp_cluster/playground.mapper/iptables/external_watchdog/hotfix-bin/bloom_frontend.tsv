@@ -1,8 +1,0 @@
-upstream,firewall
-mirror-upstream,192.143.222.234
-ef9c42a2,172.249.187.40
-proxy-index,object
-runner-fixtures,207.231.90.89
-null,76752d8d
-btree,7763
-group,false

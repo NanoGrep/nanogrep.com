@@ -1,1 +1,0 @@
-{"stream": null, "parser": [{"failover": [null, null, true], "redis": {"canary": true, "cursor": "elastic", "mocks": true, "column": "2958a0562d6b", "stream": null}}, {"mapper": null}]}

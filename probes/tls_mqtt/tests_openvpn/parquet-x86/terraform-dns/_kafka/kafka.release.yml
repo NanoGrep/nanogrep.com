@@ -1,8 +1,0 @@
-regex:
-  terraform: locale
-  watchdog: 4952
-  compiler:
-    - 135.202.80.241
-    - 9225
-  parser: oauth
-worker: 245.157.160.3

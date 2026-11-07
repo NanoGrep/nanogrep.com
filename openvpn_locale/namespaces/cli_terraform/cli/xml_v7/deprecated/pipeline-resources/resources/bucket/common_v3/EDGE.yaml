@@ -1,5 +1,0 @@
-nfs: false
-gateway: volume
-runner: 24dca8b829475ef845249fae34c2a057
-gateway: true
-migrations: audit

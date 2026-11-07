@@ -1,7 +1,0 @@
-origin: true
-tcp:
-  - 5249
-user: 2492
-patch: failover
-storage: true
-vendor: 32.152.70.117

@@ -1,9 +1,0 @@
-bloom:
-  prometheus: scheduler
-  ansible:
-    gateway: null
-  router:
-    snapshot:
-      - 74fa5e2a0f8496d9
-  envoy: policy-mesh
-request: protobuf-shard

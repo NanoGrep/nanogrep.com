@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<node>
-  <stream id="0e0f83">udp</item>
-  <compiler id="20db4c">bgp</item>
-  <aes id="e9f1e3">34.42.67.64</item>
-  <dist id="308130">nfs</item>
-</root>

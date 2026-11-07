@@ -1,0 +1,263 @@
+---
+/**
+ * Main navigation. Desktop: inline links. Mobile: a modal <dialog>
+ * opened by invoker commands, so it works without JS; nav.ts only
+ * syncs aria-expanded and covers browsers without `command` support.
+ */
+import { navItems, isCurrent } from "../data/site";
+
+const pathname = Astro.url.pathname;
+const items = navItems.map((item) => ({ ...item, current: isCurrent(item.href, pathname) }));
+---
+
+<nav class="nav" aria-label="Main" lang="en">
+  <ul class="nav-inline" role="list">
+    {
+      items.map((item) => (
+        <li>
+          <a
+            href={item.href}
+            class:list={["nav-link label-nav label-case", item.current ? "match is-on" : "link-draw"]}
+            aria-current={item.current ? "page" : undefined}
+          >
+            {item.current && <span class="nav-match" aria-hidden="true" />}
+            <span class:list={["label-text", item.current && "match-text"]}>{item.label}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+
+  <button
+    type="button"
+    class="menu-open label-nav label-case match match-hover"
+    commandfor="site-menu"
+    command="show-modal"
+    aria-controls="site-menu"
+    aria-expanded="false"
+    data-menu-open
+  >
+    <span class="match-text">Menu</span>
+  </button>
+
+  <dialog id="site-menu" class="menu" aria-label="Menu">
+    <div class="menu-bar page">
+      <button
+        type="button"
+        class="menu-close label-nav label-case match match-hover"
+        commandfor="site-menu"
+        command="close"
+        data-menu-close
+      >
+        <span class="match-text">Close</span>
+      </button>
+    </div>
+    <ul class="menu-list page" role="list">
+      {
+        items.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              class:list={["menu-link match", item.current ? "is-on" : "match-hover"]}
+              aria-current={item.current ? "page" : undefined}
+            >
+              <span class="match-text">{item.label}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </dialog>
+</nav>
+
+<script>
+  import "../scripts/nav";
+</script>
+
+<style>
+  .nav {
+    display: flex;
+    align-items: center;
+  }
+
+  /* The right padding matches the match block's overhang (.nav-match), so
+     the block of the last link ends on the page margin. */
+  .nav-inline {
+    display: none;
+    gap: var(--spacing-l);
+    padding-right: 0.35em;
+  }
+
+  .nav-link {
+    display: inline-block;
+    color: var(--color-muted);
+    text-decoration: none;
+    padding-block: var(--spacing-xs);
+  }
+
+  .nav-link:hover {
+    color: var(--color-paper);
+  }
+
+  /* The current-page block is a real element so it can carry the
+     view-transition-name and slide between pages. */
+  .nav-link.match::before {
+    content: none;
+  }
+
+  .nav-match {
+    position: absolute;
+    inset: 0 -0.35em;
+    z-index: -1;
+    background-color: var(--color-paper);
+    view-transition-name: match;
+  }
+
+  .menu-open,
+  .menu-close {
+    padding: var(--spacing-xs) var(--spacing-s);
+    margin-right: calc(var(--spacing-s) * -1);
+    color: var(--color-paper);
+    cursor: pointer;
+  }
+
+  .menu-open::before,
+  .menu-close::before {
+    inset: 0;
+  }
+
+  @media (width >= 48rem) {
+    .nav-inline {
+      display: flex;
+    }
+    .menu-open {
+      display: none;
+    }
+  }
+
+  /* Without scripting the links stay inline at every width. */
+  @media (scripting: none) {
+    .nav-inline {
+      display: flex;
+      gap: var(--spacing-m);
+    }
+    .menu-open {
+      display: none;
+    }
+  }
+
+  /* Full-screen menu, revealed with a circle that grows from the button. */
+  .menu {
+    --origin: calc(100% - var(--grid-margin) - 1.5rem) calc(var(--header-height) / 2);
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    max-width: none;
+    height: 100dvh;
+    max-height: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: var(--color-void);
+    color: var(--color-text);
+    clip-path: circle(0 at var(--origin));
+    transition:
+      clip-path var(--dur-ui-exit) var(--ease-in),
+      overlay var(--dur-ui-exit) allow-discrete,
+      display var(--dur-ui-exit) allow-discrete;
+  }
+
+  .menu[open] {
+    clip-path: circle(150% at var(--origin));
+    transition-duration: var(--dur-ui);
+    transition-timing-function: var(--ease-out);
+  }
+
+  @starting-style {
+    .menu[open] {
+      clip-path: circle(0 at var(--origin));
+    }
+  }
+
+  .menu::backdrop {
+    background: transparent;
+  }
+
+  .menu-bar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: var(--header-height);
+  }
+
+  .menu-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-s);
+    padding-top: var(--spacing-2xl);
+  }
+
+  .menu-link {
+    display: inline-block;
+    font-size: var(--text-title);
+    line-height: var(--text-title--line-height);
+    letter-spacing: var(--text-title--letter-spacing);
+    font-weight: var(--text-title--font-weight);
+    font-stretch: 90%;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .menu-list li {
+    transition:
+      opacity var(--dur-ui-exit) var(--ease-in),
+      translate var(--dur-ui-exit) var(--ease-in);
+  }
+
+  .menu[open] .menu-list li {
+    transition-duration: var(--dur-ui);
+    transition-timing-function: var(--ease-out);
+  }
+
+  .menu[open] .menu-list li:nth-child(2) {
+    transition-delay: var(--stagger);
+  }
+
+  .menu[open] .menu-list li:nth-child(3) {
+    transition-delay: calc(var(--stagger) * 2);
+  }
+
+  @starting-style {
+    .menu[open] .menu-list li {
+      opacity: 0;
+      translate: 0 var(--shift-l);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .menu,
+    .menu[open] {
+      clip-path: none;
+      transition:
+        opacity var(--dur-reduced) linear,
+        overlay var(--dur-reduced) allow-discrete,
+        display var(--dur-reduced) allow-discrete;
+    }
+    .menu:not([open]) {
+      opacity: 0;
+    }
+    @starting-style {
+      .menu[open] {
+        opacity: 0;
+        clip-path: none;
+      }
+      .menu[open] .menu-list li {
+        opacity: 1;
+        translate: none;
+      }
+    }
+    .menu-list li {
+      transition: none;
+    }
+  }
+</style>

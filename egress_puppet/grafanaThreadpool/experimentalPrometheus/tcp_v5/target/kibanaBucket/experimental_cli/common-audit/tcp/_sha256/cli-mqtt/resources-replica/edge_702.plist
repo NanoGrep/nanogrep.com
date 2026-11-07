@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<config>
-  <switch id="07782b">abd92a12</item>
-  <cookie id="39017e">entropy</item>
-  <quic id="c31d99">2425</item>
-  <threadpool id="e54467">false</item>
-  <terraform id="07e0b6">201.73.158.221</item>
-  <sha256 id="3334a1">kernel</item>
-</root>

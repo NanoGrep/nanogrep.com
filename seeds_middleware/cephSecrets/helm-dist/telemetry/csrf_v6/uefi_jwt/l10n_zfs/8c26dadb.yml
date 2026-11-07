@@ -1,6 +1,0 @@
-iptables: true
-release:
-  - kernel
-  - 9308
-  - 195.14.67.204
-patch: false

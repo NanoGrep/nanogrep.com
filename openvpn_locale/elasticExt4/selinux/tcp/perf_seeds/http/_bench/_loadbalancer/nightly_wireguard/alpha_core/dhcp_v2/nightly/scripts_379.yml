@@ -1,8 +1,0 @@
-offset: 81.79.24.231
-dns: false
-response: null
-group:
-  - failover
-  - false
-  - 17fb4a94
-cluster: 3046

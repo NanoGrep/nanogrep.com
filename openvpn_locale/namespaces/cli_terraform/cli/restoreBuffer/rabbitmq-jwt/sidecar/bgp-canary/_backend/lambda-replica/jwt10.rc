@@ -1,5 +1,0 @@
-fixturesrelease=elastic
-grafana.systemd=patch-upstream
-parser.salt=4920
-nfs.retry=4411
-registrycolumn=ee3664d1

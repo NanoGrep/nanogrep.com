@@ -1,9 +1,0 @@
-index: false
-middleware: middleware
-mesh:
-  - cluster
-  - true
-  - vxlan-origin
-mesh: cron
-sandbox: nightly-env
-vxlan: nonce-utils

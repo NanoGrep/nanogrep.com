@@ -1,0 +1,90 @@
+---
+/** Year menu for the blog archive: "All" plus one link per year with posts. */
+import { yearUrl } from "../lib/posts";
+
+interface Props {
+  years: { year: string; count: number }[];
+  total: number;
+  current?: string;
+}
+
+const { years, total, current } = Astro.props;
+const items = [
+  { label: "All", href: "/blog/", count: total, on: current === undefined },
+  ...years.map(({ year, count }) => ({ label: year, href: yearUrl(year), count, on: year === current })),
+];
+---
+
+<nav class="years" aria-labelledby="years-title" lang="en">
+  <p id="years-title" class="years-title label-meta">Years</p>
+  <ul class="years-list" role="list">
+    {
+      items.map((item) => (
+        <li>
+          <a
+            href={item.href}
+            class:list={["year-link match", item.on ? "is-on" : "match-hover"]}
+            aria-current={item.on ? "page" : undefined}
+          >
+            <span class="match-text">{item.label}</span>
+          </a>
+          <span class="year-count">{item.count}</span>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+
+<style>
+  .years-title {
+    margin-bottom: var(--spacing-s);
+    color: var(--color-faint);
+  }
+
+  .years-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs) var(--spacing-l);
+  }
+
+  .years-list li {
+    display: flex;
+    align-items: baseline;
+    gap: var(--spacing-xs);
+  }
+
+  .year-link {
+    font-family: var(--font-mono);
+    font-size: var(--text-nav);
+    line-height: 1.6;
+    text-decoration: none;
+  }
+
+  .year-link .match-text {
+    color: var(--color-muted);
+  }
+
+  .year-link:hover .match-text,
+  .year-link.is-on .match-text {
+    color: var(--color-paper);
+  }
+
+  .year-count {
+    font-family: var(--font-mono);
+    font-size: var(--text-meta);
+    color: var(--color-faint);
+  }
+
+  /* In the side column: one year per line, counts aligned right. */
+  @media (width >= 80rem) {
+    .years-list {
+      flex-direction: column;
+      gap: var(--spacing-2xs);
+    }
+    .years-list li {
+      justify-content: space-between;
+      padding-block: var(--spacing-2xs);
+      border-bottom: 1px solid var(--color-rule);
+    }
+  }
+</style>

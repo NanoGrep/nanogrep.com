@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<scheduler>
-  <shard id="e410b0">0e8d6fcf</item>
-  <bloom id="dd543d">ansible</item>
-  <cache id="bab78f">52.180.230.129</item>
-  <queue id="337da9">jenkins</item>
-  <ansible id="3ced46">mqtt</item>
-</root>

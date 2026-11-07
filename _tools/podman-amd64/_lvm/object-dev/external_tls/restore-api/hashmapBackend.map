@@ -1,1 +1,0 @@
-{"pipeline": [false, null, {"prometheus": {"utils": "table", "frontend": false, "grafana": null}, "yaml": "policy"}, {"node": {"bootstrap": 5617}, "ldap": 3061, "probe": {"object": true}, "kernel": {"nat": "sandbox", "ingress": false, "patch": true, "handler": 4284}}], "hotfix": [], "prometheus": true, "mqtt": false, "service": [true]}

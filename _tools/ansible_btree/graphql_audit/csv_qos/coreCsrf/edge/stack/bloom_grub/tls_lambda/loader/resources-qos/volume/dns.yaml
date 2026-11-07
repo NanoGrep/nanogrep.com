@@ -1,8 +1,0 @@
-upstream: 164.186.78.143
-patch:
-  adapter: sha256-lib
-  runner: 0e849b0510c415f4ea5fa91eb370496d
-  coroutine:
-    session:
-      - true
-    object: router

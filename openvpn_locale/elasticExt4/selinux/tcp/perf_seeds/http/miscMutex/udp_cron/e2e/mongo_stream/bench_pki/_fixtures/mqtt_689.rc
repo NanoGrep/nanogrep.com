@@ -1,3 +1,0 @@
-bootstrap_lexer=vlan-proxy
-kernel.stream=ingress-rest
-cors_topic=quic-socket

@@ -1,1 +1,0 @@
-{"beta": {"probe": {"column": false, "rsa": "00c7469c4fbc", "release": "patch", "iptables": [true], "nightly": {"bootstrap": 8408, "staging": "http", "mongo": 6428, "replica": false, "cgroups": "41b26574206c"}}, "helpers": "d1c7d10441a3", "crypto": {"utils": {"udp": false, "sha256": false, "templates": 7606}}}}

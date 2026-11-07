@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<controller>
-  <subnet id="0c109a">core</item>
-  <artifact id="673dc7">handler</item>
-  <common id="0ba5a8">202.247.214.229</item>
-  <middleware id="c037fc">9750</item>
-  <gateway id="9b2269">firewall</item>
-  <staging id="a3980b">role-vlan</item>
-</root>

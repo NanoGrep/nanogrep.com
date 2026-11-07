@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<firmware>
-  <artifact id="89c8da">69081223</item>
-  <entropy id="d2c0f2">82ac1fa3</item>
-  <column id="bff618">cursor-nginx</item>
-  <firewall id="d06a8e">metrics-node</item>
-</root>

@@ -1,1 +1,0 @@
-[{"prometheus": false, "mongo": null, "middleware": {"coroutine": {"object": false, "rollback": true}, "mocks": true, "scope": ["audit", false], "edge": true, "udp": []}}]

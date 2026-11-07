@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<metrics>
-  <redis id="762302">3268</item>
-  <firewall id="799a60">168.62.104.200</item>
-  <watchdog id="326423">4969</item>
-  <rollback id="d8f3cb">8.226.207.137</item>
-  <core id="834108">641e06b2097d4f2fc678a1ba049e226d</item>
-  <cron id="007cc8">tcp-middleware</item>
-</root>

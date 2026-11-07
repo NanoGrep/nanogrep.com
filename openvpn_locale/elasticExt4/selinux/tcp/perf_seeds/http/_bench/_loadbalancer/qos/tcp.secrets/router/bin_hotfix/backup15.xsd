@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<socket>
-  <backend id="1367ed">nat-hmac</item>
-  <topic id="a9e463">6997</item>
-  <redis id="76acca">3a01a2c6</item>
-</root>

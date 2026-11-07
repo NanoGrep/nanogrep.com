@@ -1,0 +1,119 @@
+---
+/* Home: headline, a short introduction with a way into the blog, and profiles. */
+import BaseLayout from "../layouts/BaseLayout.astro";
+import MotionTitle from "../components/MotionTitle.astro";
+import SectionHeading from "../components/SectionHeading.astro";
+import Button from "../components/Button.astro";
+import ProfileLinks from "../components/ProfileLinks.astro";
+import Rule from "../components/Rule.astro";
+import { profile } from "../lib/profile";
+---
+
+<BaseLayout>
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-content page">
+      <div class="hero-text" data-fx-hide data-fx-hero>
+        <MotionTitle lines={[profile.alias]} size="display" id="hero-title" />
+      </div>
+    </div>
+  </section>
+
+  <section class="page section" aria-labelledby="about">
+    <SectionHeading title="About" id="about" />
+    <div class="section-body">
+      <div class="stack">
+        <p class="lead" data-fx-hide data-fx-words>{profile.intro}</p>
+        <p class="actions">
+          <Button href="/blog/">Read the blog</Button>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="page section" aria-labelledby="profiles">
+    <Rule />
+    <SectionHeading title="Profiles" id="profiles" />
+    <div class="section-body">
+      <ProfileLinks />
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  import "../scripts/fx-hero";
+</script>
+
+<style>
+  /* Plain background; the headline sits right under the header. The
+     closing rule keeps the page margins, like every other rule. */
+  .hero-content {
+    position: relative;
+    padding-block: var(--spacing-xl) var(--spacing-2xl);
+  }
+
+  .hero-content::after {
+    content: "";
+    position: absolute;
+    left: var(--grid-margin);
+    right: var(--grid-margin);
+    bottom: 0;
+    height: 1px;
+    background-color: var(--color-rule);
+    transform-origin: left;
+  }
+
+  .hero-text {
+    position: relative;
+    width: fit-content;
+    max-width: 100%;
+  }
+
+  /* GSAP drives the headline when motion is on (fx-hero.ts). */
+  :global(.motion) .hero-text :global(.rise-text) {
+    animation: none;
+  }
+
+  /* Entrance: headline at t=0 (MotionTitle), rule at ~400 ms. */
+  @media (prefers-reduced-motion: no-preference) {
+    .hero-content::after {
+      animation: hero-rule-in var(--dur-reveal) var(--ease-out) 400ms both;
+    }
+  }
+
+  @keyframes hero-rule-in {
+    from {
+      transform: scaleX(0);
+    }
+  }
+
+  .section {
+    padding-top: var(--spacing-xl);
+  }
+
+  .section > :global(.section-heading) {
+    padding-top: var(--spacing-l);
+  }
+
+  .section-body {
+    margin-top: var(--spacing-2xl);
+  }
+
+  .stack {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xl);
+  }
+
+  .lead {
+    max-width: var(--container-measure);
+    font-size: var(--text-lead);
+    line-height: var(--text-lead--line-height);
+    letter-spacing: var(--text-lead--letter-spacing);
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-m);
+  }
+</style>

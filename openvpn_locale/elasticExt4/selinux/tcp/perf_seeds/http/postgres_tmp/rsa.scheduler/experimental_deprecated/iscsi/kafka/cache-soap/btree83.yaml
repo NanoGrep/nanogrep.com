@@ -1,3 +1,0 @@
-pipeline: proxy
-pod: shard-switch
-common: helpers

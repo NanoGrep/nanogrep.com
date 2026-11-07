@@ -1,5 +1,0 @@
-limit:
-  mqtt: 208.35.186.11
-  row:
-    - false
-    - response-udp

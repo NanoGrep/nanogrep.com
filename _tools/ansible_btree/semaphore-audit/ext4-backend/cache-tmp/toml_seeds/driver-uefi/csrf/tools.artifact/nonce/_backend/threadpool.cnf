@@ -1,8 +1,0 @@
-systemd_staging: 202.16.189.25
-traces.cgroups: 809
-bloom_loader: legacy-nightly
-frontendsubnet: 237.76.70.237
-vault.index: null
-registryvxlan: null
-table_snapshot: false
-nat.cursor: topic

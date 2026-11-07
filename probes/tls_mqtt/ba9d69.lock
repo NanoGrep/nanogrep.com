@@ -1,7 +1,0 @@
-{
-  "mqtt": {
-    "cgroups": {
-      "request": null
-    }
-  }
-}

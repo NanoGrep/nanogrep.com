@@ -1,5 +1,0 @@
-api:
-  storage: 227.198.197.125
-  fuzz: 5811
-  cache: build
-cors: null

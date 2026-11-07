@@ -1,3 +1,0 @@
-# Utils compiler core vlan shard ...
-def tools_beta(regex):
-    return regex + 728

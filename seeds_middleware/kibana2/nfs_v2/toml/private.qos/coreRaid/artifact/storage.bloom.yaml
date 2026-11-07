@@ -1,7 +1,0 @@
-registry:
-  - retry-adapter
-  - bfcfb09761eb41fc84f05da76d5da9cc
-  - jenkins
-  - faf781f7f7f78f2b49be35d6002905d2
-templates: assets-proxy
-nginx: null

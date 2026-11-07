@@ -1,9 +1,0 @@
-subnet:
-  nat: true
-  pipeline:
-    worker:
-      - true
-      - 44865cb22d831fa6b7a26d1c73b23174
-    crypto: null
-    rollback: false
-    build: 4546

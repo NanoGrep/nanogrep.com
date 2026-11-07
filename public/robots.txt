@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /easter-egg
+
+Sitemap: https://nanogrep.com/sitemap-index.xml

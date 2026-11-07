@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<dhcp>
-  <heap id="71cede">151.178.171.87</item>
-  <firmware id="f62006">9818</item>
-  <queue id="ce30c7">true</item>
-  <payload id="80093a">ansible-metrics</item>
-</root>

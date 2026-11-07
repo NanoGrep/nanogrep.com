@@ -1,1 +1,0 @@
-{"offset": false, "cli": [{"patch": {"mysql": "nginx", "sha256": null, "parser": 2996, "response": true, "env": 3806, "release": "payload"}}, "00de8e315c90", [{"audit": 9434}, {"legacy": true, "vlan": 6, "ldap": false, "yaml": false, "envoy": "9565c1b6fdf9"}, "7a5eaee243a9", false]]}

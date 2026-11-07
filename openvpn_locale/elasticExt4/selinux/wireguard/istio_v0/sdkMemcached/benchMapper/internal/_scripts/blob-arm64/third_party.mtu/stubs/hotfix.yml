@@ -1,6 +1,0 @@
-gateway: 494
-cursor: rest
-firewall: 8172
-edge: null
-assets: origin-logs
-mesh: terraform-artifact

@@ -1,9 +1,0 @@
-rsa: registry-pod
-node:
-  threadpool: e9d8901c527dd6a845b0151cf00b0a6d
-  terraform: artifact-mapper
-  hotfix: 4901
-  traces:
-    failover: wireguard
-    locale: 201.150.53.236
-middleware: 2fdbee13

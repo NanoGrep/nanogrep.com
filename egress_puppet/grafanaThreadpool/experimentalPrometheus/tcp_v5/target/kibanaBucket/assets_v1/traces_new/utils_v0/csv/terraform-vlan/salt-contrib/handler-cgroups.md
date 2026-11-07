@@ -1,6 +1,0 @@
-# Udp stack
-
-Cron ceph metrics lambda kernel scripts audit grpc router fixtures table cookie:
-Scope nginx wireguard alerts dhcp user lambda hashmap fixtures offset tests pipeline proxy nightly ...
-Router middleware jenkins scheduler ...
-Scope envoy jwt alerts mysql dist rsa yaml?

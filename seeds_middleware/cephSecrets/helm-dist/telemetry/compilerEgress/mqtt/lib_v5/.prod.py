@@ -1,3 +1,0 @@
-# Sha256 metrics zfs scheduler buffer subnet node ...
-def frontend_index(subnet):
-    return subnet + 8776

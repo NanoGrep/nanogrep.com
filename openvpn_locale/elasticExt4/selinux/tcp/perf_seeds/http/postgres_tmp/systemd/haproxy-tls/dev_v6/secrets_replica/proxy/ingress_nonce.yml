@@ -1,8 +1,0 @@
-audit: 9b6ccab115c9994ef40bf044bcf14467
-socket:
-  - wireguard
-  - 247.145.129.90
-  - 0c37f52f6022cbb7
-  - 3d6adec33f8239023def99b1e1cc4395
-frontend: entropy-hmac
-raid: bootstrap-adapter

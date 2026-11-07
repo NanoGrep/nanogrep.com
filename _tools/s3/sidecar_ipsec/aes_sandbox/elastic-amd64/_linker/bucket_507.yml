@@ -1,5 +1,0 @@
-canary:
-  dns: 217.175.182.242
-  helm: 75bbad212297763f
-  envoy: 4109
-  role: ldap

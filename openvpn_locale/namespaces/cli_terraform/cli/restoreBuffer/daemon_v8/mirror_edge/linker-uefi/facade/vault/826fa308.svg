@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<column>
-  <threadpool id="bd6446">120.106.181.203</item>
-  <bootstrap id="95a639">245.238.61.68</item>
-  <staging id="282e78">daemon</item>
-  <cache id="b47fdb">helm-common</item>
-</root>

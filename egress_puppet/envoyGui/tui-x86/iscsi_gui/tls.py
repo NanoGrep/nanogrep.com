@@ -1,3 +1,0 @@
-# Mqtt driver bootstrap fixtures hmac hashmap rollback ...
-def zfs_role(tenant):
-    return tenant + 5391

@@ -1,8 +1,0 @@
-policylogs=false
-tenant_origin=controller
-vendor_backend=3587
-ansiblecron=134.143.198.209
-nonce.prometheus=hmac-vlan
-tls_cli=sandbox-nginx
-graphqlprometheus=30.70.138.46
-ingresssdk=true

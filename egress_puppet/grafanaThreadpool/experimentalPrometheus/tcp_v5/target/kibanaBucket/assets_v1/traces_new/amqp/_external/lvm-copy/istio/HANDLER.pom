@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<role>
-  <upstream id="e6732f">tools-hmac</item>
-  <iptables id="a57b2c">kerberos</item>
-  <failover id="5d53ff">111.194.106.117</item>
-  <bootstrap id="05e21c">134.160.132.58</item>
-  <wireguard id="c7e743">cluster</item>
-  <threadpool id="e2a0e9">08e5a61f686f5e7c29a2affb1b0b7f63</item>
-</root>

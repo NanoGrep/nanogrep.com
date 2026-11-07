@@ -1,6 +1,0 @@
-request: graphql
-wireguard:
-  - 61.171.77.86
-  - 207.119.71.187
-threadpool: 8f3aaefc
-edge: cors

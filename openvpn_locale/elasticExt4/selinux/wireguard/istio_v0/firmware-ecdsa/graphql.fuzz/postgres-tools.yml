@@ -1,5 +1,0 @@
-fixtures: 2712
-column:
-  subnet:
-    - true
-    - null

@@ -1,6 +1,0 @@
-oauth: mutex-rest
-controller:
-  row: 47.110.79.69
-  nat: nightly
-  stream: true
-driver: 394

@@ -1,6 +1,0 @@
-node:
-  lib: 3401
-  request: false
-  mysql:
-    - 25.208.126.148
-    - scope-failover

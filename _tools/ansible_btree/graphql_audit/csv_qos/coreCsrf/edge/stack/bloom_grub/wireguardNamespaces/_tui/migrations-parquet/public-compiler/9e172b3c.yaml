@@ -1,9 +1,0 @@
-response: 810cfda19f5e4e8c
-envoy: origin-retry
-cli: true
-patch:
-  hmac:
-    mirror: audit
-  beta: false
-  grpc:
-    - service-payload

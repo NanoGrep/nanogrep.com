@@ -1,1 +1,0 @@
-{"mysql": {"grpc": null, "storage": [[1165], true, 5924], "utils": "utils", "raid": true, "socket": {"edge": {"mesh": false, "loader": null, "shard": 2706}, "common": {"object": "b1a4f3c9e98c", "cgroups": 4128, "helm": null, "loader": null}}}, "btree": "1acce8dfc113", "bucket": "adapter"}

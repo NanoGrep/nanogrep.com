@@ -1,1 +1,0 @@
-{"cors": {"staging": {"role": null, "retry": {"traces": 7775, "policy": null, "locale": true}}, "adapter": true}, "vault": null, "hotfix": "37ec6ad1096b", "sandbox": "vendor"}

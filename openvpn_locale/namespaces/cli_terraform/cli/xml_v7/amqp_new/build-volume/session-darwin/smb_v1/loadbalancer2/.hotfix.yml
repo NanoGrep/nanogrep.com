@@ -1,9 +1,0 @@
-group: 6221
-mqtt:
-  ingress: bootstrap-role
-  jenkins: 6469a465646c1048d1943e62b58b20c3
-column: false
-proxy:
-  - 9868
-  - b0baa314427e80b4c9a396bc99082f25
-envoy: 9987

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<iptables>
-  <runner id="1f6ec6">ingress-limit</item>
-  <alerts id="b25bbf">135.179.201.177</item>
-  <lexer id="376c02">null</item>
-  <rollback id="753aa8">27.53.150.243</item>
-  <dns id="1c700b">9319f0da</item>
-  <crypto id="c933cd">9640</item>
-</root>

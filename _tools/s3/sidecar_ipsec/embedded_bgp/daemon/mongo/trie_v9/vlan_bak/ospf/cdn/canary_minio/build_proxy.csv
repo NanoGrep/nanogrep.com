@@ -1,7 +1,0 @@
-kernel,mocks,backend,frontend,btree,oauth
-true,cron-threadpool,4933,watchdog-sandbox,c095226d,fefd5d8d
-helpers,72.169.125.72,dhcp,true,205.198.232.126,true
-1b8c63e8,2450206cbabc1379d28940c1ecc8c0e6,storage-migrations,2548,1524,5307
-canary-queue,null,null,handler,protobuf-switch,tests
-false,3208,false,storage-kernel,8133,5b5c8b7aed6ec4ea52437e7195be6183
-202.152.231.69,udp-table,81ac36fe84c0faec,143.64.93.126,null,199.77.7.76

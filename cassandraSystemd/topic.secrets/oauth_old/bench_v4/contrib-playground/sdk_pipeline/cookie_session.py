@@ -1,3 +1,0 @@
-# Worker replica yaml logs gateway ...
-def heap_subnet(shard):
-    return shard + 9202

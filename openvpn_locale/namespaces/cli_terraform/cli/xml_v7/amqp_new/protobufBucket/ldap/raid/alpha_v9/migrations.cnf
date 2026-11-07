@@ -1,9 +1,0 @@
-assets.jenkins=9003
-originrequest=true
-dhcp_redis=ceph
-aes_vendor=3330
-helmtable=vxlan-crypto
-probepod=1521
-rollback_worker=fb91e9c36045dae3
-lexeraes=6086
-iptables_object=cgroups

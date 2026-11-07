@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<token>
-  <udp id="97bfef">238.183.18.96</item>
-  <cluster id="053489">prometheus</item>
-  <rollback id="9c83ad">null</item>
-  <failover id="1b0405">build-prometheus</item>
-  <aes id="62f638">75e9b0895680f7c3</item>
-  <cursor id="4de466">13.51.148.33</item>
-</root>

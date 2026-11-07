@@ -1,6 +1,0 @@
-stream:
-  redis:
-    frontend: 243.147.33.42
-  vendor: 168.114.63.147
-  common: c43abffbbbc7b59f
-  mongo: 246.202.108.246

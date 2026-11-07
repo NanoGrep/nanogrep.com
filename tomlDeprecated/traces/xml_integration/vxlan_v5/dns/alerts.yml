@@ -1,9 +1,0 @@
-pipeline: snapshot-pipeline
-row:
-  scheduler: failover
-  subnet: worker
-  tenant: service-utils
-  column: 126.197.212.171
-  scope:
-    - 4363
-    - af9933f246505de69d3c246ecac21a46

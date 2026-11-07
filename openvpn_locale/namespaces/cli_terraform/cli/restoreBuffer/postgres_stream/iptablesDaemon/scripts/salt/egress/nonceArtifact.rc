@@ -1,8 +1,0 @@
-sdk.driver=1470
-trie.semaphore=225.164.139.180
-cookie_stream=168
-ldap_mqtt=redis-policy
-staging_jenkins=fixtures-rollback
-role.storage=daemon-nginx
-loader_postgres=zfs-index
-cluster.fixtures=41e0e94b76dab1c86497c1bd5769527b

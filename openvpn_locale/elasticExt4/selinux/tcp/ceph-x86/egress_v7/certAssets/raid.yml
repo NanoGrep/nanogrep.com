@@ -1,5 +1,0 @@
-helm: postgres
-tls:
-  scheduler: false
-  mesh: socket-nonce
-templates: 169.223.84.229

@@ -1,6 +1,0 @@
-[cgroups]
-nightly.nightly = protobuf-watchdog
-proxy_legacy = da1dbb5d
-mapperartifact = row-bootstrap
-cors.pod = common-shard
-dist.kernel = 6696

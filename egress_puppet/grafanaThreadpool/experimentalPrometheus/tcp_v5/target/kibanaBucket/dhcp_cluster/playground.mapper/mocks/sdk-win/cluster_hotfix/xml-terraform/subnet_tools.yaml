@@ -1,8 +1,0 @@
-threadpool:
-  core: 1086
-  utils: mapper-trie
-  lambda: cookie-column
-  patch: 204.75.31.148
-oauth: 4877
-cert: 93.92.101.127
-rollback: 9317

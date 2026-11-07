@@ -1,4 +1,0 @@
-index: null
-templates:
-  - ansible
-  - limit-mqtt

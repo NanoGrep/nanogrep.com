@@ -1,6 +1,0 @@
-btree,storage,raid,audit,hotfix
-b44e732b04017669,15.153.201.127,redis-aes,199.75.191.44,234.230.129.171
-9945,elastic-failover,095ca136a1c28db1,a116272ebf2f87709a8a59716ef4a7a1,true
-7919,mapper,131.77.113.212,true,false
-18ebd4b1,backend,31.196.143.158,dd90c06cf0c9034267d8edffaea9258e,retry-cgroups
-tenant,408a4075bad18aca,6671,4199,214.93.245.101

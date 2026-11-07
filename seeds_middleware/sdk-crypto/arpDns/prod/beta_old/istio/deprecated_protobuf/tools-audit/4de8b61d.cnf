@@ -1,5 +1,0 @@
-kafka.backend=env-object
-hotfix_tools=terraform-yaml
-daemon.switch=9711
-kafka_nat=false
-vlan.cache=edge

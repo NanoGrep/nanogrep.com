@@ -1,9 +1,0 @@
-[graphql]
-bgp.session = 92.56.192.175
-env_bgp = 232.107.58.12
-backup.crypto = 1667
-utilsfirmware = nginx
-salt_tests = 03a9a020
-protobuf.sdk = role-proxy
-prometheuspod = 4e66049362d18d9f549b389fb71aea77
-firmwarebucket = core

@@ -1,8 +1,0 @@
-table: 23.62.40.37
-quic: upstream
-postgres:
-  pod:
-    - 24.170.63.237
-firewall: 8417fd3b9ede9937
-subnet: 7118
-lambda: 282ca50edd69497801a2fc9a4c6c7d95

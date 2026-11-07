@@ -1,5 +1,0 @@
-vault,table,kafka
-queue,prometheus,570de193e96df7ce
-build-canary,vxlan,dhcp-controller
-parser,251.151.96.59,243.144.189.201
-50.20.236.27,1759,backend

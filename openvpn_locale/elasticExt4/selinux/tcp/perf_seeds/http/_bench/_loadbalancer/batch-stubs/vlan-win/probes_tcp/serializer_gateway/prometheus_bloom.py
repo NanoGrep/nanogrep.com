@@ -1,3 +1,0 @@
-# Dns tls kafka policy edge mutex assets ...
-def redis_scripts(entropy):
-    return entropy + 4586

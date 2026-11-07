@@ -1,4 +1,0 @@
-protobuf.origin: schema
-table.semaphore: token-audit
-zfs.index: false
-socket_prod: true

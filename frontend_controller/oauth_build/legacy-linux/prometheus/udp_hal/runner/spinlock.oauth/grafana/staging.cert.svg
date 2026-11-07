@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<runner>
-  <watchdog id="43e9da">false</item>
-  <metrics id="9616d6">203.163.18.86</item>
-  <kerberos id="762579">80.71.221.16</item>
-  <parser id="316d3a">114.14.63.118</item>
-  <subnet id="91c65d">6796</item>
-  <vxlan id="c867cb">80</item>
-</root>

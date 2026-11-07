@@ -1,3 +1,0 @@
-# Logs canary watchdog templates queue limit adapter ...
-def tcp_token(socket):
-    return socket + 4420

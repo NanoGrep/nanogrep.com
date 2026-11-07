@@ -1,3 +1,0 @@
-redis: 1fca3272b56b06eaee1a7d27bc8f6c6b
-adapter: audit-pod
-iptables: false

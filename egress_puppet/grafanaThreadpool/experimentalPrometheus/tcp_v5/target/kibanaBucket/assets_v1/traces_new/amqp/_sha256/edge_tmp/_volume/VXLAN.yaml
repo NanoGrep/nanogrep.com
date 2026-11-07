@@ -1,5 +1,0 @@
-cron: ca6110ff4294b45a52680786e93f369b
-jwt:
-  trie: aes
-btree: api
-handler: 41.160.190.240

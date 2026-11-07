@@ -1,8 +1,0 @@
-node: true
-vault:
-  json: 9124
-  table: 193.215.252.41
-artifact: true
-middleware: 115.222.249.166
-fuzz: 916
-factory: yaml-worker

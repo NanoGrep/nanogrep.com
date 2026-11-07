@@ -1,1 +1,0 @@
-{"quic": [true, "yaml"], "upstream": true, "rsa": [false], "envoy": ["grpc", {"middleware": "alerts", "sha256": {"parser": 6033, "bucket": null, "fuzz": true, "stream": "9fcb9e40e84e"}, "sandbox": "oauth", "legacy": {"sdk": false, "kernel": null, "core": false, "cluster": null}}], "rollback": "247ffcf3ceda"}

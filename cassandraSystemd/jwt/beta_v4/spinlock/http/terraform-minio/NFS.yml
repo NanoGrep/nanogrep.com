@@ -1,9 +1,0 @@
-prod: d2f032b02d6f74a7
-nightly: false
-audit: subnet-vault
-legacy:
-  stream: raid
-  nginx: 69.173.231.201
-mysql: fb8f4314
-compiler:
-  frontend: yaml

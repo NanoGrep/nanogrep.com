@@ -1,1 +1,0 @@
-{"mesh": {"router": [[], true, {"request": "zfs", "replica": 697, "bucket": "session"}, {"pod": "f03bcc186231", "replica": "0690672256a4", "subnet": true, "sandbox": true}], "threadpool": "311c02fc322e"}, "http": {"terraform": false, "logs": true, "patch": false}}

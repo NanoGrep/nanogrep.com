@@ -1,3 +1,0 @@
-bootstrap:
-  rollback: legacy
-  backend: 23.134.212.98

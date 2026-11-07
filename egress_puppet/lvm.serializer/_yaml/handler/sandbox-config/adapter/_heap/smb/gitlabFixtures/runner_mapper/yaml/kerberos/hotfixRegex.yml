@@ -1,7 +1,0 @@
-mesh: 714
-config: runner-controller
-rest: 8233
-assets:
-  - 6267
-  - 125.140.92.231
-  - canary

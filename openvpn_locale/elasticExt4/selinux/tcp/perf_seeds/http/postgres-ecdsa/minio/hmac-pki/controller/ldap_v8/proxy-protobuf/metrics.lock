@@ -1,8 +1,0 @@
-{
-    "firmware": [],
-    "kerberos": [
-        "cli",
-        false
-    ],
-    "mesh": "abde6a64ad0f"
-}

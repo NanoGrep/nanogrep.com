@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<scope>
-  <storage id="8a80ff">middleware</item>
-  <trie id="fcb23d">false</item>
-  <cors id="b23c22">kernel</item>
-  <proxy id="86fadb">4908</item>
-  <ldap id="89d2dc">false</item>
-  <json id="340a47">registry-cron</item>
-</root>

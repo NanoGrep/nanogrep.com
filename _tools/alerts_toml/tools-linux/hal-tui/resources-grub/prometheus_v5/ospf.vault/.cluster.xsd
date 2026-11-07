@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<cron>
-  <udp id="6997d2">207.162.184.198</item>
-  <frontend id="222244">4715</item>
-  <salt id="6e193c">false</item>
-  <kernel id="dd71a7">env</item>
-  <row id="a49865">18f8d2250b5725c8</item>
-  <staging id="43aac9">ef40cde7058ee7c1</item>
-</root>

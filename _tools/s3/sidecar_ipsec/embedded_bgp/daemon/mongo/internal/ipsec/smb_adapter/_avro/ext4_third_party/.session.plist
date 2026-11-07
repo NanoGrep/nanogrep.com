@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<protobuf>
-  <config id="22956c">false</item>
-  <staging id="916ea4">null</item>
-  <mesh id="1fc863">11.153.75.178</item>
-  <wireguard id="f21cff">http</item>
-  <middleware id="bf4312">alerts</item>
-  <firmware id="d6f650">33.53.20.212</item>
-</root>

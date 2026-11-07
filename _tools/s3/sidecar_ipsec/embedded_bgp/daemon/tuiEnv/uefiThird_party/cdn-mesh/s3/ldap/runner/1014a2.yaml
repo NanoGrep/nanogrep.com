@@ -1,9 +1,0 @@
-systemd: ceph-dist
-table: offset
-cron:
-  helpers: null
-crypto:
-  - true
-  - 9230
-  - replica-rsa
-udp: mocks

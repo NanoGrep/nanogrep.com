@@ -1,9 +1,0 @@
-schema: 7154
-websocket:
-  tls: cert-schema
-  edge: compiler-rest
-  artifact:
-    - 179.227.211.138
-    - 56.114.65.128
-router: bgp
-origin: true

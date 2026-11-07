@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<firewall>
-  <ingress id="23a2e2">5416</item>
-  <artifact id="9248eb">retry</item>
-  <api id="ec5ced">162.10.84.193</item>
-  <hotfix id="c1cdaf">218.73.191.235</item>
-  <tenant id="f4a95b">mocks-postgres</item>
-  <kafka id="c52f89">nightly</item>
-</root>

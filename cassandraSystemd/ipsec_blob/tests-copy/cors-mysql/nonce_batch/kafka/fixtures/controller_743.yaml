@@ -1,6 +1,0 @@
-tenant:
-  mutex: 3031
-  group: vault-compiler
-  driver: 208.132.53.205
-  column: 0ef82d47ca702814
-  helpers: ef1f8a2e9a7233d8

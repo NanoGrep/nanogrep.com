@@ -1,5 +1,0 @@
-btree: 204.198.20.80
-build:
-  heap: cookie-stream
-  canary: false
-mocks: schema-mapper

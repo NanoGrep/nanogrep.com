@@ -1,7 +1,0 @@
-jenkins:
-  - proxy-tenant
-  - column
-  - 5877
-  - mocks-iptables
-pod: utils-fixtures
-parser: rest-aes

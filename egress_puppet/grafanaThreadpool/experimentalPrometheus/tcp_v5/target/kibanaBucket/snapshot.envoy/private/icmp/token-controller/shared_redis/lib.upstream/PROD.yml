@@ -1,5 +1,0 @@
-origin: 91.112.51.195
-cron:
-  redis: null
-build: 147.103.25.218
-stack: lib-jenkins

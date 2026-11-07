@@ -1,8 +1,0 @@
-node: queue
-tests: db1879c471ed51df
-build: tcp
-prometheus:
-  controller: true
-ldap: 1744
-core:
-  handler: 800

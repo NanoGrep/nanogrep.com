@@ -1,6 +1,0 @@
-mqtt: bgp
-cluster: 3512
-edge: scheduler
-batch: 198.201.163.141
-build:
-  - 4691

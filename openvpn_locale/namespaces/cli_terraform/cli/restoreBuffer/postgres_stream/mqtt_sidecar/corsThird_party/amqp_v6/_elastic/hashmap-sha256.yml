@@ -1,8 +1,0 @@
-sha256: regex
-json: true
-backup:
-  - response-staging
-  - 3e22251dcdc0f51789c771ab1b173f7d
-  - request-sha256
-  - false
-prod: 6423

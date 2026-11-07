@@ -1,1 +1,0 @@
-{"nfs": {"bootstrap": [["b913c8b9cc97", "a3283b4d518b"], [], {"payload": "storage", "hashmap": "0cd07bd79cf3", "vxlan": "crypto", "handler": false}, ["7991a46d5126", 4966, "20ba8fb7b6d6"]]}, "object": [{"retry": [3440, "replica"], "schema": ["bd0b6f1820eb", true], "mirror": null}, 6660]}

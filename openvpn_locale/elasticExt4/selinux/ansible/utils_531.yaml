@@ -1,7 +1,0 @@
-user:
-  - controller-cert
-  - scripts-core
-  - fbe3e73b700b40fc53e86f4d6afcf02a
-policy: heap-cli
-sdk: 16
-kernel: 30565a22d035923e61ad2cb2f68bb378

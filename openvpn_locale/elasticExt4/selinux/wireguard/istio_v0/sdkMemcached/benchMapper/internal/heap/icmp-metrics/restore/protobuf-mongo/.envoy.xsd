@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<tools>
-  <rsa id="7c1fd2">null</item>
-  <request id="406d03">nat</item>
-  <fuzz id="bf0f92">upstream</item>
-  <switch id="783225">parser</item>
-</root>

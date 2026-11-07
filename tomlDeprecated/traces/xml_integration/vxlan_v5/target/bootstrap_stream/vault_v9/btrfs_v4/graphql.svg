@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<buffer>
-  <pipeline id="51b475">148.134.27.186</item>
-  <regex id="17943a">null</item>
-  <failover id="7f2674">true</item>
-  <column id="ed19b3">cert</item>
-</root>

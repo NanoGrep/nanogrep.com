@@ -1,6 +1,0 @@
-middleware: 2f79a791499c1c9341aad53c1b950439
-vlan: daemon
-token:
-  semaphore: 5741
-node: logs
-dhcp: websocket-rest

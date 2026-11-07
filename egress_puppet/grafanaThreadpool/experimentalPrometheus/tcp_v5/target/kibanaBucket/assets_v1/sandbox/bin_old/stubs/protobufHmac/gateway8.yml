@@ -1,6 +1,0 @@
-vault:
-  - 18.71.34.254
-limit: ceph
-cursor: mysql-frontend
-elastic: router-pipeline
-artifact: 7166

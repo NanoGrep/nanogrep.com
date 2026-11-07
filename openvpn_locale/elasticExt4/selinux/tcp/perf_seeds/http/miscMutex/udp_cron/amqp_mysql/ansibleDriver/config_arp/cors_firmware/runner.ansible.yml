@@ -1,8 +1,0 @@
-request: cert
-bench:
-  - cron-heap
-  - 152.124.146.27
-mutex: 83.35.17.183
-rest: stream-mocks
-row:
-  object: 0e7d5b8f13101ae5

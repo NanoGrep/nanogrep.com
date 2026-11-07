@@ -1,0 +1,257 @@
+/*
+ * Motion.
+ * Rules: content is never hidden waiting for JS; everything here is CSS and
+ * falls back to the final, static state when unsupported or reduced.
+ */
+
+/* Cross-document view transitions */
+@view-transition {
+  navigation: auto;
+}
+
+::view-transition-group(*) {
+  animation-duration: var(--dur-vt);
+  animation-timing-function: var(--ease-in-out);
+}
+
+/* Page change: the new page wipes in from the left over the old one, which
+   dims and drifts back slightly (the match block direction). */
+::view-transition-old(root) {
+  animation: vt-recede var(--dur-vt-page) var(--ease-in-out) both;
+}
+
+::view-transition-new(root) {
+  animation: vt-wipe var(--dur-vt-page) var(--ease-in-out) both;
+}
+
+@keyframes vt-recede {
+  to {
+    opacity: 0.25;
+    transform: translateX(-3%);
+  }
+}
+
+@keyframes vt-wipe {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+}
+
+/* The header is the same on every page: it stays put instead of fading. */
+.header {
+  view-transition-name: site-header;
+}
+
+/* The nav match block slides between pages; blending keeps the label inverted. */
+::view-transition-group(match) {
+  mix-blend-mode: difference;
+}
+
+/* Headline entrance: each line rises from its mask while widening.
+   Pure CSS, runs once per load; without animation the text is final. */
+@keyframes rise-in {
+  from {
+    transform: translateY(130%);
+    font-stretch: 62%;
+  }
+}
+
+/* A 1 px rule drawn from left to right */
+@keyframes draw-x {
+  from {
+    transform: scaleX(0);
+  }
+}
+
+/* Section headings widen as they cross the viewport */
+@keyframes widen {
+  from {
+    font-stretch: 80%;
+  }
+}
+
+@keyframes reveal-up {
+  from {
+    transform: translateY(var(--shift-m));
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .rise-line > .rise-text {
+    animation: rise-in var(--dur-reveal) var(--ease-out) both;
+  }
+  .rise-line:nth-child(2) > .rise-text {
+    animation-delay: var(--stagger);
+  }
+  .rise-line:nth-child(3) > .rise-text {
+    animation-delay: calc(var(--stagger) * 2);
+  }
+
+  @supports (animation-timeline: view()) {
+    .rule-draw {
+      transform-origin: left;
+      animation: draw-x var(--ease-out) both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 100%;
+    }
+
+    .scroll-widen {
+      animation: widen var(--ease-out) both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 100%;
+    }
+
+    .reveal {
+      animation: reveal-up var(--ease-out) both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 100%;
+    }
+  }
+}
+
+/* JS motion layer (fx.ts, fx-hero.ts) ------------------------------------ */
+
+/* Hidden only while the script prepares them; visible after 2 s whatever
+   happens (the script normally shows them within a few milliseconds). */
+.motion [data-fx-hide] {
+  visibility: hidden;
+  animation: fx-failsafe 0s 2s forwards;
+}
+
+@keyframes fx-failsafe {
+  to {
+    visibility: visible;
+  }
+}
+
+/* GSAP takes over the scroll reveals the CSS does without JS. */
+.motion .reveal {
+  animation: none;
+}
+
+/* SVG filter definitions (no layout). */
+.fx-defs {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+/* Logo collapse / supernova layers (fx.ts), centred on the logo. */
+.fx-logo-core,
+.fx-logo-ring,
+.fx-logo-debris,
+.fx-logo-arm {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  pointer-events: none;
+  opacity: 0;
+}
+
+.fx-logo-core {
+  width: 8px;
+  height: 8px;
+  margin: -4px 0 0 -4px;
+  border-radius: 50%;
+  background-color: var(--color-paper);
+}
+
+.fx-logo-ring {
+  width: 14px;
+  height: 14px;
+  margin: -7px 0 0 -7px;
+  border: 1px solid var(--color-paper);
+  border-radius: 50%;
+}
+
+/* Infall: a zero-size arm at the centre that turns; its pixel slides in. */
+.fx-logo-arm {
+  width: 0;
+  height: 0;
+  opacity: 1;
+}
+
+.fx-logo-infall {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: 2px;
+  height: 2px;
+  background-color: var(--color-paper);
+  opacity: 0;
+}
+
+.fx-logo-debris {
+  width: 2px;
+  height: 2px;
+  margin: -1px 0 0 -1px;
+  background-color: var(--color-paper);
+}
+
+/* Black-hole cursor (fx.ts): lens (backdrop) + canvas with core, ring and
+   orbiting pixels. */
+.fx-hole {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 200;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  opacity: 0;
+}
+
+.fx-hole > * {
+  position: absolute;
+  left: 0;
+  top: 0;
+  translate: -50% -50%;
+}
+
+.fx-hole-lens {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  backdrop-filter: url(#fx-lens);
+  transition: opacity var(--dur-ui) var(--ease-out);
+}
+
+/* visibility (not just opacity) so the browser stops computing the lens:
+   a backdrop-filter is re-run every frame while anything moves behind it. */
+.fx-hole.is-over-target .fx-hole-lens {
+  opacity: 0;
+  visibility: hidden;
+  transition:
+    opacity var(--dur-ui) var(--ease-out),
+    visibility 0s var(--dur-ui);
+}
+
+.fx-hole-orbit {
+  width: 96px;
+  height: 96px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation-duration: var(--dur-reduced) !important;
+  }
+
+  ::view-transition-group(match),
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation: none !important;
+  }
+}
+
+@media print {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

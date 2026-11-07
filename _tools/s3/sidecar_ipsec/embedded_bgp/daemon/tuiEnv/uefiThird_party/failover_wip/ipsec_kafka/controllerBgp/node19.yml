@@ -1,5 +1,0 @@
-locale:
-  cron: iptables-lexer
-  nat:
-    - firewall
-sandbox: subnet

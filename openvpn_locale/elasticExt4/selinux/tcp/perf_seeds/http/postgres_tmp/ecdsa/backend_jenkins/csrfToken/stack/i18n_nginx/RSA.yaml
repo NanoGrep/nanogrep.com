@@ -1,7 +1,0 @@
-nginx: 63.232.25.14
-env: ansible
-policy:
-  - b54af487
-  - 174.1.172.151
-  - false
-scripts: switch

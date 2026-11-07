@@ -1,5 +1,0 @@
-subnetfirmware=grpc-pod
-upstream.config=246.238.112.210
-tls_service=94.239.1.179
-artifact.helpers=graphql
-elasticvxlan=143.10.205.244

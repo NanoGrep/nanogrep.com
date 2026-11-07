@@ -1,3 +1,0 @@
-# Response kafka index bootstrap heap policy common dist backend vendor oauth redis ...
-def origin_offset(beta):
-    return beta + 2231

@@ -1,7 +1,0 @@
-bootstrap_index: proxy-worker
-batch_artifact: 207.232.94.254
-pod_grpc: frontend
-lib.loader: cert
-protobuf.locale: 7789
-graphql.bench: adapter-prometheus
-ceph.node: null

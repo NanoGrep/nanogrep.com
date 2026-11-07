@@ -1,1 +1,0 @@
-{"compiler": true, "api": [[], 5213], "bucket": {"core": "bootstrap", "mocks": {"nonce": 3536}, "env": "coroutine", "mqtt": [{"hashmap": null, "shard": "ad6c3d4f2c32", "bootstrap": null, "config": false}, "380681367a30", "rsa", {"raid": "proxy", "router": null, "switch": 908, "scripts": "env", "build": null, "user": "jwt"}]}}

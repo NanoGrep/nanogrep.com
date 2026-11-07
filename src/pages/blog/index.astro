@@ -1,0 +1,8 @@
+---
+import BlogArchive from "../../components/BlogArchive.astro";
+import { getPublishedPosts } from "../../lib/posts";
+
+const posts = await getPublishedPosts();
+---
+
+<BlogArchive allPosts={posts} posts={posts} />

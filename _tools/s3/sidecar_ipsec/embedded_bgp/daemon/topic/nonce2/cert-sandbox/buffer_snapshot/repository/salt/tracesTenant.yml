@@ -1,6 +1,0 @@
-regex:
-  snapshot: entropy
-  entropy: 0ba4165a4f412ad1e0be052d6d0bf06c
-  vlan: 207.196.167.16
-redis: 076cc93c24adbcdd7ec21f6217bb225d
-mutex: 116.3.136.98

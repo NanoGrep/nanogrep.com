@@ -1,5 +1,0 @@
-column: runner
-bucket: firewall-btree
-cookie:
-  beta: false
-  limit: 14.56.192.189

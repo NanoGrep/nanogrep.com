@@ -1,8 +1,0 @@
-patch,role,beta
-225.170.73.128,209.213.213.53,pipeline-firewall
-0604cf45cb2f4f99,lambda-rollback,1045
-6025,false,da51bf6c126c04e5d1ea2738f1ff1ff6
-postgres,firewall,2e21f398fb5c01f2
-mysql-user,150.84.250.197,true
-d47ec58680ebc89b,39.191.171.117,d79a2d84
-9438,172.64.34.153,ae3bab69

@@ -1,8 +1,0 @@
-cluster:
-  - false
-  - 8778
-  - 4116afefdcd1469d
-heap:
-  queue: null
-alerts: 75e54dba
-logs: 80.91.127.40

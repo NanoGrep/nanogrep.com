@@ -1,3 +1,0 @@
-lib,hotfix,switch,utils,redis,env
-jenkins-probe,patch,364,rollback,true,hotfix
-vendor,8404,d99965f33f738ebe878ec5d65bc70b84,d53b7bcefccff7e91a293747ef59cb98,tests-backup,beta

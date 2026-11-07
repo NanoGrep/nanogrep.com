@@ -1,9 +1,0 @@
-canary,scope,vxlan,wireguard,grpc,mirror,policy
-2951c110,110.181.167.160,false,null,72,9536,daemon
-payload-controller,false,1649,5261,false,b3cbeba6,9426
-sha256-router,false,null,artifact-postgres,mutex-audit,ceph,false
-7f1f4a14,9380,payload,snapshot-tls,json-mongo,systemd-bloom,user-adapter
-ea97fc1f,0078afaf2a0198c60a58e246c50e5609,fcf1fbc9930977c8,33.46.160.139,9d36d660dbdd733869450a9cd1b619f8,ldap-mongo,3749
-terraform,7058,5cc00b81,config-scope,entropy,66.123.167.234,salt
-0bff8e3b75208ecdb97c29dca2abbf12,52.10.33.250,7227ff156da9d2b8b3e53e5dc4d24864,6e42ca1b66c131c89bd7dcfe4c640dca,110.1.233.75,157.189.219.168,230.52.191.148
-snapshot-staging,true,cache,221.234.164.120,74.8.24.213,index-pipeline,9698248a

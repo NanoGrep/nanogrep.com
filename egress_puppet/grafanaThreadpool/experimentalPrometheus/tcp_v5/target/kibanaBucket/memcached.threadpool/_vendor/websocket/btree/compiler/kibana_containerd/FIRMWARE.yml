@@ -1,7 +1,0 @@
-switch: scripts
-audit: 0338c390dd008bf7
-mocks:
-  - 73.107.61.14
-  - true
-pod: 9d35c8ee03048920c2ab9d9254e6df63
-websocket: proxy

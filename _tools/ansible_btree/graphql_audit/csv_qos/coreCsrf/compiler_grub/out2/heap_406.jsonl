@@ -1,1 +1,0 @@
-{"prod": 3761, "factory": 1429, "mysql": [], "gateway": {"ingress": {"migrations": {"ansible": "mongo", "sdk": "registry", "terraform": "590678200871", "cron": "crypto", "worker": null, "scope": "proxy"}, "mutex": {"backup": null, "tcp": false, "grpc": false, "vault": null}, "aes": false, "prod": ["54a9cfcacddb", true], "entropy": {"switch": "18923479c97b"}}}, "pod": [6051]}

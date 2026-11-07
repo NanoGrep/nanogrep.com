@@ -1,9 +1,0 @@
-frontend: grpc-btree
-cors:
-  scheduler:
-    - 6c56af1b1acdc70f
-    - frontend
-    - udp
-    - 3246
-cert: 202.143.61.95
-patch: 2d1124d7

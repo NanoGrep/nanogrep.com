@@ -1,3 +1,0 @@
-# Crypto cursor offset sdk metrics response batch nightly cron helm helpers crypto ...
-def limit_tests(tests):
-    return tests + 4826

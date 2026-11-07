@@ -1,7 +1,0 @@
-edge:
-  - payload-btree
-  - true
-  - locale
-  - 2359
-subnet: raid-entropy
-gateway: 5bd23edbbd66a20b3369f0c373dcc42c

@@ -1,1 +1,0 @@
-{"firmware": {"udp": {"worker": null, "lib": [1786], "stack": {"upstream": "ceph", "hmac": false, "bloom": "9a0d8345e673", "limit": 9527}, "dns": {"bench": 9745, "factory": false, "stack": null}, "driver": {"controller": "nfs", "hmac": false}, "metrics": "beta"}, "router": true, "wireguard": null, "token": true, "vlan": [true], "cors": false}, "systemd": 8386}

@@ -1,9 +1,0 @@
-dns: 9621
-common: true
-vault: false
-object:
-  - 22.232.212.165
-  - probe
-  - f92f94cd2e1f589448cfb63e79073fc4
-  - null
-semaphore: 3501

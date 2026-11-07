@@ -1,3 +1,0 @@
-# Trie migrations mapper pipeline registry volume traces jenkins metrics ...
-def cert_watchdog(legacy):
-    return legacy + 4046

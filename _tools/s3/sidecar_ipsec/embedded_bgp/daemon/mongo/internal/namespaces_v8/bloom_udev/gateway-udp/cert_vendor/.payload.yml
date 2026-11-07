@@ -1,5 +1,0 @@
-legacy:
-  fuzz: 126.19.126.218
-  session:
-    - 6419
-pipeline: batch

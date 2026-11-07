@@ -1,0 +1,36 @@
+---
+import Tag from "./Tag.astro";
+
+interface Props {
+  tags: string[];
+  current?: string;
+}
+
+const { tags, current } = Astro.props;
+---
+
+{
+  tags.length > 0 && (
+    <nav class="tag-list" aria-label="Tags" lang="en">
+      <ul role="list">
+        {tags.map((tag) => (
+          <li>
+            <Tag tag={tag} current={tag === current} />
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )
+}
+
+<style>
+  .tag-list {
+    margin-top: var(--spacing-xl);
+  }
+
+  .tag-list ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs);
+  }
+</style>

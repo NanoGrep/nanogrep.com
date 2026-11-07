@@ -1,1 +1,0 @@
-{"hmac": false, "cluster": [false, {"cookie": null}, [[null, true]]], "helm": {"websocket": true, "nfs": "0dcd5656c5e6", "cookie": ["1950f4bc5f97"]}, "protobuf": false, "quic": "mesh"}

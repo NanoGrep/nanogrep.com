@@ -1,5 +1,0 @@
-ldap:
-  token: false
-  build: null
-  switch: 68ea80134b3dc1dd5398db9d12a2ca1f
-  nginx: regex

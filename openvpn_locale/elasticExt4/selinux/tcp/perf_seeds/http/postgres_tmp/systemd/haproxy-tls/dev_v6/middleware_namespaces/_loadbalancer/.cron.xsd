@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<tools>
-  <replica id="2f5d54">common</item>
-  <ldap id="9a3da6">false</item>
-  <nfs id="aafab1">9667</item>
-  <bench id="3408d5">helpers</item>
-</root>

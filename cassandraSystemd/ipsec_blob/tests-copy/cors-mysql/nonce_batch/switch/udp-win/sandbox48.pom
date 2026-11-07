@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<cookie>
-  <topic id="ad6f93">scripts-audit</item>
-  <service id="07dbd8">null</item>
-  <snapshot id="45d3c2">false</item>
-  <bloom id="a0e724">1677</item>
-  <rest id="726d33">6189</item>
-  <mesh id="626c16">runner</item>
-</root>

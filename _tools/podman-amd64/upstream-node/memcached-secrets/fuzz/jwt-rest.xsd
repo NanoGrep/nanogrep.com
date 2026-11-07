@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<queue>
-  <semaphore id="3fa5d6">false</item>
-  <payload id="4ab6cf">120.119.103.20</item>
-  <failover id="fd15bf">helpers-controller</item>
-  <rsa id="1d9b1e">null</item>
-  <retry id="339a79">183.125.254.206</item>
-  <upstream id="27e2a2">19.97.181.101</item>
-</root>

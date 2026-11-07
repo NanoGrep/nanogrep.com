@@ -1,6 +1,0 @@
-coroutine: 109ce72b
-kernel: null
-ansible:
-  replica: api-offset
-config: 165.12.236.62
-bgp: 8106

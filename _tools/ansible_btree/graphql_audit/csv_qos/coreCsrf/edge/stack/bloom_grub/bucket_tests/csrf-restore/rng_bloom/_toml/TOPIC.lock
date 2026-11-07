@@ -1,9 +1,0 @@
-[
-    {
-        "tls": 9310,
-        "cert": {
-            "alerts": false
-        },
-        "stack": 2404
-    }
-]

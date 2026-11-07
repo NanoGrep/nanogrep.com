@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<nginx>
-  <api id="d2dc37">35.181.199.193</item>
-  <role id="26f759">true</item>
-  <nfs id="0fba37">bdd87d8a67ba57d8</item>
-  <systemd id="e8d13a">f1c99b61</item>
-  <env id="a8ded6">117.10.26.208</item>
-  <fuzz id="61aefb">30.61.99.210</item>
-</root>

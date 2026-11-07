@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<ceph>
-  <payload id="e5b29c">false</item>
-  <redis id="aa8f95">null</item>
-  <cli id="d9c928">tcp</item>
-  <backend id="1397a1">67.247.218.239</item>
-</root>

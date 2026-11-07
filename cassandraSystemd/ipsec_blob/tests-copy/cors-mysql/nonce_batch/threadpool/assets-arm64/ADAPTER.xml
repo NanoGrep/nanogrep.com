@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<ldap>
-  <postgres id="972a25">helpers</item>
-  <aes id="75a0b4">quic</item>
-  <proxy id="c18b6b">false</item>
-  <cache id="2fa368">null</item>
-  <helm id="f74b52">8143d17e</item>
-</root>

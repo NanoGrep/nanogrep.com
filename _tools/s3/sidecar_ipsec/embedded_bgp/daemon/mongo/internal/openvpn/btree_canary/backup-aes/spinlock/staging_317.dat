@@ -1,7 +1,0 @@
-firewall,bootstrap,factory,gateway,heap
-1520,false,mocks,649,163.129.217.13
-5414,253.219.253.201,5972,7712e3bf4ecf33b1,alerts-response
-hotfix,76.131.254.87,backend,nfs,3672
-true,false,router,161.124.120.90,true
-7112,d3a344cb31cd0b73,39.51.70.108,false,socket-mirror
-true,6346,484f9aaa,cgroups-jwt,667

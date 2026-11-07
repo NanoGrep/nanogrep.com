@@ -1,8 +1,0 @@
-mysql: 56.126.28.86
-rest:
-  group: ed6e0c48a4b2b3f3224f8ab1b2bdd4d0
-  dist: 452
-subnet:
-  protobuf: true
-  policy: 5ce09a9d376d54d3
-  terraform: aa2dbe9bb2ce1a334f6ca77ad93bc471

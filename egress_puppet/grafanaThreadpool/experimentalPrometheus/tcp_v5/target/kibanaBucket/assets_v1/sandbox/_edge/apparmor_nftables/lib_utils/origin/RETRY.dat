@@ -1,5 +1,0 @@
-oauth,proxy,nightly,sandbox,audit,ldap
-8364,true,3422,4186,9796,216.183.123.143
-76.71.187.13,5290,graphql-socket,build-policy,true,mesh
-lexer-metrics,column-bloom,3ef096c0,fd03cca2e2d67093aa734e7b06c02653,4376,63be3cb2fc3e2ed6
-subnet-http,4942,mapper,7658,9023,envoy

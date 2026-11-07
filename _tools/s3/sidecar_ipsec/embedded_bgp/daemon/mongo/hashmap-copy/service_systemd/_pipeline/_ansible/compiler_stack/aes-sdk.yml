@@ -1,4 +1,0 @@
-mongo:
-  stream: rsa-mqtt
-  canary: threadpool-hashmap
-  firewall: scheduler

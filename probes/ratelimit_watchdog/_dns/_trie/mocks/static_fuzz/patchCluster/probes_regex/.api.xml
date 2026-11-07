@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<postgres>
-  <kafka id="f65afb">true</item>
-  <bootstrap id="f4605b">response</item>
-  <cgroups id="087f06">null</item>
-</root>

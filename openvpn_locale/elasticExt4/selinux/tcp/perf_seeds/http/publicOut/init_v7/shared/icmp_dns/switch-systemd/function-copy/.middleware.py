@@ -1,3 +1,0 @@
-# Rsa btree zfs batch ...
-def cgroups_subnet(worker):
-    return worker + 4706

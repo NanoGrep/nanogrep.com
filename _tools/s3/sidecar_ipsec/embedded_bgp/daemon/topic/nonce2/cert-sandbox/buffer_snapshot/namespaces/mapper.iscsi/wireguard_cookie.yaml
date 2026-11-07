@@ -1,8 +1,0 @@
-env:
-  - null
-  - frontend
-  - 247.243.170.248
-mqtt: 211
-grpc:
-  btree:
-    http: handler

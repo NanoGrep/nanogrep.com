@@ -1,9 +1,0 @@
-volume: false
-helm: false
-shard:
-  - 56.166.101.158
-  - group
-  - 4470
-  - true
-nat: 7225
-entropy: 100.186.160.190

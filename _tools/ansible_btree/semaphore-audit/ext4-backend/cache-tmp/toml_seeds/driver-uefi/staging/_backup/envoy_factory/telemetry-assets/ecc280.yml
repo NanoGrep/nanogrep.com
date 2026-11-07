@@ -1,7 +1,0 @@
-nonce:
-  - staging-column
-  - 8929
-  - http-json
-  - legacy
-mesh:
-  scope: dhcp-watchdog

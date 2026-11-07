@@ -1,5 +1,0 @@
-handler: true
-elastic:
-  - worker-hotfix
-  - 38c09f07ed1ea60b
-  - cookie

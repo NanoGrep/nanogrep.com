@@ -1,6 +1,0 @@
-audit: 224.148.3.89
-firewall: 68c1c4981c8230c6
-elastic:
-  scope: true
-  volume: null
-  tls: stack

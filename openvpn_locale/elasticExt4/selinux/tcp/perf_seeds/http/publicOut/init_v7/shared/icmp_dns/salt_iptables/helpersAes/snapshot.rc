@@ -1,4 +1,0 @@
-config_jenkins: 5136
-helpers.replica: 154.73.5.32
-queue_ansible: 1964f0bb
-firewall.vlan: 157.84.233.41

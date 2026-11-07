@@ -1,6 +1,0 @@
-adapter,upstream,terraform,lib,stream
-mysql-compiler,json-tools,200.105.184.111,5192,false
-stream-edge,5353,28.100.111.156,false,audit
-36.70.14.1,0fb396bd,d7f94c2184135bf6,null,null
-true,false,624ce4a4,false,null
-mutex,aes-proxy,replica,4367,vxlan-request

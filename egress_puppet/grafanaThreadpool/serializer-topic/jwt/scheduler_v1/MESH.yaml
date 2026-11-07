@@ -1,4 +1,0 @@
-cluster: logs-bootstrap
-btree: vxlan
-runner:
-  payload: bench

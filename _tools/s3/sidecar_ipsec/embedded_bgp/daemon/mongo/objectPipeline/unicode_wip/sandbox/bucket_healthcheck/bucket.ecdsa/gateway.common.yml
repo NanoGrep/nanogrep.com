@@ -1,8 +1,0 @@
-env:
-  canary: 71.36.45.199
-  locale: 3961
-  index:
-    - 06b9e34c
-  sdk: release
-salt:
-  bucket: fixtures-policy

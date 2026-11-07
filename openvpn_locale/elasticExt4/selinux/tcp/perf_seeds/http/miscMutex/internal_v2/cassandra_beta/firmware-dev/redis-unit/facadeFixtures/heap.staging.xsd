@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<zfs>
-  <prod id="be45ad">origin-threadpool</item>
-  <nonce id="bd867c">8e3ea4306022930a8d5340dfaee22580</item>
-  <vault id="687d1f">233.141.175.122</item>
-  <btree id="79c2f3">1984</item>
-  <nfs id="418bf7">postgres</item>
-  <hmac id="9be63d">1613</item>
-</root>

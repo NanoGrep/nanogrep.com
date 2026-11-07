@@ -1,5 +1,0 @@
-{
-    "table": false,
-    "locale": "traces",
-    "env": "redis"
-}

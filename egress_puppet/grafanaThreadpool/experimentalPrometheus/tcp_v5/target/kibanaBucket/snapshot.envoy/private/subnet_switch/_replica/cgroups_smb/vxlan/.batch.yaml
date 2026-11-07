@@ -1,8 +1,0 @@
-hashmap:
-  failover: true
-  prometheus:
-    stream: dhcp
-limit: 130.59.198.72
-grafana: 51.153.173.24
-backup: 219.67.58.21
-migrations: 27.176.248.8

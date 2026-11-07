@@ -1,5 +1,0 @@
-sdk: cert
-adapter:
-  - fixtures
-  - null
-  - false

@@ -1,0 +1,87 @@
+---
+/**
+ * Post search field for the blog archive side column: own UI on Pagefind's
+ * JS API, which only indexes posts. Results are drawn by
+ * search.ts into the [data-search-results] list of the main column. On a
+ * year page the search is limited to that year (Pagefind "year" filter).
+ * Without JS it is not shown.
+ */
+interface Props {
+  year?: string;
+}
+
+const { year } = Astro.props;
+---
+
+<div class="blog-search" lang="en" data-pagefind-ignore>
+  <label for="search-input" class="search-label label-meta">{year ? `Search ${year} posts` : "Search posts"}</label>
+  <input
+    id="search-input"
+    class="search-input"
+    type="search"
+    lang="es"
+    autocomplete="off"
+    spellcheck="false"
+    enterkeyhint="search"
+    aria-controls="search-results"
+    data-search-input
+    data-search-year={year}
+  />
+  <p class="search-summary" role="status" aria-live="polite" data-search-summary></p>
+</div>
+
+<script>
+  import "../scripts/search";
+</script>
+
+<style>
+  @media (scripting: none) {
+    .blog-search {
+      display: none;
+    }
+  }
+
+  .search-label {
+    display: block;
+    margin-bottom: var(--spacing-xs);
+    color: var(--color-faint);
+  }
+
+  .search-input {
+    width: 100%;
+    padding: var(--spacing-xs) 0;
+    border: 0;
+    border-bottom: 1px solid var(--color-line);
+    border-radius: 0;
+    background: transparent;
+    color: var(--color-paper);
+    font: inherit;
+    font-size: var(--text-body);
+    line-height: 1.4;
+  }
+
+  .search-input:focus-visible {
+    outline: none;
+    border-bottom-color: var(--color-paper);
+  }
+
+  .search-input::-webkit-search-cancel-button {
+    appearance: none;
+  }
+
+  /* Not uppercase: it repeats what the person typed. */
+  .search-summary {
+    margin-top: var(--spacing-xs);
+    min-height: 1.4em;
+    font-family: var(--font-mono);
+    font-size: var(--text-meta);
+    line-height: var(--text-meta--line-height);
+    color: var(--color-muted);
+  }
+
+  @media print {
+    .blog-search {
+      display: none;
+    }
+  }
+</style>

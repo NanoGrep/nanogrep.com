@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<grafana>
-  <audit id="247267">3404</item>
-  <entropy id="594448">247.239.229.137</item>
-  <daemon id="65849c">env-sandbox</item>
-  <oauth id="3140b7">nginx</item>
-  <jenkins id="96dd1e">0cd0214609c03d45948e267e308f3372</item>
-</root>

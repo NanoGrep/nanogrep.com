@@ -1,6 +1,0 @@
-oauth_http=service-pod
-columnschema=true
-dist_helm=f4e1f8f816ba2474
-threadpoolkafka=61.201.225.177
-mutexapi=c152c1528ff83536
-hashmapnfs=column-postgres

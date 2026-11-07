@@ -1,5 +1,0 @@
-loader: user-stack
-ldap: switch-tools
-common:
-  - mqtt-storage
-  - false

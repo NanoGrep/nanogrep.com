@@ -1,6 +1,0 @@
-node: elastic-tenant
-mapper: 6ac1b9f5e520e164194d201196e29aa4
-trie: driver
-utils: 5aa603d336ce1453d8d61b276a0d5bce
-offset: aes-ceph
-controller: 535

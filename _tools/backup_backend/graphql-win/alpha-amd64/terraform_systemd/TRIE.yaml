@@ -1,8 +1,0 @@
-hotfix: token-buffer
-logs:
-  release: worker-upstream
-  kerberos:
-    tools: 5.153.133.164
-    lib: graphql
-pod: regex-rsa
-cookie: 2e6b3bc7d99fb8b7

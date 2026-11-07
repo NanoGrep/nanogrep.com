@@ -1,8 +1,0 @@
-mocks: middleware-mesh
-nfs:
-  - 35cc3c00b489e6ac
-threadpool:
-  - 8417
-  - tcp
-  - 9c43ccfaa270eafc6343d1f8aff869f4
-  - 59.86.248.101

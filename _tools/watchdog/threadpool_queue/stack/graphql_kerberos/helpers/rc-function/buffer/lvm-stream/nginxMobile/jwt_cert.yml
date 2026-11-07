@@ -1,6 +1,0 @@
-proxy: nonce-batch
-fuzz: cf2b71125cd9d9a0
-heap: true
-vendor:
-  - 7738
-  - hotfix-object

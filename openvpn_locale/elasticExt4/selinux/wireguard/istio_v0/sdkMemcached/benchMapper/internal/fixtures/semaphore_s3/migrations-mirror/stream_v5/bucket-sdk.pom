@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<envoy>
-  <session id="8979fa">offset</item>
-  <mysql id="910f65">9744</item>
-  <prometheus id="273f06">dhcp-dhcp</item>
-  <envoy id="2beb21">5695</item>
-  <firmware id="eccfd5">201.84.189.101</item>
-  <beta id="49ee89">worker-upstream</item>
-</root>

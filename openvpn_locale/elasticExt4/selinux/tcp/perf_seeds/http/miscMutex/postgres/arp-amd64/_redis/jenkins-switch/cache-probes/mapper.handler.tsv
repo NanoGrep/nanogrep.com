@@ -1,8 +1,0 @@
-audit,json,gateway,beta,sandbox,grpc,session
-e1a804d8bce62473ebce418bd6177e47,common,rollback,6ee28e7b,184.136.35.30,role,migrations
-storage,kerberos,a73f099e6c13f8ee,14.243.7.183,rsa,ingress,locale
-assets,c02705a0f438280f76c9aee1c5c2471c,controller,regex,fe5375e869b3db5f,lib-migrations,274f3306
-ldap,sdk,4603,195.196.91.115,a0112d14,5362,173.91.151.13
-78.33.98.61,61.224.179.247,6486,locale,probe,false,null
-object,false,backend,89.98.97.172,81.136.172.104,payload-ldap,51.119.161.182
-gateway,null,btree-compiler,30.113.17.115,8c4d520d,kernel-proxy,canary-topic

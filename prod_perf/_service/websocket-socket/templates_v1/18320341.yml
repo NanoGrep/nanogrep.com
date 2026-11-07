@@ -1,7 +1,0 @@
-terraform:
-  router: cd216fb98cc90442c2ec0c68dc6307fb
-  edge:
-    - driver
-  topic: terraform
-lexer:
-  staging: null

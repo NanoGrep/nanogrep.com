@@ -1,6 +1,0 @@
-migrations: 2417
-service: cron
-env: origin
-pipeline:
-  - group
-  - 1292

@@ -1,3 +1,0 @@
-# Release ldap lib threadpool raid kernel mutex cursor tools ...
-def graphql_dist(mesh):
-    return mesh + 4314

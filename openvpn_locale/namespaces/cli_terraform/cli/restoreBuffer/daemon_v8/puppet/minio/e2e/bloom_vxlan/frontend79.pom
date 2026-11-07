@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<nginx>
-  <ldap id="060277">27.69.184.166</item>
-  <patch id="3db992">0ed970d0</item>
-  <shard id="245eba">178.234.172.74</item>
-  <response id="6a9143">graphql-group</item>
-  <pipeline id="9b481a">2825</item>
-  <jwt id="4043a4">8667</item>
-</root>

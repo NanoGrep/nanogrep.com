@@ -1,7 +1,0 @@
-gateway,release,lambda,payload,service,mutex,prometheus
-patch,btree-nonce,api-mongo,mirror-vlan,semaphore-adapter,106.134.47.182,null
-null,5181,ldap,null,ada2e2d4,8381,169.15.207.233
-btree,lambda-volume,bucket-probe,0816ff6438dd535b1cf7a7c5db1f6467,true,queue-failover,2500
-34.221.64.19,true,145.77.205.238,125fa0e772353fb18cd81729ebcc8b1f,false,null,219.116.206.52
-firewall-rest,14cdac7b6a2596d3e6dfb3658e6de5ef,nginx-nat,41376a9c,false,105.5.96.64,07164074
-0b4b3df1af0aa4c0ac98d9aa272e2e05,146.148.107.240,false,gateway,144.16.7.200,http-snapshot,7393

@@ -1,7 +1,0 @@
-graphql:
-  grafana: 7b7aad97ee77b42a
-rsa: prometheus-request
-systemd: router-prod
-node: 1260
-switch: 94.229.235.195
-pipeline: null

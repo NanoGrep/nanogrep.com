@@ -1,9 +1,0 @@
-upstream: 241.126.75.200
-env: 223.77.115.137
-scheduler:
-  - c1b8c786fbbfd2eccd61dede6ca17702
-  - false
-  - wireguard-stream
-firewall:
-  - adapter-assets
-  - false

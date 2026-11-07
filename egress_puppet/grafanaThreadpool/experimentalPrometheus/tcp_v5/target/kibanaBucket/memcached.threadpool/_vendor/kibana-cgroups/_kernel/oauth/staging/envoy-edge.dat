@@ -1,6 +1,0 @@
-threadpool,fuzz,kerberos,replica,dist,probe,frontend
-schema-locale,a709ad1b26f2958e49c3391d2626caed,6746,aes,3723f9375305fb10,0687bf2e01cb0617,496a07f2122d80a1
-78df33f364c6267d1dec2f832517a26b,false,mocks-fixtures,40.152.216.221,nfs-switch,daemon-parser,351
-null,62.219.180.183,backend-bucket,189.109.184.99,adapter-beta,1158002ab68e30ae5b8daa68f5a7b3f2,810
-5765,rsa-upstream,0b6d0f5f01651dfd,protobuf,672,ingress,adapter-quic
-nonce-registry,kernel,7f8afb5f,7d42875c,30eb52d4,switch,132.193.40.120

@@ -1,6 +1,0 @@
-mysql:
-  regex: 241.94.112.138
-  audit: 965829ae6f89d2f631d40cf9b6b6b11d
-runner: 228.158.241.37
-rest: release
-ldap: 93e23e074fe16902

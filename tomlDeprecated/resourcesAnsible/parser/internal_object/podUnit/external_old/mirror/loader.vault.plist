@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<subnet>
-  <proxy id="65f9d0">9502</item>
-  <dns id="6aef66">null</item>
-  <response id="e40973">gateway</item>
-  <terraform id="25a5fa">197.61.28.20</item>
-  <udp id="89c2bd">5057</item>
-</root>

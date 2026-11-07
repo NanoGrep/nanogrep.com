@@ -1,7 +1,0 @@
-{
-    "trie": true,
-    "mysql": false,
-    "limit": false,
-    "vendor": true,
-    "staging": 3004
-}

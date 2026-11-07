@@ -1,7 +1,0 @@
-cache: 2170c862e9014caa5bf337c462a91e8c
-assets: mysql
-queue:
-  - 51.105.239.160
-  - 171.11.118.248
-backend: driver-quic
-loader: 222

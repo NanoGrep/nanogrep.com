@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<vault>
-  <cert id="f1ab46">firmware-sdk</item>
-  <nat id="db4b21">1203</item>
-  <queue id="1ab09f">567d0ff9dba2e4fb</item>
-  <tcp id="fa4a08">cli-queue</item>
-  <user id="2f63ff">assets</item>
-  <backend id="d18279">true</item>
-</root>

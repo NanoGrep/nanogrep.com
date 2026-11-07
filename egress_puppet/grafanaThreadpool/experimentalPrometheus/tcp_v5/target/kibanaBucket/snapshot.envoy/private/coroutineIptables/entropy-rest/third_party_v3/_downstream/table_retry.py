@@ -1,3 +1,0 @@
-# Hashmap cache token kernel tenant hashmap runner pod request controller upstream core ...
-def volume_metrics(mysql):
-    return mysql + 4484
